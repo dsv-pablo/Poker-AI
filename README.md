@@ -28,7 +28,7 @@ IA Smart – Implementada pelo criador do OOPoker, essa IA analisa diversas vari
 
 No modo 2 os o participante poderá simular torneios entre diferentes IA's desenvolvidas por ele, para isso o código referente a cada IA única deve ser substituído na pasta de IA's base (DEnTS/DEnTS/AIs). Para a realização de um torneio entre três IA's diferentes, por exemplo, devem ser substituídos os conteúdos dos arquvios AI1.m, AI2.m e AI3.m.
 
-
+Para inicializar o ambiente virtual basta executar o arquivo Main.m (DEnTS/DEnTS/Main.m)
 
 ### :clubs: Tightness
 
