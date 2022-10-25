@@ -1,5 +1,5 @@
 # Poker-AI :trophy:
-Este repositório tem por objetivo dar instruções sobre o funcionamento da competição de inteligência artificial (IA) izada pelo Núcleo Interdisciplinar de Análise de Sinais (NIAS), a competição é de cunho educativo e visa complementar o método de ensino da disciplina de inteligência computacioanl.
+Este repositório tem por objetivo dar instruções sobre o funcionamento da competição de inteligência artificial (IA) organizada pelo Núcleo Interdisciplinar de Análise de Sinais (NIAS), a competição é de cunho educativo e visa complementar o método de ensino da disciplina de inteligência computacioanl.
 
 ### :clubs: Estrutura da Competição
 
