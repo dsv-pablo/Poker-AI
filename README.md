@@ -1,17 +1,15 @@
-# Poker-AI :trophy: :clubs:
+# Poker-AI :trophy:
 Este repositório tem por objetivo dar instruções sobre o funcionamento da competição de inteligência artificial (IA) izada pelo Núcleo Interdisciplinar de Análise de Sinais (NIAS), a competição é de cunho educativo e visa complementar o método de ensino da disciplina de inteligência computacioanl.
 
-## Introdução
-
-### Estrutura da Competição
+### :clubs: Estrutura da Competição
 
 A competição é baseada na contrução de IA's capazes de jogar torneios de poker em uma mesa virtual. Cadastro de participantes e envio de arquivos será utilizada a Pataforma NIAS-IA -> (). Para auxilío na construção das IA's e também para a simulação dos torneios será utilizado o ambiente virtual DEnTS, nele os participantes poderão , por meio dos logs gerados nas simulações, gerar bancos de dados para treinamento de suas respectivas IA's.
 
-### Desenvolvendo Sua IA
+### :clubs: Desenvolvendo Sua IA
 
 Para desenvolver sua própria IA o participante deverá utilizar como base a inteligência artifical contida nesse repositório (base.m), nela estão presentes todos os parâmetros de entrada necessários. Ela está configurada para dar fold independente de quais cartas receber e de qual é a situação da mesa.
 
-### Ambiente Virtual - DEnTS
+### :clubs: Ambiente Virtual - DEnTS
 
 O ambiente virtual utilizado tanto para auxílio no desenvolvimento das IA's quanto para realização dos torneios será o DEnTS, ele está disponível neste repositório na pasta DEnTS. Ele possui três modos de funcionamento:
 
@@ -32,7 +30,7 @@ No modo 2 os o participante poderá simular torneios entre diferentes IA's desen
 
 
 
-### Tightness
+### :clubs: Tightness
 
 Tightness é um parâmetro da IA Smart implementada pelo criador da mesa que pode assumir valores de 0 a 0,99 e representa o quão conservadora essa IA será, sendo 0 uma IA completamente agressiva e 0,99 uma IA muito conservadora. Seu valor padrão é 0,8 (considerado o melhor resultado pelo criador da IA). Dentro do DEnTS, esse valor pode ser entre 0,65 e 0,99 e deve ser determinado antes da simulação pelo usuário para cada IA Smart presente na mesa.
 
