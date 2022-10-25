@@ -13,9 +13,9 @@ Para desenvolver sua própria IA o participante deverá utilizar como base a int
 
 O ambiente virtual utilizado tanto para auxílio no desenvolvimento das IA's quanto para realização dos torneios será o DEnTS, ele está disponível neste repositório na pasta DEnTS. Ele possui três modos de funcionamento:
 
-1- Teste IA : 1 IA do usuário vs até 9 IAs pré-estabelecidas;
-2- Batalha IA: Batalha entre até 10 diferentes IAs do usuário;
-3- Humano: Jogador humano vs até 9 IAs.
+- 1- Teste IA : 1 IA do usuário vs até 9 IAs pré-estabelecidas;
+- 2- Batalha IA: Batalha entre até 10 diferentes IAs do usuário;
+- 3- Humano: Jogador humano vs até 9 IAs.
 
 Para utilização dos modos 1 os participantes deverão substituir o conteúdo do arquivo AI1.m (DEnTS/EnTS/AIs) pelo código referente à sua inteligência artificial ANTES da inicialização da mesa. No modo 1 as IA's pré-estabelecidas possuem as seguintes características:
 
