@@ -1,0 +1,188 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Godoef: AIMyBot1
+Tukuvet: Random
+
+Joins: Godoef, chips: 1000
+Joins: Tukuvet, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tukuvet
+Small Blind: Tukuvet, chips: 100
+Big Blind: Godoef, chips: 200
+Raises: Tukuvet, chips: 300
+Folds: Godoef
+Pot size: 700
+Wins: Tukuvet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godoef
+Small Blind: Godoef, chips: 100
+Big Blind: Tukuvet, chips: 200
+Folds: Godoef
+Pot size: 300
+Wins: Tukuvet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tukuvet
+Small Blind: Tukuvet, chips: 100
+Big Blind: Godoef, chips: 200
+Raises: Tukuvet, chips: 300
+Folds: Godoef
+Pot size: 700
+Wins: Tukuvet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godoef
+Small Blind: Godoef, chips: 100
+Big Blind: Tukuvet, chips: 200
+Folds: Godoef
+Pot size: 300
+Wins: Tukuvet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tukuvet
+Small Blind: Tukuvet, chips: 100
+Big Blind: Godoef, chips: 200
+Calls: Tukuvet
+DEBUG MESSAGE: INVALID ACTION FROM Godoef (2 0)
+Folds: Godoef
+Pot size: 400
+Boasts: Tukuvet, 6s 7s
+Wins: Tukuvet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godoef
+Small Blind: Godoef, chips: 100
+Big Blind: Tukuvet, chips: 200
+Folds: Godoef
+Pot size: 300
+Wins: Tukuvet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tukuvet
+Small Blind: Tukuvet, chips: 100
+Big Blind: Godoef, chips: 100
+Flop: Ts 3c 2c
+Turn: Ad
+River: Th
+Pot size: 200
+Showdown Reached
+Shows: Godoef, 4h Ah
+Combination: Godoef, Two Pair ( Ah Ad Ts Th 4h )
+Shows: Tukuvet, 5d Tc
+Combination: Tukuvet, Three Of A Kind ( Tc Ts Th Ad 5d )
+Wins: Tukuvet, chips: 200
+Quits: Godoef, chips: 0
+Ranking: Tukuvet, Place: 1, Score: 1000
+Reveal AI: Tukuvet, AI: Random
+Ranking: Godoef, Place: 2, Score: -1000
+Reveal AI: Godoef, AI: AIMyBot1
+
+Player Stats for Godoef, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Tukuvet, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:01
+
+The game begins. The AI's of the players are: 
+Godoef: AIMyBot1
+Tukuvet: Random
+
+Joins: Godoef, chips: 1000
+Joins: Tukuvet, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tukuvet
+Small Blind: Tukuvet, chips: 100
+Big Blind: Godoef, chips: 200
+Raises: Tukuvet, chips: 300
+Folds: Godoef
+Pot size: 700
+Wins: Tukuvet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godoef
+Small Blind: Godoef, chips: 100
+Big Blind: Tukuvet, chips: 200
+Folds: Godoef
+Pot size: 300
+Wins: Tukuvet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tukuvet
+Small Blind: Tukuvet, chips: 100
+Big Blind: Godoef, chips: 200
+Raises: Tukuvet, chips: 300
+Folds: Godoef
+Pot size: 700
+Wins: Tukuvet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godoef
+Small Blind: Godoef, chips: 100
+Big Blind: Tukuvet, chips: 200
+Folds: Godoef
+Pot size: 300
+Wins: Tukuvet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tukuvet
+Small Blind: Tukuvet, chips: 100
+Big Blind: Godoef, chips: 200
+Calls: Tukuvet
+DEBUG MESSAGE: INVALID ACTION FROM Godoef (2 0)
+Folds: Godoef
+Pot size: 400
+Boasts: Tukuvet, 6s 7s
+Wins: Tukuvet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godoef
+Small Blind: Godoef, chips: 100
+Big Blind: Tukuvet, chips: 200
+Folds: Godoef
+Pot size: 300
+Wins: Tukuvet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tukuvet
+Small Blind: Tukuvet, chips: 100
+Big Blind: Godoef, chips: 100
+Flop: Ts 3c 2c
+Turn: Ad
+River: Th
+Pot size: 200
+Showdown Reached
+Shows: Godoef, 4h Ah
+Combination: Godoef, Two Pair ( Ah Ad Ts Th 4h )
+Shows: Tukuvet, 5d Tc
+Combination: Tukuvet, Three Of A Kind ( Tc Ts Th Ad 5d )
+Wins: Tukuvet, chips: 200
+Quits: Godoef, chips: 0
+Ranking: Tukuvet, Place: 1, Score: 1000
+Reveal AI: Tukuvet, AI: Random
+Ranking: Godoef, Place: 2, Score: -1000
+Reveal AI: Godoef, AI: AIMyBot1
+
+Player Stats for Godoef, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Tukuvet, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

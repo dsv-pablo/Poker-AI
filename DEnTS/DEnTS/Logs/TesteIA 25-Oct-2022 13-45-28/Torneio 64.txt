@@ -1,0 +1,360 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Darov: AIMyBot1
+Tuwim: Random
+
+Joins: Darov, chips: 1000
+Joins: Tuwim, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 200
+Raises: Tuwim, chips: 300
+Folds: Darov
+Pot size: 700
+Wins: Tuwim, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darov
+Small Blind: Darov, chips: 100
+Big Blind: Tuwim, chips: 200
+Folds: Darov
+Pot size: 300
+Wins: Tuwim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 200
+Calls: Tuwim
+DEBUG MESSAGE: INVALID ACTION FROM Darov (2 0)
+Folds: Darov
+Pot size: 400
+Wins: Tuwim, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darov
+Small Blind: Darov, chips: 100
+Big Blind: Tuwim, chips: 200
+Folds: Darov
+Pot size: 300
+Wins: Tuwim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 200
+Raises: Tuwim, chips: 300
+Calls: Darov
+Flop: Ad 5s 8d
+Turn: 7s
+River: Ah
+Pot size: 900
+Showdown Reached
+Shows: Darov, 5d 8s
+Combination: Darov, Two Pair ( Ad Ah 8s 8d 7s )
+Shows: Tuwim, Th 6h
+Combination: Tuwim, Pair ( Ad Ah Th 8d 7s )
+Wins: Darov, chips: 800
+Wins: Tuwim, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darov
+Small Blind: Darov, chips: 100
+Big Blind: Tuwim, chips: 200
+Folds: Darov
+Pot size: 300
+Wins: Tuwim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 200
+Calls: Tuwim
+DEBUG MESSAGE: INVALID ACTION FROM Darov (2 0)
+Folds: Darov
+Pot size: 400
+Boasts: Tuwim, 4c Qd
+Wins: Tuwim, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darov
+Small Blind: Darov, chips: 100
+Big Blind: Tuwim, chips: 200
+Folds: Darov
+Pot size: 300
+Wins: Tuwim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 200
+Folds: Tuwim
+Pot size: 300
+Wins: Darov, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darov
+Small Blind: Darov, chips: 100
+Big Blind: Tuwim, chips: 200
+Folds: Darov
+Pot size: 300
+Wins: Tuwim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 200
+Folds: Tuwim
+Pot size: 300
+Wins: Darov, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darov
+Small Blind: Darov, chips: 100
+Big Blind: Tuwim, chips: 200
+Folds: Darov
+Pot size: 300
+Boasts: Tuwim, 8d 7s
+Wins: Tuwim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 200
+Folds: Tuwim
+Pot size: 300
+Boasts: Tuwim, 5s As
+Wins: Darov, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darov
+Small Blind: Darov, chips: 100
+Big Blind: Tuwim, chips: 200
+Folds: Darov
+Pot size: 300
+Wins: Tuwim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 200
+Raises: Tuwim, chips: 300
+Folds: Darov
+Pot size: 700
+Boasts: Tuwim, 2c 8d
+Wins: Tuwim, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darov
+Small Blind: Darov, chips: 100
+Big Blind: Tuwim, chips: 200
+Folds: Darov
+Pot size: 300
+Boasts: Tuwim, 4c 2d
+Wins: Tuwim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 100
+Flop: 2d 8h 4c
+Turn: Qs
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Darov, 6c Th
+Combination: Darov, High Card ( Qs Th 8h 6c 5d )
+Shows: Tuwim, Jh 7h
+Combination: Tuwim, High Card ( Qs Jh 8h 7h 5d )
+Wins: Tuwim, chips: 200
+Quits: Darov, chips: 0
+Ranking: Tuwim, Place: 1, Score: 1000
+Reveal AI: Tuwim, AI: Random
+Ranking: Darov, Place: 2, Score: -1000
+Reveal AI: Darov, AI: AIMyBot1
+
+Player Stats for Darov, AI: AIMyBot1
+General: deals: 17, actions: 13, preflop actions: 13
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 4, showdown: 1, bluff: 3
+Chips: won: 1700, lost: 2800, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.0588235, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Tuwim, AI: Random
+General: deals: 17, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 14, showdown: 2, bluff: 12
+Chips: won: 4900, lost: 3900, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.294118, PFR: 0.176471, 3Bet: 0.176471
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:34
+
+The game begins. The AI's of the players are: 
+Darov: AIMyBot1
+Tuwim: Random
+
+Joins: Darov, chips: 1000
+Joins: Tuwim, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 200
+Raises: Tuwim, chips: 300
+Folds: Darov
+Pot size: 700
+Wins: Tuwim, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darov
+Small Blind: Darov, chips: 100
+Big Blind: Tuwim, chips: 200
+Folds: Darov
+Pot size: 300
+Wins: Tuwim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 200
+Calls: Tuwim
+DEBUG MESSAGE: INVALID ACTION FROM Darov (2 0)
+Folds: Darov
+Pot size: 400
+Wins: Tuwim, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darov
+Small Blind: Darov, chips: 100
+Big Blind: Tuwim, chips: 200
+Folds: Darov
+Pot size: 300
+Wins: Tuwim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 200
+Raises: Tuwim, chips: 300
+Calls: Darov
+Flop: Ad 5s 8d
+Turn: 7s
+River: Ah
+Pot size: 900
+Showdown Reached
+Shows: Darov, 5d 8s
+Combination: Darov, Two Pair ( Ad Ah 8s 8d 7s )
+Shows: Tuwim, Th 6h
+Combination: Tuwim, Pair ( Ad Ah Th 8d 7s )
+Wins: Darov, chips: 800
+Wins: Tuwim, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darov
+Small Blind: Darov, chips: 100
+Big Blind: Tuwim, chips: 200
+Folds: Darov
+Pot size: 300
+Wins: Tuwim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 200
+Calls: Tuwim
+DEBUG MESSAGE: INVALID ACTION FROM Darov (2 0)
+Folds: Darov
+Pot size: 400
+Boasts: Tuwim, 4c Qd
+Wins: Tuwim, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darov
+Small Blind: Darov, chips: 100
+Big Blind: Tuwim, chips: 200
+Folds: Darov
+Pot size: 300
+Wins: Tuwim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 200
+Folds: Tuwim
+Pot size: 300
+Wins: Darov, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darov
+Small Blind: Darov, chips: 100
+Big Blind: Tuwim, chips: 200
+Folds: Darov
+Pot size: 300
+Wins: Tuwim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 200
+Folds: Tuwim
+Pot size: 300
+Wins: Darov, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darov
+Small Blind: Darov, chips: 100
+Big Blind: Tuwim, chips: 200
+Folds: Darov
+Pot size: 300
+Boasts: Tuwim, 8d 7s
+Wins: Tuwim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 200
+Folds: Tuwim
+Pot size: 300
+Boasts: Tuwim, 5s As
+Wins: Darov, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darov
+Small Blind: Darov, chips: 100
+Big Blind: Tuwim, chips: 200
+Folds: Darov
+Pot size: 300
+Wins: Tuwim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 200
+Raises: Tuwim, chips: 300
+Folds: Darov
+Pot size: 700
+Boasts: Tuwim, 2c 8d
+Wins: Tuwim, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darov
+Small Blind: Darov, chips: 100
+Big Blind: Tuwim, chips: 200
+Folds: Darov
+Pot size: 300
+Boasts: Tuwim, 4c 2d
+Wins: Tuwim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwim
+Small Blind: Tuwim, chips: 100
+Big Blind: Darov, chips: 100
+Flop: 2d 8h 4c
+Turn: Qs
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Darov, 6c Th
+Combination: Darov, High Card ( Qs Th 8h 6c 5d )
+Shows: Tuwim, Jh 7h
+Combination: Tuwim, High Card ( Qs Jh 8h 7h 5d )
+Wins: Tuwim, chips: 200
+Quits: Darov, chips: 0
+Ranking: Tuwim, Place: 1, Score: 1000
+Reveal AI: Tuwim, AI: Random
+Ranking: Darov, Place: 2, Score: -1000
+Reveal AI: Darov, AI: AIMyBot1
+
+Player Stats for Darov, AI: AIMyBot1
+General: deals: 17, actions: 13, preflop actions: 13
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 4, showdown: 1, bluff: 3
+Chips: won: 1700, lost: 2800, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.0588235, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Tuwim, AI: Random
+General: deals: 17, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 14, showdown: 2, bluff: 12
+Chips: won: 4900, lost: 3900, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.294118, PFR: 0.176471, 3Bet: 0.176471
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

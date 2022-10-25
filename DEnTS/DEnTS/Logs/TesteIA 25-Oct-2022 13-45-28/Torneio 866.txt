@@ -1,0 +1,406 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Rikek: Random
+Di: AIMyBot1
+
+Joins: Rikek, chips: 1000
+Joins: Di, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 200
+Calls: Rikek
+DEBUG MESSAGE: INVALID ACTION FROM Di (2 0)
+Folds: Di
+Pot size: 400
+Wins: Rikek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Boasts: Rikek, Ad Tc
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 200
+Folds: Rikek
+Pot size: 300
+Wins: Di, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 200
+Folds: Rikek
+Pot size: 300
+Wins: Di, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 200
+Folds: Rikek
+Pot size: 300
+Wins: Di, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 200
+Raises: Rikek, chips: 300
+Folds: Di
+Pot size: 700
+Wins: Rikek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Boasts: Rikek, Js 3h
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 200
+Raises: Rikek, chips: 300
+Calls: Di
+Flop: Ks 4s Ac
+Turn: 2c
+River: Qh
+Pot size: 900
+Showdown Reached
+Shows: Rikek, 4d 9s
+Combination: Rikek, Pair ( 4d 4s Ac Ks Qh )
+Shows: Di, Kc Jh
+Combination: Di, Pair ( Kc Ks Ac Qh Jh )
+Wins: Rikek, chips: 100
+Wins: Di, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Boasts: Rikek, Qh 3h
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 200
+Calls: Rikek
+DEBUG MESSAGE: INVALID ACTION FROM Di (2 0)
+Folds: Di
+Pot size: 400
+Boasts: Rikek, 7s 8c
+Wins: Rikek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 200
+Calls: Rikek
+DEBUG MESSAGE: INVALID ACTION FROM Di (2 0)
+Folds: Di
+Pot size: 400
+Boasts: Rikek, 4d Kd
+Wins: Rikek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Boasts: Rikek, Js 6d
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 100
+Flop: 4s Th As
+Turn: Kc
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Rikek, 6c 5s
+Combination: Rikek, Pair ( As Ad Kc Th 6c )
+Shows: Di, Qc Ts
+Combination: Di, Two Pair ( As Ad Ts Th Kc )
+Wins: Di, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 100
+Flop: 8c 4d Jd
+Turn: Ah
+River: 6s
+Pot size: 200
+Showdown Reached
+Shows: Rikek, Jh 3s
+Combination: Rikek, Pair ( Jh Jd Ah 8c 6s )
+Shows: Di, 5h 2h
+Combination: Di, High Card ( Ah Jd 8c 6s 5h )
+Wins: Rikek, chips: 200
+Quits: Di, chips: 0
+Ranking: Rikek, Place: 1, Score: 1000
+Reveal AI: Rikek, AI: Random
+Ranking: Di, Place: 2, Score: -1000
+Reveal AI: Di, AI: AIMyBot1
+
+Player Stats for Di, AI: AIMyBot1
+General: deals: 19, actions: 14, preflop actions: 14
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1900, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.0526316, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Rikek, AI: Random
+General: deals: 19, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 15, showdown: 2, bluff: 13
+Chips: won: 4900, lost: 3900, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.263158, PFR: 0.105263, 3Bet: 0.105263
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:26
+
+The game begins. The AI's of the players are: 
+Rikek: Random
+Di: AIMyBot1
+
+Joins: Rikek, chips: 1000
+Joins: Di, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 200
+Calls: Rikek
+DEBUG MESSAGE: INVALID ACTION FROM Di (2 0)
+Folds: Di
+Pot size: 400
+Wins: Rikek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Boasts: Rikek, Ad Tc
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 200
+Folds: Rikek
+Pot size: 300
+Wins: Di, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 200
+Folds: Rikek
+Pot size: 300
+Wins: Di, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 200
+Folds: Rikek
+Pot size: 300
+Wins: Di, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 200
+Raises: Rikek, chips: 300
+Folds: Di
+Pot size: 700
+Wins: Rikek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Boasts: Rikek, Js 3h
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 200
+Raises: Rikek, chips: 300
+Calls: Di
+Flop: Ks 4s Ac
+Turn: 2c
+River: Qh
+Pot size: 900
+Showdown Reached
+Shows: Rikek, 4d 9s
+Combination: Rikek, Pair ( 4d 4s Ac Ks Qh )
+Shows: Di, Kc Jh
+Combination: Di, Pair ( Kc Ks Ac Qh Jh )
+Wins: Rikek, chips: 100
+Wins: Di, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Boasts: Rikek, Qh 3h
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 200
+Calls: Rikek
+DEBUG MESSAGE: INVALID ACTION FROM Di (2 0)
+Folds: Di
+Pot size: 400
+Boasts: Rikek, 7s 8c
+Wins: Rikek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 200
+Calls: Rikek
+DEBUG MESSAGE: INVALID ACTION FROM Di (2 0)
+Folds: Di
+Pot size: 400
+Boasts: Rikek, 4d Kd
+Wins: Rikek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Boasts: Rikek, Js 6d
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 100
+Flop: 4s Th As
+Turn: Kc
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Rikek, 6c 5s
+Combination: Rikek, Pair ( As Ad Kc Th 6c )
+Shows: Di, Qc Ts
+Combination: Di, Two Pair ( As Ad Ts Th Kc )
+Wins: Di, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Rikek, chips: 200
+Folds: Di
+Pot size: 300
+Wins: Rikek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rikek
+Small Blind: Rikek, chips: 100
+Big Blind: Di, chips: 100
+Flop: 8c 4d Jd
+Turn: Ah
+River: 6s
+Pot size: 200
+Showdown Reached
+Shows: Rikek, Jh 3s
+Combination: Rikek, Pair ( Jh Jd Ah 8c 6s )
+Shows: Di, 5h 2h
+Combination: Di, High Card ( Ah Jd 8c 6s 5h )
+Wins: Rikek, chips: 200
+Quits: Di, chips: 0
+Ranking: Rikek, Place: 1, Score: 1000
+Reveal AI: Rikek, AI: Random
+Ranking: Di, Place: 2, Score: -1000
+Reveal AI: Di, AI: AIMyBot1
+
+Player Stats for Di, AI: AIMyBot1
+General: deals: 19, actions: 14, preflop actions: 14
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1900, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.0526316, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Rikek, AI: Random
+General: deals: 19, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 15, showdown: 2, bluff: 13
+Chips: won: 4900, lost: 3900, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.263158, PFR: 0.105263, 3Bet: 0.105263
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

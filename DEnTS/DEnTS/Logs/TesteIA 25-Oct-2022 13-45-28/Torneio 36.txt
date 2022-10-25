@@ -1,0 +1,628 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Ro: Random
+Voesechoe: AIMyBot1
+
+Joins: Ro, chips: 1000
+Joins: Voesechoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Boasts: Ro, As Ad
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Raises: Ro, chips: 300
+Folds: Voesechoe
+Pot size: 700
+Boasts: Ro, 7s 3s
+Wins: Ro, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Boasts: Ro, 6s 4s
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Calls: Ro
+DEBUG MESSAGE: INVALID ACTION FROM Voesechoe (2 0)
+Folds: Voesechoe
+Pot size: 400
+Wins: Ro, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Boasts: Ro, 3d Qc
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Raises: Ro, chips: 300
+Folds: Voesechoe
+Pot size: 700
+Wins: Ro, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Flop: 7d 4d 6s
+Turn: 8h
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Ro, As 3c
+Combination: Ro, High Card ( As Jc 8h 7d 6s )
+Shows: Voesechoe, 8d 7h
+Combination: Voesechoe, Two Pair ( 8d 8h 7h 7d Jc )
+Wins: Ro, chips: 100
+Wins: Voesechoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: Qh 7s 2c
+Turn: 4s
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Ro, 6d Jh
+Combination: Ro, High Card ( Qh Jh 7s 6d 4s )
+Shows: Voesechoe, Td Qs
+Combination: Voesechoe, Pair ( Qs Qh Td 7s 4s )
+Wins: Voesechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Boasts: Ro, Kc 3h
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: 9d 5d 4d
+Turn: Js
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Ro, 3d 6c
+Combination: Ro, Pair ( 9d 9h Js 6c 5d )
+Shows: Voesechoe, Jc 7s
+Combination: Voesechoe, Two Pair ( Jc Js 9d 9h 7s )
+Wins: Voesechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: 6c 5d 7s
+Turn: Ts
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Ro, Qs Ac
+Combination: Ro, Pair ( Ac Ad Qs Ts 7s )
+Shows: Voesechoe, 4c Ah
+Combination: Voesechoe, Pair ( Ah Ad Ts 7s 6c )
+Wins: Ro, chips: 200
+Wins: Voesechoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Flop: 2h Jh 5d
+Turn: Qs
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Ro, 5c 3c
+Combination: Ro, Two Pair ( Qs Qh 5c 5d Jh )
+Shows: Voesechoe, Qd 2c
+Combination: Voesechoe, Full House ( Qd Qs Qh 2c 2h )
+Wins: Ro, chips: 100
+Wins: Voesechoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: 2s 9s 7c
+Turn: 4d
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Ro, 5h Qh
+Combination: Ro, High Card ( Qh 9s 7c 6s 5h )
+Shows: Voesechoe, 9h 4h
+Combination: Voesechoe, Two Pair ( 9h 9s 4h 4d 7c )
+Wins: Voesechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: 6s 7c Js
+Turn: 2h
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Ro, Th 5h
+Combination: Ro, High Card ( Js Th 9h 7c 6s )
+Shows: Voesechoe, 6h Kc
+Combination: Voesechoe, Pair ( 6h 6s Kc Js 9h )
+Wins: Voesechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: Th 2h Qd
+Turn: 2s
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Ro, Qh 6c
+Combination: Ro, Two Pair ( Qh Qd Th Td 6c )
+Shows: Voesechoe, Ad 3h
+Combination: Voesechoe, Two Pair ( Th Td 2h 2s Ad )
+Wins: Ro, chips: 200
+Wins: Voesechoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Flop: 3c 4s 4h
+Turn: Kh
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Ro, As 2s
+Combination: Ro, Pair ( 4s 4h As Kh 7c )
+Shows: Voesechoe, Td 7s
+Combination: Voesechoe, Two Pair ( 7s 7c 4s 4h Kh )
+Wins: Ro, chips: 100
+Wins: Voesechoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: 4d 3s 2c
+Turn: 9h
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Ro, 3c 5c
+Combination: Ro, Pair ( 3c 3s 9h 8h 5c )
+Shows: Voesechoe, Kh 4h
+Combination: Voesechoe, Pair ( 4h 4d Kh 9h 8h )
+Wins: Voesechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: 8h 9c 6s
+Turn: Ad
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Ro, 2h 7h
+Combination: Ro, Pair ( 6s 6d Ad 9c 8h )
+Shows: Voesechoe, 8d Ac
+Combination: Voesechoe, Two Pair ( Ac Ad 8d 8h 9c )
+Wins: Voesechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: 3d Td 3c
+Turn: 4c
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Ro, 2h 3h
+Combination: Ro, Three Of A Kind ( 3h 3d 3c Td 5c )
+Shows: Voesechoe, 9h Ts
+Combination: Voesechoe, Two Pair ( Ts Td 3d 3c 9h )
+Wins: Ro, chips: 200
+Wins: Voesechoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Flop: Td 7c 3s
+Turn: Kc
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Ro, 9c 2c
+Combination: Ro, High Card ( Kc Td 9c 7c 6h )
+Shows: Voesechoe, 8h 2h
+Combination: Voesechoe, High Card ( Kc Td 8h 7c 6h )
+Wins: Ro, chips: 300
+Quits: Voesechoe, chips: 0
+Ranking: Ro, Place: 1, Score: 1000
+Reveal AI: Ro, AI: Random
+Ranking: Voesechoe, Place: 2, Score: -1000
+Reveal AI: Voesechoe, AI: AIMyBot1
+
+Player Stats for Ro, AI: Random
+General: deals: 25, actions: 3, preflop actions: 3
+Rounds Seen: flops: 13, turns: 13, rivers: 13, showdowns: 13
+Wins: total: 19, showdown: 7, bluff: 12
+Chips: won: 5700, lost: 4700, bought: 1000, forced bets: 3800
+Pre-Flop Stats: VP$IP: 0.12, PFR: 0.08, 3Bet: 0.08
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.538462
+
+
+Player Stats for Voesechoe, AI: AIMyBot1
+General: deals: 25, actions: 12, preflop actions: 12
+Rounds Seen: flops: 13, turns: 13, rivers: 13, showdowns: 13
+Wins: total: 12, showdown: 12, bluff: 0
+Chips: won: 2700, lost: 3700, bought: 1000, forced bets: 3700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.923077
+
+
+Date: 2022/10/25 13:45:32
+
+The game begins. The AI's of the players are: 
+Ro: Random
+Voesechoe: AIMyBot1
+
+Joins: Ro, chips: 1000
+Joins: Voesechoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Boasts: Ro, As Ad
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Raises: Ro, chips: 300
+Folds: Voesechoe
+Pot size: 700
+Boasts: Ro, 7s 3s
+Wins: Ro, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Boasts: Ro, 6s 4s
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Calls: Ro
+DEBUG MESSAGE: INVALID ACTION FROM Voesechoe (2 0)
+Folds: Voesechoe
+Pot size: 400
+Wins: Ro, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Boasts: Ro, 3d Qc
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Raises: Ro, chips: 300
+Folds: Voesechoe
+Pot size: 700
+Wins: Ro, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Flop: 7d 4d 6s
+Turn: 8h
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Ro, As 3c
+Combination: Ro, High Card ( As Jc 8h 7d 6s )
+Shows: Voesechoe, 8d 7h
+Combination: Voesechoe, Two Pair ( 8d 8h 7h 7d Jc )
+Wins: Ro, chips: 100
+Wins: Voesechoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: Qh 7s 2c
+Turn: 4s
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Ro, 6d Jh
+Combination: Ro, High Card ( Qh Jh 7s 6d 4s )
+Shows: Voesechoe, Td Qs
+Combination: Voesechoe, Pair ( Qs Qh Td 7s 4s )
+Wins: Voesechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Boasts: Ro, Kc 3h
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: 9d 5d 4d
+Turn: Js
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Ro, 3d 6c
+Combination: Ro, Pair ( 9d 9h Js 6c 5d )
+Shows: Voesechoe, Jc 7s
+Combination: Voesechoe, Two Pair ( Jc Js 9d 9h 7s )
+Wins: Voesechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: 6c 5d 7s
+Turn: Ts
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Ro, Qs Ac
+Combination: Ro, Pair ( Ac Ad Qs Ts 7s )
+Shows: Voesechoe, 4c Ah
+Combination: Voesechoe, Pair ( Ah Ad Ts 7s 6c )
+Wins: Ro, chips: 200
+Wins: Voesechoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Flop: 2h Jh 5d
+Turn: Qs
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Ro, 5c 3c
+Combination: Ro, Two Pair ( Qs Qh 5c 5d Jh )
+Shows: Voesechoe, Qd 2c
+Combination: Voesechoe, Full House ( Qd Qs Qh 2c 2h )
+Wins: Ro, chips: 100
+Wins: Voesechoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: 2s 9s 7c
+Turn: 4d
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Ro, 5h Qh
+Combination: Ro, High Card ( Qh 9s 7c 6s 5h )
+Shows: Voesechoe, 9h 4h
+Combination: Voesechoe, Two Pair ( 9h 9s 4h 4d 7c )
+Wins: Voesechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: 6s 7c Js
+Turn: 2h
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Ro, Th 5h
+Combination: Ro, High Card ( Js Th 9h 7c 6s )
+Shows: Voesechoe, 6h Kc
+Combination: Voesechoe, Pair ( 6h 6s Kc Js 9h )
+Wins: Voesechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: Th 2h Qd
+Turn: 2s
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Ro, Qh 6c
+Combination: Ro, Two Pair ( Qh Qd Th Td 6c )
+Shows: Voesechoe, Ad 3h
+Combination: Voesechoe, Two Pair ( Th Td 2h 2s Ad )
+Wins: Ro, chips: 200
+Wins: Voesechoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Flop: 3c 4s 4h
+Turn: Kh
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Ro, As 2s
+Combination: Ro, Pair ( 4s 4h As Kh 7c )
+Shows: Voesechoe, Td 7s
+Combination: Voesechoe, Two Pair ( 7s 7c 4s 4h Kh )
+Wins: Ro, chips: 100
+Wins: Voesechoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: 4d 3s 2c
+Turn: 9h
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Ro, 3c 5c
+Combination: Ro, Pair ( 3c 3s 9h 8h 5c )
+Shows: Voesechoe, Kh 4h
+Combination: Voesechoe, Pair ( 4h 4d Kh 9h 8h )
+Wins: Voesechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: 8h 9c 6s
+Turn: Ad
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Ro, 2h 7h
+Combination: Ro, Pair ( 6s 6d Ad 9c 8h )
+Shows: Voesechoe, 8d Ac
+Combination: Voesechoe, Two Pair ( Ac Ad 8d 8h 9c )
+Wins: Voesechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Voesechoe
+Pot size: 300
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Voesechoe, chips: 200
+Flop: 3d Td 3c
+Turn: 4c
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Ro, 2h 3h
+Combination: Ro, Three Of A Kind ( 3h 3d 3c Td 5c )
+Shows: Voesechoe, 9h Ts
+Combination: Voesechoe, Two Pair ( Ts Td 3d 3c 9h )
+Wins: Ro, chips: 200
+Wins: Voesechoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesechoe
+Small Blind: Voesechoe, chips: 100
+Big Blind: Ro, chips: 200
+Flop: Td 7c 3s
+Turn: Kc
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Ro, 9c 2c
+Combination: Ro, High Card ( Kc Td 9c 7c 6h )
+Shows: Voesechoe, 8h 2h
+Combination: Voesechoe, High Card ( Kc Td 8h 7c 6h )
+Wins: Ro, chips: 300
+Quits: Voesechoe, chips: 0
+Ranking: Ro, Place: 1, Score: 1000
+Reveal AI: Ro, AI: Random
+Ranking: Voesechoe, Place: 2, Score: -1000
+Reveal AI: Voesechoe, AI: AIMyBot1
+
+Player Stats for Ro, AI: Random
+General: deals: 25, actions: 3, preflop actions: 3
+Rounds Seen: flops: 13, turns: 13, rivers: 13, showdowns: 13
+Wins: total: 19, showdown: 7, bluff: 12
+Chips: won: 5700, lost: 4700, bought: 1000, forced bets: 3800
+Pre-Flop Stats: VP$IP: 0.12, PFR: 0.08, 3Bet: 0.08
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.538462
+
+
+Player Stats for Voesechoe, AI: AIMyBot1
+General: deals: 25, actions: 12, preflop actions: 12
+Rounds Seen: flops: 13, turns: 13, rivers: 13, showdowns: 13
+Wins: total: 12, showdown: 12, bluff: 0
+Chips: won: 2700, lost: 3700, bought: 1000, forced bets: 3700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.923077
+
+

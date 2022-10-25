@@ -1,0 +1,222 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wehee: AIMyBot1
+Momi: Random
+
+Joins: Wehee, chips: 1000
+Joins: Momi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wehee
+Small Blind: Wehee, chips: 100
+Big Blind: Momi, chips: 200
+Folds: Wehee
+Pot size: 300
+Boasts: Momi, 9s 3c
+Wins: Momi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Momi
+Small Blind: Momi, chips: 100
+Big Blind: Wehee, chips: 200
+Calls: Momi
+DEBUG MESSAGE: INVALID ACTION FROM Wehee (2 0)
+Folds: Wehee
+Pot size: 400
+Wins: Momi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wehee
+Small Blind: Wehee, chips: 100
+Big Blind: Momi, chips: 200
+Folds: Wehee
+Pot size: 300
+Wins: Momi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Momi
+Small Blind: Momi, chips: 100
+Big Blind: Wehee, chips: 200
+Folds: Momi
+Pot size: 300
+Boasts: Momi, 4c Qh
+Wins: Wehee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wehee
+Small Blind: Wehee, chips: 100
+Big Blind: Momi, chips: 200
+Folds: Wehee
+Pot size: 300
+Wins: Momi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Momi
+Small Blind: Momi, chips: 100
+Big Blind: Wehee, chips: 200
+Raises: Momi, chips: 300
+Folds: Wehee
+Pot size: 700
+Boasts: Momi, 9c 9d
+Wins: Momi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wehee
+Small Blind: Wehee, chips: 100
+Big Blind: Momi, chips: 200
+Folds: Wehee
+Pot size: 300
+Boasts: Momi, 9d 7d
+Wins: Momi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Momi
+Small Blind: Momi, chips: 100
+Big Blind: Wehee, chips: 200
+Raises: Momi, chips: 300
+Folds: Wehee
+Pot size: 700
+Wins: Momi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wehee
+Small Blind: Wehee, chips: 100
+Big Blind: Momi, chips: 200
+Flop: 3s 9c Ac
+Turn: 6h
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Wehee, 4c 2s
+Combination: Wehee, High Card ( Ac Td 9c 6h 4c )
+Shows: Momi, 4d Qh
+Combination: Momi, High Card ( Ac Qh Td 9c 6h )
+Wins: Momi, chips: 300
+Quits: Wehee, chips: 0
+Ranking: Momi, Place: 1, Score: 1000
+Reveal AI: Momi, AI: Random
+Ranking: Wehee, Place: 2, Score: -1000
+Reveal AI: Wehee, AI: AIMyBot1
+
+Player Stats for Momi, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Wehee, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:15
+
+The game begins. The AI's of the players are: 
+Wehee: AIMyBot1
+Momi: Random
+
+Joins: Wehee, chips: 1000
+Joins: Momi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wehee
+Small Blind: Wehee, chips: 100
+Big Blind: Momi, chips: 200
+Folds: Wehee
+Pot size: 300
+Boasts: Momi, 9s 3c
+Wins: Momi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Momi
+Small Blind: Momi, chips: 100
+Big Blind: Wehee, chips: 200
+Calls: Momi
+DEBUG MESSAGE: INVALID ACTION FROM Wehee (2 0)
+Folds: Wehee
+Pot size: 400
+Wins: Momi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wehee
+Small Blind: Wehee, chips: 100
+Big Blind: Momi, chips: 200
+Folds: Wehee
+Pot size: 300
+Wins: Momi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Momi
+Small Blind: Momi, chips: 100
+Big Blind: Wehee, chips: 200
+Folds: Momi
+Pot size: 300
+Boasts: Momi, 4c Qh
+Wins: Wehee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wehee
+Small Blind: Wehee, chips: 100
+Big Blind: Momi, chips: 200
+Folds: Wehee
+Pot size: 300
+Wins: Momi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Momi
+Small Blind: Momi, chips: 100
+Big Blind: Wehee, chips: 200
+Raises: Momi, chips: 300
+Folds: Wehee
+Pot size: 700
+Boasts: Momi, 9c 9d
+Wins: Momi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wehee
+Small Blind: Wehee, chips: 100
+Big Blind: Momi, chips: 200
+Folds: Wehee
+Pot size: 300
+Boasts: Momi, 9d 7d
+Wins: Momi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Momi
+Small Blind: Momi, chips: 100
+Big Blind: Wehee, chips: 200
+Raises: Momi, chips: 300
+Folds: Wehee
+Pot size: 700
+Wins: Momi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wehee
+Small Blind: Wehee, chips: 100
+Big Blind: Momi, chips: 200
+Flop: 3s 9c Ac
+Turn: 6h
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Wehee, 4c 2s
+Combination: Wehee, High Card ( Ac Td 9c 6h 4c )
+Shows: Momi, 4d Qh
+Combination: Momi, High Card ( Ac Qh Td 9c 6h )
+Wins: Momi, chips: 300
+Quits: Wehee, chips: 0
+Ranking: Momi, Place: 1, Score: 1000
+Reveal AI: Momi, AI: Random
+Ranking: Wehee, Place: 2, Score: -1000
+Reveal AI: Wehee, AI: AIMyBot1
+
+Player Stats for Momi, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Wehee, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

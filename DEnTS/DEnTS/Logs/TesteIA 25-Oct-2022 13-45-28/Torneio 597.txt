@@ -1,0 +1,254 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Rettichep: Random
+Kofiwra: AIMyBot1
+
+Joins: Rettichep, chips: 1000
+Joins: Kofiwra, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofiwra
+Small Blind: Kofiwra, chips: 100
+Big Blind: Rettichep, chips: 200
+Folds: Kofiwra
+Pot size: 300
+Boasts: Rettichep, 3d 3c
+Wins: Rettichep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rettichep
+Small Blind: Rettichep, chips: 100
+Big Blind: Kofiwra, chips: 200
+Calls: Rettichep
+DEBUG MESSAGE: INVALID ACTION FROM Kofiwra (2 0)
+Folds: Kofiwra
+Pot size: 400
+Wins: Rettichep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofiwra
+Small Blind: Kofiwra, chips: 100
+Big Blind: Rettichep, chips: 200
+Folds: Kofiwra
+Pot size: 300
+Boasts: Rettichep, Th 3c
+Wins: Rettichep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rettichep
+Small Blind: Rettichep, chips: 100
+Big Blind: Kofiwra, chips: 200
+Raises: Rettichep, chips: 300
+Folds: Kofiwra
+Pot size: 700
+Wins: Rettichep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofiwra
+Small Blind: Kofiwra, chips: 100
+Big Blind: Rettichep, chips: 200
+Folds: Kofiwra
+Pot size: 300
+Wins: Rettichep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rettichep
+Small Blind: Rettichep, chips: 100
+Big Blind: Kofiwra, chips: 200
+Calls: Rettichep
+DEBUG MESSAGE: INVALID ACTION FROM Kofiwra (2 0)
+Folds: Kofiwra
+Pot size: 400
+Boasts: Rettichep, Ts Ad
+Wins: Rettichep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofiwra
+Small Blind: Kofiwra, chips: 100
+Big Blind: Rettichep, chips: 200
+Flop: 9h 8d 6d
+Turn: 4h
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Rettichep, 6s 5c
+Combination: Rettichep, Pair ( 6s 6d Ts 9h 8d )
+Shows: Kofiwra, 7s 7d
+Combination: Kofiwra, Straight ( Ts 9h 8d 7s 6d )
+Wins: Rettichep, chips: 100
+Wins: Kofiwra, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rettichep
+Small Blind: Rettichep, chips: 100
+Big Blind: Kofiwra, chips: 200
+Flop: 4s Kc 7h
+Turn: 5c
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Rettichep, 4c Jh
+Combination: Rettichep, Two Pair ( Jh Js 4c 4s Kc )
+Shows: Kofiwra, 8s 2c
+Combination: Kofiwra, High Card ( Kc Js 8s 7h 5c )
+Wins: Rettichep, chips: 200
+Wins: Kofiwra, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofiwra
+Small Blind: Kofiwra, chips: 100
+Big Blind: Rettichep, chips: 200
+Flop: Ad 3d 7h
+Turn: 5c
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Rettichep, 4h As
+Combination: Rettichep, Two Pair ( As Ad 5c 5h 7h )
+Shows: Kofiwra, 6h 2s
+Combination: Kofiwra, Pair ( 5c 5h Ad 7h 6h )
+Wins: Rettichep, chips: 300
+Quits: Kofiwra, chips: 0
+Ranking: Rettichep, Place: 1, Score: 1000
+Reveal AI: Rettichep, AI: Random
+Ranking: Kofiwra, Place: 2, Score: -1000
+Reveal AI: Kofiwra, AI: AIMyBot1
+
+Player Stats for Kofiwra, AI: AIMyBot1
+General: deals: 9, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Rettichep, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:08
+
+The game begins. The AI's of the players are: 
+Rettichep: Random
+Kofiwra: AIMyBot1
+
+Joins: Rettichep, chips: 1000
+Joins: Kofiwra, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofiwra
+Small Blind: Kofiwra, chips: 100
+Big Blind: Rettichep, chips: 200
+Folds: Kofiwra
+Pot size: 300
+Boasts: Rettichep, 3d 3c
+Wins: Rettichep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rettichep
+Small Blind: Rettichep, chips: 100
+Big Blind: Kofiwra, chips: 200
+Calls: Rettichep
+DEBUG MESSAGE: INVALID ACTION FROM Kofiwra (2 0)
+Folds: Kofiwra
+Pot size: 400
+Wins: Rettichep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofiwra
+Small Blind: Kofiwra, chips: 100
+Big Blind: Rettichep, chips: 200
+Folds: Kofiwra
+Pot size: 300
+Boasts: Rettichep, Th 3c
+Wins: Rettichep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rettichep
+Small Blind: Rettichep, chips: 100
+Big Blind: Kofiwra, chips: 200
+Raises: Rettichep, chips: 300
+Folds: Kofiwra
+Pot size: 700
+Wins: Rettichep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofiwra
+Small Blind: Kofiwra, chips: 100
+Big Blind: Rettichep, chips: 200
+Folds: Kofiwra
+Pot size: 300
+Wins: Rettichep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rettichep
+Small Blind: Rettichep, chips: 100
+Big Blind: Kofiwra, chips: 200
+Calls: Rettichep
+DEBUG MESSAGE: INVALID ACTION FROM Kofiwra (2 0)
+Folds: Kofiwra
+Pot size: 400
+Boasts: Rettichep, Ts Ad
+Wins: Rettichep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofiwra
+Small Blind: Kofiwra, chips: 100
+Big Blind: Rettichep, chips: 200
+Flop: 9h 8d 6d
+Turn: 4h
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Rettichep, 6s 5c
+Combination: Rettichep, Pair ( 6s 6d Ts 9h 8d )
+Shows: Kofiwra, 7s 7d
+Combination: Kofiwra, Straight ( Ts 9h 8d 7s 6d )
+Wins: Rettichep, chips: 100
+Wins: Kofiwra, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rettichep
+Small Blind: Rettichep, chips: 100
+Big Blind: Kofiwra, chips: 200
+Flop: 4s Kc 7h
+Turn: 5c
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Rettichep, 4c Jh
+Combination: Rettichep, Two Pair ( Jh Js 4c 4s Kc )
+Shows: Kofiwra, 8s 2c
+Combination: Kofiwra, High Card ( Kc Js 8s 7h 5c )
+Wins: Rettichep, chips: 200
+Wins: Kofiwra, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofiwra
+Small Blind: Kofiwra, chips: 100
+Big Blind: Rettichep, chips: 200
+Flop: Ad 3d 7h
+Turn: 5c
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Rettichep, 4h As
+Combination: Rettichep, Two Pair ( As Ad 5c 5h 7h )
+Shows: Kofiwra, 6h 2s
+Combination: Kofiwra, Pair ( 5c 5h Ad 7h 6h )
+Wins: Rettichep, chips: 300
+Quits: Kofiwra, chips: 0
+Ranking: Rettichep, Place: 1, Score: 1000
+Reveal AI: Rettichep, AI: Random
+Ranking: Kofiwra, Place: 2, Score: -1000
+Reveal AI: Kofiwra, AI: AIMyBot1
+
+Player Stats for Kofiwra, AI: AIMyBot1
+General: deals: 9, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Rettichep, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

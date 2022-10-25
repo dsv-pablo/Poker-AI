@@ -1,0 +1,630 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+To: AIMyBot1
+Sihetry: Random
+
+Joins: To, chips: 1000
+Joins: Sihetry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Boasts: Sihetry, 6s 7s
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Calls: Sihetry
+DEBUG MESSAGE: INVALID ACTION FROM To (2 0)
+Folds: To
+Pot size: 400
+Wins: Sihetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Raises: Sihetry, chips: 300
+Folds: To
+Pot size: 700
+Boasts: Sihetry, Qd Ad
+Wins: Sihetry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Boasts: Sihetry, 5d 8s
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Calls: Sihetry
+DEBUG MESSAGE: INVALID ACTION FROM To (2 0)
+Folds: To
+Pot size: 400
+Wins: Sihetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Flop: 7h 4s 2c
+Turn: Td
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: To, Qs 8h
+Combination: To, Pair ( Qs Qc Td 8h 7h )
+Shows: Sihetry, 5c 2h
+Combination: Sihetry, Pair ( 2h 2c Qc Td 7h )
+Wins: To, chips: 200
+Wins: Sihetry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: 7h 5c Jc
+Turn: 3s
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: To, 8c 7s
+Combination: To, Three Of A Kind ( 7s 7h 7d Jc 8c )
+Shows: Sihetry, 4d Ts
+Combination: Sihetry, Pair ( 7h 7d Jc Ts 5c )
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: 8d Qc Th
+Turn: 6d
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: To, 6c 3s
+Combination: To, Pair ( 6c 6d Ad Qc Th )
+Shows: Sihetry, 8s 4d
+Combination: Sihetry, Pair ( 8s 8d Ad Qc Th )
+Wins: To, chips: 100
+Wins: Sihetry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Flop: Qs 4s Ks
+Turn: 5d
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: To, 2d 2s
+Combination: To, Two Pair ( 4s 4c 2d 2s Ks )
+Shows: Sihetry, Js 3h
+Combination: Sihetry, Pair ( 4s 4c Ks Qs Js )
+Wins: To, chips: 200
+Wins: Sihetry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: Qh 5h 9d
+Turn: Kc
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: To, Jh 9h
+Combination: To, Pair ( 9h 9d Kc Qh Jh )
+Shows: Sihetry, 7h 3d
+Combination: Sihetry, Pair ( 7h 7s Kc Qh 9d )
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: Kh 7h Jd
+Turn: Ac
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: To, 8h 3d
+Combination: To, Pair ( 8h 8s Ac Kh Jd )
+Shows: Sihetry, 2c 7c
+Combination: Sihetry, Pair ( 7c 7h Ac Kh Jd )
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: Ad 2h Qh
+Turn: Kd
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: To, Th 8s
+Combination: To, High Card ( Ad Kd Qh Th 8s )
+Shows: Sihetry, 8d 4c
+Combination: Sihetry, High Card ( Ad Kd Qh 8d 7d )
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Boasts: Sihetry, 2h Qd
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: 7c Kc Ad
+Turn: 8c
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: To, 6s Ac
+Combination: To, Two Pair ( Ac Ad 6s 6h Kc )
+Shows: Sihetry, 6d 2c
+Combination: Sihetry, Pair ( 6d 6h Ad Kc 8c )
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Boasts: Sihetry, 9c Th
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: 3s Tc Ks
+Turn: 5h
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: To, Ac 2s
+Combination: To, High Card ( Ac Ks Tc 8d 5h )
+Shows: Sihetry, 2h 9h
+Combination: Sihetry, High Card ( Ks Tc 9h 8d 5h )
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: 2c 6c Jd
+Turn: 5h
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: To, 4h Tc
+Combination: To, Pair ( 4h 4d Jd Tc 6c )
+Shows: Sihetry, 8d 7d
+Combination: Sihetry, Straight ( 8d 7d 6c 5h 4d )
+Wins: To, chips: 100
+Wins: Sihetry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Flop: Qd 3c 5s
+Turn: 2d
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: To, 5h Jc
+Combination: To, Two Pair ( Jc Js 5h 5s Qd )
+Shows: Sihetry, Th 9c
+Combination: Sihetry, High Card ( Qd Js Th 9c 5s )
+Wins: To, chips: 200
+Wins: Sihetry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: 5c Js 7h
+Turn: 7s
+River: As
+Pot size: 300
+Showdown Reached
+Shows: To, 8s 2c
+Combination: To, Pair ( 7h 7s As Js 8s )
+Shows: Sihetry, 3h 5d
+Combination: Sihetry, Two Pair ( 7h 7s 5d 5c As )
+Wins: To, chips: 100
+Wins: Sihetry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Flop: 2c Ks 4c
+Turn: 9s
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: To, 6h 3s
+Combination: To, High Card ( Ks Qh 9s 6h 4c )
+Shows: Sihetry, 5h 6d
+Combination: Sihetry, High Card ( Ks Qh 9s 6d 5h )
+Wins: Sihetry, chips: 300
+Quits: To, chips: 0
+Ranking: Sihetry, Place: 1, Score: 1000
+Reveal AI: Sihetry, AI: Random
+Ranking: To, Place: 2, Score: -1000
+Reveal AI: To, AI: AIMyBot1
+
+Player Stats for Sihetry, AI: Random
+General: deals: 25, actions: 3, preflop actions: 3
+Rounds Seen: flops: 13, turns: 13, rivers: 13, showdowns: 13
+Wins: total: 19, showdown: 7, bluff: 12
+Chips: won: 5400, lost: 4400, bought: 1000, forced bets: 3800
+Pre-Flop Stats: VP$IP: 0.12, PFR: 0.04, 3Bet: 0.04
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.538462
+
+
+Player Stats for To, AI: AIMyBot1
+General: deals: 25, actions: 12, preflop actions: 12
+Rounds Seen: flops: 13, turns: 13, rivers: 13, showdowns: 13
+Wins: total: 12, showdown: 12, bluff: 0
+Chips: won: 2700, lost: 3700, bought: 1000, forced bets: 3700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.923077
+
+
+Date: 2022/10/25 13:46:01
+
+The game begins. The AI's of the players are: 
+To: AIMyBot1
+Sihetry: Random
+
+Joins: To, chips: 1000
+Joins: Sihetry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Boasts: Sihetry, 6s 7s
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Calls: Sihetry
+DEBUG MESSAGE: INVALID ACTION FROM To (2 0)
+Folds: To
+Pot size: 400
+Wins: Sihetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Raises: Sihetry, chips: 300
+Folds: To
+Pot size: 700
+Boasts: Sihetry, Qd Ad
+Wins: Sihetry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Boasts: Sihetry, 5d 8s
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Calls: Sihetry
+DEBUG MESSAGE: INVALID ACTION FROM To (2 0)
+Folds: To
+Pot size: 400
+Wins: Sihetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Flop: 7h 4s 2c
+Turn: Td
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: To, Qs 8h
+Combination: To, Pair ( Qs Qc Td 8h 7h )
+Shows: Sihetry, 5c 2h
+Combination: Sihetry, Pair ( 2h 2c Qc Td 7h )
+Wins: To, chips: 200
+Wins: Sihetry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: 7h 5c Jc
+Turn: 3s
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: To, 8c 7s
+Combination: To, Three Of A Kind ( 7s 7h 7d Jc 8c )
+Shows: Sihetry, 4d Ts
+Combination: Sihetry, Pair ( 7h 7d Jc Ts 5c )
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: 8d Qc Th
+Turn: 6d
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: To, 6c 3s
+Combination: To, Pair ( 6c 6d Ad Qc Th )
+Shows: Sihetry, 8s 4d
+Combination: Sihetry, Pair ( 8s 8d Ad Qc Th )
+Wins: To, chips: 100
+Wins: Sihetry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Flop: Qs 4s Ks
+Turn: 5d
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: To, 2d 2s
+Combination: To, Two Pair ( 4s 4c 2d 2s Ks )
+Shows: Sihetry, Js 3h
+Combination: Sihetry, Pair ( 4s 4c Ks Qs Js )
+Wins: To, chips: 200
+Wins: Sihetry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: Qh 5h 9d
+Turn: Kc
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: To, Jh 9h
+Combination: To, Pair ( 9h 9d Kc Qh Jh )
+Shows: Sihetry, 7h 3d
+Combination: Sihetry, Pair ( 7h 7s Kc Qh 9d )
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: Kh 7h Jd
+Turn: Ac
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: To, 8h 3d
+Combination: To, Pair ( 8h 8s Ac Kh Jd )
+Shows: Sihetry, 2c 7c
+Combination: Sihetry, Pair ( 7c 7h Ac Kh Jd )
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: Ad 2h Qh
+Turn: Kd
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: To, Th 8s
+Combination: To, High Card ( Ad Kd Qh Th 8s )
+Shows: Sihetry, 8d 4c
+Combination: Sihetry, High Card ( Ad Kd Qh 8d 7d )
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Boasts: Sihetry, 2h Qd
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: 7c Kc Ad
+Turn: 8c
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: To, 6s Ac
+Combination: To, Two Pair ( Ac Ad 6s 6h Kc )
+Shows: Sihetry, 6d 2c
+Combination: Sihetry, Pair ( 6d 6h Ad Kc 8c )
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Boasts: Sihetry, 9c Th
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: 3s Tc Ks
+Turn: 5h
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: To, Ac 2s
+Combination: To, High Card ( Ac Ks Tc 8d 5h )
+Shows: Sihetry, 2h 9h
+Combination: Sihetry, High Card ( Ks Tc 9h 8d 5h )
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Folds: To
+Pot size: 300
+Wins: Sihetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: 2c 6c Jd
+Turn: 5h
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: To, 4h Tc
+Combination: To, Pair ( 4h 4d Jd Tc 6c )
+Shows: Sihetry, 8d 7d
+Combination: Sihetry, Straight ( 8d 7d 6c 5h 4d )
+Wins: To, chips: 100
+Wins: Sihetry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Flop: Qd 3c 5s
+Turn: 2d
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: To, 5h Jc
+Combination: To, Two Pair ( Jc Js 5h 5s Qd )
+Shows: Sihetry, Th 9c
+Combination: Sihetry, High Card ( Qd Js Th 9c 5s )
+Wins: To, chips: 200
+Wins: Sihetry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihetry
+Small Blind: Sihetry, chips: 100
+Big Blind: To, chips: 200
+Flop: 5c Js 7h
+Turn: 7s
+River: As
+Pot size: 300
+Showdown Reached
+Shows: To, 8s 2c
+Combination: To, Pair ( 7h 7s As Js 8s )
+Shows: Sihetry, 3h 5d
+Combination: Sihetry, Two Pair ( 7h 7s 5d 5c As )
+Wins: To, chips: 100
+Wins: Sihetry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Sihetry, chips: 200
+Flop: 2c Ks 4c
+Turn: 9s
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: To, 6h 3s
+Combination: To, High Card ( Ks Qh 9s 6h 4c )
+Shows: Sihetry, 5h 6d
+Combination: Sihetry, High Card ( Ks Qh 9s 6d 5h )
+Wins: Sihetry, chips: 300
+Quits: To, chips: 0
+Ranking: Sihetry, Place: 1, Score: 1000
+Reveal AI: Sihetry, AI: Random
+Ranking: To, Place: 2, Score: -1000
+Reveal AI: To, AI: AIMyBot1
+
+Player Stats for Sihetry, AI: Random
+General: deals: 25, actions: 3, preflop actions: 3
+Rounds Seen: flops: 13, turns: 13, rivers: 13, showdowns: 13
+Wins: total: 19, showdown: 7, bluff: 12
+Chips: won: 5400, lost: 4400, bought: 1000, forced bets: 3800
+Pre-Flop Stats: VP$IP: 0.12, PFR: 0.04, 3Bet: 0.04
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.538462
+
+
+Player Stats for To, AI: AIMyBot1
+General: deals: 25, actions: 12, preflop actions: 12
+Rounds Seen: flops: 13, turns: 13, rivers: 13, showdowns: 13
+Wins: total: 12, showdown: 12, bluff: 0
+Chips: won: 2700, lost: 3700, bought: 1000, forced bets: 3700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.923077
+
+

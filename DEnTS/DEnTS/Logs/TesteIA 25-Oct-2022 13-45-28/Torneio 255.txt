@@ -1,0 +1,252 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Vepenny: Random
+Feedoe: AIMyBot1
+
+Joins: Vepenny, chips: 1000
+Joins: Feedoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feedoe
+Small Blind: Feedoe, chips: 100
+Big Blind: Vepenny, chips: 200
+Folds: Feedoe
+Pot size: 300
+Boasts: Vepenny, 9s Kc
+Wins: Vepenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vepenny
+Small Blind: Vepenny, chips: 100
+Big Blind: Feedoe, chips: 200
+Raises: Vepenny, chips: 300
+Folds: Feedoe
+Pot size: 700
+Wins: Vepenny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feedoe
+Small Blind: Feedoe, chips: 100
+Big Blind: Vepenny, chips: 200
+Folds: Feedoe
+Pot size: 300
+Boasts: Vepenny, 6c 3h
+Wins: Vepenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vepenny
+Small Blind: Vepenny, chips: 100
+Big Blind: Feedoe, chips: 200
+Raises: Vepenny, chips: 300
+Folds: Feedoe
+Pot size: 700
+Wins: Vepenny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feedoe
+Small Blind: Feedoe, chips: 100
+Big Blind: Vepenny, chips: 200
+Folds: Feedoe
+Pot size: 300
+Boasts: Vepenny, 7s Jh
+Wins: Vepenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vepenny
+Small Blind: Vepenny, chips: 100
+Big Blind: Feedoe, chips: 200
+Folds: Vepenny
+Pot size: 300
+Wins: Feedoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feedoe
+Small Blind: Feedoe, chips: 100
+Big Blind: Vepenny, chips: 200
+Folds: Feedoe
+Pot size: 300
+Boasts: Vepenny, Qd 9s
+Wins: Vepenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vepenny
+Small Blind: Vepenny, chips: 100
+Big Blind: Feedoe, chips: 200
+Folds: Vepenny
+Pot size: 300
+Wins: Feedoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feedoe
+Small Blind: Feedoe, chips: 100
+Big Blind: Vepenny, chips: 200
+Folds: Feedoe
+Pot size: 300
+Boasts: Vepenny, Qd 4h
+Wins: Vepenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vepenny
+Small Blind: Vepenny, chips: 100
+Big Blind: Feedoe, chips: 200
+Raises: Vepenny, chips: 300
+Folds: Feedoe
+Pot size: 700
+Boasts: Vepenny, 2s Ts
+Wins: Vepenny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feedoe
+Small Blind: Feedoe, chips: 100
+Big Blind: Vepenny, chips: 200
+Flop: Ac 4d Kh
+Turn: 7d
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Vepenny, Kc Jd
+Combination: Vepenny, Two Pair ( Ac Ah Kc Kh Jd )
+Shows: Feedoe, 8h 5c
+Combination: Feedoe, Pair ( Ac Ah Kh 8h 7d )
+Wins: Vepenny, chips: 300
+Quits: Feedoe, chips: 0
+Ranking: Vepenny, Place: 1, Score: 1000
+Reveal AI: Vepenny, AI: Random
+Ranking: Feedoe, Place: 2, Score: -1000
+Reveal AI: Feedoe, AI: AIMyBot1
+
+Player Stats for Feedoe, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Vepenny, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.272727, 3Bet: 0.272727
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:46
+
+The game begins. The AI's of the players are: 
+Vepenny: Random
+Feedoe: AIMyBot1
+
+Joins: Vepenny, chips: 1000
+Joins: Feedoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feedoe
+Small Blind: Feedoe, chips: 100
+Big Blind: Vepenny, chips: 200
+Folds: Feedoe
+Pot size: 300
+Boasts: Vepenny, 9s Kc
+Wins: Vepenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vepenny
+Small Blind: Vepenny, chips: 100
+Big Blind: Feedoe, chips: 200
+Raises: Vepenny, chips: 300
+Folds: Feedoe
+Pot size: 700
+Wins: Vepenny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feedoe
+Small Blind: Feedoe, chips: 100
+Big Blind: Vepenny, chips: 200
+Folds: Feedoe
+Pot size: 300
+Boasts: Vepenny, 6c 3h
+Wins: Vepenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vepenny
+Small Blind: Vepenny, chips: 100
+Big Blind: Feedoe, chips: 200
+Raises: Vepenny, chips: 300
+Folds: Feedoe
+Pot size: 700
+Wins: Vepenny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feedoe
+Small Blind: Feedoe, chips: 100
+Big Blind: Vepenny, chips: 200
+Folds: Feedoe
+Pot size: 300
+Boasts: Vepenny, 7s Jh
+Wins: Vepenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vepenny
+Small Blind: Vepenny, chips: 100
+Big Blind: Feedoe, chips: 200
+Folds: Vepenny
+Pot size: 300
+Wins: Feedoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feedoe
+Small Blind: Feedoe, chips: 100
+Big Blind: Vepenny, chips: 200
+Folds: Feedoe
+Pot size: 300
+Boasts: Vepenny, Qd 9s
+Wins: Vepenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vepenny
+Small Blind: Vepenny, chips: 100
+Big Blind: Feedoe, chips: 200
+Folds: Vepenny
+Pot size: 300
+Wins: Feedoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feedoe
+Small Blind: Feedoe, chips: 100
+Big Blind: Vepenny, chips: 200
+Folds: Feedoe
+Pot size: 300
+Boasts: Vepenny, Qd 4h
+Wins: Vepenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vepenny
+Small Blind: Vepenny, chips: 100
+Big Blind: Feedoe, chips: 200
+Raises: Vepenny, chips: 300
+Folds: Feedoe
+Pot size: 700
+Boasts: Vepenny, 2s Ts
+Wins: Vepenny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feedoe
+Small Blind: Feedoe, chips: 100
+Big Blind: Vepenny, chips: 200
+Flop: Ac 4d Kh
+Turn: 7d
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Vepenny, Kc Jd
+Combination: Vepenny, Two Pair ( Ac Ah Kc Kh Jd )
+Shows: Feedoe, 8h 5c
+Combination: Feedoe, Pair ( Ac Ah Kh 8h 7d )
+Wins: Vepenny, chips: 300
+Quits: Feedoe, chips: 0
+Ranking: Vepenny, Place: 1, Score: 1000
+Reveal AI: Vepenny, AI: Random
+Ranking: Feedoe, Place: 2, Score: -1000
+Reveal AI: Feedoe, AI: AIMyBot1
+
+Player Stats for Feedoe, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Vepenny, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.272727, 3Bet: 0.272727
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

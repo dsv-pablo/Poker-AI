@@ -1,0 +1,268 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Bolee: AIMyBot1
+Dottoemee: Random
+
+Joins: Bolee, chips: 1000
+Joins: Dottoemee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dottoemee
+Small Blind: Dottoemee, chips: 100
+Big Blind: Bolee, chips: 200
+Raises: Dottoemee, chips: 300
+Folds: Bolee
+Pot size: 700
+Boasts: Dottoemee, Ks 8d
+Wins: Dottoemee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bolee
+Small Blind: Bolee, chips: 100
+Big Blind: Dottoemee, chips: 200
+Folds: Bolee
+Pot size: 300
+Wins: Dottoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dottoemee
+Small Blind: Dottoemee, chips: 100
+Big Blind: Bolee, chips: 200
+Folds: Dottoemee
+Pot size: 300
+Boasts: Dottoemee, Ah 3s
+Wins: Bolee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bolee
+Small Blind: Bolee, chips: 100
+Big Blind: Dottoemee, chips: 200
+Folds: Bolee
+Pot size: 300
+Boasts: Dottoemee, 6d 9c
+Wins: Dottoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dottoemee
+Small Blind: Dottoemee, chips: 100
+Big Blind: Bolee, chips: 200
+Calls: Dottoemee
+DEBUG MESSAGE: INVALID ACTION FROM Bolee (2 0)
+Folds: Bolee
+Pot size: 400
+Wins: Dottoemee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bolee
+Small Blind: Bolee, chips: 100
+Big Blind: Dottoemee, chips: 200
+Folds: Bolee
+Pot size: 300
+Wins: Dottoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dottoemee
+Small Blind: Dottoemee, chips: 100
+Big Blind: Bolee, chips: 200
+Raises: Dottoemee, chips: 300
+Folds: Bolee
+Pot size: 700
+Boasts: Dottoemee, Qs Ah
+Wins: Dottoemee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bolee
+Small Blind: Bolee, chips: 100
+Big Blind: Dottoemee, chips: 200
+Folds: Bolee
+Pot size: 300
+Boasts: Dottoemee, 5s As
+Wins: Dottoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dottoemee
+Small Blind: Dottoemee, chips: 100
+Big Blind: Bolee, chips: 100
+Flop: 8d Kh Ac
+Turn: 9d
+River: 5c
+Pot size: 200
+Showdown Reached
+Shows: Bolee, 8h 5s
+Combination: Bolee, Two Pair ( 8h 8d 5s 5c Ac )
+Shows: Dottoemee, 6d 6h
+Combination: Dottoemee, Pair ( 6d 6h Ac Kh 9d )
+Wins: Bolee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bolee
+Small Blind: Bolee, chips: 100
+Big Blind: Dottoemee, chips: 200
+Folds: Bolee
+Pot size: 300
+Boasts: Dottoemee, Tc Kh
+Wins: Dottoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dottoemee
+Small Blind: Dottoemee, chips: 100
+Big Blind: Bolee, chips: 100
+Flop: Qs 8s 2s
+Turn: 4c
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Bolee, 7s 5c
+Combination: Bolee, High Card ( Qs Jd 8s 7s 5c )
+Shows: Dottoemee, 9d 6s
+Combination: Dottoemee, High Card ( Qs Jd 9d 8s 6s )
+Wins: Dottoemee, chips: 200
+Quits: Bolee, chips: 0
+Ranking: Dottoemee, Place: 1, Score: 1000
+Reveal AI: Dottoemee, AI: Random
+Ranking: Bolee, Place: 2, Score: -1000
+Reveal AI: Bolee, AI: AIMyBot1
+
+Player Stats for Bolee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Dottoemee, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:35
+
+The game begins. The AI's of the players are: 
+Bolee: AIMyBot1
+Dottoemee: Random
+
+Joins: Bolee, chips: 1000
+Joins: Dottoemee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dottoemee
+Small Blind: Dottoemee, chips: 100
+Big Blind: Bolee, chips: 200
+Raises: Dottoemee, chips: 300
+Folds: Bolee
+Pot size: 700
+Boasts: Dottoemee, Ks 8d
+Wins: Dottoemee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bolee
+Small Blind: Bolee, chips: 100
+Big Blind: Dottoemee, chips: 200
+Folds: Bolee
+Pot size: 300
+Wins: Dottoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dottoemee
+Small Blind: Dottoemee, chips: 100
+Big Blind: Bolee, chips: 200
+Folds: Dottoemee
+Pot size: 300
+Boasts: Dottoemee, Ah 3s
+Wins: Bolee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bolee
+Small Blind: Bolee, chips: 100
+Big Blind: Dottoemee, chips: 200
+Folds: Bolee
+Pot size: 300
+Boasts: Dottoemee, 6d 9c
+Wins: Dottoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dottoemee
+Small Blind: Dottoemee, chips: 100
+Big Blind: Bolee, chips: 200
+Calls: Dottoemee
+DEBUG MESSAGE: INVALID ACTION FROM Bolee (2 0)
+Folds: Bolee
+Pot size: 400
+Wins: Dottoemee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bolee
+Small Blind: Bolee, chips: 100
+Big Blind: Dottoemee, chips: 200
+Folds: Bolee
+Pot size: 300
+Wins: Dottoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dottoemee
+Small Blind: Dottoemee, chips: 100
+Big Blind: Bolee, chips: 200
+Raises: Dottoemee, chips: 300
+Folds: Bolee
+Pot size: 700
+Boasts: Dottoemee, Qs Ah
+Wins: Dottoemee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bolee
+Small Blind: Bolee, chips: 100
+Big Blind: Dottoemee, chips: 200
+Folds: Bolee
+Pot size: 300
+Boasts: Dottoemee, 5s As
+Wins: Dottoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dottoemee
+Small Blind: Dottoemee, chips: 100
+Big Blind: Bolee, chips: 100
+Flop: 8d Kh Ac
+Turn: 9d
+River: 5c
+Pot size: 200
+Showdown Reached
+Shows: Bolee, 8h 5s
+Combination: Bolee, Two Pair ( 8h 8d 5s 5c Ac )
+Shows: Dottoemee, 6d 6h
+Combination: Dottoemee, Pair ( 6d 6h Ac Kh 9d )
+Wins: Bolee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bolee
+Small Blind: Bolee, chips: 100
+Big Blind: Dottoemee, chips: 200
+Folds: Bolee
+Pot size: 300
+Boasts: Dottoemee, Tc Kh
+Wins: Dottoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dottoemee
+Small Blind: Dottoemee, chips: 100
+Big Blind: Bolee, chips: 100
+Flop: Qs 8s 2s
+Turn: 4c
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Bolee, 7s 5c
+Combination: Bolee, High Card ( Qs Jd 8s 7s 5c )
+Shows: Dottoemee, 9d 6s
+Combination: Dottoemee, High Card ( Qs Jd 9d 8s 6s )
+Wins: Dottoemee, chips: 200
+Quits: Bolee, chips: 0
+Ranking: Dottoemee, Place: 1, Score: 1000
+Reveal AI: Dottoemee, AI: Random
+Ranking: Bolee, Place: 2, Score: -1000
+Reveal AI: Bolee, AI: AIMyBot1
+
+Player Stats for Bolee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Dottoemee, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

@@ -1,0 +1,308 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wivef: AIMyBot1
+Suneedus: Random
+
+Joins: Wivef, chips: 1000
+Joins: Suneedus, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suneedus
+Small Blind: Suneedus, chips: 100
+Big Blind: Wivef, chips: 200
+Calls: Suneedus
+DEBUG MESSAGE: INVALID ACTION FROM Wivef (2 0)
+Folds: Wivef
+Pot size: 400
+Wins: Suneedus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wivef
+Small Blind: Wivef, chips: 100
+Big Blind: Suneedus, chips: 200
+Folds: Wivef
+Pot size: 300
+Boasts: Suneedus, Td 5s
+Wins: Suneedus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suneedus
+Small Blind: Suneedus, chips: 100
+Big Blind: Wivef, chips: 200
+Calls: Suneedus
+DEBUG MESSAGE: INVALID ACTION FROM Wivef (2 0)
+Folds: Wivef
+Pot size: 400
+Wins: Suneedus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wivef
+Small Blind: Wivef, chips: 100
+Big Blind: Suneedus, chips: 200
+Folds: Wivef
+Pot size: 300
+Wins: Suneedus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suneedus
+Small Blind: Suneedus, chips: 100
+Big Blind: Wivef, chips: 200
+Folds: Suneedus
+Pot size: 300
+Boasts: Suneedus, Ts 2s
+Wins: Wivef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wivef
+Small Blind: Wivef, chips: 100
+Big Blind: Suneedus, chips: 200
+Folds: Wivef
+Pot size: 300
+Boasts: Suneedus, Qh 7h
+Wins: Suneedus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suneedus
+Small Blind: Suneedus, chips: 100
+Big Blind: Wivef, chips: 200
+Raises: Suneedus, chips: 300
+Calls: Wivef
+Flop: Tc 2c 4h
+Turn: 3c
+River: Kh
+Pot size: 900
+Showdown Reached
+Shows: Wivef, 7d 4s
+Combination: Wivef, Pair ( 4s 4h Kh Tc 7d )
+Shows: Suneedus, 7c 3s
+Combination: Suneedus, Pair ( 3s 3c Kh Tc 7c )
+Wins: Wivef, chips: 800
+Wins: Suneedus, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wivef
+Small Blind: Wivef, chips: 100
+Big Blind: Suneedus, chips: 200
+Folds: Wivef
+Pot size: 300
+Boasts: Suneedus, 4h Qd
+Wins: Suneedus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suneedus
+Small Blind: Suneedus, chips: 100
+Big Blind: Wivef, chips: 200
+Calls: Suneedus
+DEBUG MESSAGE: INVALID ACTION FROM Wivef (2 0)
+Folds: Wivef
+Pot size: 400
+Wins: Suneedus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wivef
+Small Blind: Wivef, chips: 100
+Big Blind: Suneedus, chips: 200
+Folds: Wivef
+Pot size: 300
+Wins: Suneedus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suneedus
+Small Blind: Suneedus, chips: 100
+Big Blind: Wivef, chips: 200
+Calls: Suneedus
+DEBUG MESSAGE: INVALID ACTION FROM Wivef (2 0)
+Folds: Wivef
+Pot size: 400
+Boasts: Suneedus, 3h 4s
+Wins: Suneedus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wivef
+Small Blind: Wivef, chips: 100
+Big Blind: Suneedus, chips: 200
+Folds: Wivef
+Pot size: 300
+Wins: Suneedus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suneedus
+Small Blind: Suneedus, chips: 100
+Big Blind: Wivef, chips: 100
+Flop: Qd 5d 2d
+Turn: 4s
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Wivef, 6s Qh
+Combination: Wivef, Pair ( Qh Qd 9d 6s 5d )
+Shows: Suneedus, 3h Ad
+Combination: Suneedus, Flush ( Ad Qd 9d 5d 2d )
+Wins: Suneedus, chips: 200
+Quits: Wivef, chips: 0
+Ranking: Suneedus, Place: 1, Score: 1000
+Reveal AI: Suneedus, AI: Random
+Ranking: Wivef, Place: 2, Score: -1000
+Reveal AI: Wivef, AI: AIMyBot1
+
+Player Stats for Suneedus, AI: Random
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 12, showdown: 2, bluff: 10
+Chips: won: 3700, lost: 2700, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.384615, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Wivef, AI: AIMyBot1
+General: deals: 13, actions: 11, preflop actions: 11
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 1100, lost: 2200, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.0769231, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:37
+
+The game begins. The AI's of the players are: 
+Wivef: AIMyBot1
+Suneedus: Random
+
+Joins: Wivef, chips: 1000
+Joins: Suneedus, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suneedus
+Small Blind: Suneedus, chips: 100
+Big Blind: Wivef, chips: 200
+Calls: Suneedus
+DEBUG MESSAGE: INVALID ACTION FROM Wivef (2 0)
+Folds: Wivef
+Pot size: 400
+Wins: Suneedus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wivef
+Small Blind: Wivef, chips: 100
+Big Blind: Suneedus, chips: 200
+Folds: Wivef
+Pot size: 300
+Boasts: Suneedus, Td 5s
+Wins: Suneedus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suneedus
+Small Blind: Suneedus, chips: 100
+Big Blind: Wivef, chips: 200
+Calls: Suneedus
+DEBUG MESSAGE: INVALID ACTION FROM Wivef (2 0)
+Folds: Wivef
+Pot size: 400
+Wins: Suneedus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wivef
+Small Blind: Wivef, chips: 100
+Big Blind: Suneedus, chips: 200
+Folds: Wivef
+Pot size: 300
+Wins: Suneedus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suneedus
+Small Blind: Suneedus, chips: 100
+Big Blind: Wivef, chips: 200
+Folds: Suneedus
+Pot size: 300
+Boasts: Suneedus, Ts 2s
+Wins: Wivef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wivef
+Small Blind: Wivef, chips: 100
+Big Blind: Suneedus, chips: 200
+Folds: Wivef
+Pot size: 300
+Boasts: Suneedus, Qh 7h
+Wins: Suneedus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suneedus
+Small Blind: Suneedus, chips: 100
+Big Blind: Wivef, chips: 200
+Raises: Suneedus, chips: 300
+Calls: Wivef
+Flop: Tc 2c 4h
+Turn: 3c
+River: Kh
+Pot size: 900
+Showdown Reached
+Shows: Wivef, 7d 4s
+Combination: Wivef, Pair ( 4s 4h Kh Tc 7d )
+Shows: Suneedus, 7c 3s
+Combination: Suneedus, Pair ( 3s 3c Kh Tc 7c )
+Wins: Wivef, chips: 800
+Wins: Suneedus, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wivef
+Small Blind: Wivef, chips: 100
+Big Blind: Suneedus, chips: 200
+Folds: Wivef
+Pot size: 300
+Boasts: Suneedus, 4h Qd
+Wins: Suneedus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suneedus
+Small Blind: Suneedus, chips: 100
+Big Blind: Wivef, chips: 200
+Calls: Suneedus
+DEBUG MESSAGE: INVALID ACTION FROM Wivef (2 0)
+Folds: Wivef
+Pot size: 400
+Wins: Suneedus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wivef
+Small Blind: Wivef, chips: 100
+Big Blind: Suneedus, chips: 200
+Folds: Wivef
+Pot size: 300
+Wins: Suneedus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suneedus
+Small Blind: Suneedus, chips: 100
+Big Blind: Wivef, chips: 200
+Calls: Suneedus
+DEBUG MESSAGE: INVALID ACTION FROM Wivef (2 0)
+Folds: Wivef
+Pot size: 400
+Boasts: Suneedus, 3h 4s
+Wins: Suneedus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wivef
+Small Blind: Wivef, chips: 100
+Big Blind: Suneedus, chips: 200
+Folds: Wivef
+Pot size: 300
+Wins: Suneedus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suneedus
+Small Blind: Suneedus, chips: 100
+Big Blind: Wivef, chips: 100
+Flop: Qd 5d 2d
+Turn: 4s
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Wivef, 6s Qh
+Combination: Wivef, Pair ( Qh Qd 9d 6s 5d )
+Shows: Suneedus, 3h Ad
+Combination: Suneedus, Flush ( Ad Qd 9d 5d 2d )
+Wins: Suneedus, chips: 200
+Quits: Wivef, chips: 0
+Ranking: Suneedus, Place: 1, Score: 1000
+Reveal AI: Suneedus, AI: Random
+Ranking: Wivef, Place: 2, Score: -1000
+Reveal AI: Wivef, AI: AIMyBot1
+
+Player Stats for Suneedus, AI: Random
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 12, showdown: 2, bluff: 10
+Chips: won: 3700, lost: 2700, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.384615, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Wivef, AI: AIMyBot1
+General: deals: 13, actions: 11, preflop actions: 11
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 1100, lost: 2200, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.0769231, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

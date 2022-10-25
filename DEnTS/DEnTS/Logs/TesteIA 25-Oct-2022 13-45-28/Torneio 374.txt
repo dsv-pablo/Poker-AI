@@ -1,0 +1,226 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pateek: Random
+Da: AIMyBot1
+
+Joins: Pateek, chips: 1000
+Joins: Da, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pateek
+Small Blind: Pateek, chips: 100
+Big Blind: Da, chips: 200
+Calls: Pateek
+DEBUG MESSAGE: INVALID ACTION FROM Da (2 0)
+Folds: Da
+Pot size: 400
+Boasts: Pateek, 2s 8d
+Wins: Pateek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Da
+Small Blind: Da, chips: 100
+Big Blind: Pateek, chips: 200
+Folds: Da
+Pot size: 300
+Boasts: Pateek, Tc Kd
+Wins: Pateek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pateek
+Small Blind: Pateek, chips: 100
+Big Blind: Da, chips: 200
+Folds: Pateek
+Pot size: 300
+Wins: Da, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Da
+Small Blind: Da, chips: 100
+Big Blind: Pateek, chips: 200
+Folds: Da
+Pot size: 300
+Wins: Pateek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pateek
+Small Blind: Pateek, chips: 100
+Big Blind: Da, chips: 200
+Calls: Pateek
+DEBUG MESSAGE: INVALID ACTION FROM Da (2 0)
+Folds: Da
+Pot size: 400
+Boasts: Pateek, Jc Td
+Wins: Pateek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Da
+Small Blind: Da, chips: 100
+Big Blind: Pateek, chips: 200
+Folds: Da
+Pot size: 300
+Wins: Pateek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pateek
+Small Blind: Pateek, chips: 100
+Big Blind: Da, chips: 200
+Calls: Pateek
+DEBUG MESSAGE: INVALID ACTION FROM Da (2 0)
+Folds: Da
+Pot size: 400
+Boasts: Pateek, 3c Ts
+Wins: Pateek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Da
+Small Blind: Da, chips: 100
+Big Blind: Pateek, chips: 200
+Folds: Da
+Pot size: 300
+Wins: Pateek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pateek
+Small Blind: Pateek, chips: 100
+Big Blind: Da, chips: 100
+Flop: 9h Js 7d
+Turn: Ts
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Pateek, Td Qd
+Combination: Pateek, Pair ( Td Ts Qd Js 9h )
+Shows: Da, Ad 6d
+Combination: Da, High Card ( Ad Js Ts 9h 7d )
+Wins: Pateek, chips: 200
+Quits: Da, chips: 0
+Ranking: Pateek, Place: 1, Score: 1000
+Reveal AI: Pateek, AI: Random
+Ranking: Da, Place: 2, Score: -1000
+Reveal AI: Da, AI: AIMyBot1
+
+Player Stats for Da, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Pateek, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:53
+
+The game begins. The AI's of the players are: 
+Pateek: Random
+Da: AIMyBot1
+
+Joins: Pateek, chips: 1000
+Joins: Da, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pateek
+Small Blind: Pateek, chips: 100
+Big Blind: Da, chips: 200
+Calls: Pateek
+DEBUG MESSAGE: INVALID ACTION FROM Da (2 0)
+Folds: Da
+Pot size: 400
+Boasts: Pateek, 2s 8d
+Wins: Pateek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Da
+Small Blind: Da, chips: 100
+Big Blind: Pateek, chips: 200
+Folds: Da
+Pot size: 300
+Boasts: Pateek, Tc Kd
+Wins: Pateek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pateek
+Small Blind: Pateek, chips: 100
+Big Blind: Da, chips: 200
+Folds: Pateek
+Pot size: 300
+Wins: Da, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Da
+Small Blind: Da, chips: 100
+Big Blind: Pateek, chips: 200
+Folds: Da
+Pot size: 300
+Wins: Pateek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pateek
+Small Blind: Pateek, chips: 100
+Big Blind: Da, chips: 200
+Calls: Pateek
+DEBUG MESSAGE: INVALID ACTION FROM Da (2 0)
+Folds: Da
+Pot size: 400
+Boasts: Pateek, Jc Td
+Wins: Pateek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Da
+Small Blind: Da, chips: 100
+Big Blind: Pateek, chips: 200
+Folds: Da
+Pot size: 300
+Wins: Pateek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pateek
+Small Blind: Pateek, chips: 100
+Big Blind: Da, chips: 200
+Calls: Pateek
+DEBUG MESSAGE: INVALID ACTION FROM Da (2 0)
+Folds: Da
+Pot size: 400
+Boasts: Pateek, 3c Ts
+Wins: Pateek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Da
+Small Blind: Da, chips: 100
+Big Blind: Pateek, chips: 200
+Folds: Da
+Pot size: 300
+Wins: Pateek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pateek
+Small Blind: Pateek, chips: 100
+Big Blind: Da, chips: 100
+Flop: 9h Js 7d
+Turn: Ts
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Pateek, Td Qd
+Combination: Pateek, Pair ( Td Ts Qd Js 9h )
+Shows: Da, Ad 6d
+Combination: Da, High Card ( Ad Js Ts 9h 7d )
+Wins: Pateek, chips: 200
+Quits: Da, chips: 0
+Ranking: Pateek, Place: 1, Score: 1000
+Reveal AI: Pateek, AI: Random
+Ranking: Da, Place: 2, Score: -1000
+Reveal AI: Da, AI: AIMyBot1
+
+Player Stats for Da, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Pateek, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

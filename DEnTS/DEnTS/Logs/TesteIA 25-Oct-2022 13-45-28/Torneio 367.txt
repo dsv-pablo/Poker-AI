@@ -1,0 +1,266 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Dasoe: AIMyBot1
+Leepopoem: Random
+
+Joins: Dasoe, chips: 1000
+Joins: Leepopoem, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leepopoem
+Small Blind: Leepopoem, chips: 100
+Big Blind: Dasoe, chips: 200
+Raises: Leepopoem, chips: 300
+Folds: Dasoe
+Pot size: 700
+Wins: Leepopoem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dasoe
+Small Blind: Dasoe, chips: 100
+Big Blind: Leepopoem, chips: 200
+Folds: Dasoe
+Pot size: 300
+Boasts: Leepopoem, 3d 7d
+Wins: Leepopoem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leepopoem
+Small Blind: Leepopoem, chips: 100
+Big Blind: Dasoe, chips: 200
+Folds: Leepopoem
+Pot size: 300
+Boasts: Leepopoem, 2c Jh
+Wins: Dasoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dasoe
+Small Blind: Dasoe, chips: 100
+Big Blind: Leepopoem, chips: 200
+Folds: Dasoe
+Pot size: 300
+Wins: Leepopoem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leepopoem
+Small Blind: Leepopoem, chips: 100
+Big Blind: Dasoe, chips: 200
+Calls: Leepopoem
+DEBUG MESSAGE: INVALID ACTION FROM Dasoe (2 0)
+Folds: Dasoe
+Pot size: 400
+Wins: Leepopoem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dasoe
+Small Blind: Dasoe, chips: 100
+Big Blind: Leepopoem, chips: 200
+Folds: Dasoe
+Pot size: 300
+Boasts: Leepopoem, Ac 3h
+Wins: Leepopoem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leepopoem
+Small Blind: Leepopoem, chips: 100
+Big Blind: Dasoe, chips: 200
+Raises: Leepopoem, chips: 300
+Folds: Dasoe
+Pot size: 700
+Boasts: Leepopoem, 9h 8c
+Wins: Leepopoem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dasoe
+Small Blind: Dasoe, chips: 100
+Big Blind: Leepopoem, chips: 200
+Folds: Dasoe
+Pot size: 300
+Boasts: Leepopoem, 6s Kc
+Wins: Leepopoem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leepopoem
+Small Blind: Leepopoem, chips: 100
+Big Blind: Dasoe, chips: 100
+Flop: 9h Th 4c
+Turn: Td
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Dasoe, 3h Ks
+Combination: Dasoe, Pair ( Th Td Ad Ks 9h )
+Shows: Leepopoem, 7h 8c
+Combination: Leepopoem, Pair ( Th Td Ad 9h 8c )
+Wins: Dasoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dasoe
+Small Blind: Dasoe, chips: 100
+Big Blind: Leepopoem, chips: 200
+Folds: Dasoe
+Pot size: 300
+Wins: Leepopoem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leepopoem
+Small Blind: Leepopoem, chips: 100
+Big Blind: Dasoe, chips: 100
+Flop: 8c 7d 9c
+Turn: Kd
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Dasoe, 3h Ts
+Combination: Dasoe, High Card ( Kd Ts 9c 8c 7d )
+Shows: Leepopoem, 4h 9s
+Combination: Leepopoem, Two Pair ( 9s 9c 4h 4c Kd )
+Wins: Leepopoem, chips: 200
+Quits: Dasoe, chips: 0
+Ranking: Leepopoem, Place: 1, Score: 1000
+Reveal AI: Leepopoem, AI: Random
+Ranking: Dasoe, Place: 2, Score: -1000
+Reveal AI: Dasoe, AI: AIMyBot1
+
+Player Stats for Dasoe, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Leepopoem, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:53
+
+The game begins. The AI's of the players are: 
+Dasoe: AIMyBot1
+Leepopoem: Random
+
+Joins: Dasoe, chips: 1000
+Joins: Leepopoem, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leepopoem
+Small Blind: Leepopoem, chips: 100
+Big Blind: Dasoe, chips: 200
+Raises: Leepopoem, chips: 300
+Folds: Dasoe
+Pot size: 700
+Wins: Leepopoem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dasoe
+Small Blind: Dasoe, chips: 100
+Big Blind: Leepopoem, chips: 200
+Folds: Dasoe
+Pot size: 300
+Boasts: Leepopoem, 3d 7d
+Wins: Leepopoem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leepopoem
+Small Blind: Leepopoem, chips: 100
+Big Blind: Dasoe, chips: 200
+Folds: Leepopoem
+Pot size: 300
+Boasts: Leepopoem, 2c Jh
+Wins: Dasoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dasoe
+Small Blind: Dasoe, chips: 100
+Big Blind: Leepopoem, chips: 200
+Folds: Dasoe
+Pot size: 300
+Wins: Leepopoem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leepopoem
+Small Blind: Leepopoem, chips: 100
+Big Blind: Dasoe, chips: 200
+Calls: Leepopoem
+DEBUG MESSAGE: INVALID ACTION FROM Dasoe (2 0)
+Folds: Dasoe
+Pot size: 400
+Wins: Leepopoem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dasoe
+Small Blind: Dasoe, chips: 100
+Big Blind: Leepopoem, chips: 200
+Folds: Dasoe
+Pot size: 300
+Boasts: Leepopoem, Ac 3h
+Wins: Leepopoem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leepopoem
+Small Blind: Leepopoem, chips: 100
+Big Blind: Dasoe, chips: 200
+Raises: Leepopoem, chips: 300
+Folds: Dasoe
+Pot size: 700
+Boasts: Leepopoem, 9h 8c
+Wins: Leepopoem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dasoe
+Small Blind: Dasoe, chips: 100
+Big Blind: Leepopoem, chips: 200
+Folds: Dasoe
+Pot size: 300
+Boasts: Leepopoem, 6s Kc
+Wins: Leepopoem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leepopoem
+Small Blind: Leepopoem, chips: 100
+Big Blind: Dasoe, chips: 100
+Flop: 9h Th 4c
+Turn: Td
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Dasoe, 3h Ks
+Combination: Dasoe, Pair ( Th Td Ad Ks 9h )
+Shows: Leepopoem, 7h 8c
+Combination: Leepopoem, Pair ( Th Td Ad 9h 8c )
+Wins: Dasoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dasoe
+Small Blind: Dasoe, chips: 100
+Big Blind: Leepopoem, chips: 200
+Folds: Dasoe
+Pot size: 300
+Wins: Leepopoem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leepopoem
+Small Blind: Leepopoem, chips: 100
+Big Blind: Dasoe, chips: 100
+Flop: 8c 7d 9c
+Turn: Kd
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Dasoe, 3h Ts
+Combination: Dasoe, High Card ( Kd Ts 9c 8c 7d )
+Shows: Leepopoem, 4h 9s
+Combination: Leepopoem, Two Pair ( 9s 9c 4h 4c Kd )
+Wins: Leepopoem, chips: 200
+Quits: Dasoe, chips: 0
+Ranking: Leepopoem, Place: 1, Score: 1000
+Reveal AI: Leepopoem, AI: Random
+Ranking: Dasoe, Place: 2, Score: -1000
+Reveal AI: Dasoe, AI: AIMyBot1
+
+Player Stats for Dasoe, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Leepopoem, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

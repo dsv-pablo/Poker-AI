@@ -1,0 +1,224 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Che: AIMyBot1
+Fonoeweek: Random
+
+Joins: Che, chips: 1000
+Joins: Fonoeweek, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 100
+Big Blind: Fonoeweek, chips: 200
+Folds: Che
+Pot size: 300
+Boasts: Fonoeweek, 7c 2d
+Wins: Fonoeweek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonoeweek
+Small Blind: Fonoeweek, chips: 100
+Big Blind: Che, chips: 200
+Calls: Fonoeweek
+DEBUG MESSAGE: INVALID ACTION FROM Che (2 0)
+Folds: Che
+Pot size: 400
+Wins: Fonoeweek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 100
+Big Blind: Fonoeweek, chips: 200
+Folds: Che
+Pot size: 300
+Wins: Fonoeweek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonoeweek
+Small Blind: Fonoeweek, chips: 100
+Big Blind: Che, chips: 200
+Calls: Fonoeweek
+DEBUG MESSAGE: INVALID ACTION FROM Che (2 0)
+Folds: Che
+Pot size: 400
+Wins: Fonoeweek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 100
+Big Blind: Fonoeweek, chips: 200
+Folds: Che
+Pot size: 300
+Boasts: Fonoeweek, 4s Td
+Wins: Fonoeweek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonoeweek
+Small Blind: Fonoeweek, chips: 100
+Big Blind: Che, chips: 200
+Folds: Fonoeweek
+Pot size: 300
+Boasts: Fonoeweek, Kc Tc
+Wins: Che, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 100
+Big Blind: Fonoeweek, chips: 200
+Folds: Che
+Pot size: 300
+Boasts: Fonoeweek, 2s Jc
+Wins: Fonoeweek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonoeweek
+Small Blind: Fonoeweek, chips: 100
+Big Blind: Che, chips: 200
+Raises: Fonoeweek, chips: 1500
+Folds: Che
+Pot size: 1900
+Wins: Fonoeweek, chips: 1900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 100
+Big Blind: Fonoeweek, chips: 200
+Flop: 5c 4d 5h
+Turn: 6s
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Che, 4c 7c
+Combination: Che, Two Pair ( 6s 6c 5c 5h 7c )
+Shows: Fonoeweek, 2h 9s
+Combination: Fonoeweek, Two Pair ( 6s 6c 5c 5h 9s )
+Wins: Fonoeweek, chips: 300
+Quits: Che, chips: 0
+Ranking: Fonoeweek, Place: 1, Score: 1000
+Reveal AI: Fonoeweek, AI: Random
+Ranking: Che, Place: 2, Score: -1000
+Reveal AI: Che, AI: AIMyBot1
+
+Player Stats for Che, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Fonoeweek, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:32
+
+The game begins. The AI's of the players are: 
+Che: AIMyBot1
+Fonoeweek: Random
+
+Joins: Che, chips: 1000
+Joins: Fonoeweek, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 100
+Big Blind: Fonoeweek, chips: 200
+Folds: Che
+Pot size: 300
+Boasts: Fonoeweek, 7c 2d
+Wins: Fonoeweek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonoeweek
+Small Blind: Fonoeweek, chips: 100
+Big Blind: Che, chips: 200
+Calls: Fonoeweek
+DEBUG MESSAGE: INVALID ACTION FROM Che (2 0)
+Folds: Che
+Pot size: 400
+Wins: Fonoeweek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 100
+Big Blind: Fonoeweek, chips: 200
+Folds: Che
+Pot size: 300
+Wins: Fonoeweek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonoeweek
+Small Blind: Fonoeweek, chips: 100
+Big Blind: Che, chips: 200
+Calls: Fonoeweek
+DEBUG MESSAGE: INVALID ACTION FROM Che (2 0)
+Folds: Che
+Pot size: 400
+Wins: Fonoeweek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 100
+Big Blind: Fonoeweek, chips: 200
+Folds: Che
+Pot size: 300
+Boasts: Fonoeweek, 4s Td
+Wins: Fonoeweek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonoeweek
+Small Blind: Fonoeweek, chips: 100
+Big Blind: Che, chips: 200
+Folds: Fonoeweek
+Pot size: 300
+Boasts: Fonoeweek, Kc Tc
+Wins: Che, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 100
+Big Blind: Fonoeweek, chips: 200
+Folds: Che
+Pot size: 300
+Boasts: Fonoeweek, 2s Jc
+Wins: Fonoeweek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonoeweek
+Small Blind: Fonoeweek, chips: 100
+Big Blind: Che, chips: 200
+Raises: Fonoeweek, chips: 1500
+Folds: Che
+Pot size: 1900
+Wins: Fonoeweek, chips: 1900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 100
+Big Blind: Fonoeweek, chips: 200
+Flop: 5c 4d 5h
+Turn: 6s
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Che, 4c 7c
+Combination: Che, Two Pair ( 6s 6c 5c 5h 7c )
+Shows: Fonoeweek, 2h 9s
+Combination: Fonoeweek, Two Pair ( 6s 6c 5c 5h 9s )
+Wins: Fonoeweek, chips: 300
+Quits: Che, chips: 0
+Ranking: Fonoeweek, Place: 1, Score: 1000
+Reveal AI: Fonoeweek, AI: Random
+Ranking: Che, Place: 2, Score: -1000
+Reveal AI: Che, AI: AIMyBot1
+
+Player Stats for Che, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Fonoeweek, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

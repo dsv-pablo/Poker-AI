@@ -1,0 +1,448 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Fabem: Random
+Boe: AIMyBot1
+
+Joins: Fabem, chips: 1000
+Joins: Boe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Folds: Boe
+Pot size: 300
+Boasts: Fabem, 4h 3s
+Wins: Fabem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabem
+Small Blind: Fabem, chips: 100
+Big Blind: Boe, chips: 200
+Raises: Fabem, chips: 300
+Folds: Boe
+Pot size: 700
+Boasts: Fabem, Jd 3c
+Wins: Fabem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Folds: Boe
+Pot size: 300
+Wins: Fabem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabem
+Small Blind: Fabem, chips: 100
+Big Blind: Boe, chips: 200
+Raises: Fabem, chips: 300
+Folds: Boe
+Pot size: 700
+Boasts: Fabem, 2h 3d
+Wins: Fabem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Folds: Boe
+Pot size: 300
+Boasts: Fabem, 4s 6d
+Wins: Fabem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabem
+Small Blind: Fabem, chips: 100
+Big Blind: Boe, chips: 200
+Raises: Fabem, chips: 300
+Calls: Boe
+Flop: As Tc 7h
+Turn: 5c
+River: 9h
+Pot size: 800
+Showdown Reached
+Shows: Fabem, 2s 3d
+Combination: Fabem, High Card ( As Tc 9h 7h 5c )
+Shows: Boe, Qc 5s
+Combination: Boe, Pair ( 5s 5c As Qc Tc )
+Wins: Fabem, chips: 200
+Wins: Boe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Folds: Boe
+Pot size: 300
+Wins: Fabem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabem
+Small Blind: Fabem, chips: 100
+Big Blind: Boe, chips: 200
+Calls: Fabem
+DEBUG MESSAGE: INVALID ACTION FROM Boe (2 0)
+Folds: Boe
+Pot size: 400
+Wins: Fabem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Folds: Boe
+Pot size: 300
+Wins: Fabem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabem
+Small Blind: Fabem, chips: 100
+Big Blind: Boe, chips: 200
+Flop: Qc Jh 4h
+Turn: 3h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Fabem, Ks Ts
+Combination: Fabem, Straight ( Ac Ks Qc Jh Ts )
+Shows: Boe, 2s Kd
+Combination: Boe, High Card ( Ac Kd Qc Jh 4h )
+Wins: Fabem, chips: 200
+Wins: Boe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Flop: Jd 2c 7c
+Turn: 5c
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Fabem, Qs 3c
+Combination: Fabem, Flush ( Ac 7c 5c 3c 2c )
+Shows: Boe, 6h 9c
+Combination: Boe, Flush ( Ac 9c 7c 5c 2c )
+Wins: Fabem, chips: 100
+Wins: Boe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabem
+Small Blind: Fabem, chips: 100
+Big Blind: Boe, chips: 200
+Flop: Ts Jh 7d
+Turn: 7h
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Fabem, 8h 8s
+Combination: Fabem, Two Pair ( 8h 8s 7d 7h Jh )
+Shows: Boe, 9h Kc
+Combination: Boe, Pair ( 7d 7h Kc Jh Ts )
+Wins: Fabem, chips: 200
+Wins: Boe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Flop: 3d 4c 9s
+Turn: 6s
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Fabem, 8c Td
+Combination: Fabem, High Card ( As Td 9s 8c 6s )
+Shows: Boe, Jc 3h
+Combination: Boe, Pair ( 3h 3d As Jc 9s )
+Wins: Fabem, chips: 100
+Wins: Boe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabem
+Small Blind: Fabem, chips: 100
+Big Blind: Boe, chips: 200
+Flop: 2d 4h 9d
+Turn: Tc
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Fabem, Td Ks
+Combination: Fabem, Pair ( Td Tc Ks 9d 7h )
+Shows: Boe, 7s 7c
+Combination: Boe, Three Of A Kind ( 7s 7c 7h Tc 9d )
+Wins: Boe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Folds: Boe
+Pot size: 300
+Wins: Fabem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabem
+Small Blind: Fabem, chips: 100
+Big Blind: Boe, chips: 200
+Flop: Kh Ac Qh
+Turn: 8s
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Fabem, 5h Kc
+Combination: Fabem, Pair ( Kc Kh Ac Qh Th )
+Shows: Boe, 3d Tc
+Combination: Boe, Pair ( Tc Th Ac Kh Qh )
+Wins: Fabem, chips: 200
+Wins: Boe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Flop: 2d 8d Qs
+Turn: Kh
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Fabem, 9c Js
+Combination: Fabem, Pair ( 8d 8s Kh Qs Js )
+Shows: Boe, 6h 4c
+Combination: Boe, Pair ( 8d 8s Kh Qs 6h )
+Wins: Fabem, chips: 300
+Quits: Boe, chips: 0
+Ranking: Fabem, Place: 1, Score: 1000
+Reveal AI: Fabem, AI: Random
+Ranking: Boe, Place: 2, Score: -1000
+Reveal AI: Boe, AI: AIMyBot1
+
+Player Stats for Boe, AI: AIMyBot1
+General: deals: 17, actions: 10, preflop actions: 10
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1600, lost: 2800, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.0588235, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Fabem, AI: Random
+General: deals: 17, actions: 4, preflop actions: 4
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 16, showdown: 7, bluff: 9
+Chips: won: 4900, lost: 3900, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.235294, PFR: 0.176471, 3Bet: 0.176471
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Date: 2022/10/25 13:46:33
+
+The game begins. The AI's of the players are: 
+Fabem: Random
+Boe: AIMyBot1
+
+Joins: Fabem, chips: 1000
+Joins: Boe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Folds: Boe
+Pot size: 300
+Boasts: Fabem, 4h 3s
+Wins: Fabem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabem
+Small Blind: Fabem, chips: 100
+Big Blind: Boe, chips: 200
+Raises: Fabem, chips: 300
+Folds: Boe
+Pot size: 700
+Boasts: Fabem, Jd 3c
+Wins: Fabem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Folds: Boe
+Pot size: 300
+Wins: Fabem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabem
+Small Blind: Fabem, chips: 100
+Big Blind: Boe, chips: 200
+Raises: Fabem, chips: 300
+Folds: Boe
+Pot size: 700
+Boasts: Fabem, 2h 3d
+Wins: Fabem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Folds: Boe
+Pot size: 300
+Boasts: Fabem, 4s 6d
+Wins: Fabem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabem
+Small Blind: Fabem, chips: 100
+Big Blind: Boe, chips: 200
+Raises: Fabem, chips: 300
+Calls: Boe
+Flop: As Tc 7h
+Turn: 5c
+River: 9h
+Pot size: 800
+Showdown Reached
+Shows: Fabem, 2s 3d
+Combination: Fabem, High Card ( As Tc 9h 7h 5c )
+Shows: Boe, Qc 5s
+Combination: Boe, Pair ( 5s 5c As Qc Tc )
+Wins: Fabem, chips: 200
+Wins: Boe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Folds: Boe
+Pot size: 300
+Wins: Fabem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabem
+Small Blind: Fabem, chips: 100
+Big Blind: Boe, chips: 200
+Calls: Fabem
+DEBUG MESSAGE: INVALID ACTION FROM Boe (2 0)
+Folds: Boe
+Pot size: 400
+Wins: Fabem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Folds: Boe
+Pot size: 300
+Wins: Fabem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabem
+Small Blind: Fabem, chips: 100
+Big Blind: Boe, chips: 200
+Flop: Qc Jh 4h
+Turn: 3h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Fabem, Ks Ts
+Combination: Fabem, Straight ( Ac Ks Qc Jh Ts )
+Shows: Boe, 2s Kd
+Combination: Boe, High Card ( Ac Kd Qc Jh 4h )
+Wins: Fabem, chips: 200
+Wins: Boe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Flop: Jd 2c 7c
+Turn: 5c
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Fabem, Qs 3c
+Combination: Fabem, Flush ( Ac 7c 5c 3c 2c )
+Shows: Boe, 6h 9c
+Combination: Boe, Flush ( Ac 9c 7c 5c 2c )
+Wins: Fabem, chips: 100
+Wins: Boe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabem
+Small Blind: Fabem, chips: 100
+Big Blind: Boe, chips: 200
+Flop: Ts Jh 7d
+Turn: 7h
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Fabem, 8h 8s
+Combination: Fabem, Two Pair ( 8h 8s 7d 7h Jh )
+Shows: Boe, 9h Kc
+Combination: Boe, Pair ( 7d 7h Kc Jh Ts )
+Wins: Fabem, chips: 200
+Wins: Boe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Flop: 3d 4c 9s
+Turn: 6s
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Fabem, 8c Td
+Combination: Fabem, High Card ( As Td 9s 8c 6s )
+Shows: Boe, Jc 3h
+Combination: Boe, Pair ( 3h 3d As Jc 9s )
+Wins: Fabem, chips: 100
+Wins: Boe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabem
+Small Blind: Fabem, chips: 100
+Big Blind: Boe, chips: 200
+Flop: 2d 4h 9d
+Turn: Tc
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Fabem, Td Ks
+Combination: Fabem, Pair ( Td Tc Ks 9d 7h )
+Shows: Boe, 7s 7c
+Combination: Boe, Three Of A Kind ( 7s 7c 7h Tc 9d )
+Wins: Boe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Folds: Boe
+Pot size: 300
+Wins: Fabem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabem
+Small Blind: Fabem, chips: 100
+Big Blind: Boe, chips: 200
+Flop: Kh Ac Qh
+Turn: 8s
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Fabem, 5h Kc
+Combination: Fabem, Pair ( Kc Kh Ac Qh Th )
+Shows: Boe, 3d Tc
+Combination: Boe, Pair ( Tc Th Ac Kh Qh )
+Wins: Fabem, chips: 200
+Wins: Boe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Fabem, chips: 200
+Flop: 2d 8d Qs
+Turn: Kh
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Fabem, 9c Js
+Combination: Fabem, Pair ( 8d 8s Kh Qs Js )
+Shows: Boe, 6h 4c
+Combination: Boe, Pair ( 8d 8s Kh Qs 6h )
+Wins: Fabem, chips: 300
+Quits: Boe, chips: 0
+Ranking: Fabem, Place: 1, Score: 1000
+Reveal AI: Fabem, AI: Random
+Ranking: Boe, Place: 2, Score: -1000
+Reveal AI: Boe, AI: AIMyBot1
+
+Player Stats for Boe, AI: AIMyBot1
+General: deals: 17, actions: 10, preflop actions: 10
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1600, lost: 2800, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.0588235, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Fabem, AI: Random
+General: deals: 17, actions: 4, preflop actions: 4
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 16, showdown: 7, bluff: 9
+Chips: won: 4900, lost: 3900, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.235294, PFR: 0.176471, 3Bet: 0.176471
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+

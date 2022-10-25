@@ -1,0 +1,276 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wapache: Random
+Huchun: AIMyBot1
+
+Joins: Wapache, chips: 1000
+Joins: Huchun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wapache
+Small Blind: Wapache, chips: 100
+Big Blind: Huchun, chips: 200
+Calls: Wapache
+DEBUG MESSAGE: INVALID ACTION FROM Huchun (2 0)
+Folds: Huchun
+Pot size: 400
+Wins: Wapache, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchun
+Small Blind: Huchun, chips: 100
+Big Blind: Wapache, chips: 200
+Folds: Huchun
+Pot size: 300
+Wins: Wapache, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wapache
+Small Blind: Wapache, chips: 100
+Big Blind: Huchun, chips: 200
+Calls: Wapache
+DEBUG MESSAGE: INVALID ACTION FROM Huchun (2 0)
+Folds: Huchun
+Pot size: 400
+Boasts: Wapache, 4d 8s
+Wins: Wapache, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchun
+Small Blind: Huchun, chips: 100
+Big Blind: Wapache, chips: 200
+Folds: Huchun
+Pot size: 300
+Wins: Wapache, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wapache
+Small Blind: Wapache, chips: 100
+Big Blind: Huchun, chips: 200
+Calls: Wapache
+DEBUG MESSAGE: INVALID ACTION FROM Huchun (2 0)
+Folds: Huchun
+Pot size: 400
+Wins: Wapache, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchun
+Small Blind: Huchun, chips: 100
+Big Blind: Wapache, chips: 200
+Folds: Huchun
+Pot size: 300
+Wins: Wapache, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wapache
+Small Blind: Wapache, chips: 100
+Big Blind: Huchun, chips: 100
+Flop: Qc Kc Qs
+Turn: Jd
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Wapache, 5s 6s
+Combination: Wapache, Pair ( Qc Qs Kc Jd 7d )
+Shows: Huchun, 8d 2s
+Combination: Huchun, Pair ( Qc Qs Kc Jd 8d )
+Wins: Huchun, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchun
+Small Blind: Huchun, chips: 100
+Big Blind: Wapache, chips: 200
+Folds: Huchun
+Pot size: 300
+Wins: Wapache, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wapache
+Small Blind: Wapache, chips: 100
+Big Blind: Huchun, chips: 100
+Flop: 9c 8d 3s
+Turn: 8s
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Wapache, 5d 7h
+Combination: Wapache, Pair ( 8d 8s As 9c 7h )
+Shows: Huchun, 7d 7s
+Combination: Huchun, Two Pair ( 8d 8s 7d 7s As )
+Wins: Huchun, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchun
+Small Blind: Huchun, chips: 100
+Big Blind: Wapache, chips: 200
+Folds: Huchun
+Pot size: 300
+Wins: Wapache, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wapache
+Small Blind: Wapache, chips: 100
+Big Blind: Huchun, chips: 100
+Flop: Qh 3h 8s
+Turn: As
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Wapache, Jd Jc
+Combination: Wapache, Two Pair ( Jd Jc 8s 8h As )
+Shows: Huchun, Kc Th
+Combination: Huchun, Pair ( 8s 8h As Kc Qh )
+Wins: Wapache, chips: 200
+Quits: Huchun, chips: 0
+Ranking: Wapache, Place: 1, Score: 1000
+Reveal AI: Wapache, AI: Random
+Ranking: Huchun, Place: 2, Score: -1000
+Reveal AI: Huchun, AI: AIMyBot1
+
+Player Stats for Huchun, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Wapache, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Date: 2022/10/25 13:46:26
+
+The game begins. The AI's of the players are: 
+Wapache: Random
+Huchun: AIMyBot1
+
+Joins: Wapache, chips: 1000
+Joins: Huchun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wapache
+Small Blind: Wapache, chips: 100
+Big Blind: Huchun, chips: 200
+Calls: Wapache
+DEBUG MESSAGE: INVALID ACTION FROM Huchun (2 0)
+Folds: Huchun
+Pot size: 400
+Wins: Wapache, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchun
+Small Blind: Huchun, chips: 100
+Big Blind: Wapache, chips: 200
+Folds: Huchun
+Pot size: 300
+Wins: Wapache, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wapache
+Small Blind: Wapache, chips: 100
+Big Blind: Huchun, chips: 200
+Calls: Wapache
+DEBUG MESSAGE: INVALID ACTION FROM Huchun (2 0)
+Folds: Huchun
+Pot size: 400
+Boasts: Wapache, 4d 8s
+Wins: Wapache, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchun
+Small Blind: Huchun, chips: 100
+Big Blind: Wapache, chips: 200
+Folds: Huchun
+Pot size: 300
+Wins: Wapache, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wapache
+Small Blind: Wapache, chips: 100
+Big Blind: Huchun, chips: 200
+Calls: Wapache
+DEBUG MESSAGE: INVALID ACTION FROM Huchun (2 0)
+Folds: Huchun
+Pot size: 400
+Wins: Wapache, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchun
+Small Blind: Huchun, chips: 100
+Big Blind: Wapache, chips: 200
+Folds: Huchun
+Pot size: 300
+Wins: Wapache, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wapache
+Small Blind: Wapache, chips: 100
+Big Blind: Huchun, chips: 100
+Flop: Qc Kc Qs
+Turn: Jd
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Wapache, 5s 6s
+Combination: Wapache, Pair ( Qc Qs Kc Jd 7d )
+Shows: Huchun, 8d 2s
+Combination: Huchun, Pair ( Qc Qs Kc Jd 8d )
+Wins: Huchun, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchun
+Small Blind: Huchun, chips: 100
+Big Blind: Wapache, chips: 200
+Folds: Huchun
+Pot size: 300
+Wins: Wapache, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wapache
+Small Blind: Wapache, chips: 100
+Big Blind: Huchun, chips: 100
+Flop: 9c 8d 3s
+Turn: 8s
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Wapache, 5d 7h
+Combination: Wapache, Pair ( 8d 8s As 9c 7h )
+Shows: Huchun, 7d 7s
+Combination: Huchun, Two Pair ( 8d 8s 7d 7s As )
+Wins: Huchun, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchun
+Small Blind: Huchun, chips: 100
+Big Blind: Wapache, chips: 200
+Folds: Huchun
+Pot size: 300
+Wins: Wapache, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wapache
+Small Blind: Wapache, chips: 100
+Big Blind: Huchun, chips: 100
+Flop: Qh 3h 8s
+Turn: As
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Wapache, Jd Jc
+Combination: Wapache, Two Pair ( Jd Jc 8s 8h As )
+Shows: Huchun, Kc Th
+Combination: Huchun, Pair ( 8s 8h As Kc Qh )
+Wins: Wapache, chips: 200
+Quits: Huchun, chips: 0
+Ranking: Wapache, Place: 1, Score: 1000
+Reveal AI: Wapache, AI: Random
+Ranking: Huchun, Place: 2, Score: -1000
+Reveal AI: Huchun, AI: AIMyBot1
+
+Player Stats for Huchun, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Wapache, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+

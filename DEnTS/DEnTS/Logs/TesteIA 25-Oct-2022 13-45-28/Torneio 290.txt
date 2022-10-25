@@ -1,0 +1,328 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pudoekom: Random
+Foka: AIMyBot1
+
+Joins: Pudoekom, chips: 1000
+Joins: Foka, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foka
+Small Blind: Foka, chips: 100
+Big Blind: Pudoekom, chips: 200
+Folds: Foka
+Pot size: 300
+Boasts: Pudoekom, 3s 7s
+Wins: Pudoekom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pudoekom
+Small Blind: Pudoekom, chips: 100
+Big Blind: Foka, chips: 200
+Raises: Pudoekom, chips: 300
+Folds: Foka
+Pot size: 700
+Wins: Pudoekom, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foka
+Small Blind: Foka, chips: 100
+Big Blind: Pudoekom, chips: 200
+Folds: Foka
+Pot size: 300
+Boasts: Pudoekom, Qs Jc
+Wins: Pudoekom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pudoekom
+Small Blind: Pudoekom, chips: 100
+Big Blind: Foka, chips: 200
+Folds: Pudoekom
+Pot size: 300
+Wins: Foka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foka
+Small Blind: Foka, chips: 100
+Big Blind: Pudoekom, chips: 200
+Folds: Foka
+Pot size: 300
+Wins: Pudoekom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pudoekom
+Small Blind: Pudoekom, chips: 100
+Big Blind: Foka, chips: 200
+Folds: Pudoekom
+Pot size: 300
+Boasts: Pudoekom, 8c Ts
+Wins: Foka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foka
+Small Blind: Foka, chips: 100
+Big Blind: Pudoekom, chips: 200
+Folds: Foka
+Pot size: 300
+Boasts: Pudoekom, 9d 3s
+Wins: Pudoekom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pudoekom
+Small Blind: Pudoekom, chips: 100
+Big Blind: Foka, chips: 200
+Raises: Pudoekom, chips: 300
+Folds: Foka
+Pot size: 700
+Wins: Pudoekom, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foka
+Small Blind: Foka, chips: 100
+Big Blind: Pudoekom, chips: 200
+Folds: Foka
+Pot size: 300
+Boasts: Pudoekom, 6c 8d
+Wins: Pudoekom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pudoekom
+Small Blind: Pudoekom, chips: 100
+Big Blind: Foka, chips: 200
+Calls: Pudoekom
+DEBUG MESSAGE: INVALID ACTION FROM Foka (2 0)
+Folds: Foka
+Pot size: 400
+Boasts: Pudoekom, 8c 8d
+Wins: Pudoekom, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foka
+Small Blind: Foka, chips: 100
+Big Blind: Pudoekom, chips: 200
+Flop: 8s 3s 6s
+Turn: Kd
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Pudoekom, Qc 8d
+Combination: Pudoekom, Pair ( 8d 8s Kd Qc 6s )
+Shows: Foka, Qs 8h
+Combination: Foka, Pair ( 8h 8s Kd Qs 6s )
+Wins: Pudoekom, chips: 200
+Wins: Foka, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pudoekom
+Small Blind: Pudoekom, chips: 100
+Big Blind: Foka, chips: 100
+Flop: 6c 7c Ad
+Turn: Qh
+River: 4s
+Pot size: 200
+Showdown Reached
+Shows: Pudoekom, 6s 5d
+Combination: Pudoekom, Pair ( 6s 6c Ad Qh 7c )
+Shows: Foka, 8s 5h
+Combination: Foka, Straight ( 8s 7c 6c 5h 4s )
+Wins: Foka, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foka
+Small Blind: Foka, chips: 100
+Big Blind: Pudoekom, chips: 200
+Folds: Foka
+Pot size: 300
+Boasts: Pudoekom, 7h 9h
+Wins: Pudoekom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pudoekom
+Small Blind: Pudoekom, chips: 100
+Big Blind: Foka, chips: 100
+Flop: Ks 2h Ac
+Turn: 3s
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Pudoekom, 3h 3c
+Combination: Pudoekom, Three Of A Kind ( 3h 3c 3s Ac Ks )
+Shows: Foka, 4s 8d
+Combination: Foka, High Card ( Ac Ks Tc 8d 4s )
+Wins: Pudoekom, chips: 200
+Quits: Foka, chips: 0
+Ranking: Pudoekom, Place: 1, Score: 1000
+Reveal AI: Pudoekom, AI: Random
+Ranking: Foka, Place: 2, Score: -1000
+Reveal AI: Foka, AI: AIMyBot1
+
+Player Stats for Foka, AI: AIMyBot1
+General: deals: 14, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 4, showdown: 2, bluff: 2
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Pudoekom, AI: Random
+General: deals: 14, actions: 5, preflop actions: 5
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 11, showdown: 2, bluff: 9
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:48
+
+The game begins. The AI's of the players are: 
+Pudoekom: Random
+Foka: AIMyBot1
+
+Joins: Pudoekom, chips: 1000
+Joins: Foka, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foka
+Small Blind: Foka, chips: 100
+Big Blind: Pudoekom, chips: 200
+Folds: Foka
+Pot size: 300
+Boasts: Pudoekom, 3s 7s
+Wins: Pudoekom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pudoekom
+Small Blind: Pudoekom, chips: 100
+Big Blind: Foka, chips: 200
+Raises: Pudoekom, chips: 300
+Folds: Foka
+Pot size: 700
+Wins: Pudoekom, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foka
+Small Blind: Foka, chips: 100
+Big Blind: Pudoekom, chips: 200
+Folds: Foka
+Pot size: 300
+Boasts: Pudoekom, Qs Jc
+Wins: Pudoekom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pudoekom
+Small Blind: Pudoekom, chips: 100
+Big Blind: Foka, chips: 200
+Folds: Pudoekom
+Pot size: 300
+Wins: Foka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foka
+Small Blind: Foka, chips: 100
+Big Blind: Pudoekom, chips: 200
+Folds: Foka
+Pot size: 300
+Wins: Pudoekom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pudoekom
+Small Blind: Pudoekom, chips: 100
+Big Blind: Foka, chips: 200
+Folds: Pudoekom
+Pot size: 300
+Boasts: Pudoekom, 8c Ts
+Wins: Foka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foka
+Small Blind: Foka, chips: 100
+Big Blind: Pudoekom, chips: 200
+Folds: Foka
+Pot size: 300
+Boasts: Pudoekom, 9d 3s
+Wins: Pudoekom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pudoekom
+Small Blind: Pudoekom, chips: 100
+Big Blind: Foka, chips: 200
+Raises: Pudoekom, chips: 300
+Folds: Foka
+Pot size: 700
+Wins: Pudoekom, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foka
+Small Blind: Foka, chips: 100
+Big Blind: Pudoekom, chips: 200
+Folds: Foka
+Pot size: 300
+Boasts: Pudoekom, 6c 8d
+Wins: Pudoekom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pudoekom
+Small Blind: Pudoekom, chips: 100
+Big Blind: Foka, chips: 200
+Calls: Pudoekom
+DEBUG MESSAGE: INVALID ACTION FROM Foka (2 0)
+Folds: Foka
+Pot size: 400
+Boasts: Pudoekom, 8c 8d
+Wins: Pudoekom, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foka
+Small Blind: Foka, chips: 100
+Big Blind: Pudoekom, chips: 200
+Flop: 8s 3s 6s
+Turn: Kd
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Pudoekom, Qc 8d
+Combination: Pudoekom, Pair ( 8d 8s Kd Qc 6s )
+Shows: Foka, Qs 8h
+Combination: Foka, Pair ( 8h 8s Kd Qs 6s )
+Wins: Pudoekom, chips: 200
+Wins: Foka, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pudoekom
+Small Blind: Pudoekom, chips: 100
+Big Blind: Foka, chips: 100
+Flop: 6c 7c Ad
+Turn: Qh
+River: 4s
+Pot size: 200
+Showdown Reached
+Shows: Pudoekom, 6s 5d
+Combination: Pudoekom, Pair ( 6s 6c Ad Qh 7c )
+Shows: Foka, 8s 5h
+Combination: Foka, Straight ( 8s 7c 6c 5h 4s )
+Wins: Foka, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foka
+Small Blind: Foka, chips: 100
+Big Blind: Pudoekom, chips: 200
+Folds: Foka
+Pot size: 300
+Boasts: Pudoekom, 7h 9h
+Wins: Pudoekom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pudoekom
+Small Blind: Pudoekom, chips: 100
+Big Blind: Foka, chips: 100
+Flop: Ks 2h Ac
+Turn: 3s
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Pudoekom, 3h 3c
+Combination: Pudoekom, Three Of A Kind ( 3h 3c 3s Ac Ks )
+Shows: Foka, 4s 8d
+Combination: Foka, High Card ( Ac Ks Tc 8d 4s )
+Wins: Pudoekom, chips: 200
+Quits: Foka, chips: 0
+Ranking: Pudoekom, Place: 1, Score: 1000
+Reveal AI: Pudoekom, AI: Random
+Ranking: Foka, Place: 2, Score: -1000
+Reveal AI: Foka, AI: AIMyBot1
+
+Player Stats for Foka, AI: AIMyBot1
+General: deals: 14, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 4, showdown: 2, bluff: 2
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Pudoekom, AI: Random
+General: deals: 14, actions: 5, preflop actions: 5
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 11, showdown: 2, bluff: 9
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

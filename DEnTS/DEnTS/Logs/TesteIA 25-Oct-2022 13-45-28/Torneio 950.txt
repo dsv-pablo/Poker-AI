@@ -1,0 +1,516 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Toefi: AIMyBot1
+Rifup: Random
+
+Joins: Toefi, chips: 1000
+Joins: Rifup, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Folds: Toefi
+Pot size: 300
+Wins: Rifup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Calls: Rifup
+DEBUG MESSAGE: INVALID ACTION FROM Toefi (2 0)
+Folds: Toefi
+Pot size: 400
+Wins: Rifup, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Folds: Toefi
+Pot size: 300
+Wins: Rifup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Calls: Rifup
+DEBUG MESSAGE: INVALID ACTION FROM Toefi (2 0)
+Folds: Toefi
+Pot size: 400
+Boasts: Rifup, 3s 7c
+Wins: Rifup, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Folds: Toefi
+Pot size: 300
+Wins: Rifup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Folds: Rifup
+Pot size: 300
+Boasts: Rifup, 2h 4d
+Wins: Toefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Folds: Toefi
+Pot size: 300
+Boasts: Rifup, 9h 4d
+Wins: Rifup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Calls: Rifup
+DEBUG MESSAGE: INVALID ACTION FROM Toefi (2 0)
+Folds: Toefi
+Pot size: 400
+Wins: Rifup, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Flop: 5s 9c 4c
+Turn: 7s
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Toefi, Qh 9h
+Combination: Toefi, Two Pair ( 9h 9c 4c 4s Qh )
+Shows: Rifup, 5c Js
+Combination: Rifup, Two Pair ( 5c 5s 4c 4s Js )
+Wins: Toefi, chips: 200
+Wins: Rifup, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Flop: Kd Kc 7c
+Turn: 9h
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Toefi, Jc 7h
+Combination: Toefi, Two Pair ( Kd Kc Jc Jd 9h )
+Shows: Rifup, Td 3d
+Combination: Rifup, Pair ( Kd Kc Jd Td 9h )
+Wins: Toefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Folds: Toefi
+Pot size: 300
+Wins: Rifup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Flop: 8d Td 6s
+Turn: Tc
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Toefi, 3c Ts
+Combination: Toefi, Three Of A Kind ( Ts Td Tc Qh 8d )
+Shows: Rifup, 8s 2h
+Combination: Rifup, Two Pair ( Td Tc 8s 8d Qh )
+Wins: Toefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Folds: Toefi
+Pot size: 300
+Boasts: Rifup, Ks 6c
+Wins: Rifup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Flop: 2h 8s 5c
+Turn: 8d
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Toefi, Jd Js
+Combination: Toefi, Two Pair ( Jd Js 8s 8d 9c )
+Shows: Rifup, Qc Ts
+Combination: Rifup, Pair ( 8s 8d Qc Ts 9c )
+Wins: Toefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Folds: Toefi
+Pot size: 300
+Wins: Rifup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Flop: 4h 3d 4c
+Turn: Kh
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Toefi, 7d As
+Combination: Toefi, Pair ( 4h 4c As Kh 8c )
+Shows: Rifup, Js 5s
+Combination: Rifup, Pair ( 4h 4c Kh Js 8c )
+Wins: Toefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Folds: Toefi
+Pot size: 300
+Boasts: Rifup, Kd Jd
+Wins: Rifup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Flop: 9h 3c Tc
+Turn: Jh
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Toefi, 8s Td
+Combination: Toefi, Two Pair ( Td Tc 8s 8c Jh )
+Shows: Rifup, Jc 8d
+Combination: Rifup, Two Pair ( Jc Jh 8d 8c Tc )
+Wins: Toefi, chips: 100
+Wins: Rifup, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Flop: 2s Ad Qh
+Turn: 7c
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Toefi, Ks Ah
+Combination: Toefi, Pair ( Ah Ad Ks Qh 9h )
+Shows: Rifup, Kh 5c
+Combination: Rifup, High Card ( Ad Kh Qh 9h 7c )
+Wins: Toefi, chips: 200
+Wins: Rifup, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Flop: 7s Js Qs
+Turn: 9s
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Toefi, 6c Tc
+Combination: Toefi, Pair ( 6c 6d Qs Js Tc )
+Shows: Rifup, 7c 6s
+Combination: Rifup, Flush ( Qs Js 9s 7s 6s )
+Wins: Toefi, chips: 100
+Wins: Rifup, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Flop: Ac Td 2h
+Turn: 9h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Toefi, Ts 2s
+Combination: Toefi, Two Pair ( Ac As Ts Td 9h )
+Shows: Rifup, Ad Jh
+Combination: Rifup, Three Of A Kind ( Ad Ac As Jh Td )
+Wins: Rifup, chips: 300
+Quits: Toefi, chips: 0
+Ranking: Rifup, Place: 1, Score: 1000
+Reveal AI: Rifup, AI: Random
+Ranking: Toefi, Place: 2, Score: -1000
+Reveal AI: Toefi, AI: AIMyBot1
+
+Player Stats for Rifup, AI: Random
+General: deals: 21, actions: 4, preflop actions: 4
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 16, showdown: 5, bluff: 11
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.555556
+
+
+Player Stats for Toefi, AI: AIMyBot1
+General: deals: 21, actions: 11, preflop actions: 11
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 9, showdown: 8, bluff: 1
+Chips: won: 2100, lost: 3100, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Date: 2022/10/25 13:46:31
+
+The game begins. The AI's of the players are: 
+Toefi: AIMyBot1
+Rifup: Random
+
+Joins: Toefi, chips: 1000
+Joins: Rifup, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Folds: Toefi
+Pot size: 300
+Wins: Rifup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Calls: Rifup
+DEBUG MESSAGE: INVALID ACTION FROM Toefi (2 0)
+Folds: Toefi
+Pot size: 400
+Wins: Rifup, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Folds: Toefi
+Pot size: 300
+Wins: Rifup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Calls: Rifup
+DEBUG MESSAGE: INVALID ACTION FROM Toefi (2 0)
+Folds: Toefi
+Pot size: 400
+Boasts: Rifup, 3s 7c
+Wins: Rifup, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Folds: Toefi
+Pot size: 300
+Wins: Rifup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Folds: Rifup
+Pot size: 300
+Boasts: Rifup, 2h 4d
+Wins: Toefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Folds: Toefi
+Pot size: 300
+Boasts: Rifup, 9h 4d
+Wins: Rifup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Calls: Rifup
+DEBUG MESSAGE: INVALID ACTION FROM Toefi (2 0)
+Folds: Toefi
+Pot size: 400
+Wins: Rifup, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Flop: 5s 9c 4c
+Turn: 7s
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Toefi, Qh 9h
+Combination: Toefi, Two Pair ( 9h 9c 4c 4s Qh )
+Shows: Rifup, 5c Js
+Combination: Rifup, Two Pair ( 5c 5s 4c 4s Js )
+Wins: Toefi, chips: 200
+Wins: Rifup, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Flop: Kd Kc 7c
+Turn: 9h
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Toefi, Jc 7h
+Combination: Toefi, Two Pair ( Kd Kc Jc Jd 9h )
+Shows: Rifup, Td 3d
+Combination: Rifup, Pair ( Kd Kc Jd Td 9h )
+Wins: Toefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Folds: Toefi
+Pot size: 300
+Wins: Rifup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Flop: 8d Td 6s
+Turn: Tc
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Toefi, 3c Ts
+Combination: Toefi, Three Of A Kind ( Ts Td Tc Qh 8d )
+Shows: Rifup, 8s 2h
+Combination: Rifup, Two Pair ( Td Tc 8s 8d Qh )
+Wins: Toefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Folds: Toefi
+Pot size: 300
+Boasts: Rifup, Ks 6c
+Wins: Rifup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Flop: 2h 8s 5c
+Turn: 8d
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Toefi, Jd Js
+Combination: Toefi, Two Pair ( Jd Js 8s 8d 9c )
+Shows: Rifup, Qc Ts
+Combination: Rifup, Pair ( 8s 8d Qc Ts 9c )
+Wins: Toefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Folds: Toefi
+Pot size: 300
+Wins: Rifup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Flop: 4h 3d 4c
+Turn: Kh
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Toefi, 7d As
+Combination: Toefi, Pair ( 4h 4c As Kh 8c )
+Shows: Rifup, Js 5s
+Combination: Rifup, Pair ( 4h 4c Kh Js 8c )
+Wins: Toefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Folds: Toefi
+Pot size: 300
+Boasts: Rifup, Kd Jd
+Wins: Rifup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Flop: 9h 3c Tc
+Turn: Jh
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Toefi, 8s Td
+Combination: Toefi, Two Pair ( Td Tc 8s 8c Jh )
+Shows: Rifup, Jc 8d
+Combination: Rifup, Two Pair ( Jc Jh 8d 8c Tc )
+Wins: Toefi, chips: 100
+Wins: Rifup, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Flop: 2s Ad Qh
+Turn: 7c
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Toefi, Ks Ah
+Combination: Toefi, Pair ( Ah Ad Ks Qh 9h )
+Shows: Rifup, Kh 5c
+Combination: Rifup, High Card ( Ad Kh Qh 9h 7c )
+Wins: Toefi, chips: 200
+Wins: Rifup, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rifup
+Small Blind: Rifup, chips: 100
+Big Blind: Toefi, chips: 200
+Flop: 7s Js Qs
+Turn: 9s
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Toefi, 6c Tc
+Combination: Toefi, Pair ( 6c 6d Qs Js Tc )
+Shows: Rifup, 7c 6s
+Combination: Rifup, Flush ( Qs Js 9s 7s 6s )
+Wins: Toefi, chips: 100
+Wins: Rifup, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toefi
+Small Blind: Toefi, chips: 100
+Big Blind: Rifup, chips: 200
+Flop: Ac Td 2h
+Turn: 9h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Toefi, Ts 2s
+Combination: Toefi, Two Pair ( Ac As Ts Td 9h )
+Shows: Rifup, Ad Jh
+Combination: Rifup, Three Of A Kind ( Ad Ac As Jh Td )
+Wins: Rifup, chips: 300
+Quits: Toefi, chips: 0
+Ranking: Rifup, Place: 1, Score: 1000
+Reveal AI: Rifup, AI: Random
+Ranking: Toefi, Place: 2, Score: -1000
+Reveal AI: Toefi, AI: AIMyBot1
+
+Player Stats for Rifup, AI: Random
+General: deals: 21, actions: 4, preflop actions: 4
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 16, showdown: 5, bluff: 11
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.555556
+
+
+Player Stats for Toefi, AI: AIMyBot1
+General: deals: 21, actions: 11, preflop actions: 11
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 9, showdown: 8, bluff: 1
+Chips: won: 2100, lost: 3100, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+

@@ -1,0 +1,328 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Peewriget: Random
+Cha: AIMyBot1
+
+Joins: Peewriget, chips: 1000
+Joins: Cha, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peewriget
+Small Blind: Peewriget, chips: 100
+Big Blind: Cha, chips: 200
+Raises: Peewriget, chips: 300
+Folds: Cha
+Pot size: 700
+Wins: Peewriget, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cha
+Small Blind: Cha, chips: 100
+Big Blind: Peewriget, chips: 200
+Folds: Cha
+Pot size: 300
+Wins: Peewriget, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peewriget
+Small Blind: Peewriget, chips: 100
+Big Blind: Cha, chips: 200
+Raises: Peewriget, chips: 300
+Folds: Cha
+Pot size: 700
+Boasts: Peewriget, Kh Qs
+Wins: Peewriget, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cha
+Small Blind: Cha, chips: 100
+Big Blind: Peewriget, chips: 200
+Folds: Cha
+Pot size: 300
+Boasts: Peewriget, Js 5h
+Wins: Peewriget, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peewriget
+Small Blind: Peewriget, chips: 100
+Big Blind: Cha, chips: 200
+Folds: Peewriget
+Pot size: 300
+Wins: Cha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cha
+Small Blind: Cha, chips: 100
+Big Blind: Peewriget, chips: 200
+Folds: Cha
+Pot size: 300
+Wins: Peewriget, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peewriget
+Small Blind: Peewriget, chips: 100
+Big Blind: Cha, chips: 200
+Raises: Peewriget, chips: 300
+Calls: Cha
+Flop: 6c 9h 6d
+Turn: Jd
+River: Th
+Pot size: 900
+Showdown Reached
+Shows: Peewriget, Qh 5s
+Combination: Peewriget, Pair ( 6c 6d Qh Jd Th )
+Shows: Cha, Jc Ks
+Combination: Cha, Two Pair ( Jc Jd 6c 6d Ks )
+Wins: Peewriget, chips: 100
+Wins: Cha, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cha
+Small Blind: Cha, chips: 100
+Big Blind: Peewriget, chips: 200
+Folds: Cha
+Pot size: 300
+Boasts: Peewriget, 6s 8h
+Wins: Peewriget, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peewriget
+Small Blind: Peewriget, chips: 100
+Big Blind: Cha, chips: 200
+Folds: Peewriget
+Pot size: 300
+Boasts: Peewriget, Kd Kh
+Wins: Cha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cha
+Small Blind: Cha, chips: 100
+Big Blind: Peewriget, chips: 200
+Folds: Cha
+Pot size: 300
+Boasts: Peewriget, 4s Qd
+Wins: Peewriget, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peewriget
+Small Blind: Peewriget, chips: 100
+Big Blind: Cha, chips: 200
+Raises: Peewriget, chips: 300
+Folds: Cha
+Pot size: 700
+Wins: Peewriget, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cha
+Small Blind: Cha, chips: 100
+Big Blind: Peewriget, chips: 200
+Folds: Cha
+Pot size: 300
+Wins: Peewriget, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peewriget
+Small Blind: Peewriget, chips: 100
+Big Blind: Cha, chips: 200
+Raises: Peewriget, chips: 300
+Folds: Cha
+Pot size: 700
+Wins: Peewriget, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cha
+Small Blind: Cha, chips: 100
+Big Blind: Peewriget, chips: 200
+Folds: Cha
+Pot size: 300
+Wins: Peewriget, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peewriget
+Small Blind: Peewriget, chips: 100
+Big Blind: Cha, chips: 100
+Flop: Ah Jh 6c
+Turn: 5c
+River: 6h
+Pot size: 200
+Showdown Reached
+Shows: Peewriget, 5h Js
+Combination: Peewriget, Two Pair ( Js Jh 6c 6h Ah )
+Shows: Cha, 7c Qd
+Combination: Cha, Pair ( 6c 6h Ah Qd Jh )
+Wins: Peewriget, chips: 200
+Quits: Cha, chips: 0
+Ranking: Peewriget, Place: 1, Score: 1000
+Reveal AI: Peewriget, AI: Random
+Ranking: Cha, Place: 2, Score: -1000
+Reveal AI: Cha, AI: AIMyBot1
+
+Player Stats for Cha, AI: AIMyBot1
+General: deals: 15, actions: 12, preflop actions: 12
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 1400, lost: 2500, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.0666667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Peewriget, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 13, showdown: 2, bluff: 11
+Chips: won: 5200, lost: 4200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:18
+
+The game begins. The AI's of the players are: 
+Peewriget: Random
+Cha: AIMyBot1
+
+Joins: Peewriget, chips: 1000
+Joins: Cha, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peewriget
+Small Blind: Peewriget, chips: 100
+Big Blind: Cha, chips: 200
+Raises: Peewriget, chips: 300
+Folds: Cha
+Pot size: 700
+Wins: Peewriget, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cha
+Small Blind: Cha, chips: 100
+Big Blind: Peewriget, chips: 200
+Folds: Cha
+Pot size: 300
+Wins: Peewriget, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peewriget
+Small Blind: Peewriget, chips: 100
+Big Blind: Cha, chips: 200
+Raises: Peewriget, chips: 300
+Folds: Cha
+Pot size: 700
+Boasts: Peewriget, Kh Qs
+Wins: Peewriget, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cha
+Small Blind: Cha, chips: 100
+Big Blind: Peewriget, chips: 200
+Folds: Cha
+Pot size: 300
+Boasts: Peewriget, Js 5h
+Wins: Peewriget, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peewriget
+Small Blind: Peewriget, chips: 100
+Big Blind: Cha, chips: 200
+Folds: Peewriget
+Pot size: 300
+Wins: Cha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cha
+Small Blind: Cha, chips: 100
+Big Blind: Peewriget, chips: 200
+Folds: Cha
+Pot size: 300
+Wins: Peewriget, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peewriget
+Small Blind: Peewriget, chips: 100
+Big Blind: Cha, chips: 200
+Raises: Peewriget, chips: 300
+Calls: Cha
+Flop: 6c 9h 6d
+Turn: Jd
+River: Th
+Pot size: 900
+Showdown Reached
+Shows: Peewriget, Qh 5s
+Combination: Peewriget, Pair ( 6c 6d Qh Jd Th )
+Shows: Cha, Jc Ks
+Combination: Cha, Two Pair ( Jc Jd 6c 6d Ks )
+Wins: Peewriget, chips: 100
+Wins: Cha, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cha
+Small Blind: Cha, chips: 100
+Big Blind: Peewriget, chips: 200
+Folds: Cha
+Pot size: 300
+Boasts: Peewriget, 6s 8h
+Wins: Peewriget, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peewriget
+Small Blind: Peewriget, chips: 100
+Big Blind: Cha, chips: 200
+Folds: Peewriget
+Pot size: 300
+Boasts: Peewriget, Kd Kh
+Wins: Cha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cha
+Small Blind: Cha, chips: 100
+Big Blind: Peewriget, chips: 200
+Folds: Cha
+Pot size: 300
+Boasts: Peewriget, 4s Qd
+Wins: Peewriget, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peewriget
+Small Blind: Peewriget, chips: 100
+Big Blind: Cha, chips: 200
+Raises: Peewriget, chips: 300
+Folds: Cha
+Pot size: 700
+Wins: Peewriget, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cha
+Small Blind: Cha, chips: 100
+Big Blind: Peewriget, chips: 200
+Folds: Cha
+Pot size: 300
+Wins: Peewriget, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peewriget
+Small Blind: Peewriget, chips: 100
+Big Blind: Cha, chips: 200
+Raises: Peewriget, chips: 300
+Folds: Cha
+Pot size: 700
+Wins: Peewriget, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cha
+Small Blind: Cha, chips: 100
+Big Blind: Peewriget, chips: 200
+Folds: Cha
+Pot size: 300
+Wins: Peewriget, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peewriget
+Small Blind: Peewriget, chips: 100
+Big Blind: Cha, chips: 100
+Flop: Ah Jh 6c
+Turn: 5c
+River: 6h
+Pot size: 200
+Showdown Reached
+Shows: Peewriget, 5h Js
+Combination: Peewriget, Two Pair ( Js Jh 6c 6h Ah )
+Shows: Cha, 7c Qd
+Combination: Cha, Pair ( 6c 6h Ah Qd Jh )
+Wins: Peewriget, chips: 200
+Quits: Cha, chips: 0
+Ranking: Peewriget, Place: 1, Score: 1000
+Reveal AI: Peewriget, AI: Random
+Ranking: Cha, Place: 2, Score: -1000
+Reveal AI: Cha, AI: AIMyBot1
+
+Player Stats for Cha, AI: AIMyBot1
+General: deals: 15, actions: 12, preflop actions: 12
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 1400, lost: 2500, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.0666667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Peewriget, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 13, showdown: 2, bluff: 11
+Chips: won: 5200, lost: 4200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

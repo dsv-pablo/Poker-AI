@@ -1,0 +1,286 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pepepip: Random
+Goelichu: AIMyBot1
+
+Joins: Pepepip, chips: 1000
+Joins: Goelichu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goelichu
+Small Blind: Goelichu, chips: 100
+Big Blind: Pepepip, chips: 200
+Folds: Goelichu
+Pot size: 300
+Wins: Pepepip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepepip
+Small Blind: Pepepip, chips: 100
+Big Blind: Goelichu, chips: 200
+Folds: Pepepip
+Pot size: 300
+Wins: Goelichu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goelichu
+Small Blind: Goelichu, chips: 100
+Big Blind: Pepepip, chips: 200
+Folds: Goelichu
+Pot size: 300
+Boasts: Pepepip, 8c 9c
+Wins: Pepepip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepepip
+Small Blind: Pepepip, chips: 100
+Big Blind: Goelichu, chips: 200
+Calls: Pepepip
+DEBUG MESSAGE: INVALID ACTION FROM Goelichu (2 0)
+Folds: Goelichu
+Pot size: 400
+Boasts: Pepepip, 4s 6s
+Wins: Pepepip, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goelichu
+Small Blind: Goelichu, chips: 100
+Big Blind: Pepepip, chips: 200
+Folds: Goelichu
+Pot size: 300
+Wins: Pepepip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepepip
+Small Blind: Pepepip, chips: 100
+Big Blind: Goelichu, chips: 200
+Raises: Pepepip, chips: 300
+Folds: Goelichu
+Pot size: 700
+Boasts: Pepepip, Jh 4d
+Wins: Pepepip, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goelichu
+Small Blind: Goelichu, chips: 100
+Big Blind: Pepepip, chips: 200
+Folds: Goelichu
+Pot size: 300
+Boasts: Pepepip, 5d 5h
+Wins: Pepepip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepepip
+Small Blind: Pepepip, chips: 100
+Big Blind: Goelichu, chips: 200
+Calls: Pepepip
+DEBUG MESSAGE: INVALID ACTION FROM Goelichu (2 0)
+Folds: Goelichu
+Pot size: 400
+Boasts: Pepepip, 9h 4s
+Wins: Pepepip, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goelichu
+Small Blind: Goelichu, chips: 100
+Big Blind: Pepepip, chips: 200
+Flop: 5h 7s Ts
+Turn: 9d
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Pepepip, 4c Ks
+Combination: Pepepip, Pair ( 9d 9h Ks Ts 7s )
+Shows: Goelichu, Ad 3c
+Combination: Goelichu, Pair ( 9d 9h Ad Ts 7s )
+Wins: Pepepip, chips: 100
+Wins: Goelichu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepepip
+Small Blind: Pepepip, chips: 100
+Big Blind: Goelichu, chips: 200
+Flop: 8d 9d 9c
+Turn: Kh
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Pepepip, 2d 7h
+Combination: Pepepip, Two Pair ( 9d 9c 2d 2c Kh )
+Shows: Goelichu, 6d Qd
+Combination: Goelichu, Pair ( 9d 9c Kh Qd 8d )
+Wins: Pepepip, chips: 200
+Wins: Goelichu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goelichu
+Small Blind: Goelichu, chips: 100
+Big Blind: Pepepip, chips: 200
+Flop: Kh 6c 9c
+Turn: 8s
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Pepepip, 3s 9s
+Combination: Pepepip, Pair ( 9s 9c Kh Tc 8s )
+Shows: Goelichu, Js As
+Combination: Goelichu, High Card ( As Kh Js Tc 9c )
+Wins: Pepepip, chips: 300
+Quits: Goelichu, chips: 0
+Ranking: Pepepip, Place: 1, Score: 1000
+Reveal AI: Pepepip, AI: Random
+Ranking: Goelichu, Place: 2, Score: -1000
+Reveal AI: Goelichu, AI: AIMyBot1
+
+Player Stats for Goelichu, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Pepepip, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:04
+
+The game begins. The AI's of the players are: 
+Pepepip: Random
+Goelichu: AIMyBot1
+
+Joins: Pepepip, chips: 1000
+Joins: Goelichu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goelichu
+Small Blind: Goelichu, chips: 100
+Big Blind: Pepepip, chips: 200
+Folds: Goelichu
+Pot size: 300
+Wins: Pepepip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepepip
+Small Blind: Pepepip, chips: 100
+Big Blind: Goelichu, chips: 200
+Folds: Pepepip
+Pot size: 300
+Wins: Goelichu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goelichu
+Small Blind: Goelichu, chips: 100
+Big Blind: Pepepip, chips: 200
+Folds: Goelichu
+Pot size: 300
+Boasts: Pepepip, 8c 9c
+Wins: Pepepip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepepip
+Small Blind: Pepepip, chips: 100
+Big Blind: Goelichu, chips: 200
+Calls: Pepepip
+DEBUG MESSAGE: INVALID ACTION FROM Goelichu (2 0)
+Folds: Goelichu
+Pot size: 400
+Boasts: Pepepip, 4s 6s
+Wins: Pepepip, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goelichu
+Small Blind: Goelichu, chips: 100
+Big Blind: Pepepip, chips: 200
+Folds: Goelichu
+Pot size: 300
+Wins: Pepepip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepepip
+Small Blind: Pepepip, chips: 100
+Big Blind: Goelichu, chips: 200
+Raises: Pepepip, chips: 300
+Folds: Goelichu
+Pot size: 700
+Boasts: Pepepip, Jh 4d
+Wins: Pepepip, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goelichu
+Small Blind: Goelichu, chips: 100
+Big Blind: Pepepip, chips: 200
+Folds: Goelichu
+Pot size: 300
+Boasts: Pepepip, 5d 5h
+Wins: Pepepip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepepip
+Small Blind: Pepepip, chips: 100
+Big Blind: Goelichu, chips: 200
+Calls: Pepepip
+DEBUG MESSAGE: INVALID ACTION FROM Goelichu (2 0)
+Folds: Goelichu
+Pot size: 400
+Boasts: Pepepip, 9h 4s
+Wins: Pepepip, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goelichu
+Small Blind: Goelichu, chips: 100
+Big Blind: Pepepip, chips: 200
+Flop: 5h 7s Ts
+Turn: 9d
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Pepepip, 4c Ks
+Combination: Pepepip, Pair ( 9d 9h Ks Ts 7s )
+Shows: Goelichu, Ad 3c
+Combination: Goelichu, Pair ( 9d 9h Ad Ts 7s )
+Wins: Pepepip, chips: 100
+Wins: Goelichu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepepip
+Small Blind: Pepepip, chips: 100
+Big Blind: Goelichu, chips: 200
+Flop: 8d 9d 9c
+Turn: Kh
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Pepepip, 2d 7h
+Combination: Pepepip, Two Pair ( 9d 9c 2d 2c Kh )
+Shows: Goelichu, 6d Qd
+Combination: Goelichu, Pair ( 9d 9c Kh Qd 8d )
+Wins: Pepepip, chips: 200
+Wins: Goelichu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goelichu
+Small Blind: Goelichu, chips: 100
+Big Blind: Pepepip, chips: 200
+Flop: Kh 6c 9c
+Turn: 8s
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Pepepip, 3s 9s
+Combination: Pepepip, Pair ( 9s 9c Kh Tc 8s )
+Shows: Goelichu, Js As
+Combination: Goelichu, High Card ( As Kh Js Tc 9c )
+Wins: Pepepip, chips: 300
+Quits: Goelichu, chips: 0
+Ranking: Pepepip, Place: 1, Score: 1000
+Reveal AI: Pepepip, AI: Random
+Ranking: Goelichu, Place: 2, Score: -1000
+Reveal AI: Goelichu, AI: AIMyBot1
+
+Player Stats for Goelichu, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Pepepip, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

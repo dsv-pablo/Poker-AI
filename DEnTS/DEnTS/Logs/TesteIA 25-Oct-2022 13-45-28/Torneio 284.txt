@@ -1,0 +1,240 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Vereev: Random
+Jawroewro: AIMyBot1
+
+Joins: Vereev, chips: 1000
+Joins: Jawroewro, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vereev
+Small Blind: Vereev, chips: 100
+Big Blind: Jawroewro, chips: 200
+Calls: Vereev
+DEBUG MESSAGE: INVALID ACTION FROM Jawroewro (2 0)
+Folds: Jawroewro
+Pot size: 400
+Boasts: Vereev, Qs 6h
+Wins: Vereev, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jawroewro
+Small Blind: Jawroewro, chips: 100
+Big Blind: Vereev, chips: 200
+Folds: Jawroewro
+Pot size: 300
+Wins: Vereev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vereev
+Small Blind: Vereev, chips: 100
+Big Blind: Jawroewro, chips: 200
+Raises: Vereev, chips: 300
+Folds: Jawroewro
+Pot size: 700
+Boasts: Vereev, 6s Ts
+Wins: Vereev, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jawroewro
+Small Blind: Jawroewro, chips: 100
+Big Blind: Vereev, chips: 200
+Folds: Jawroewro
+Pot size: 300
+Boasts: Vereev, 8s 5d
+Wins: Vereev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vereev
+Small Blind: Vereev, chips: 100
+Big Blind: Jawroewro, chips: 200
+Raises: Vereev, chips: 300
+Folds: Jawroewro
+Pot size: 700
+Boasts: Vereev, Jd Qd
+Wins: Vereev, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jawroewro
+Small Blind: Jawroewro, chips: 100
+Big Blind: Vereev, chips: 200
+Folds: Jawroewro
+Pot size: 300
+Boasts: Vereev, 7h 3c
+Wins: Vereev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vereev
+Small Blind: Vereev, chips: 100
+Big Blind: Jawroewro, chips: 100
+Flop: 6h Ac Qs
+Turn: 3s
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Vereev, 2c 9c
+Combination: Vereev, High Card ( Ac Kh Qs 9c 6h )
+Shows: Jawroewro, Jc Qh
+Combination: Jawroewro, Pair ( Qh Qs Ac Kh Jc )
+Wins: Jawroewro, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jawroewro
+Small Blind: Jawroewro, chips: 100
+Big Blind: Vereev, chips: 200
+Folds: Jawroewro
+Pot size: 300
+Boasts: Vereev, Qc 8d
+Wins: Vereev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vereev
+Small Blind: Vereev, chips: 100
+Big Blind: Jawroewro, chips: 100
+Flop: Qc Jd 4c
+Turn: 5c
+River: Qs
+Pot size: 200
+Showdown Reached
+Shows: Vereev, Qh 4s
+Combination: Vereev, Full House ( Qh Qc Qs 4s 4c )
+Shows: Jawroewro, Td 3h
+Combination: Jawroewro, Pair ( Qc Qs Jd Td 5c )
+Wins: Vereev, chips: 200
+Quits: Jawroewro, chips: 0
+Ranking: Vereev, Place: 1, Score: 1000
+Reveal AI: Vereev, AI: Random
+Ranking: Jawroewro, Place: 2, Score: -1000
+Reveal AI: Jawroewro, AI: AIMyBot1
+
+Player Stats for Jawroewro, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Vereev, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:48
+
+The game begins. The AI's of the players are: 
+Vereev: Random
+Jawroewro: AIMyBot1
+
+Joins: Vereev, chips: 1000
+Joins: Jawroewro, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vereev
+Small Blind: Vereev, chips: 100
+Big Blind: Jawroewro, chips: 200
+Calls: Vereev
+DEBUG MESSAGE: INVALID ACTION FROM Jawroewro (2 0)
+Folds: Jawroewro
+Pot size: 400
+Boasts: Vereev, Qs 6h
+Wins: Vereev, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jawroewro
+Small Blind: Jawroewro, chips: 100
+Big Blind: Vereev, chips: 200
+Folds: Jawroewro
+Pot size: 300
+Wins: Vereev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vereev
+Small Blind: Vereev, chips: 100
+Big Blind: Jawroewro, chips: 200
+Raises: Vereev, chips: 300
+Folds: Jawroewro
+Pot size: 700
+Boasts: Vereev, 6s Ts
+Wins: Vereev, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jawroewro
+Small Blind: Jawroewro, chips: 100
+Big Blind: Vereev, chips: 200
+Folds: Jawroewro
+Pot size: 300
+Boasts: Vereev, 8s 5d
+Wins: Vereev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vereev
+Small Blind: Vereev, chips: 100
+Big Blind: Jawroewro, chips: 200
+Raises: Vereev, chips: 300
+Folds: Jawroewro
+Pot size: 700
+Boasts: Vereev, Jd Qd
+Wins: Vereev, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jawroewro
+Small Blind: Jawroewro, chips: 100
+Big Blind: Vereev, chips: 200
+Folds: Jawroewro
+Pot size: 300
+Boasts: Vereev, 7h 3c
+Wins: Vereev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vereev
+Small Blind: Vereev, chips: 100
+Big Blind: Jawroewro, chips: 100
+Flop: 6h Ac Qs
+Turn: 3s
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Vereev, 2c 9c
+Combination: Vereev, High Card ( Ac Kh Qs 9c 6h )
+Shows: Jawroewro, Jc Qh
+Combination: Jawroewro, Pair ( Qh Qs Ac Kh Jc )
+Wins: Jawroewro, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jawroewro
+Small Blind: Jawroewro, chips: 100
+Big Blind: Vereev, chips: 200
+Folds: Jawroewro
+Pot size: 300
+Boasts: Vereev, Qc 8d
+Wins: Vereev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vereev
+Small Blind: Vereev, chips: 100
+Big Blind: Jawroewro, chips: 100
+Flop: Qc Jd 4c
+Turn: 5c
+River: Qs
+Pot size: 200
+Showdown Reached
+Shows: Vereev, Qh 4s
+Combination: Vereev, Full House ( Qh Qc Qs 4s 4c )
+Shows: Jawroewro, Td 3h
+Combination: Jawroewro, Pair ( Qc Qs Jd Td 5c )
+Wins: Vereev, chips: 200
+Quits: Jawroewro, chips: 0
+Ranking: Vereev, Place: 1, Score: 1000
+Reveal AI: Vereev, AI: Random
+Ranking: Jawroewro, Place: 2, Score: -1000
+Reveal AI: Jawroewro, AI: AIMyBot1
+
+Player Stats for Jawroewro, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Vereev, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

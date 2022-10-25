@@ -1,0 +1,306 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hi: Random
+Vonhel: AIMyBot1
+
+Joins: Hi, chips: 1000
+Joins: Vonhel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Vonhel, chips: 200
+Raises: Hi, chips: 300
+Folds: Vonhel
+Pot size: 700
+Wins: Hi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhel
+Small Blind: Vonhel, chips: 100
+Big Blind: Hi, chips: 200
+Folds: Vonhel
+Pot size: 300
+Wins: Hi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Vonhel, chips: 200
+Raises: Hi, chips: 300
+Folds: Vonhel
+Pot size: 700
+Wins: Hi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhel
+Small Blind: Vonhel, chips: 100
+Big Blind: Hi, chips: 200
+Folds: Vonhel
+Pot size: 300
+Boasts: Hi, 8s 5h
+Wins: Hi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Vonhel, chips: 200
+Folds: Hi
+Pot size: 300
+Wins: Vonhel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhel
+Small Blind: Vonhel, chips: 100
+Big Blind: Hi, chips: 200
+Folds: Vonhel
+Pot size: 300
+Boasts: Hi, 4s 7h
+Wins: Hi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Vonhel, chips: 200
+Raises: Hi, chips: 300
+Folds: Vonhel
+Pot size: 700
+Wins: Hi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhel
+Small Blind: Vonhel, chips: 100
+Big Blind: Hi, chips: 200
+Folds: Vonhel
+Pot size: 300
+Boasts: Hi, 5c 3c
+Wins: Hi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Vonhel, chips: 100
+Flop: As 3c Jc
+Turn: 5h
+River: Js
+Pot size: 200
+Showdown Reached
+Shows: Hi, Kc 6d
+Combination: Hi, Pair ( Jc Js As Kc 6d )
+Shows: Vonhel, 5s Ac
+Combination: Vonhel, Two Pair ( Ac As Jc Js 5s )
+Wins: Vonhel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhel
+Small Blind: Vonhel, chips: 100
+Big Blind: Hi, chips: 200
+Folds: Vonhel
+Pot size: 300
+Boasts: Hi, 2h 4h
+Wins: Hi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Vonhel, chips: 100
+Flop: 9c 2d 2h
+Turn: 7s
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Hi, 8d As
+Combination: Hi, Pair ( 2d 2h As Jh 9c )
+Shows: Vonhel, 2s 8h
+Combination: Vonhel, Three Of A Kind ( 2s 2d 2h Jh 9c )
+Wins: Vonhel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhel
+Small Blind: Vonhel, chips: 100
+Big Blind: Hi, chips: 200
+Folds: Vonhel
+Pot size: 300
+Boasts: Hi, 5s Kc
+Wins: Hi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Vonhel, chips: 100
+Flop: 8s As Td
+Turn: Qc
+River: 3h
+Pot size: 200
+Showdown Reached
+Shows: Hi, 3c Kc
+Combination: Hi, Pair ( 3c 3h As Kc Qc )
+Shows: Vonhel, 9h 4s
+Combination: Vonhel, High Card ( As Qc Td 9h 8s )
+Wins: Hi, chips: 200
+Quits: Vonhel, chips: 0
+Ranking: Hi, Place: 1, Score: 1000
+Reveal AI: Hi, AI: Random
+Ranking: Vonhel, Place: 2, Score: -1000
+Reveal AI: Vonhel, AI: AIMyBot1
+
+Player Stats for Hi, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.230769, 3Bet: 0.230769
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Vonhel, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:08
+
+The game begins. The AI's of the players are: 
+Hi: Random
+Vonhel: AIMyBot1
+
+Joins: Hi, chips: 1000
+Joins: Vonhel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Vonhel, chips: 200
+Raises: Hi, chips: 300
+Folds: Vonhel
+Pot size: 700
+Wins: Hi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhel
+Small Blind: Vonhel, chips: 100
+Big Blind: Hi, chips: 200
+Folds: Vonhel
+Pot size: 300
+Wins: Hi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Vonhel, chips: 200
+Raises: Hi, chips: 300
+Folds: Vonhel
+Pot size: 700
+Wins: Hi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhel
+Small Blind: Vonhel, chips: 100
+Big Blind: Hi, chips: 200
+Folds: Vonhel
+Pot size: 300
+Boasts: Hi, 8s 5h
+Wins: Hi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Vonhel, chips: 200
+Folds: Hi
+Pot size: 300
+Wins: Vonhel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhel
+Small Blind: Vonhel, chips: 100
+Big Blind: Hi, chips: 200
+Folds: Vonhel
+Pot size: 300
+Boasts: Hi, 4s 7h
+Wins: Hi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Vonhel, chips: 200
+Raises: Hi, chips: 300
+Folds: Vonhel
+Pot size: 700
+Wins: Hi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhel
+Small Blind: Vonhel, chips: 100
+Big Blind: Hi, chips: 200
+Folds: Vonhel
+Pot size: 300
+Boasts: Hi, 5c 3c
+Wins: Hi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Vonhel, chips: 100
+Flop: As 3c Jc
+Turn: 5h
+River: Js
+Pot size: 200
+Showdown Reached
+Shows: Hi, Kc 6d
+Combination: Hi, Pair ( Jc Js As Kc 6d )
+Shows: Vonhel, 5s Ac
+Combination: Vonhel, Two Pair ( Ac As Jc Js 5s )
+Wins: Vonhel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhel
+Small Blind: Vonhel, chips: 100
+Big Blind: Hi, chips: 200
+Folds: Vonhel
+Pot size: 300
+Boasts: Hi, 2h 4h
+Wins: Hi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Vonhel, chips: 100
+Flop: 9c 2d 2h
+Turn: 7s
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Hi, 8d As
+Combination: Hi, Pair ( 2d 2h As Jh 9c )
+Shows: Vonhel, 2s 8h
+Combination: Vonhel, Three Of A Kind ( 2s 2d 2h Jh 9c )
+Wins: Vonhel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhel
+Small Blind: Vonhel, chips: 100
+Big Blind: Hi, chips: 200
+Folds: Vonhel
+Pot size: 300
+Boasts: Hi, 5s Kc
+Wins: Hi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Vonhel, chips: 100
+Flop: 8s As Td
+Turn: Qc
+River: 3h
+Pot size: 200
+Showdown Reached
+Shows: Hi, 3c Kc
+Combination: Hi, Pair ( 3c 3h As Kc Qc )
+Shows: Vonhel, 9h 4s
+Combination: Vonhel, High Card ( As Qc Td 9h 8s )
+Wins: Hi, chips: 200
+Quits: Vonhel, chips: 0
+Ranking: Hi, Place: 1, Score: 1000
+Reveal AI: Hi, AI: Random
+Ranking: Vonhel, Place: 2, Score: -1000
+Reveal AI: Vonhel, AI: AIMyBot1
+
+Player Stats for Hi, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.230769, 3Bet: 0.230769
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Vonhel, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

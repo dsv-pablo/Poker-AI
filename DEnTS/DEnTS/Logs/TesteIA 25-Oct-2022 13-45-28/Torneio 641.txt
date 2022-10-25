@@ -1,0 +1,608 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Goeleesu: Random
+Guwrufoes: AIMyBot1
+
+Joins: Goeleesu, chips: 1000
+Joins: Guwrufoes, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, Ts 3c
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Raises: Goeleesu, chips: 300
+Folds: Guwrufoes
+Pot size: 700
+Wins: Goeleesu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Raises: Goeleesu, chips: 300
+Folds: Guwrufoes
+Pot size: 700
+Boasts: Goeleesu, 2d 7c
+Wins: Goeleesu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, 7h 5s
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Raises: Goeleesu, chips: 300
+Calls: Guwrufoes
+Flop: Ah 5d Ac
+Turn: Ad
+River: Js
+Pot size: 800
+Showdown Reached
+Shows: Goeleesu, Kc 8d
+Combination: Goeleesu, Three Of A Kind ( Ah Ac Ad Kc Js )
+Shows: Guwrufoes, Qc As
+Combination: Guwrufoes, Four Of A Kind ( As Ah Ac Ad Qc )
+Wins: Goeleesu, chips: 200
+Wins: Guwrufoes, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Folds: Goeleesu
+Pot size: 300
+Boasts: Goeleesu, 9d 5h
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Folds: Goeleesu
+Pot size: 300
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, 8s 7h
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Folds: Goeleesu
+Pot size: 300
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, 7h 6h
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Folds: Goeleesu
+Pot size: 300
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, Ac Qd
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Folds: Goeleesu
+Pot size: 300
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Calls: Goeleesu
+DEBUG MESSAGE: INVALID ACTION FROM Guwrufoes (2 0)
+Folds: Guwrufoes
+Pot size: 400
+Wins: Goeleesu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, Kd 2h
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Flop: 3h 2h 8h
+Turn: Kd
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Goeleesu, 6h 2s
+Combination: Goeleesu, Pair ( 2s 2h Kd 8h 6h )
+Shows: Guwrufoes, 9s 2c
+Combination: Guwrufoes, Pair ( 2c 2h Kd 9s 8h )
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Flop: 2h Th Ks
+Turn: 5d
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Goeleesu, 8s 5s
+Combination: Goeleesu, Pair ( 5s 5d Ks Th 8s )
+Shows: Guwrufoes, Ad Ac
+Combination: Guwrufoes, Pair ( Ad Ac Ks Th 5d )
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, Qc Jd
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Flop: 4c Jh 2d
+Turn: 7d
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Goeleesu, 6s 9h
+Combination: Goeleesu, High Card ( Ac Jh 9h 7d 6s )
+Shows: Guwrufoes, 4d 5c
+Combination: Guwrufoes, Pair ( 4d 4c Ac Jh 7d )
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, Ac 8c
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Flop: Kc 2s 9d
+Turn: Qc
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Goeleesu, 7h 7d
+Combination: Goeleesu, Pair ( 7h 7d Kc Qc Tc )
+Shows: Guwrufoes, Ts 9c
+Combination: Guwrufoes, Two Pair ( Ts Tc 9c 9d Kc )
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, Ts 3s
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Flop: 4s Ts 5h
+Turn: 9h
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Goeleesu, 9s Th
+Combination: Goeleesu, Two Pair ( Th Ts 9s 9h 5h )
+Shows: Guwrufoes, Kd 3h
+Combination: Guwrufoes, Pair ( 3h 3d Kd Ts 9h )
+Wins: Goeleesu, chips: 200
+Wins: Guwrufoes, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Flop: 2h 9h 2d
+Turn: Ts
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Goeleesu, 8c 7c
+Combination: Goeleesu, Straight ( Ts 9h 8c 7c 6d )
+Shows: Guwrufoes, 4c Kd
+Combination: Guwrufoes, Pair ( 2h 2d Kd Ts 9h )
+Wins: Goeleesu, chips: 300
+Quits: Guwrufoes, chips: 0
+Ranking: Goeleesu, Place: 1, Score: 1000
+Reveal AI: Goeleesu, AI: Random
+Ranking: Guwrufoes, Place: 2, Score: -1000
+Reveal AI: Guwrufoes, AI: AIMyBot1
+
+Player Stats for Goeleesu, AI: Random
+General: deals: 29, actions: 9, preflop actions: 9
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 20, showdown: 3, bluff: 17
+Chips: won: 6700, lost: 5700, bought: 1000, forced bets: 4400
+Pre-Flop Stats: VP$IP: 0.137931, PFR: 0.103448, 3Bet: 0.103448
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.428571
+
+
+Player Stats for Guwrufoes, AI: AIMyBot1
+General: deals: 29, actions: 18, preflop actions: 18
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 11, showdown: 6, bluff: 5
+Chips: won: 3400, lost: 4600, bought: 1000, forced bets: 4300
+Pre-Flop Stats: VP$IP: 0.0344828, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Date: 2022/10/25 13:46:12
+
+The game begins. The AI's of the players are: 
+Goeleesu: Random
+Guwrufoes: AIMyBot1
+
+Joins: Goeleesu, chips: 1000
+Joins: Guwrufoes, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, Ts 3c
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Raises: Goeleesu, chips: 300
+Folds: Guwrufoes
+Pot size: 700
+Wins: Goeleesu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Raises: Goeleesu, chips: 300
+Folds: Guwrufoes
+Pot size: 700
+Boasts: Goeleesu, 2d 7c
+Wins: Goeleesu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, 7h 5s
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Raises: Goeleesu, chips: 300
+Calls: Guwrufoes
+Flop: Ah 5d Ac
+Turn: Ad
+River: Js
+Pot size: 800
+Showdown Reached
+Shows: Goeleesu, Kc 8d
+Combination: Goeleesu, Three Of A Kind ( Ah Ac Ad Kc Js )
+Shows: Guwrufoes, Qc As
+Combination: Guwrufoes, Four Of A Kind ( As Ah Ac Ad Qc )
+Wins: Goeleesu, chips: 200
+Wins: Guwrufoes, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Folds: Goeleesu
+Pot size: 300
+Boasts: Goeleesu, 9d 5h
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Folds: Goeleesu
+Pot size: 300
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, 8s 7h
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Folds: Goeleesu
+Pot size: 300
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, 7h 6h
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Folds: Goeleesu
+Pot size: 300
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, Ac Qd
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Folds: Goeleesu
+Pot size: 300
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Calls: Goeleesu
+DEBUG MESSAGE: INVALID ACTION FROM Guwrufoes (2 0)
+Folds: Guwrufoes
+Pot size: 400
+Wins: Goeleesu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, Kd 2h
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Flop: 3h 2h 8h
+Turn: Kd
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Goeleesu, 6h 2s
+Combination: Goeleesu, Pair ( 2s 2h Kd 8h 6h )
+Shows: Guwrufoes, 9s 2c
+Combination: Guwrufoes, Pair ( 2c 2h Kd 9s 8h )
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Flop: 2h Th Ks
+Turn: 5d
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Goeleesu, 8s 5s
+Combination: Goeleesu, Pair ( 5s 5d Ks Th 8s )
+Shows: Guwrufoes, Ad Ac
+Combination: Guwrufoes, Pair ( Ad Ac Ks Th 5d )
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, Qc Jd
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Flop: 4c Jh 2d
+Turn: 7d
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Goeleesu, 6s 9h
+Combination: Goeleesu, High Card ( Ac Jh 9h 7d 6s )
+Shows: Guwrufoes, 4d 5c
+Combination: Guwrufoes, Pair ( 4d 4c Ac Jh 7d )
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, Ac 8c
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Flop: Kc 2s 9d
+Turn: Qc
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Goeleesu, 7h 7d
+Combination: Goeleesu, Pair ( 7h 7d Kc Qc Tc )
+Shows: Guwrufoes, Ts 9c
+Combination: Guwrufoes, Two Pair ( Ts Tc 9c 9d Kc )
+Wins: Guwrufoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Folds: Guwrufoes
+Pot size: 300
+Boasts: Goeleesu, Ts 3s
+Wins: Goeleesu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeleesu
+Small Blind: Goeleesu, chips: 100
+Big Blind: Guwrufoes, chips: 200
+Flop: 4s Ts 5h
+Turn: 9h
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Goeleesu, 9s Th
+Combination: Goeleesu, Two Pair ( Th Ts 9s 9h 5h )
+Shows: Guwrufoes, Kd 3h
+Combination: Guwrufoes, Pair ( 3h 3d Kd Ts 9h )
+Wins: Goeleesu, chips: 200
+Wins: Guwrufoes, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Guwrufoes
+Small Blind: Guwrufoes, chips: 100
+Big Blind: Goeleesu, chips: 200
+Flop: 2h 9h 2d
+Turn: Ts
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Goeleesu, 8c 7c
+Combination: Goeleesu, Straight ( Ts 9h 8c 7c 6d )
+Shows: Guwrufoes, 4c Kd
+Combination: Guwrufoes, Pair ( 2h 2d Kd Ts 9h )
+Wins: Goeleesu, chips: 300
+Quits: Guwrufoes, chips: 0
+Ranking: Goeleesu, Place: 1, Score: 1000
+Reveal AI: Goeleesu, AI: Random
+Ranking: Guwrufoes, Place: 2, Score: -1000
+Reveal AI: Guwrufoes, AI: AIMyBot1
+
+Player Stats for Goeleesu, AI: Random
+General: deals: 29, actions: 9, preflop actions: 9
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 20, showdown: 3, bluff: 17
+Chips: won: 6700, lost: 5700, bought: 1000, forced bets: 4400
+Pre-Flop Stats: VP$IP: 0.137931, PFR: 0.103448, 3Bet: 0.103448
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.428571
+
+
+Player Stats for Guwrufoes, AI: AIMyBot1
+General: deals: 29, actions: 18, preflop actions: 18
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 11, showdown: 6, bluff: 5
+Chips: won: 3400, lost: 4600, bought: 1000, forced bets: 4300
+Pre-Flop Stats: VP$IP: 0.0344828, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+

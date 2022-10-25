@@ -1,0 +1,308 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Woeheesom: AIMyBot1
+Peleesee: Random
+
+Joins: Woeheesom, chips: 1000
+Joins: Peleesee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheesom
+Small Blind: Woeheesom, chips: 100
+Big Blind: Peleesee, chips: 200
+Folds: Woeheesom
+Pot size: 300
+Wins: Peleesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peleesee
+Small Blind: Peleesee, chips: 100
+Big Blind: Woeheesom, chips: 200
+Folds: Peleesee
+Pot size: 300
+Wins: Woeheesom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheesom
+Small Blind: Woeheesom, chips: 100
+Big Blind: Peleesee, chips: 200
+Folds: Woeheesom
+Pot size: 300
+Wins: Peleesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peleesee
+Small Blind: Peleesee, chips: 100
+Big Blind: Woeheesom, chips: 200
+Raises: Peleesee, chips: 300
+Folds: Woeheesom
+Pot size: 700
+Boasts: Peleesee, Jc 2s
+Wins: Peleesee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheesom
+Small Blind: Woeheesom, chips: 100
+Big Blind: Peleesee, chips: 200
+Folds: Woeheesom
+Pot size: 300
+Boasts: Peleesee, Kd 5c
+Wins: Peleesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peleesee
+Small Blind: Peleesee, chips: 100
+Big Blind: Woeheesom, chips: 200
+Folds: Peleesee
+Pot size: 300
+Boasts: Peleesee, Qh 4d
+Wins: Woeheesom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheesom
+Small Blind: Woeheesom, chips: 100
+Big Blind: Peleesee, chips: 200
+Folds: Woeheesom
+Pot size: 300
+Wins: Peleesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peleesee
+Small Blind: Peleesee, chips: 100
+Big Blind: Woeheesom, chips: 200
+Folds: Peleesee
+Pot size: 300
+Boasts: Peleesee, 3d Qd
+Wins: Woeheesom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheesom
+Small Blind: Woeheesom, chips: 100
+Big Blind: Peleesee, chips: 200
+Folds: Woeheesom
+Pot size: 300
+Wins: Peleesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peleesee
+Small Blind: Peleesee, chips: 100
+Big Blind: Woeheesom, chips: 200
+Folds: Peleesee
+Pot size: 300
+Wins: Woeheesom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheesom
+Small Blind: Woeheesom, chips: 100
+Big Blind: Peleesee, chips: 200
+Folds: Woeheesom
+Pot size: 300
+Boasts: Peleesee, Jc 7s
+Wins: Peleesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peleesee
+Small Blind: Peleesee, chips: 100
+Big Blind: Woeheesom, chips: 200
+Calls: Peleesee
+DEBUG MESSAGE: INVALID ACTION FROM Woeheesom (2 0)
+Folds: Woeheesom
+Pot size: 400
+Wins: Peleesee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheesom
+Small Blind: Woeheesom, chips: 100
+Big Blind: Peleesee, chips: 200
+Folds: Woeheesom
+Pot size: 300
+Wins: Peleesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peleesee
+Small Blind: Peleesee, chips: 100
+Big Blind: Woeheesom, chips: 200
+Raises: Peleesee, chips: 300
+Folds: Woeheesom
+Pot size: 700
+Wins: Peleesee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheesom
+Small Blind: Woeheesom, chips: 100
+Big Blind: Peleesee, chips: 200
+Flop: 3d Ac Th
+Turn: 2s
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Woeheesom, 9s 6h
+Combination: Woeheesom, Pair ( 3d 3s Ac Th 9s )
+Shows: Peleesee, Ks 4s
+Combination: Peleesee, Pair ( 3d 3s Ac Ks Th )
+Wins: Peleesee, chips: 300
+Quits: Woeheesom, chips: 0
+Ranking: Peleesee, Place: 1, Score: 1000
+Reveal AI: Peleesee, AI: Random
+Ranking: Woeheesom, Place: 2, Score: -1000
+Reveal AI: Woeheesom, AI: AIMyBot1
+
+Player Stats for Peleesee, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Woeheesom, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:15
+
+The game begins. The AI's of the players are: 
+Woeheesom: AIMyBot1
+Peleesee: Random
+
+Joins: Woeheesom, chips: 1000
+Joins: Peleesee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheesom
+Small Blind: Woeheesom, chips: 100
+Big Blind: Peleesee, chips: 200
+Folds: Woeheesom
+Pot size: 300
+Wins: Peleesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peleesee
+Small Blind: Peleesee, chips: 100
+Big Blind: Woeheesom, chips: 200
+Folds: Peleesee
+Pot size: 300
+Wins: Woeheesom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheesom
+Small Blind: Woeheesom, chips: 100
+Big Blind: Peleesee, chips: 200
+Folds: Woeheesom
+Pot size: 300
+Wins: Peleesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peleesee
+Small Blind: Peleesee, chips: 100
+Big Blind: Woeheesom, chips: 200
+Raises: Peleesee, chips: 300
+Folds: Woeheesom
+Pot size: 700
+Boasts: Peleesee, Jc 2s
+Wins: Peleesee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheesom
+Small Blind: Woeheesom, chips: 100
+Big Blind: Peleesee, chips: 200
+Folds: Woeheesom
+Pot size: 300
+Boasts: Peleesee, Kd 5c
+Wins: Peleesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peleesee
+Small Blind: Peleesee, chips: 100
+Big Blind: Woeheesom, chips: 200
+Folds: Peleesee
+Pot size: 300
+Boasts: Peleesee, Qh 4d
+Wins: Woeheesom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheesom
+Small Blind: Woeheesom, chips: 100
+Big Blind: Peleesee, chips: 200
+Folds: Woeheesom
+Pot size: 300
+Wins: Peleesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peleesee
+Small Blind: Peleesee, chips: 100
+Big Blind: Woeheesom, chips: 200
+Folds: Peleesee
+Pot size: 300
+Boasts: Peleesee, 3d Qd
+Wins: Woeheesom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheesom
+Small Blind: Woeheesom, chips: 100
+Big Blind: Peleesee, chips: 200
+Folds: Woeheesom
+Pot size: 300
+Wins: Peleesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peleesee
+Small Blind: Peleesee, chips: 100
+Big Blind: Woeheesom, chips: 200
+Folds: Peleesee
+Pot size: 300
+Wins: Woeheesom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheesom
+Small Blind: Woeheesom, chips: 100
+Big Blind: Peleesee, chips: 200
+Folds: Woeheesom
+Pot size: 300
+Boasts: Peleesee, Jc 7s
+Wins: Peleesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peleesee
+Small Blind: Peleesee, chips: 100
+Big Blind: Woeheesom, chips: 200
+Calls: Peleesee
+DEBUG MESSAGE: INVALID ACTION FROM Woeheesom (2 0)
+Folds: Woeheesom
+Pot size: 400
+Wins: Peleesee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheesom
+Small Blind: Woeheesom, chips: 100
+Big Blind: Peleesee, chips: 200
+Folds: Woeheesom
+Pot size: 300
+Wins: Peleesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peleesee
+Small Blind: Peleesee, chips: 100
+Big Blind: Woeheesom, chips: 200
+Raises: Peleesee, chips: 300
+Folds: Woeheesom
+Pot size: 700
+Wins: Peleesee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheesom
+Small Blind: Woeheesom, chips: 100
+Big Blind: Peleesee, chips: 200
+Flop: 3d Ac Th
+Turn: 2s
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Woeheesom, 9s 6h
+Combination: Woeheesom, Pair ( 3d 3s Ac Th 9s )
+Shows: Peleesee, Ks 4s
+Combination: Peleesee, Pair ( 3d 3s Ac Ks Th )
+Wins: Peleesee, chips: 300
+Quits: Woeheesom, chips: 0
+Ranking: Peleesee, Place: 1, Score: 1000
+Reveal AI: Peleesee, AI: Random
+Ranking: Woeheesom, Place: 2, Score: -1000
+Reveal AI: Woeheesom, AI: AIMyBot1
+
+Player Stats for Peleesee, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Woeheesom, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

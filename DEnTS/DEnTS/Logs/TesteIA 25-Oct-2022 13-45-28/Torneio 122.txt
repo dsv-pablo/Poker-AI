@@ -1,0 +1,400 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Poe: Random
+Jafehee: AIMyBot1
+
+Joins: Poe, chips: 1000
+Joins: Jafehee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 200
+Calls: Poe
+DEBUG MESSAGE: INVALID ACTION FROM Jafehee (2 0)
+Folds: Jafehee
+Pot size: 400
+Wins: Poe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jafehee
+Small Blind: Jafehee, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Jafehee
+Pot size: 300
+Boasts: Poe, 8d 6s
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 200
+Folds: Poe
+Pot size: 300
+Boasts: Poe, Qd 8d
+Wins: Jafehee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jafehee
+Small Blind: Jafehee, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Jafehee
+Pot size: 300
+Boasts: Poe, Kc Ks
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 200
+Raises: Poe, chips: 300
+Folds: Jafehee
+Pot size: 700
+Wins: Poe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jafehee
+Small Blind: Jafehee, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Jafehee
+Pot size: 300
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 200
+Calls: Poe
+DEBUG MESSAGE: INVALID ACTION FROM Jafehee (2 0)
+Folds: Jafehee
+Pot size: 400
+Boasts: Poe, Jh 5s
+Wins: Poe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jafehee
+Small Blind: Jafehee, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Jafehee
+Pot size: 300
+Boasts: Poe, 4c 2s
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 100
+Flop: Ac Ks 2c
+Turn: Qc
+River: 8c
+Pot size: 200
+Showdown Reached
+Shows: Poe, 9s 6d
+Combination: Poe, High Card ( Ac Ks Qc 9s 8c )
+Shows: Jafehee, 2d As
+Combination: Jafehee, Two Pair ( As Ac 2d 2c Ks )
+Wins: Jafehee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jafehee
+Small Blind: Jafehee, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Jafehee
+Pot size: 300
+Boasts: Poe, Qs 7d
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 100
+Flop: 2c 7d Kh
+Turn: 6d
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Poe, 3d Jd
+Combination: Poe, High Card ( Kh Jd 8h 7d 6d )
+Shows: Jafehee, 9s As
+Combination: Jafehee, High Card ( As Kh 9s 8h 7d )
+Wins: Jafehee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jafehee
+Small Blind: Jafehee, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Jafehee
+Pot size: 300
+Boasts: Poe, Qc 5d
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 100
+Flop: 6h 8d Kh
+Turn: Jc
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Poe, 5h Qc
+Combination: Poe, High Card ( Kh Qc Jc Ts 8d )
+Shows: Jafehee, 6d Tc
+Combination: Jafehee, Two Pair ( Tc Ts 6d 6h Kh )
+Wins: Jafehee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jafehee
+Small Blind: Jafehee, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Jafehee
+Pot size: 300
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 100
+Flop: 2d 2c 9s
+Turn: 6h
+River: Th
+Pot size: 200
+Showdown Reached
+Shows: Poe, Qh 3c
+Combination: Poe, Pair ( 2d 2c Qh Th 9s )
+Shows: Jafehee, 4s Ks
+Combination: Jafehee, Pair ( 2d 2c Ks Th 9s )
+Wins: Jafehee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jafehee
+Small Blind: Jafehee, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Jafehee
+Pot size: 300
+Boasts: Poe, 7h Td
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 100
+Flop: 5h Qd 5c
+Turn: 8d
+River: 4s
+Pot size: 200
+Showdown Reached
+Shows: Poe, Qs 2d
+Combination: Poe, Two Pair ( Qs Qd 5h 5c 8d )
+Shows: Jafehee, 6h Ts
+Combination: Jafehee, Pair ( 5h 5c Qd Ts 8d )
+Wins: Poe, chips: 200
+Quits: Jafehee, chips: 0
+Ranking: Poe, Place: 1, Score: 1000
+Reveal AI: Poe, AI: Random
+Ranking: Jafehee, Place: 2, Score: -1000
+Reveal AI: Jafehee, AI: AIMyBot1
+
+Player Stats for Jafehee, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 1100, lost: 2100, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Poe, AI: Random
+General: deals: 17, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.2
+
+
+Date: 2022/10/25 13:45:38
+
+The game begins. The AI's of the players are: 
+Poe: Random
+Jafehee: AIMyBot1
+
+Joins: Poe, chips: 1000
+Joins: Jafehee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 200
+Calls: Poe
+DEBUG MESSAGE: INVALID ACTION FROM Jafehee (2 0)
+Folds: Jafehee
+Pot size: 400
+Wins: Poe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jafehee
+Small Blind: Jafehee, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Jafehee
+Pot size: 300
+Boasts: Poe, 8d 6s
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 200
+Folds: Poe
+Pot size: 300
+Boasts: Poe, Qd 8d
+Wins: Jafehee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jafehee
+Small Blind: Jafehee, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Jafehee
+Pot size: 300
+Boasts: Poe, Kc Ks
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 200
+Raises: Poe, chips: 300
+Folds: Jafehee
+Pot size: 700
+Wins: Poe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jafehee
+Small Blind: Jafehee, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Jafehee
+Pot size: 300
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 200
+Calls: Poe
+DEBUG MESSAGE: INVALID ACTION FROM Jafehee (2 0)
+Folds: Jafehee
+Pot size: 400
+Boasts: Poe, Jh 5s
+Wins: Poe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jafehee
+Small Blind: Jafehee, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Jafehee
+Pot size: 300
+Boasts: Poe, 4c 2s
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 100
+Flop: Ac Ks 2c
+Turn: Qc
+River: 8c
+Pot size: 200
+Showdown Reached
+Shows: Poe, 9s 6d
+Combination: Poe, High Card ( Ac Ks Qc 9s 8c )
+Shows: Jafehee, 2d As
+Combination: Jafehee, Two Pair ( As Ac 2d 2c Ks )
+Wins: Jafehee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jafehee
+Small Blind: Jafehee, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Jafehee
+Pot size: 300
+Boasts: Poe, Qs 7d
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 100
+Flop: 2c 7d Kh
+Turn: 6d
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Poe, 3d Jd
+Combination: Poe, High Card ( Kh Jd 8h 7d 6d )
+Shows: Jafehee, 9s As
+Combination: Jafehee, High Card ( As Kh 9s 8h 7d )
+Wins: Jafehee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jafehee
+Small Blind: Jafehee, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Jafehee
+Pot size: 300
+Boasts: Poe, Qc 5d
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 100
+Flop: 6h 8d Kh
+Turn: Jc
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Poe, 5h Qc
+Combination: Poe, High Card ( Kh Qc Jc Ts 8d )
+Shows: Jafehee, 6d Tc
+Combination: Jafehee, Two Pair ( Tc Ts 6d 6h Kh )
+Wins: Jafehee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jafehee
+Small Blind: Jafehee, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Jafehee
+Pot size: 300
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 100
+Flop: 2d 2c 9s
+Turn: 6h
+River: Th
+Pot size: 200
+Showdown Reached
+Shows: Poe, Qh 3c
+Combination: Poe, Pair ( 2d 2c Qh Th 9s )
+Shows: Jafehee, 4s Ks
+Combination: Jafehee, Pair ( 2d 2c Ks Th 9s )
+Wins: Jafehee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jafehee
+Small Blind: Jafehee, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Jafehee
+Pot size: 300
+Boasts: Poe, 7h Td
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Jafehee, chips: 100
+Flop: 5h Qd 5c
+Turn: 8d
+River: 4s
+Pot size: 200
+Showdown Reached
+Shows: Poe, Qs 2d
+Combination: Poe, Two Pair ( Qs Qd 5h 5c 8d )
+Shows: Jafehee, 6h Ts
+Combination: Jafehee, Pair ( 5h 5c Qd Ts 8d )
+Wins: Poe, chips: 200
+Quits: Jafehee, chips: 0
+Ranking: Poe, Place: 1, Score: 1000
+Reveal AI: Poe, AI: Random
+Ranking: Jafehee, Place: 2, Score: -1000
+Reveal AI: Jafehee, AI: AIMyBot1
+
+Player Stats for Jafehee, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 1100, lost: 2100, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Poe, AI: Random
+General: deals: 17, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.2
+
+

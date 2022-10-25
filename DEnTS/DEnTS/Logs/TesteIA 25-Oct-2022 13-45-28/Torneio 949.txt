@@ -1,0 +1,226 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gotefu: Random
+Wobeem: AIMyBot1
+
+Joins: Gotefu, chips: 1000
+Joins: Wobeem, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wobeem
+Small Blind: Wobeem, chips: 100
+Big Blind: Gotefu, chips: 200
+Folds: Wobeem
+Pot size: 300
+Boasts: Gotefu, 9d 3s
+Wins: Gotefu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gotefu
+Small Blind: Gotefu, chips: 100
+Big Blind: Wobeem, chips: 200
+Raises: Gotefu, chips: 300
+Folds: Wobeem
+Pot size: 700
+Boasts: Gotefu, 4s 2c
+Wins: Gotefu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wobeem
+Small Blind: Wobeem, chips: 100
+Big Blind: Gotefu, chips: 200
+Folds: Wobeem
+Pot size: 300
+Boasts: Gotefu, 2s 8h
+Wins: Gotefu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gotefu
+Small Blind: Gotefu, chips: 100
+Big Blind: Wobeem, chips: 200
+Folds: Gotefu
+Pot size: 300
+Wins: Wobeem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wobeem
+Small Blind: Wobeem, chips: 100
+Big Blind: Gotefu, chips: 200
+Folds: Wobeem
+Pot size: 300
+Wins: Gotefu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gotefu
+Small Blind: Gotefu, chips: 100
+Big Blind: Wobeem, chips: 200
+Calls: Gotefu
+DEBUG MESSAGE: INVALID ACTION FROM Wobeem (2 0)
+Folds: Wobeem
+Pot size: 400
+Boasts: Gotefu, 3c 3s
+Wins: Gotefu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wobeem
+Small Blind: Wobeem, chips: 100
+Big Blind: Gotefu, chips: 200
+Folds: Wobeem
+Pot size: 300
+Boasts: Gotefu, Ks Qh
+Wins: Gotefu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gotefu
+Small Blind: Gotefu, chips: 100
+Big Blind: Wobeem, chips: 200
+Calls: Gotefu
+DEBUG MESSAGE: INVALID ACTION FROM Wobeem (2 0)
+Folds: Wobeem
+Pot size: 400
+Wins: Gotefu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wobeem
+Small Blind: Wobeem, chips: 100
+Big Blind: Gotefu, chips: 200
+Flop: 9s 4d 2c
+Turn: 6s
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Gotefu, 9h 6c
+Combination: Gotefu, Two Pair ( 9h 9s 6c 6s 7h )
+Shows: Wobeem, 7c 6h
+Combination: Wobeem, Two Pair ( 7c 7h 6h 6s 9s )
+Wins: Gotefu, chips: 300
+Quits: Wobeem, chips: 0
+Ranking: Gotefu, Place: 1, Score: 1000
+Reveal AI: Gotefu, AI: Random
+Ranking: Wobeem, Place: 2, Score: -1000
+Reveal AI: Wobeem, AI: AIMyBot1
+
+Player Stats for Gotefu, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Wobeem, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:31
+
+The game begins. The AI's of the players are: 
+Gotefu: Random
+Wobeem: AIMyBot1
+
+Joins: Gotefu, chips: 1000
+Joins: Wobeem, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wobeem
+Small Blind: Wobeem, chips: 100
+Big Blind: Gotefu, chips: 200
+Folds: Wobeem
+Pot size: 300
+Boasts: Gotefu, 9d 3s
+Wins: Gotefu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gotefu
+Small Blind: Gotefu, chips: 100
+Big Blind: Wobeem, chips: 200
+Raises: Gotefu, chips: 300
+Folds: Wobeem
+Pot size: 700
+Boasts: Gotefu, 4s 2c
+Wins: Gotefu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wobeem
+Small Blind: Wobeem, chips: 100
+Big Blind: Gotefu, chips: 200
+Folds: Wobeem
+Pot size: 300
+Boasts: Gotefu, 2s 8h
+Wins: Gotefu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gotefu
+Small Blind: Gotefu, chips: 100
+Big Blind: Wobeem, chips: 200
+Folds: Gotefu
+Pot size: 300
+Wins: Wobeem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wobeem
+Small Blind: Wobeem, chips: 100
+Big Blind: Gotefu, chips: 200
+Folds: Wobeem
+Pot size: 300
+Wins: Gotefu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gotefu
+Small Blind: Gotefu, chips: 100
+Big Blind: Wobeem, chips: 200
+Calls: Gotefu
+DEBUG MESSAGE: INVALID ACTION FROM Wobeem (2 0)
+Folds: Wobeem
+Pot size: 400
+Boasts: Gotefu, 3c 3s
+Wins: Gotefu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wobeem
+Small Blind: Wobeem, chips: 100
+Big Blind: Gotefu, chips: 200
+Folds: Wobeem
+Pot size: 300
+Boasts: Gotefu, Ks Qh
+Wins: Gotefu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gotefu
+Small Blind: Gotefu, chips: 100
+Big Blind: Wobeem, chips: 200
+Calls: Gotefu
+DEBUG MESSAGE: INVALID ACTION FROM Wobeem (2 0)
+Folds: Wobeem
+Pot size: 400
+Wins: Gotefu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wobeem
+Small Blind: Wobeem, chips: 100
+Big Blind: Gotefu, chips: 200
+Flop: 9s 4d 2c
+Turn: 6s
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Gotefu, 9h 6c
+Combination: Gotefu, Two Pair ( 9h 9s 6c 6s 7h )
+Shows: Wobeem, 7c 6h
+Combination: Wobeem, Two Pair ( 7c 7h 6h 6s 9s )
+Wins: Gotefu, chips: 300
+Quits: Wobeem, chips: 0
+Ranking: Gotefu, Place: 1, Score: 1000
+Reveal AI: Gotefu, AI: Random
+Ranking: Wobeem, Place: 2, Score: -1000
+Reveal AI: Wobeem, AI: AIMyBot1
+
+Player Stats for Gotefu, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Wobeem, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

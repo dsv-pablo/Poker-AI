@@ -1,0 +1,346 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wufof: Random
+Ju: AIMyBot1
+
+Joins: Wufof, chips: 1000
+Joins: Ju, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wufof
+Small Blind: Wufof, chips: 100
+Big Blind: Ju, chips: 200
+Calls: Wufof
+DEBUG MESSAGE: INVALID ACTION FROM Ju (2 0)
+Folds: Ju
+Pot size: 400
+Boasts: Wufof, Th 2d
+Wins: Wufof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Wufof, chips: 200
+Folds: Ju
+Pot size: 300
+Boasts: Wufof, 8s Td
+Wins: Wufof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wufof
+Small Blind: Wufof, chips: 100
+Big Blind: Ju, chips: 200
+Raises: Wufof, chips: 300
+Folds: Ju
+Pot size: 700
+Boasts: Wufof, 7h Td
+Wins: Wufof, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Wufof, chips: 200
+Folds: Ju
+Pot size: 300
+Boasts: Wufof, 7c 5h
+Wins: Wufof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wufof
+Small Blind: Wufof, chips: 100
+Big Blind: Ju, chips: 200
+Raises: Wufof, chips: 300
+Folds: Ju
+Pot size: 700
+Wins: Wufof, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Wufof, chips: 200
+Folds: Ju
+Pot size: 300
+Boasts: Wufof, 5d 3c
+Wins: Wufof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wufof
+Small Blind: Wufof, chips: 100
+Big Blind: Ju, chips: 100
+Flop: 5h 9c 9s
+Turn: 9h
+River: 5c
+Pot size: 200
+Showdown Reached
+Shows: Wufof, Qh 7c
+Combination: Wufof, Full House ( 9c 9s 9h 5h 5c )
+Shows: Ju, 8d 3d
+Combination: Ju, Full House ( 9c 9s 9h 5h 5c )
+Wins: Wufof, chips: 100
+Wins: Ju, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Wufof, chips: 200
+Flop: Jd Td 3s
+Turn: Kh
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Wufof, 5h 8d
+Combination: Wufof, High Card ( Kh Jd Td 8d 6h )
+Shows: Ju, Qs 3d
+Combination: Ju, Pair ( 3d 3s Kh Qs Jd )
+Wins: Wufof, chips: 100
+Wins: Ju, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wufof
+Small Blind: Wufof, chips: 100
+Big Blind: Ju, chips: 200
+Flop: 5h 2c Kd
+Turn: 9c
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Wufof, Qc 9s
+Combination: Wufof, Three Of A Kind ( 9s 9c 9h Kd Qc )
+Shows: Ju, 7h 2h
+Combination: Ju, Two Pair ( 9c 9h 2h 2c Kd )
+Wins: Wufof, chips: 200
+Wins: Ju, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Wufof, chips: 200
+Flop: Jh 3d 4h
+Turn: 9s
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Wufof, 9d Th
+Combination: Wufof, Pair ( 9d 9s Jh Th 5s )
+Shows: Ju, Jc Qd
+Combination: Ju, Pair ( Jc Jh Qd 9s 5s )
+Wins: Wufof, chips: 100
+Wins: Ju, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wufof
+Small Blind: Wufof, chips: 100
+Big Blind: Ju, chips: 200
+Flop: As 4s 6c
+Turn: Ts
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Wufof, 6d 3d
+Combination: Wufof, Pair ( 6d 6c As Ts 9c )
+Shows: Ju, 7d Qs
+Combination: Ju, High Card ( As Qs Ts 9c 7d )
+Wins: Wufof, chips: 200
+Wins: Ju, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Wufof, chips: 200
+Flop: Ks 8c Qs
+Turn: Ad
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Wufof, 4d Kh
+Combination: Wufof, Pair ( Kh Ks Ad Qs 8c )
+Shows: Ju, 3c 5c
+Combination: Ju, Pair ( 3c 3h Ad Ks Qs )
+Wins: Wufof, chips: 300
+Quits: Ju, chips: 0
+Ranking: Wufof, Place: 1, Score: 1000
+Reveal AI: Wufof, AI: Random
+Ranking: Ju, Place: 2, Score: -1000
+Reveal AI: Ju, AI: AIMyBot1
+
+Player Stats for Ju, AI: AIMyBot1
+General: deals: 12, actions: 6, preflop actions: 6
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Wufof, AI: Random
+General: deals: 12, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 6, bluff: 6
+Chips: won: 3700, lost: 2700, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0.166667, 3Bet: 0.166667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:10
+
+The game begins. The AI's of the players are: 
+Wufof: Random
+Ju: AIMyBot1
+
+Joins: Wufof, chips: 1000
+Joins: Ju, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wufof
+Small Blind: Wufof, chips: 100
+Big Blind: Ju, chips: 200
+Calls: Wufof
+DEBUG MESSAGE: INVALID ACTION FROM Ju (2 0)
+Folds: Ju
+Pot size: 400
+Boasts: Wufof, Th 2d
+Wins: Wufof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Wufof, chips: 200
+Folds: Ju
+Pot size: 300
+Boasts: Wufof, 8s Td
+Wins: Wufof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wufof
+Small Blind: Wufof, chips: 100
+Big Blind: Ju, chips: 200
+Raises: Wufof, chips: 300
+Folds: Ju
+Pot size: 700
+Boasts: Wufof, 7h Td
+Wins: Wufof, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Wufof, chips: 200
+Folds: Ju
+Pot size: 300
+Boasts: Wufof, 7c 5h
+Wins: Wufof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wufof
+Small Blind: Wufof, chips: 100
+Big Blind: Ju, chips: 200
+Raises: Wufof, chips: 300
+Folds: Ju
+Pot size: 700
+Wins: Wufof, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Wufof, chips: 200
+Folds: Ju
+Pot size: 300
+Boasts: Wufof, 5d 3c
+Wins: Wufof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wufof
+Small Blind: Wufof, chips: 100
+Big Blind: Ju, chips: 100
+Flop: 5h 9c 9s
+Turn: 9h
+River: 5c
+Pot size: 200
+Showdown Reached
+Shows: Wufof, Qh 7c
+Combination: Wufof, Full House ( 9c 9s 9h 5h 5c )
+Shows: Ju, 8d 3d
+Combination: Ju, Full House ( 9c 9s 9h 5h 5c )
+Wins: Wufof, chips: 100
+Wins: Ju, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Wufof, chips: 200
+Flop: Jd Td 3s
+Turn: Kh
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Wufof, 5h 8d
+Combination: Wufof, High Card ( Kh Jd Td 8d 6h )
+Shows: Ju, Qs 3d
+Combination: Ju, Pair ( 3d 3s Kh Qs Jd )
+Wins: Wufof, chips: 100
+Wins: Ju, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wufof
+Small Blind: Wufof, chips: 100
+Big Blind: Ju, chips: 200
+Flop: 5h 2c Kd
+Turn: 9c
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Wufof, Qc 9s
+Combination: Wufof, Three Of A Kind ( 9s 9c 9h Kd Qc )
+Shows: Ju, 7h 2h
+Combination: Ju, Two Pair ( 9c 9h 2h 2c Kd )
+Wins: Wufof, chips: 200
+Wins: Ju, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Wufof, chips: 200
+Flop: Jh 3d 4h
+Turn: 9s
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Wufof, 9d Th
+Combination: Wufof, Pair ( 9d 9s Jh Th 5s )
+Shows: Ju, Jc Qd
+Combination: Ju, Pair ( Jc Jh Qd 9s 5s )
+Wins: Wufof, chips: 100
+Wins: Ju, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wufof
+Small Blind: Wufof, chips: 100
+Big Blind: Ju, chips: 200
+Flop: As 4s 6c
+Turn: Ts
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Wufof, 6d 3d
+Combination: Wufof, Pair ( 6d 6c As Ts 9c )
+Shows: Ju, 7d Qs
+Combination: Ju, High Card ( As Qs Ts 9c 7d )
+Wins: Wufof, chips: 200
+Wins: Ju, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Wufof, chips: 200
+Flop: Ks 8c Qs
+Turn: Ad
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Wufof, 4d Kh
+Combination: Wufof, Pair ( Kh Ks Ad Qs 8c )
+Shows: Ju, 3c 5c
+Combination: Ju, Pair ( 3c 3h Ad Ks Qs )
+Wins: Wufof, chips: 300
+Quits: Ju, chips: 0
+Ranking: Wufof, Place: 1, Score: 1000
+Reveal AI: Wufof, AI: Random
+Ranking: Ju, Place: 2, Score: -1000
+Reveal AI: Ju, AI: AIMyBot1
+
+Player Stats for Ju, AI: AIMyBot1
+General: deals: 12, actions: 6, preflop actions: 6
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Wufof, AI: Random
+General: deals: 12, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 6, bluff: 6
+Chips: won: 3700, lost: 2700, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0.166667, 3Bet: 0.166667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

@@ -1,0 +1,460 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Chofu: AIMyBot1
+Sihuf: Random
+
+Joins: Chofu, chips: 1000
+Joins: Sihuf, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 200
+Calls: Sihuf
+DEBUG MESSAGE: INVALID ACTION FROM Chofu (2 0)
+Folds: Chofu
+Pot size: 400
+Boasts: Sihuf, 9d Kh
+Wins: Sihuf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Folds: Chofu
+Pot size: 300
+Boasts: Sihuf, Ts 3d
+Wins: Sihuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 200
+Raises: Sihuf, chips: 300
+Folds: Chofu
+Pot size: 700
+Boasts: Sihuf, 2c Tc
+Wins: Sihuf, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Folds: Chofu
+Pot size: 300
+Boasts: Sihuf, Qd 5s
+Wins: Sihuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 200
+Calls: Sihuf
+DEBUG MESSAGE: INVALID ACTION FROM Chofu (2 0)
+Folds: Chofu
+Pot size: 400
+Boasts: Sihuf, 7d 3s
+Wins: Sihuf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Folds: Chofu
+Pot size: 300
+Wins: Sihuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 100
+Flop: Qs 9s Ad
+Turn: 3d
+River: 4s
+Pot size: 200
+Showdown Reached
+Shows: Chofu, Qh Kh
+Combination: Chofu, Pair ( Qh Qs Ad Kh 9s )
+Shows: Sihuf, 5d Kc
+Combination: Sihuf, High Card ( Ad Kc Qs 9s 5d )
+Wins: Chofu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Folds: Chofu
+Pot size: 300
+Wins: Sihuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 100
+Flop: 4d Tc 6h
+Turn: 2s
+River: 3h
+Pot size: 200
+Showdown Reached
+Shows: Chofu, Ks Th
+Combination: Chofu, Pair ( Th Tc Ks 6h 4d )
+Shows: Sihuf, Ad 4c
+Combination: Sihuf, Pair ( 4c 4d Ad Tc 6h )
+Wins: Chofu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Folds: Chofu
+Pot size: 300
+Boasts: Sihuf, 7s Kc
+Wins: Sihuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 100
+Flop: Tc 4s 8c
+Turn: 6s
+River: 3d
+Pot size: 200
+Showdown Reached
+Shows: Chofu, 7c 4c
+Combination: Chofu, Pair ( 4c 4s Tc 8c 7c )
+Shows: Sihuf, 5c 3c
+Combination: Sihuf, Pair ( 3c 3d Tc 8c 6s )
+Wins: Chofu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Folds: Chofu
+Pot size: 300
+Boasts: Sihuf, 3d Ac
+Wins: Sihuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 100
+Flop: 8h 7d 2d
+Turn: 9d
+River: Kd
+Pot size: 200
+Showdown Reached
+Shows: Chofu, 8d Js
+Combination: Chofu, Flush ( Kd 9d 8d 7d 2d )
+Shows: Sihuf, 2c 7h
+Combination: Sihuf, Two Pair ( 7h 7d 2c 2d Kd )
+Wins: Chofu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Folds: Chofu
+Pot size: 300
+Wins: Sihuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 100
+Flop: Jh Qs 2s
+Turn: 6h
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Chofu, 3s 5s
+Combination: Chofu, Pair ( 2s 2d Qs Jh 6h )
+Shows: Sihuf, 3d 5c
+Combination: Sihuf, Pair ( 2s 2d Qs Jh 6h )
+Wins: Chofu, chips: 100
+Wins: Sihuf, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Flop: 4s 3h 6s
+Turn: 8h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Chofu, 3c Ad
+Combination: Chofu, Two Pair ( Ad As 3c 3h 8h )
+Shows: Sihuf, Jc 7h
+Combination: Sihuf, High Card ( As Jc 8h 7h 6s )
+Wins: Chofu, chips: 200
+Wins: Sihuf, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 200
+Flop: 5d 9s 6s
+Turn: Jh
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Chofu, 5h 8h
+Combination: Chofu, Pair ( 5h 5d Qh Jh 9s )
+Shows: Sihuf, 9c 8d
+Combination: Sihuf, Pair ( 9c 9s Qh Jh 8d )
+Wins: Chofu, chips: 100
+Wins: Sihuf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Flop: 8d 3d Kc
+Turn: 6c
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Chofu, 9d As
+Combination: Chofu, Pair ( 6c 6s As Kc 9d )
+Shows: Sihuf, Kd Qc
+Combination: Sihuf, Two Pair ( Kd Kc 6c 6s Qc )
+Wins: Sihuf, chips: 300
+Quits: Chofu, chips: 0
+Ranking: Sihuf, Place: 1, Score: 1000
+Reveal AI: Sihuf, AI: Random
+Ranking: Chofu, Place: 2, Score: -1000
+Reveal AI: Chofu, AI: AIMyBot1
+
+Player Stats for Chofu, AI: AIMyBot1
+General: deals: 18, actions: 10, preflop actions: 10
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Sihuf, AI: Random
+General: deals: 18, actions: 3, preflop actions: 3
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 14, showdown: 4, bluff: 10
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0.0555556, 3Bet: 0.0555556
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:53
+
+The game begins. The AI's of the players are: 
+Chofu: AIMyBot1
+Sihuf: Random
+
+Joins: Chofu, chips: 1000
+Joins: Sihuf, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 200
+Calls: Sihuf
+DEBUG MESSAGE: INVALID ACTION FROM Chofu (2 0)
+Folds: Chofu
+Pot size: 400
+Boasts: Sihuf, 9d Kh
+Wins: Sihuf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Folds: Chofu
+Pot size: 300
+Boasts: Sihuf, Ts 3d
+Wins: Sihuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 200
+Raises: Sihuf, chips: 300
+Folds: Chofu
+Pot size: 700
+Boasts: Sihuf, 2c Tc
+Wins: Sihuf, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Folds: Chofu
+Pot size: 300
+Boasts: Sihuf, Qd 5s
+Wins: Sihuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 200
+Calls: Sihuf
+DEBUG MESSAGE: INVALID ACTION FROM Chofu (2 0)
+Folds: Chofu
+Pot size: 400
+Boasts: Sihuf, 7d 3s
+Wins: Sihuf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Folds: Chofu
+Pot size: 300
+Wins: Sihuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 100
+Flop: Qs 9s Ad
+Turn: 3d
+River: 4s
+Pot size: 200
+Showdown Reached
+Shows: Chofu, Qh Kh
+Combination: Chofu, Pair ( Qh Qs Ad Kh 9s )
+Shows: Sihuf, 5d Kc
+Combination: Sihuf, High Card ( Ad Kc Qs 9s 5d )
+Wins: Chofu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Folds: Chofu
+Pot size: 300
+Wins: Sihuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 100
+Flop: 4d Tc 6h
+Turn: 2s
+River: 3h
+Pot size: 200
+Showdown Reached
+Shows: Chofu, Ks Th
+Combination: Chofu, Pair ( Th Tc Ks 6h 4d )
+Shows: Sihuf, Ad 4c
+Combination: Sihuf, Pair ( 4c 4d Ad Tc 6h )
+Wins: Chofu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Folds: Chofu
+Pot size: 300
+Boasts: Sihuf, 7s Kc
+Wins: Sihuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 100
+Flop: Tc 4s 8c
+Turn: 6s
+River: 3d
+Pot size: 200
+Showdown Reached
+Shows: Chofu, 7c 4c
+Combination: Chofu, Pair ( 4c 4s Tc 8c 7c )
+Shows: Sihuf, 5c 3c
+Combination: Sihuf, Pair ( 3c 3d Tc 8c 6s )
+Wins: Chofu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Folds: Chofu
+Pot size: 300
+Boasts: Sihuf, 3d Ac
+Wins: Sihuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 100
+Flop: 8h 7d 2d
+Turn: 9d
+River: Kd
+Pot size: 200
+Showdown Reached
+Shows: Chofu, 8d Js
+Combination: Chofu, Flush ( Kd 9d 8d 7d 2d )
+Shows: Sihuf, 2c 7h
+Combination: Sihuf, Two Pair ( 7h 7d 2c 2d Kd )
+Wins: Chofu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Folds: Chofu
+Pot size: 300
+Wins: Sihuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 100
+Flop: Jh Qs 2s
+Turn: 6h
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Chofu, 3s 5s
+Combination: Chofu, Pair ( 2s 2d Qs Jh 6h )
+Shows: Sihuf, 3d 5c
+Combination: Sihuf, Pair ( 2s 2d Qs Jh 6h )
+Wins: Chofu, chips: 100
+Wins: Sihuf, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Flop: 4s 3h 6s
+Turn: 8h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Chofu, 3c Ad
+Combination: Chofu, Two Pair ( Ad As 3c 3h 8h )
+Shows: Sihuf, Jc 7h
+Combination: Sihuf, High Card ( As Jc 8h 7h 6s )
+Wins: Chofu, chips: 200
+Wins: Sihuf, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sihuf
+Small Blind: Sihuf, chips: 100
+Big Blind: Chofu, chips: 200
+Flop: 5d 9s 6s
+Turn: Jh
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Chofu, 5h 8h
+Combination: Chofu, Pair ( 5h 5d Qh Jh 9s )
+Shows: Sihuf, 9c 8d
+Combination: Sihuf, Pair ( 9c 9s Qh Jh 8d )
+Wins: Chofu, chips: 100
+Wins: Sihuf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chofu
+Small Blind: Chofu, chips: 100
+Big Blind: Sihuf, chips: 200
+Flop: 8d 3d Kc
+Turn: 6c
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Chofu, 9d As
+Combination: Chofu, Pair ( 6c 6s As Kc 9d )
+Shows: Sihuf, Kd Qc
+Combination: Sihuf, Two Pair ( Kd Kc 6c 6s Qc )
+Wins: Sihuf, chips: 300
+Quits: Chofu, chips: 0
+Ranking: Sihuf, Place: 1, Score: 1000
+Reveal AI: Sihuf, AI: Random
+Ranking: Chofu, Place: 2, Score: -1000
+Reveal AI: Chofu, AI: AIMyBot1
+
+Player Stats for Chofu, AI: AIMyBot1
+General: deals: 18, actions: 10, preflop actions: 10
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Sihuf, AI: Random
+General: deals: 18, actions: 3, preflop actions: 3
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 14, showdown: 4, bluff: 10
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0.0555556, 3Bet: 0.0555556
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

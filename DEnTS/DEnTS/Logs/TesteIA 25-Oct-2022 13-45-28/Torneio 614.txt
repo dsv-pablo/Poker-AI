@@ -1,0 +1,282 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Kefarlee: AIMyBot1
+Hodi: Random
+
+Joins: Kefarlee, chips: 1000
+Joins: Hodi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hodi
+Small Blind: Hodi, chips: 100
+Big Blind: Kefarlee, chips: 200
+Calls: Hodi
+DEBUG MESSAGE: INVALID ACTION FROM Kefarlee (2 0)
+Folds: Kefarlee
+Pot size: 400
+Boasts: Hodi, 4h 4s
+Wins: Hodi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefarlee
+Small Blind: Kefarlee, chips: 100
+Big Blind: Hodi, chips: 200
+Folds: Kefarlee
+Pot size: 300
+Wins: Hodi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hodi
+Small Blind: Hodi, chips: 100
+Big Blind: Kefarlee, chips: 200
+Calls: Hodi
+DEBUG MESSAGE: INVALID ACTION FROM Kefarlee (2 0)
+Folds: Kefarlee
+Pot size: 400
+Boasts: Hodi, 5c Jd
+Wins: Hodi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefarlee
+Small Blind: Kefarlee, chips: 100
+Big Blind: Hodi, chips: 200
+Folds: Kefarlee
+Pot size: 300
+Wins: Hodi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hodi
+Small Blind: Hodi, chips: 100
+Big Blind: Kefarlee, chips: 200
+Raises: Hodi, chips: 300
+Folds: Kefarlee
+Pot size: 700
+Boasts: Hodi, 7s 6d
+Wins: Hodi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefarlee
+Small Blind: Kefarlee, chips: 100
+Big Blind: Hodi, chips: 200
+Folds: Kefarlee
+Pot size: 300
+Boasts: Hodi, Ks 4c
+Wins: Hodi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hodi
+Small Blind: Hodi, chips: 100
+Big Blind: Kefarlee, chips: 100
+Flop: Td 2c Ks
+Turn: 3d
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Kefarlee, 7c 8c
+Combination: Kefarlee, Pair ( 7c 7d Ks Td 8c )
+Shows: Hodi, 4h 5h
+Combination: Hodi, High Card ( Ks Td 7d 5h 4h )
+Wins: Kefarlee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefarlee
+Small Blind: Kefarlee, chips: 100
+Big Blind: Hodi, chips: 200
+Folds: Kefarlee
+Pot size: 300
+Wins: Hodi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hodi
+Small Blind: Hodi, chips: 100
+Big Blind: Kefarlee, chips: 100
+Flop: 5c 3d Qc
+Turn: 2s
+River: 3h
+Pot size: 200
+Showdown Reached
+Shows: Kefarlee, 5s As
+Combination: Kefarlee, Two Pair ( 5s 5c 3d 3h As )
+Shows: Hodi, 6d Js
+Combination: Hodi, Pair ( 3d 3h Qc Js 6d )
+Wins: Kefarlee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefarlee
+Small Blind: Kefarlee, chips: 100
+Big Blind: Hodi, chips: 200
+Folds: Kefarlee
+Pot size: 300
+Boasts: Hodi, 2s 8c
+Wins: Hodi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hodi
+Small Blind: Hodi, chips: 100
+Big Blind: Kefarlee, chips: 100
+Flop: Jh 2c 3c
+Turn: 4h
+River: Qd
+Pot size: 200
+Showdown Reached
+Shows: Kefarlee, 2d Ac
+Combination: Kefarlee, Pair ( 2d 2c Ac Qd Jh )
+Shows: Hodi, 2s 4d
+Combination: Hodi, Two Pair ( 4d 4h 2s 2c Qd )
+Wins: Hodi, chips: 200
+Quits: Kefarlee, chips: 0
+Ranking: Hodi, Place: 1, Score: 1000
+Reveal AI: Hodi, AI: Random
+Ranking: Kefarlee, Place: 2, Score: -1000
+Reveal AI: Kefarlee, AI: AIMyBot1
+
+Player Stats for Hodi, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Kefarlee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:10
+
+The game begins. The AI's of the players are: 
+Kefarlee: AIMyBot1
+Hodi: Random
+
+Joins: Kefarlee, chips: 1000
+Joins: Hodi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hodi
+Small Blind: Hodi, chips: 100
+Big Blind: Kefarlee, chips: 200
+Calls: Hodi
+DEBUG MESSAGE: INVALID ACTION FROM Kefarlee (2 0)
+Folds: Kefarlee
+Pot size: 400
+Boasts: Hodi, 4h 4s
+Wins: Hodi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefarlee
+Small Blind: Kefarlee, chips: 100
+Big Blind: Hodi, chips: 200
+Folds: Kefarlee
+Pot size: 300
+Wins: Hodi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hodi
+Small Blind: Hodi, chips: 100
+Big Blind: Kefarlee, chips: 200
+Calls: Hodi
+DEBUG MESSAGE: INVALID ACTION FROM Kefarlee (2 0)
+Folds: Kefarlee
+Pot size: 400
+Boasts: Hodi, 5c Jd
+Wins: Hodi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefarlee
+Small Blind: Kefarlee, chips: 100
+Big Blind: Hodi, chips: 200
+Folds: Kefarlee
+Pot size: 300
+Wins: Hodi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hodi
+Small Blind: Hodi, chips: 100
+Big Blind: Kefarlee, chips: 200
+Raises: Hodi, chips: 300
+Folds: Kefarlee
+Pot size: 700
+Boasts: Hodi, 7s 6d
+Wins: Hodi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefarlee
+Small Blind: Kefarlee, chips: 100
+Big Blind: Hodi, chips: 200
+Folds: Kefarlee
+Pot size: 300
+Boasts: Hodi, Ks 4c
+Wins: Hodi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hodi
+Small Blind: Hodi, chips: 100
+Big Blind: Kefarlee, chips: 100
+Flop: Td 2c Ks
+Turn: 3d
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Kefarlee, 7c 8c
+Combination: Kefarlee, Pair ( 7c 7d Ks Td 8c )
+Shows: Hodi, 4h 5h
+Combination: Hodi, High Card ( Ks Td 7d 5h 4h )
+Wins: Kefarlee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefarlee
+Small Blind: Kefarlee, chips: 100
+Big Blind: Hodi, chips: 200
+Folds: Kefarlee
+Pot size: 300
+Wins: Hodi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hodi
+Small Blind: Hodi, chips: 100
+Big Blind: Kefarlee, chips: 100
+Flop: 5c 3d Qc
+Turn: 2s
+River: 3h
+Pot size: 200
+Showdown Reached
+Shows: Kefarlee, 5s As
+Combination: Kefarlee, Two Pair ( 5s 5c 3d 3h As )
+Shows: Hodi, 6d Js
+Combination: Hodi, Pair ( 3d 3h Qc Js 6d )
+Wins: Kefarlee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefarlee
+Small Blind: Kefarlee, chips: 100
+Big Blind: Hodi, chips: 200
+Folds: Kefarlee
+Pot size: 300
+Boasts: Hodi, 2s 8c
+Wins: Hodi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hodi
+Small Blind: Hodi, chips: 100
+Big Blind: Kefarlee, chips: 100
+Flop: Jh 2c 3c
+Turn: 4h
+River: Qd
+Pot size: 200
+Showdown Reached
+Shows: Kefarlee, 2d Ac
+Combination: Kefarlee, Pair ( 2d 2c Ac Qd Jh )
+Shows: Hodi, 2s 4d
+Combination: Hodi, Two Pair ( 4d 4h 2s 2c Qd )
+Wins: Hodi, chips: 200
+Quits: Kefarlee, chips: 0
+Ranking: Hodi, Place: 1, Score: 1000
+Reveal AI: Hodi, AI: Random
+Ranking: Kefarlee, Place: 2, Score: -1000
+Reveal AI: Kefarlee, AI: AIMyBot1
+
+Player Stats for Hodi, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Kefarlee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

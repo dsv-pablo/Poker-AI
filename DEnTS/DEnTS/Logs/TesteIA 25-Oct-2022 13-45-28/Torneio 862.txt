@@ -1,0 +1,284 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jeefu: AIMyBot1
+Beewroe: Random
+
+Joins: Jeefu, chips: 1000
+Joins: Beewroe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeefu
+Small Blind: Jeefu, chips: 100
+Big Blind: Beewroe, chips: 200
+Folds: Jeefu
+Pot size: 300
+Boasts: Beewroe, 6c As
+Wins: Beewroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beewroe
+Small Blind: Beewroe, chips: 100
+Big Blind: Jeefu, chips: 200
+Calls: Beewroe
+DEBUG MESSAGE: INVALID ACTION FROM Jeefu (2 0)
+Folds: Jeefu
+Pot size: 400
+Wins: Beewroe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeefu
+Small Blind: Jeefu, chips: 100
+Big Blind: Beewroe, chips: 200
+Folds: Jeefu
+Pot size: 300
+Boasts: Beewroe, 8c 7c
+Wins: Beewroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beewroe
+Small Blind: Beewroe, chips: 100
+Big Blind: Jeefu, chips: 200
+Folds: Beewroe
+Pot size: 300
+Boasts: Beewroe, 9c Td
+Wins: Jeefu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeefu
+Small Blind: Jeefu, chips: 100
+Big Blind: Beewroe, chips: 200
+Folds: Jeefu
+Pot size: 300
+Wins: Beewroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beewroe
+Small Blind: Beewroe, chips: 100
+Big Blind: Jeefu, chips: 200
+Calls: Beewroe
+DEBUG MESSAGE: INVALID ACTION FROM Jeefu (2 0)
+Folds: Jeefu
+Pot size: 400
+Wins: Beewroe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeefu
+Small Blind: Jeefu, chips: 100
+Big Blind: Beewroe, chips: 200
+Folds: Jeefu
+Pot size: 300
+Wins: Beewroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beewroe
+Small Blind: Beewroe, chips: 100
+Big Blind: Jeefu, chips: 200
+Calls: Beewroe
+DEBUG MESSAGE: INVALID ACTION FROM Jeefu (2 0)
+Folds: Jeefu
+Pot size: 400
+Wins: Beewroe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeefu
+Small Blind: Jeefu, chips: 100
+Big Blind: Beewroe, chips: 200
+Flop: Qh 7h As
+Turn: 3s
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Jeefu, Ah Jc
+Combination: Jeefu, Two Pair ( Ah As Jc Js Qh )
+Shows: Beewroe, Kh 8h
+Combination: Beewroe, High Card ( As Kh Qh Js 8h )
+Wins: Jeefu, chips: 200
+Wins: Beewroe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beewroe
+Small Blind: Beewroe, chips: 100
+Big Blind: Jeefu, chips: 200
+Flop: 7d 7h Kc
+Turn: Qs
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Jeefu, 3h Td
+Combination: Jeefu, Pair ( 7d 7h Kc Qs Td )
+Shows: Beewroe, Jh Kd
+Combination: Beewroe, Two Pair ( Kd Kc 7d 7h Qs )
+Wins: Jeefu, chips: 100
+Wins: Beewroe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeefu
+Small Blind: Jeefu, chips: 100
+Big Blind: Beewroe, chips: 200
+Flop: Qs Jc 3d
+Turn: 3s
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Jeefu, 8h 4h
+Combination: Jeefu, Pair ( 3d 3s Qs Jc 8h )
+Shows: Beewroe, 4d Th
+Combination: Beewroe, Pair ( 3d 3s Qs Jc Th )
+Wins: Beewroe, chips: 300
+Quits: Jeefu, chips: 0
+Ranking: Beewroe, Place: 1, Score: 1000
+Reveal AI: Beewroe, AI: Random
+Ranking: Jeefu, Place: 2, Score: -1000
+Reveal AI: Jeefu, AI: AIMyBot1
+
+Player Stats for Beewroe, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Jeefu, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:26
+
+The game begins. The AI's of the players are: 
+Jeefu: AIMyBot1
+Beewroe: Random
+
+Joins: Jeefu, chips: 1000
+Joins: Beewroe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeefu
+Small Blind: Jeefu, chips: 100
+Big Blind: Beewroe, chips: 200
+Folds: Jeefu
+Pot size: 300
+Boasts: Beewroe, 6c As
+Wins: Beewroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beewroe
+Small Blind: Beewroe, chips: 100
+Big Blind: Jeefu, chips: 200
+Calls: Beewroe
+DEBUG MESSAGE: INVALID ACTION FROM Jeefu (2 0)
+Folds: Jeefu
+Pot size: 400
+Wins: Beewroe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeefu
+Small Blind: Jeefu, chips: 100
+Big Blind: Beewroe, chips: 200
+Folds: Jeefu
+Pot size: 300
+Boasts: Beewroe, 8c 7c
+Wins: Beewroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beewroe
+Small Blind: Beewroe, chips: 100
+Big Blind: Jeefu, chips: 200
+Folds: Beewroe
+Pot size: 300
+Boasts: Beewroe, 9c Td
+Wins: Jeefu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeefu
+Small Blind: Jeefu, chips: 100
+Big Blind: Beewroe, chips: 200
+Folds: Jeefu
+Pot size: 300
+Wins: Beewroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beewroe
+Small Blind: Beewroe, chips: 100
+Big Blind: Jeefu, chips: 200
+Calls: Beewroe
+DEBUG MESSAGE: INVALID ACTION FROM Jeefu (2 0)
+Folds: Jeefu
+Pot size: 400
+Wins: Beewroe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeefu
+Small Blind: Jeefu, chips: 100
+Big Blind: Beewroe, chips: 200
+Folds: Jeefu
+Pot size: 300
+Wins: Beewroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beewroe
+Small Blind: Beewroe, chips: 100
+Big Blind: Jeefu, chips: 200
+Calls: Beewroe
+DEBUG MESSAGE: INVALID ACTION FROM Jeefu (2 0)
+Folds: Jeefu
+Pot size: 400
+Wins: Beewroe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeefu
+Small Blind: Jeefu, chips: 100
+Big Blind: Beewroe, chips: 200
+Flop: Qh 7h As
+Turn: 3s
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Jeefu, Ah Jc
+Combination: Jeefu, Two Pair ( Ah As Jc Js Qh )
+Shows: Beewroe, Kh 8h
+Combination: Beewroe, High Card ( As Kh Qh Js 8h )
+Wins: Jeefu, chips: 200
+Wins: Beewroe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beewroe
+Small Blind: Beewroe, chips: 100
+Big Blind: Jeefu, chips: 200
+Flop: 7d 7h Kc
+Turn: Qs
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Jeefu, 3h Td
+Combination: Jeefu, Pair ( 7d 7h Kc Qs Td )
+Shows: Beewroe, Jh Kd
+Combination: Beewroe, Two Pair ( Kd Kc 7d 7h Qs )
+Wins: Jeefu, chips: 100
+Wins: Beewroe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeefu
+Small Blind: Jeefu, chips: 100
+Big Blind: Beewroe, chips: 200
+Flop: Qs Jc 3d
+Turn: 3s
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Jeefu, 8h 4h
+Combination: Jeefu, Pair ( 3d 3s Qs Jc 8h )
+Shows: Beewroe, 4d Th
+Combination: Beewroe, Pair ( 3d 3s Qs Jc Th )
+Wins: Beewroe, chips: 300
+Quits: Jeefu, chips: 0
+Ranking: Beewroe, Place: 1, Score: 1000
+Reveal AI: Beewroe, AI: Random
+Ranking: Jeefu, Place: 2, Score: -1000
+Reveal AI: Jeefu, AI: AIMyBot1
+
+Player Stats for Beewroe, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Jeefu, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

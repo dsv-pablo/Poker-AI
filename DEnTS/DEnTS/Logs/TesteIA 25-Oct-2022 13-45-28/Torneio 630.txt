@@ -1,0 +1,324 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Liwut: AIMyBot1
+Riloe: Random
+
+Joins: Liwut, chips: 1000
+Joins: Riloe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloe
+Small Blind: Riloe, chips: 100
+Big Blind: Liwut, chips: 200
+Folds: Riloe
+Pot size: 300
+Boasts: Riloe, Ah 8c
+Wins: Liwut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwut
+Small Blind: Liwut, chips: 100
+Big Blind: Riloe, chips: 200
+Folds: Liwut
+Pot size: 300
+Boasts: Riloe, 7s Td
+Wins: Riloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloe
+Small Blind: Riloe, chips: 100
+Big Blind: Liwut, chips: 200
+Folds: Riloe
+Pot size: 300
+Boasts: Riloe, 5c 2h
+Wins: Liwut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwut
+Small Blind: Liwut, chips: 100
+Big Blind: Riloe, chips: 200
+Folds: Liwut
+Pot size: 300
+Boasts: Riloe, Kh 4c
+Wins: Riloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloe
+Small Blind: Riloe, chips: 100
+Big Blind: Liwut, chips: 200
+Folds: Riloe
+Pot size: 300
+Wins: Liwut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwut
+Small Blind: Liwut, chips: 100
+Big Blind: Riloe, chips: 200
+Folds: Liwut
+Pot size: 300
+Wins: Riloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloe
+Small Blind: Riloe, chips: 100
+Big Blind: Liwut, chips: 200
+Calls: Riloe
+DEBUG MESSAGE: INVALID ACTION FROM Liwut (2 0)
+Folds: Liwut
+Pot size: 400
+Boasts: Riloe, Kh 6s
+Wins: Riloe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwut
+Small Blind: Liwut, chips: 100
+Big Blind: Riloe, chips: 200
+Folds: Liwut
+Pot size: 300
+Boasts: Riloe, 3s 5h
+Wins: Riloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloe
+Small Blind: Riloe, chips: 100
+Big Blind: Liwut, chips: 200
+Raises: Riloe, chips: 300
+Folds: Liwut
+Pot size: 700
+Wins: Riloe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwut
+Small Blind: Liwut, chips: 100
+Big Blind: Riloe, chips: 200
+Folds: Liwut
+Pot size: 300
+Wins: Riloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloe
+Small Blind: Riloe, chips: 100
+Big Blind: Liwut, chips: 200
+Raises: Riloe, chips: 300
+Folds: Liwut
+Pot size: 700
+Wins: Riloe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwut
+Small Blind: Liwut, chips: 100
+Big Blind: Riloe, chips: 200
+Folds: Liwut
+Pot size: 300
+Wins: Riloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloe
+Small Blind: Riloe, chips: 100
+Big Blind: Liwut, chips: 100
+Flop: 4c 2d 7d
+Turn: 4d
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Liwut, 9s 2h
+Combination: Liwut, Two Pair ( 4c 4d 2h 2d 9s )
+Shows: Riloe, Qd 6h
+Combination: Riloe, Pair ( 4c 4d Qd 7d 6h )
+Wins: Liwut, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwut
+Small Blind: Liwut, chips: 100
+Big Blind: Riloe, chips: 200
+Folds: Liwut
+Pot size: 300
+Wins: Riloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloe
+Small Blind: Riloe, chips: 100
+Big Blind: Liwut, chips: 100
+Flop: 4d Jh Kh
+Turn: Td
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Liwut, 7d Th
+Combination: Liwut, Pair ( Th Td Kh Jh 8s )
+Shows: Riloe, 8h Kc
+Combination: Riloe, Two Pair ( Kc Kh 8h 8s Jh )
+Wins: Riloe, chips: 200
+Quits: Liwut, chips: 0
+Ranking: Riloe, Place: 1, Score: 1000
+Reveal AI: Riloe, AI: Random
+Ranking: Liwut, Place: 2, Score: -1000
+Reveal AI: Liwut, AI: AIMyBot1
+
+Player Stats for Liwut, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 4, showdown: 1, bluff: 3
+Chips: won: 1100, lost: 2100, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Riloe, AI: Random
+General: deals: 15, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:11
+
+The game begins. The AI's of the players are: 
+Liwut: AIMyBot1
+Riloe: Random
+
+Joins: Liwut, chips: 1000
+Joins: Riloe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloe
+Small Blind: Riloe, chips: 100
+Big Blind: Liwut, chips: 200
+Folds: Riloe
+Pot size: 300
+Boasts: Riloe, Ah 8c
+Wins: Liwut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwut
+Small Blind: Liwut, chips: 100
+Big Blind: Riloe, chips: 200
+Folds: Liwut
+Pot size: 300
+Boasts: Riloe, 7s Td
+Wins: Riloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloe
+Small Blind: Riloe, chips: 100
+Big Blind: Liwut, chips: 200
+Folds: Riloe
+Pot size: 300
+Boasts: Riloe, 5c 2h
+Wins: Liwut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwut
+Small Blind: Liwut, chips: 100
+Big Blind: Riloe, chips: 200
+Folds: Liwut
+Pot size: 300
+Boasts: Riloe, Kh 4c
+Wins: Riloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloe
+Small Blind: Riloe, chips: 100
+Big Blind: Liwut, chips: 200
+Folds: Riloe
+Pot size: 300
+Wins: Liwut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwut
+Small Blind: Liwut, chips: 100
+Big Blind: Riloe, chips: 200
+Folds: Liwut
+Pot size: 300
+Wins: Riloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloe
+Small Blind: Riloe, chips: 100
+Big Blind: Liwut, chips: 200
+Calls: Riloe
+DEBUG MESSAGE: INVALID ACTION FROM Liwut (2 0)
+Folds: Liwut
+Pot size: 400
+Boasts: Riloe, Kh 6s
+Wins: Riloe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwut
+Small Blind: Liwut, chips: 100
+Big Blind: Riloe, chips: 200
+Folds: Liwut
+Pot size: 300
+Boasts: Riloe, 3s 5h
+Wins: Riloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloe
+Small Blind: Riloe, chips: 100
+Big Blind: Liwut, chips: 200
+Raises: Riloe, chips: 300
+Folds: Liwut
+Pot size: 700
+Wins: Riloe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwut
+Small Blind: Liwut, chips: 100
+Big Blind: Riloe, chips: 200
+Folds: Liwut
+Pot size: 300
+Wins: Riloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloe
+Small Blind: Riloe, chips: 100
+Big Blind: Liwut, chips: 200
+Raises: Riloe, chips: 300
+Folds: Liwut
+Pot size: 700
+Wins: Riloe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwut
+Small Blind: Liwut, chips: 100
+Big Blind: Riloe, chips: 200
+Folds: Liwut
+Pot size: 300
+Wins: Riloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloe
+Small Blind: Riloe, chips: 100
+Big Blind: Liwut, chips: 100
+Flop: 4c 2d 7d
+Turn: 4d
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Liwut, 9s 2h
+Combination: Liwut, Two Pair ( 4c 4d 2h 2d 9s )
+Shows: Riloe, Qd 6h
+Combination: Riloe, Pair ( 4c 4d Qd 7d 6h )
+Wins: Liwut, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwut
+Small Blind: Liwut, chips: 100
+Big Blind: Riloe, chips: 200
+Folds: Liwut
+Pot size: 300
+Wins: Riloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloe
+Small Blind: Riloe, chips: 100
+Big Blind: Liwut, chips: 100
+Flop: 4d Jh Kh
+Turn: Td
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Liwut, 7d Th
+Combination: Liwut, Pair ( Th Td Kh Jh 8s )
+Shows: Riloe, 8h Kc
+Combination: Riloe, Two Pair ( Kc Kh 8h 8s Jh )
+Wins: Riloe, chips: 200
+Quits: Liwut, chips: 0
+Ranking: Riloe, Place: 1, Score: 1000
+Reveal AI: Riloe, AI: Random
+Ranking: Liwut, Place: 2, Score: -1000
+Reveal AI: Liwut, AI: AIMyBot1
+
+Player Stats for Liwut, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 4, showdown: 1, bluff: 3
+Chips: won: 1100, lost: 2100, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Riloe, AI: Random
+General: deals: 15, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

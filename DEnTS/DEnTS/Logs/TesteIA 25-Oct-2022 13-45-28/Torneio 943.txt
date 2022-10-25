@@ -1,0 +1,288 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Vipomim: Random
+Dakoep: AIMyBot1
+
+Joins: Vipomim, chips: 1000
+Joins: Dakoep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoep
+Small Blind: Dakoep, chips: 100
+Big Blind: Vipomim, chips: 200
+Folds: Dakoep
+Pot size: 300
+Boasts: Vipomim, 4s 7s
+Wins: Vipomim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipomim
+Small Blind: Vipomim, chips: 100
+Big Blind: Dakoep, chips: 200
+Raises: Vipomim, chips: 300
+Folds: Dakoep
+Pot size: 700
+Boasts: Vipomim, Ts 8c
+Wins: Vipomim, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoep
+Small Blind: Dakoep, chips: 100
+Big Blind: Vipomim, chips: 200
+Folds: Dakoep
+Pot size: 300
+Boasts: Vipomim, Th Kc
+Wins: Vipomim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipomim
+Small Blind: Vipomim, chips: 100
+Big Blind: Dakoep, chips: 200
+Folds: Vipomim
+Pot size: 300
+Boasts: Vipomim, 5s Jd
+Wins: Dakoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoep
+Small Blind: Dakoep, chips: 100
+Big Blind: Vipomim, chips: 200
+Folds: Dakoep
+Pot size: 300
+Boasts: Vipomim, 7d 9h
+Wins: Vipomim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipomim
+Small Blind: Vipomim, chips: 100
+Big Blind: Dakoep, chips: 200
+Calls: Vipomim
+DEBUG MESSAGE: INVALID ACTION FROM Dakoep (2 0)
+Folds: Dakoep
+Pot size: 400
+Wins: Vipomim, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoep
+Small Blind: Dakoep, chips: 100
+Big Blind: Vipomim, chips: 200
+Folds: Dakoep
+Pot size: 300
+Wins: Vipomim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipomim
+Small Blind: Vipomim, chips: 100
+Big Blind: Dakoep, chips: 200
+Calls: Vipomim
+DEBUG MESSAGE: INVALID ACTION FROM Dakoep (2 0)
+Folds: Dakoep
+Pot size: 400
+Boasts: Vipomim, Qd 6d
+Wins: Vipomim, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoep
+Small Blind: Dakoep, chips: 100
+Big Blind: Vipomim, chips: 200
+Flop: 6h 3d 7c
+Turn: 5s
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Vipomim, Jd Qs
+Combination: Vipomim, High Card ( As Qs Jd 7c 6h )
+Shows: Dakoep, Kd Ts
+Combination: Dakoep, High Card ( As Kd Ts 7c 6h )
+Wins: Vipomim, chips: 100
+Wins: Dakoep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipomim
+Small Blind: Vipomim, chips: 100
+Big Blind: Dakoep, chips: 200
+Flop: 7s Kh 7c
+Turn: Ad
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Vipomim, 7d 9s
+Combination: Vipomim, Three Of A Kind ( 7d 7s 7c Ad Kh )
+Shows: Dakoep, 9h 9c
+Combination: Dakoep, Two Pair ( 9h 9c 7s 7c Ad )
+Wins: Vipomim, chips: 200
+Wins: Dakoep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoep
+Small Blind: Dakoep, chips: 100
+Big Blind: Vipomim, chips: 200
+Flop: Td 8c 2d
+Turn: Jc
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Vipomim, 9h 2s
+Combination: Vipomim, Pair ( 2s 2d Ac Jc Td )
+Shows: Dakoep, 3h 7s
+Combination: Dakoep, High Card ( Ac Jc Td 8c 7s )
+Wins: Vipomim, chips: 300
+Quits: Dakoep, chips: 0
+Ranking: Vipomim, Place: 1, Score: 1000
+Reveal AI: Vipomim, AI: Random
+Ranking: Dakoep, Place: 2, Score: -1000
+Reveal AI: Dakoep, AI: AIMyBot1
+
+Player Stats for Dakoep, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Vipomim, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:31
+
+The game begins. The AI's of the players are: 
+Vipomim: Random
+Dakoep: AIMyBot1
+
+Joins: Vipomim, chips: 1000
+Joins: Dakoep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoep
+Small Blind: Dakoep, chips: 100
+Big Blind: Vipomim, chips: 200
+Folds: Dakoep
+Pot size: 300
+Boasts: Vipomim, 4s 7s
+Wins: Vipomim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipomim
+Small Blind: Vipomim, chips: 100
+Big Blind: Dakoep, chips: 200
+Raises: Vipomim, chips: 300
+Folds: Dakoep
+Pot size: 700
+Boasts: Vipomim, Ts 8c
+Wins: Vipomim, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoep
+Small Blind: Dakoep, chips: 100
+Big Blind: Vipomim, chips: 200
+Folds: Dakoep
+Pot size: 300
+Boasts: Vipomim, Th Kc
+Wins: Vipomim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipomim
+Small Blind: Vipomim, chips: 100
+Big Blind: Dakoep, chips: 200
+Folds: Vipomim
+Pot size: 300
+Boasts: Vipomim, 5s Jd
+Wins: Dakoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoep
+Small Blind: Dakoep, chips: 100
+Big Blind: Vipomim, chips: 200
+Folds: Dakoep
+Pot size: 300
+Boasts: Vipomim, 7d 9h
+Wins: Vipomim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipomim
+Small Blind: Vipomim, chips: 100
+Big Blind: Dakoep, chips: 200
+Calls: Vipomim
+DEBUG MESSAGE: INVALID ACTION FROM Dakoep (2 0)
+Folds: Dakoep
+Pot size: 400
+Wins: Vipomim, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoep
+Small Blind: Dakoep, chips: 100
+Big Blind: Vipomim, chips: 200
+Folds: Dakoep
+Pot size: 300
+Wins: Vipomim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipomim
+Small Blind: Vipomim, chips: 100
+Big Blind: Dakoep, chips: 200
+Calls: Vipomim
+DEBUG MESSAGE: INVALID ACTION FROM Dakoep (2 0)
+Folds: Dakoep
+Pot size: 400
+Boasts: Vipomim, Qd 6d
+Wins: Vipomim, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoep
+Small Blind: Dakoep, chips: 100
+Big Blind: Vipomim, chips: 200
+Flop: 6h 3d 7c
+Turn: 5s
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Vipomim, Jd Qs
+Combination: Vipomim, High Card ( As Qs Jd 7c 6h )
+Shows: Dakoep, Kd Ts
+Combination: Dakoep, High Card ( As Kd Ts 7c 6h )
+Wins: Vipomim, chips: 100
+Wins: Dakoep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipomim
+Small Blind: Vipomim, chips: 100
+Big Blind: Dakoep, chips: 200
+Flop: 7s Kh 7c
+Turn: Ad
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Vipomim, 7d 9s
+Combination: Vipomim, Three Of A Kind ( 7d 7s 7c Ad Kh )
+Shows: Dakoep, 9h 9c
+Combination: Dakoep, Two Pair ( 9h 9c 7s 7c Ad )
+Wins: Vipomim, chips: 200
+Wins: Dakoep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoep
+Small Blind: Dakoep, chips: 100
+Big Blind: Vipomim, chips: 200
+Flop: Td 8c 2d
+Turn: Jc
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Vipomim, 9h 2s
+Combination: Vipomim, Pair ( 2s 2d Ac Jc Td )
+Shows: Dakoep, 3h 7s
+Combination: Dakoep, High Card ( Ac Jc Td 8c 7s )
+Wins: Vipomim, chips: 300
+Quits: Dakoep, chips: 0
+Ranking: Vipomim, Place: 1, Score: 1000
+Reveal AI: Vipomim, AI: Random
+Ranking: Dakoep, Place: 2, Score: -1000
+Reveal AI: Dakoep, AI: AIMyBot1
+
+Player Stats for Dakoep, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Vipomim, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

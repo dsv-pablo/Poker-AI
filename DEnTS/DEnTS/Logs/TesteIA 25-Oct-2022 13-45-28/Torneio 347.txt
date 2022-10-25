@@ -1,0 +1,324 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Lofe: Random
+Vowan: AIMyBot1
+
+Joins: Lofe, chips: 1000
+Joins: Vowan, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lofe
+Small Blind: Lofe, chips: 100
+Big Blind: Vowan, chips: 200
+Raises: Lofe, chips: 300
+Folds: Vowan
+Pot size: 700
+Wins: Lofe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vowan
+Small Blind: Vowan, chips: 100
+Big Blind: Lofe, chips: 200
+Folds: Vowan
+Pot size: 300
+Boasts: Lofe, Qd 8h
+Wins: Lofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lofe
+Small Blind: Lofe, chips: 100
+Big Blind: Vowan, chips: 200
+Calls: Lofe
+DEBUG MESSAGE: INVALID ACTION FROM Vowan (2 0)
+Folds: Vowan
+Pot size: 400
+Boasts: Lofe, 8c Tc
+Wins: Lofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vowan
+Small Blind: Vowan, chips: 100
+Big Blind: Lofe, chips: 200
+Folds: Vowan
+Pot size: 300
+Wins: Lofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lofe
+Small Blind: Lofe, chips: 100
+Big Blind: Vowan, chips: 200
+Calls: Lofe
+DEBUG MESSAGE: INVALID ACTION FROM Vowan (2 0)
+Folds: Vowan
+Pot size: 400
+Boasts: Lofe, As 5s
+Wins: Lofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vowan
+Small Blind: Vowan, chips: 100
+Big Blind: Lofe, chips: 200
+Folds: Vowan
+Pot size: 300
+Boasts: Lofe, 2h Jc
+Wins: Lofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lofe
+Small Blind: Lofe, chips: 100
+Big Blind: Vowan, chips: 100
+Flop: Ks 8h 3c
+Turn: 7s
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Lofe, 3d 4d
+Combination: Lofe, Pair ( 3d 3c Ks Tc 8h )
+Shows: Vowan, Kd 6c
+Combination: Vowan, Pair ( Kd Ks Tc 8h 7s )
+Wins: Vowan, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vowan
+Small Blind: Vowan, chips: 100
+Big Blind: Lofe, chips: 200
+Folds: Vowan
+Pot size: 300
+Wins: Lofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lofe
+Small Blind: Lofe, chips: 100
+Big Blind: Vowan, chips: 100
+Flop: 6s Qh 9c
+Turn: Kd
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Lofe, 2h 7s
+Combination: Lofe, High Card ( Kd Qh 9c 8h 7s )
+Shows: Vowan, 3h Jc
+Combination: Vowan, High Card ( Kd Qh Jc 9c 8h )
+Wins: Vowan, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vowan
+Small Blind: Vowan, chips: 100
+Big Blind: Lofe, chips: 200
+Folds: Vowan
+Pot size: 300
+Boasts: Lofe, Jd 9c
+Wins: Lofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lofe
+Small Blind: Lofe, chips: 100
+Big Blind: Vowan, chips: 100
+Flop: Th 2c 3c
+Turn: 4d
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Lofe, 3h Js
+Combination: Lofe, Pair ( 3h 3c Js Th 5s )
+Shows: Vowan, Td 8d
+Combination: Vowan, Pair ( Td Th 8d 5s 4d )
+Wins: Vowan, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vowan
+Small Blind: Vowan, chips: 100
+Big Blind: Lofe, chips: 200
+Folds: Vowan
+Pot size: 300
+Wins: Lofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lofe
+Small Blind: Lofe, chips: 100
+Big Blind: Vowan, chips: 100
+Flop: 2h 2d 3h
+Turn: 8d
+River: 2c
+Pot size: 200
+Showdown Reached
+Shows: Lofe, 9d Qs
+Combination: Lofe, Three Of A Kind ( 2h 2d 2c Qs 9d )
+Shows: Vowan, 5d Th
+Combination: Vowan, Three Of A Kind ( 2h 2d 2c Th 8d )
+Wins: Lofe, chips: 200
+Quits: Vowan, chips: 0
+Ranking: Lofe, Place: 1, Score: 1000
+Reveal AI: Lofe, AI: Random
+Ranking: Vowan, Place: 2, Score: -1000
+Reveal AI: Vowan, AI: AIMyBot1
+
+Player Stats for Lofe, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.25
+
+
+Player Stats for Vowan, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:45:52
+
+The game begins. The AI's of the players are: 
+Lofe: Random
+Vowan: AIMyBot1
+
+Joins: Lofe, chips: 1000
+Joins: Vowan, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lofe
+Small Blind: Lofe, chips: 100
+Big Blind: Vowan, chips: 200
+Raises: Lofe, chips: 300
+Folds: Vowan
+Pot size: 700
+Wins: Lofe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vowan
+Small Blind: Vowan, chips: 100
+Big Blind: Lofe, chips: 200
+Folds: Vowan
+Pot size: 300
+Boasts: Lofe, Qd 8h
+Wins: Lofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lofe
+Small Blind: Lofe, chips: 100
+Big Blind: Vowan, chips: 200
+Calls: Lofe
+DEBUG MESSAGE: INVALID ACTION FROM Vowan (2 0)
+Folds: Vowan
+Pot size: 400
+Boasts: Lofe, 8c Tc
+Wins: Lofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vowan
+Small Blind: Vowan, chips: 100
+Big Blind: Lofe, chips: 200
+Folds: Vowan
+Pot size: 300
+Wins: Lofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lofe
+Small Blind: Lofe, chips: 100
+Big Blind: Vowan, chips: 200
+Calls: Lofe
+DEBUG MESSAGE: INVALID ACTION FROM Vowan (2 0)
+Folds: Vowan
+Pot size: 400
+Boasts: Lofe, As 5s
+Wins: Lofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vowan
+Small Blind: Vowan, chips: 100
+Big Blind: Lofe, chips: 200
+Folds: Vowan
+Pot size: 300
+Boasts: Lofe, 2h Jc
+Wins: Lofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lofe
+Small Blind: Lofe, chips: 100
+Big Blind: Vowan, chips: 100
+Flop: Ks 8h 3c
+Turn: 7s
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Lofe, 3d 4d
+Combination: Lofe, Pair ( 3d 3c Ks Tc 8h )
+Shows: Vowan, Kd 6c
+Combination: Vowan, Pair ( Kd Ks Tc 8h 7s )
+Wins: Vowan, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vowan
+Small Blind: Vowan, chips: 100
+Big Blind: Lofe, chips: 200
+Folds: Vowan
+Pot size: 300
+Wins: Lofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lofe
+Small Blind: Lofe, chips: 100
+Big Blind: Vowan, chips: 100
+Flop: 6s Qh 9c
+Turn: Kd
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Lofe, 2h 7s
+Combination: Lofe, High Card ( Kd Qh 9c 8h 7s )
+Shows: Vowan, 3h Jc
+Combination: Vowan, High Card ( Kd Qh Jc 9c 8h )
+Wins: Vowan, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vowan
+Small Blind: Vowan, chips: 100
+Big Blind: Lofe, chips: 200
+Folds: Vowan
+Pot size: 300
+Boasts: Lofe, Jd 9c
+Wins: Lofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lofe
+Small Blind: Lofe, chips: 100
+Big Blind: Vowan, chips: 100
+Flop: Th 2c 3c
+Turn: 4d
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Lofe, 3h Js
+Combination: Lofe, Pair ( 3h 3c Js Th 5s )
+Shows: Vowan, Td 8d
+Combination: Vowan, Pair ( Td Th 8d 5s 4d )
+Wins: Vowan, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vowan
+Small Blind: Vowan, chips: 100
+Big Blind: Lofe, chips: 200
+Folds: Vowan
+Pot size: 300
+Wins: Lofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lofe
+Small Blind: Lofe, chips: 100
+Big Blind: Vowan, chips: 100
+Flop: 2h 2d 3h
+Turn: 8d
+River: 2c
+Pot size: 200
+Showdown Reached
+Shows: Lofe, 9d Qs
+Combination: Lofe, Three Of A Kind ( 2h 2d 2c Qs 9d )
+Shows: Vowan, 5d Th
+Combination: Vowan, Three Of A Kind ( 2h 2d 2c Th 8d )
+Wins: Lofe, chips: 200
+Quits: Vowan, chips: 0
+Ranking: Lofe, Place: 1, Score: 1000
+Reveal AI: Lofe, AI: Random
+Ranking: Vowan, Place: 2, Score: -1000
+Reveal AI: Vowan, AI: AIMyBot1
+
+Player Stats for Lofe, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.25
+
+
+Player Stats for Vowan, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

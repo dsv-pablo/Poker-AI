@@ -1,0 +1,228 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Rimoe: Random
+Rufo: AIMyBot1
+
+Joins: Rimoe, chips: 1000
+Joins: Rufo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rufo
+Small Blind: Rufo, chips: 100
+Big Blind: Rimoe, chips: 200
+Folds: Rufo
+Pot size: 300
+Wins: Rimoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rimoe
+Small Blind: Rimoe, chips: 100
+Big Blind: Rufo, chips: 200
+Raises: Rimoe, chips: 900
+Folds: Rufo
+Pot size: 1300
+Boasts: Rimoe, Jh 6d
+Wins: Rimoe, chips: 1300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rufo
+Small Blind: Rufo, chips: 100
+Big Blind: Rimoe, chips: 200
+Folds: Rufo
+Pot size: 300
+Boasts: Rimoe, 6c Td
+Wins: Rimoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rimoe
+Small Blind: Rimoe, chips: 100
+Big Blind: Rufo, chips: 200
+Calls: Rimoe
+DEBUG MESSAGE: INVALID ACTION FROM Rufo (2 0)
+Folds: Rufo
+Pot size: 400
+Wins: Rimoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rufo
+Small Blind: Rufo, chips: 100
+Big Blind: Rimoe, chips: 200
+Folds: Rufo
+Pot size: 300
+Boasts: Rimoe, 6h 8d
+Wins: Rimoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rimoe
+Small Blind: Rimoe, chips: 100
+Big Blind: Rufo, chips: 200
+Folds: Rimoe
+Pot size: 300
+Boasts: Rimoe, As 6s
+Wins: Rufo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rufo
+Small Blind: Rufo, chips: 100
+Big Blind: Rimoe, chips: 200
+Folds: Rufo
+Pot size: 300
+Boasts: Rimoe, 2s 9h
+Wins: Rimoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rimoe
+Small Blind: Rimoe, chips: 100
+Big Blind: Rufo, chips: 200
+Calls: Rimoe
+DEBUG MESSAGE: INVALID ACTION FROM Rufo (2 0)
+Folds: Rufo
+Pot size: 400
+Boasts: Rimoe, Jd Kd
+Wins: Rimoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rufo
+Small Blind: Rufo, chips: 100
+Big Blind: Rimoe, chips: 200
+Flop: Js Qd 7h
+Turn: Kh
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Rimoe, Ts Td
+Combination: Rimoe, Pair ( Ts Td Kh Qd Js )
+Shows: Rufo, 4d 6c
+Combination: Rufo, Pair ( 6c 6d Kh Qd Js )
+Wins: Rimoe, chips: 300
+Quits: Rufo, chips: 0
+Ranking: Rimoe, Place: 1, Score: 1000
+Reveal AI: Rimoe, AI: Random
+Ranking: Rufo, Place: 2, Score: -1000
+Reveal AI: Rufo, AI: AIMyBot1
+
+Player Stats for Rimoe, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Rufo, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:56
+
+The game begins. The AI's of the players are: 
+Rimoe: Random
+Rufo: AIMyBot1
+
+Joins: Rimoe, chips: 1000
+Joins: Rufo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rufo
+Small Blind: Rufo, chips: 100
+Big Blind: Rimoe, chips: 200
+Folds: Rufo
+Pot size: 300
+Wins: Rimoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rimoe
+Small Blind: Rimoe, chips: 100
+Big Blind: Rufo, chips: 200
+Raises: Rimoe, chips: 900
+Folds: Rufo
+Pot size: 1300
+Boasts: Rimoe, Jh 6d
+Wins: Rimoe, chips: 1300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rufo
+Small Blind: Rufo, chips: 100
+Big Blind: Rimoe, chips: 200
+Folds: Rufo
+Pot size: 300
+Boasts: Rimoe, 6c Td
+Wins: Rimoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rimoe
+Small Blind: Rimoe, chips: 100
+Big Blind: Rufo, chips: 200
+Calls: Rimoe
+DEBUG MESSAGE: INVALID ACTION FROM Rufo (2 0)
+Folds: Rufo
+Pot size: 400
+Wins: Rimoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rufo
+Small Blind: Rufo, chips: 100
+Big Blind: Rimoe, chips: 200
+Folds: Rufo
+Pot size: 300
+Boasts: Rimoe, 6h 8d
+Wins: Rimoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rimoe
+Small Blind: Rimoe, chips: 100
+Big Blind: Rufo, chips: 200
+Folds: Rimoe
+Pot size: 300
+Boasts: Rimoe, As 6s
+Wins: Rufo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rufo
+Small Blind: Rufo, chips: 100
+Big Blind: Rimoe, chips: 200
+Folds: Rufo
+Pot size: 300
+Boasts: Rimoe, 2s 9h
+Wins: Rimoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rimoe
+Small Blind: Rimoe, chips: 100
+Big Blind: Rufo, chips: 200
+Calls: Rimoe
+DEBUG MESSAGE: INVALID ACTION FROM Rufo (2 0)
+Folds: Rufo
+Pot size: 400
+Boasts: Rimoe, Jd Kd
+Wins: Rimoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rufo
+Small Blind: Rufo, chips: 100
+Big Blind: Rimoe, chips: 200
+Flop: Js Qd 7h
+Turn: Kh
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Rimoe, Ts Td
+Combination: Rimoe, Pair ( Ts Td Kh Qd Js )
+Shows: Rufo, 4d 6c
+Combination: Rufo, Pair ( 6c 6d Kh Qd Js )
+Wins: Rimoe, chips: 300
+Quits: Rufo, chips: 0
+Ranking: Rimoe, Place: 1, Score: 1000
+Reveal AI: Rimoe, AI: Random
+Ranking: Rufo, Place: 2, Score: -1000
+Reveal AI: Rufo, AI: AIMyBot1
+
+Player Stats for Rimoe, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Rufo, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

@@ -1,0 +1,192 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Leboe: Random
+Huloereev: AIMyBot1
+
+Joins: Leboe, chips: 1000
+Joins: Huloereev, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leboe
+Small Blind: Leboe, chips: 100
+Big Blind: Huloereev, chips: 200
+Raises: Leboe, chips: 300
+Folds: Huloereev
+Pot size: 700
+Wins: Leboe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huloereev
+Small Blind: Huloereev, chips: 100
+Big Blind: Leboe, chips: 200
+Folds: Huloereev
+Pot size: 300
+Boasts: Leboe, 6c 7h
+Wins: Leboe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leboe
+Small Blind: Leboe, chips: 100
+Big Blind: Huloereev, chips: 200
+Raises: Leboe, chips: 300
+Folds: Huloereev
+Pot size: 700
+Boasts: Leboe, 7c 2d
+Wins: Leboe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huloereev
+Small Blind: Huloereev, chips: 100
+Big Blind: Leboe, chips: 200
+Folds: Huloereev
+Pot size: 300
+Boasts: Leboe, 6c 4d
+Wins: Leboe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leboe
+Small Blind: Leboe, chips: 100
+Big Blind: Huloereev, chips: 200
+Raises: Leboe, chips: 300
+Folds: Huloereev
+Pot size: 700
+Wins: Leboe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huloereev
+Small Blind: Huloereev, chips: 100
+Big Blind: Leboe, chips: 200
+Folds: Huloereev
+Pot size: 300
+Boasts: Leboe, As 3s
+Wins: Leboe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leboe
+Small Blind: Leboe, chips: 100
+Big Blind: Huloereev, chips: 100
+Flop: Td 8d 2d
+Turn: Jh
+River: 2h
+Pot size: 200
+Showdown Reached
+Shows: Leboe, 3h Ah
+Combination: Leboe, Pair ( 2d 2h Ah Jh Td )
+Shows: Huloereev, 4c 6s
+Combination: Huloereev, Pair ( 2d 2h Jh Td 8d )
+Wins: Leboe, chips: 200
+Quits: Huloereev, chips: 0
+Ranking: Leboe, Place: 1, Score: 1000
+Reveal AI: Leboe, AI: Random
+Ranking: Huloereev, Place: 2, Score: -1000
+Reveal AI: Huloereev, AI: AIMyBot1
+
+Player Stats for Huloereev, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Leboe, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.428571, 3Bet: 0.428571
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:44
+
+The game begins. The AI's of the players are: 
+Leboe: Random
+Huloereev: AIMyBot1
+
+Joins: Leboe, chips: 1000
+Joins: Huloereev, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leboe
+Small Blind: Leboe, chips: 100
+Big Blind: Huloereev, chips: 200
+Raises: Leboe, chips: 300
+Folds: Huloereev
+Pot size: 700
+Wins: Leboe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huloereev
+Small Blind: Huloereev, chips: 100
+Big Blind: Leboe, chips: 200
+Folds: Huloereev
+Pot size: 300
+Boasts: Leboe, 6c 7h
+Wins: Leboe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leboe
+Small Blind: Leboe, chips: 100
+Big Blind: Huloereev, chips: 200
+Raises: Leboe, chips: 300
+Folds: Huloereev
+Pot size: 700
+Boasts: Leboe, 7c 2d
+Wins: Leboe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huloereev
+Small Blind: Huloereev, chips: 100
+Big Blind: Leboe, chips: 200
+Folds: Huloereev
+Pot size: 300
+Boasts: Leboe, 6c 4d
+Wins: Leboe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leboe
+Small Blind: Leboe, chips: 100
+Big Blind: Huloereev, chips: 200
+Raises: Leboe, chips: 300
+Folds: Huloereev
+Pot size: 700
+Wins: Leboe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huloereev
+Small Blind: Huloereev, chips: 100
+Big Blind: Leboe, chips: 200
+Folds: Huloereev
+Pot size: 300
+Boasts: Leboe, As 3s
+Wins: Leboe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leboe
+Small Blind: Leboe, chips: 100
+Big Blind: Huloereev, chips: 100
+Flop: Td 8d 2d
+Turn: Jh
+River: 2h
+Pot size: 200
+Showdown Reached
+Shows: Leboe, 3h Ah
+Combination: Leboe, Pair ( 2d 2h Ah Jh Td )
+Shows: Huloereev, 4c 6s
+Combination: Huloereev, Pair ( 2d 2h Jh Td 8d )
+Wins: Leboe, chips: 200
+Quits: Huloereev, chips: 0
+Ranking: Leboe, Place: 1, Score: 1000
+Reveal AI: Leboe, AI: Random
+Ranking: Huloereev, Place: 2, Score: -1000
+Reveal AI: Huloereev, AI: AIMyBot1
+
+Player Stats for Huloereev, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Leboe, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.428571, 3Bet: 0.428571
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

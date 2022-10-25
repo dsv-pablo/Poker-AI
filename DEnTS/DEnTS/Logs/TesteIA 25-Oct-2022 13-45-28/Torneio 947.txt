@@ -1,0 +1,268 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Kunhoelee: Random
+Me: AIMyBot1
+
+Joins: Kunhoelee, chips: 1000
+Joins: Me, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunhoelee
+Small Blind: Kunhoelee, chips: 100
+Big Blind: Me, chips: 200
+Folds: Kunhoelee
+Pot size: 300
+Boasts: Kunhoelee, Qd Qs
+Wins: Me, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Kunhoelee, chips: 200
+Folds: Me
+Pot size: 300
+Wins: Kunhoelee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunhoelee
+Small Blind: Kunhoelee, chips: 100
+Big Blind: Me, chips: 200
+Raises: Kunhoelee, chips: 300
+Folds: Me
+Pot size: 700
+Boasts: Kunhoelee, 4s Jc
+Wins: Kunhoelee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Kunhoelee, chips: 200
+Folds: Me
+Pot size: 300
+Wins: Kunhoelee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunhoelee
+Small Blind: Kunhoelee, chips: 100
+Big Blind: Me, chips: 200
+Calls: Kunhoelee
+DEBUG MESSAGE: INVALID ACTION FROM Me (2 0)
+Folds: Me
+Pot size: 400
+Boasts: Kunhoelee, 7h 9s
+Wins: Kunhoelee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Kunhoelee, chips: 200
+Folds: Me
+Pot size: 300
+Wins: Kunhoelee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunhoelee
+Small Blind: Kunhoelee, chips: 100
+Big Blind: Me, chips: 200
+Calls: Kunhoelee
+DEBUG MESSAGE: INVALID ACTION FROM Me (2 0)
+Folds: Me
+Pot size: 400
+Boasts: Kunhoelee, 8d Kd
+Wins: Kunhoelee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Kunhoelee, chips: 200
+Folds: Me
+Pot size: 300
+Boasts: Kunhoelee, Ac As
+Wins: Kunhoelee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunhoelee
+Small Blind: Kunhoelee, chips: 100
+Big Blind: Me, chips: 100
+Flop: 8s Jc 6h
+Turn: 2d
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Kunhoelee, Qd 7d
+Combination: Kunhoelee, High Card ( As Qd Jc 8s 7d )
+Shows: Me, 5s 5h
+Combination: Me, Pair ( 5s 5h As Jc 8s )
+Wins: Me, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Kunhoelee, chips: 200
+Folds: Me
+Pot size: 300
+Wins: Kunhoelee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunhoelee
+Small Blind: Kunhoelee, chips: 100
+Big Blind: Me, chips: 100
+Flop: 5c Ts 3c
+Turn: 8d
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Kunhoelee, 7s 8s
+Combination: Kunhoelee, Two Pair ( 8s 8d 7s 7d Ts )
+Shows: Me, 6c Tc
+Combination: Me, Pair ( Tc Ts 8d 7d 6c )
+Wins: Kunhoelee, chips: 200
+Quits: Me, chips: 0
+Ranking: Kunhoelee, Place: 1, Score: 1000
+Reveal AI: Kunhoelee, AI: Random
+Ranking: Me, Place: 2, Score: -1000
+Reveal AI: Me, AI: AIMyBot1
+
+Player Stats for Kunhoelee, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Me, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:31
+
+The game begins. The AI's of the players are: 
+Kunhoelee: Random
+Me: AIMyBot1
+
+Joins: Kunhoelee, chips: 1000
+Joins: Me, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunhoelee
+Small Blind: Kunhoelee, chips: 100
+Big Blind: Me, chips: 200
+Folds: Kunhoelee
+Pot size: 300
+Boasts: Kunhoelee, Qd Qs
+Wins: Me, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Kunhoelee, chips: 200
+Folds: Me
+Pot size: 300
+Wins: Kunhoelee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunhoelee
+Small Blind: Kunhoelee, chips: 100
+Big Blind: Me, chips: 200
+Raises: Kunhoelee, chips: 300
+Folds: Me
+Pot size: 700
+Boasts: Kunhoelee, 4s Jc
+Wins: Kunhoelee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Kunhoelee, chips: 200
+Folds: Me
+Pot size: 300
+Wins: Kunhoelee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunhoelee
+Small Blind: Kunhoelee, chips: 100
+Big Blind: Me, chips: 200
+Calls: Kunhoelee
+DEBUG MESSAGE: INVALID ACTION FROM Me (2 0)
+Folds: Me
+Pot size: 400
+Boasts: Kunhoelee, 7h 9s
+Wins: Kunhoelee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Kunhoelee, chips: 200
+Folds: Me
+Pot size: 300
+Wins: Kunhoelee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunhoelee
+Small Blind: Kunhoelee, chips: 100
+Big Blind: Me, chips: 200
+Calls: Kunhoelee
+DEBUG MESSAGE: INVALID ACTION FROM Me (2 0)
+Folds: Me
+Pot size: 400
+Boasts: Kunhoelee, 8d Kd
+Wins: Kunhoelee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Kunhoelee, chips: 200
+Folds: Me
+Pot size: 300
+Boasts: Kunhoelee, Ac As
+Wins: Kunhoelee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunhoelee
+Small Blind: Kunhoelee, chips: 100
+Big Blind: Me, chips: 100
+Flop: 8s Jc 6h
+Turn: 2d
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Kunhoelee, Qd 7d
+Combination: Kunhoelee, High Card ( As Qd Jc 8s 7d )
+Shows: Me, 5s 5h
+Combination: Me, Pair ( 5s 5h As Jc 8s )
+Wins: Me, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Kunhoelee, chips: 200
+Folds: Me
+Pot size: 300
+Wins: Kunhoelee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunhoelee
+Small Blind: Kunhoelee, chips: 100
+Big Blind: Me, chips: 100
+Flop: 5c Ts 3c
+Turn: 8d
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Kunhoelee, 7s 8s
+Combination: Kunhoelee, Two Pair ( 8s 8d 7s 7d Ts )
+Shows: Me, 6c Tc
+Combination: Me, Pair ( Tc Ts 8d 7d 6c )
+Wins: Kunhoelee, chips: 200
+Quits: Me, chips: 0
+Ranking: Kunhoelee, Place: 1, Score: 1000
+Reveal AI: Kunhoelee, AI: Random
+Ranking: Me, Place: 2, Score: -1000
+Reveal AI: Me, AI: AIMyBot1
+
+Player Stats for Kunhoelee, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Me, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

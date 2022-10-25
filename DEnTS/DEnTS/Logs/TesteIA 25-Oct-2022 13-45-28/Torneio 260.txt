@@ -1,0 +1,516 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Teetta: AIMyBot1
+Kahef: Random
+
+Joins: Teetta, chips: 1000
+Joins: Kahef, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Folds: Teetta
+Pot size: 300
+Wins: Kahef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Raises: Kahef, chips: 300
+Folds: Teetta
+Pot size: 700
+Wins: Kahef, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Folds: Teetta
+Pot size: 300
+Boasts: Kahef, 6h 7h
+Wins: Kahef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Folds: Kahef
+Pot size: 300
+Wins: Teetta, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Folds: Teetta
+Pot size: 300
+Wins: Kahef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Folds: Kahef
+Pot size: 300
+Wins: Teetta, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Folds: Teetta
+Pot size: 300
+Wins: Kahef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Calls: Kahef
+DEBUG MESSAGE: INVALID ACTION FROM Teetta (2 0)
+Folds: Teetta
+Pot size: 400
+Boasts: Kahef, 9d 2s
+Wins: Kahef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Folds: Teetta
+Pot size: 300
+Boasts: Kahef, Ts Js
+Wins: Kahef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Raises: Kahef, chips: 300
+Folds: Teetta
+Pot size: 700
+Boasts: Kahef, Ac 5c
+Wins: Kahef, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Flop: 7s 3c Kd
+Turn: Jh
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Teetta, 5c Ah
+Combination: Teetta, High Card ( Ah Kd Jh 9d 7s )
+Shows: Kahef, 5s Qs
+Combination: Kahef, High Card ( Kd Qs Jh 9d 7s )
+Wins: Teetta, chips: 200
+Wins: Kahef, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Flop: 2h Jd Js
+Turn: 2c
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Teetta, Td 6s
+Combination: Teetta, Two Pair ( Jd Js 2h 2c Td )
+Shows: Kahef, Jc As
+Combination: Kahef, Full House ( Jc Jd Js 2h 2c )
+Wins: Teetta, chips: 100
+Wins: Kahef, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Flop: Jc Qh Kh
+Turn: Tc
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Teetta, 2s 9s
+Combination: Teetta, Straight ( Kh Qh Jc Tc 9s )
+Shows: Kahef, Ks Td
+Combination: Kahef, Two Pair ( Ks Kh Td Tc Qh )
+Wins: Teetta, chips: 200
+Wins: Kahef, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Flop: 5d 9h 3c
+Turn: 4s
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Teetta, Ah Qs
+Combination: Teetta, Straight ( 5d 4s 3c 2h Ah )
+Shows: Kahef, 8s Qc
+Combination: Kahef, High Card ( Qc 9h 8s 5d 4s )
+Wins: Teetta, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Folds: Teetta
+Pot size: 300
+Boasts: Kahef, 7c Jc
+Wins: Kahef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Flop: As Ts 5h
+Turn: Th
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Teetta, 2c Js
+Combination: Teetta, Pair ( Ts Th As Js 8d )
+Shows: Kahef, 6h 9d
+Combination: Kahef, Pair ( Ts Th As 9d 8d )
+Wins: Teetta, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Folds: Teetta
+Pot size: 300
+Wins: Kahef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Flop: 6s 6d As
+Turn: Ad
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Teetta, 5d Ts
+Combination: Teetta, Two Pair ( As Ad 6s 6d Ts )
+Shows: Kahef, 5s Js
+Combination: Kahef, Two Pair ( As Ad 6s 6d Js )
+Wins: Teetta, chips: 100
+Wins: Kahef, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Flop: 5c Qd 4c
+Turn: Qs
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Teetta, 5h 9d
+Combination: Teetta, Two Pair ( Qd Qs 5h 5c Ah )
+Shows: Kahef, 6s 8c
+Combination: Kahef, Pair ( Qd Qs Ah 8c 6s )
+Wins: Teetta, chips: 200
+Wins: Kahef, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Flop: 7c Jd Ts
+Turn: 9c
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Teetta, Kh 3h
+Combination: Teetta, Pair ( Jd Jc Kh Ts 9c )
+Shows: Kahef, 2c 9h
+Combination: Kahef, Two Pair ( Jd Jc 9h 9c Ts )
+Wins: Teetta, chips: 100
+Wins: Kahef, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Flop: Qs 2d 5c
+Turn: Ah
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Teetta, Kc As
+Combination: Teetta, Pair ( As Ah Kc Qs 8s )
+Shows: Kahef, 2h 2s
+Combination: Kahef, Three Of A Kind ( 2h 2s 2d Ah Qs )
+Wins: Kahef, chips: 300
+Quits: Teetta, chips: 0
+Ranking: Kahef, Place: 1, Score: 1000
+Reveal AI: Kahef, AI: Random
+Ranking: Teetta, Place: 2, Score: -1000
+Reveal AI: Teetta, AI: AIMyBot1
+
+Player Stats for Kahef, AI: Random
+General: deals: 21, actions: 5, preflop actions: 5
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 17, showdown: 7, bluff: 10
+Chips: won: 5100, lost: 4100, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.0952381, 3Bet: 0.0952381
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.777778
+
+
+Player Stats for Teetta, AI: AIMyBot1
+General: deals: 21, actions: 10, preflop actions: 10
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 10, showdown: 8, bluff: 2
+Chips: won: 2100, lost: 3100, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Date: 2022/10/25 13:45:46
+
+The game begins. The AI's of the players are: 
+Teetta: AIMyBot1
+Kahef: Random
+
+Joins: Teetta, chips: 1000
+Joins: Kahef, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Folds: Teetta
+Pot size: 300
+Wins: Kahef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Raises: Kahef, chips: 300
+Folds: Teetta
+Pot size: 700
+Wins: Kahef, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Folds: Teetta
+Pot size: 300
+Boasts: Kahef, 6h 7h
+Wins: Kahef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Folds: Kahef
+Pot size: 300
+Wins: Teetta, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Folds: Teetta
+Pot size: 300
+Wins: Kahef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Folds: Kahef
+Pot size: 300
+Wins: Teetta, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Folds: Teetta
+Pot size: 300
+Wins: Kahef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Calls: Kahef
+DEBUG MESSAGE: INVALID ACTION FROM Teetta (2 0)
+Folds: Teetta
+Pot size: 400
+Boasts: Kahef, 9d 2s
+Wins: Kahef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Folds: Teetta
+Pot size: 300
+Boasts: Kahef, Ts Js
+Wins: Kahef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Raises: Kahef, chips: 300
+Folds: Teetta
+Pot size: 700
+Boasts: Kahef, Ac 5c
+Wins: Kahef, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Flop: 7s 3c Kd
+Turn: Jh
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Teetta, 5c Ah
+Combination: Teetta, High Card ( Ah Kd Jh 9d 7s )
+Shows: Kahef, 5s Qs
+Combination: Kahef, High Card ( Kd Qs Jh 9d 7s )
+Wins: Teetta, chips: 200
+Wins: Kahef, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Flop: 2h Jd Js
+Turn: 2c
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Teetta, Td 6s
+Combination: Teetta, Two Pair ( Jd Js 2h 2c Td )
+Shows: Kahef, Jc As
+Combination: Kahef, Full House ( Jc Jd Js 2h 2c )
+Wins: Teetta, chips: 100
+Wins: Kahef, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Flop: Jc Qh Kh
+Turn: Tc
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Teetta, 2s 9s
+Combination: Teetta, Straight ( Kh Qh Jc Tc 9s )
+Shows: Kahef, Ks Td
+Combination: Kahef, Two Pair ( Ks Kh Td Tc Qh )
+Wins: Teetta, chips: 200
+Wins: Kahef, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Flop: 5d 9h 3c
+Turn: 4s
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Teetta, Ah Qs
+Combination: Teetta, Straight ( 5d 4s 3c 2h Ah )
+Shows: Kahef, 8s Qc
+Combination: Kahef, High Card ( Qc 9h 8s 5d 4s )
+Wins: Teetta, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Folds: Teetta
+Pot size: 300
+Boasts: Kahef, 7c Jc
+Wins: Kahef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Flop: As Ts 5h
+Turn: Th
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Teetta, 2c Js
+Combination: Teetta, Pair ( Ts Th As Js 8d )
+Shows: Kahef, 6h 9d
+Combination: Kahef, Pair ( Ts Th As 9d 8d )
+Wins: Teetta, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Folds: Teetta
+Pot size: 300
+Wins: Kahef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Flop: 6s 6d As
+Turn: Ad
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Teetta, 5d Ts
+Combination: Teetta, Two Pair ( As Ad 6s 6d Ts )
+Shows: Kahef, 5s Js
+Combination: Kahef, Two Pair ( As Ad 6s 6d Js )
+Wins: Teetta, chips: 100
+Wins: Kahef, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Flop: 5c Qd 4c
+Turn: Qs
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Teetta, 5h 9d
+Combination: Teetta, Two Pair ( Qd Qs 5h 5c Ah )
+Shows: Kahef, 6s 8c
+Combination: Kahef, Pair ( Qd Qs Ah 8c 6s )
+Wins: Teetta, chips: 200
+Wins: Kahef, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kahef
+Small Blind: Kahef, chips: 100
+Big Blind: Teetta, chips: 200
+Flop: 7c Jd Ts
+Turn: 9c
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Teetta, Kh 3h
+Combination: Teetta, Pair ( Jd Jc Kh Ts 9c )
+Shows: Kahef, 2c 9h
+Combination: Kahef, Two Pair ( Jd Jc 9h 9c Ts )
+Wins: Teetta, chips: 100
+Wins: Kahef, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teetta
+Small Blind: Teetta, chips: 100
+Big Blind: Kahef, chips: 200
+Flop: Qs 2d 5c
+Turn: Ah
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Teetta, Kc As
+Combination: Teetta, Pair ( As Ah Kc Qs 8s )
+Shows: Kahef, 2h 2s
+Combination: Kahef, Three Of A Kind ( 2h 2s 2d Ah Qs )
+Wins: Kahef, chips: 300
+Quits: Teetta, chips: 0
+Ranking: Kahef, Place: 1, Score: 1000
+Reveal AI: Kahef, AI: Random
+Ranking: Teetta, Place: 2, Score: -1000
+Reveal AI: Teetta, AI: AIMyBot1
+
+Player Stats for Kahef, AI: Random
+General: deals: 21, actions: 5, preflop actions: 5
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 17, showdown: 7, bluff: 10
+Chips: won: 5100, lost: 4100, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.0952381, 3Bet: 0.0952381
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.777778
+
+
+Player Stats for Teetta, AI: AIMyBot1
+General: deals: 21, actions: 10, preflop actions: 10
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 10, showdown: 8, bluff: 2
+Chips: won: 2100, lost: 3100, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+

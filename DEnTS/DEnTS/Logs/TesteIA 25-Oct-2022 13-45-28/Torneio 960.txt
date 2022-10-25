@@ -1,0 +1,400 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Leke: AIMyBot1
+Teegimam: Random
+
+Joins: Leke, chips: 1000
+Joins: Teegimam, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leke
+Small Blind: Leke, chips: 100
+Big Blind: Teegimam, chips: 200
+Folds: Leke
+Pot size: 300
+Boasts: Teegimam, 7h 9d
+Wins: Teegimam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teegimam
+Small Blind: Teegimam, chips: 100
+Big Blind: Leke, chips: 200
+Raises: Teegimam, chips: 300
+Folds: Leke
+Pot size: 700
+Boasts: Teegimam, 7s 2s
+Wins: Teegimam, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leke
+Small Blind: Leke, chips: 100
+Big Blind: Teegimam, chips: 200
+Folds: Leke
+Pot size: 300
+Wins: Teegimam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teegimam
+Small Blind: Teegimam, chips: 100
+Big Blind: Leke, chips: 200
+Calls: Teegimam
+DEBUG MESSAGE: INVALID ACTION FROM Leke (2 0)
+Folds: Leke
+Pot size: 400
+Boasts: Teegimam, 3d Jd
+Wins: Teegimam, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leke
+Small Blind: Leke, chips: 100
+Big Blind: Teegimam, chips: 200
+Folds: Leke
+Pot size: 300
+Wins: Teegimam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teegimam
+Small Blind: Teegimam, chips: 100
+Big Blind: Leke, chips: 200
+Calls: Teegimam
+DEBUG MESSAGE: INVALID ACTION FROM Leke (2 0)
+Folds: Leke
+Pot size: 400
+Wins: Teegimam, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leke
+Small Blind: Leke, chips: 100
+Big Blind: Teegimam, chips: 200
+Flop: Qc Ah Ad
+Turn: 3d
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Leke, 3s 9h
+Combination: Leke, Full House ( Ah Ad Ac 3s 3d )
+Shows: Teegimam, 8s 2d
+Combination: Teegimam, Three Of A Kind ( Ah Ad Ac Qc 8s )
+Wins: Leke, chips: 200
+Wins: Teegimam, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teegimam
+Small Blind: Teegimam, chips: 100
+Big Blind: Leke, chips: 200
+Flop: Th As Ad
+Turn: 7c
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Leke, 5c Ts
+Combination: Leke, Two Pair ( As Ad Ts Th 9c )
+Shows: Teegimam, 2s 2c
+Combination: Teegimam, Two Pair ( As Ad 2s 2c Th )
+Wins: Leke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leke
+Small Blind: Leke, chips: 100
+Big Blind: Teegimam, chips: 200
+Folds: Leke
+Pot size: 300
+Wins: Teegimam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teegimam
+Small Blind: Teegimam, chips: 100
+Big Blind: Leke, chips: 200
+Flop: 4c 6c 8c
+Turn: 7d
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Leke, Jd 6h
+Combination: Leke, Pair ( 6h 6c Jd 9d 8c )
+Shows: Teegimam, Js 5d
+Combination: Teegimam, Straight ( 9d 8c 7d 6c 5d )
+Wins: Leke, chips: 100
+Wins: Teegimam, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leke
+Small Blind: Leke, chips: 100
+Big Blind: Teegimam, chips: 200
+Flop: 4c Qd 9d
+Turn: 8h
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Leke, 5c Ad
+Combination: Leke, Pair ( 5c 5h Ad Qd 9d )
+Shows: Teegimam, Ks Td
+Combination: Teegimam, High Card ( Ks Qd Td 9d 8h )
+Wins: Leke, chips: 200
+Wins: Teegimam, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teegimam
+Small Blind: Teegimam, chips: 100
+Big Blind: Leke, chips: 200
+Flop: 5c 7h 9c
+Turn: 2c
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Leke, Kd 2s
+Combination: Leke, Two Pair ( 7h 7c 2s 2c Kd )
+Shows: Teegimam, 6h As
+Combination: Teegimam, Pair ( 7h 7c As 9c 6h )
+Wins: Leke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leke
+Small Blind: Leke, chips: 100
+Big Blind: Teegimam, chips: 200
+Folds: Leke
+Pot size: 300
+Boasts: Teegimam, 8h Ac
+Wins: Teegimam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teegimam
+Small Blind: Teegimam, chips: 100
+Big Blind: Leke, chips: 200
+Flop: 2d 9c 8d
+Turn: 9h
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Leke, 5h 3h
+Combination: Leke, Pair ( 9c 9h 8d 7d 5h )
+Shows: Teegimam, 8c 3c
+Combination: Teegimam, Two Pair ( 9c 9h 8c 8d 7d )
+Wins: Leke, chips: 100
+Wins: Teegimam, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leke
+Small Blind: Leke, chips: 100
+Big Blind: Teegimam, chips: 200
+Flop: 6d 6h Js
+Turn: 4d
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Leke, Kh 8c
+Combination: Leke, Pair ( 6d 6h Kh Js Td )
+Shows: Teegimam, Kd Tc
+Combination: Teegimam, Two Pair ( Tc Td 6d 6h Kd )
+Wins: Teegimam, chips: 300
+Quits: Leke, chips: 0
+Ranking: Teegimam, Place: 1, Score: 1000
+Reveal AI: Teegimam, AI: Random
+Ranking: Leke, Place: 2, Score: -1000
+Reveal AI: Leke, AI: AIMyBot1
+
+Player Stats for Leke, AI: AIMyBot1
+General: deals: 15, actions: 8, preflop actions: 8
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Teegimam, AI: Random
+General: deals: 15, actions: 3, preflop actions: 3
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 13, showdown: 5, bluff: 8
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.714286
+
+
+Date: 2022/10/25 13:46:32
+
+The game begins. The AI's of the players are: 
+Leke: AIMyBot1
+Teegimam: Random
+
+Joins: Leke, chips: 1000
+Joins: Teegimam, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leke
+Small Blind: Leke, chips: 100
+Big Blind: Teegimam, chips: 200
+Folds: Leke
+Pot size: 300
+Boasts: Teegimam, 7h 9d
+Wins: Teegimam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teegimam
+Small Blind: Teegimam, chips: 100
+Big Blind: Leke, chips: 200
+Raises: Teegimam, chips: 300
+Folds: Leke
+Pot size: 700
+Boasts: Teegimam, 7s 2s
+Wins: Teegimam, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leke
+Small Blind: Leke, chips: 100
+Big Blind: Teegimam, chips: 200
+Folds: Leke
+Pot size: 300
+Wins: Teegimam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teegimam
+Small Blind: Teegimam, chips: 100
+Big Blind: Leke, chips: 200
+Calls: Teegimam
+DEBUG MESSAGE: INVALID ACTION FROM Leke (2 0)
+Folds: Leke
+Pot size: 400
+Boasts: Teegimam, 3d Jd
+Wins: Teegimam, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leke
+Small Blind: Leke, chips: 100
+Big Blind: Teegimam, chips: 200
+Folds: Leke
+Pot size: 300
+Wins: Teegimam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teegimam
+Small Blind: Teegimam, chips: 100
+Big Blind: Leke, chips: 200
+Calls: Teegimam
+DEBUG MESSAGE: INVALID ACTION FROM Leke (2 0)
+Folds: Leke
+Pot size: 400
+Wins: Teegimam, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leke
+Small Blind: Leke, chips: 100
+Big Blind: Teegimam, chips: 200
+Flop: Qc Ah Ad
+Turn: 3d
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Leke, 3s 9h
+Combination: Leke, Full House ( Ah Ad Ac 3s 3d )
+Shows: Teegimam, 8s 2d
+Combination: Teegimam, Three Of A Kind ( Ah Ad Ac Qc 8s )
+Wins: Leke, chips: 200
+Wins: Teegimam, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teegimam
+Small Blind: Teegimam, chips: 100
+Big Blind: Leke, chips: 200
+Flop: Th As Ad
+Turn: 7c
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Leke, 5c Ts
+Combination: Leke, Two Pair ( As Ad Ts Th 9c )
+Shows: Teegimam, 2s 2c
+Combination: Teegimam, Two Pair ( As Ad 2s 2c Th )
+Wins: Leke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leke
+Small Blind: Leke, chips: 100
+Big Blind: Teegimam, chips: 200
+Folds: Leke
+Pot size: 300
+Wins: Teegimam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teegimam
+Small Blind: Teegimam, chips: 100
+Big Blind: Leke, chips: 200
+Flop: 4c 6c 8c
+Turn: 7d
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Leke, Jd 6h
+Combination: Leke, Pair ( 6h 6c Jd 9d 8c )
+Shows: Teegimam, Js 5d
+Combination: Teegimam, Straight ( 9d 8c 7d 6c 5d )
+Wins: Leke, chips: 100
+Wins: Teegimam, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leke
+Small Blind: Leke, chips: 100
+Big Blind: Teegimam, chips: 200
+Flop: 4c Qd 9d
+Turn: 8h
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Leke, 5c Ad
+Combination: Leke, Pair ( 5c 5h Ad Qd 9d )
+Shows: Teegimam, Ks Td
+Combination: Teegimam, High Card ( Ks Qd Td 9d 8h )
+Wins: Leke, chips: 200
+Wins: Teegimam, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teegimam
+Small Blind: Teegimam, chips: 100
+Big Blind: Leke, chips: 200
+Flop: 5c 7h 9c
+Turn: 2c
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Leke, Kd 2s
+Combination: Leke, Two Pair ( 7h 7c 2s 2c Kd )
+Shows: Teegimam, 6h As
+Combination: Teegimam, Pair ( 7h 7c As 9c 6h )
+Wins: Leke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leke
+Small Blind: Leke, chips: 100
+Big Blind: Teegimam, chips: 200
+Folds: Leke
+Pot size: 300
+Boasts: Teegimam, 8h Ac
+Wins: Teegimam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teegimam
+Small Blind: Teegimam, chips: 100
+Big Blind: Leke, chips: 200
+Flop: 2d 9c 8d
+Turn: 9h
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Leke, 5h 3h
+Combination: Leke, Pair ( 9c 9h 8d 7d 5h )
+Shows: Teegimam, 8c 3c
+Combination: Teegimam, Two Pair ( 9c 9h 8c 8d 7d )
+Wins: Leke, chips: 100
+Wins: Teegimam, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leke
+Small Blind: Leke, chips: 100
+Big Blind: Teegimam, chips: 200
+Flop: 6d 6h Js
+Turn: 4d
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Leke, Kh 8c
+Combination: Leke, Pair ( 6d 6h Kh Js Td )
+Shows: Teegimam, Kd Tc
+Combination: Teegimam, Two Pair ( Tc Td 6d 6h Kd )
+Wins: Teegimam, chips: 300
+Quits: Leke, chips: 0
+Ranking: Teegimam, Place: 1, Score: 1000
+Reveal AI: Teegimam, AI: Random
+Ranking: Leke, Place: 2, Score: -1000
+Reveal AI: Leke, AI: AIMyBot1
+
+Player Stats for Leke, AI: AIMyBot1
+General: deals: 15, actions: 8, preflop actions: 8
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Teegimam, AI: Random
+General: deals: 15, actions: 3, preflop actions: 3
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 13, showdown: 5, bluff: 8
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.714286
+
+

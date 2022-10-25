@@ -1,0 +1,560 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Fubus: AIMyBot1
+Tokoen: Random
+
+Joins: Fubus, chips: 1000
+Joins: Tokoen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Folds: Fubus
+Pot size: 300
+Boasts: Tokoen, 5c 8h
+Wins: Tokoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Calls: Tokoen
+DEBUG MESSAGE: INVALID ACTION FROM Fubus (2 0)
+Folds: Fubus
+Pot size: 400
+Wins: Tokoen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Folds: Fubus
+Pot size: 300
+Boasts: Tokoen, 4h 7h
+Wins: Tokoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Raises: Tokoen, chips: 300
+Folds: Fubus
+Pot size: 700
+Wins: Tokoen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Folds: Fubus
+Pot size: 300
+Wins: Tokoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Raises: Tokoen, chips: 300
+Folds: Fubus
+Pot size: 700
+Wins: Tokoen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Flop: 3h 6s 3c
+Turn: Jd
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 7d 8c
+Combination: Fubus, Pair ( 3h 3c Jd Tc 8c )
+Shows: Tokoen, 4d 2h
+Combination: Tokoen, Pair ( 3h 3c Jd Tc 6s )
+Wins: Fubus, chips: 200
+Wins: Tokoen, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Flop: Jh 7d 8d
+Turn: 6c
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Fubus, Qc 3h
+Combination: Fubus, High Card ( Qc Jh 9d 8d 7d )
+Shows: Tokoen, 7c 7s
+Combination: Tokoen, Three Of A Kind ( 7c 7s 7d Jh 9d )
+Wins: Fubus, chips: 100
+Wins: Tokoen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Flop: 5s 9s 4h
+Turn: 7c
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 3d 6d
+Combination: Fubus, Straight ( 7c 6d 5s 4h 3d )
+Shows: Tokoen, 6c 2d
+Combination: Tokoen, Pair ( 6c 6h 9s 7c 5s )
+Wins: Fubus, chips: 200
+Wins: Tokoen, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Flop: 8c Qh 5s
+Turn: Js
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 9s As
+Combination: Fubus, Pair ( As Ac Qh Js 9s )
+Shows: Tokoen, Td 4d
+Combination: Tokoen, High Card ( Ac Qh Js Td 8c )
+Wins: Fubus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Folds: Fubus
+Pot size: 300
+Boasts: Tokoen, 7h Ks
+Wins: Tokoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Flop: Ac 2h 8d
+Turn: 9c
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Fubus, Ad 4s
+Combination: Fubus, Two Pair ( Ad Ac 2h 2c 9c )
+Shows: Tokoen, Jh 9h
+Combination: Tokoen, Two Pair ( 9h 9c 2h 2c Ac )
+Wins: Fubus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Folds: Fubus
+Pot size: 300
+Boasts: Tokoen, 9h 2c
+Wins: Tokoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Flop: Qc Tc Jd
+Turn: 7s
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 3d 4h
+Combination: Fubus, Pair ( 7s 7d Qc Jd Tc )
+Shows: Tokoen, Jh Th
+Combination: Tokoen, Two Pair ( Jh Jd Th Tc Qc )
+Wins: Fubus, chips: 100
+Wins: Tokoen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Flop: 3h 9c 5s
+Turn: 4c
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 6d 3c
+Combination: Fubus, Straight ( 7d 6d 5s 4c 3c )
+Shows: Tokoen, 9h Ts
+Combination: Tokoen, Pair ( 9h 9c Ts 7d 5s )
+Wins: Fubus, chips: 200
+Wins: Tokoen, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Flop: Ah Th Tc
+Turn: 7c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Fubus, Ad 5c
+Combination: Fubus, Two Pair ( Ad Ah Th Tc 8d )
+Shows: Tokoen, 6c 4h
+Combination: Tokoen, Pair ( Th Tc Ah 8d 7c )
+Wins: Fubus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Folds: Fubus
+Pot size: 300
+Wins: Tokoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Flop: 7d 6h 7s
+Turn: 8s
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 4d 8d
+Combination: Fubus, Two Pair ( 8d 8s 7d 7s Qh )
+Shows: Tokoen, Td 9d
+Combination: Tokoen, Straight ( Td 9d 8s 7d 6h )
+Wins: Fubus, chips: 100
+Wins: Tokoen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Flop: Qc 2c 5s
+Turn: 9h
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 2h Jd
+Combination: Fubus, Two Pair ( 9h 9s 2h 2c Qc )
+Shows: Tokoen, Th Kc
+Combination: Tokoen, Pair ( 9h 9s Kc Qc Th )
+Wins: Fubus, chips: 200
+Wins: Tokoen, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Flop: 5h Kc 9h
+Turn: Jd
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 6c Ks
+Combination: Fubus, Pair ( Ks Kc Jd 9h 6c )
+Shows: Tokoen, 5d Js
+Combination: Tokoen, Two Pair ( Js Jd 5d 5h Kc )
+Wins: Fubus, chips: 100
+Wins: Tokoen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Flop: Td Qd As
+Turn: 6s
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 2h 4d
+Combination: Fubus, Pair ( 6s 6h As Qd Td )
+Shows: Tokoen, Jc 4c
+Combination: Tokoen, Pair ( 6s 6h As Qd Jc )
+Wins: Tokoen, chips: 300
+Quits: Fubus, chips: 0
+Ranking: Tokoen, Place: 1, Score: 1000
+Reveal AI: Tokoen, AI: Random
+Ranking: Fubus, Place: 2, Score: -1000
+Reveal AI: Fubus, AI: AIMyBot1
+
+Player Stats for Fubus, AI: AIMyBot1
+General: deals: 21, actions: 9, preflop actions: 9
+Rounds Seen: flops: 12, turns: 12, rivers: 12, showdowns: 12
+Wins: total: 11, showdown: 11, bluff: 0
+Chips: won: 2100, lost: 3100, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.916667
+
+
+Player Stats for Tokoen, AI: Random
+General: deals: 21, actions: 3, preflop actions: 3
+Rounds Seen: flops: 12, turns: 12, rivers: 12, showdowns: 12
+Wins: total: 18, showdown: 9, bluff: 9
+Chips: won: 5100, lost: 4100, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.0952381, 3Bet: 0.0952381
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:45:48
+
+The game begins. The AI's of the players are: 
+Fubus: AIMyBot1
+Tokoen: Random
+
+Joins: Fubus, chips: 1000
+Joins: Tokoen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Folds: Fubus
+Pot size: 300
+Boasts: Tokoen, 5c 8h
+Wins: Tokoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Calls: Tokoen
+DEBUG MESSAGE: INVALID ACTION FROM Fubus (2 0)
+Folds: Fubus
+Pot size: 400
+Wins: Tokoen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Folds: Fubus
+Pot size: 300
+Boasts: Tokoen, 4h 7h
+Wins: Tokoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Raises: Tokoen, chips: 300
+Folds: Fubus
+Pot size: 700
+Wins: Tokoen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Folds: Fubus
+Pot size: 300
+Wins: Tokoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Raises: Tokoen, chips: 300
+Folds: Fubus
+Pot size: 700
+Wins: Tokoen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Flop: 3h 6s 3c
+Turn: Jd
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 7d 8c
+Combination: Fubus, Pair ( 3h 3c Jd Tc 8c )
+Shows: Tokoen, 4d 2h
+Combination: Tokoen, Pair ( 3h 3c Jd Tc 6s )
+Wins: Fubus, chips: 200
+Wins: Tokoen, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Flop: Jh 7d 8d
+Turn: 6c
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Fubus, Qc 3h
+Combination: Fubus, High Card ( Qc Jh 9d 8d 7d )
+Shows: Tokoen, 7c 7s
+Combination: Tokoen, Three Of A Kind ( 7c 7s 7d Jh 9d )
+Wins: Fubus, chips: 100
+Wins: Tokoen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Flop: 5s 9s 4h
+Turn: 7c
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 3d 6d
+Combination: Fubus, Straight ( 7c 6d 5s 4h 3d )
+Shows: Tokoen, 6c 2d
+Combination: Tokoen, Pair ( 6c 6h 9s 7c 5s )
+Wins: Fubus, chips: 200
+Wins: Tokoen, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Flop: 8c Qh 5s
+Turn: Js
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 9s As
+Combination: Fubus, Pair ( As Ac Qh Js 9s )
+Shows: Tokoen, Td 4d
+Combination: Tokoen, High Card ( Ac Qh Js Td 8c )
+Wins: Fubus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Folds: Fubus
+Pot size: 300
+Boasts: Tokoen, 7h Ks
+Wins: Tokoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Flop: Ac 2h 8d
+Turn: 9c
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Fubus, Ad 4s
+Combination: Fubus, Two Pair ( Ad Ac 2h 2c 9c )
+Shows: Tokoen, Jh 9h
+Combination: Tokoen, Two Pair ( 9h 9c 2h 2c Ac )
+Wins: Fubus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Folds: Fubus
+Pot size: 300
+Boasts: Tokoen, 9h 2c
+Wins: Tokoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Flop: Qc Tc Jd
+Turn: 7s
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 3d 4h
+Combination: Fubus, Pair ( 7s 7d Qc Jd Tc )
+Shows: Tokoen, Jh Th
+Combination: Tokoen, Two Pair ( Jh Jd Th Tc Qc )
+Wins: Fubus, chips: 100
+Wins: Tokoen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Flop: 3h 9c 5s
+Turn: 4c
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 6d 3c
+Combination: Fubus, Straight ( 7d 6d 5s 4c 3c )
+Shows: Tokoen, 9h Ts
+Combination: Tokoen, Pair ( 9h 9c Ts 7d 5s )
+Wins: Fubus, chips: 200
+Wins: Tokoen, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Flop: Ah Th Tc
+Turn: 7c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Fubus, Ad 5c
+Combination: Fubus, Two Pair ( Ad Ah Th Tc 8d )
+Shows: Tokoen, 6c 4h
+Combination: Tokoen, Pair ( Th Tc Ah 8d 7c )
+Wins: Fubus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Folds: Fubus
+Pot size: 300
+Wins: Tokoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Flop: 7d 6h 7s
+Turn: 8s
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 4d 8d
+Combination: Fubus, Two Pair ( 8d 8s 7d 7s Qh )
+Shows: Tokoen, Td 9d
+Combination: Tokoen, Straight ( Td 9d 8s 7d 6h )
+Wins: Fubus, chips: 100
+Wins: Tokoen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Flop: Qc 2c 5s
+Turn: 9h
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 2h Jd
+Combination: Fubus, Two Pair ( 9h 9s 2h 2c Qc )
+Shows: Tokoen, Th Kc
+Combination: Tokoen, Pair ( 9h 9s Kc Qc Th )
+Wins: Fubus, chips: 200
+Wins: Tokoen, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokoen
+Small Blind: Tokoen, chips: 100
+Big Blind: Fubus, chips: 200
+Flop: 5h Kc 9h
+Turn: Jd
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 6c Ks
+Combination: Fubus, Pair ( Ks Kc Jd 9h 6c )
+Shows: Tokoen, 5d Js
+Combination: Tokoen, Two Pair ( Js Jd 5d 5h Kc )
+Wins: Fubus, chips: 100
+Wins: Tokoen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fubus
+Small Blind: Fubus, chips: 100
+Big Blind: Tokoen, chips: 200
+Flop: Td Qd As
+Turn: 6s
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Fubus, 2h 4d
+Combination: Fubus, Pair ( 6s 6h As Qd Td )
+Shows: Tokoen, Jc 4c
+Combination: Tokoen, Pair ( 6s 6h As Qd Jc )
+Wins: Tokoen, chips: 300
+Quits: Fubus, chips: 0
+Ranking: Tokoen, Place: 1, Score: 1000
+Reveal AI: Tokoen, AI: Random
+Ranking: Fubus, Place: 2, Score: -1000
+Reveal AI: Fubus, AI: AIMyBot1
+
+Player Stats for Fubus, AI: AIMyBot1
+General: deals: 21, actions: 9, preflop actions: 9
+Rounds Seen: flops: 12, turns: 12, rivers: 12, showdowns: 12
+Wins: total: 11, showdown: 11, bluff: 0
+Chips: won: 2100, lost: 3100, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.916667
+
+
+Player Stats for Tokoen, AI: Random
+General: deals: 21, actions: 3, preflop actions: 3
+Rounds Seen: flops: 12, turns: 12, rivers: 12, showdowns: 12
+Wins: total: 18, showdown: 9, bluff: 9
+Chips: won: 5100, lost: 4100, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.0952381, 3Bet: 0.0952381
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

@@ -1,0 +1,5814 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Toedeen: AIMyBot1
+Sedeet: AIMyBot4
+Goewroe: AIMyBot3
+Bedeena: AIMyBot5
+Kevoetu: AIMyBot7
+Jerunhu: AIMyBot2
+Je: AIMyBot6
+
+Joins: Toedeen, chips: 1000
+Joins: Sedeet, chips: 1000
+Joins: Goewroe, chips: 1000
+Joins: Bedeena, chips: 1000
+Joins: Kevoetu, chips: 1000
+Joins: Jerunhu, chips: 1000
+Joins: Je, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Kevoetu, chips: 100
+Big Blind: Jerunhu, chips: 200
+Folds: Je
+Calls: Toedeen
+Calls: Sedeet
+Folds: Goewroe
+Folds: Bedeena
+Folds: Kevoetu
+DEBUG MESSAGE: INVALID ACTION FROM Jerunhu (2 0)
+Folds: Jerunhu
+Flop: Tc 5h Jd
+Checks: Toedeen
+Checks: Sedeet
+Turn: 9d
+Checks: Toedeen
+Checks: Sedeet
+River: 2s
+Checks: Toedeen
+Checks: Sedeet
+Pot size: 700
+Showdown Reached
+Shows: Toedeen, Kd Ks
+Combination: Toedeen, Pair ( Kd Ks Jd Tc 9d )
+Shows: Sedeet, 3h 4h
+Combination: Sedeet, High Card ( Jd Tc 9d 5h 4h )
+Wins: Toedeen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kevoetu
+Small Blind: Jerunhu, chips: 100
+Big Blind: Je, chips: 200
+Calls: Toedeen
+Calls: Sedeet
+Folds: Goewroe
+Calls: Bedeena
+Folds: Kevoetu
+Folds: Jerunhu
+DEBUG MESSAGE: INVALID ACTION FROM Je (2 0)
+Folds: Je
+Flop: Jh Kc Ah
+Checks: Toedeen
+Checks: Sedeet
+Checks: Bedeena
+Turn: 6h
+Checks: Toedeen
+Checks: Sedeet
+Checks: Bedeena
+River: 8s
+Checks: Toedeen
+Checks: Sedeet
+Checks: Bedeena
+Pot size: 900
+Showdown Reached
+Shows: Toedeen, 6d Ts
+Combination: Toedeen, Pair ( 6d 6h Ah Kc Jh )
+Shows: Sedeet, 9d Th
+Combination: Sedeet, High Card ( Ah Kc Jh Th 9d )
+Shows: Bedeena, 4d Qd
+Combination: Bedeena, High Card ( Ah Kc Qd Jh 8s )
+Wins: Toedeen, chips: 900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerunhu
+Small Blind: Je, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Sedeet
+Folds: Goewroe
+Folds: Bedeena
+Folds: Kevoetu
+Folds: Jerunhu
+Folds: Je
+Raises: Toedeen, chips: 200
+Folds: Sedeet
+Pot size: 700
+Wins: Toedeen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Toedeen, chips: 100
+Big Blind: Sedeet, chips: 200
+Folds: Goewroe
+Calls: Bedeena
+Folds: Kevoetu
+Folds: Jerunhu
+Folds: Je
+Calls: Toedeen
+Checks: Sedeet
+Flop: 3h Ah 5h
+Checks: Toedeen
+Checks: Sedeet
+Checks: Bedeena
+Turn: Qs
+Checks: Toedeen
+Checks: Sedeet
+Checks: Bedeena
+River: 8s
+Checks: Toedeen
+Checks: Sedeet
+Checks: Bedeena
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, Kh Qc
+Combination: Toedeen, Pair ( Qc Qs Ah Kh 8s )
+Shows: Sedeet, 4c 9s
+Combination: Sedeet, High Card ( Ah Qs 9s 8s 5h )
+Shows: Bedeena, 9c 7s
+Combination: Bedeena, High Card ( Ah Qs 9c 8s 7s )
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Sedeet, chips: 100
+Big Blind: Goewroe, chips: 200
+Folds: Bedeena
+Folds: Kevoetu
+Folds: Jerunhu
+Folds: Je
+Calls: Toedeen
+Calls: Sedeet
+Raises: Goewroe, chips: 207
+Folds: Toedeen
+Flop: Ad Qs 3d
+Turn: 5d
+River: Jh
+Pot size: 807
+Showdown Reached
+Shows: Sedeet, 8s 9h
+Combination: Sedeet, High Card ( Ad Qs Jh 9h 8s )
+Shows: Goewroe, Js 9s
+Combination: Goewroe, Pair ( Js Jh Ad Qs 9s )
+Wins: Goewroe, chips: 807
+Quits: Sedeet, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroe
+Small Blind: Bedeena, chips: 100
+Big Blind: Kevoetu, chips: 200
+Folds: Jerunhu
+Folds: Je
+Calls: Toedeen
+Folds: Goewroe
+Folds: Bedeena
+Checks: Kevoetu
+Flop: 3d Ks 7h
+Checks: Kevoetu
+Checks: Toedeen
+Turn: 6c
+Checks: Kevoetu
+Checks: Toedeen
+River: 7s
+Raises: Kevoetu, chips: 400
+Folds: Toedeen
+Pot size: 900
+Wins: Kevoetu, chips: 900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Kevoetu, chips: 100
+Big Blind: Jerunhu, chips: 200
+Folds: Je
+Calls: Toedeen
+Folds: Goewroe
+Folds: Bedeena
+Folds: Kevoetu
+DEBUG MESSAGE: INVALID ACTION FROM Jerunhu (2 0)
+Folds: Jerunhu
+Pot size: 500
+Wins: Toedeen, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kevoetu
+Small Blind: Jerunhu, chips: 100
+Big Blind: Je, chips: 200
+Calls: Toedeen
+Folds: Goewroe
+Raises: Bedeena, chips: 300
+Folds: Kevoetu
+Folds: Jerunhu
+Folds: Je
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerunhu
+Small Blind: Je, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Goewroe
+Calls: Bedeena
+Folds: Kevoetu
+Folds: Jerunhu
+Folds: Je
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 700
+Wins: Toedeen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Toedeen, chips: 100
+Big Blind: Goewroe, chips: 200
+Folds: Bedeena
+Folds: Kevoetu
+Folds: Jerunhu
+Folds: Je
+Calls: Toedeen
+DEBUG MESSAGE: INVALID ACTION FROM Goewroe (2 0)
+Folds: Goewroe
+Pot size: 400
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Goewroe, chips: 100
+Big Blind: Bedeena, chips: 200
+Folds: Kevoetu
+Folds: Jerunhu
+Folds: Je
+Calls: Toedeen
+Calls: Goewroe
+Checks: Bedeena
+Flop: 9d 4c 4d
+DEBUG MESSAGE: INVALID ACTION FROM Goewroe (2 0)
+Folds: Goewroe
+Checks: Bedeena
+Checks: Toedeen
+Turn: 7d
+Checks: Bedeena
+Checks: Toedeen
+River: 8s
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, 2h Td
+Combination: Toedeen, Pair ( 4c 4d Td 9d 8s )
+Shows: Bedeena, Qc 9c
+Combination: Bedeena, Two Pair ( 9c 9d 4c 4d Qc )
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroe
+Small Blind: Bedeena, chips: 100
+Big Blind: Kevoetu, chips: 200
+Folds: Jerunhu
+Folds: Je
+Calls: Toedeen
+Folds: Goewroe
+Raises: Bedeena, chips: 200
+Folds: Kevoetu
+Folds: Toedeen
+Pot size: 800
+Wins: Bedeena, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Kevoetu, chips: 100
+Big Blind: Jerunhu, chips: 200
+Folds: Je
+Calls: Toedeen
+Folds: Goewroe
+Folds: Bedeena
+Folds: Kevoetu
+DEBUG MESSAGE: INVALID ACTION FROM Jerunhu (2 0)
+Folds: Jerunhu
+Pot size: 500
+Wins: Toedeen, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kevoetu
+Small Blind: Jerunhu, chips: 100
+Big Blind: Je, chips: 200
+Calls: Toedeen
+Folds: Goewroe
+Calls: Bedeena
+Calls: Kevoetu
+Calls: Jerunhu
+DEBUG MESSAGE: INVALID ACTION FROM Je (2 0)
+Folds: Je
+Flop: 9s 3d Qh
+Checks: Toedeen
+Checks: Bedeena
+Checks: Kevoetu
+Turn: 8d
+Checks: Toedeen
+Checks: Bedeena
+Checks: Kevoetu
+River: 7h
+Checks: Toedeen
+Checks: Bedeena
+Checks: Kevoetu
+Pot size: 1000
+Showdown Reached
+Shows: Toedeen, Qc 5c
+Combination: Toedeen, Pair ( Qc Qh 9s 8d 7h )
+Shows: Bedeena, 9h 6s
+Combination: Bedeena, Pair ( 9h 9s Qh 8d 7h )
+Shows: Kevoetu, Td As
+Combination: Kevoetu, High Card ( As Qh Td 9s 8d )
+Shows: Jerunhu, 7s 6h
+Combination: Jerunhu, Pair ( 7s 7h Qh 9s 8d )
+Wins: Toedeen, chips: 1000
+Quits: Jerunhu, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Toedeen, chips: 100
+Big Blind: Goewroe, chips: 200
+Calls: Bedeena
+Raises: Kevoetu, chips: 400
+Folds: Je
+Folds: Toedeen
+Raises: Goewroe, chips: 400
+Folds: Bedeena
+Flop: Ks 4s 5h
+Turn: 2h
+River: 7h
+Pot size: 1900
+Showdown Reached
+Shows: Goewroe, 9s Jh
+Combination: Goewroe, High Card ( Ks Jh 9s 7h 5h )
+Shows: Kevoetu, Qd Qc
+Combination: Kevoetu, Pair ( Qd Qc Ks 7h 5h )
+Wins: Goewroe, chips: 400
+Wins: Kevoetu, chips: 1500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Goewroe, chips: 100
+Big Blind: Bedeena, chips: 200
+Folds: Kevoetu
+Folds: Je
+Calls: Toedeen
+Calls: Goewroe
+Checks: Bedeena
+Flop: 7c Jd 8s
+Raises: Goewroe, chips: 200
+Calls: Bedeena
+Folds: Toedeen
+Turn: 9h
+River: 9d
+Pot size: 1000
+Showdown Reached
+Shows: Goewroe, As Ts
+Combination: Goewroe, Straight ( Jd Ts 9h 8s 7c )
+Shows: Bedeena, 7d 4h
+Combination: Bedeena, Two Pair ( 9h 9d 7d 7c Jd )
+Wins: Goewroe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroe
+Small Blind: Bedeena, chips: 100
+Big Blind: Kevoetu, chips: 200
+Folds: Je
+Calls: Toedeen
+Folds: Goewroe
+Raises: Bedeena, chips: 200
+Folds: Kevoetu
+Folds: Toedeen
+Pot size: 800
+Wins: Bedeena, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Kevoetu, chips: 100
+Big Blind: Je, chips: 200
+Calls: Toedeen
+Folds: Goewroe
+Folds: Bedeena
+Folds: Kevoetu
+Flop: Ts Qd 8c
+Turn: Qc
+River: 8s
+Pot size: 500
+Showdown Reached
+Shows: Toedeen, As 8d
+Combination: Toedeen, Full House ( 8d 8c 8s Qd Qc )
+Shows: Je, 6c Ah
+Combination: Je, Two Pair ( Qd Qc 8c 8s Ah )
+Wins: Toedeen, chips: 500
+Quits: Je, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kevoetu
+Small Blind: Toedeen, chips: 100
+Big Blind: Goewroe, chips: 200
+Folds: Bedeena
+Folds: Kevoetu
+Calls: Toedeen
+Raises: Goewroe, chips: 207
+Folds: Toedeen
+Pot size: 607
+Wins: Goewroe, chips: 607
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Goewroe, chips: 100
+Big Blind: Bedeena, chips: 200
+Folds: Kevoetu
+Calls: Toedeen
+Calls: Goewroe
+Checks: Bedeena
+Flop: 4h 5d Ah
+DEBUG MESSAGE: INVALID ACTION FROM Goewroe (2 0)
+Folds: Goewroe
+Checks: Bedeena
+Checks: Toedeen
+Turn: 4s
+Checks: Bedeena
+Checks: Toedeen
+River: 9h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, Qd Qs
+Combination: Toedeen, Two Pair ( Qd Qs 4h 4s Ah )
+Shows: Bedeena, 5s 3h
+Combination: Bedeena, Two Pair ( 5s 5d 4h 4s Ah )
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroe
+Small Blind: Bedeena, chips: 100
+Big Blind: Kevoetu, chips: 200
+Calls: Toedeen
+Folds: Goewroe
+Folds: Bedeena
+Checks: Kevoetu
+Flop: 2d 6c 8c
+Checks: Kevoetu
+Checks: Toedeen
+Turn: Qd
+Checks: Kevoetu
+Checks: Toedeen
+River: Kd
+Checks: Kevoetu
+Checks: Toedeen
+Pot size: 500
+Showdown Reached
+Shows: Toedeen, 3s 3c
+Combination: Toedeen, Pair ( 3s 3c Kd Qd 8c )
+Shows: Kevoetu, 3h 5h
+Combination: Kevoetu, High Card ( Kd Qd 8c 6c 5h )
+Wins: Toedeen, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Kevoetu, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Goewroe
+Folds: Bedeena
+Folds: Kevoetu
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kevoetu
+Small Blind: Toedeen, chips: 100
+Big Blind: Goewroe, chips: 200
+Folds: Bedeena
+Folds: Kevoetu
+Calls: Toedeen
+DEBUG MESSAGE: INVALID ACTION FROM Goewroe (2 0)
+Folds: Goewroe
+Pot size: 400
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Goewroe, chips: 100
+Big Blind: Bedeena, chips: 200
+Folds: Kevoetu
+Calls: Toedeen
+Calls: Goewroe
+Checks: Bedeena
+Flop: Jd Qc 3d
+DEBUG MESSAGE: INVALID ACTION FROM Goewroe (2 0)
+Folds: Goewroe
+Checks: Bedeena
+Checks: Toedeen
+Turn: 2c
+Checks: Bedeena
+Checks: Toedeen
+River: 9h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, Kh 8d
+Combination: Toedeen, High Card ( Kh Qc Jd 9h 8d )
+Shows: Bedeena, 2s 3c
+Combination: Bedeena, Two Pair ( 3c 3d 2s 2c Qc )
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroe
+Small Blind: Bedeena, chips: 100
+Big Blind: Kevoetu, chips: 200
+Calls: Toedeen
+Folds: Goewroe
+Raises: Bedeena, chips: 200
+Folds: Kevoetu
+Folds: Toedeen
+Pot size: 800
+Wins: Bedeena, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Kevoetu, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Goewroe
+Calls: Bedeena
+Folds: Kevoetu
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 700
+Wins: Toedeen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kevoetu
+Small Blind: Toedeen, chips: 100
+Big Blind: Goewroe, chips: 200
+Folds: Bedeena
+Calls: Kevoetu
+Calls: Toedeen
+Raises: Goewroe, chips: 303
+Folds: Kevoetu
+Folds: Toedeen
+Pot size: 903
+Wins: Goewroe, chips: 903
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Goewroe, chips: 100
+Big Blind: Bedeena, chips: 200
+Folds: Kevoetu
+Calls: Toedeen
+Calls: Goewroe
+Checks: Bedeena
+Flop: Jc Ah 6h
+DEBUG MESSAGE: INVALID ACTION FROM Goewroe (2 0)
+Folds: Goewroe
+Checks: Bedeena
+Checks: Toedeen
+Turn: 4h
+Checks: Bedeena
+Checks: Toedeen
+River: 2h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, Td 3h
+Combination: Toedeen, Flush ( Ah 6h 4h 3h 2h )
+Shows: Bedeena, Ks 8h
+Combination: Bedeena, Flush ( Ah 8h 6h 4h 2h )
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroe
+Small Blind: Bedeena, chips: 100
+Big Blind: Kevoetu, chips: 200
+Calls: Toedeen
+Folds: Goewroe
+Raises: Bedeena, chips: 200
+Folds: Kevoetu
+Folds: Toedeen
+Pot size: 800
+Wins: Bedeena, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Kevoetu, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Goewroe
+Folds: Bedeena
+Calls: Kevoetu
+Raises: Toedeen, chips: 200
+Flop: 9h Th Qc
+Turn: 6h
+River: Qd
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, Kh Td
+Combination: Toedeen, Two Pair ( Qc Qd Td Th Kh )
+Shows: Kevoetu, Kd As
+Combination: Kevoetu, Pair ( Qc Qd As Kd Th )
+Wins: Toedeen, chips: 600
+Quits: Kevoetu, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Goewroe, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Folds: Goewroe
+Checks: Bedeena
+Flop: Tc 3h 5d
+Checks: Bedeena
+Checks: Toedeen
+Turn: 9s
+Checks: Bedeena
+Checks: Toedeen
+River: 6s
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 500
+Showdown Reached
+Shows: Toedeen, Js Th
+Combination: Toedeen, Pair ( Th Tc Js 9s 6s )
+Shows: Bedeena, 5c Ac
+Combination: Bedeena, Pair ( 5c 5d Ac Tc 9s )
+Wins: Toedeen, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroe
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Goewroe
+Folds: Bedeena
+Raises: Toedeen, chips: 200
+Raises: Goewroe, chips: 300
+Folds: Toedeen
+Pot size: 1200
+Wins: Goewroe, chips: 1200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Toedeen, chips: 100
+Big Blind: Goewroe, chips: 200
+Calls: Bedeena
+Calls: Toedeen
+DEBUG MESSAGE: INVALID ACTION FROM Goewroe (2 0)
+Folds: Goewroe
+Flop: 2c 7c 3d
+Checks: Toedeen
+Checks: Bedeena
+Turn: 5d
+Checks: Toedeen
+Checks: Bedeena
+River: Ac
+Checks: Toedeen
+Checks: Bedeena
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, Jd 3h
+Combination: Toedeen, Pair ( 3h 3d Ac Jd 7c )
+Shows: Bedeena, 8s 6d
+Combination: Bedeena, High Card ( Ac 8s 7c 6d 5d )
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Goewroe, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Calls: Goewroe
+Checks: Bedeena
+Flop: 6h Qh 4s
+DEBUG MESSAGE: INVALID ACTION FROM Goewroe (2 0)
+Folds: Goewroe
+Checks: Bedeena
+Checks: Toedeen
+Turn: 2d
+Checks: Bedeena
+Checks: Toedeen
+River: Jc
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, 5d 8h
+Combination: Toedeen, High Card ( Qh Jc 8h 6h 5d )
+Shows: Bedeena, 7c 8d
+Combination: Bedeena, High Card ( Qh Jc 8d 7c 6h )
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroe
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Goewroe
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Raises: Goewroe, chips: 371
+Raises: Bedeena, chips: 742
+Calls: Goewroe
+Flop: 8c 5c Qs
+Turn: Tc
+River: 8s
+Pot size: 2513
+Showdown Reached
+Shows: Goewroe, 6s 3h
+Combination: Goewroe, Pair ( 8c 8s Qs Tc 6s )
+Shows: Bedeena, Jc Ks
+Combination: Bedeena, Pair ( 8c 8s Ks Qs Jc )
+Wins: Bedeena, chips: 2513
+Quits: Goewroe, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Calls: Bedeena
+Flop: 2c As 8d
+Checks: Toedeen
+Checks: Bedeena
+Turn: 5c
+Checks: Toedeen
+Checks: Bedeena
+River: 2s
+Checks: Toedeen
+Checks: Bedeena
+Pot size: 800
+Showdown Reached
+Shows: Toedeen, Td Kd
+Combination: Toedeen, Pair ( 2c 2s As Kd Td )
+Shows: Bedeena, 5h Ac
+Combination: Bedeena, Two Pair ( Ac As 5h 5c 8d )
+Wins: Bedeena, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 8s Ac Qh
+Checks: Bedeena
+Checks: Toedeen
+Turn: Jd
+Checks: Bedeena
+Checks: Toedeen
+River: As
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Qc Ad
+Combination: Toedeen, Full House ( Ad Ac As Qc Qh )
+Shows: Bedeena, 3h 6s
+Combination: Bedeena, Pair ( Ac As Qh Jd 8s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 8d 3c 5h
+Checks: Bedeena
+Checks: Toedeen
+Turn: 4c
+Checks: Bedeena
+Checks: Toedeen
+River: 8h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Jc 5s
+Combination: Toedeen, Two Pair ( 8d 8h 5s 5h Jc )
+Shows: Bedeena, 9d Tc
+Combination: Bedeena, Pair ( 8d 8h Tc 9d 5h )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Ah 6c Js
+Checks: Bedeena
+Checks: Toedeen
+Turn: 5h
+Checks: Bedeena
+Checks: Toedeen
+River: 8h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Ad 4d
+Combination: Toedeen, Pair ( Ad Ah Js 8h 6c )
+Shows: Bedeena, 5s Qd
+Combination: Bedeena, Pair ( 5s 5h Ah Qd Js )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 2s 6s 7s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 5d
+Checks: Bedeena
+Checks: Toedeen
+River: Ad
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 2h 7d
+Combination: Toedeen, Two Pair ( 7d 7s 2h 2s Ad )
+Shows: Bedeena, Ts 9h
+Combination: Bedeena, High Card ( Ad Ts 9h 7s 6s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 5c Ks 9s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 3c
+Checks: Bedeena
+Checks: Toedeen
+River: Th
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Ac 7c
+Combination: Toedeen, High Card ( Ac Ks Th 9s 7c )
+Shows: Bedeena, Jc 4d
+Combination: Bedeena, High Card ( Ks Jc Th 9s 5c )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 9d Qs 5c
+Checks: Bedeena
+Checks: Toedeen
+Turn: 9h
+Checks: Bedeena
+Checks: Toedeen
+River: 9c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 4d 5h
+Combination: Toedeen, Full House ( 9d 9h 9c 5h 5c )
+Shows: Bedeena, 2h Jh
+Combination: Bedeena, Three Of A Kind ( 9d 9h 9c Qs Jh )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 6d 6c 5d
+Checks: Bedeena
+Checks: Toedeen
+Turn: 5s
+Checks: Bedeena
+Checks: Toedeen
+River: 8h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 9d Td
+Combination: Toedeen, Two Pair ( 6d 6c 5d 5s Td )
+Shows: Bedeena, 4c 4h
+Combination: Bedeena, Two Pair ( 6d 6c 5d 5s 8h )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 9d Kh Qh
+Checks: Bedeena
+Checks: Toedeen
+Turn: 9s
+Checks: Bedeena
+Checks: Toedeen
+River: Qd
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Ah Kc
+Combination: Toedeen, Two Pair ( Kc Kh Qh Qd Ah )
+Shows: Bedeena, Td Jd
+Combination: Bedeena, Straight ( Kh Qh Jd Td 9d )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 9c Kh Qh
+Checks: Bedeena
+Checks: Toedeen
+Turn: 8s
+Checks: Bedeena
+Checks: Toedeen
+River: Js
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 6d Ks
+Combination: Toedeen, Pair ( Ks Kh Qh Js 9c )
+Shows: Bedeena, 5s 4h
+Combination: Bedeena, High Card ( Kh Qh Js 9c 8s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Raises: Bedeena, chips: 232
+Folds: Toedeen
+Pot size: 1032
+Wins: Bedeena, chips: 1032
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 6d 5h Js
+Checks: Bedeena
+Checks: Toedeen
+Turn: 8h
+Checks: Bedeena
+Checks: Toedeen
+River: 3c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 4h 8c
+Combination: Toedeen, Pair ( 8c 8h Js 6d 5h )
+Shows: Bedeena, Jh 2s
+Combination: Bedeena, Pair ( Jh Js 8h 6d 5h )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Kc 7h As
+Checks: Bedeena
+Checks: Toedeen
+Turn: 7s
+Checks: Bedeena
+Checks: Toedeen
+River: 7d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Td Qs
+Combination: Toedeen, Three Of A Kind ( 7h 7s 7d As Kc )
+Shows: Bedeena, 2s 5c
+Combination: Bedeena, Three Of A Kind ( 7h 7s 7d As Kc )
+Wins: Toedeen, chips: 200
+Wins: Bedeena, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 8s 5c Td
+Checks: Bedeena
+Checks: Toedeen
+Turn: As
+Checks: Bedeena
+Checks: Toedeen
+River: 8d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 6s 3s
+Combination: Toedeen, Pair ( 8s 8d As Td 6s )
+Shows: Bedeena, Jh 9c
+Combination: Bedeena, Pair ( 8s 8d As Jh Td )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Jh 6s Jd
+Checks: Bedeena
+Checks: Toedeen
+Turn: 9s
+Checks: Bedeena
+Checks: Toedeen
+River: Ad
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 5c 4h
+Combination: Toedeen, Pair ( Jh Jd Ad 9s 6s )
+Shows: Bedeena, 8s Qs
+Combination: Bedeena, Pair ( Jh Jd Ad Qs 9s )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 9c As Qs
+Checks: Bedeena
+Checks: Toedeen
+Turn: 4h
+Checks: Bedeena
+Checks: Toedeen
+River: Ts
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 5d Qh
+Combination: Toedeen, Pair ( Qh Qs As Ts 9c )
+Shows: Bedeena, 4s 3d
+Combination: Bedeena, Pair ( 4s 4h As Qs Ts )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 5s 7c 9s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 2d
+Checks: Bedeena
+Checks: Toedeen
+River: 3h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 2c 8h
+Combination: Toedeen, Pair ( 2c 2d 9s 8h 7c )
+Shows: Bedeena, 2h Tc
+Combination: Bedeena, Pair ( 2h 2d Tc 9s 7c )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Qs Js 8s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 8c
+Checks: Bedeena
+Checks: Toedeen
+River: 5h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Kc Ah
+Combination: Toedeen, Pair ( 8s 8c Ah Kc Qs )
+Shows: Bedeena, 4h Jd
+Combination: Bedeena, Two Pair ( Jd Js 8s 8c Qs )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 3c 5d 5s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 4s
+Checks: Bedeena
+Checks: Toedeen
+River: As
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 7c 6c
+Combination: Toedeen, Straight ( 7c 6c 5d 4s 3c )
+Shows: Bedeena, 9c 8c
+Combination: Bedeena, Pair ( 5d 5s As 9c 8c )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Ks 9c 3s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 3d
+Checks: Bedeena
+Checks: Toedeen
+River: 6h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, As 5h
+Combination: Toedeen, Pair ( 3s 3d As Ks 9c )
+Shows: Bedeena, 4d Jh
+Combination: Bedeena, Pair ( 3s 3d Ks Jh 9c )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Calls: Bedeena
+Flop: 4s Jc Td
+Checks: Toedeen
+Checks: Bedeena
+Turn: 2c
+Checks: Toedeen
+Checks: Bedeena
+River: 9h
+Checks: Toedeen
+Checks: Bedeena
+Pot size: 800
+Showdown Reached
+Shows: Toedeen, As 4d
+Combination: Toedeen, Pair ( 4d 4s As Jc Td )
+Shows: Bedeena, Th 3c
+Combination: Bedeena, Pair ( Th Td Jc 9h 4s )
+Wins: Bedeena, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Kd 9c Ac
+Checks: Bedeena
+Checks: Toedeen
+Turn: Jc
+Checks: Bedeena
+Checks: Toedeen
+River: 6s
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 7h Td
+Combination: Toedeen, High Card ( Ac Kd Jc Td 9c )
+Shows: Bedeena, Jd 7s
+Combination: Bedeena, Pair ( Jd Jc Ac Kd 9c )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Kc 4h Qs
+Checks: Bedeena
+Checks: Toedeen
+Turn: 6h
+Checks: Bedeena
+Checks: Toedeen
+River: 6d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Jh Td
+Combination: Toedeen, Pair ( 6h 6d Kc Qs Jh )
+Shows: Bedeena, Ts 5c
+Combination: Bedeena, Pair ( 6h 6d Kc Qs Ts )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 3d 6s 6c
+Checks: Bedeena
+Checks: Toedeen
+Turn: 5s
+Checks: Bedeena
+Checks: Toedeen
+River: As
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 8d 9c
+Combination: Toedeen, Pair ( 6s 6c As 9c 8d )
+Shows: Bedeena, 7c 5h
+Combination: Bedeena, Two Pair ( 6s 6c 5h 5s As )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 7s Js 7c
+Checks: Bedeena
+Checks: Toedeen
+Turn: 7h
+Checks: Bedeena
+Checks: Toedeen
+River: 4d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 6h 6s
+Combination: Toedeen, Full House ( 7s 7c 7h 6h 6s )
+Shows: Bedeena, 5h 5s
+Combination: Bedeena, Full House ( 7s 7c 7h 5h 5s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 2h Ac As
+Checks: Bedeena
+Checks: Toedeen
+Turn: 3h
+Checks: Bedeena
+Checks: Toedeen
+River: 9c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Qd 2s
+Combination: Toedeen, Two Pair ( Ac As 2s 2h Qd )
+Shows: Bedeena, 9s Qs
+Combination: Bedeena, Two Pair ( Ac As 9s 9c Qs )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 6h Ac 7s
+Checks: Bedeena
+Checks: Toedeen
+Turn: Js
+Checks: Bedeena
+Checks: Toedeen
+River: 6d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 6s Qh
+Combination: Toedeen, Three Of A Kind ( 6s 6h 6d Ac Qh )
+Shows: Bedeena, Jd 7h
+Combination: Bedeena, Two Pair ( Jd Js 7h 7s Ac )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Qc Kh Ts
+Checks: Bedeena
+Checks: Toedeen
+Turn: 4h
+Checks: Bedeena
+Checks: Toedeen
+River: Qs
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 4s 7c
+Combination: Toedeen, Two Pair ( Qc Qs 4s 4h Kh )
+Shows: Bedeena, Qd 4c
+Combination: Bedeena, Full House ( Qd Qc Qs 4c 4h )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Calls: Bedeena
+Flop: 7c 4s Kh
+Checks: Toedeen
+Checks: Bedeena
+Turn: 7d
+Checks: Toedeen
+Checks: Bedeena
+River: 2c
+Checks: Toedeen
+Checks: Bedeena
+Pot size: 800
+Showdown Reached
+Shows: Toedeen, 2h Kd
+Combination: Toedeen, Two Pair ( Kd Kh 7c 7d 4s )
+Shows: Bedeena, 4h 6h
+Combination: Bedeena, Two Pair ( 7c 7d 4h 4s Kh )
+Wins: Toedeen, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Tc 3s 4d
+Checks: Bedeena
+Checks: Toedeen
+Turn: 5c
+Checks: Bedeena
+Checks: Toedeen
+River: 9c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Jc Qd
+Combination: Toedeen, High Card ( Qd Jc Tc 9c 5c )
+Shows: Bedeena, Qs Js
+Combination: Bedeena, High Card ( Qs Js Tc 9c 5c )
+Wins: Toedeen, chips: 200
+Wins: Bedeena, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 5d Ad 3s
+Checks: Bedeena
+Checks: Toedeen
+Turn: Kd
+Checks: Bedeena
+Checks: Toedeen
+River: 7h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 6s Qd
+Combination: Toedeen, High Card ( Ad Kd Qd 7h 6s )
+Shows: Bedeena, 8h 8d
+Combination: Bedeena, Pair ( 8h 8d Ad Kd 7h )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Qc Ts Qh
+Checks: Bedeena
+Checks: Toedeen
+Turn: 2h
+Checks: Bedeena
+Checks: Toedeen
+River: 4d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 9s 6h
+Combination: Toedeen, Pair ( Qc Qh Ts 9s 6h )
+Shows: Bedeena, 6d 3d
+Combination: Bedeena, Pair ( Qc Qh Ts 6d 4d )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 2h Ks Jh
+Checks: Bedeena
+Checks: Toedeen
+Turn: 8d
+Checks: Bedeena
+Checks: Toedeen
+River: Jd
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Qd 9c
+Combination: Toedeen, Pair ( Jh Jd Ks Qd 9c )
+Shows: Bedeena, 2d Th
+Combination: Bedeena, Two Pair ( Jh Jd 2d 2h Ks )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Calls: Bedeena
+Flop: 4h 9s 9c
+Checks: Toedeen
+Checks: Bedeena
+Turn: 8s
+Checks: Toedeen
+Checks: Bedeena
+River: Kh
+Checks: Toedeen
+Checks: Bedeena
+Pot size: 800
+Showdown Reached
+Shows: Toedeen, Qh 4c
+Combination: Toedeen, Two Pair ( 9s 9c 4c 4h Kh )
+Shows: Bedeena, 2s 3c
+Combination: Bedeena, Pair ( 9s 9c Kh 8s 4h )
+Wins: Toedeen, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: As Kh Qc
+Checks: Bedeena
+Checks: Toedeen
+Turn: Jh
+Checks: Bedeena
+Checks: Toedeen
+River: Jc
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Qh Th
+Combination: Toedeen, Straight ( As Kh Qh Jh Th )
+Shows: Bedeena, 4d Ts
+Combination: Bedeena, Straight ( As Kh Qc Jh Ts )
+Wins: Toedeen, chips: 200
+Wins: Bedeena, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Calls: Bedeena
+Flop: 6s 3s 5h
+Checks: Toedeen
+Checks: Bedeena
+Turn: 3h
+Checks: Toedeen
+Checks: Bedeena
+River: 7s
+Checks: Toedeen
+Checks: Bedeena
+Pot size: 800
+Showdown Reached
+Shows: Toedeen, Ad 9d
+Combination: Toedeen, Pair ( 3s 3h Ad 9d 7s )
+Shows: Bedeena, 2d 8s
+Combination: Bedeena, Pair ( 3s 3h 8s 7s 6s )
+Wins: Toedeen, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 9c 2h 4d
+Checks: Bedeena
+Checks: Toedeen
+Turn: 3h
+Checks: Bedeena
+Checks: Toedeen
+River: 9d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 7c Qs
+Combination: Toedeen, Pair ( 9c 9d Qs 7c 4d )
+Shows: Bedeena, Qh 4c
+Combination: Bedeena, Two Pair ( 9c 9d 4c 4d Qh )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Ks 4d 5c
+Checks: Bedeena
+Checks: Toedeen
+Turn: 5h
+Checks: Bedeena
+Checks: Toedeen
+River: Qd
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 2s Ts
+Combination: Toedeen, Pair ( 5c 5h Ks Qd Ts )
+Shows: Bedeena, 9c 7c
+Combination: Bedeena, Pair ( 5c 5h Ks Qd 9c )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Qc Kd 4s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 2d
+Checks: Bedeena
+Checks: Toedeen
+River: Ad
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 5d 7c
+Combination: Toedeen, High Card ( Ad Kd Qc 7c 5d )
+Shows: Bedeena, 8c 2h
+Combination: Bedeena, Pair ( 2h 2d Ad Kd Qc )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 9d 6d Qd
+Checks: Bedeena
+Checks: Toedeen
+Turn: 4h
+Checks: Bedeena
+Checks: Toedeen
+River: 7h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 7d Kd
+Combination: Toedeen, Flush ( Kd Qd 9d 7d 6d )
+Shows: Bedeena, 7c Jd
+Combination: Bedeena, Pair ( 7c 7h Qd Jd 9d )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 4d Js 6c
+Checks: Bedeena
+Checks: Toedeen
+Turn: Jh
+Checks: Bedeena
+Checks: Toedeen
+River: Jc
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Td 8c
+Combination: Toedeen, Three Of A Kind ( Js Jh Jc Td 8c )
+Shows: Bedeena, Ks Qh
+Combination: Bedeena, Three Of A Kind ( Js Jh Jc Ks Qh )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 8h 7d 7h
+Checks: Bedeena
+Checks: Toedeen
+Turn: Qh
+Checks: Bedeena
+Checks: Toedeen
+River: 4s
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 4h Kc
+Combination: Toedeen, Two Pair ( 7d 7h 4h 4s Kc )
+Shows: Bedeena, 5c 5s
+Combination: Bedeena, Two Pair ( 7d 7h 5c 5s Qh )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 8c Kd 3s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 7h
+Checks: Bedeena
+Checks: Toedeen
+River: 4d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Ad Qd
+Combination: Toedeen, High Card ( Ad Kd Qd 8c 7h )
+Shows: Bedeena, 9s 5s
+Combination: Bedeena, High Card ( Kd 9s 8c 7h 5s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Ad 9d 6d
+Checks: Bedeena
+Checks: Toedeen
+Turn: 9h
+Checks: Bedeena
+Checks: Toedeen
+River: 9c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 7h Kd
+Combination: Toedeen, Three Of A Kind ( 9d 9h 9c Ad Kd )
+Shows: Bedeena, Jc Td
+Combination: Bedeena, Three Of A Kind ( 9d 9h 9c Ad Jc )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 2s 8c 4s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 6d
+Checks: Bedeena
+Checks: Toedeen
+River: 4h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Jc 4c
+Combination: Toedeen, Three Of A Kind ( 4c 4s 4h Jc 8c )
+Shows: Bedeena, Td Qh
+Combination: Bedeena, Pair ( 4s 4h Qh Td 8c )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 6c Kd Ks
+Checks: Bedeena
+Checks: Toedeen
+Turn: Qd
+Checks: Bedeena
+Checks: Toedeen
+River: Ad
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 2c Kh
+Combination: Toedeen, Three Of A Kind ( Kh Kd Ks Ad Qd )
+Shows: Bedeena, 5c 8h
+Combination: Bedeena, Pair ( Kd Ks Ad Qd 8h )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Kd 6h 7h
+Checks: Bedeena
+Checks: Toedeen
+Turn: 3d
+Checks: Bedeena
+Checks: Toedeen
+River: 3c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Js Jc
+Combination: Toedeen, Two Pair ( Js Jc 3d 3c Kd )
+Shows: Bedeena, As 8c
+Combination: Bedeena, Pair ( 3d 3c As Kd 8c )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 9h Ts 7s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 3s
+Checks: Bedeena
+Checks: Toedeen
+River: Tc
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Th Ks
+Combination: Toedeen, Three Of A Kind ( Th Ts Tc Ks 9h )
+Shows: Bedeena, 2s 5c
+Combination: Bedeena, Pair ( Ts Tc 9h 7s 5c )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 4s 8c 6c
+Checks: Bedeena
+Checks: Toedeen
+Turn: 8d
+Checks: Bedeena
+Checks: Toedeen
+River: 3h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 4d 7h
+Combination: Toedeen, Two Pair ( 8c 8d 4d 4s 7h )
+Shows: Bedeena, Jh 2d
+Combination: Bedeena, Pair ( 8c 8d Jh 6c 4s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 7c Qs Qc
+Checks: Bedeena
+Checks: Toedeen
+Turn: 2d
+Checks: Bedeena
+Checks: Toedeen
+River: 9d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 7d Kd
+Combination: Toedeen, Two Pair ( Qs Qc 7d 7c Kd )
+Shows: Bedeena, 7s 6c
+Combination: Bedeena, Two Pair ( Qs Qc 7s 7c 9d )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 8h 9s Ks
+Checks: Bedeena
+Checks: Toedeen
+Turn: Kc
+Checks: Bedeena
+Checks: Toedeen
+River: 2c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Td 2s
+Combination: Toedeen, Two Pair ( Ks Kc 2s 2c Td )
+Shows: Bedeena, Th Js
+Combination: Bedeena, Pair ( Ks Kc Js Th 9s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 4h Ac Jc
+Checks: Bedeena
+Checks: Toedeen
+Turn: 9h
+Checks: Bedeena
+Checks: Toedeen
+River: As
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Ts 9c
+Combination: Toedeen, Two Pair ( Ac As 9c 9h Jc )
+Shows: Bedeena, 5s Tc
+Combination: Bedeena, Pair ( Ac As Jc Tc 9h )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Calls: Bedeena
+Flop: 3s Kc Ad
+Checks: Toedeen
+Checks: Bedeena
+Turn: Kh
+Checks: Toedeen
+Checks: Bedeena
+River: 4s
+Checks: Toedeen
+Checks: Bedeena
+Pot size: 800
+Showdown Reached
+Shows: Toedeen, 5s 2c
+Combination: Toedeen, Straight ( 5s 4s 3s 2c Ad )
+Shows: Bedeena, Ks 2d
+Combination: Bedeena, Three Of A Kind ( Ks Kc Kh Ad 4s )
+Wins: Toedeen, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Qd As 5h
+Checks: Bedeena
+Checks: Toedeen
+Turn: Qs
+Checks: Bedeena
+Checks: Toedeen
+River: 9h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Ah Jd
+Combination: Toedeen, Two Pair ( Ah As Qd Qs Jd )
+Shows: Bedeena, 7c 9s
+Combination: Bedeena, Two Pair ( Qd Qs 9s 9h As )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 6s Kh Th
+Checks: Bedeena
+Checks: Toedeen
+Turn: 2s
+Checks: Bedeena
+Checks: Toedeen
+River: 8c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 9h 3s
+Combination: Toedeen, High Card ( Kh Th 9h 8c 6s )
+Shows: Bedeena, 7d 6d
+Combination: Bedeena, Pair ( 6d 6s Kh Th 8c )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 6c 8c Qs
+Checks: Bedeena
+Checks: Toedeen
+Turn: Ah
+Checks: Bedeena
+Checks: Toedeen
+River: 4s
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Qc 2d
+Combination: Toedeen, Pair ( Qc Qs Ah 8c 6c )
+Shows: Bedeena, 4c 3d
+Combination: Bedeena, Pair ( 4c 4s Ah Qs 8c )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 3s 4d Td
+Checks: Bedeena
+Checks: Toedeen
+Turn: 4h
+Checks: Bedeena
+Checks: Toedeen
+River: Jh
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 7c 6h
+Combination: Toedeen, Pair ( 4d 4h Jh Td 7c )
+Shows: Bedeena, 4c 2c
+Combination: Bedeena, Three Of A Kind ( 4c 4d 4h Jh Td )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 9h Kc Ks
+Checks: Bedeena
+Checks: Toedeen
+Turn: 2s
+Checks: Bedeena
+Checks: Toedeen
+River: Kh
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Ts Ad
+Combination: Toedeen, Three Of A Kind ( Kc Ks Kh Ad Ts )
+Shows: Bedeena, 6c Jd
+Combination: Bedeena, Three Of A Kind ( Kc Ks Kh Jd 9h )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Ad 4c 7h
+Checks: Bedeena
+Checks: Toedeen
+Turn: 5s
+Checks: Bedeena
+Checks: Toedeen
+River: 7d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Kc 7c
+Combination: Toedeen, Three Of A Kind ( 7c 7h 7d Ad Kc )
+Shows: Bedeena, Ts 3c
+Combination: Bedeena, Pair ( 7h 7d Ad Ts 5s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Flop: 8h 6h 7c
+Turn: 9c
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Toedeen, Jh 9s
+Combination: Toedeen, Straight ( 9s 8h 7c 6h 5c )
+Shows: Bedeena, 6d Ah
+Combination: Bedeena, Straight ( 9c 8h 7c 6d 5c )
+Wins: Toedeen, chips: 100
+Wins: Bedeena, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Flop: 6h Tc 6s
+Turn: 4h
+River: 5d
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, Js 7h
+Combination: Toedeen, Pair ( 6h 6s Js Tc 7h )
+Shows: Bedeena, 3h Ah
+Combination: Bedeena, Pair ( 6h 6s Ah Tc 5d )
+Wins: Toedeen, chips: 200
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Ah 8d 4d
+Checks: Bedeena
+Checks: Toedeen
+Turn: 3c
+Checks: Bedeena
+Checks: Toedeen
+River: 4h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Ks 2c
+Combination: Toedeen, Pair ( 4d 4h Ah Ks 8d )
+Shows: Bedeena, Jc 8s
+Combination: Bedeena, Two Pair ( 8s 8d 4d 4h Ah )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 7d 4d Jh
+Checks: Bedeena
+Checks: Toedeen
+Turn: Kh
+Checks: Bedeena
+Checks: Toedeen
+River: Ah
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Qc Js
+Combination: Toedeen, Pair ( Js Jh Ah Kh Qc )
+Shows: Bedeena, Jc 7c
+Combination: Bedeena, Two Pair ( Jc Jh 7c 7d Ah )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 4s 7h 8h
+Checks: Bedeena
+Checks: Toedeen
+Turn: Qd
+Checks: Bedeena
+Checks: Toedeen
+River: Jd
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 5s Jc
+Combination: Toedeen, Pair ( Jc Jd Qd 8h 7h )
+Shows: Bedeena, 9s 5h
+Combination: Bedeena, High Card ( Qd Jd 9s 8h 7h )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 300
+Folds: Toedeen
+Pot size: 700
+Wins: Bedeena, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Jd Ac Ks
+Checks: Bedeena
+Checks: Toedeen
+Turn: 6s
+Checks: Bedeena
+Checks: Toedeen
+River: 2h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 6h 8d
+Combination: Toedeen, Pair ( 6h 6s Ac Ks Jd )
+Shows: Bedeena, 4h Tc
+Combination: Bedeena, High Card ( Ac Ks Jd Tc 6s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 8d 6c Jd
+Checks: Bedeena
+Checks: Toedeen
+Turn: 9d
+Checks: Bedeena
+Checks: Toedeen
+River: 5s
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 8c 3s
+Combination: Toedeen, Pair ( 8c 8d Jd 9d 6c )
+Shows: Bedeena, 5d Qs
+Combination: Bedeena, Pair ( 5d 5s Qs Jd 9d )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 5c Td Kd
+Checks: Bedeena
+Checks: Toedeen
+Turn: 6c
+Checks: Bedeena
+Checks: Toedeen
+River: 8c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 9s 6h
+Combination: Toedeen, Pair ( 6h 6c Kd Td 9s )
+Shows: Bedeena, 8d 2d
+Combination: Bedeena, Pair ( 8d 8c Kd Td 6c )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 5c 7h Qc
+Checks: Bedeena
+Checks: Toedeen
+Turn: 3c
+Checks: Bedeena
+Checks: Toedeen
+River: 5s
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 6s 7d
+Combination: Toedeen, Two Pair ( 7d 7h 5c 5s Qc )
+Shows: Bedeena, 2c 7s
+Combination: Bedeena, Two Pair ( 7s 7h 5c 5s Qc )
+Wins: Toedeen, chips: 200
+Wins: Bedeena, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Calls: Bedeena
+Flop: 3h 2c Qh
+Checks: Toedeen
+Checks: Bedeena
+Turn: 6c
+Checks: Toedeen
+Checks: Bedeena
+River: 5d
+Checks: Toedeen
+Checks: Bedeena
+Pot size: 800
+Showdown Reached
+Shows: Toedeen, Th 2h
+Combination: Toedeen, Pair ( 2h 2c Qh Th 6c )
+Shows: Bedeena, As Tc
+Combination: Bedeena, High Card ( As Qh Tc 6c 5d )
+Wins: Toedeen, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Flop: Th 3d 3c
+Turn: 8h
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Toedeen, 6h Js
+Combination: Toedeen, Pair ( 3d 3c Js Th 9c )
+Shows: Bedeena, Qc Kh
+Combination: Bedeena, Pair ( 3d 3c Kh Qc Th )
+Wins: Bedeena, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Flop: 2h 2c 2d
+Turn: 4h
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Toedeen, Qd 9h
+Combination: Toedeen, Full House ( 2h 2c 2d Qd Qc )
+Shows: Bedeena, 7d 3d
+Combination: Bedeena, Three Of A Kind ( 2h 2c 2d Qc 7d )
+Wins: Toedeen, chips: 200
+Wins: Bedeena, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Flop: 3c 5h 6d
+Turn: Kd
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Toedeen, As Ad
+Combination: Toedeen, Pair ( As Ad Kd Js 6d )
+Shows: Bedeena, 8d 8s
+Combination: Bedeena, Pair ( 8d 8s Kd Js 6d )
+Wins: Toedeen, chips: 300
+Quits: Bedeena, chips: 0
+Ranking: Toedeen, Place: 1, Score: 6000
+Reveal AI: Toedeen, AI: AIMyBot1
+Ranking: Bedeena, Place: 2, Score: -1000
+Reveal AI: Bedeena, AI: AIMyBot5
+Ranking: Goewroe, Place: 3, Score: -1000
+Reveal AI: Goewroe, AI: AIMyBot3
+Ranking: Kevoetu, Place: 4, Score: -1000
+Reveal AI: Kevoetu, AI: AIMyBot7
+Ranking: Je, Place: 5, Score: -1000
+Reveal AI: Je, AI: AIMyBot6
+Ranking: Jerunhu, Place: 6, Score: -1000
+Reveal AI: Jerunhu, AI: AIMyBot2
+Ranking: Sedeet, Place: 7, Score: -1000
+Reveal AI: Sedeet, AI: AIMyBot4
+
+Player Stats for Bedeena, AI: AIMyBot5
+General: deals: 182, actions: 433, preflop actions: 204
+Rounds Seen: flops: 83, turns: 83, rivers: 83, showdowns: 83
+Wins: total: 72, showdown: 36, bluff: 36
+Chips: won: 43645, lost: 44645, bought: 1000, forced bets: 24200
+Pre-Flop Stats: VP$IP: 0.362637, PFR: 0.203297, 3Bet: 0.142857
+Post-Flop Stats: AF: 0, WSD: 1, WSDW: 0.433735
+
+
+Player Stats for Goewroe, AI: AIMyBot3
+General: deals: 35, actions: 44, preflop actions: 38
+Rounds Seen: flops: 80, turns: 75, rivers: 75, showdowns: 75
+Wins: total: 6, showdown: 3, bluff: 3
+Chips: won: 4917, lost: 6630, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.342857, PFR: 0.171429, 3Bet: 0.0857143
+Post-Flop Stats: AF: 1.#INF, WSD: 0.9375, WSDW: 0.04
+
+
+Player Stats for Je, AI: AIMyBot6
+General: deals: 18, actions: 17, preflop actions: 17
+Rounds Seen: flops: 81, turns: 81, rivers: 81, showdowns: 81
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Jerunhu, AI: AIMyBot2
+General: deals: 14, actions: 14, preflop actions: 14
+Rounds Seen: flops: 84, turns: 84, rivers: 84, showdowns: 84
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.0714286, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Kevoetu, AI: AIMyBot7
+General: deals: 30, actions: 40, preflop actions: 31
+Rounds Seen: flops: 80, turns: 80, rivers: 80, showdowns: 79
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.133333, PFR: 0.0333333, 3Bet: 0.0333333
+Post-Flop Stats: AF: 1.#INF, WSD: 0.9875, WSDW: 0.0126582
+
+
+Player Stats for Sedeet, AI: AIMyBot4
+General: deals: 5, actions: 15, preflop actions: 6
+Rounds Seen: flops: 90, turns: 90, rivers: 90, showdowns: 89
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 300
+Pre-Flop Stats: VP$IP: 0.8, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.988889, WSDW: 0
+
+
+Player Stats for Toedeen, AI: AIMyBot1
+General: deals: 182, actions: 405, preflop actions: 167
+Rounds Seen: flops: 87, turns: 86, rivers: 86, showdowns: 85
+Wins: total: 110, showdown: 57, bluff: 53
+Chips: won: 47600, lost: 41600, bought: 1000, forced bets: 24200
+Pre-Flop Stats: VP$IP: 0.686813, PFR: 0.153846, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.977011, WSDW: 0.670588
+
+
+Date: 2018/06/11 13:41:46
+
+The game begins. The AI's of the players are: 
+Toedeen: AIMyBot1
+Sedeet: AIMyBot4
+Goewroe: AIMyBot3
+Bedeena: AIMyBot5
+Kevoetu: AIMyBot7
+Jerunhu: AIMyBot2
+Je: AIMyBot6
+
+Joins: Toedeen, chips: 1000
+Joins: Sedeet, chips: 1000
+Joins: Goewroe, chips: 1000
+Joins: Bedeena, chips: 1000
+Joins: Kevoetu, chips: 1000
+Joins: Jerunhu, chips: 1000
+Joins: Je, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Kevoetu, chips: 100
+Big Blind: Jerunhu, chips: 200
+Folds: Je
+Calls: Toedeen
+Calls: Sedeet
+Folds: Goewroe
+Folds: Bedeena
+Folds: Kevoetu
+DEBUG MESSAGE: INVALID ACTION FROM Jerunhu (2 0)
+Folds: Jerunhu
+Flop: Tc 5h Jd
+Checks: Toedeen
+Checks: Sedeet
+Turn: 9d
+Checks: Toedeen
+Checks: Sedeet
+River: 2s
+Checks: Toedeen
+Checks: Sedeet
+Pot size: 700
+Showdown Reached
+Shows: Toedeen, Kd Ks
+Combination: Toedeen, Pair ( Kd Ks Jd Tc 9d )
+Shows: Sedeet, 3h 4h
+Combination: Sedeet, High Card ( Jd Tc 9d 5h 4h )
+Wins: Toedeen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kevoetu
+Small Blind: Jerunhu, chips: 100
+Big Blind: Je, chips: 200
+Calls: Toedeen
+Calls: Sedeet
+Folds: Goewroe
+Calls: Bedeena
+Folds: Kevoetu
+Folds: Jerunhu
+DEBUG MESSAGE: INVALID ACTION FROM Je (2 0)
+Folds: Je
+Flop: Jh Kc Ah
+Checks: Toedeen
+Checks: Sedeet
+Checks: Bedeena
+Turn: 6h
+Checks: Toedeen
+Checks: Sedeet
+Checks: Bedeena
+River: 8s
+Checks: Toedeen
+Checks: Sedeet
+Checks: Bedeena
+Pot size: 900
+Showdown Reached
+Shows: Toedeen, 6d Ts
+Combination: Toedeen, Pair ( 6d 6h Ah Kc Jh )
+Shows: Sedeet, 9d Th
+Combination: Sedeet, High Card ( Ah Kc Jh Th 9d )
+Shows: Bedeena, 4d Qd
+Combination: Bedeena, High Card ( Ah Kc Qd Jh 8s )
+Wins: Toedeen, chips: 900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerunhu
+Small Blind: Je, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Sedeet
+Folds: Goewroe
+Folds: Bedeena
+Folds: Kevoetu
+Folds: Jerunhu
+Folds: Je
+Raises: Toedeen, chips: 200
+Folds: Sedeet
+Pot size: 700
+Wins: Toedeen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Toedeen, chips: 100
+Big Blind: Sedeet, chips: 200
+Folds: Goewroe
+Calls: Bedeena
+Folds: Kevoetu
+Folds: Jerunhu
+Folds: Je
+Calls: Toedeen
+Checks: Sedeet
+Flop: 3h Ah 5h
+Checks: Toedeen
+Checks: Sedeet
+Checks: Bedeena
+Turn: Qs
+Checks: Toedeen
+Checks: Sedeet
+Checks: Bedeena
+River: 8s
+Checks: Toedeen
+Checks: Sedeet
+Checks: Bedeena
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, Kh Qc
+Combination: Toedeen, Pair ( Qc Qs Ah Kh 8s )
+Shows: Sedeet, 4c 9s
+Combination: Sedeet, High Card ( Ah Qs 9s 8s 5h )
+Shows: Bedeena, 9c 7s
+Combination: Bedeena, High Card ( Ah Qs 9c 8s 7s )
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Sedeet, chips: 100
+Big Blind: Goewroe, chips: 200
+Folds: Bedeena
+Folds: Kevoetu
+Folds: Jerunhu
+Folds: Je
+Calls: Toedeen
+Calls: Sedeet
+Raises: Goewroe, chips: 207
+Folds: Toedeen
+Flop: Ad Qs 3d
+Turn: 5d
+River: Jh
+Pot size: 807
+Showdown Reached
+Shows: Sedeet, 8s 9h
+Combination: Sedeet, High Card ( Ad Qs Jh 9h 8s )
+Shows: Goewroe, Js 9s
+Combination: Goewroe, Pair ( Js Jh Ad Qs 9s )
+Wins: Goewroe, chips: 807
+Quits: Sedeet, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroe
+Small Blind: Bedeena, chips: 100
+Big Blind: Kevoetu, chips: 200
+Folds: Jerunhu
+Folds: Je
+Calls: Toedeen
+Folds: Goewroe
+Folds: Bedeena
+Checks: Kevoetu
+Flop: 3d Ks 7h
+Checks: Kevoetu
+Checks: Toedeen
+Turn: 6c
+Checks: Kevoetu
+Checks: Toedeen
+River: 7s
+Raises: Kevoetu, chips: 400
+Folds: Toedeen
+Pot size: 900
+Wins: Kevoetu, chips: 900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Kevoetu, chips: 100
+Big Blind: Jerunhu, chips: 200
+Folds: Je
+Calls: Toedeen
+Folds: Goewroe
+Folds: Bedeena
+Folds: Kevoetu
+DEBUG MESSAGE: INVALID ACTION FROM Jerunhu (2 0)
+Folds: Jerunhu
+Pot size: 500
+Wins: Toedeen, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kevoetu
+Small Blind: Jerunhu, chips: 100
+Big Blind: Je, chips: 200
+Calls: Toedeen
+Folds: Goewroe
+Raises: Bedeena, chips: 300
+Folds: Kevoetu
+Folds: Jerunhu
+Folds: Je
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerunhu
+Small Blind: Je, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Goewroe
+Calls: Bedeena
+Folds: Kevoetu
+Folds: Jerunhu
+Folds: Je
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 700
+Wins: Toedeen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Toedeen, chips: 100
+Big Blind: Goewroe, chips: 200
+Folds: Bedeena
+Folds: Kevoetu
+Folds: Jerunhu
+Folds: Je
+Calls: Toedeen
+DEBUG MESSAGE: INVALID ACTION FROM Goewroe (2 0)
+Folds: Goewroe
+Pot size: 400
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Goewroe, chips: 100
+Big Blind: Bedeena, chips: 200
+Folds: Kevoetu
+Folds: Jerunhu
+Folds: Je
+Calls: Toedeen
+Calls: Goewroe
+Checks: Bedeena
+Flop: 9d 4c 4d
+DEBUG MESSAGE: INVALID ACTION FROM Goewroe (2 0)
+Folds: Goewroe
+Checks: Bedeena
+Checks: Toedeen
+Turn: 7d
+Checks: Bedeena
+Checks: Toedeen
+River: 8s
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, 2h Td
+Combination: Toedeen, Pair ( 4c 4d Td 9d 8s )
+Shows: Bedeena, Qc 9c
+Combination: Bedeena, Two Pair ( 9c 9d 4c 4d Qc )
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroe
+Small Blind: Bedeena, chips: 100
+Big Blind: Kevoetu, chips: 200
+Folds: Jerunhu
+Folds: Je
+Calls: Toedeen
+Folds: Goewroe
+Raises: Bedeena, chips: 200
+Folds: Kevoetu
+Folds: Toedeen
+Pot size: 800
+Wins: Bedeena, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Kevoetu, chips: 100
+Big Blind: Jerunhu, chips: 200
+Folds: Je
+Calls: Toedeen
+Folds: Goewroe
+Folds: Bedeena
+Folds: Kevoetu
+DEBUG MESSAGE: INVALID ACTION FROM Jerunhu (2 0)
+Folds: Jerunhu
+Pot size: 500
+Wins: Toedeen, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kevoetu
+Small Blind: Jerunhu, chips: 100
+Big Blind: Je, chips: 200
+Calls: Toedeen
+Folds: Goewroe
+Calls: Bedeena
+Calls: Kevoetu
+Calls: Jerunhu
+DEBUG MESSAGE: INVALID ACTION FROM Je (2 0)
+Folds: Je
+Flop: 9s 3d Qh
+Checks: Toedeen
+Checks: Bedeena
+Checks: Kevoetu
+Turn: 8d
+Checks: Toedeen
+Checks: Bedeena
+Checks: Kevoetu
+River: 7h
+Checks: Toedeen
+Checks: Bedeena
+Checks: Kevoetu
+Pot size: 1000
+Showdown Reached
+Shows: Toedeen, Qc 5c
+Combination: Toedeen, Pair ( Qc Qh 9s 8d 7h )
+Shows: Bedeena, 9h 6s
+Combination: Bedeena, Pair ( 9h 9s Qh 8d 7h )
+Shows: Kevoetu, Td As
+Combination: Kevoetu, High Card ( As Qh Td 9s 8d )
+Shows: Jerunhu, 7s 6h
+Combination: Jerunhu, Pair ( 7s 7h Qh 9s 8d )
+Wins: Toedeen, chips: 1000
+Quits: Jerunhu, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Toedeen, chips: 100
+Big Blind: Goewroe, chips: 200
+Calls: Bedeena
+Raises: Kevoetu, chips: 400
+Folds: Je
+Folds: Toedeen
+Raises: Goewroe, chips: 400
+Folds: Bedeena
+Flop: Ks 4s 5h
+Turn: 2h
+River: 7h
+Pot size: 1900
+Showdown Reached
+Shows: Goewroe, 9s Jh
+Combination: Goewroe, High Card ( Ks Jh 9s 7h 5h )
+Shows: Kevoetu, Qd Qc
+Combination: Kevoetu, Pair ( Qd Qc Ks 7h 5h )
+Wins: Goewroe, chips: 400
+Wins: Kevoetu, chips: 1500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Goewroe, chips: 100
+Big Blind: Bedeena, chips: 200
+Folds: Kevoetu
+Folds: Je
+Calls: Toedeen
+Calls: Goewroe
+Checks: Bedeena
+Flop: 7c Jd 8s
+Raises: Goewroe, chips: 200
+Calls: Bedeena
+Folds: Toedeen
+Turn: 9h
+River: 9d
+Pot size: 1000
+Showdown Reached
+Shows: Goewroe, As Ts
+Combination: Goewroe, Straight ( Jd Ts 9h 8s 7c )
+Shows: Bedeena, 7d 4h
+Combination: Bedeena, Two Pair ( 9h 9d 7d 7c Jd )
+Wins: Goewroe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroe
+Small Blind: Bedeena, chips: 100
+Big Blind: Kevoetu, chips: 200
+Folds: Je
+Calls: Toedeen
+Folds: Goewroe
+Raises: Bedeena, chips: 200
+Folds: Kevoetu
+Folds: Toedeen
+Pot size: 800
+Wins: Bedeena, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Kevoetu, chips: 100
+Big Blind: Je, chips: 200
+Calls: Toedeen
+Folds: Goewroe
+Folds: Bedeena
+Folds: Kevoetu
+Flop: Ts Qd 8c
+Turn: Qc
+River: 8s
+Pot size: 500
+Showdown Reached
+Shows: Toedeen, As 8d
+Combination: Toedeen, Full House ( 8d 8c 8s Qd Qc )
+Shows: Je, 6c Ah
+Combination: Je, Two Pair ( Qd Qc 8c 8s Ah )
+Wins: Toedeen, chips: 500
+Quits: Je, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kevoetu
+Small Blind: Toedeen, chips: 100
+Big Blind: Goewroe, chips: 200
+Folds: Bedeena
+Folds: Kevoetu
+Calls: Toedeen
+Raises: Goewroe, chips: 207
+Folds: Toedeen
+Pot size: 607
+Wins: Goewroe, chips: 607
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Goewroe, chips: 100
+Big Blind: Bedeena, chips: 200
+Folds: Kevoetu
+Calls: Toedeen
+Calls: Goewroe
+Checks: Bedeena
+Flop: 4h 5d Ah
+DEBUG MESSAGE: INVALID ACTION FROM Goewroe (2 0)
+Folds: Goewroe
+Checks: Bedeena
+Checks: Toedeen
+Turn: 4s
+Checks: Bedeena
+Checks: Toedeen
+River: 9h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, Qd Qs
+Combination: Toedeen, Two Pair ( Qd Qs 4h 4s Ah )
+Shows: Bedeena, 5s 3h
+Combination: Bedeena, Two Pair ( 5s 5d 4h 4s Ah )
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroe
+Small Blind: Bedeena, chips: 100
+Big Blind: Kevoetu, chips: 200
+Calls: Toedeen
+Folds: Goewroe
+Folds: Bedeena
+Checks: Kevoetu
+Flop: 2d 6c 8c
+Checks: Kevoetu
+Checks: Toedeen
+Turn: Qd
+Checks: Kevoetu
+Checks: Toedeen
+River: Kd
+Checks: Kevoetu
+Checks: Toedeen
+Pot size: 500
+Showdown Reached
+Shows: Toedeen, 3s 3c
+Combination: Toedeen, Pair ( 3s 3c Kd Qd 8c )
+Shows: Kevoetu, 3h 5h
+Combination: Kevoetu, High Card ( Kd Qd 8c 6c 5h )
+Wins: Toedeen, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Kevoetu, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Goewroe
+Folds: Bedeena
+Folds: Kevoetu
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kevoetu
+Small Blind: Toedeen, chips: 100
+Big Blind: Goewroe, chips: 200
+Folds: Bedeena
+Folds: Kevoetu
+Calls: Toedeen
+DEBUG MESSAGE: INVALID ACTION FROM Goewroe (2 0)
+Folds: Goewroe
+Pot size: 400
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Goewroe, chips: 100
+Big Blind: Bedeena, chips: 200
+Folds: Kevoetu
+Calls: Toedeen
+Calls: Goewroe
+Checks: Bedeena
+Flop: Jd Qc 3d
+DEBUG MESSAGE: INVALID ACTION FROM Goewroe (2 0)
+Folds: Goewroe
+Checks: Bedeena
+Checks: Toedeen
+Turn: 2c
+Checks: Bedeena
+Checks: Toedeen
+River: 9h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, Kh 8d
+Combination: Toedeen, High Card ( Kh Qc Jd 9h 8d )
+Shows: Bedeena, 2s 3c
+Combination: Bedeena, Two Pair ( 3c 3d 2s 2c Qc )
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroe
+Small Blind: Bedeena, chips: 100
+Big Blind: Kevoetu, chips: 200
+Calls: Toedeen
+Folds: Goewroe
+Raises: Bedeena, chips: 200
+Folds: Kevoetu
+Folds: Toedeen
+Pot size: 800
+Wins: Bedeena, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Kevoetu, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Goewroe
+Calls: Bedeena
+Folds: Kevoetu
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 700
+Wins: Toedeen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kevoetu
+Small Blind: Toedeen, chips: 100
+Big Blind: Goewroe, chips: 200
+Folds: Bedeena
+Calls: Kevoetu
+Calls: Toedeen
+Raises: Goewroe, chips: 303
+Folds: Kevoetu
+Folds: Toedeen
+Pot size: 903
+Wins: Goewroe, chips: 903
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Goewroe, chips: 100
+Big Blind: Bedeena, chips: 200
+Folds: Kevoetu
+Calls: Toedeen
+Calls: Goewroe
+Checks: Bedeena
+Flop: Jc Ah 6h
+DEBUG MESSAGE: INVALID ACTION FROM Goewroe (2 0)
+Folds: Goewroe
+Checks: Bedeena
+Checks: Toedeen
+Turn: 4h
+Checks: Bedeena
+Checks: Toedeen
+River: 2h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, Td 3h
+Combination: Toedeen, Flush ( Ah 6h 4h 3h 2h )
+Shows: Bedeena, Ks 8h
+Combination: Bedeena, Flush ( Ah 8h 6h 4h 2h )
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroe
+Small Blind: Bedeena, chips: 100
+Big Blind: Kevoetu, chips: 200
+Calls: Toedeen
+Folds: Goewroe
+Raises: Bedeena, chips: 200
+Folds: Kevoetu
+Folds: Toedeen
+Pot size: 800
+Wins: Bedeena, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Kevoetu, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Goewroe
+Folds: Bedeena
+Calls: Kevoetu
+Raises: Toedeen, chips: 200
+Flop: 9h Th Qc
+Turn: 6h
+River: Qd
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, Kh Td
+Combination: Toedeen, Two Pair ( Qc Qd Td Th Kh )
+Shows: Kevoetu, Kd As
+Combination: Kevoetu, Pair ( Qc Qd As Kd Th )
+Wins: Toedeen, chips: 600
+Quits: Kevoetu, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Goewroe, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Folds: Goewroe
+Checks: Bedeena
+Flop: Tc 3h 5d
+Checks: Bedeena
+Checks: Toedeen
+Turn: 9s
+Checks: Bedeena
+Checks: Toedeen
+River: 6s
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 500
+Showdown Reached
+Shows: Toedeen, Js Th
+Combination: Toedeen, Pair ( Th Tc Js 9s 6s )
+Shows: Bedeena, 5c Ac
+Combination: Bedeena, Pair ( 5c 5d Ac Tc 9s )
+Wins: Toedeen, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroe
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Goewroe
+Folds: Bedeena
+Raises: Toedeen, chips: 200
+Raises: Goewroe, chips: 300
+Folds: Toedeen
+Pot size: 1200
+Wins: Goewroe, chips: 1200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Toedeen, chips: 100
+Big Blind: Goewroe, chips: 200
+Calls: Bedeena
+Calls: Toedeen
+DEBUG MESSAGE: INVALID ACTION FROM Goewroe (2 0)
+Folds: Goewroe
+Flop: 2c 7c 3d
+Checks: Toedeen
+Checks: Bedeena
+Turn: 5d
+Checks: Toedeen
+Checks: Bedeena
+River: Ac
+Checks: Toedeen
+Checks: Bedeena
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, Jd 3h
+Combination: Toedeen, Pair ( 3h 3d Ac Jd 7c )
+Shows: Bedeena, 8s 6d
+Combination: Bedeena, High Card ( Ac 8s 7c 6d 5d )
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Goewroe, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Calls: Goewroe
+Checks: Bedeena
+Flop: 6h Qh 4s
+DEBUG MESSAGE: INVALID ACTION FROM Goewroe (2 0)
+Folds: Goewroe
+Checks: Bedeena
+Checks: Toedeen
+Turn: 2d
+Checks: Bedeena
+Checks: Toedeen
+River: Jc
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, 5d 8h
+Combination: Toedeen, High Card ( Qh Jc 8h 6h 5d )
+Shows: Bedeena, 7c 8d
+Combination: Bedeena, High Card ( Qh Jc 8d 7c 6h )
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroe
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Goewroe
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Raises: Goewroe, chips: 371
+Raises: Bedeena, chips: 742
+Calls: Goewroe
+Flop: 8c 5c Qs
+Turn: Tc
+River: 8s
+Pot size: 2513
+Showdown Reached
+Shows: Goewroe, 6s 3h
+Combination: Goewroe, Pair ( 8c 8s Qs Tc 6s )
+Shows: Bedeena, Jc Ks
+Combination: Bedeena, Pair ( 8c 8s Ks Qs Jc )
+Wins: Bedeena, chips: 2513
+Quits: Goewroe, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Calls: Bedeena
+Flop: 2c As 8d
+Checks: Toedeen
+Checks: Bedeena
+Turn: 5c
+Checks: Toedeen
+Checks: Bedeena
+River: 2s
+Checks: Toedeen
+Checks: Bedeena
+Pot size: 800
+Showdown Reached
+Shows: Toedeen, Td Kd
+Combination: Toedeen, Pair ( 2c 2s As Kd Td )
+Shows: Bedeena, 5h Ac
+Combination: Bedeena, Two Pair ( Ac As 5h 5c 8d )
+Wins: Bedeena, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 8s Ac Qh
+Checks: Bedeena
+Checks: Toedeen
+Turn: Jd
+Checks: Bedeena
+Checks: Toedeen
+River: As
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Qc Ad
+Combination: Toedeen, Full House ( Ad Ac As Qc Qh )
+Shows: Bedeena, 3h 6s
+Combination: Bedeena, Pair ( Ac As Qh Jd 8s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 8d 3c 5h
+Checks: Bedeena
+Checks: Toedeen
+Turn: 4c
+Checks: Bedeena
+Checks: Toedeen
+River: 8h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Jc 5s
+Combination: Toedeen, Two Pair ( 8d 8h 5s 5h Jc )
+Shows: Bedeena, 9d Tc
+Combination: Bedeena, Pair ( 8d 8h Tc 9d 5h )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Ah 6c Js
+Checks: Bedeena
+Checks: Toedeen
+Turn: 5h
+Checks: Bedeena
+Checks: Toedeen
+River: 8h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Ad 4d
+Combination: Toedeen, Pair ( Ad Ah Js 8h 6c )
+Shows: Bedeena, 5s Qd
+Combination: Bedeena, Pair ( 5s 5h Ah Qd Js )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 2s 6s 7s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 5d
+Checks: Bedeena
+Checks: Toedeen
+River: Ad
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 2h 7d
+Combination: Toedeen, Two Pair ( 7d 7s 2h 2s Ad )
+Shows: Bedeena, Ts 9h
+Combination: Bedeena, High Card ( Ad Ts 9h 7s 6s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 5c Ks 9s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 3c
+Checks: Bedeena
+Checks: Toedeen
+River: Th
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Ac 7c
+Combination: Toedeen, High Card ( Ac Ks Th 9s 7c )
+Shows: Bedeena, Jc 4d
+Combination: Bedeena, High Card ( Ks Jc Th 9s 5c )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 9d Qs 5c
+Checks: Bedeena
+Checks: Toedeen
+Turn: 9h
+Checks: Bedeena
+Checks: Toedeen
+River: 9c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 4d 5h
+Combination: Toedeen, Full House ( 9d 9h 9c 5h 5c )
+Shows: Bedeena, 2h Jh
+Combination: Bedeena, Three Of A Kind ( 9d 9h 9c Qs Jh )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 6d 6c 5d
+Checks: Bedeena
+Checks: Toedeen
+Turn: 5s
+Checks: Bedeena
+Checks: Toedeen
+River: 8h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 9d Td
+Combination: Toedeen, Two Pair ( 6d 6c 5d 5s Td )
+Shows: Bedeena, 4c 4h
+Combination: Bedeena, Two Pair ( 6d 6c 5d 5s 8h )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 9d Kh Qh
+Checks: Bedeena
+Checks: Toedeen
+Turn: 9s
+Checks: Bedeena
+Checks: Toedeen
+River: Qd
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Ah Kc
+Combination: Toedeen, Two Pair ( Kc Kh Qh Qd Ah )
+Shows: Bedeena, Td Jd
+Combination: Bedeena, Straight ( Kh Qh Jd Td 9d )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 9c Kh Qh
+Checks: Bedeena
+Checks: Toedeen
+Turn: 8s
+Checks: Bedeena
+Checks: Toedeen
+River: Js
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 6d Ks
+Combination: Toedeen, Pair ( Ks Kh Qh Js 9c )
+Shows: Bedeena, 5s 4h
+Combination: Bedeena, High Card ( Kh Qh Js 9c 8s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Raises: Bedeena, chips: 232
+Folds: Toedeen
+Pot size: 1032
+Wins: Bedeena, chips: 1032
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 6d 5h Js
+Checks: Bedeena
+Checks: Toedeen
+Turn: 8h
+Checks: Bedeena
+Checks: Toedeen
+River: 3c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 4h 8c
+Combination: Toedeen, Pair ( 8c 8h Js 6d 5h )
+Shows: Bedeena, Jh 2s
+Combination: Bedeena, Pair ( Jh Js 8h 6d 5h )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Kc 7h As
+Checks: Bedeena
+Checks: Toedeen
+Turn: 7s
+Checks: Bedeena
+Checks: Toedeen
+River: 7d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Td Qs
+Combination: Toedeen, Three Of A Kind ( 7h 7s 7d As Kc )
+Shows: Bedeena, 2s 5c
+Combination: Bedeena, Three Of A Kind ( 7h 7s 7d As Kc )
+Wins: Toedeen, chips: 200
+Wins: Bedeena, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 8s 5c Td
+Checks: Bedeena
+Checks: Toedeen
+Turn: As
+Checks: Bedeena
+Checks: Toedeen
+River: 8d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 6s 3s
+Combination: Toedeen, Pair ( 8s 8d As Td 6s )
+Shows: Bedeena, Jh 9c
+Combination: Bedeena, Pair ( 8s 8d As Jh Td )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Jh 6s Jd
+Checks: Bedeena
+Checks: Toedeen
+Turn: 9s
+Checks: Bedeena
+Checks: Toedeen
+River: Ad
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 5c 4h
+Combination: Toedeen, Pair ( Jh Jd Ad 9s 6s )
+Shows: Bedeena, 8s Qs
+Combination: Bedeena, Pair ( Jh Jd Ad Qs 9s )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 9c As Qs
+Checks: Bedeena
+Checks: Toedeen
+Turn: 4h
+Checks: Bedeena
+Checks: Toedeen
+River: Ts
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 5d Qh
+Combination: Toedeen, Pair ( Qh Qs As Ts 9c )
+Shows: Bedeena, 4s 3d
+Combination: Bedeena, Pair ( 4s 4h As Qs Ts )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 5s 7c 9s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 2d
+Checks: Bedeena
+Checks: Toedeen
+River: 3h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 2c 8h
+Combination: Toedeen, Pair ( 2c 2d 9s 8h 7c )
+Shows: Bedeena, 2h Tc
+Combination: Bedeena, Pair ( 2h 2d Tc 9s 7c )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Qs Js 8s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 8c
+Checks: Bedeena
+Checks: Toedeen
+River: 5h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Kc Ah
+Combination: Toedeen, Pair ( 8s 8c Ah Kc Qs )
+Shows: Bedeena, 4h Jd
+Combination: Bedeena, Two Pair ( Jd Js 8s 8c Qs )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 3c 5d 5s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 4s
+Checks: Bedeena
+Checks: Toedeen
+River: As
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 7c 6c
+Combination: Toedeen, Straight ( 7c 6c 5d 4s 3c )
+Shows: Bedeena, 9c 8c
+Combination: Bedeena, Pair ( 5d 5s As 9c 8c )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Ks 9c 3s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 3d
+Checks: Bedeena
+Checks: Toedeen
+River: 6h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, As 5h
+Combination: Toedeen, Pair ( 3s 3d As Ks 9c )
+Shows: Bedeena, 4d Jh
+Combination: Bedeena, Pair ( 3s 3d Ks Jh 9c )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Calls: Bedeena
+Flop: 4s Jc Td
+Checks: Toedeen
+Checks: Bedeena
+Turn: 2c
+Checks: Toedeen
+Checks: Bedeena
+River: 9h
+Checks: Toedeen
+Checks: Bedeena
+Pot size: 800
+Showdown Reached
+Shows: Toedeen, As 4d
+Combination: Toedeen, Pair ( 4d 4s As Jc Td )
+Shows: Bedeena, Th 3c
+Combination: Bedeena, Pair ( Th Td Jc 9h 4s )
+Wins: Bedeena, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Kd 9c Ac
+Checks: Bedeena
+Checks: Toedeen
+Turn: Jc
+Checks: Bedeena
+Checks: Toedeen
+River: 6s
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 7h Td
+Combination: Toedeen, High Card ( Ac Kd Jc Td 9c )
+Shows: Bedeena, Jd 7s
+Combination: Bedeena, Pair ( Jd Jc Ac Kd 9c )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Kc 4h Qs
+Checks: Bedeena
+Checks: Toedeen
+Turn: 6h
+Checks: Bedeena
+Checks: Toedeen
+River: 6d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Jh Td
+Combination: Toedeen, Pair ( 6h 6d Kc Qs Jh )
+Shows: Bedeena, Ts 5c
+Combination: Bedeena, Pair ( 6h 6d Kc Qs Ts )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 3d 6s 6c
+Checks: Bedeena
+Checks: Toedeen
+Turn: 5s
+Checks: Bedeena
+Checks: Toedeen
+River: As
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 8d 9c
+Combination: Toedeen, Pair ( 6s 6c As 9c 8d )
+Shows: Bedeena, 7c 5h
+Combination: Bedeena, Two Pair ( 6s 6c 5h 5s As )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 7s Js 7c
+Checks: Bedeena
+Checks: Toedeen
+Turn: 7h
+Checks: Bedeena
+Checks: Toedeen
+River: 4d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 6h 6s
+Combination: Toedeen, Full House ( 7s 7c 7h 6h 6s )
+Shows: Bedeena, 5h 5s
+Combination: Bedeena, Full House ( 7s 7c 7h 5h 5s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 2h Ac As
+Checks: Bedeena
+Checks: Toedeen
+Turn: 3h
+Checks: Bedeena
+Checks: Toedeen
+River: 9c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Qd 2s
+Combination: Toedeen, Two Pair ( Ac As 2s 2h Qd )
+Shows: Bedeena, 9s Qs
+Combination: Bedeena, Two Pair ( Ac As 9s 9c Qs )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 6h Ac 7s
+Checks: Bedeena
+Checks: Toedeen
+Turn: Js
+Checks: Bedeena
+Checks: Toedeen
+River: 6d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 6s Qh
+Combination: Toedeen, Three Of A Kind ( 6s 6h 6d Ac Qh )
+Shows: Bedeena, Jd 7h
+Combination: Bedeena, Two Pair ( Jd Js 7h 7s Ac )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Qc Kh Ts
+Checks: Bedeena
+Checks: Toedeen
+Turn: 4h
+Checks: Bedeena
+Checks: Toedeen
+River: Qs
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 4s 7c
+Combination: Toedeen, Two Pair ( Qc Qs 4s 4h Kh )
+Shows: Bedeena, Qd 4c
+Combination: Bedeena, Full House ( Qd Qc Qs 4c 4h )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Calls: Bedeena
+Flop: 7c 4s Kh
+Checks: Toedeen
+Checks: Bedeena
+Turn: 7d
+Checks: Toedeen
+Checks: Bedeena
+River: 2c
+Checks: Toedeen
+Checks: Bedeena
+Pot size: 800
+Showdown Reached
+Shows: Toedeen, 2h Kd
+Combination: Toedeen, Two Pair ( Kd Kh 7c 7d 4s )
+Shows: Bedeena, 4h 6h
+Combination: Bedeena, Two Pair ( 7c 7d 4h 4s Kh )
+Wins: Toedeen, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Tc 3s 4d
+Checks: Bedeena
+Checks: Toedeen
+Turn: 5c
+Checks: Bedeena
+Checks: Toedeen
+River: 9c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Jc Qd
+Combination: Toedeen, High Card ( Qd Jc Tc 9c 5c )
+Shows: Bedeena, Qs Js
+Combination: Bedeena, High Card ( Qs Js Tc 9c 5c )
+Wins: Toedeen, chips: 200
+Wins: Bedeena, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 5d Ad 3s
+Checks: Bedeena
+Checks: Toedeen
+Turn: Kd
+Checks: Bedeena
+Checks: Toedeen
+River: 7h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 6s Qd
+Combination: Toedeen, High Card ( Ad Kd Qd 7h 6s )
+Shows: Bedeena, 8h 8d
+Combination: Bedeena, Pair ( 8h 8d Ad Kd 7h )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Qc Ts Qh
+Checks: Bedeena
+Checks: Toedeen
+Turn: 2h
+Checks: Bedeena
+Checks: Toedeen
+River: 4d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 9s 6h
+Combination: Toedeen, Pair ( Qc Qh Ts 9s 6h )
+Shows: Bedeena, 6d 3d
+Combination: Bedeena, Pair ( Qc Qh Ts 6d 4d )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 2h Ks Jh
+Checks: Bedeena
+Checks: Toedeen
+Turn: 8d
+Checks: Bedeena
+Checks: Toedeen
+River: Jd
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Qd 9c
+Combination: Toedeen, Pair ( Jh Jd Ks Qd 9c )
+Shows: Bedeena, 2d Th
+Combination: Bedeena, Two Pair ( Jh Jd 2d 2h Ks )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Calls: Bedeena
+Flop: 4h 9s 9c
+Checks: Toedeen
+Checks: Bedeena
+Turn: 8s
+Checks: Toedeen
+Checks: Bedeena
+River: Kh
+Checks: Toedeen
+Checks: Bedeena
+Pot size: 800
+Showdown Reached
+Shows: Toedeen, Qh 4c
+Combination: Toedeen, Two Pair ( 9s 9c 4c 4h Kh )
+Shows: Bedeena, 2s 3c
+Combination: Bedeena, Pair ( 9s 9c Kh 8s 4h )
+Wins: Toedeen, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: As Kh Qc
+Checks: Bedeena
+Checks: Toedeen
+Turn: Jh
+Checks: Bedeena
+Checks: Toedeen
+River: Jc
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Qh Th
+Combination: Toedeen, Straight ( As Kh Qh Jh Th )
+Shows: Bedeena, 4d Ts
+Combination: Bedeena, Straight ( As Kh Qc Jh Ts )
+Wins: Toedeen, chips: 200
+Wins: Bedeena, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Calls: Bedeena
+Flop: 6s 3s 5h
+Checks: Toedeen
+Checks: Bedeena
+Turn: 3h
+Checks: Toedeen
+Checks: Bedeena
+River: 7s
+Checks: Toedeen
+Checks: Bedeena
+Pot size: 800
+Showdown Reached
+Shows: Toedeen, Ad 9d
+Combination: Toedeen, Pair ( 3s 3h Ad 9d 7s )
+Shows: Bedeena, 2d 8s
+Combination: Bedeena, Pair ( 3s 3h 8s 7s 6s )
+Wins: Toedeen, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 9c 2h 4d
+Checks: Bedeena
+Checks: Toedeen
+Turn: 3h
+Checks: Bedeena
+Checks: Toedeen
+River: 9d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 7c Qs
+Combination: Toedeen, Pair ( 9c 9d Qs 7c 4d )
+Shows: Bedeena, Qh 4c
+Combination: Bedeena, Two Pair ( 9c 9d 4c 4d Qh )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Ks 4d 5c
+Checks: Bedeena
+Checks: Toedeen
+Turn: 5h
+Checks: Bedeena
+Checks: Toedeen
+River: Qd
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 2s Ts
+Combination: Toedeen, Pair ( 5c 5h Ks Qd Ts )
+Shows: Bedeena, 9c 7c
+Combination: Bedeena, Pair ( 5c 5h Ks Qd 9c )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Qc Kd 4s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 2d
+Checks: Bedeena
+Checks: Toedeen
+River: Ad
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 5d 7c
+Combination: Toedeen, High Card ( Ad Kd Qc 7c 5d )
+Shows: Bedeena, 8c 2h
+Combination: Bedeena, Pair ( 2h 2d Ad Kd Qc )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 9d 6d Qd
+Checks: Bedeena
+Checks: Toedeen
+Turn: 4h
+Checks: Bedeena
+Checks: Toedeen
+River: 7h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 7d Kd
+Combination: Toedeen, Flush ( Kd Qd 9d 7d 6d )
+Shows: Bedeena, 7c Jd
+Combination: Bedeena, Pair ( 7c 7h Qd Jd 9d )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 4d Js 6c
+Checks: Bedeena
+Checks: Toedeen
+Turn: Jh
+Checks: Bedeena
+Checks: Toedeen
+River: Jc
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Td 8c
+Combination: Toedeen, Three Of A Kind ( Js Jh Jc Td 8c )
+Shows: Bedeena, Ks Qh
+Combination: Bedeena, Three Of A Kind ( Js Jh Jc Ks Qh )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 8h 7d 7h
+Checks: Bedeena
+Checks: Toedeen
+Turn: Qh
+Checks: Bedeena
+Checks: Toedeen
+River: 4s
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 4h Kc
+Combination: Toedeen, Two Pair ( 7d 7h 4h 4s Kc )
+Shows: Bedeena, 5c 5s
+Combination: Bedeena, Two Pair ( 7d 7h 5c 5s Qh )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 8c Kd 3s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 7h
+Checks: Bedeena
+Checks: Toedeen
+River: 4d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Ad Qd
+Combination: Toedeen, High Card ( Ad Kd Qd 8c 7h )
+Shows: Bedeena, 9s 5s
+Combination: Bedeena, High Card ( Kd 9s 8c 7h 5s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Ad 9d 6d
+Checks: Bedeena
+Checks: Toedeen
+Turn: 9h
+Checks: Bedeena
+Checks: Toedeen
+River: 9c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 7h Kd
+Combination: Toedeen, Three Of A Kind ( 9d 9h 9c Ad Kd )
+Shows: Bedeena, Jc Td
+Combination: Bedeena, Three Of A Kind ( 9d 9h 9c Ad Jc )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 2s 8c 4s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 6d
+Checks: Bedeena
+Checks: Toedeen
+River: 4h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Jc 4c
+Combination: Toedeen, Three Of A Kind ( 4c 4s 4h Jc 8c )
+Shows: Bedeena, Td Qh
+Combination: Bedeena, Pair ( 4s 4h Qh Td 8c )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 6c Kd Ks
+Checks: Bedeena
+Checks: Toedeen
+Turn: Qd
+Checks: Bedeena
+Checks: Toedeen
+River: Ad
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 2c Kh
+Combination: Toedeen, Three Of A Kind ( Kh Kd Ks Ad Qd )
+Shows: Bedeena, 5c 8h
+Combination: Bedeena, Pair ( Kd Ks Ad Qd 8h )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Kd 6h 7h
+Checks: Bedeena
+Checks: Toedeen
+Turn: 3d
+Checks: Bedeena
+Checks: Toedeen
+River: 3c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Js Jc
+Combination: Toedeen, Two Pair ( Js Jc 3d 3c Kd )
+Shows: Bedeena, As 8c
+Combination: Bedeena, Pair ( 3d 3c As Kd 8c )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 9h Ts 7s
+Checks: Bedeena
+Checks: Toedeen
+Turn: 3s
+Checks: Bedeena
+Checks: Toedeen
+River: Tc
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Th Ks
+Combination: Toedeen, Three Of A Kind ( Th Ts Tc Ks 9h )
+Shows: Bedeena, 2s 5c
+Combination: Bedeena, Pair ( Ts Tc 9h 7s 5c )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 4s 8c 6c
+Checks: Bedeena
+Checks: Toedeen
+Turn: 8d
+Checks: Bedeena
+Checks: Toedeen
+River: 3h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 4d 7h
+Combination: Toedeen, Two Pair ( 8c 8d 4d 4s 7h )
+Shows: Bedeena, Jh 2d
+Combination: Bedeena, Pair ( 8c 8d Jh 6c 4s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 7c Qs Qc
+Checks: Bedeena
+Checks: Toedeen
+Turn: 2d
+Checks: Bedeena
+Checks: Toedeen
+River: 9d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 7d Kd
+Combination: Toedeen, Two Pair ( Qs Qc 7d 7c Kd )
+Shows: Bedeena, 7s 6c
+Combination: Bedeena, Two Pair ( Qs Qc 7s 7c 9d )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 600
+Folds: Toedeen
+Pot size: 1000
+Wins: Bedeena, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 8h 9s Ks
+Checks: Bedeena
+Checks: Toedeen
+Turn: Kc
+Checks: Bedeena
+Checks: Toedeen
+River: 2c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Td 2s
+Combination: Toedeen, Two Pair ( Ks Kc 2s 2c Td )
+Shows: Bedeena, Th Js
+Combination: Bedeena, Pair ( Ks Kc Js Th 9s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 4h Ac Jc
+Checks: Bedeena
+Checks: Toedeen
+Turn: 9h
+Checks: Bedeena
+Checks: Toedeen
+River: As
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Ts 9c
+Combination: Toedeen, Two Pair ( Ac As 9c 9h Jc )
+Shows: Bedeena, 5s Tc
+Combination: Bedeena, Pair ( Ac As Jc Tc 9h )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Calls: Bedeena
+Flop: 3s Kc Ad
+Checks: Toedeen
+Checks: Bedeena
+Turn: Kh
+Checks: Toedeen
+Checks: Bedeena
+River: 4s
+Checks: Toedeen
+Checks: Bedeena
+Pot size: 800
+Showdown Reached
+Shows: Toedeen, 5s 2c
+Combination: Toedeen, Straight ( 5s 4s 3s 2c Ad )
+Shows: Bedeena, Ks 2d
+Combination: Bedeena, Three Of A Kind ( Ks Kc Kh Ad 4s )
+Wins: Toedeen, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Qd As 5h
+Checks: Bedeena
+Checks: Toedeen
+Turn: Qs
+Checks: Bedeena
+Checks: Toedeen
+River: 9h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Ah Jd
+Combination: Toedeen, Two Pair ( Ah As Qd Qs Jd )
+Shows: Bedeena, 7c 9s
+Combination: Bedeena, Two Pair ( Qd Qs 9s 9h As )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 6s Kh Th
+Checks: Bedeena
+Checks: Toedeen
+Turn: 2s
+Checks: Bedeena
+Checks: Toedeen
+River: 8c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 9h 3s
+Combination: Toedeen, High Card ( Kh Th 9h 8c 6s )
+Shows: Bedeena, 7d 6d
+Combination: Bedeena, Pair ( 6d 6s Kh Th 8c )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 6c 8c Qs
+Checks: Bedeena
+Checks: Toedeen
+Turn: Ah
+Checks: Bedeena
+Checks: Toedeen
+River: 4s
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Qc 2d
+Combination: Toedeen, Pair ( Qc Qs Ah 8c 6c )
+Shows: Bedeena, 4c 3d
+Combination: Bedeena, Pair ( 4c 4s Ah Qs 8c )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 3s 4d Td
+Checks: Bedeena
+Checks: Toedeen
+Turn: 4h
+Checks: Bedeena
+Checks: Toedeen
+River: Jh
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 7c 6h
+Combination: Toedeen, Pair ( 4d 4h Jh Td 7c )
+Shows: Bedeena, 4c 2c
+Combination: Bedeena, Three Of A Kind ( 4c 4d 4h Jh Td )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 9h Kc Ks
+Checks: Bedeena
+Checks: Toedeen
+Turn: 2s
+Checks: Bedeena
+Checks: Toedeen
+River: Kh
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Ts Ad
+Combination: Toedeen, Three Of A Kind ( Kc Ks Kh Ad Ts )
+Shows: Bedeena, 6c Jd
+Combination: Bedeena, Three Of A Kind ( Kc Ks Kh Jd 9h )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Ad 4c 7h
+Checks: Bedeena
+Checks: Toedeen
+Turn: 5s
+Checks: Bedeena
+Checks: Toedeen
+River: 7d
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Kc 7c
+Combination: Toedeen, Three Of A Kind ( 7c 7h 7d Ad Kc )
+Shows: Bedeena, Ts 3c
+Combination: Bedeena, Pair ( 7h 7d Ad Ts 5s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Flop: 8h 6h 7c
+Turn: 9c
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Toedeen, Jh 9s
+Combination: Toedeen, Straight ( 9s 8h 7c 6h 5c )
+Shows: Bedeena, 6d Ah
+Combination: Bedeena, Straight ( 9c 8h 7c 6d 5c )
+Wins: Toedeen, chips: 100
+Wins: Bedeena, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Flop: 6h Tc 6s
+Turn: 4h
+River: 5d
+Pot size: 600
+Showdown Reached
+Shows: Toedeen, Js 7h
+Combination: Toedeen, Pair ( 6h 6s Js Tc 7h )
+Shows: Bedeena, 3h Ah
+Combination: Bedeena, Pair ( 6h 6s Ah Tc 5d )
+Wins: Toedeen, chips: 200
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Ah 8d 4d
+Checks: Bedeena
+Checks: Toedeen
+Turn: 3c
+Checks: Bedeena
+Checks: Toedeen
+River: 4h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Ks 2c
+Combination: Toedeen, Pair ( 4d 4h Ah Ks 8d )
+Shows: Bedeena, Jc 8s
+Combination: Bedeena, Two Pair ( 8s 8d 4d 4h Ah )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 7d 4d Jh
+Checks: Bedeena
+Checks: Toedeen
+Turn: Kh
+Checks: Bedeena
+Checks: Toedeen
+River: Ah
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, Qc Js
+Combination: Toedeen, Pair ( Js Jh Ah Kh Qc )
+Shows: Bedeena, Jc 7c
+Combination: Bedeena, Two Pair ( Jc Jh 7c 7d Ah )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 4s 7h 8h
+Checks: Bedeena
+Checks: Toedeen
+Turn: Qd
+Checks: Bedeena
+Checks: Toedeen
+River: Jd
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 5s Jc
+Combination: Toedeen, Pair ( Jc Jd Qd 8h 7h )
+Shows: Bedeena, 9s 5h
+Combination: Bedeena, High Card ( Qd Jd 9s 8h 7h )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 300
+Folds: Toedeen
+Pot size: 700
+Wins: Bedeena, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: Jd Ac Ks
+Checks: Bedeena
+Checks: Toedeen
+Turn: 6s
+Checks: Bedeena
+Checks: Toedeen
+River: 2h
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 6h 8d
+Combination: Toedeen, Pair ( 6h 6s Ac Ks Jd )
+Shows: Bedeena, 4h Tc
+Combination: Bedeena, High Card ( Ac Ks Jd Tc 6s )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 8d 6c Jd
+Checks: Bedeena
+Checks: Toedeen
+Turn: 9d
+Checks: Bedeena
+Checks: Toedeen
+River: 5s
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 8c 3s
+Combination: Toedeen, Pair ( 8c 8d Jd 9d 6c )
+Shows: Bedeena, 5d Qs
+Combination: Bedeena, Pair ( 5d 5s Qs Jd 9d )
+Wins: Toedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 5c Td Kd
+Checks: Bedeena
+Checks: Toedeen
+Turn: 6c
+Checks: Bedeena
+Checks: Toedeen
+River: 8c
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 9s 6h
+Combination: Toedeen, Pair ( 6h 6c Kd Td 9s )
+Shows: Bedeena, 8d 2d
+Combination: Bedeena, Pair ( 8d 8c Kd Td 6c )
+Wins: Bedeena, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Checks: Bedeena
+Flop: 5c 7h Qc
+Checks: Bedeena
+Checks: Toedeen
+Turn: 3c
+Checks: Bedeena
+Checks: Toedeen
+River: 5s
+Checks: Bedeena
+Checks: Toedeen
+Pot size: 400
+Showdown Reached
+Shows: Toedeen, 6s 7d
+Combination: Toedeen, Two Pair ( 7d 7h 5c 5s Qc )
+Shows: Bedeena, 2c 7s
+Combination: Bedeena, Two Pair ( 7s 7h 5c 5s Qc )
+Wins: Toedeen, chips: 200
+Wins: Bedeena, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 600
+Wins: Toedeen, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Calls: Toedeen
+Raises: Bedeena, chips: 200
+Folds: Toedeen
+Pot size: 600
+Wins: Bedeena, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Calls: Bedeena
+Raises: Toedeen, chips: 200
+Calls: Bedeena
+Flop: 3h 2c Qh
+Checks: Toedeen
+Checks: Bedeena
+Turn: 6c
+Checks: Toedeen
+Checks: Bedeena
+River: 5d
+Checks: Toedeen
+Checks: Bedeena
+Pot size: 800
+Showdown Reached
+Shows: Toedeen, Th 2h
+Combination: Toedeen, Pair ( 2h 2c Qh Th 6c )
+Shows: Bedeena, As Tc
+Combination: Bedeena, High Card ( As Qh Tc 6c 5d )
+Wins: Toedeen, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Flop: Th 3d 3c
+Turn: 8h
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Toedeen, 6h Js
+Combination: Toedeen, Pair ( 3d 3c Js Th 9c )
+Shows: Bedeena, Qc Kh
+Combination: Bedeena, Pair ( 3d 3c Kh Qc Th )
+Wins: Bedeena, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Folds: Bedeena
+Pot size: 300
+Wins: Toedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toedeen
+Small Blind: Toedeen, chips: 100
+Big Blind: Bedeena, chips: 200
+Flop: 2h 2c 2d
+Turn: 4h
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Toedeen, Qd 9h
+Combination: Toedeen, Full House ( 2h 2c 2d Qd Qc )
+Shows: Bedeena, 7d 3d
+Combination: Bedeena, Three Of A Kind ( 2h 2c 2d Qc 7d )
+Wins: Toedeen, chips: 200
+Wins: Bedeena, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bedeena
+Small Blind: Bedeena, chips: 100
+Big Blind: Toedeen, chips: 200
+Flop: 3c 5h 6d
+Turn: Kd
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Toedeen, As Ad
+Combination: Toedeen, Pair ( As Ad Kd Js 6d )
+Shows: Bedeena, 8d 8s
+Combination: Bedeena, Pair ( 8d 8s Kd Js 6d )
+Wins: Toedeen, chips: 300
+Quits: Bedeena, chips: 0
+Ranking: Toedeen, Place: 1, Score: 6000
+Reveal AI: Toedeen, AI: AIMyBot1
+Ranking: Bedeena, Place: 2, Score: -1000
+Reveal AI: Bedeena, AI: AIMyBot5
+Ranking: Goewroe, Place: 3, Score: -1000
+Reveal AI: Goewroe, AI: AIMyBot3
+Ranking: Kevoetu, Place: 4, Score: -1000
+Reveal AI: Kevoetu, AI: AIMyBot7
+Ranking: Je, Place: 5, Score: -1000
+Reveal AI: Je, AI: AIMyBot6
+Ranking: Jerunhu, Place: 6, Score: -1000
+Reveal AI: Jerunhu, AI: AIMyBot2
+Ranking: Sedeet, Place: 7, Score: -1000
+Reveal AI: Sedeet, AI: AIMyBot4
+
+Player Stats for Bedeena, AI: AIMyBot5
+General: deals: 182, actions: 433, preflop actions: 204
+Rounds Seen: flops: 83, turns: 83, rivers: 83, showdowns: 83
+Wins: total: 72, showdown: 36, bluff: 36
+Chips: won: 43645, lost: 44645, bought: 1000, forced bets: 24200
+Pre-Flop Stats: VP$IP: 0.362637, PFR: 0.203297, 3Bet: 0.142857
+Post-Flop Stats: AF: 0, WSD: 1, WSDW: 0.433735
+
+
+Player Stats for Goewroe, AI: AIMyBot3
+General: deals: 35, actions: 44, preflop actions: 38
+Rounds Seen: flops: 80, turns: 75, rivers: 75, showdowns: 75
+Wins: total: 6, showdown: 3, bluff: 3
+Chips: won: 4917, lost: 6630, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.342857, PFR: 0.171429, 3Bet: 0.0857143
+Post-Flop Stats: AF: 1.#INF, WSD: 0.9375, WSDW: 0.04
+
+
+Player Stats for Je, AI: AIMyBot6
+General: deals: 18, actions: 17, preflop actions: 17
+Rounds Seen: flops: 81, turns: 81, rivers: 81, showdowns: 81
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Jerunhu, AI: AIMyBot2
+General: deals: 14, actions: 14, preflop actions: 14
+Rounds Seen: flops: 84, turns: 84, rivers: 84, showdowns: 84
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.0714286, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Kevoetu, AI: AIMyBot7
+General: deals: 30, actions: 40, preflop actions: 31
+Rounds Seen: flops: 80, turns: 80, rivers: 80, showdowns: 79
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.133333, PFR: 0.0333333, 3Bet: 0.0333333
+Post-Flop Stats: AF: 1.#INF, WSD: 0.9875, WSDW: 0.0126582
+
+
+Player Stats for Sedeet, AI: AIMyBot4
+General: deals: 5, actions: 15, preflop actions: 6
+Rounds Seen: flops: 90, turns: 90, rivers: 90, showdowns: 89
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 300
+Pre-Flop Stats: VP$IP: 0.8, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.988889, WSDW: 0
+
+
+Player Stats for Toedeen, AI: AIMyBot1
+General: deals: 182, actions: 405, preflop actions: 167
+Rounds Seen: flops: 87, turns: 86, rivers: 86, showdowns: 85
+Wins: total: 110, showdown: 57, bluff: 53
+Chips: won: 47600, lost: 41600, bought: 1000, forced bets: 24200
+Pre-Flop Stats: VP$IP: 0.686813, PFR: 0.153846, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.977011, WSDW: 0.670588
+
+

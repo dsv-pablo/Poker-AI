@@ -1,0 +1,316 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Genodo: Random
+Furo: AIMyBot1
+
+Joins: Genodo, chips: 1000
+Joins: Furo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Furo
+Small Blind: Furo, chips: 100
+Big Blind: Genodo, chips: 200
+Folds: Furo
+Pot size: 300
+Wins: Genodo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Genodo
+Small Blind: Genodo, chips: 100
+Big Blind: Furo, chips: 200
+Calls: Genodo
+DEBUG MESSAGE: INVALID ACTION FROM Furo (2 0)
+Folds: Furo
+Pot size: 400
+Wins: Genodo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Furo
+Small Blind: Furo, chips: 100
+Big Blind: Genodo, chips: 200
+Folds: Furo
+Pot size: 300
+Boasts: Genodo, 8d 7s
+Wins: Genodo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Genodo
+Small Blind: Genodo, chips: 100
+Big Blind: Furo, chips: 200
+Folds: Genodo
+Pot size: 300
+Wins: Furo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Furo
+Small Blind: Furo, chips: 100
+Big Blind: Genodo, chips: 200
+Folds: Furo
+Pot size: 300
+Boasts: Genodo, 6d Tc
+Wins: Genodo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Genodo
+Small Blind: Genodo, chips: 100
+Big Blind: Furo, chips: 200
+Calls: Genodo
+DEBUG MESSAGE: INVALID ACTION FROM Furo (2 0)
+Folds: Furo
+Pot size: 400
+Wins: Genodo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Furo
+Small Blind: Furo, chips: 100
+Big Blind: Genodo, chips: 200
+Folds: Furo
+Pot size: 300
+Boasts: Genodo, Ts 9c
+Wins: Genodo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Genodo
+Small Blind: Genodo, chips: 100
+Big Blind: Furo, chips: 200
+Folds: Genodo
+Pot size: 300
+Boasts: Genodo, 6h 9s
+Wins: Furo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Furo
+Small Blind: Furo, chips: 100
+Big Blind: Genodo, chips: 200
+Folds: Furo
+Pot size: 300
+Boasts: Genodo, Qs Kc
+Wins: Genodo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Genodo
+Small Blind: Genodo, chips: 100
+Big Blind: Furo, chips: 200
+Folds: Genodo
+Pot size: 300
+Boasts: Genodo, 4d Ac
+Wins: Furo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Furo
+Small Blind: Furo, chips: 100
+Big Blind: Genodo, chips: 200
+Folds: Furo
+Pot size: 300
+Wins: Genodo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Genodo
+Small Blind: Genodo, chips: 100
+Big Blind: Furo, chips: 200
+Folds: Genodo
+Pot size: 300
+Boasts: Genodo, 8c 3s
+Wins: Furo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Furo
+Small Blind: Furo, chips: 100
+Big Blind: Genodo, chips: 200
+Folds: Furo
+Pot size: 300
+Wins: Genodo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Genodo
+Small Blind: Genodo, chips: 100
+Big Blind: Furo, chips: 200
+Calls: Genodo
+DEBUG MESSAGE: INVALID ACTION FROM Furo (2 0)
+Folds: Furo
+Pot size: 400
+Wins: Genodo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Furo
+Small Blind: Furo, chips: 100
+Big Blind: Genodo, chips: 200
+Flop: 2d 5h Jh
+Turn: Kd
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Genodo, 2c Qs
+Combination: Genodo, Pair ( 2c 2d Kd Qs Jh )
+Shows: Furo, 9c 4h
+Combination: Furo, High Card ( Kd Jh 9c 7h 5h )
+Wins: Genodo, chips: 300
+Quits: Furo, chips: 0
+Ranking: Genodo, Place: 1, Score: 1000
+Reveal AI: Genodo, AI: Random
+Ranking: Furo, Place: 2, Score: -1000
+Reveal AI: Furo, AI: AIMyBot1
+
+Player Stats for Furo, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Genodo, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:36
+
+The game begins. The AI's of the players are: 
+Genodo: Random
+Furo: AIMyBot1
+
+Joins: Genodo, chips: 1000
+Joins: Furo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Furo
+Small Blind: Furo, chips: 100
+Big Blind: Genodo, chips: 200
+Folds: Furo
+Pot size: 300
+Wins: Genodo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Genodo
+Small Blind: Genodo, chips: 100
+Big Blind: Furo, chips: 200
+Calls: Genodo
+DEBUG MESSAGE: INVALID ACTION FROM Furo (2 0)
+Folds: Furo
+Pot size: 400
+Wins: Genodo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Furo
+Small Blind: Furo, chips: 100
+Big Blind: Genodo, chips: 200
+Folds: Furo
+Pot size: 300
+Boasts: Genodo, 8d 7s
+Wins: Genodo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Genodo
+Small Blind: Genodo, chips: 100
+Big Blind: Furo, chips: 200
+Folds: Genodo
+Pot size: 300
+Wins: Furo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Furo
+Small Blind: Furo, chips: 100
+Big Blind: Genodo, chips: 200
+Folds: Furo
+Pot size: 300
+Boasts: Genodo, 6d Tc
+Wins: Genodo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Genodo
+Small Blind: Genodo, chips: 100
+Big Blind: Furo, chips: 200
+Calls: Genodo
+DEBUG MESSAGE: INVALID ACTION FROM Furo (2 0)
+Folds: Furo
+Pot size: 400
+Wins: Genodo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Furo
+Small Blind: Furo, chips: 100
+Big Blind: Genodo, chips: 200
+Folds: Furo
+Pot size: 300
+Boasts: Genodo, Ts 9c
+Wins: Genodo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Genodo
+Small Blind: Genodo, chips: 100
+Big Blind: Furo, chips: 200
+Folds: Genodo
+Pot size: 300
+Boasts: Genodo, 6h 9s
+Wins: Furo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Furo
+Small Blind: Furo, chips: 100
+Big Blind: Genodo, chips: 200
+Folds: Furo
+Pot size: 300
+Boasts: Genodo, Qs Kc
+Wins: Genodo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Genodo
+Small Blind: Genodo, chips: 100
+Big Blind: Furo, chips: 200
+Folds: Genodo
+Pot size: 300
+Boasts: Genodo, 4d Ac
+Wins: Furo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Furo
+Small Blind: Furo, chips: 100
+Big Blind: Genodo, chips: 200
+Folds: Furo
+Pot size: 300
+Wins: Genodo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Genodo
+Small Blind: Genodo, chips: 100
+Big Blind: Furo, chips: 200
+Folds: Genodo
+Pot size: 300
+Boasts: Genodo, 8c 3s
+Wins: Furo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Furo
+Small Blind: Furo, chips: 100
+Big Blind: Genodo, chips: 200
+Folds: Furo
+Pot size: 300
+Wins: Genodo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Genodo
+Small Blind: Genodo, chips: 100
+Big Blind: Furo, chips: 200
+Calls: Genodo
+DEBUG MESSAGE: INVALID ACTION FROM Furo (2 0)
+Folds: Furo
+Pot size: 400
+Wins: Genodo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Furo
+Small Blind: Furo, chips: 100
+Big Blind: Genodo, chips: 200
+Flop: 2d 5h Jh
+Turn: Kd
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Genodo, 2c Qs
+Combination: Genodo, Pair ( 2c 2d Kd Qs Jh )
+Shows: Furo, 9c 4h
+Combination: Furo, High Card ( Kd Jh 9c 7h 5h )
+Wins: Genodo, chips: 300
+Quits: Furo, chips: 0
+Ranking: Genodo, Place: 1, Score: 1000
+Reveal AI: Genodo, AI: Random
+Ranking: Furo, Place: 2, Score: -1000
+Reveal AI: Furo, AI: AIMyBot1
+
+Player Stats for Furo, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Genodo, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

@@ -1,0 +1,546 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pelus: AIMyBot1
+Jipasa: Random
+
+Joins: Pelus, chips: 1000
+Joins: Jipasa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Boasts: Jipasa, 8d 5h
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Calls: Jipasa
+DEBUG MESSAGE: INVALID ACTION FROM Pelus (2 0)
+Folds: Pelus
+Pot size: 400
+Wins: Jipasa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Folds: Jipasa
+Pot size: 300
+Boasts: Jipasa, 2d 3h
+Wins: Pelus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Boasts: Jipasa, 2s 6d
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Raises: Jipasa, chips: 300
+Folds: Pelus
+Pot size: 700
+Wins: Jipasa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Raises: Jipasa, chips: 300
+Calls: Pelus
+Flop: 8d 7h Qd
+Turn: 2c
+River: 4c
+Pot size: 800
+Showdown Reached
+Shows: Pelus, 5c 4s
+Combination: Pelus, Pair ( 4s 4c Qd 8d 7h )
+Shows: Jipasa, 2s 6s
+Combination: Jipasa, Pair ( 2s 2c Qd 8d 7h )
+Wins: Pelus, chips: 600
+Wins: Jipasa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Folds: Jipasa
+Pot size: 300
+Boasts: Jipasa, 8s 5c
+Wins: Pelus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Boasts: Jipasa, Tc Qs
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Calls: Jipasa
+DEBUG MESSAGE: INVALID ACTION FROM Pelus (2 0)
+Folds: Pelus
+Pot size: 400
+Wins: Jipasa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Boasts: Jipasa, 6h Jh
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Flop: 9d Js Ah
+Turn: Ts
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Pelus, Jd 2h
+Combination: Pelus, Two Pair ( Jd Js Ts Th Ah )
+Shows: Jipasa, 9h Qd
+Combination: Jipasa, Two Pair ( Ts Th 9h 9d Ah )
+Wins: Pelus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Flop: Kh 3c 9d
+Turn: Ah
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Pelus, Kc Ac
+Combination: Pelus, Two Pair ( Ac Ah Kc Kh Tc )
+Shows: Jipasa, Js 9s
+Combination: Jipasa, Pair ( 9s 9d Ah Kh Js )
+Wins: Pelus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Flop: 4d Js Td
+Turn: 4s
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Pelus, 5h 9h
+Combination: Pelus, Two Pair ( Td Tc 4d 4s Js )
+Shows: Jipasa, 8c Th
+Combination: Jipasa, Full House ( Th Td Tc 4d 4s )
+Wins: Pelus, chips: 100
+Wins: Jipasa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Flop: Jd 6d Kd
+Turn: 2d
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Pelus, 6h 2h
+Combination: Pelus, Flush ( Kd Jd 6d 4d 2d )
+Shows: Jipasa, Jc 8c
+Combination: Jipasa, Flush ( Kd Jd 6d 4d 2d )
+Wins: Pelus, chips: 100
+Wins: Jipasa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 100
+Flop: Qd 3h As
+Turn: Jh
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Pelus, Kh Kc
+Combination: Pelus, Straight ( As Kh Qd Jh Ts )
+Shows: Jipasa, 6h 8s
+Combination: Jipasa, High Card ( As Qd Jh Ts 8s )
+Wins: Pelus, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 100
+Flop: Jh 9d 3d
+Turn: 8d
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Pelus, Td 2c
+Combination: Pelus, Straight ( Jh Td 9d 8d 7h )
+Shows: Jipasa, As Kh
+Combination: Jipasa, High Card ( As Kh Jh 9d 8d )
+Wins: Pelus, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 100
+Flop: Qd 7c Js
+Turn: As
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Pelus, 5c 2h
+Combination: Pelus, High Card ( As Qd Js 7c 5c )
+Shows: Jipasa, 4h 6d
+Combination: Jipasa, High Card ( As Qd Js 7c 6d )
+Wins: Jipasa, chips: 200
+Quits: Pelus, chips: 0
+Ranking: Jipasa, Place: 1, Score: 1000
+Reveal AI: Jipasa, AI: Random
+Ranking: Pelus, Place: 2, Score: -1000
+Reveal AI: Pelus, AI: AIMyBot1
+
+Player Stats for Jipasa, AI: Random
+General: deals: 24, actions: 6, preflop actions: 6
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 18, showdown: 4, bluff: 14
+Chips: won: 5600, lost: 4600, bought: 1000, forced bets: 3600
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0.0833333, 3Bet: 0.0833333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Pelus, AI: AIMyBot1
+General: deals: 24, actions: 15, preflop actions: 15
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 9, showdown: 7, bluff: 2
+Chips: won: 2400, lost: 3600, bought: 1000, forced bets: 3300
+Pre-Flop Stats: VP$IP: 0.0416667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Date: 2022/10/25 13:46:30
+
+The game begins. The AI's of the players are: 
+Pelus: AIMyBot1
+Jipasa: Random
+
+Joins: Pelus, chips: 1000
+Joins: Jipasa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Boasts: Jipasa, 8d 5h
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Calls: Jipasa
+DEBUG MESSAGE: INVALID ACTION FROM Pelus (2 0)
+Folds: Pelus
+Pot size: 400
+Wins: Jipasa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Folds: Jipasa
+Pot size: 300
+Boasts: Jipasa, 2d 3h
+Wins: Pelus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Boasts: Jipasa, 2s 6d
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Raises: Jipasa, chips: 300
+Folds: Pelus
+Pot size: 700
+Wins: Jipasa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Raises: Jipasa, chips: 300
+Calls: Pelus
+Flop: 8d 7h Qd
+Turn: 2c
+River: 4c
+Pot size: 800
+Showdown Reached
+Shows: Pelus, 5c 4s
+Combination: Pelus, Pair ( 4s 4c Qd 8d 7h )
+Shows: Jipasa, 2s 6s
+Combination: Jipasa, Pair ( 2s 2c Qd 8d 7h )
+Wins: Pelus, chips: 600
+Wins: Jipasa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Folds: Jipasa
+Pot size: 300
+Boasts: Jipasa, 8s 5c
+Wins: Pelus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Boasts: Jipasa, Tc Qs
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Calls: Jipasa
+DEBUG MESSAGE: INVALID ACTION FROM Pelus (2 0)
+Folds: Pelus
+Pot size: 400
+Wins: Jipasa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Boasts: Jipasa, 6h Jh
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Flop: 9d Js Ah
+Turn: Ts
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Pelus, Jd 2h
+Combination: Pelus, Two Pair ( Jd Js Ts Th Ah )
+Shows: Jipasa, 9h Qd
+Combination: Jipasa, Two Pair ( Ts Th 9h 9d Ah )
+Wins: Pelus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Flop: Kh 3c 9d
+Turn: Ah
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Pelus, Kc Ac
+Combination: Pelus, Two Pair ( Ac Ah Kc Kh Tc )
+Shows: Jipasa, Js 9s
+Combination: Jipasa, Pair ( 9s 9d Ah Kh Js )
+Wins: Pelus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 200
+Flop: 4d Js Td
+Turn: 4s
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Pelus, 5h 9h
+Combination: Pelus, Two Pair ( Td Tc 4d 4s Js )
+Shows: Jipasa, 8c Th
+Combination: Jipasa, Full House ( Th Td Tc 4d 4s )
+Wins: Pelus, chips: 100
+Wins: Jipasa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Flop: Jd 6d Kd
+Turn: 2d
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Pelus, 6h 2h
+Combination: Pelus, Flush ( Kd Jd 6d 4d 2d )
+Shows: Jipasa, Jc 8c
+Combination: Jipasa, Flush ( Kd Jd 6d 4d 2d )
+Wins: Pelus, chips: 100
+Wins: Jipasa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 100
+Flop: Qd 3h As
+Turn: Jh
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Pelus, Kh Kc
+Combination: Pelus, Straight ( As Kh Qd Jh Ts )
+Shows: Jipasa, 6h 8s
+Combination: Jipasa, High Card ( As Qd Jh Ts 8s )
+Wins: Pelus, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 100
+Flop: Jh 9d 3d
+Turn: 8d
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Pelus, Td 2c
+Combination: Pelus, Straight ( Jh Td 9d 8d 7h )
+Shows: Jipasa, As Kh
+Combination: Jipasa, High Card ( As Kh Jh 9d 8d )
+Wins: Pelus, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pelus
+Small Blind: Pelus, chips: 100
+Big Blind: Jipasa, chips: 200
+Folds: Pelus
+Pot size: 300
+Wins: Jipasa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipasa
+Small Blind: Jipasa, chips: 100
+Big Blind: Pelus, chips: 100
+Flop: Qd 7c Js
+Turn: As
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Pelus, 5c 2h
+Combination: Pelus, High Card ( As Qd Js 7c 5c )
+Shows: Jipasa, 4h 6d
+Combination: Jipasa, High Card ( As Qd Js 7c 6d )
+Wins: Jipasa, chips: 200
+Quits: Pelus, chips: 0
+Ranking: Jipasa, Place: 1, Score: 1000
+Reveal AI: Jipasa, AI: Random
+Ranking: Pelus, Place: 2, Score: -1000
+Reveal AI: Pelus, AI: AIMyBot1
+
+Player Stats for Jipasa, AI: Random
+General: deals: 24, actions: 6, preflop actions: 6
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 18, showdown: 4, bluff: 14
+Chips: won: 5600, lost: 4600, bought: 1000, forced bets: 3600
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0.0833333, 3Bet: 0.0833333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Pelus, AI: AIMyBot1
+General: deals: 24, actions: 15, preflop actions: 15
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 9, showdown: 7, bluff: 2
+Chips: won: 2400, lost: 3600, bought: 1000, forced bets: 3300
+Pre-Flop Stats: VP$IP: 0.0416667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+

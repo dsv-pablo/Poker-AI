@@ -1,0 +1,358 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+No: AIMyBot1
+Keettu: Random
+
+Joins: No, chips: 1000
+Joins: Keettu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 200
+Folds: Keettu
+Pot size: 300
+Wins: No, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Keettu, chips: 200
+Folds: No
+Pot size: 300
+Wins: Keettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 200
+Raises: Keettu, chips: 300
+Folds: No
+Pot size: 700
+Wins: Keettu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Keettu, chips: 200
+Folds: No
+Pot size: 300
+Boasts: Keettu, 2c 8s
+Wins: Keettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 200
+Calls: Keettu
+DEBUG MESSAGE: INVALID ACTION FROM No (2 0)
+Folds: No
+Pot size: 400
+Wins: Keettu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Keettu, chips: 200
+Folds: No
+Pot size: 300
+Boasts: Keettu, Tc 5s
+Wins: Keettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 200
+Folds: Keettu
+Pot size: 300
+Boasts: Keettu, 5s 7h
+Wins: No, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Keettu, chips: 200
+Folds: No
+Pot size: 300
+Boasts: Keettu, Jd Kh
+Wins: Keettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 200
+Folds: Keettu
+Pot size: 300
+Wins: No, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Keettu, chips: 200
+Folds: No
+Pot size: 300
+Boasts: Keettu, 8s 7c
+Wins: Keettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 200
+Folds: Keettu
+Pot size: 300
+Boasts: Keettu, Qd Ah
+Wins: No, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Keettu, chips: 200
+Folds: No
+Pot size: 300
+Boasts: Keettu, Ks 4h
+Wins: Keettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 200
+Calls: Keettu
+DEBUG MESSAGE: INVALID ACTION FROM No (2 0)
+Folds: No
+Pot size: 400
+Wins: Keettu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Keettu, chips: 200
+Folds: No
+Pot size: 300
+Boasts: Keettu, Ah 6s
+Wins: Keettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 100
+Flop: 6c 8c 3s
+Turn: Qd
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: No, 2s Td
+Combination: No, Pair ( Td Ts Qd 8c 6c )
+Shows: Keettu, Kh 2h
+Combination: Keettu, High Card ( Kh Qd Ts 8c 6c )
+Wins: No, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Keettu, chips: 200
+Folds: No
+Pot size: 300
+Wins: Keettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 100
+Flop: 8d Td 2s
+Turn: 2h
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: No, As 8c
+Combination: No, Two Pair ( 8c 8d 2s 2h As )
+Shows: Keettu, 5d 2d
+Combination: Keettu, Full House ( 2d 2s 2h 5d 5s )
+Wins: Keettu, chips: 200
+Quits: No, chips: 0
+Ranking: Keettu, Place: 1, Score: 1000
+Reveal AI: Keettu, AI: Random
+Ranking: No, Place: 2, Score: -1000
+Reveal AI: No, AI: AIMyBot1
+
+Player Stats for Keettu, AI: Random
+General: deals: 17, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for No, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 5, showdown: 1, bluff: 4
+Chips: won: 1400, lost: 2400, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:17
+
+The game begins. The AI's of the players are: 
+No: AIMyBot1
+Keettu: Random
+
+Joins: No, chips: 1000
+Joins: Keettu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 200
+Folds: Keettu
+Pot size: 300
+Wins: No, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Keettu, chips: 200
+Folds: No
+Pot size: 300
+Wins: Keettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 200
+Raises: Keettu, chips: 300
+Folds: No
+Pot size: 700
+Wins: Keettu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Keettu, chips: 200
+Folds: No
+Pot size: 300
+Boasts: Keettu, 2c 8s
+Wins: Keettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 200
+Calls: Keettu
+DEBUG MESSAGE: INVALID ACTION FROM No (2 0)
+Folds: No
+Pot size: 400
+Wins: Keettu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Keettu, chips: 200
+Folds: No
+Pot size: 300
+Boasts: Keettu, Tc 5s
+Wins: Keettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 200
+Folds: Keettu
+Pot size: 300
+Boasts: Keettu, 5s 7h
+Wins: No, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Keettu, chips: 200
+Folds: No
+Pot size: 300
+Boasts: Keettu, Jd Kh
+Wins: Keettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 200
+Folds: Keettu
+Pot size: 300
+Wins: No, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Keettu, chips: 200
+Folds: No
+Pot size: 300
+Boasts: Keettu, 8s 7c
+Wins: Keettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 200
+Folds: Keettu
+Pot size: 300
+Boasts: Keettu, Qd Ah
+Wins: No, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Keettu, chips: 200
+Folds: No
+Pot size: 300
+Boasts: Keettu, Ks 4h
+Wins: Keettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 200
+Calls: Keettu
+DEBUG MESSAGE: INVALID ACTION FROM No (2 0)
+Folds: No
+Pot size: 400
+Wins: Keettu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Keettu, chips: 200
+Folds: No
+Pot size: 300
+Boasts: Keettu, Ah 6s
+Wins: Keettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 100
+Flop: 6c 8c 3s
+Turn: Qd
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: No, 2s Td
+Combination: No, Pair ( Td Ts Qd 8c 6c )
+Shows: Keettu, Kh 2h
+Combination: Keettu, High Card ( Kh Qd Ts 8c 6c )
+Wins: No, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Keettu, chips: 200
+Folds: No
+Pot size: 300
+Wins: Keettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keettu
+Small Blind: Keettu, chips: 100
+Big Blind: No, chips: 100
+Flop: 8d Td 2s
+Turn: 2h
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: No, As 8c
+Combination: No, Two Pair ( 8c 8d 2s 2h As )
+Shows: Keettu, 5d 2d
+Combination: Keettu, Full House ( 2d 2s 2h 5d 5s )
+Wins: Keettu, chips: 200
+Quits: No, chips: 0
+Ranking: Keettu, Place: 1, Score: 1000
+Reveal AI: Keettu, AI: Random
+Ranking: No, Place: 2, Score: -1000
+Reveal AI: No, AI: AIMyBot1
+
+Player Stats for Keettu, AI: Random
+General: deals: 17, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for No, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 5, showdown: 1, bluff: 4
+Chips: won: 1400, lost: 2400, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

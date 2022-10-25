@@ -1,0 +1,372 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Kavu: AIMyBot1
+Sekee: Random
+
+Joins: Kavu, chips: 1000
+Joins: Sekee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kavu
+Small Blind: Kavu, chips: 100
+Big Blind: Sekee, chips: 200
+Folds: Kavu
+Pot size: 300
+Wins: Sekee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sekee
+Small Blind: Sekee, chips: 100
+Big Blind: Kavu, chips: 200
+Raises: Sekee, chips: 300
+Folds: Kavu
+Pot size: 700
+Wins: Sekee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kavu
+Small Blind: Kavu, chips: 100
+Big Blind: Sekee, chips: 200
+Folds: Kavu
+Pot size: 300
+Boasts: Sekee, Kh 9h
+Wins: Sekee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sekee
+Small Blind: Sekee, chips: 100
+Big Blind: Kavu, chips: 200
+Raises: Sekee, chips: 300
+Folds: Kavu
+Pot size: 700
+Boasts: Sekee, 7h 4h
+Wins: Sekee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kavu
+Small Blind: Kavu, chips: 100
+Big Blind: Sekee, chips: 200
+Folds: Kavu
+Pot size: 300
+Boasts: Sekee, Ad Kd
+Wins: Sekee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sekee
+Small Blind: Sekee, chips: 100
+Big Blind: Kavu, chips: 200
+Calls: Sekee
+DEBUG MESSAGE: INVALID ACTION FROM Kavu (2 0)
+Folds: Kavu
+Pot size: 400
+Wins: Sekee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kavu
+Small Blind: Kavu, chips: 100
+Big Blind: Sekee, chips: 200
+Flop: 9c Qd Qh
+Turn: 4h
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Kavu, 6h 9h
+Combination: Kavu, Flush ( Qh Jh 9h 6h 4h )
+Shows: Sekee, 3c 3d
+Combination: Sekee, Two Pair ( Qd Qh 3c 3d Jh )
+Wins: Kavu, chips: 200
+Wins: Sekee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sekee
+Small Blind: Sekee, chips: 100
+Big Blind: Kavu, chips: 200
+Flop: 3c 3h 7s
+Turn: Ts
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Kavu, Kh Jd
+Combination: Kavu, Pair ( 3c 3h Kh Qh Jd )
+Shows: Sekee, 8h As
+Combination: Sekee, Pair ( 3c 3h As Qh Ts )
+Wins: Kavu, chips: 100
+Wins: Sekee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kavu
+Small Blind: Kavu, chips: 100
+Big Blind: Sekee, chips: 200
+Flop: As 2c Qd
+Turn: Qc
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Kavu, 3c 2h
+Combination: Kavu, Two Pair ( Qd Qc 2h 2c As )
+Shows: Sekee, Th 9d
+Combination: Sekee, Pair ( Qd Qc As Th 9d )
+Wins: Kavu, chips: 200
+Wins: Sekee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sekee
+Small Blind: Sekee, chips: 100
+Big Blind: Kavu, chips: 200
+Flop: 5s Qs 4s
+Turn: 8c
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Kavu, Js Th
+Combination: Kavu, Pair ( 4s 4h Qs Js Th )
+Shows: Sekee, Ks 3d
+Combination: Sekee, Pair ( 4s 4h Ks Qs 8c )
+Wins: Kavu, chips: 100
+Wins: Sekee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kavu
+Small Blind: Kavu, chips: 100
+Big Blind: Sekee, chips: 200
+Flop: 3c 3d 4d
+Turn: 8h
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Kavu, Qc 7h
+Combination: Kavu, Two Pair ( Qc Qd 3c 3d 8h )
+Shows: Sekee, Ks 6s
+Combination: Sekee, Pair ( 3c 3d Ks Qd 8h )
+Wins: Kavu, chips: 200
+Wins: Sekee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sekee
+Small Blind: Sekee, chips: 100
+Big Blind: Kavu, chips: 200
+Flop: 4d Kh 4h
+Turn: Qs
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Kavu, Th 2h
+Combination: Kavu, Pair ( 4d 4h Kh Qs Th )
+Shows: Sekee, 3c Js
+Combination: Sekee, Pair ( 4d 4h Kh Qs Js )
+Wins: Kavu, chips: 100
+Wins: Sekee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kavu
+Small Blind: Kavu, chips: 100
+Big Blind: Sekee, chips: 200
+Flop: Jd Kh 7c
+Turn: 6d
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Kavu, Tc Ks
+Combination: Kavu, Pair ( Ks Kh Jd Tc 8c )
+Shows: Sekee, 7h 8d
+Combination: Sekee, Two Pair ( 8d 8c 7h 7c Kh )
+Wins: Sekee, chips: 300
+Quits: Kavu, chips: 0
+Ranking: Sekee, Place: 1, Score: 1000
+Reveal AI: Sekee, AI: Random
+Ranking: Kavu, Place: 2, Score: -1000
+Reveal AI: Kavu, AI: AIMyBot1
+
+Player Stats for Kavu, AI: AIMyBot1
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Sekee, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 13, showdown: 7, bluff: 6
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:31
+
+The game begins. The AI's of the players are: 
+Kavu: AIMyBot1
+Sekee: Random
+
+Joins: Kavu, chips: 1000
+Joins: Sekee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kavu
+Small Blind: Kavu, chips: 100
+Big Blind: Sekee, chips: 200
+Folds: Kavu
+Pot size: 300
+Wins: Sekee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sekee
+Small Blind: Sekee, chips: 100
+Big Blind: Kavu, chips: 200
+Raises: Sekee, chips: 300
+Folds: Kavu
+Pot size: 700
+Wins: Sekee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kavu
+Small Blind: Kavu, chips: 100
+Big Blind: Sekee, chips: 200
+Folds: Kavu
+Pot size: 300
+Boasts: Sekee, Kh 9h
+Wins: Sekee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sekee
+Small Blind: Sekee, chips: 100
+Big Blind: Kavu, chips: 200
+Raises: Sekee, chips: 300
+Folds: Kavu
+Pot size: 700
+Boasts: Sekee, 7h 4h
+Wins: Sekee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kavu
+Small Blind: Kavu, chips: 100
+Big Blind: Sekee, chips: 200
+Folds: Kavu
+Pot size: 300
+Boasts: Sekee, Ad Kd
+Wins: Sekee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sekee
+Small Blind: Sekee, chips: 100
+Big Blind: Kavu, chips: 200
+Calls: Sekee
+DEBUG MESSAGE: INVALID ACTION FROM Kavu (2 0)
+Folds: Kavu
+Pot size: 400
+Wins: Sekee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kavu
+Small Blind: Kavu, chips: 100
+Big Blind: Sekee, chips: 200
+Flop: 9c Qd Qh
+Turn: 4h
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Kavu, 6h 9h
+Combination: Kavu, Flush ( Qh Jh 9h 6h 4h )
+Shows: Sekee, 3c 3d
+Combination: Sekee, Two Pair ( Qd Qh 3c 3d Jh )
+Wins: Kavu, chips: 200
+Wins: Sekee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sekee
+Small Blind: Sekee, chips: 100
+Big Blind: Kavu, chips: 200
+Flop: 3c 3h 7s
+Turn: Ts
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Kavu, Kh Jd
+Combination: Kavu, Pair ( 3c 3h Kh Qh Jd )
+Shows: Sekee, 8h As
+Combination: Sekee, Pair ( 3c 3h As Qh Ts )
+Wins: Kavu, chips: 100
+Wins: Sekee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kavu
+Small Blind: Kavu, chips: 100
+Big Blind: Sekee, chips: 200
+Flop: As 2c Qd
+Turn: Qc
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Kavu, 3c 2h
+Combination: Kavu, Two Pair ( Qd Qc 2h 2c As )
+Shows: Sekee, Th 9d
+Combination: Sekee, Pair ( Qd Qc As Th 9d )
+Wins: Kavu, chips: 200
+Wins: Sekee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sekee
+Small Blind: Sekee, chips: 100
+Big Blind: Kavu, chips: 200
+Flop: 5s Qs 4s
+Turn: 8c
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Kavu, Js Th
+Combination: Kavu, Pair ( 4s 4h Qs Js Th )
+Shows: Sekee, Ks 3d
+Combination: Sekee, Pair ( 4s 4h Ks Qs 8c )
+Wins: Kavu, chips: 100
+Wins: Sekee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kavu
+Small Blind: Kavu, chips: 100
+Big Blind: Sekee, chips: 200
+Flop: 3c 3d 4d
+Turn: 8h
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Kavu, Qc 7h
+Combination: Kavu, Two Pair ( Qc Qd 3c 3d 8h )
+Shows: Sekee, Ks 6s
+Combination: Sekee, Pair ( 3c 3d Ks Qd 8h )
+Wins: Kavu, chips: 200
+Wins: Sekee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sekee
+Small Blind: Sekee, chips: 100
+Big Blind: Kavu, chips: 200
+Flop: 4d Kh 4h
+Turn: Qs
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Kavu, Th 2h
+Combination: Kavu, Pair ( 4d 4h Kh Qs Th )
+Shows: Sekee, 3c Js
+Combination: Sekee, Pair ( 4d 4h Kh Qs Js )
+Wins: Kavu, chips: 100
+Wins: Sekee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kavu
+Small Blind: Kavu, chips: 100
+Big Blind: Sekee, chips: 200
+Flop: Jd Kh 7c
+Turn: 6d
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Kavu, Tc Ks
+Combination: Kavu, Pair ( Ks Kh Jd Tc 8c )
+Shows: Sekee, 7h 8d
+Combination: Sekee, Two Pair ( 8d 8c 7h 7c Kh )
+Wins: Sekee, chips: 300
+Quits: Kavu, chips: 0
+Ranking: Sekee, Place: 1, Score: 1000
+Reveal AI: Sekee, AI: Random
+Ranking: Kavu, Place: 2, Score: -1000
+Reveal AI: Kavu, AI: AIMyBot1
+
+Player Stats for Kavu, AI: AIMyBot1
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Sekee, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 13, showdown: 7, bluff: 6
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

@@ -1,0 +1,192 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gawim: AIMyBot1
+Koebi: Random
+
+Joins: Gawim, chips: 1000
+Joins: Koebi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawim
+Small Blind: Gawim, chips: 100
+Big Blind: Koebi, chips: 200
+Folds: Gawim
+Pot size: 300
+Boasts: Koebi, Qh Kc
+Wins: Koebi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koebi
+Small Blind: Koebi, chips: 100
+Big Blind: Gawim, chips: 200
+Raises: Koebi, chips: 300
+Folds: Gawim
+Pot size: 700
+Wins: Koebi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawim
+Small Blind: Gawim, chips: 100
+Big Blind: Koebi, chips: 200
+Folds: Gawim
+Pot size: 300
+Wins: Koebi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koebi
+Small Blind: Koebi, chips: 100
+Big Blind: Gawim, chips: 200
+Raises: Koebi, chips: 300
+Folds: Gawim
+Pot size: 700
+Boasts: Koebi, 8c 4c
+Wins: Koebi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawim
+Small Blind: Gawim, chips: 100
+Big Blind: Koebi, chips: 200
+Folds: Gawim
+Pot size: 300
+Boasts: Koebi, Qs 7h
+Wins: Koebi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koebi
+Small Blind: Koebi, chips: 100
+Big Blind: Gawim, chips: 200
+Calls: Koebi
+DEBUG MESSAGE: INVALID ACTION FROM Gawim (2 0)
+Folds: Gawim
+Pot size: 400
+Wins: Koebi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawim
+Small Blind: Gawim, chips: 100
+Big Blind: Koebi, chips: 200
+Flop: Ts 2c Ad
+Turn: 5s
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Gawim, Qs 2s
+Combination: Gawim, Pair ( 2s 2c Ad Qs Ts )
+Shows: Koebi, As 9d
+Combination: Koebi, Pair ( As Ad Ts 9d 7c )
+Wins: Koebi, chips: 300
+Quits: Gawim, chips: 0
+Ranking: Koebi, Place: 1, Score: 1000
+Reveal AI: Koebi, AI: Random
+Ranking: Gawim, Place: 2, Score: -1000
+Reveal AI: Gawim, AI: AIMyBot1
+
+Player Stats for Gawim, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Koebi, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:33
+
+The game begins. The AI's of the players are: 
+Gawim: AIMyBot1
+Koebi: Random
+
+Joins: Gawim, chips: 1000
+Joins: Koebi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawim
+Small Blind: Gawim, chips: 100
+Big Blind: Koebi, chips: 200
+Folds: Gawim
+Pot size: 300
+Boasts: Koebi, Qh Kc
+Wins: Koebi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koebi
+Small Blind: Koebi, chips: 100
+Big Blind: Gawim, chips: 200
+Raises: Koebi, chips: 300
+Folds: Gawim
+Pot size: 700
+Wins: Koebi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawim
+Small Blind: Gawim, chips: 100
+Big Blind: Koebi, chips: 200
+Folds: Gawim
+Pot size: 300
+Wins: Koebi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koebi
+Small Blind: Koebi, chips: 100
+Big Blind: Gawim, chips: 200
+Raises: Koebi, chips: 300
+Folds: Gawim
+Pot size: 700
+Boasts: Koebi, 8c 4c
+Wins: Koebi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawim
+Small Blind: Gawim, chips: 100
+Big Blind: Koebi, chips: 200
+Folds: Gawim
+Pot size: 300
+Boasts: Koebi, Qs 7h
+Wins: Koebi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koebi
+Small Blind: Koebi, chips: 100
+Big Blind: Gawim, chips: 200
+Calls: Koebi
+DEBUG MESSAGE: INVALID ACTION FROM Gawim (2 0)
+Folds: Gawim
+Pot size: 400
+Wins: Koebi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawim
+Small Blind: Gawim, chips: 100
+Big Blind: Koebi, chips: 200
+Flop: Ts 2c Ad
+Turn: 5s
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Gawim, Qs 2s
+Combination: Gawim, Pair ( 2s 2c Ad Qs Ts )
+Shows: Koebi, As 9d
+Combination: Koebi, Pair ( As Ad Ts 9d 7c )
+Wins: Koebi, chips: 300
+Quits: Gawim, chips: 0
+Ranking: Koebi, Place: 1, Score: 1000
+Reveal AI: Koebi, AI: Random
+Ranking: Gawim, Place: 2, Score: -1000
+Reveal AI: Gawim, AI: AIMyBot1
+
+Player Stats for Gawim, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Koebi, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

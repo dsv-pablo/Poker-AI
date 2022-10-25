@@ -1,0 +1,282 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Foereeto: AIMyBot1
+Farleep: Random
+
+Joins: Foereeto, chips: 1000
+Joins: Farleep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Farleep
+Small Blind: Farleep, chips: 100
+Big Blind: Foereeto, chips: 200
+Calls: Farleep
+DEBUG MESSAGE: INVALID ACTION FROM Foereeto (2 0)
+Folds: Foereeto
+Pot size: 400
+Wins: Farleep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foereeto
+Small Blind: Foereeto, chips: 100
+Big Blind: Farleep, chips: 200
+Folds: Foereeto
+Pot size: 300
+Wins: Farleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Farleep
+Small Blind: Farleep, chips: 100
+Big Blind: Foereeto, chips: 200
+Folds: Farleep
+Pot size: 300
+Boasts: Farleep, Qc 9c
+Wins: Foereeto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foereeto
+Small Blind: Foereeto, chips: 100
+Big Blind: Farleep, chips: 200
+Folds: Foereeto
+Pot size: 300
+Wins: Farleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Farleep
+Small Blind: Farleep, chips: 100
+Big Blind: Foereeto, chips: 200
+Folds: Farleep
+Pot size: 300
+Boasts: Farleep, 6h Ad
+Wins: Foereeto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foereeto
+Small Blind: Foereeto, chips: 100
+Big Blind: Farleep, chips: 200
+Folds: Foereeto
+Pot size: 300
+Wins: Farleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Farleep
+Small Blind: Farleep, chips: 100
+Big Blind: Foereeto, chips: 200
+Calls: Farleep
+DEBUG MESSAGE: INVALID ACTION FROM Foereeto (2 0)
+Folds: Foereeto
+Pot size: 400
+Wins: Farleep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foereeto
+Small Blind: Foereeto, chips: 100
+Big Blind: Farleep, chips: 200
+Folds: Foereeto
+Pot size: 300
+Wins: Farleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Farleep
+Small Blind: Farleep, chips: 100
+Big Blind: Foereeto, chips: 200
+Folds: Farleep
+Pot size: 300
+Boasts: Farleep, 9c 6c
+Wins: Foereeto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foereeto
+Small Blind: Foereeto, chips: 100
+Big Blind: Farleep, chips: 200
+Folds: Foereeto
+Pot size: 300
+Wins: Farleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Farleep
+Small Blind: Farleep, chips: 100
+Big Blind: Foereeto, chips: 200
+Calls: Farleep
+DEBUG MESSAGE: INVALID ACTION FROM Foereeto (2 0)
+Folds: Foereeto
+Pot size: 400
+Boasts: Farleep, 7s Ks
+Wins: Farleep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foereeto
+Small Blind: Foereeto, chips: 100
+Big Blind: Farleep, chips: 200
+Folds: Foereeto
+Pot size: 300
+Wins: Farleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Farleep
+Small Blind: Farleep, chips: 100
+Big Blind: Foereeto, chips: 100
+Flop: Kh Jh 4s
+Turn: Tc
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Foereeto, 5h Td
+Combination: Foereeto, Pair ( Td Tc Kh Jh 7h )
+Shows: Farleep, Kd Qs
+Combination: Farleep, Pair ( Kd Kh Qs Jh Tc )
+Wins: Farleep, chips: 200
+Quits: Foereeto, chips: 0
+Ranking: Farleep, Place: 1, Score: 1000
+Reveal AI: Farleep, AI: Random
+Ranking: Foereeto, Place: 2, Score: -1000
+Reveal AI: Foereeto, AI: AIMyBot1
+
+Player Stats for Farleep, AI: Random
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Foereeto, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 3, showdown: 0, bluff: 3
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:15
+
+The game begins. The AI's of the players are: 
+Foereeto: AIMyBot1
+Farleep: Random
+
+Joins: Foereeto, chips: 1000
+Joins: Farleep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Farleep
+Small Blind: Farleep, chips: 100
+Big Blind: Foereeto, chips: 200
+Calls: Farleep
+DEBUG MESSAGE: INVALID ACTION FROM Foereeto (2 0)
+Folds: Foereeto
+Pot size: 400
+Wins: Farleep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foereeto
+Small Blind: Foereeto, chips: 100
+Big Blind: Farleep, chips: 200
+Folds: Foereeto
+Pot size: 300
+Wins: Farleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Farleep
+Small Blind: Farleep, chips: 100
+Big Blind: Foereeto, chips: 200
+Folds: Farleep
+Pot size: 300
+Boasts: Farleep, Qc 9c
+Wins: Foereeto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foereeto
+Small Blind: Foereeto, chips: 100
+Big Blind: Farleep, chips: 200
+Folds: Foereeto
+Pot size: 300
+Wins: Farleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Farleep
+Small Blind: Farleep, chips: 100
+Big Blind: Foereeto, chips: 200
+Folds: Farleep
+Pot size: 300
+Boasts: Farleep, 6h Ad
+Wins: Foereeto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foereeto
+Small Blind: Foereeto, chips: 100
+Big Blind: Farleep, chips: 200
+Folds: Foereeto
+Pot size: 300
+Wins: Farleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Farleep
+Small Blind: Farleep, chips: 100
+Big Blind: Foereeto, chips: 200
+Calls: Farleep
+DEBUG MESSAGE: INVALID ACTION FROM Foereeto (2 0)
+Folds: Foereeto
+Pot size: 400
+Wins: Farleep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foereeto
+Small Blind: Foereeto, chips: 100
+Big Blind: Farleep, chips: 200
+Folds: Foereeto
+Pot size: 300
+Wins: Farleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Farleep
+Small Blind: Farleep, chips: 100
+Big Blind: Foereeto, chips: 200
+Folds: Farleep
+Pot size: 300
+Boasts: Farleep, 9c 6c
+Wins: Foereeto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foereeto
+Small Blind: Foereeto, chips: 100
+Big Blind: Farleep, chips: 200
+Folds: Foereeto
+Pot size: 300
+Wins: Farleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Farleep
+Small Blind: Farleep, chips: 100
+Big Blind: Foereeto, chips: 200
+Calls: Farleep
+DEBUG MESSAGE: INVALID ACTION FROM Foereeto (2 0)
+Folds: Foereeto
+Pot size: 400
+Boasts: Farleep, 7s Ks
+Wins: Farleep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foereeto
+Small Blind: Foereeto, chips: 100
+Big Blind: Farleep, chips: 200
+Folds: Foereeto
+Pot size: 300
+Wins: Farleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Farleep
+Small Blind: Farleep, chips: 100
+Big Blind: Foereeto, chips: 100
+Flop: Kh Jh 4s
+Turn: Tc
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Foereeto, 5h Td
+Combination: Foereeto, Pair ( Td Tc Kh Jh 7h )
+Shows: Farleep, Kd Qs
+Combination: Farleep, Pair ( Kd Kh Qs Jh Tc )
+Wins: Farleep, chips: 200
+Quits: Foereeto, chips: 0
+Ranking: Farleep, Place: 1, Score: 1000
+Reveal AI: Farleep, AI: Random
+Ranking: Foereeto, Place: 2, Score: -1000
+Reveal AI: Foereeto, AI: AIMyBot1
+
+Player Stats for Farleep, AI: Random
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Foereeto, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 3, showdown: 0, bluff: 3
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

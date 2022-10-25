@@ -1,0 +1,606 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Chucho: Random
+Rowreesi: AIMyBot1
+
+Joins: Chucho, chips: 1000
+Joins: Rowreesi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Boasts: Chucho, 3h Kd
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Raises: Chucho, chips: 300
+Folds: Rowreesi
+Pot size: 700
+Wins: Chucho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Boasts: Chucho, Jc Th
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Folds: Chucho
+Pot size: 300
+Boasts: Chucho, Qc 9d
+Wins: Rowreesi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Calls: Chucho
+DEBUG MESSAGE: INVALID ACTION FROM Rowreesi (2 0)
+Folds: Rowreesi
+Pot size: 400
+Boasts: Chucho, 7d Jd
+Wins: Chucho, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Folds: Chucho
+Pot size: 300
+Boasts: Chucho, 5d Kd
+Wins: Rowreesi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Raises: Chucho, chips: 300
+Folds: Rowreesi
+Pot size: 700
+Boasts: Chucho, 3d 7c
+Wins: Chucho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Flop: Kh Th Kc
+Turn: 7d
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Chucho, 6d 4s
+Combination: Chucho, Pair ( Kh Kc Qs Th 7d )
+Shows: Rowreesi, 7c 5h
+Combination: Rowreesi, Two Pair ( Kh Kc 7c 7d Qs )
+Wins: Chucho, chips: 100
+Wins: Rowreesi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Flop: 6d 4c 2d
+Turn: Jc
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Chucho, 6c 2h
+Combination: Chucho, Two Pair ( 6c 6d 2h 2d Jc )
+Shows: Rowreesi, 8s Th
+Combination: Rowreesi, High Card ( Jc Th 9s 8s 6d )
+Wins: Chucho, chips: 200
+Wins: Rowreesi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Flop: 2h 6c Ts
+Turn: 3s
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Chucho, 2s 9d
+Combination: Chucho, Two Pair ( Ts Th 2s 2h 9d )
+Shows: Rowreesi, 5d 4c
+Combination: Rowreesi, Straight ( 6c 5d 4c 3s 2h )
+Wins: Chucho, chips: 100
+Wins: Rowreesi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Flop: 8h 4s Qs
+Turn: Ad
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Chucho, 9h 6h
+Combination: Chucho, High Card ( Ad Ks Qs 9h 8h )
+Shows: Rowreesi, Td 5d
+Combination: Rowreesi, High Card ( Ad Ks Qs Td 8h )
+Wins: Rowreesi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Flop: Td 6s 5d
+Turn: 6h
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Chucho, Ac Ts
+Combination: Chucho, Two Pair ( Ts Td 6s 6h Ac )
+Shows: Rowreesi, Qh 3c
+Combination: Rowreesi, Pair ( 6s 6h Qh Td 7h )
+Wins: Chucho, chips: 200
+Wins: Rowreesi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Flop: 8h Jc 6c
+Turn: 9h
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Chucho, Ah 6h
+Combination: Chucho, Pair ( 6h 6c Ah Jc 9h )
+Shows: Rowreesi, 7s 3h
+Combination: Rowreesi, Pair ( 7s 7c Jc 9h 8h )
+Wins: Chucho, chips: 100
+Wins: Rowreesi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Flop: Jh Jd 9d
+Turn: 8h
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Chucho, 9s 6c
+Combination: Chucho, Two Pair ( Jh Jd 9s 9d 8h )
+Shows: Rowreesi, Td 7d
+Combination: Rowreesi, Straight ( Jh Td 9d 8h 7d )
+Wins: Rowreesi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Flop: 9d Qh 5s
+Turn: 4c
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Chucho, 4h 6h
+Combination: Chucho, Pair ( 4h 4c Qh 9d 6h )
+Shows: Rowreesi, 6c 6d
+Combination: Rowreesi, Pair ( 6c 6d Qh 9d 5s )
+Wins: Rowreesi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Boasts: Chucho, Jh 3h
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Flop: 8c 4c Ts
+Turn: 2d
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Chucho, 6c Js
+Combination: Chucho, Pair ( Ts Tc Js 8c 6c )
+Shows: Rowreesi, Kc 3c
+Combination: Rowreesi, Flush ( Kc Tc 8c 4c 3c )
+Wins: Rowreesi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Boasts: Chucho, 6s Kc
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Flop: 5h 6h 6c
+Turn: Js
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Chucho, Qc Th
+Combination: Chucho, Three Of A Kind ( 6h 6c 6s Qc Js )
+Shows: Rowreesi, 8s 9d
+Combination: Rowreesi, Three Of A Kind ( 6h 6c 6s Js 9d )
+Wins: Chucho, chips: 200
+Wins: Rowreesi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Flop: 7d 3d Ks
+Turn: Th
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Chucho, Td 8h
+Combination: Chucho, Two Pair ( Td Th 3d 3s Ks )
+Shows: Rowreesi, 5c 4s
+Combination: Rowreesi, Pair ( 3d 3s Ks Th 7d )
+Wins: Chucho, chips: 300
+Quits: Rowreesi, chips: 0
+Ranking: Chucho, Place: 1, Score: 1000
+Reveal AI: Chucho, AI: Random
+Ranking: Rowreesi, Place: 2, Score: -1000
+Reveal AI: Rowreesi, AI: AIMyBot1
+
+Player Stats for Chucho, AI: Random
+General: deals: 25, actions: 5, preflop actions: 5
+Rounds Seen: flops: 11, turns: 11, rivers: 11, showdowns: 11
+Wins: total: 19, showdown: 7, bluff: 12
+Chips: won: 5700, lost: 4700, bought: 1000, forced bets: 3800
+Pre-Flop Stats: VP$IP: 0.12, PFR: 0.08, 3Bet: 0.08
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.636364
+
+
+Player Stats for Rowreesi, AI: AIMyBot1
+General: deals: 25, actions: 12, preflop actions: 12
+Rounds Seen: flops: 11, turns: 11, rivers: 11, showdowns: 11
+Wins: total: 12, showdown: 10, bluff: 2
+Chips: won: 2700, lost: 3700, bought: 1000, forced bets: 3700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.909091
+
+
+Date: 2022/10/25 13:46:27
+
+The game begins. The AI's of the players are: 
+Chucho: Random
+Rowreesi: AIMyBot1
+
+Joins: Chucho, chips: 1000
+Joins: Rowreesi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Boasts: Chucho, 3h Kd
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Raises: Chucho, chips: 300
+Folds: Rowreesi
+Pot size: 700
+Wins: Chucho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Boasts: Chucho, Jc Th
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Folds: Chucho
+Pot size: 300
+Boasts: Chucho, Qc 9d
+Wins: Rowreesi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Calls: Chucho
+DEBUG MESSAGE: INVALID ACTION FROM Rowreesi (2 0)
+Folds: Rowreesi
+Pot size: 400
+Boasts: Chucho, 7d Jd
+Wins: Chucho, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Folds: Chucho
+Pot size: 300
+Boasts: Chucho, 5d Kd
+Wins: Rowreesi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Raises: Chucho, chips: 300
+Folds: Rowreesi
+Pot size: 700
+Boasts: Chucho, 3d 7c
+Wins: Chucho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Flop: Kh Th Kc
+Turn: 7d
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Chucho, 6d 4s
+Combination: Chucho, Pair ( Kh Kc Qs Th 7d )
+Shows: Rowreesi, 7c 5h
+Combination: Rowreesi, Two Pair ( Kh Kc 7c 7d Qs )
+Wins: Chucho, chips: 100
+Wins: Rowreesi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Flop: 6d 4c 2d
+Turn: Jc
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Chucho, 6c 2h
+Combination: Chucho, Two Pair ( 6c 6d 2h 2d Jc )
+Shows: Rowreesi, 8s Th
+Combination: Rowreesi, High Card ( Jc Th 9s 8s 6d )
+Wins: Chucho, chips: 200
+Wins: Rowreesi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Flop: 2h 6c Ts
+Turn: 3s
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Chucho, 2s 9d
+Combination: Chucho, Two Pair ( Ts Th 2s 2h 9d )
+Shows: Rowreesi, 5d 4c
+Combination: Rowreesi, Straight ( 6c 5d 4c 3s 2h )
+Wins: Chucho, chips: 100
+Wins: Rowreesi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Flop: 8h 4s Qs
+Turn: Ad
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Chucho, 9h 6h
+Combination: Chucho, High Card ( Ad Ks Qs 9h 8h )
+Shows: Rowreesi, Td 5d
+Combination: Rowreesi, High Card ( Ad Ks Qs Td 8h )
+Wins: Rowreesi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Flop: Td 6s 5d
+Turn: 6h
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Chucho, Ac Ts
+Combination: Chucho, Two Pair ( Ts Td 6s 6h Ac )
+Shows: Rowreesi, Qh 3c
+Combination: Rowreesi, Pair ( 6s 6h Qh Td 7h )
+Wins: Chucho, chips: 200
+Wins: Rowreesi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Flop: 8h Jc 6c
+Turn: 9h
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Chucho, Ah 6h
+Combination: Chucho, Pair ( 6h 6c Ah Jc 9h )
+Shows: Rowreesi, 7s 3h
+Combination: Rowreesi, Pair ( 7s 7c Jc 9h 8h )
+Wins: Chucho, chips: 100
+Wins: Rowreesi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Flop: Jh Jd 9d
+Turn: 8h
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Chucho, 9s 6c
+Combination: Chucho, Two Pair ( Jh Jd 9s 9d 8h )
+Shows: Rowreesi, Td 7d
+Combination: Rowreesi, Straight ( Jh Td 9d 8h 7d )
+Wins: Rowreesi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Flop: 9d Qh 5s
+Turn: 4c
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Chucho, 4h 6h
+Combination: Chucho, Pair ( 4h 4c Qh 9d 6h )
+Shows: Rowreesi, 6c 6d
+Combination: Rowreesi, Pair ( 6c 6d Qh 9d 5s )
+Wins: Rowreesi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Boasts: Chucho, Jh 3h
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Flop: 8c 4c Ts
+Turn: 2d
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Chucho, 6c Js
+Combination: Chucho, Pair ( Ts Tc Js 8c 6c )
+Shows: Rowreesi, Kc 3c
+Combination: Rowreesi, Flush ( Kc Tc 8c 4c 3c )
+Wins: Rowreesi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Folds: Rowreesi
+Pot size: 300
+Boasts: Chucho, 6s Kc
+Wins: Chucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chucho
+Small Blind: Chucho, chips: 100
+Big Blind: Rowreesi, chips: 200
+Flop: 5h 6h 6c
+Turn: Js
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Chucho, Qc Th
+Combination: Chucho, Three Of A Kind ( 6h 6c 6s Qc Js )
+Shows: Rowreesi, 8s 9d
+Combination: Rowreesi, Three Of A Kind ( 6h 6c 6s Js 9d )
+Wins: Chucho, chips: 200
+Wins: Rowreesi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rowreesi
+Small Blind: Rowreesi, chips: 100
+Big Blind: Chucho, chips: 200
+Flop: 7d 3d Ks
+Turn: Th
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Chucho, Td 8h
+Combination: Chucho, Two Pair ( Td Th 3d 3s Ks )
+Shows: Rowreesi, 5c 4s
+Combination: Rowreesi, Pair ( 3d 3s Ks Th 7d )
+Wins: Chucho, chips: 300
+Quits: Rowreesi, chips: 0
+Ranking: Chucho, Place: 1, Score: 1000
+Reveal AI: Chucho, AI: Random
+Ranking: Rowreesi, Place: 2, Score: -1000
+Reveal AI: Rowreesi, AI: AIMyBot1
+
+Player Stats for Chucho, AI: Random
+General: deals: 25, actions: 5, preflop actions: 5
+Rounds Seen: flops: 11, turns: 11, rivers: 11, showdowns: 11
+Wins: total: 19, showdown: 7, bluff: 12
+Chips: won: 5700, lost: 4700, bought: 1000, forced bets: 3800
+Pre-Flop Stats: VP$IP: 0.12, PFR: 0.08, 3Bet: 0.08
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.636364
+
+
+Player Stats for Rowreesi, AI: AIMyBot1
+General: deals: 25, actions: 12, preflop actions: 12
+Rounds Seen: flops: 11, turns: 11, rivers: 11, showdowns: 11
+Wins: total: 12, showdown: 10, bluff: 2
+Chips: won: 2700, lost: 3700, bought: 1000, forced bets: 3700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.909091
+
+

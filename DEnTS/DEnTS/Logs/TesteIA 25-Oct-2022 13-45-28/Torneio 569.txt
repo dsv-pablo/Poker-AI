@@ -1,0 +1,222 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Sichitry: AIMyBot1
+Tuwo: Random
+
+Joins: Sichitry, chips: 1000
+Joins: Tuwo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwo
+Small Blind: Tuwo, chips: 100
+Big Blind: Sichitry, chips: 200
+Folds: Tuwo
+Pot size: 300
+Wins: Sichitry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sichitry
+Small Blind: Sichitry, chips: 100
+Big Blind: Tuwo, chips: 200
+Folds: Sichitry
+Pot size: 300
+Boasts: Tuwo, 6d Ks
+Wins: Tuwo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwo
+Small Blind: Tuwo, chips: 100
+Big Blind: Sichitry, chips: 200
+Calls: Tuwo
+DEBUG MESSAGE: INVALID ACTION FROM Sichitry (2 0)
+Folds: Sichitry
+Pot size: 400
+Boasts: Tuwo, Kh 9d
+Wins: Tuwo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sichitry
+Small Blind: Sichitry, chips: 100
+Big Blind: Tuwo, chips: 200
+Folds: Sichitry
+Pot size: 300
+Wins: Tuwo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwo
+Small Blind: Tuwo, chips: 100
+Big Blind: Sichitry, chips: 200
+Raises: Tuwo, chips: 300
+Folds: Sichitry
+Pot size: 700
+Wins: Tuwo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sichitry
+Small Blind: Sichitry, chips: 100
+Big Blind: Tuwo, chips: 200
+Folds: Sichitry
+Pot size: 300
+Boasts: Tuwo, 2s Qs
+Wins: Tuwo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwo
+Small Blind: Tuwo, chips: 100
+Big Blind: Sichitry, chips: 200
+Calls: Tuwo
+DEBUG MESSAGE: INVALID ACTION FROM Sichitry (2 0)
+Folds: Sichitry
+Pot size: 400
+Wins: Tuwo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sichitry
+Small Blind: Sichitry, chips: 100
+Big Blind: Tuwo, chips: 200
+Folds: Sichitry
+Pot size: 300
+Wins: Tuwo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwo
+Small Blind: Tuwo, chips: 100
+Big Blind: Sichitry, chips: 100
+Flop: Qs 7h Ks
+Turn: Qh
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Sichitry, 2h 9c
+Combination: Sichitry, Pair ( Qs Qh Ks 9c 7h )
+Shows: Tuwo, 4s Qc
+Combination: Tuwo, Three Of A Kind ( Qc Qs Qh Ks 7h )
+Wins: Tuwo, chips: 200
+Quits: Sichitry, chips: 0
+Ranking: Tuwo, Place: 1, Score: 1000
+Reveal AI: Tuwo, AI: Random
+Ranking: Sichitry, Place: 2, Score: -1000
+Reveal AI: Sichitry, AI: AIMyBot1
+
+Player Stats for Sichitry, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Tuwo, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:07
+
+The game begins. The AI's of the players are: 
+Sichitry: AIMyBot1
+Tuwo: Random
+
+Joins: Sichitry, chips: 1000
+Joins: Tuwo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwo
+Small Blind: Tuwo, chips: 100
+Big Blind: Sichitry, chips: 200
+Folds: Tuwo
+Pot size: 300
+Wins: Sichitry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sichitry
+Small Blind: Sichitry, chips: 100
+Big Blind: Tuwo, chips: 200
+Folds: Sichitry
+Pot size: 300
+Boasts: Tuwo, 6d Ks
+Wins: Tuwo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwo
+Small Blind: Tuwo, chips: 100
+Big Blind: Sichitry, chips: 200
+Calls: Tuwo
+DEBUG MESSAGE: INVALID ACTION FROM Sichitry (2 0)
+Folds: Sichitry
+Pot size: 400
+Boasts: Tuwo, Kh 9d
+Wins: Tuwo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sichitry
+Small Blind: Sichitry, chips: 100
+Big Blind: Tuwo, chips: 200
+Folds: Sichitry
+Pot size: 300
+Wins: Tuwo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwo
+Small Blind: Tuwo, chips: 100
+Big Blind: Sichitry, chips: 200
+Raises: Tuwo, chips: 300
+Folds: Sichitry
+Pot size: 700
+Wins: Tuwo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sichitry
+Small Blind: Sichitry, chips: 100
+Big Blind: Tuwo, chips: 200
+Folds: Sichitry
+Pot size: 300
+Boasts: Tuwo, 2s Qs
+Wins: Tuwo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwo
+Small Blind: Tuwo, chips: 100
+Big Blind: Sichitry, chips: 200
+Calls: Tuwo
+DEBUG MESSAGE: INVALID ACTION FROM Sichitry (2 0)
+Folds: Sichitry
+Pot size: 400
+Wins: Tuwo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sichitry
+Small Blind: Sichitry, chips: 100
+Big Blind: Tuwo, chips: 200
+Folds: Sichitry
+Pot size: 300
+Wins: Tuwo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwo
+Small Blind: Tuwo, chips: 100
+Big Blind: Sichitry, chips: 100
+Flop: Qs 7h Ks
+Turn: Qh
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Sichitry, 2h 9c
+Combination: Sichitry, Pair ( Qs Qh Ks 9c 7h )
+Shows: Tuwo, 4s Qc
+Combination: Tuwo, Three Of A Kind ( Qc Qs Qh Ks 7h )
+Wins: Tuwo, chips: 200
+Quits: Sichitry, chips: 0
+Ranking: Tuwo, Place: 1, Score: 1000
+Reveal AI: Tuwo, AI: Random
+Ranking: Sichitry, Place: 2, Score: -1000
+Reveal AI: Sichitry, AI: AIMyBot1
+
+Player Stats for Sichitry, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Tuwo, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

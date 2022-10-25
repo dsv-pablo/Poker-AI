@@ -1,0 +1,254 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Demoev: AIMyBot1
+Bubo: Random
+
+Joins: Demoev, chips: 1000
+Joins: Bubo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Demoev
+Small Blind: Demoev, chips: 100
+Big Blind: Bubo, chips: 200
+Folds: Demoev
+Pot size: 300
+Wins: Bubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bubo
+Small Blind: Bubo, chips: 100
+Big Blind: Demoev, chips: 200
+Calls: Bubo
+DEBUG MESSAGE: INVALID ACTION FROM Demoev (2 0)
+Folds: Demoev
+Pot size: 400
+Wins: Bubo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Demoev
+Small Blind: Demoev, chips: 100
+Big Blind: Bubo, chips: 200
+Folds: Demoev
+Pot size: 300
+Boasts: Bubo, Ts 9h
+Wins: Bubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bubo
+Small Blind: Bubo, chips: 100
+Big Blind: Demoev, chips: 200
+Raises: Bubo, chips: 300
+Folds: Demoev
+Pot size: 700
+Wins: Bubo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Demoev
+Small Blind: Demoev, chips: 100
+Big Blind: Bubo, chips: 200
+Folds: Demoev
+Pot size: 300
+Boasts: Bubo, 3d 7d
+Wins: Bubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bubo
+Small Blind: Bubo, chips: 100
+Big Blind: Demoev, chips: 200
+Calls: Bubo
+DEBUG MESSAGE: INVALID ACTION FROM Demoev (2 0)
+Folds: Demoev
+Pot size: 400
+Boasts: Bubo, Js Kd
+Wins: Bubo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Demoev
+Small Blind: Demoev, chips: 100
+Big Blind: Bubo, chips: 200
+Flop: 8d 5s Tc
+Turn: Js
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Demoev, Td Jh
+Combination: Demoev, Two Pair ( Jh Js Td Tc Ah )
+Shows: Bubo, 8h 2c
+Combination: Bubo, Pair ( 8h 8d Ah Js Tc )
+Wins: Demoev, chips: 200
+Wins: Bubo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bubo
+Small Blind: Bubo, chips: 100
+Big Blind: Demoev, chips: 200
+Flop: 2h 6s Kh
+Turn: Ad
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Demoev, 2d 3c
+Combination: Demoev, Pair ( 2d 2h Ad Kh 7h )
+Shows: Bubo, 8d 6h
+Combination: Bubo, Pair ( 6h 6s Ad Kh 8d )
+Wins: Demoev, chips: 100
+Wins: Bubo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Demoev
+Small Blind: Demoev, chips: 100
+Big Blind: Bubo, chips: 200
+Flop: Qd Ks Jd
+Turn: 9d
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Demoev, Jc 5c
+Combination: Demoev, Pair ( Jc Jd Ad Ks Qd )
+Shows: Bubo, 2d 3h
+Combination: Bubo, Flush ( Ad Qd Jd 9d 2d )
+Wins: Bubo, chips: 300
+Quits: Demoev, chips: 0
+Ranking: Bubo, Place: 1, Score: 1000
+Reveal AI: Bubo, AI: Random
+Ranking: Demoev, Place: 2, Score: -1000
+Reveal AI: Demoev, AI: AIMyBot1
+
+Player Stats for Bubo, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Demoev, AI: AIMyBot1
+General: deals: 9, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:54
+
+The game begins. The AI's of the players are: 
+Demoev: AIMyBot1
+Bubo: Random
+
+Joins: Demoev, chips: 1000
+Joins: Bubo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Demoev
+Small Blind: Demoev, chips: 100
+Big Blind: Bubo, chips: 200
+Folds: Demoev
+Pot size: 300
+Wins: Bubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bubo
+Small Blind: Bubo, chips: 100
+Big Blind: Demoev, chips: 200
+Calls: Bubo
+DEBUG MESSAGE: INVALID ACTION FROM Demoev (2 0)
+Folds: Demoev
+Pot size: 400
+Wins: Bubo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Demoev
+Small Blind: Demoev, chips: 100
+Big Blind: Bubo, chips: 200
+Folds: Demoev
+Pot size: 300
+Boasts: Bubo, Ts 9h
+Wins: Bubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bubo
+Small Blind: Bubo, chips: 100
+Big Blind: Demoev, chips: 200
+Raises: Bubo, chips: 300
+Folds: Demoev
+Pot size: 700
+Wins: Bubo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Demoev
+Small Blind: Demoev, chips: 100
+Big Blind: Bubo, chips: 200
+Folds: Demoev
+Pot size: 300
+Boasts: Bubo, 3d 7d
+Wins: Bubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bubo
+Small Blind: Bubo, chips: 100
+Big Blind: Demoev, chips: 200
+Calls: Bubo
+DEBUG MESSAGE: INVALID ACTION FROM Demoev (2 0)
+Folds: Demoev
+Pot size: 400
+Boasts: Bubo, Js Kd
+Wins: Bubo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Demoev
+Small Blind: Demoev, chips: 100
+Big Blind: Bubo, chips: 200
+Flop: 8d 5s Tc
+Turn: Js
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Demoev, Td Jh
+Combination: Demoev, Two Pair ( Jh Js Td Tc Ah )
+Shows: Bubo, 8h 2c
+Combination: Bubo, Pair ( 8h 8d Ah Js Tc )
+Wins: Demoev, chips: 200
+Wins: Bubo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bubo
+Small Blind: Bubo, chips: 100
+Big Blind: Demoev, chips: 200
+Flop: 2h 6s Kh
+Turn: Ad
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Demoev, 2d 3c
+Combination: Demoev, Pair ( 2d 2h Ad Kh 7h )
+Shows: Bubo, 8d 6h
+Combination: Bubo, Pair ( 6h 6s Ad Kh 8d )
+Wins: Demoev, chips: 100
+Wins: Bubo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Demoev
+Small Blind: Demoev, chips: 100
+Big Blind: Bubo, chips: 200
+Flop: Qd Ks Jd
+Turn: 9d
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Demoev, Jc 5c
+Combination: Demoev, Pair ( Jc Jd Ad Ks Qd )
+Shows: Bubo, 2d 3h
+Combination: Bubo, Flush ( Ad Qd Jd 9d 2d )
+Wins: Bubo, chips: 300
+Quits: Demoev, chips: 0
+Ranking: Bubo, Place: 1, Score: 1000
+Reveal AI: Bubo, AI: Random
+Ranking: Demoev, Place: 2, Score: -1000
+Reveal AI: Demoev, AI: AIMyBot1
+
+Player Stats for Bubo, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Demoev, AI: AIMyBot1
+General: deals: 9, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

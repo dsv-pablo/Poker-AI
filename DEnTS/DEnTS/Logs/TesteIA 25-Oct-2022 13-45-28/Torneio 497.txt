@@ -1,0 +1,650 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Godus: Random
+Fittoleen: AIMyBot1
+
+Joins: Godus, chips: 1000
+Joins: Fittoleen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Raises: Godus, chips: 300
+Folds: Fittoleen
+Pot size: 700
+Wins: Godus, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Boasts: Godus, 7c 7d
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Folds: Godus
+Pot size: 300
+Wins: Fittoleen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Raises: Godus, chips: 300
+Folds: Fittoleen
+Pot size: 700
+Wins: Godus, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Boasts: Godus, 7d 5d
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Raises: Godus, chips: 300
+Folds: Fittoleen
+Pot size: 700
+Wins: Godus, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Flop: 7c Ks 2h
+Turn: 4c
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Godus, 5d 8h
+Combination: Godus, High Card ( Ks 9d 8h 7c 5d )
+Shows: Fittoleen, 5s Jc
+Combination: Fittoleen, High Card ( Ks Jc 9d 7c 5s )
+Wins: Godus, chips: 100
+Wins: Fittoleen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: 6c 7h 7s
+Turn: Th
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Godus, 5s Jh
+Combination: Godus, Pair ( 7h 7s Jh Th 6c )
+Shows: Fittoleen, Td Ad
+Combination: Fittoleen, Two Pair ( Td Th 7h 7s Ad )
+Wins: Fittoleen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Boasts: Godus, 6d 5c
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: 3c 2s As
+Turn: 5c
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Godus, 6s Ts
+Combination: Godus, High Card ( As Ts 8c 6s 5c )
+Shows: Fittoleen, 4s Th
+Combination: Fittoleen, Straight ( 5c 4s 3c 2s As )
+Wins: Fittoleen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: Kc Td 2c
+Turn: 9c
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Godus, 3c 8h
+Combination: Godus, High Card ( Kc Td 9c 8h 6d )
+Shows: Fittoleen, 9h 3d
+Combination: Fittoleen, Pair ( 9h 9c Kc Td 6d )
+Wins: Fittoleen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: 2s 3c 5h
+Turn: Ac
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Godus, Tc 6d
+Combination: Godus, Straight ( 6d 5h 4h 3c 2s )
+Shows: Fittoleen, Qd 5d
+Combination: Fittoleen, Straight ( 5d 4h 3c 2s Ac )
+Wins: Godus, chips: 200
+Wins: Fittoleen, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Flop: Td Qs 4d
+Turn: Tc
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Godus, Kh 9s
+Combination: Godus, Pair ( Td Tc Kh Qs 9s )
+Shows: Fittoleen, 5h 6d
+Combination: Fittoleen, Two Pair ( Td Tc 6d 6h Qs )
+Wins: Godus, chips: 100
+Wins: Fittoleen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: 9s 9c Ts
+Turn: 7h
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Godus, 2d 6s
+Combination: Godus, Three Of A Kind ( 9s 9c 9h Ts 7h )
+Shows: Fittoleen, 7s 5c
+Combination: Fittoleen, Full House ( 9s 9c 9h 7s 7h )
+Wins: Fittoleen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: As Ts Kd
+Turn: Td
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Godus, Jc Ks
+Combination: Godus, Two Pair ( Ks Kd Jc Js As )
+Shows: Fittoleen, 9d 5c
+Combination: Fittoleen, Pair ( Ts Td As Kd Js )
+Wins: Godus, chips: 200
+Wins: Fittoleen, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Flop: 5c Kc 8s
+Turn: 7d
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Godus, Th 6c
+Combination: Godus, High Card ( Kc Th 8s 7d 6c )
+Shows: Fittoleen, 7c 9c
+Combination: Fittoleen, Pair ( 7c 7d Kc 9c 8s )
+Wins: Godus, chips: 100
+Wins: Fittoleen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: 6h 4c Js
+Turn: Kc
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Godus, Qd Th
+Combination: Godus, High Card ( Kc Qd Js Th 6h )
+Shows: Fittoleen, Tc Td
+Combination: Fittoleen, Pair ( Tc Td Kc Js 6h )
+Wins: Fittoleen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: 5s Js 2c
+Turn: 6c
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Godus, 3s Ac
+Combination: Godus, High Card ( Ac Ks Js 6c 5s )
+Shows: Fittoleen, 4d 4h
+Combination: Fittoleen, Pair ( 4d 4h Ks Js 6c )
+Wins: Fittoleen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: 8d 7s Jc
+Turn: Qd
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Godus, 9d 7d
+Combination: Godus, Pair ( 7d 7s Qd Jc 9d )
+Shows: Fittoleen, Kh Ts
+Combination: Fittoleen, High Card ( Kh Qd Jc Ts 8d )
+Wins: Godus, chips: 200
+Wins: Fittoleen, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Flop: 4d 9s Qd
+Turn: 7s
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Godus, Ah 9c
+Combination: Godus, Pair ( 9c 9s Ah Qd 7s )
+Shows: Fittoleen, Kh Jh
+Combination: Fittoleen, High Card ( Kh Qd Jh 9s 7s )
+Wins: Godus, chips: 300
+Quits: Fittoleen, chips: 0
+Ranking: Godus, Place: 1, Score: 1000
+Reveal AI: Godus, AI: Random
+Ranking: Fittoleen, Place: 2, Score: -1000
+Reveal AI: Fittoleen, AI: AIMyBot1
+
+Player Stats for Fittoleen, AI: AIMyBot1
+General: deals: 27, actions: 13, preflop actions: 13
+Rounds Seen: flops: 13, turns: 13, rivers: 13, showdowns: 13
+Wins: total: 13, showdown: 12, bluff: 1
+Chips: won: 3000, lost: 4000, bought: 1000, forced bets: 4000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.923077
+
+
+Player Stats for Godus, AI: Random
+General: deals: 27, actions: 4, preflop actions: 4
+Rounds Seen: flops: 13, turns: 13, rivers: 13, showdowns: 13
+Wins: total: 20, showdown: 7, bluff: 13
+Chips: won: 6300, lost: 5300, bought: 1000, forced bets: 4100
+Pre-Flop Stats: VP$IP: 0.111111, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.538462
+
+
+Date: 2022/10/25 13:46:03
+
+The game begins. The AI's of the players are: 
+Godus: Random
+Fittoleen: AIMyBot1
+
+Joins: Godus, chips: 1000
+Joins: Fittoleen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Raises: Godus, chips: 300
+Folds: Fittoleen
+Pot size: 700
+Wins: Godus, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Boasts: Godus, 7c 7d
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Folds: Godus
+Pot size: 300
+Wins: Fittoleen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Raises: Godus, chips: 300
+Folds: Fittoleen
+Pot size: 700
+Wins: Godus, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Boasts: Godus, 7d 5d
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Raises: Godus, chips: 300
+Folds: Fittoleen
+Pot size: 700
+Wins: Godus, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Flop: 7c Ks 2h
+Turn: 4c
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Godus, 5d 8h
+Combination: Godus, High Card ( Ks 9d 8h 7c 5d )
+Shows: Fittoleen, 5s Jc
+Combination: Fittoleen, High Card ( Ks Jc 9d 7c 5s )
+Wins: Godus, chips: 100
+Wins: Fittoleen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: 6c 7h 7s
+Turn: Th
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Godus, 5s Jh
+Combination: Godus, Pair ( 7h 7s Jh Th 6c )
+Shows: Fittoleen, Td Ad
+Combination: Fittoleen, Two Pair ( Td Th 7h 7s Ad )
+Wins: Fittoleen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Boasts: Godus, 6d 5c
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: 3c 2s As
+Turn: 5c
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Godus, 6s Ts
+Combination: Godus, High Card ( As Ts 8c 6s 5c )
+Shows: Fittoleen, 4s Th
+Combination: Fittoleen, Straight ( 5c 4s 3c 2s As )
+Wins: Fittoleen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: Kc Td 2c
+Turn: 9c
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Godus, 3c 8h
+Combination: Godus, High Card ( Kc Td 9c 8h 6d )
+Shows: Fittoleen, 9h 3d
+Combination: Fittoleen, Pair ( 9h 9c Kc Td 6d )
+Wins: Fittoleen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: 2s 3c 5h
+Turn: Ac
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Godus, Tc 6d
+Combination: Godus, Straight ( 6d 5h 4h 3c 2s )
+Shows: Fittoleen, Qd 5d
+Combination: Fittoleen, Straight ( 5d 4h 3c 2s Ac )
+Wins: Godus, chips: 200
+Wins: Fittoleen, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Flop: Td Qs 4d
+Turn: Tc
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Godus, Kh 9s
+Combination: Godus, Pair ( Td Tc Kh Qs 9s )
+Shows: Fittoleen, 5h 6d
+Combination: Fittoleen, Two Pair ( Td Tc 6d 6h Qs )
+Wins: Godus, chips: 100
+Wins: Fittoleen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: 9s 9c Ts
+Turn: 7h
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Godus, 2d 6s
+Combination: Godus, Three Of A Kind ( 9s 9c 9h Ts 7h )
+Shows: Fittoleen, 7s 5c
+Combination: Fittoleen, Full House ( 9s 9c 9h 7s 7h )
+Wins: Fittoleen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: As Ts Kd
+Turn: Td
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Godus, Jc Ks
+Combination: Godus, Two Pair ( Ks Kd Jc Js As )
+Shows: Fittoleen, 9d 5c
+Combination: Fittoleen, Pair ( Ts Td As Kd Js )
+Wins: Godus, chips: 200
+Wins: Fittoleen, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Flop: 5c Kc 8s
+Turn: 7d
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Godus, Th 6c
+Combination: Godus, High Card ( Kc Th 8s 7d 6c )
+Shows: Fittoleen, 7c 9c
+Combination: Fittoleen, Pair ( 7c 7d Kc 9c 8s )
+Wins: Godus, chips: 100
+Wins: Fittoleen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: 6h 4c Js
+Turn: Kc
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Godus, Qd Th
+Combination: Godus, High Card ( Kc Qd Js Th 6h )
+Shows: Fittoleen, Tc Td
+Combination: Fittoleen, Pair ( Tc Td Kc Js 6h )
+Wins: Fittoleen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: 5s Js 2c
+Turn: 6c
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Godus, 3s Ac
+Combination: Godus, High Card ( Ac Ks Js 6c 5s )
+Shows: Fittoleen, 4d 4h
+Combination: Fittoleen, Pair ( 4d 4h Ks Js 6c )
+Wins: Fittoleen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Folds: Fittoleen
+Pot size: 300
+Wins: Godus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Godus
+Small Blind: Godus, chips: 100
+Big Blind: Fittoleen, chips: 200
+Flop: 8d 7s Jc
+Turn: Qd
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Godus, 9d 7d
+Combination: Godus, Pair ( 7d 7s Qd Jc 9d )
+Shows: Fittoleen, Kh Ts
+Combination: Fittoleen, High Card ( Kh Qd Jc Ts 8d )
+Wins: Godus, chips: 200
+Wins: Fittoleen, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoleen
+Small Blind: Fittoleen, chips: 100
+Big Blind: Godus, chips: 200
+Flop: 4d 9s Qd
+Turn: 7s
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Godus, Ah 9c
+Combination: Godus, Pair ( 9c 9s Ah Qd 7s )
+Shows: Fittoleen, Kh Jh
+Combination: Fittoleen, High Card ( Kh Qd Jh 9s 7s )
+Wins: Godus, chips: 300
+Quits: Fittoleen, chips: 0
+Ranking: Godus, Place: 1, Score: 1000
+Reveal AI: Godus, AI: Random
+Ranking: Fittoleen, Place: 2, Score: -1000
+Reveal AI: Fittoleen, AI: AIMyBot1
+
+Player Stats for Fittoleen, AI: AIMyBot1
+General: deals: 27, actions: 13, preflop actions: 13
+Rounds Seen: flops: 13, turns: 13, rivers: 13, showdowns: 13
+Wins: total: 13, showdown: 12, bluff: 1
+Chips: won: 3000, lost: 4000, bought: 1000, forced bets: 4000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.923077
+
+
+Player Stats for Godus, AI: Random
+General: deals: 27, actions: 4, preflop actions: 4
+Rounds Seen: flops: 13, turns: 13, rivers: 13, showdowns: 13
+Wins: total: 20, showdown: 7, bluff: 13
+Chips: won: 6300, lost: 5300, bought: 1000, forced bets: 4100
+Pre-Flop Stats: VP$IP: 0.111111, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.538462
+
+

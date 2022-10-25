@@ -1,0 +1,192 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Lunhoe: AIMyBot1
+Loedeen: Random
+
+Joins: Lunhoe, chips: 1000
+Joins: Loedeen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loedeen
+Small Blind: Loedeen, chips: 100
+Big Blind: Lunhoe, chips: 200
+Calls: Loedeen
+DEBUG MESSAGE: INVALID ACTION FROM Lunhoe (2 0)
+Folds: Lunhoe
+Pot size: 400
+Boasts: Loedeen, 2s Qd
+Wins: Loedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lunhoe
+Small Blind: Lunhoe, chips: 100
+Big Blind: Loedeen, chips: 200
+Folds: Lunhoe
+Pot size: 300
+Wins: Loedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loedeen
+Small Blind: Loedeen, chips: 100
+Big Blind: Lunhoe, chips: 200
+Raises: Loedeen, chips: 300
+Folds: Lunhoe
+Pot size: 700
+Boasts: Loedeen, Jc 3c
+Wins: Loedeen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lunhoe
+Small Blind: Lunhoe, chips: 100
+Big Blind: Loedeen, chips: 200
+Folds: Lunhoe
+Pot size: 300
+Wins: Loedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loedeen
+Small Blind: Loedeen, chips: 100
+Big Blind: Lunhoe, chips: 200
+Calls: Loedeen
+DEBUG MESSAGE: INVALID ACTION FROM Lunhoe (2 0)
+Folds: Lunhoe
+Pot size: 400
+Wins: Loedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lunhoe
+Small Blind: Lunhoe, chips: 100
+Big Blind: Loedeen, chips: 200
+Folds: Lunhoe
+Pot size: 300
+Wins: Loedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loedeen
+Small Blind: Loedeen, chips: 100
+Big Blind: Lunhoe, chips: 100
+Flop: 4s 7s Ts
+Turn: 5d
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Lunhoe, Kd 8d
+Combination: Lunhoe, Pair ( 5d 5s Kd Ts 8d )
+Shows: Loedeen, 7c 2c
+Combination: Loedeen, Two Pair ( 7c 7s 5d 5s Ts )
+Wins: Loedeen, chips: 200
+Quits: Lunhoe, chips: 0
+Ranking: Loedeen, Place: 1, Score: 1000
+Reveal AI: Loedeen, AI: Random
+Ranking: Lunhoe, Place: 2, Score: -1000
+Reveal AI: Lunhoe, AI: AIMyBot1
+
+Player Stats for Loedeen, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Lunhoe, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:56
+
+The game begins. The AI's of the players are: 
+Lunhoe: AIMyBot1
+Loedeen: Random
+
+Joins: Lunhoe, chips: 1000
+Joins: Loedeen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loedeen
+Small Blind: Loedeen, chips: 100
+Big Blind: Lunhoe, chips: 200
+Calls: Loedeen
+DEBUG MESSAGE: INVALID ACTION FROM Lunhoe (2 0)
+Folds: Lunhoe
+Pot size: 400
+Boasts: Loedeen, 2s Qd
+Wins: Loedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lunhoe
+Small Blind: Lunhoe, chips: 100
+Big Blind: Loedeen, chips: 200
+Folds: Lunhoe
+Pot size: 300
+Wins: Loedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loedeen
+Small Blind: Loedeen, chips: 100
+Big Blind: Lunhoe, chips: 200
+Raises: Loedeen, chips: 300
+Folds: Lunhoe
+Pot size: 700
+Boasts: Loedeen, Jc 3c
+Wins: Loedeen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lunhoe
+Small Blind: Lunhoe, chips: 100
+Big Blind: Loedeen, chips: 200
+Folds: Lunhoe
+Pot size: 300
+Wins: Loedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loedeen
+Small Blind: Loedeen, chips: 100
+Big Blind: Lunhoe, chips: 200
+Calls: Loedeen
+DEBUG MESSAGE: INVALID ACTION FROM Lunhoe (2 0)
+Folds: Lunhoe
+Pot size: 400
+Wins: Loedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lunhoe
+Small Blind: Lunhoe, chips: 100
+Big Blind: Loedeen, chips: 200
+Folds: Lunhoe
+Pot size: 300
+Wins: Loedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loedeen
+Small Blind: Loedeen, chips: 100
+Big Blind: Lunhoe, chips: 100
+Flop: 4s 7s Ts
+Turn: 5d
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Lunhoe, Kd 8d
+Combination: Lunhoe, Pair ( 5d 5s Kd Ts 8d )
+Shows: Loedeen, 7c 2c
+Combination: Loedeen, Two Pair ( 7c 7s 5d 5s Ts )
+Wins: Loedeen, chips: 200
+Quits: Lunhoe, chips: 0
+Ranking: Loedeen, Place: 1, Score: 1000
+Reveal AI: Loedeen, AI: Random
+Ranking: Lunhoe, Place: 2, Score: -1000
+Reveal AI: Lunhoe, AI: AIMyBot1
+
+Player Stats for Loedeen, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Lunhoe, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

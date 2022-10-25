@@ -1,0 +1,266 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Heerlowi: AIMyBot1
+Ji: Random
+
+Joins: Heerlowi, chips: 1000
+Joins: Ji, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ji
+Small Blind: Ji, chips: 100
+Big Blind: Heerlowi, chips: 200
+Calls: Ji
+DEBUG MESSAGE: INVALID ACTION FROM Heerlowi (2 0)
+Folds: Heerlowi
+Pot size: 400
+Wins: Ji, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heerlowi
+Small Blind: Heerlowi, chips: 100
+Big Blind: Ji, chips: 200
+Folds: Heerlowi
+Pot size: 300
+Boasts: Ji, 3h Qh
+Wins: Ji, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ji
+Small Blind: Ji, chips: 100
+Big Blind: Heerlowi, chips: 200
+Raises: Ji, chips: 300
+Folds: Heerlowi
+Pot size: 700
+Wins: Ji, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heerlowi
+Small Blind: Heerlowi, chips: 100
+Big Blind: Ji, chips: 200
+Folds: Heerlowi
+Pot size: 300
+Wins: Ji, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ji
+Small Blind: Ji, chips: 100
+Big Blind: Heerlowi, chips: 200
+Folds: Ji
+Pot size: 300
+Boasts: Ji, Jc 4h
+Wins: Heerlowi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heerlowi
+Small Blind: Heerlowi, chips: 100
+Big Blind: Ji, chips: 200
+Folds: Heerlowi
+Pot size: 300
+Boasts: Ji, Kd Kc
+Wins: Ji, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ji
+Small Blind: Ji, chips: 100
+Big Blind: Heerlowi, chips: 200
+Raises: Ji, chips: 300
+Folds: Heerlowi
+Pot size: 700
+Wins: Ji, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heerlowi
+Small Blind: Heerlowi, chips: 100
+Big Blind: Ji, chips: 200
+Folds: Heerlowi
+Pot size: 300
+Boasts: Ji, Qh 8h
+Wins: Ji, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ji
+Small Blind: Ji, chips: 100
+Big Blind: Heerlowi, chips: 100
+Flop: 5h 3h 2s
+Turn: 9s
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Heerlowi, 4h Ah
+Combination: Heerlowi, Flush ( Ah Jh 5h 4h 3h )
+Shows: Ji, 5d Tc
+Combination: Ji, Pair ( 5d 5h Jh Tc 9s )
+Wins: Heerlowi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heerlowi
+Small Blind: Heerlowi, chips: 100
+Big Blind: Ji, chips: 200
+Folds: Heerlowi
+Pot size: 300
+Boasts: Ji, 9s 8c
+Wins: Ji, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ji
+Small Blind: Ji, chips: 100
+Big Blind: Heerlowi, chips: 100
+Flop: Jd 4d 9h
+Turn: Ks
+River: 2c
+Pot size: 200
+Showdown Reached
+Shows: Heerlowi, 3h 5c
+Combination: Heerlowi, High Card ( Ks Jd 9h 5c 4d )
+Shows: Ji, 8d 4s
+Combination: Ji, Pair ( 4s 4d Ks Jd 9h )
+Wins: Ji, chips: 200
+Quits: Heerlowi, chips: 0
+Ranking: Ji, Place: 1, Score: 1000
+Reveal AI: Ji, AI: Random
+Ranking: Heerlowi, Place: 2, Score: -1000
+Reveal AI: Heerlowi, AI: AIMyBot1
+
+Player Stats for Heerlowi, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Ji, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:08
+
+The game begins. The AI's of the players are: 
+Heerlowi: AIMyBot1
+Ji: Random
+
+Joins: Heerlowi, chips: 1000
+Joins: Ji, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ji
+Small Blind: Ji, chips: 100
+Big Blind: Heerlowi, chips: 200
+Calls: Ji
+DEBUG MESSAGE: INVALID ACTION FROM Heerlowi (2 0)
+Folds: Heerlowi
+Pot size: 400
+Wins: Ji, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heerlowi
+Small Blind: Heerlowi, chips: 100
+Big Blind: Ji, chips: 200
+Folds: Heerlowi
+Pot size: 300
+Boasts: Ji, 3h Qh
+Wins: Ji, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ji
+Small Blind: Ji, chips: 100
+Big Blind: Heerlowi, chips: 200
+Raises: Ji, chips: 300
+Folds: Heerlowi
+Pot size: 700
+Wins: Ji, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heerlowi
+Small Blind: Heerlowi, chips: 100
+Big Blind: Ji, chips: 200
+Folds: Heerlowi
+Pot size: 300
+Wins: Ji, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ji
+Small Blind: Ji, chips: 100
+Big Blind: Heerlowi, chips: 200
+Folds: Ji
+Pot size: 300
+Boasts: Ji, Jc 4h
+Wins: Heerlowi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heerlowi
+Small Blind: Heerlowi, chips: 100
+Big Blind: Ji, chips: 200
+Folds: Heerlowi
+Pot size: 300
+Boasts: Ji, Kd Kc
+Wins: Ji, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ji
+Small Blind: Ji, chips: 100
+Big Blind: Heerlowi, chips: 200
+Raises: Ji, chips: 300
+Folds: Heerlowi
+Pot size: 700
+Wins: Ji, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heerlowi
+Small Blind: Heerlowi, chips: 100
+Big Blind: Ji, chips: 200
+Folds: Heerlowi
+Pot size: 300
+Boasts: Ji, Qh 8h
+Wins: Ji, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ji
+Small Blind: Ji, chips: 100
+Big Blind: Heerlowi, chips: 100
+Flop: 5h 3h 2s
+Turn: 9s
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Heerlowi, 4h Ah
+Combination: Heerlowi, Flush ( Ah Jh 5h 4h 3h )
+Shows: Ji, 5d Tc
+Combination: Ji, Pair ( 5d 5h Jh Tc 9s )
+Wins: Heerlowi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heerlowi
+Small Blind: Heerlowi, chips: 100
+Big Blind: Ji, chips: 200
+Folds: Heerlowi
+Pot size: 300
+Boasts: Ji, 9s 8c
+Wins: Ji, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ji
+Small Blind: Ji, chips: 100
+Big Blind: Heerlowi, chips: 100
+Flop: Jd 4d 9h
+Turn: Ks
+River: 2c
+Pot size: 200
+Showdown Reached
+Shows: Heerlowi, 3h 5c
+Combination: Heerlowi, High Card ( Ks Jd 9h 5c 4d )
+Shows: Ji, 8d 4s
+Combination: Ji, Pair ( 4s 4d Ks Jd 9h )
+Wins: Ji, chips: 200
+Quits: Heerlowi, chips: 0
+Ranking: Ji, Place: 1, Score: 1000
+Reveal AI: Ji, AI: Random
+Ranking: Heerlowi, Place: 2, Score: -1000
+Reveal AI: Heerlowi, AI: AIMyBot1
+
+Player Stats for Heerlowi, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Ji, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

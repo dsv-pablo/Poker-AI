@@ -1,0 +1,226 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Weenhil: Random
+Boechatry: AIMyBot1
+
+Joins: Weenhil, chips: 1000
+Joins: Boechatry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weenhil
+Small Blind: Weenhil, chips: 100
+Big Blind: Boechatry, chips: 200
+Calls: Weenhil
+DEBUG MESSAGE: INVALID ACTION FROM Boechatry (2 0)
+Folds: Boechatry
+Pot size: 400
+Boasts: Weenhil, Td 3h
+Wins: Weenhil, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boechatry
+Small Blind: Boechatry, chips: 100
+Big Blind: Weenhil, chips: 200
+Folds: Boechatry
+Pot size: 300
+Wins: Weenhil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weenhil
+Small Blind: Weenhil, chips: 100
+Big Blind: Boechatry, chips: 200
+Raises: Weenhil, chips: 300
+Folds: Boechatry
+Pot size: 700
+Boasts: Weenhil, Kc Ks
+Wins: Weenhil, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boechatry
+Small Blind: Boechatry, chips: 100
+Big Blind: Weenhil, chips: 200
+Folds: Boechatry
+Pot size: 300
+Boasts: Weenhil, 6d Ac
+Wins: Weenhil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weenhil
+Small Blind: Weenhil, chips: 100
+Big Blind: Boechatry, chips: 200
+Folds: Weenhil
+Pot size: 300
+Boasts: Weenhil, 2s 6h
+Wins: Boechatry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boechatry
+Small Blind: Boechatry, chips: 100
+Big Blind: Weenhil, chips: 200
+Folds: Boechatry
+Pot size: 300
+Wins: Weenhil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weenhil
+Small Blind: Weenhil, chips: 100
+Big Blind: Boechatry, chips: 200
+Calls: Weenhil
+DEBUG MESSAGE: INVALID ACTION FROM Boechatry (2 0)
+Folds: Boechatry
+Pot size: 400
+Boasts: Weenhil, Ks Qd
+Wins: Weenhil, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boechatry
+Small Blind: Boechatry, chips: 100
+Big Blind: Weenhil, chips: 200
+Folds: Boechatry
+Pot size: 300
+Wins: Weenhil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weenhil
+Small Blind: Weenhil, chips: 100
+Big Blind: Boechatry, chips: 100
+Flop: 8c 9d As
+Turn: 2h
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Weenhil, 4s 8h
+Combination: Weenhil, Pair ( 8h 8c As Td 9d )
+Shows: Boechatry, 5d 6h
+Combination: Boechatry, High Card ( As Td 9d 8c 6h )
+Wins: Weenhil, chips: 200
+Quits: Boechatry, chips: 0
+Ranking: Weenhil, Place: 1, Score: 1000
+Reveal AI: Weenhil, AI: Random
+Ranking: Boechatry, Place: 2, Score: -1000
+Reveal AI: Boechatry, AI: AIMyBot1
+
+Player Stats for Boechatry, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Weenhil, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:11
+
+The game begins. The AI's of the players are: 
+Weenhil: Random
+Boechatry: AIMyBot1
+
+Joins: Weenhil, chips: 1000
+Joins: Boechatry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weenhil
+Small Blind: Weenhil, chips: 100
+Big Blind: Boechatry, chips: 200
+Calls: Weenhil
+DEBUG MESSAGE: INVALID ACTION FROM Boechatry (2 0)
+Folds: Boechatry
+Pot size: 400
+Boasts: Weenhil, Td 3h
+Wins: Weenhil, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boechatry
+Small Blind: Boechatry, chips: 100
+Big Blind: Weenhil, chips: 200
+Folds: Boechatry
+Pot size: 300
+Wins: Weenhil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weenhil
+Small Blind: Weenhil, chips: 100
+Big Blind: Boechatry, chips: 200
+Raises: Weenhil, chips: 300
+Folds: Boechatry
+Pot size: 700
+Boasts: Weenhil, Kc Ks
+Wins: Weenhil, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boechatry
+Small Blind: Boechatry, chips: 100
+Big Blind: Weenhil, chips: 200
+Folds: Boechatry
+Pot size: 300
+Boasts: Weenhil, 6d Ac
+Wins: Weenhil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weenhil
+Small Blind: Weenhil, chips: 100
+Big Blind: Boechatry, chips: 200
+Folds: Weenhil
+Pot size: 300
+Boasts: Weenhil, 2s 6h
+Wins: Boechatry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boechatry
+Small Blind: Boechatry, chips: 100
+Big Blind: Weenhil, chips: 200
+Folds: Boechatry
+Pot size: 300
+Wins: Weenhil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weenhil
+Small Blind: Weenhil, chips: 100
+Big Blind: Boechatry, chips: 200
+Calls: Weenhil
+DEBUG MESSAGE: INVALID ACTION FROM Boechatry (2 0)
+Folds: Boechatry
+Pot size: 400
+Boasts: Weenhil, Ks Qd
+Wins: Weenhil, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boechatry
+Small Blind: Boechatry, chips: 100
+Big Blind: Weenhil, chips: 200
+Folds: Boechatry
+Pot size: 300
+Wins: Weenhil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weenhil
+Small Blind: Weenhil, chips: 100
+Big Blind: Boechatry, chips: 100
+Flop: 8c 9d As
+Turn: 2h
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Weenhil, 4s 8h
+Combination: Weenhil, Pair ( 8h 8c As Td 9d )
+Shows: Boechatry, 5d 6h
+Combination: Boechatry, High Card ( As Td 9d 8c 6h )
+Wins: Weenhil, chips: 200
+Quits: Boechatry, chips: 0
+Ranking: Weenhil, Place: 1, Score: 1000
+Reveal AI: Weenhil, AI: Random
+Ranking: Boechatry, Place: 2, Score: -1000
+Reveal AI: Boechatry, AI: AIMyBot1
+
+Player Stats for Boechatry, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Weenhil, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

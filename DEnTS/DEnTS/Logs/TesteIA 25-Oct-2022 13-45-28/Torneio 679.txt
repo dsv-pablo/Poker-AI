@@ -1,0 +1,194 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Ke: AIMyBot1
+Wifenny: Random
+
+Joins: Ke, chips: 1000
+Joins: Wifenny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Wifenny, chips: 200
+Folds: Ke
+Pot size: 300
+Boasts: Wifenny, 8s 4h
+Wins: Wifenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wifenny
+Small Blind: Wifenny, chips: 100
+Big Blind: Ke, chips: 200
+Calls: Wifenny
+DEBUG MESSAGE: INVALID ACTION FROM Ke (2 0)
+Folds: Ke
+Pot size: 400
+Wins: Wifenny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Wifenny, chips: 200
+Folds: Ke
+Pot size: 300
+Wins: Wifenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wifenny
+Small Blind: Wifenny, chips: 100
+Big Blind: Ke, chips: 200
+Calls: Wifenny
+DEBUG MESSAGE: INVALID ACTION FROM Ke (2 0)
+Folds: Ke
+Pot size: 400
+Boasts: Wifenny, 7d 9h
+Wins: Wifenny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Wifenny, chips: 200
+Folds: Ke
+Pot size: 300
+Wins: Wifenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wifenny
+Small Blind: Wifenny, chips: 100
+Big Blind: Ke, chips: 200
+Raises: Wifenny, chips: 300
+Folds: Ke
+Pot size: 700
+Boasts: Wifenny, 6s Jh
+Wins: Wifenny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Wifenny, chips: 200
+Flop: 5h Qs 2s
+Turn: 5d
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Ke, 9h Kd
+Combination: Ke, Pair ( 5h 5d Kd Qs 9h )
+Shows: Wifenny, Ah Kh
+Combination: Wifenny, Pair ( 5h 5d Ah Kh Qs )
+Wins: Wifenny, chips: 300
+Quits: Ke, chips: 0
+Ranking: Wifenny, Place: 1, Score: 1000
+Reveal AI: Wifenny, AI: Random
+Ranking: Ke, Place: 2, Score: -1000
+Reveal AI: Ke, AI: AIMyBot1
+
+Player Stats for Ke, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Wifenny, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:14
+
+The game begins. The AI's of the players are: 
+Ke: AIMyBot1
+Wifenny: Random
+
+Joins: Ke, chips: 1000
+Joins: Wifenny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Wifenny, chips: 200
+Folds: Ke
+Pot size: 300
+Boasts: Wifenny, 8s 4h
+Wins: Wifenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wifenny
+Small Blind: Wifenny, chips: 100
+Big Blind: Ke, chips: 200
+Calls: Wifenny
+DEBUG MESSAGE: INVALID ACTION FROM Ke (2 0)
+Folds: Ke
+Pot size: 400
+Wins: Wifenny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Wifenny, chips: 200
+Folds: Ke
+Pot size: 300
+Wins: Wifenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wifenny
+Small Blind: Wifenny, chips: 100
+Big Blind: Ke, chips: 200
+Calls: Wifenny
+DEBUG MESSAGE: INVALID ACTION FROM Ke (2 0)
+Folds: Ke
+Pot size: 400
+Boasts: Wifenny, 7d 9h
+Wins: Wifenny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Wifenny, chips: 200
+Folds: Ke
+Pot size: 300
+Wins: Wifenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wifenny
+Small Blind: Wifenny, chips: 100
+Big Blind: Ke, chips: 200
+Raises: Wifenny, chips: 300
+Folds: Ke
+Pot size: 700
+Boasts: Wifenny, 6s Jh
+Wins: Wifenny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Wifenny, chips: 200
+Flop: 5h Qs 2s
+Turn: 5d
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Ke, 9h Kd
+Combination: Ke, Pair ( 5h 5d Kd Qs 9h )
+Shows: Wifenny, Ah Kh
+Combination: Wifenny, Pair ( 5h 5d Ah Kh Qs )
+Wins: Wifenny, chips: 300
+Quits: Ke, chips: 0
+Ranking: Wifenny, Place: 1, Score: 1000
+Reveal AI: Wifenny, AI: Random
+Ranking: Ke, Place: 2, Score: -1000
+Reveal AI: Ke, AI: AIMyBot1
+
+Player Stats for Ke, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Wifenny, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

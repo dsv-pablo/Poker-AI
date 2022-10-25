@@ -1,0 +1,258 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Virloevee: AIMyBot1
+Huboenny: Random
+
+Joins: Virloevee, chips: 1000
+Joins: Huboenny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huboenny
+Small Blind: Huboenny, chips: 100
+Big Blind: Virloevee, chips: 200
+Folds: Huboenny
+Pot size: 300
+Boasts: Huboenny, 6c 5c
+Wins: Virloevee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virloevee
+Small Blind: Virloevee, chips: 100
+Big Blind: Huboenny, chips: 200
+Folds: Virloevee
+Pot size: 300
+Boasts: Huboenny, 9h Tc
+Wins: Huboenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huboenny
+Small Blind: Huboenny, chips: 100
+Big Blind: Virloevee, chips: 200
+Calls: Huboenny
+DEBUG MESSAGE: INVALID ACTION FROM Virloevee (2 0)
+Folds: Virloevee
+Pot size: 400
+Wins: Huboenny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virloevee
+Small Blind: Virloevee, chips: 100
+Big Blind: Huboenny, chips: 200
+Folds: Virloevee
+Pot size: 300
+Boasts: Huboenny, 7s Qd
+Wins: Huboenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huboenny
+Small Blind: Huboenny, chips: 100
+Big Blind: Virloevee, chips: 200
+Calls: Huboenny
+DEBUG MESSAGE: INVALID ACTION FROM Virloevee (2 0)
+Folds: Virloevee
+Pot size: 400
+Wins: Huboenny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virloevee
+Small Blind: Virloevee, chips: 100
+Big Blind: Huboenny, chips: 200
+Folds: Virloevee
+Pot size: 300
+Boasts: Huboenny, 9d Ac
+Wins: Huboenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huboenny
+Small Blind: Huboenny, chips: 100
+Big Blind: Virloevee, chips: 200
+Calls: Huboenny
+DEBUG MESSAGE: INVALID ACTION FROM Virloevee (2 0)
+Folds: Virloevee
+Pot size: 400
+Wins: Huboenny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virloevee
+Small Blind: Virloevee, chips: 100
+Big Blind: Huboenny, chips: 200
+Folds: Virloevee
+Pot size: 300
+Boasts: Huboenny, Qh Ks
+Wins: Huboenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huboenny
+Small Blind: Huboenny, chips: 100
+Big Blind: Virloevee, chips: 100
+Flop: Qd 3h 6c
+Turn: 5d
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Virloevee, Tc 2s
+Combination: Virloevee, Pair ( 5d 5s Qd Tc 6c )
+Shows: Huboenny, Td 4s
+Combination: Huboenny, Pair ( 5d 5s Qd Td 6c )
+Wins: Virloevee, chips: 100
+Wins: Huboenny, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virloevee
+Small Blind: Virloevee, chips: 100
+Big Blind: Huboenny, chips: 200
+Flop: 4c Ks 3h
+Turn: 8d
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Virloevee, 2d 6h
+Combination: Virloevee, Pair ( 3h 3c Ks 8d 6h )
+Shows: Huboenny, 3s Qc
+Combination: Huboenny, Three Of A Kind ( 3s 3h 3c Ks Qc )
+Wins: Huboenny, chips: 300
+Quits: Virloevee, chips: 0
+Ranking: Huboenny, Place: 1, Score: 1000
+Reveal AI: Huboenny, AI: Random
+Ranking: Virloevee, Place: 2, Score: -1000
+Reveal AI: Virloevee, AI: AIMyBot1
+
+Player Stats for Huboenny, AI: Random
+General: deals: 10, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 2, bluff: 7
+Chips: won: 2800, lost: 1800, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Virloevee, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:33
+
+The game begins. The AI's of the players are: 
+Virloevee: AIMyBot1
+Huboenny: Random
+
+Joins: Virloevee, chips: 1000
+Joins: Huboenny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huboenny
+Small Blind: Huboenny, chips: 100
+Big Blind: Virloevee, chips: 200
+Folds: Huboenny
+Pot size: 300
+Boasts: Huboenny, 6c 5c
+Wins: Virloevee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virloevee
+Small Blind: Virloevee, chips: 100
+Big Blind: Huboenny, chips: 200
+Folds: Virloevee
+Pot size: 300
+Boasts: Huboenny, 9h Tc
+Wins: Huboenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huboenny
+Small Blind: Huboenny, chips: 100
+Big Blind: Virloevee, chips: 200
+Calls: Huboenny
+DEBUG MESSAGE: INVALID ACTION FROM Virloevee (2 0)
+Folds: Virloevee
+Pot size: 400
+Wins: Huboenny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virloevee
+Small Blind: Virloevee, chips: 100
+Big Blind: Huboenny, chips: 200
+Folds: Virloevee
+Pot size: 300
+Boasts: Huboenny, 7s Qd
+Wins: Huboenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huboenny
+Small Blind: Huboenny, chips: 100
+Big Blind: Virloevee, chips: 200
+Calls: Huboenny
+DEBUG MESSAGE: INVALID ACTION FROM Virloevee (2 0)
+Folds: Virloevee
+Pot size: 400
+Wins: Huboenny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virloevee
+Small Blind: Virloevee, chips: 100
+Big Blind: Huboenny, chips: 200
+Folds: Virloevee
+Pot size: 300
+Boasts: Huboenny, 9d Ac
+Wins: Huboenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huboenny
+Small Blind: Huboenny, chips: 100
+Big Blind: Virloevee, chips: 200
+Calls: Huboenny
+DEBUG MESSAGE: INVALID ACTION FROM Virloevee (2 0)
+Folds: Virloevee
+Pot size: 400
+Wins: Huboenny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virloevee
+Small Blind: Virloevee, chips: 100
+Big Blind: Huboenny, chips: 200
+Folds: Virloevee
+Pot size: 300
+Boasts: Huboenny, Qh Ks
+Wins: Huboenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huboenny
+Small Blind: Huboenny, chips: 100
+Big Blind: Virloevee, chips: 100
+Flop: Qd 3h 6c
+Turn: 5d
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Virloevee, Tc 2s
+Combination: Virloevee, Pair ( 5d 5s Qd Tc 6c )
+Shows: Huboenny, Td 4s
+Combination: Huboenny, Pair ( 5d 5s Qd Td 6c )
+Wins: Virloevee, chips: 100
+Wins: Huboenny, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virloevee
+Small Blind: Virloevee, chips: 100
+Big Blind: Huboenny, chips: 200
+Flop: 4c Ks 3h
+Turn: 8d
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Virloevee, 2d 6h
+Combination: Virloevee, Pair ( 3h 3c Ks 8d 6h )
+Shows: Huboenny, 3s Qc
+Combination: Huboenny, Three Of A Kind ( 3s 3h 3c Ks Qc )
+Wins: Huboenny, chips: 300
+Quits: Virloevee, chips: 0
+Ranking: Huboenny, Place: 1, Score: 1000
+Reveal AI: Huboenny, AI: Random
+Ranking: Virloevee, Place: 2, Score: -1000
+Reveal AI: Virloevee, AI: AIMyBot1
+
+Player Stats for Huboenny, AI: Random
+General: deals: 10, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 2, bluff: 7
+Chips: won: 2800, lost: 1800, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Virloevee, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

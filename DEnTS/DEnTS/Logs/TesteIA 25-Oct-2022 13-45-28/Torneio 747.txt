@@ -1,0 +1,400 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pilas: Random
+Mee: AIMyBot1
+
+Joins: Pilas, chips: 1000
+Joins: Mee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Pilas, chips: 200
+Folds: Mee
+Pot size: 300
+Boasts: Pilas, 7s Kh
+Wins: Pilas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pilas
+Small Blind: Pilas, chips: 100
+Big Blind: Mee, chips: 200
+Raises: Pilas, chips: 300
+Folds: Mee
+Pot size: 700
+Boasts: Pilas, 3c Ks
+Wins: Pilas, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Pilas, chips: 200
+Folds: Mee
+Pot size: 300
+Boasts: Pilas, 2h Kd
+Wins: Pilas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pilas
+Small Blind: Pilas, chips: 100
+Big Blind: Mee, chips: 200
+Calls: Pilas
+DEBUG MESSAGE: INVALID ACTION FROM Mee (2 0)
+Folds: Mee
+Pot size: 400
+Wins: Pilas, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Pilas, chips: 200
+Folds: Mee
+Pot size: 300
+Boasts: Pilas, 3d 2d
+Wins: Pilas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pilas
+Small Blind: Pilas, chips: 100
+Big Blind: Mee, chips: 200
+Raises: Pilas, chips: 300
+Folds: Mee
+Pot size: 700
+Boasts: Pilas, 8c 4s
+Wins: Pilas, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Pilas, chips: 200
+Flop: Qh Jd 2h
+Turn: 3c
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Pilas, Ac 2c
+Combination: Pilas, Two Pair ( Jd Jh 2c 2h Ac )
+Shows: Mee, 5h Qd
+Combination: Mee, Two Pair ( Qd Qh Jd Jh 5h )
+Wins: Pilas, chips: 100
+Wins: Mee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pilas
+Small Blind: Pilas, chips: 100
+Big Blind: Mee, chips: 200
+Flop: 7c Ad Qc
+Turn: 2s
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Pilas, Kd 8h
+Combination: Pilas, Pair ( Qc Qh Ad Kd 8h )
+Shows: Mee, 9d 9s
+Combination: Mee, Two Pair ( Qc Qh 9d 9s Ad )
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Pilas, chips: 200
+Folds: Mee
+Pot size: 300
+Wins: Pilas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pilas
+Small Blind: Pilas, chips: 100
+Big Blind: Mee, chips: 200
+Flop: Kd Ac Qd
+Turn: 4h
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Pilas, 3s 9s
+Combination: Pilas, High Card ( Ac Kd Qd 9s 7d )
+Shows: Mee, As Qh
+Combination: Mee, Two Pair ( As Ac Qh Qd Kd )
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Pilas, chips: 200
+Folds: Mee
+Pot size: 300
+Wins: Pilas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pilas
+Small Blind: Pilas, chips: 100
+Big Blind: Mee, chips: 200
+Flop: 5h 8h As
+Turn: 2d
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Pilas, Ts Ah
+Combination: Pilas, Pair ( Ah As Ts 8h 7h )
+Shows: Mee, Ad Js
+Combination: Mee, Pair ( Ad As Js 8h 7h )
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Pilas, chips: 200
+Folds: Mee
+Pot size: 300
+Boasts: Pilas, Th 6d
+Wins: Pilas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pilas
+Small Blind: Pilas, chips: 100
+Big Blind: Mee, chips: 200
+Flop: 6s 3h Kd
+Turn: 4h
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Pilas, 5d 9s
+Combination: Pilas, Straight ( 6s 5d 4h 3h 2s )
+Shows: Mee, 4c 5s
+Combination: Mee, Straight ( 6s 5s 4c 3h 2s )
+Wins: Pilas, chips: 100
+Wins: Mee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Pilas, chips: 200
+Folds: Mee
+Pot size: 300
+Boasts: Pilas, 8c 3c
+Wins: Pilas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pilas
+Small Blind: Pilas, chips: 100
+Big Blind: Mee, chips: 100
+Flop: 3s 4c 6h
+Turn: Ad
+River: 4s
+Pot size: 200
+Showdown Reached
+Shows: Pilas, Td Ac
+Combination: Pilas, Two Pair ( Ac Ad 4c 4s Td )
+Shows: Mee, 7c 8s
+Combination: Mee, Pair ( 4c 4s Ad 8s 7c )
+Wins: Pilas, chips: 200
+Quits: Mee, chips: 0
+Ranking: Pilas, Place: 1, Score: 1000
+Reveal AI: Pilas, AI: Random
+Ranking: Mee, Place: 2, Score: -1000
+Reveal AI: Mee, AI: AIMyBot1
+
+Player Stats for Mee, AI: AIMyBot1
+General: deals: 16, actions: 10, preflop actions: 10
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 1300, lost: 2300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Pilas, AI: Random
+General: deals: 16, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 3, bluff: 10
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.1875, PFR: 0.125, 3Bet: 0.125
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:19
+
+The game begins. The AI's of the players are: 
+Pilas: Random
+Mee: AIMyBot1
+
+Joins: Pilas, chips: 1000
+Joins: Mee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Pilas, chips: 200
+Folds: Mee
+Pot size: 300
+Boasts: Pilas, 7s Kh
+Wins: Pilas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pilas
+Small Blind: Pilas, chips: 100
+Big Blind: Mee, chips: 200
+Raises: Pilas, chips: 300
+Folds: Mee
+Pot size: 700
+Boasts: Pilas, 3c Ks
+Wins: Pilas, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Pilas, chips: 200
+Folds: Mee
+Pot size: 300
+Boasts: Pilas, 2h Kd
+Wins: Pilas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pilas
+Small Blind: Pilas, chips: 100
+Big Blind: Mee, chips: 200
+Calls: Pilas
+DEBUG MESSAGE: INVALID ACTION FROM Mee (2 0)
+Folds: Mee
+Pot size: 400
+Wins: Pilas, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Pilas, chips: 200
+Folds: Mee
+Pot size: 300
+Boasts: Pilas, 3d 2d
+Wins: Pilas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pilas
+Small Blind: Pilas, chips: 100
+Big Blind: Mee, chips: 200
+Raises: Pilas, chips: 300
+Folds: Mee
+Pot size: 700
+Boasts: Pilas, 8c 4s
+Wins: Pilas, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Pilas, chips: 200
+Flop: Qh Jd 2h
+Turn: 3c
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Pilas, Ac 2c
+Combination: Pilas, Two Pair ( Jd Jh 2c 2h Ac )
+Shows: Mee, 5h Qd
+Combination: Mee, Two Pair ( Qd Qh Jd Jh 5h )
+Wins: Pilas, chips: 100
+Wins: Mee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pilas
+Small Blind: Pilas, chips: 100
+Big Blind: Mee, chips: 200
+Flop: 7c Ad Qc
+Turn: 2s
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Pilas, Kd 8h
+Combination: Pilas, Pair ( Qc Qh Ad Kd 8h )
+Shows: Mee, 9d 9s
+Combination: Mee, Two Pair ( Qc Qh 9d 9s Ad )
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Pilas, chips: 200
+Folds: Mee
+Pot size: 300
+Wins: Pilas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pilas
+Small Blind: Pilas, chips: 100
+Big Blind: Mee, chips: 200
+Flop: Kd Ac Qd
+Turn: 4h
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Pilas, 3s 9s
+Combination: Pilas, High Card ( Ac Kd Qd 9s 7d )
+Shows: Mee, As Qh
+Combination: Mee, Two Pair ( As Ac Qh Qd Kd )
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Pilas, chips: 200
+Folds: Mee
+Pot size: 300
+Wins: Pilas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pilas
+Small Blind: Pilas, chips: 100
+Big Blind: Mee, chips: 200
+Flop: 5h 8h As
+Turn: 2d
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Pilas, Ts Ah
+Combination: Pilas, Pair ( Ah As Ts 8h 7h )
+Shows: Mee, Ad Js
+Combination: Mee, Pair ( Ad As Js 8h 7h )
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Pilas, chips: 200
+Folds: Mee
+Pot size: 300
+Boasts: Pilas, Th 6d
+Wins: Pilas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pilas
+Small Blind: Pilas, chips: 100
+Big Blind: Mee, chips: 200
+Flop: 6s 3h Kd
+Turn: 4h
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Pilas, 5d 9s
+Combination: Pilas, Straight ( 6s 5d 4h 3h 2s )
+Shows: Mee, 4c 5s
+Combination: Mee, Straight ( 6s 5s 4c 3h 2s )
+Wins: Pilas, chips: 100
+Wins: Mee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Pilas, chips: 200
+Folds: Mee
+Pot size: 300
+Boasts: Pilas, 8c 3c
+Wins: Pilas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pilas
+Small Blind: Pilas, chips: 100
+Big Blind: Mee, chips: 100
+Flop: 3s 4c 6h
+Turn: Ad
+River: 4s
+Pot size: 200
+Showdown Reached
+Shows: Pilas, Td Ac
+Combination: Pilas, Two Pair ( Ac Ad 4c 4s Td )
+Shows: Mee, 7c 8s
+Combination: Mee, Pair ( 4c 4s Ad 8s 7c )
+Wins: Pilas, chips: 200
+Quits: Mee, chips: 0
+Ranking: Pilas, Place: 1, Score: 1000
+Reveal AI: Pilas, AI: Random
+Ranking: Mee, Place: 2, Score: -1000
+Reveal AI: Mee, AI: AIMyBot1
+
+Player Stats for Mee, AI: AIMyBot1
+General: deals: 16, actions: 10, preflop actions: 10
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 1300, lost: 2300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Pilas, AI: Random
+General: deals: 16, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 3, bluff: 10
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.1875, PFR: 0.125, 3Bet: 0.125
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

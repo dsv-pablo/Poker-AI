@@ -1,0 +1,254 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jee: AIMyBot1
+Viwe: Random
+
+Joins: Jee, chips: 1000
+Joins: Viwe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Viwe, chips: 200
+Folds: Jee
+Pot size: 300
+Boasts: Viwe, 2d Ts
+Wins: Viwe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viwe
+Small Blind: Viwe, chips: 100
+Big Blind: Jee, chips: 200
+Raises: Viwe, chips: 900
+Folds: Jee
+Pot size: 1300
+Wins: Viwe, chips: 1300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Viwe, chips: 200
+Folds: Jee
+Pot size: 300
+Wins: Viwe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viwe
+Small Blind: Viwe, chips: 100
+Big Blind: Jee, chips: 200
+Calls: Viwe
+DEBUG MESSAGE: INVALID ACTION FROM Jee (2 0)
+Folds: Jee
+Pot size: 400
+Boasts: Viwe, Jh Ts
+Wins: Viwe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Viwe, chips: 200
+Folds: Jee
+Pot size: 300
+Boasts: Viwe, Js Kd
+Wins: Viwe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viwe
+Small Blind: Viwe, chips: 100
+Big Blind: Jee, chips: 200
+Raises: Viwe, chips: 300
+Folds: Jee
+Pot size: 700
+Boasts: Viwe, 2s 5h
+Wins: Viwe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Viwe, chips: 200
+Flop: 6c Ad 4d
+Turn: 2s
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Jee, Ah 3h
+Combination: Jee, Pair ( Ah Ad Kc 6c 4d )
+Shows: Viwe, Th 5s
+Combination: Viwe, High Card ( Ad Kc Th 6c 5s )
+Wins: Jee, chips: 200
+Wins: Viwe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viwe
+Small Blind: Viwe, chips: 100
+Big Blind: Jee, chips: 200
+Flop: 3h As Qs
+Turn: 2d
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Jee, 8s Js
+Combination: Jee, High Card ( As Qs Js 8s 6c )
+Shows: Viwe, 9h 2c
+Combination: Viwe, Pair ( 2c 2d As Qs 9h )
+Wins: Jee, chips: 100
+Wins: Viwe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Viwe, chips: 200
+Flop: Qh Kd 4h
+Turn: 7s
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Jee, Th 6d
+Combination: Jee, Pair ( Th Tc Kd Qh 7s )
+Shows: Viwe, Td Jh
+Combination: Viwe, Pair ( Td Tc Kd Qh Jh )
+Wins: Viwe, chips: 300
+Quits: Jee, chips: 0
+Ranking: Viwe, Place: 1, Score: 1000
+Reveal AI: Viwe, AI: Random
+Ranking: Jee, Place: 2, Score: -1000
+Reveal AI: Jee, AI: AIMyBot1
+
+Player Stats for Jee, AI: AIMyBot1
+General: deals: 9, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Viwe, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:25
+
+The game begins. The AI's of the players are: 
+Jee: AIMyBot1
+Viwe: Random
+
+Joins: Jee, chips: 1000
+Joins: Viwe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Viwe, chips: 200
+Folds: Jee
+Pot size: 300
+Boasts: Viwe, 2d Ts
+Wins: Viwe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viwe
+Small Blind: Viwe, chips: 100
+Big Blind: Jee, chips: 200
+Raises: Viwe, chips: 900
+Folds: Jee
+Pot size: 1300
+Wins: Viwe, chips: 1300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Viwe, chips: 200
+Folds: Jee
+Pot size: 300
+Wins: Viwe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viwe
+Small Blind: Viwe, chips: 100
+Big Blind: Jee, chips: 200
+Calls: Viwe
+DEBUG MESSAGE: INVALID ACTION FROM Jee (2 0)
+Folds: Jee
+Pot size: 400
+Boasts: Viwe, Jh Ts
+Wins: Viwe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Viwe, chips: 200
+Folds: Jee
+Pot size: 300
+Boasts: Viwe, Js Kd
+Wins: Viwe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viwe
+Small Blind: Viwe, chips: 100
+Big Blind: Jee, chips: 200
+Raises: Viwe, chips: 300
+Folds: Jee
+Pot size: 700
+Boasts: Viwe, 2s 5h
+Wins: Viwe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Viwe, chips: 200
+Flop: 6c Ad 4d
+Turn: 2s
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Jee, Ah 3h
+Combination: Jee, Pair ( Ah Ad Kc 6c 4d )
+Shows: Viwe, Th 5s
+Combination: Viwe, High Card ( Ad Kc Th 6c 5s )
+Wins: Jee, chips: 200
+Wins: Viwe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viwe
+Small Blind: Viwe, chips: 100
+Big Blind: Jee, chips: 200
+Flop: 3h As Qs
+Turn: 2d
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Jee, 8s Js
+Combination: Jee, High Card ( As Qs Js 8s 6c )
+Shows: Viwe, 9h 2c
+Combination: Viwe, Pair ( 2c 2d As Qs 9h )
+Wins: Jee, chips: 100
+Wins: Viwe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Viwe, chips: 200
+Flop: Qh Kd 4h
+Turn: 7s
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Jee, Th 6d
+Combination: Jee, Pair ( Th Tc Kd Qh 7s )
+Shows: Viwe, Td Jh
+Combination: Viwe, Pair ( Td Tc Kd Qh Jh )
+Wins: Viwe, chips: 300
+Quits: Jee, chips: 0
+Ranking: Viwe, Place: 1, Score: 1000
+Reveal AI: Viwe, AI: Random
+Ranking: Jee, Place: 2, Score: -1000
+Reveal AI: Jee, AI: AIMyBot1
+
+Player Stats for Jee, AI: AIMyBot1
+General: deals: 9, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Viwe, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

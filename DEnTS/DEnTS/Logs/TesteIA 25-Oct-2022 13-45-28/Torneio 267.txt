@@ -1,0 +1,224 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Focheenny: AIMyBot1
+Roegeefuf: Random
+
+Joins: Focheenny, chips: 1000
+Joins: Roegeefuf, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roegeefuf
+Small Blind: Roegeefuf, chips: 100
+Big Blind: Focheenny, chips: 200
+Calls: Roegeefuf
+DEBUG MESSAGE: INVALID ACTION FROM Focheenny (2 0)
+Folds: Focheenny
+Pot size: 400
+Wins: Roegeefuf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Focheenny
+Small Blind: Focheenny, chips: 100
+Big Blind: Roegeefuf, chips: 200
+Folds: Focheenny
+Pot size: 300
+Boasts: Roegeefuf, 8s 9h
+Wins: Roegeefuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roegeefuf
+Small Blind: Roegeefuf, chips: 100
+Big Blind: Focheenny, chips: 200
+Folds: Roegeefuf
+Pot size: 300
+Boasts: Roegeefuf, 3s Qh
+Wins: Focheenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Focheenny
+Small Blind: Focheenny, chips: 100
+Big Blind: Roegeefuf, chips: 200
+Folds: Focheenny
+Pot size: 300
+Wins: Roegeefuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roegeefuf
+Small Blind: Roegeefuf, chips: 100
+Big Blind: Focheenny, chips: 200
+Raises: Roegeefuf, chips: 300
+Folds: Focheenny
+Pot size: 700
+Boasts: Roegeefuf, 9d 2c
+Wins: Roegeefuf, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Focheenny
+Small Blind: Focheenny, chips: 100
+Big Blind: Roegeefuf, chips: 200
+Folds: Focheenny
+Pot size: 300
+Wins: Roegeefuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roegeefuf
+Small Blind: Roegeefuf, chips: 100
+Big Blind: Focheenny, chips: 200
+Calls: Roegeefuf
+DEBUG MESSAGE: INVALID ACTION FROM Focheenny (2 0)
+Folds: Focheenny
+Pot size: 400
+Boasts: Roegeefuf, 2c 9d
+Wins: Roegeefuf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Focheenny
+Small Blind: Focheenny, chips: 100
+Big Blind: Roegeefuf, chips: 200
+Folds: Focheenny
+Pot size: 300
+Wins: Roegeefuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roegeefuf
+Small Blind: Roegeefuf, chips: 100
+Big Blind: Focheenny, chips: 100
+Flop: 7c Qs 5h
+Turn: 6c
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Focheenny, Ad 9h
+Combination: Focheenny, High Card ( Ad Qs Jd 9h 7c )
+Shows: Roegeefuf, 6s 4c
+Combination: Roegeefuf, Pair ( 6s 6c Qs Jd 7c )
+Wins: Roegeefuf, chips: 200
+Quits: Focheenny, chips: 0
+Ranking: Roegeefuf, Place: 1, Score: 1000
+Reveal AI: Roegeefuf, AI: Random
+Ranking: Focheenny, Place: 2, Score: -1000
+Reveal AI: Focheenny, AI: AIMyBot1
+
+Player Stats for Focheenny, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Roegeefuf, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:47
+
+The game begins. The AI's of the players are: 
+Focheenny: AIMyBot1
+Roegeefuf: Random
+
+Joins: Focheenny, chips: 1000
+Joins: Roegeefuf, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roegeefuf
+Small Blind: Roegeefuf, chips: 100
+Big Blind: Focheenny, chips: 200
+Calls: Roegeefuf
+DEBUG MESSAGE: INVALID ACTION FROM Focheenny (2 0)
+Folds: Focheenny
+Pot size: 400
+Wins: Roegeefuf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Focheenny
+Small Blind: Focheenny, chips: 100
+Big Blind: Roegeefuf, chips: 200
+Folds: Focheenny
+Pot size: 300
+Boasts: Roegeefuf, 8s 9h
+Wins: Roegeefuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roegeefuf
+Small Blind: Roegeefuf, chips: 100
+Big Blind: Focheenny, chips: 200
+Folds: Roegeefuf
+Pot size: 300
+Boasts: Roegeefuf, 3s Qh
+Wins: Focheenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Focheenny
+Small Blind: Focheenny, chips: 100
+Big Blind: Roegeefuf, chips: 200
+Folds: Focheenny
+Pot size: 300
+Wins: Roegeefuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roegeefuf
+Small Blind: Roegeefuf, chips: 100
+Big Blind: Focheenny, chips: 200
+Raises: Roegeefuf, chips: 300
+Folds: Focheenny
+Pot size: 700
+Boasts: Roegeefuf, 9d 2c
+Wins: Roegeefuf, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Focheenny
+Small Blind: Focheenny, chips: 100
+Big Blind: Roegeefuf, chips: 200
+Folds: Focheenny
+Pot size: 300
+Wins: Roegeefuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roegeefuf
+Small Blind: Roegeefuf, chips: 100
+Big Blind: Focheenny, chips: 200
+Calls: Roegeefuf
+DEBUG MESSAGE: INVALID ACTION FROM Focheenny (2 0)
+Folds: Focheenny
+Pot size: 400
+Boasts: Roegeefuf, 2c 9d
+Wins: Roegeefuf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Focheenny
+Small Blind: Focheenny, chips: 100
+Big Blind: Roegeefuf, chips: 200
+Folds: Focheenny
+Pot size: 300
+Wins: Roegeefuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roegeefuf
+Small Blind: Roegeefuf, chips: 100
+Big Blind: Focheenny, chips: 100
+Flop: 7c Qs 5h
+Turn: 6c
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Focheenny, Ad 9h
+Combination: Focheenny, High Card ( Ad Qs Jd 9h 7c )
+Shows: Roegeefuf, 6s 4c
+Combination: Roegeefuf, Pair ( 6s 6c Qs Jd 7c )
+Wins: Roegeefuf, chips: 200
+Quits: Focheenny, chips: 0
+Ranking: Roegeefuf, Place: 1, Score: 1000
+Reveal AI: Roegeefuf, AI: Random
+Ranking: Focheenny, Place: 2, Score: -1000
+Reveal AI: Focheenny, AI: AIMyBot1
+
+Player Stats for Focheenny, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Roegeefuf, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

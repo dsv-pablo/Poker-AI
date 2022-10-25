@@ -1,0 +1,262 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gamapoe: AIMyBot1
+Ha: Random
+
+Joins: Gamapoe, chips: 1000
+Joins: Ha, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Gamapoe, chips: 200
+Calls: Ha
+DEBUG MESSAGE: INVALID ACTION FROM Gamapoe (2 0)
+Folds: Gamapoe
+Pot size: 400
+Wins: Ha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gamapoe
+Small Blind: Gamapoe, chips: 100
+Big Blind: Ha, chips: 200
+Folds: Gamapoe
+Pot size: 300
+Boasts: Ha, 6d Qd
+Wins: Ha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Gamapoe, chips: 200
+Raises: Ha, chips: 300
+Folds: Gamapoe
+Pot size: 700
+Wins: Ha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gamapoe
+Small Blind: Gamapoe, chips: 100
+Big Blind: Ha, chips: 200
+Folds: Gamapoe
+Pot size: 300
+Wins: Ha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Gamapoe, chips: 200
+Folds: Ha
+Pot size: 300
+Wins: Gamapoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gamapoe
+Small Blind: Gamapoe, chips: 100
+Big Blind: Ha, chips: 200
+Folds: Gamapoe
+Pot size: 300
+Wins: Ha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Gamapoe, chips: 200
+Calls: Ha
+DEBUG MESSAGE: INVALID ACTION FROM Gamapoe (2 0)
+Folds: Gamapoe
+Pot size: 400
+Wins: Ha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gamapoe
+Small Blind: Gamapoe, chips: 100
+Big Blind: Ha, chips: 200
+Folds: Gamapoe
+Pot size: 300
+Boasts: Ha, Th 9s
+Wins: Ha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Gamapoe, chips: 100
+Flop: 6c Jd 7d
+Turn: 4c
+River: 3h
+Pot size: 200
+Showdown Reached
+Shows: Gamapoe, Jh 6h
+Combination: Gamapoe, Two Pair ( Jh Jd 6h 6c 7d )
+Shows: Ha, 8s Qc
+Combination: Ha, High Card ( Qc Jd 8s 7d 6c )
+Wins: Gamapoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gamapoe
+Small Blind: Gamapoe, chips: 100
+Big Blind: Ha, chips: 200
+Folds: Gamapoe
+Pot size: 300
+Wins: Ha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Gamapoe, chips: 100
+Flop: Kd 4d Qd
+Turn: 9c
+River: 2s
+Pot size: 200
+Showdown Reached
+Shows: Gamapoe, 5h 7h
+Combination: Gamapoe, High Card ( Kd Qd 9c 7h 5h )
+Shows: Ha, 9s Ad
+Combination: Ha, Pair ( 9s 9c Ad Kd Qd )
+Wins: Ha, chips: 200
+Quits: Gamapoe, chips: 0
+Ranking: Ha, Place: 1, Score: 1000
+Reveal AI: Ha, AI: Random
+Ranking: Gamapoe, Place: 2, Score: -1000
+Reveal AI: Gamapoe, AI: AIMyBot1
+
+Player Stats for Gamapoe, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Ha, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:13
+
+The game begins. The AI's of the players are: 
+Gamapoe: AIMyBot1
+Ha: Random
+
+Joins: Gamapoe, chips: 1000
+Joins: Ha, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Gamapoe, chips: 200
+Calls: Ha
+DEBUG MESSAGE: INVALID ACTION FROM Gamapoe (2 0)
+Folds: Gamapoe
+Pot size: 400
+Wins: Ha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gamapoe
+Small Blind: Gamapoe, chips: 100
+Big Blind: Ha, chips: 200
+Folds: Gamapoe
+Pot size: 300
+Boasts: Ha, 6d Qd
+Wins: Ha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Gamapoe, chips: 200
+Raises: Ha, chips: 300
+Folds: Gamapoe
+Pot size: 700
+Wins: Ha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gamapoe
+Small Blind: Gamapoe, chips: 100
+Big Blind: Ha, chips: 200
+Folds: Gamapoe
+Pot size: 300
+Wins: Ha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Gamapoe, chips: 200
+Folds: Ha
+Pot size: 300
+Wins: Gamapoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gamapoe
+Small Blind: Gamapoe, chips: 100
+Big Blind: Ha, chips: 200
+Folds: Gamapoe
+Pot size: 300
+Wins: Ha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Gamapoe, chips: 200
+Calls: Ha
+DEBUG MESSAGE: INVALID ACTION FROM Gamapoe (2 0)
+Folds: Gamapoe
+Pot size: 400
+Wins: Ha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gamapoe
+Small Blind: Gamapoe, chips: 100
+Big Blind: Ha, chips: 200
+Folds: Gamapoe
+Pot size: 300
+Boasts: Ha, Th 9s
+Wins: Ha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Gamapoe, chips: 100
+Flop: 6c Jd 7d
+Turn: 4c
+River: 3h
+Pot size: 200
+Showdown Reached
+Shows: Gamapoe, Jh 6h
+Combination: Gamapoe, Two Pair ( Jh Jd 6h 6c 7d )
+Shows: Ha, 8s Qc
+Combination: Ha, High Card ( Qc Jd 8s 7d 6c )
+Wins: Gamapoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gamapoe
+Small Blind: Gamapoe, chips: 100
+Big Blind: Ha, chips: 200
+Folds: Gamapoe
+Pot size: 300
+Wins: Ha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Gamapoe, chips: 100
+Flop: Kd 4d Qd
+Turn: 9c
+River: 2s
+Pot size: 200
+Showdown Reached
+Shows: Gamapoe, 5h 7h
+Combination: Gamapoe, High Card ( Kd Qd 9c 7h 5h )
+Shows: Ha, 9s Ad
+Combination: Ha, Pair ( 9s 9c Ad Kd Qd )
+Wins: Ha, chips: 200
+Quits: Gamapoe, chips: 0
+Ranking: Ha, Place: 1, Score: 1000
+Reveal AI: Ha, AI: Random
+Ranking: Gamapoe, Place: 2, Score: -1000
+Reveal AI: Gamapoe, AI: AIMyBot1
+
+Player Stats for Gamapoe, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Ha, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

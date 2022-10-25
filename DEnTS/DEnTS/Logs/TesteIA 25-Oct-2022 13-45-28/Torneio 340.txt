@@ -1,0 +1,270 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+We: AIMyBot1
+Heetimok: Random
+
+Joins: We, chips: 1000
+Joins: Heetimok, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: We
+Small Blind: We, chips: 100
+Big Blind: Heetimok, chips: 200
+Folds: We
+Pot size: 300
+Wins: Heetimok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heetimok
+Small Blind: Heetimok, chips: 100
+Big Blind: We, chips: 200
+Raises: Heetimok, chips: 300
+Folds: We
+Pot size: 700
+Wins: Heetimok, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: We
+Small Blind: We, chips: 100
+Big Blind: Heetimok, chips: 200
+Folds: We
+Pot size: 300
+Boasts: Heetimok, Js 5c
+Wins: Heetimok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heetimok
+Small Blind: Heetimok, chips: 100
+Big Blind: We, chips: 200
+Calls: Heetimok
+DEBUG MESSAGE: INVALID ACTION FROM We (2 0)
+Folds: We
+Pot size: 400
+Boasts: Heetimok, 2s 7h
+Wins: Heetimok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: We
+Small Blind: We, chips: 100
+Big Blind: Heetimok, chips: 200
+Folds: We
+Pot size: 300
+Boasts: Heetimok, 7c 8h
+Wins: Heetimok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heetimok
+Small Blind: Heetimok, chips: 100
+Big Blind: We, chips: 200
+Raises: Heetimok, chips: 300
+Folds: We
+Pot size: 700
+Boasts: Heetimok, 3s Td
+Wins: Heetimok, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: We
+Small Blind: We, chips: 100
+Big Blind: Heetimok, chips: 200
+Flop: Ac Jh 4d
+Turn: 6d
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: We, As Tc
+Combination: We, Two Pair ( As Ac 6d 6h Jh )
+Shows: Heetimok, Qc 7d
+Combination: Heetimok, Pair ( 6d 6h Ac Qc Jh )
+Wins: We, chips: 200
+Wins: Heetimok, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heetimok
+Small Blind: Heetimok, chips: 100
+Big Blind: We, chips: 200
+Flop: Qh 6c Qd
+Turn: 9h
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: We, Th 6s
+Combination: We, Full House ( Qh Qd Qc 6s 6c )
+Shows: Heetimok, 6d 7s
+Combination: Heetimok, Full House ( Qh Qd Qc 6d 6c )
+Wins: We, chips: 200
+Wins: Heetimok, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: We
+Small Blind: We, chips: 100
+Big Blind: Heetimok, chips: 200
+Folds: We
+Pot size: 300
+Boasts: Heetimok, As Jh
+Wins: Heetimok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heetimok
+Small Blind: Heetimok, chips: 100
+Big Blind: We, chips: 100
+Flop: As 3h 3s
+Turn: Ac
+River: 6c
+Pot size: 200
+Showdown Reached
+Shows: We, 5s 2c
+Combination: We, Two Pair ( As Ac 3h 3s 6c )
+Shows: Heetimok, 4s 3d
+Combination: Heetimok, Full House ( 3d 3h 3s As Ac )
+Wins: Heetimok, chips: 200
+Quits: We, chips: 0
+Ranking: Heetimok, Place: 1, Score: 1000
+Reveal AI: Heetimok, AI: Random
+Ranking: We, Place: 2, Score: -1000
+Reveal AI: We, AI: AIMyBot1
+
+Player Stats for Heetimok, AI: Random
+General: deals: 10, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.2, 3Bet: 0.2
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for We, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:51
+
+The game begins. The AI's of the players are: 
+We: AIMyBot1
+Heetimok: Random
+
+Joins: We, chips: 1000
+Joins: Heetimok, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: We
+Small Blind: We, chips: 100
+Big Blind: Heetimok, chips: 200
+Folds: We
+Pot size: 300
+Wins: Heetimok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heetimok
+Small Blind: Heetimok, chips: 100
+Big Blind: We, chips: 200
+Raises: Heetimok, chips: 300
+Folds: We
+Pot size: 700
+Wins: Heetimok, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: We
+Small Blind: We, chips: 100
+Big Blind: Heetimok, chips: 200
+Folds: We
+Pot size: 300
+Boasts: Heetimok, Js 5c
+Wins: Heetimok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heetimok
+Small Blind: Heetimok, chips: 100
+Big Blind: We, chips: 200
+Calls: Heetimok
+DEBUG MESSAGE: INVALID ACTION FROM We (2 0)
+Folds: We
+Pot size: 400
+Boasts: Heetimok, 2s 7h
+Wins: Heetimok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: We
+Small Blind: We, chips: 100
+Big Blind: Heetimok, chips: 200
+Folds: We
+Pot size: 300
+Boasts: Heetimok, 7c 8h
+Wins: Heetimok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heetimok
+Small Blind: Heetimok, chips: 100
+Big Blind: We, chips: 200
+Raises: Heetimok, chips: 300
+Folds: We
+Pot size: 700
+Boasts: Heetimok, 3s Td
+Wins: Heetimok, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: We
+Small Blind: We, chips: 100
+Big Blind: Heetimok, chips: 200
+Flop: Ac Jh 4d
+Turn: 6d
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: We, As Tc
+Combination: We, Two Pair ( As Ac 6d 6h Jh )
+Shows: Heetimok, Qc 7d
+Combination: Heetimok, Pair ( 6d 6h Ac Qc Jh )
+Wins: We, chips: 200
+Wins: Heetimok, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heetimok
+Small Blind: Heetimok, chips: 100
+Big Blind: We, chips: 200
+Flop: Qh 6c Qd
+Turn: 9h
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: We, Th 6s
+Combination: We, Full House ( Qh Qd Qc 6s 6c )
+Shows: Heetimok, 6d 7s
+Combination: Heetimok, Full House ( Qh Qd Qc 6d 6c )
+Wins: We, chips: 200
+Wins: Heetimok, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: We
+Small Blind: We, chips: 100
+Big Blind: Heetimok, chips: 200
+Folds: We
+Pot size: 300
+Boasts: Heetimok, As Jh
+Wins: Heetimok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heetimok
+Small Blind: Heetimok, chips: 100
+Big Blind: We, chips: 100
+Flop: As 3h 3s
+Turn: Ac
+River: 6c
+Pot size: 200
+Showdown Reached
+Shows: We, 5s 2c
+Combination: We, Two Pair ( As Ac 3h 3s 6c )
+Shows: Heetimok, 4s 3d
+Combination: Heetimok, Full House ( 3d 3h 3s As Ac )
+Wins: Heetimok, chips: 200
+Quits: We, chips: 0
+Ranking: Heetimok, Place: 1, Score: 1000
+Reveal AI: Heetimok, AI: Random
+Ranking: We, Place: 2, Score: -1000
+Reveal AI: We, AI: AIMyBot1
+
+Player Stats for Heetimok, AI: Random
+General: deals: 10, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.2, 3Bet: 0.2
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for We, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

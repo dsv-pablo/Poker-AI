@@ -1,0 +1,508 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jeba: Random
+Peefigeen: AIMyBot1
+
+Joins: Jeba, chips: 1000
+Joins: Peefigeen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 200
+Folds: Jeba
+Pot size: 300
+Boasts: Jeba, Ks Kc
+Wins: Peefigeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 200
+Calls: Jeba
+DEBUG MESSAGE: INVALID ACTION FROM Peefigeen (2 0)
+Folds: Peefigeen
+Pot size: 400
+Wins: Jeba, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 200
+Calls: Jeba
+DEBUG MESSAGE: INVALID ACTION FROM Peefigeen (2 0)
+Folds: Peefigeen
+Pot size: 400
+Boasts: Jeba, Ah 2d
+Wins: Jeba, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Boasts: Jeba, 7h Th
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 200
+Folds: Jeba
+Pot size: 300
+Boasts: Jeba, 5d 5s
+Wins: Peefigeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 200
+Raises: Jeba, chips: 300
+Folds: Peefigeen
+Pot size: 700
+Wins: Jeba, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 100
+Flop: Kh Th Ks
+Turn: 9c
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Jeba, Jc 4h
+Combination: Jeba, Two Pair ( Kh Ks Th Tc Jc )
+Shows: Peefigeen, Ad 4s
+Combination: Peefigeen, Two Pair ( Kh Ks Th Tc Ad )
+Wins: Peefigeen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 100
+Flop: 2d Qh Ac
+Turn: 6h
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Jeba, 7h 4s
+Combination: Jeba, High Card ( Ac Qh 9h 7h 6h )
+Shows: Peefigeen, Ks 8s
+Combination: Peefigeen, High Card ( Ac Ks Qh 9h 8s )
+Wins: Peefigeen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 100
+Flop: 6h Qd 2s
+Turn: Qc
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Jeba, 4c Ts
+Combination: Jeba, Pair ( Qd Qc Kh Ts 6h )
+Shows: Peefigeen, Kd 3d
+Combination: Peefigeen, Two Pair ( Kd Kh Qd Qc 6h )
+Wins: Peefigeen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Boasts: Jeba, 3s Jc
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 100
+Flop: Qd 8d Td
+Turn: Qc
+River: 6h
+Pot size: 200
+Showdown Reached
+Shows: Jeba, As 8s
+Combination: Jeba, Two Pair ( Qd Qc 8s 8d As )
+Shows: Peefigeen, Qh Ah
+Combination: Peefigeen, Three Of A Kind ( Qh Qd Qc Ah Td )
+Wins: Peefigeen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 100
+Flop: 2d 4s Ah
+Turn: 6c
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Jeba, Qh 8d
+Combination: Jeba, High Card ( Ah Qh 8d 6c 5s )
+Shows: Peefigeen, Qc 2s
+Combination: Peefigeen, Pair ( 2s 2d Ah Qc 6c )
+Wins: Peefigeen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 100
+Flop: 4s Qh 6h
+Turn: 6s
+River: 9c
+Pot size: 200
+Showdown Reached
+Shows: Jeba, Jd 8c
+Combination: Jeba, Pair ( 6h 6s Qh Jd 9c )
+Shows: Peefigeen, Qs Td
+Combination: Peefigeen, Two Pair ( Qs Qh 6h 6s Td )
+Wins: Peefigeen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Boasts: Jeba, 5d Ts
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 100
+Flop: 6h Kd Ts
+Turn: Tc
+River: 6s
+Pot size: 200
+Showdown Reached
+Shows: Jeba, Qh Kh
+Combination: Jeba, Two Pair ( Kh Kd Ts Tc Qh )
+Shows: Peefigeen, 7h 9d
+Combination: Peefigeen, Two Pair ( Ts Tc 6h 6s Kd )
+Wins: Jeba, chips: 200
+Quits: Peefigeen, chips: 0
+Ranking: Jeba, Place: 1, Score: 1000
+Reveal AI: Jeba, AI: Random
+Ranking: Peefigeen, Place: 2, Score: -1000
+Reveal AI: Peefigeen, AI: AIMyBot1
+
+Player Stats for Jeba, AI: Random
+General: deals: 23, actions: 5, preflop actions: 5
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 15, showdown: 1, bluff: 14
+Chips: won: 5000, lost: 4000, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.0434783, 3Bet: 0.0434783
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.142857
+
+
+Player Stats for Peefigeen, AI: AIMyBot1
+General: deals: 23, actions: 14, preflop actions: 14
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 8, showdown: 6, bluff: 2
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Date: 2022/10/25 13:46:10
+
+The game begins. The AI's of the players are: 
+Jeba: Random
+Peefigeen: AIMyBot1
+
+Joins: Jeba, chips: 1000
+Joins: Peefigeen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 200
+Folds: Jeba
+Pot size: 300
+Boasts: Jeba, Ks Kc
+Wins: Peefigeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 200
+Calls: Jeba
+DEBUG MESSAGE: INVALID ACTION FROM Peefigeen (2 0)
+Folds: Peefigeen
+Pot size: 400
+Wins: Jeba, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 200
+Calls: Jeba
+DEBUG MESSAGE: INVALID ACTION FROM Peefigeen (2 0)
+Folds: Peefigeen
+Pot size: 400
+Boasts: Jeba, Ah 2d
+Wins: Jeba, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Boasts: Jeba, 7h Th
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 200
+Folds: Jeba
+Pot size: 300
+Boasts: Jeba, 5d 5s
+Wins: Peefigeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 200
+Raises: Jeba, chips: 300
+Folds: Peefigeen
+Pot size: 700
+Wins: Jeba, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 100
+Flop: Kh Th Ks
+Turn: 9c
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Jeba, Jc 4h
+Combination: Jeba, Two Pair ( Kh Ks Th Tc Jc )
+Shows: Peefigeen, Ad 4s
+Combination: Peefigeen, Two Pair ( Kh Ks Th Tc Ad )
+Wins: Peefigeen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 100
+Flop: 2d Qh Ac
+Turn: 6h
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Jeba, 7h 4s
+Combination: Jeba, High Card ( Ac Qh 9h 7h 6h )
+Shows: Peefigeen, Ks 8s
+Combination: Peefigeen, High Card ( Ac Ks Qh 9h 8s )
+Wins: Peefigeen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 100
+Flop: 6h Qd 2s
+Turn: Qc
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Jeba, 4c Ts
+Combination: Jeba, Pair ( Qd Qc Kh Ts 6h )
+Shows: Peefigeen, Kd 3d
+Combination: Peefigeen, Two Pair ( Kd Kh Qd Qc 6h )
+Wins: Peefigeen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Boasts: Jeba, 3s Jc
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 100
+Flop: Qd 8d Td
+Turn: Qc
+River: 6h
+Pot size: 200
+Showdown Reached
+Shows: Jeba, As 8s
+Combination: Jeba, Two Pair ( Qd Qc 8s 8d As )
+Shows: Peefigeen, Qh Ah
+Combination: Peefigeen, Three Of A Kind ( Qh Qd Qc Ah Td )
+Wins: Peefigeen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 100
+Flop: 2d 4s Ah
+Turn: 6c
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Jeba, Qh 8d
+Combination: Jeba, High Card ( Ah Qh 8d 6c 5s )
+Shows: Peefigeen, Qc 2s
+Combination: Peefigeen, Pair ( 2s 2d Ah Qc 6c )
+Wins: Peefigeen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 100
+Flop: 4s Qh 6h
+Turn: 6s
+River: 9c
+Pot size: 200
+Showdown Reached
+Shows: Jeba, Jd 8c
+Combination: Jeba, Pair ( 6h 6s Qh Jd 9c )
+Shows: Peefigeen, Qs Td
+Combination: Peefigeen, Two Pair ( Qs Qh 6h 6s Td )
+Wins: Peefigeen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peefigeen
+Small Blind: Peefigeen, chips: 100
+Big Blind: Jeba, chips: 200
+Folds: Peefigeen
+Pot size: 300
+Boasts: Jeba, 5d Ts
+Wins: Jeba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeba
+Small Blind: Jeba, chips: 100
+Big Blind: Peefigeen, chips: 100
+Flop: 6h Kd Ts
+Turn: Tc
+River: 6s
+Pot size: 200
+Showdown Reached
+Shows: Jeba, Qh Kh
+Combination: Jeba, Two Pair ( Kh Kd Ts Tc Qh )
+Shows: Peefigeen, 7h 9d
+Combination: Peefigeen, Two Pair ( Ts Tc 6h 6s Kd )
+Wins: Jeba, chips: 200
+Quits: Peefigeen, chips: 0
+Ranking: Jeba, Place: 1, Score: 1000
+Reveal AI: Jeba, AI: Random
+Ranking: Peefigeen, Place: 2, Score: -1000
+Reveal AI: Peefigeen, AI: AIMyBot1
+
+Player Stats for Jeba, AI: Random
+General: deals: 23, actions: 5, preflop actions: 5
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 15, showdown: 1, bluff: 14
+Chips: won: 5000, lost: 4000, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.0434783, 3Bet: 0.0434783
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.142857
+
+
+Player Stats for Peefigeen, AI: AIMyBot1
+General: deals: 23, actions: 14, preflop actions: 14
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 8, showdown: 6, bluff: 2
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+

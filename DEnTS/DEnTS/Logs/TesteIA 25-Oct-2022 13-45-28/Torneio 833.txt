@@ -1,0 +1,426 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Nopeechin: Random
+Geewuf: AIMyBot1
+
+Joins: Nopeechin, chips: 1000
+Joins: Geewuf, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 200
+Folds: Nopeechin
+Pot size: 300
+Wins: Geewuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 200
+Folds: Nopeechin
+Pot size: 300
+Wins: Geewuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Boasts: Nopeechin, Ks Ts
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 200
+Calls: Nopeechin
+DEBUG MESSAGE: INVALID ACTION FROM Geewuf (2 0)
+Folds: Geewuf
+Pot size: 400
+Wins: Nopeechin, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 200
+Calls: Nopeechin
+DEBUG MESSAGE: INVALID ACTION FROM Geewuf (2 0)
+Folds: Geewuf
+Pot size: 400
+Wins: Nopeechin, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 200
+Folds: Nopeechin
+Pot size: 300
+Wins: Geewuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Boasts: Nopeechin, Ts 9s
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 200
+Folds: Nopeechin
+Pot size: 300
+Boasts: Nopeechin, Qh 8s
+Wins: Geewuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 200
+Folds: Nopeechin
+Pot size: 300
+Wins: Geewuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Boasts: Nopeechin, 5c 9c
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 200
+Raises: Nopeechin, chips: 300
+Folds: Geewuf
+Pot size: 700
+Boasts: Nopeechin, Kd 3d
+Wins: Nopeechin, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 100
+Flop: 9s 7h 9c
+Turn: 7c
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Nopeechin, Qs Kd
+Combination: Nopeechin, Two Pair ( 9s 9c 7h 7c Kd )
+Shows: Geewuf, 5c As
+Combination: Geewuf, Two Pair ( 9s 9c 7h 7c As )
+Wins: Geewuf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Boasts: Nopeechin, Qd 5s
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 100
+Flop: Ks Kh 6h
+Turn: 3s
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Nopeechin, 2s Kd
+Combination: Nopeechin, Three Of A Kind ( Kd Ks Kh 8h 6h )
+Shows: Geewuf, 6c 6s
+Combination: Geewuf, Full House ( 6c 6s 6h Ks Kh )
+Wins: Geewuf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Boasts: Nopeechin, Qd 5d
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 100
+Flop: 7h 4h 5s
+Turn: 2s
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Nopeechin, 2c Jd
+Combination: Nopeechin, Pair ( 2c 2s Qc Jd 7h )
+Shows: Geewuf, Kd Ac
+Combination: Geewuf, High Card ( Ac Kd Qc 7h 5s )
+Wins: Nopeechin, chips: 200
+Quits: Geewuf, chips: 0
+Ranking: Nopeechin, Place: 1, Score: 1000
+Reveal AI: Nopeechin, AI: Random
+Ranking: Geewuf, Place: 2, Score: -1000
+Reveal AI: Geewuf, AI: AIMyBot1
+
+Player Stats for Geewuf, AI: AIMyBot1
+General: deals: 21, actions: 13, preflop actions: 13
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 7, showdown: 2, bluff: 5
+Chips: won: 1900, lost: 2900, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Nopeechin, AI: Random
+General: deals: 21, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 14, showdown: 1, bluff: 13
+Chips: won: 4700, lost: 3700, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.047619, 3Bet: 0.047619
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Date: 2022/10/25 13:46:24
+
+The game begins. The AI's of the players are: 
+Nopeechin: Random
+Geewuf: AIMyBot1
+
+Joins: Nopeechin, chips: 1000
+Joins: Geewuf, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 200
+Folds: Nopeechin
+Pot size: 300
+Wins: Geewuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 200
+Folds: Nopeechin
+Pot size: 300
+Wins: Geewuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Boasts: Nopeechin, Ks Ts
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 200
+Calls: Nopeechin
+DEBUG MESSAGE: INVALID ACTION FROM Geewuf (2 0)
+Folds: Geewuf
+Pot size: 400
+Wins: Nopeechin, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 200
+Calls: Nopeechin
+DEBUG MESSAGE: INVALID ACTION FROM Geewuf (2 0)
+Folds: Geewuf
+Pot size: 400
+Wins: Nopeechin, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 200
+Folds: Nopeechin
+Pot size: 300
+Wins: Geewuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Boasts: Nopeechin, Ts 9s
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 200
+Folds: Nopeechin
+Pot size: 300
+Boasts: Nopeechin, Qh 8s
+Wins: Geewuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 200
+Folds: Nopeechin
+Pot size: 300
+Wins: Geewuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Boasts: Nopeechin, 5c 9c
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 200
+Raises: Nopeechin, chips: 300
+Folds: Geewuf
+Pot size: 700
+Boasts: Nopeechin, Kd 3d
+Wins: Nopeechin, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 100
+Flop: 9s 7h 9c
+Turn: 7c
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Nopeechin, Qs Kd
+Combination: Nopeechin, Two Pair ( 9s 9c 7h 7c Kd )
+Shows: Geewuf, 5c As
+Combination: Geewuf, Two Pair ( 9s 9c 7h 7c As )
+Wins: Geewuf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Boasts: Nopeechin, Qd 5s
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 100
+Flop: Ks Kh 6h
+Turn: 3s
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Nopeechin, 2s Kd
+Combination: Nopeechin, Three Of A Kind ( Kd Ks Kh 8h 6h )
+Shows: Geewuf, 6c 6s
+Combination: Geewuf, Full House ( 6c 6s 6h Ks Kh )
+Wins: Geewuf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewuf
+Small Blind: Geewuf, chips: 100
+Big Blind: Nopeechin, chips: 200
+Folds: Geewuf
+Pot size: 300
+Boasts: Nopeechin, Qd 5d
+Wins: Nopeechin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nopeechin
+Small Blind: Nopeechin, chips: 100
+Big Blind: Geewuf, chips: 100
+Flop: 7h 4h 5s
+Turn: 2s
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Nopeechin, 2c Jd
+Combination: Nopeechin, Pair ( 2c 2s Qc Jd 7h )
+Shows: Geewuf, Kd Ac
+Combination: Geewuf, High Card ( Ac Kd Qc 7h 5s )
+Wins: Nopeechin, chips: 200
+Quits: Geewuf, chips: 0
+Ranking: Nopeechin, Place: 1, Score: 1000
+Reveal AI: Nopeechin, AI: Random
+Ranking: Geewuf, Place: 2, Score: -1000
+Reveal AI: Geewuf, AI: AIMyBot1
+
+Player Stats for Geewuf, AI: AIMyBot1
+General: deals: 21, actions: 13, preflop actions: 13
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 7, showdown: 2, bluff: 5
+Chips: won: 1900, lost: 2900, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Nopeechin, AI: Random
+General: deals: 21, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 14, showdown: 1, bluff: 13
+Chips: won: 4700, lost: 3700, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.047619, 3Bet: 0.047619
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+

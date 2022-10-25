@@ -1,0 +1,330 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Chifi: Random
+Nuroe: AIMyBot1
+
+Joins: Chifi, chips: 1000
+Joins: Nuroe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifi
+Small Blind: Chifi, chips: 100
+Big Blind: Nuroe, chips: 200
+Calls: Chifi
+DEBUG MESSAGE: INVALID ACTION FROM Nuroe (2 0)
+Folds: Nuroe
+Pot size: 400
+Wins: Chifi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Chifi, chips: 200
+Folds: Nuroe
+Pot size: 300
+Wins: Chifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifi
+Small Blind: Chifi, chips: 100
+Big Blind: Nuroe, chips: 200
+Folds: Chifi
+Pot size: 300
+Boasts: Chifi, 2s Kd
+Wins: Nuroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Chifi, chips: 200
+Folds: Nuroe
+Pot size: 300
+Wins: Chifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifi
+Small Blind: Chifi, chips: 100
+Big Blind: Nuroe, chips: 200
+Folds: Chifi
+Pot size: 300
+Wins: Nuroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Chifi, chips: 200
+Folds: Nuroe
+Pot size: 300
+Boasts: Chifi, 5s Ad
+Wins: Chifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifi
+Small Blind: Chifi, chips: 100
+Big Blind: Nuroe, chips: 200
+Folds: Chifi
+Pot size: 300
+Boasts: Chifi, 7h 7s
+Wins: Nuroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Chifi, chips: 200
+Folds: Nuroe
+Pot size: 300
+Boasts: Chifi, Td 2h
+Wins: Chifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifi
+Small Blind: Chifi, chips: 100
+Big Blind: Nuroe, chips: 200
+Calls: Chifi
+DEBUG MESSAGE: INVALID ACTION FROM Nuroe (2 0)
+Folds: Nuroe
+Pot size: 400
+Boasts: Chifi, 8d 7s
+Wins: Chifi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Chifi, chips: 200
+Folds: Nuroe
+Pot size: 300
+Boasts: Chifi, 3c 9c
+Wins: Chifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifi
+Small Blind: Chifi, chips: 100
+Big Blind: Nuroe, chips: 200
+Calls: Chifi
+DEBUG MESSAGE: INVALID ACTION FROM Nuroe (2 0)
+Folds: Nuroe
+Pot size: 400
+Wins: Chifi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Chifi, chips: 200
+Folds: Nuroe
+Pot size: 300
+Boasts: Chifi, Tc 4d
+Wins: Chifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifi
+Small Blind: Chifi, chips: 100
+Big Blind: Nuroe, chips: 100
+Flop: 8c 4s Qc
+Turn: 6d
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Chifi, 2h 3c
+Combination: Chifi, Pair ( 4s 4c Qc 8c 6d )
+Shows: Nuroe, Kh Ks
+Combination: Nuroe, Two Pair ( Kh Ks 4s 4c Qc )
+Wins: Nuroe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Chifi, chips: 200
+Folds: Nuroe
+Pot size: 300
+Wins: Chifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifi
+Small Blind: Chifi, chips: 100
+Big Blind: Nuroe, chips: 100
+Flop: 3d 9c Kc
+Turn: Qc
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Chifi, 9d 9h
+Combination: Chifi, Three Of A Kind ( 9d 9h 9c Kc Qc )
+Shows: Nuroe, Ah 3s
+Combination: Nuroe, Pair ( 3s 3d Ah Kc Qc )
+Wins: Chifi, chips: 200
+Quits: Nuroe, chips: 0
+Ranking: Chifi, Place: 1, Score: 1000
+Reveal AI: Chifi, AI: Random
+Ranking: Nuroe, Place: 2, Score: -1000
+Reveal AI: Nuroe, AI: AIMyBot1
+
+Player Stats for Chifi, AI: Random
+General: deals: 15, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Nuroe, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 4, showdown: 1, bluff: 3
+Chips: won: 1100, lost: 2100, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:59
+
+The game begins. The AI's of the players are: 
+Chifi: Random
+Nuroe: AIMyBot1
+
+Joins: Chifi, chips: 1000
+Joins: Nuroe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifi
+Small Blind: Chifi, chips: 100
+Big Blind: Nuroe, chips: 200
+Calls: Chifi
+DEBUG MESSAGE: INVALID ACTION FROM Nuroe (2 0)
+Folds: Nuroe
+Pot size: 400
+Wins: Chifi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Chifi, chips: 200
+Folds: Nuroe
+Pot size: 300
+Wins: Chifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifi
+Small Blind: Chifi, chips: 100
+Big Blind: Nuroe, chips: 200
+Folds: Chifi
+Pot size: 300
+Boasts: Chifi, 2s Kd
+Wins: Nuroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Chifi, chips: 200
+Folds: Nuroe
+Pot size: 300
+Wins: Chifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifi
+Small Blind: Chifi, chips: 100
+Big Blind: Nuroe, chips: 200
+Folds: Chifi
+Pot size: 300
+Wins: Nuroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Chifi, chips: 200
+Folds: Nuroe
+Pot size: 300
+Boasts: Chifi, 5s Ad
+Wins: Chifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifi
+Small Blind: Chifi, chips: 100
+Big Blind: Nuroe, chips: 200
+Folds: Chifi
+Pot size: 300
+Boasts: Chifi, 7h 7s
+Wins: Nuroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Chifi, chips: 200
+Folds: Nuroe
+Pot size: 300
+Boasts: Chifi, Td 2h
+Wins: Chifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifi
+Small Blind: Chifi, chips: 100
+Big Blind: Nuroe, chips: 200
+Calls: Chifi
+DEBUG MESSAGE: INVALID ACTION FROM Nuroe (2 0)
+Folds: Nuroe
+Pot size: 400
+Boasts: Chifi, 8d 7s
+Wins: Chifi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Chifi, chips: 200
+Folds: Nuroe
+Pot size: 300
+Boasts: Chifi, 3c 9c
+Wins: Chifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifi
+Small Blind: Chifi, chips: 100
+Big Blind: Nuroe, chips: 200
+Calls: Chifi
+DEBUG MESSAGE: INVALID ACTION FROM Nuroe (2 0)
+Folds: Nuroe
+Pot size: 400
+Wins: Chifi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Chifi, chips: 200
+Folds: Nuroe
+Pot size: 300
+Boasts: Chifi, Tc 4d
+Wins: Chifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifi
+Small Blind: Chifi, chips: 100
+Big Blind: Nuroe, chips: 100
+Flop: 8c 4s Qc
+Turn: 6d
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Chifi, 2h 3c
+Combination: Chifi, Pair ( 4s 4c Qc 8c 6d )
+Shows: Nuroe, Kh Ks
+Combination: Nuroe, Two Pair ( Kh Ks 4s 4c Qc )
+Wins: Nuroe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Chifi, chips: 200
+Folds: Nuroe
+Pot size: 300
+Wins: Chifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifi
+Small Blind: Chifi, chips: 100
+Big Blind: Nuroe, chips: 100
+Flop: 3d 9c Kc
+Turn: Qc
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Chifi, 9d 9h
+Combination: Chifi, Three Of A Kind ( 9d 9h 9c Kc Qc )
+Shows: Nuroe, Ah 3s
+Combination: Nuroe, Pair ( 3s 3d Ah Kc Qc )
+Wins: Chifi, chips: 200
+Quits: Nuroe, chips: 0
+Ranking: Chifi, Place: 1, Score: 1000
+Reveal AI: Chifi, AI: Random
+Ranking: Nuroe, Place: 2, Score: -1000
+Reveal AI: Nuroe, AI: AIMyBot1
+
+Player Stats for Chifi, AI: Random
+General: deals: 15, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Nuroe, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 4, showdown: 1, bluff: 3
+Chips: won: 1100, lost: 2100, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

@@ -1,0 +1,358 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Vo: AIMyBot1
+Raren: Random
+
+Joins: Vo, chips: 1000
+Joins: Raren, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Raren
+Small Blind: Raren, chips: 100
+Big Blind: Vo, chips: 200
+Raises: Raren, chips: 300
+Folds: Vo
+Pot size: 700
+Boasts: Raren, 6c 4h
+Wins: Raren, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vo
+Small Blind: Vo, chips: 100
+Big Blind: Raren, chips: 200
+Folds: Vo
+Pot size: 300
+Boasts: Raren, 5h As
+Wins: Raren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Raren
+Small Blind: Raren, chips: 100
+Big Blind: Vo, chips: 200
+Raises: Raren, chips: 300
+Folds: Vo
+Pot size: 700
+Boasts: Raren, 4d 2c
+Wins: Raren, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vo
+Small Blind: Vo, chips: 100
+Big Blind: Raren, chips: 200
+Folds: Vo
+Pot size: 300
+Boasts: Raren, 9d 3d
+Wins: Raren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Raren
+Small Blind: Raren, chips: 100
+Big Blind: Vo, chips: 200
+Folds: Raren
+Pot size: 300
+Wins: Vo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vo
+Small Blind: Vo, chips: 100
+Big Blind: Raren, chips: 200
+Folds: Vo
+Pot size: 300
+Wins: Raren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Raren
+Small Blind: Raren, chips: 100
+Big Blind: Vo, chips: 200
+Calls: Raren
+DEBUG MESSAGE: INVALID ACTION FROM Vo (2 0)
+Folds: Vo
+Pot size: 400
+Wins: Raren, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vo
+Small Blind: Vo, chips: 100
+Big Blind: Raren, chips: 200
+Folds: Vo
+Pot size: 300
+Boasts: Raren, 8c 2h
+Wins: Raren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Raren
+Small Blind: Raren, chips: 100
+Big Blind: Vo, chips: 100
+Flop: 7c Qh 9h
+Turn: Jh
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Vo, As 8c
+Combination: Vo, Straight ( Qh Jh Td 9h 8c )
+Shows: Raren, 3s Th
+Combination: Raren, Pair ( Th Td Qh Jh 9h )
+Wins: Vo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vo
+Small Blind: Vo, chips: 100
+Big Blind: Raren, chips: 200
+Folds: Vo
+Pot size: 300
+Boasts: Raren, 4c 3c
+Wins: Raren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Raren
+Small Blind: Raren, chips: 100
+Big Blind: Vo, chips: 100
+Flop: 3d Jd Js
+Turn: Tc
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Vo, 8d 7h
+Combination: Vo, Three Of A Kind ( Jd Js Jh Tc 8d )
+Shows: Raren, 8c 6d
+Combination: Raren, Three Of A Kind ( Jd Js Jh Tc 8c )
+Wins: Vo, chips: 100
+Wins: Raren, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vo
+Small Blind: Vo, chips: 100
+Big Blind: Raren, chips: 200
+Flop: Qs Qc 6d
+Turn: 8d
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Vo, 2d 3d
+Combination: Vo, Two Pair ( Qs Qc 2d 2h 8d )
+Shows: Raren, Ts 4c
+Combination: Raren, Pair ( Qs Qc Ts 8d 6d )
+Wins: Vo, chips: 200
+Wins: Raren, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Raren
+Small Blind: Raren, chips: 100
+Big Blind: Vo, chips: 200
+Flop: 5s Ac 3d
+Turn: 4d
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Vo, 9h Qh
+Combination: Vo, High Card ( Ac Kd Qh 9h 5s )
+Shows: Raren, 4c 8c
+Combination: Raren, Pair ( 4c 4d Ac Kd 8c )
+Wins: Vo, chips: 100
+Wins: Raren, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vo
+Small Blind: Vo, chips: 100
+Big Blind: Raren, chips: 200
+Flop: 2c 9d Qs
+Turn: 6s
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Vo, 8h 4h
+Combination: Vo, High Card ( Qs Tc 9d 8h 6s )
+Shows: Raren, 6d Jd
+Combination: Raren, Pair ( 6d 6s Qs Jd Tc )
+Wins: Raren, chips: 300
+Quits: Vo, chips: 0
+Ranking: Raren, Place: 1, Score: 1000
+Reveal AI: Raren, AI: Random
+Ranking: Vo, Place: 2, Score: -1000
+Reveal AI: Vo, AI: AIMyBot1
+
+Player Stats for Raren, AI: Random
+General: deals: 14, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 4, bluff: 8
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Vo, AI: AIMyBot1
+General: deals: 14, actions: 8, preflop actions: 8
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Date: 2022/10/25 13:46:21
+
+The game begins. The AI's of the players are: 
+Vo: AIMyBot1
+Raren: Random
+
+Joins: Vo, chips: 1000
+Joins: Raren, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Raren
+Small Blind: Raren, chips: 100
+Big Blind: Vo, chips: 200
+Raises: Raren, chips: 300
+Folds: Vo
+Pot size: 700
+Boasts: Raren, 6c 4h
+Wins: Raren, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vo
+Small Blind: Vo, chips: 100
+Big Blind: Raren, chips: 200
+Folds: Vo
+Pot size: 300
+Boasts: Raren, 5h As
+Wins: Raren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Raren
+Small Blind: Raren, chips: 100
+Big Blind: Vo, chips: 200
+Raises: Raren, chips: 300
+Folds: Vo
+Pot size: 700
+Boasts: Raren, 4d 2c
+Wins: Raren, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vo
+Small Blind: Vo, chips: 100
+Big Blind: Raren, chips: 200
+Folds: Vo
+Pot size: 300
+Boasts: Raren, 9d 3d
+Wins: Raren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Raren
+Small Blind: Raren, chips: 100
+Big Blind: Vo, chips: 200
+Folds: Raren
+Pot size: 300
+Wins: Vo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vo
+Small Blind: Vo, chips: 100
+Big Blind: Raren, chips: 200
+Folds: Vo
+Pot size: 300
+Wins: Raren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Raren
+Small Blind: Raren, chips: 100
+Big Blind: Vo, chips: 200
+Calls: Raren
+DEBUG MESSAGE: INVALID ACTION FROM Vo (2 0)
+Folds: Vo
+Pot size: 400
+Wins: Raren, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vo
+Small Blind: Vo, chips: 100
+Big Blind: Raren, chips: 200
+Folds: Vo
+Pot size: 300
+Boasts: Raren, 8c 2h
+Wins: Raren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Raren
+Small Blind: Raren, chips: 100
+Big Blind: Vo, chips: 100
+Flop: 7c Qh 9h
+Turn: Jh
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Vo, As 8c
+Combination: Vo, Straight ( Qh Jh Td 9h 8c )
+Shows: Raren, 3s Th
+Combination: Raren, Pair ( Th Td Qh Jh 9h )
+Wins: Vo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vo
+Small Blind: Vo, chips: 100
+Big Blind: Raren, chips: 200
+Folds: Vo
+Pot size: 300
+Boasts: Raren, 4c 3c
+Wins: Raren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Raren
+Small Blind: Raren, chips: 100
+Big Blind: Vo, chips: 100
+Flop: 3d Jd Js
+Turn: Tc
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Vo, 8d 7h
+Combination: Vo, Three Of A Kind ( Jd Js Jh Tc 8d )
+Shows: Raren, 8c 6d
+Combination: Raren, Three Of A Kind ( Jd Js Jh Tc 8c )
+Wins: Vo, chips: 100
+Wins: Raren, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vo
+Small Blind: Vo, chips: 100
+Big Blind: Raren, chips: 200
+Flop: Qs Qc 6d
+Turn: 8d
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Vo, 2d 3d
+Combination: Vo, Two Pair ( Qs Qc 2d 2h 8d )
+Shows: Raren, Ts 4c
+Combination: Raren, Pair ( Qs Qc Ts 8d 6d )
+Wins: Vo, chips: 200
+Wins: Raren, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Raren
+Small Blind: Raren, chips: 100
+Big Blind: Vo, chips: 200
+Flop: 5s Ac 3d
+Turn: 4d
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Vo, 9h Qh
+Combination: Vo, High Card ( Ac Kd Qh 9h 5s )
+Shows: Raren, 4c 8c
+Combination: Raren, Pair ( 4c 4d Ac Kd 8c )
+Wins: Vo, chips: 100
+Wins: Raren, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vo
+Small Blind: Vo, chips: 100
+Big Blind: Raren, chips: 200
+Flop: 2c 9d Qs
+Turn: 6s
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Vo, 8h 4h
+Combination: Vo, High Card ( Qs Tc 9d 8h 6s )
+Shows: Raren, 6d Jd
+Combination: Raren, Pair ( 6d 6s Qs Jd Tc )
+Wins: Raren, chips: 300
+Quits: Vo, chips: 0
+Ranking: Raren, Place: 1, Score: 1000
+Reveal AI: Raren, AI: Random
+Ranking: Vo, Place: 2, Score: -1000
+Reveal AI: Vo, AI: AIMyBot1
+
+Player Stats for Raren, AI: Random
+General: deals: 14, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 4, bluff: 8
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Vo, AI: AIMyBot1
+General: deals: 14, actions: 8, preflop actions: 8
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+

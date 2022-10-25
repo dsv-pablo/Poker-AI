@@ -1,0 +1,314 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Ho: AIMyBot1
+Hohetry: Random
+
+Joins: Ho, chips: 1000
+Joins: Hohetry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Hohetry, chips: 200
+Folds: Ho
+Pot size: 300
+Boasts: Hohetry, 2c 7c
+Wins: Hohetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hohetry
+Small Blind: Hohetry, chips: 100
+Big Blind: Ho, chips: 200
+Raises: Hohetry, chips: 300
+Folds: Ho
+Pot size: 700
+Boasts: Hohetry, Jc Jd
+Wins: Hohetry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Hohetry, chips: 200
+Folds: Ho
+Pot size: 300
+Wins: Hohetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hohetry
+Small Blind: Hohetry, chips: 100
+Big Blind: Ho, chips: 200
+Raises: Hohetry, chips: 300
+Folds: Ho
+Pot size: 700
+Wins: Hohetry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Hohetry, chips: 200
+Folds: Ho
+Pot size: 300
+Boasts: Hohetry, 7d 3c
+Wins: Hohetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hohetry
+Small Blind: Hohetry, chips: 100
+Big Blind: Ho, chips: 200
+Calls: Hohetry
+DEBUG MESSAGE: INVALID ACTION FROM Ho (2 0)
+Folds: Ho
+Pot size: 400
+Boasts: Hohetry, 7c 3c
+Wins: Hohetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Hohetry, chips: 200
+Flop: 8h 3d 6h
+Turn: 8s
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Ho, 6c Jd
+Combination: Ho, Full House ( 8h 8s 8d 6c 6h )
+Shows: Hohetry, Qh Kd
+Combination: Hohetry, Three Of A Kind ( 8h 8s 8d Kd Qh )
+Wins: Ho, chips: 200
+Wins: Hohetry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hohetry
+Small Blind: Hohetry, chips: 100
+Big Blind: Ho, chips: 200
+Flop: 4c 9d Jd
+Turn: 4s
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Ho, Kh 6s
+Combination: Ho, Pair ( 4c 4s Kh Jd 9d )
+Shows: Hohetry, Js Kd
+Combination: Hohetry, Two Pair ( Js Jd 4c 4s Kd )
+Wins: Ho, chips: 100
+Wins: Hohetry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Hohetry, chips: 200
+Flop: Js 4h As
+Turn: 7c
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Ho, Ah 3c
+Combination: Ho, Two Pair ( Ah As 4h 4d Js )
+Shows: Hohetry, 9s 3d
+Combination: Hohetry, Pair ( 4h 4d As Js 9s )
+Wins: Ho, chips: 200
+Wins: Hohetry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hohetry
+Small Blind: Hohetry, chips: 100
+Big Blind: Ho, chips: 200
+Flop: Tc 6s 3s
+Turn: 3c
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Ho, 5h 5d
+Combination: Ho, Two Pair ( 5h 5d 3s 3c Tc )
+Shows: Hohetry, 6d 4c
+Combination: Hohetry, Two Pair ( 6d 6s 4c 4s Tc )
+Wins: Ho, chips: 100
+Wins: Hohetry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Hohetry, chips: 200
+Flop: Kd Tc Qh
+Turn: 6s
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Ho, 7h 3c
+Combination: Ho, High Card ( As Kd Qh Tc 7h )
+Shows: Hohetry, Kh Qc
+Combination: Hohetry, Two Pair ( Kh Kd Qc Qh As )
+Wins: Hohetry, chips: 300
+Quits: Ho, chips: 0
+Ranking: Hohetry, Place: 1, Score: 1000
+Reveal AI: Hohetry, AI: Random
+Ranking: Ho, Place: 2, Score: -1000
+Reveal AI: Ho, AI: AIMyBot1
+
+Player Stats for Ho, AI: AIMyBot1
+General: deals: 11, actions: 6, preflop actions: 6
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Hohetry, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 5, bluff: 6
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:08
+
+The game begins. The AI's of the players are: 
+Ho: AIMyBot1
+Hohetry: Random
+
+Joins: Ho, chips: 1000
+Joins: Hohetry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Hohetry, chips: 200
+Folds: Ho
+Pot size: 300
+Boasts: Hohetry, 2c 7c
+Wins: Hohetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hohetry
+Small Blind: Hohetry, chips: 100
+Big Blind: Ho, chips: 200
+Raises: Hohetry, chips: 300
+Folds: Ho
+Pot size: 700
+Boasts: Hohetry, Jc Jd
+Wins: Hohetry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Hohetry, chips: 200
+Folds: Ho
+Pot size: 300
+Wins: Hohetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hohetry
+Small Blind: Hohetry, chips: 100
+Big Blind: Ho, chips: 200
+Raises: Hohetry, chips: 300
+Folds: Ho
+Pot size: 700
+Wins: Hohetry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Hohetry, chips: 200
+Folds: Ho
+Pot size: 300
+Boasts: Hohetry, 7d 3c
+Wins: Hohetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hohetry
+Small Blind: Hohetry, chips: 100
+Big Blind: Ho, chips: 200
+Calls: Hohetry
+DEBUG MESSAGE: INVALID ACTION FROM Ho (2 0)
+Folds: Ho
+Pot size: 400
+Boasts: Hohetry, 7c 3c
+Wins: Hohetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Hohetry, chips: 200
+Flop: 8h 3d 6h
+Turn: 8s
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Ho, 6c Jd
+Combination: Ho, Full House ( 8h 8s 8d 6c 6h )
+Shows: Hohetry, Qh Kd
+Combination: Hohetry, Three Of A Kind ( 8h 8s 8d Kd Qh )
+Wins: Ho, chips: 200
+Wins: Hohetry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hohetry
+Small Blind: Hohetry, chips: 100
+Big Blind: Ho, chips: 200
+Flop: 4c 9d Jd
+Turn: 4s
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Ho, Kh 6s
+Combination: Ho, Pair ( 4c 4s Kh Jd 9d )
+Shows: Hohetry, Js Kd
+Combination: Hohetry, Two Pair ( Js Jd 4c 4s Kd )
+Wins: Ho, chips: 100
+Wins: Hohetry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Hohetry, chips: 200
+Flop: Js 4h As
+Turn: 7c
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Ho, Ah 3c
+Combination: Ho, Two Pair ( Ah As 4h 4d Js )
+Shows: Hohetry, 9s 3d
+Combination: Hohetry, Pair ( 4h 4d As Js 9s )
+Wins: Ho, chips: 200
+Wins: Hohetry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hohetry
+Small Blind: Hohetry, chips: 100
+Big Blind: Ho, chips: 200
+Flop: Tc 6s 3s
+Turn: 3c
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Ho, 5h 5d
+Combination: Ho, Two Pair ( 5h 5d 3s 3c Tc )
+Shows: Hohetry, 6d 4c
+Combination: Hohetry, Two Pair ( 6d 6s 4c 4s Tc )
+Wins: Ho, chips: 100
+Wins: Hohetry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Hohetry, chips: 200
+Flop: Kd Tc Qh
+Turn: 6s
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Ho, 7h 3c
+Combination: Ho, High Card ( As Kd Qh Tc 7h )
+Shows: Hohetry, Kh Qc
+Combination: Hohetry, Two Pair ( Kh Kd Qc Qh As )
+Wins: Hohetry, chips: 300
+Quits: Ho, chips: 0
+Ranking: Hohetry, Place: 1, Score: 1000
+Reveal AI: Hohetry, AI: Random
+Ranking: Ho, Place: 2, Score: -1000
+Reveal AI: Ho, AI: AIMyBot1
+
+Player Stats for Ho, AI: AIMyBot1
+General: deals: 11, actions: 6, preflop actions: 6
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Hohetry, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 5, bluff: 6
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

@@ -1,0 +1,588 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Tuwoe: AIMyBot1
+Wukoe: Random
+
+Joins: Tuwoe, chips: 1000
+Joins: Wukoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Folds: Tuwoe
+Pot size: 300
+Boasts: Wukoe, Td Th
+Wins: Wukoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Raises: Wukoe, chips: 300
+Folds: Tuwoe
+Pot size: 700
+Boasts: Wukoe, 4h 5s
+Wins: Wukoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Folds: Tuwoe
+Pot size: 300
+Boasts: Wukoe, Jh Qh
+Wins: Wukoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Raises: Wukoe, chips: 300
+Folds: Tuwoe
+Pot size: 700
+Boasts: Wukoe, 4c Qc
+Wins: Wukoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Folds: Tuwoe
+Pot size: 300
+Boasts: Wukoe, Tc 8d
+Wins: Wukoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Raises: Wukoe, chips: 300
+Folds: Tuwoe
+Pot size: 700
+Wins: Wukoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Flop: 4d 2s Qd
+Turn: 8h
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, Jc Th
+Combination: Tuwoe, Straight ( Qd Jc Th 9d 8h )
+Shows: Wukoe, 5c 3d
+Combination: Wukoe, High Card ( Qd 9d 8h 5c 4d )
+Wins: Tuwoe, chips: 200
+Wins: Wukoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Flop: 3h 2c 2s
+Turn: 5h
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 4s 2d
+Combination: Tuwoe, Three Of A Kind ( 2d 2c 2s Jh 5h )
+Shows: Wukoe, 6s 7d
+Combination: Wukoe, Pair ( 2c 2s Jh 7d 6s )
+Wins: Tuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Folds: Tuwoe
+Pot size: 300
+Boasts: Wukoe, 9c Td
+Wins: Wukoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Flop: 3c 6h 3s
+Turn: Th
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 4d 9c
+Combination: Tuwoe, Two Pair ( 6h 6c 3c 3s Th )
+Shows: Wukoe, 9d 9h
+Combination: Wukoe, Two Pair ( 9d 9h 6h 6c Th )
+Wins: Tuwoe, chips: 100
+Wins: Wukoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Flop: 7c 4h 8s
+Turn: 7h
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 7s 8c
+Combination: Tuwoe, Full House ( 7s 7c 7h 8c 8s )
+Shows: Wukoe, Ks Ah
+Combination: Wukoe, Two Pair ( Ks Kd 7c 7h Ah )
+Wins: Tuwoe, chips: 200
+Wins: Wukoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Flop: 8c 3h Tc
+Turn: 9h
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 3s 3d
+Combination: Tuwoe, Full House ( 3s 3d 3h Tc Ts )
+Shows: Wukoe, Qh 5h
+Combination: Wukoe, Pair ( Tc Ts Qh 9h 8c )
+Wins: Tuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Folds: Tuwoe
+Pot size: 300
+Wins: Wukoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Flop: 6c 4s 5d
+Turn: 9h
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 7s 8s
+Combination: Tuwoe, Straight ( 9h 8s 7s 6c 5d )
+Shows: Wukoe, Th 6d
+Combination: Wukoe, Pair ( 6d 6c Th 9h 8d )
+Wins: Tuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Folds: Tuwoe
+Pot size: 300
+Wins: Wukoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Flop: Jh 6c 8d
+Turn: 7h
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 4c 5s
+Combination: Tuwoe, Straight ( 8d 7h 6c 5s 4c )
+Shows: Wukoe, 3s Kh
+Combination: Wukoe, High Card ( Kh Jh 8d 7h 6c )
+Wins: Tuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Folds: Tuwoe
+Pot size: 300
+Boasts: Wukoe, Kd Js
+Wins: Wukoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Flop: 8d Jd Td
+Turn: 9c
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 3d 4s
+Combination: Tuwoe, High Card ( Jd Td 9c 8d 5c )
+Shows: Wukoe, 8s 3h
+Combination: Wukoe, Pair ( 8s 8d Jd Td 9c )
+Wins: Tuwoe, chips: 100
+Wins: Wukoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Flop: 7s 8h Ah
+Turn: 8d
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 9d 9h
+Combination: Tuwoe, Two Pair ( 9d 9h 8h 8d Ah )
+Shows: Wukoe, 7d 9c
+Combination: Wukoe, Two Pair ( 8h 8d 7d 7s Ah )
+Wins: Tuwoe, chips: 200
+Wins: Wukoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Flop: Ac 9h Kd
+Turn: 8h
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 5h 8s
+Combination: Tuwoe, Pair ( 8s 8h Ac Kd 9h )
+Shows: Wukoe, 4d 6h
+Combination: Wukoe, Pair ( 4d 4c Ac Kd 9h )
+Wins: Tuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Folds: Tuwoe
+Pot size: 300
+Wins: Wukoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Flop: Qd As 2c
+Turn: 7h
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 8h 3c
+Combination: Tuwoe, Pair ( Qd Qc As 8h 7h )
+Shows: Wukoe, Kd 4c
+Combination: Wukoe, Pair ( Qd Qc As Kd 7h )
+Wins: Tuwoe, chips: 100
+Wins: Wukoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Flop: 6c 5d Th
+Turn: Jc
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 4s Kd
+Combination: Tuwoe, High Card ( Kd Qc Jc Th 6c )
+Shows: Wukoe, Jh Ac
+Combination: Wukoe, Pair ( Jh Jc Ac Qc Th )
+Wins: Wukoe, chips: 300
+Quits: Tuwoe, chips: 0
+Ranking: Wukoe, Place: 1, Score: 1000
+Reveal AI: Wukoe, AI: Random
+Ranking: Tuwoe, Place: 2, Score: -1000
+Reveal AI: Tuwoe, AI: AIMyBot1
+
+Player Stats for Tuwoe, AI: AIMyBot1
+General: deals: 23, actions: 11, preflop actions: 11
+Rounds Seen: flops: 12, turns: 12, rivers: 12, showdowns: 12
+Wins: total: 11, showdown: 11, bluff: 0
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.916667
+
+
+Player Stats for Wukoe, AI: Random
+General: deals: 23, actions: 3, preflop actions: 3
+Rounds Seen: flops: 12, turns: 12, rivers: 12, showdowns: 12
+Wins: total: 18, showdown: 7, bluff: 11
+Chips: won: 5700, lost: 4700, bought: 1000, forced bets: 3500
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.130435, 3Bet: 0.130435
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.583333
+
+
+Date: 2022/10/25 13:46:05
+
+The game begins. The AI's of the players are: 
+Tuwoe: AIMyBot1
+Wukoe: Random
+
+Joins: Tuwoe, chips: 1000
+Joins: Wukoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Folds: Tuwoe
+Pot size: 300
+Boasts: Wukoe, Td Th
+Wins: Wukoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Raises: Wukoe, chips: 300
+Folds: Tuwoe
+Pot size: 700
+Boasts: Wukoe, 4h 5s
+Wins: Wukoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Folds: Tuwoe
+Pot size: 300
+Boasts: Wukoe, Jh Qh
+Wins: Wukoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Raises: Wukoe, chips: 300
+Folds: Tuwoe
+Pot size: 700
+Boasts: Wukoe, 4c Qc
+Wins: Wukoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Folds: Tuwoe
+Pot size: 300
+Boasts: Wukoe, Tc 8d
+Wins: Wukoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Raises: Wukoe, chips: 300
+Folds: Tuwoe
+Pot size: 700
+Wins: Wukoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Flop: 4d 2s Qd
+Turn: 8h
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, Jc Th
+Combination: Tuwoe, Straight ( Qd Jc Th 9d 8h )
+Shows: Wukoe, 5c 3d
+Combination: Wukoe, High Card ( Qd 9d 8h 5c 4d )
+Wins: Tuwoe, chips: 200
+Wins: Wukoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Flop: 3h 2c 2s
+Turn: 5h
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 4s 2d
+Combination: Tuwoe, Three Of A Kind ( 2d 2c 2s Jh 5h )
+Shows: Wukoe, 6s 7d
+Combination: Wukoe, Pair ( 2c 2s Jh 7d 6s )
+Wins: Tuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Folds: Tuwoe
+Pot size: 300
+Boasts: Wukoe, 9c Td
+Wins: Wukoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Flop: 3c 6h 3s
+Turn: Th
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 4d 9c
+Combination: Tuwoe, Two Pair ( 6h 6c 3c 3s Th )
+Shows: Wukoe, 9d 9h
+Combination: Wukoe, Two Pair ( 9d 9h 6h 6c Th )
+Wins: Tuwoe, chips: 100
+Wins: Wukoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Flop: 7c 4h 8s
+Turn: 7h
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 7s 8c
+Combination: Tuwoe, Full House ( 7s 7c 7h 8c 8s )
+Shows: Wukoe, Ks Ah
+Combination: Wukoe, Two Pair ( Ks Kd 7c 7h Ah )
+Wins: Tuwoe, chips: 200
+Wins: Wukoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Flop: 8c 3h Tc
+Turn: 9h
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 3s 3d
+Combination: Tuwoe, Full House ( 3s 3d 3h Tc Ts )
+Shows: Wukoe, Qh 5h
+Combination: Wukoe, Pair ( Tc Ts Qh 9h 8c )
+Wins: Tuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Folds: Tuwoe
+Pot size: 300
+Wins: Wukoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Flop: 6c 4s 5d
+Turn: 9h
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 7s 8s
+Combination: Tuwoe, Straight ( 9h 8s 7s 6c 5d )
+Shows: Wukoe, Th 6d
+Combination: Wukoe, Pair ( 6d 6c Th 9h 8d )
+Wins: Tuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Folds: Tuwoe
+Pot size: 300
+Wins: Wukoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Flop: Jh 6c 8d
+Turn: 7h
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 4c 5s
+Combination: Tuwoe, Straight ( 8d 7h 6c 5s 4c )
+Shows: Wukoe, 3s Kh
+Combination: Wukoe, High Card ( Kh Jh 8d 7h 6c )
+Wins: Tuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Folds: Tuwoe
+Pot size: 300
+Boasts: Wukoe, Kd Js
+Wins: Wukoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Flop: 8d Jd Td
+Turn: 9c
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 3d 4s
+Combination: Tuwoe, High Card ( Jd Td 9c 8d 5c )
+Shows: Wukoe, 8s 3h
+Combination: Wukoe, Pair ( 8s 8d Jd Td 9c )
+Wins: Tuwoe, chips: 100
+Wins: Wukoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Flop: 7s 8h Ah
+Turn: 8d
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 9d 9h
+Combination: Tuwoe, Two Pair ( 9d 9h 8h 8d Ah )
+Shows: Wukoe, 7d 9c
+Combination: Wukoe, Two Pair ( 8h 8d 7d 7s Ah )
+Wins: Tuwoe, chips: 200
+Wins: Wukoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Flop: Ac 9h Kd
+Turn: 8h
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 5h 8s
+Combination: Tuwoe, Pair ( 8s 8h Ac Kd 9h )
+Shows: Wukoe, 4d 6h
+Combination: Wukoe, Pair ( 4d 4c Ac Kd 9h )
+Wins: Tuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Folds: Tuwoe
+Pot size: 300
+Wins: Wukoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wukoe
+Small Blind: Wukoe, chips: 100
+Big Blind: Tuwoe, chips: 200
+Flop: Qd As 2c
+Turn: 7h
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 8h 3c
+Combination: Tuwoe, Pair ( Qd Qc As 8h 7h )
+Shows: Wukoe, Kd 4c
+Combination: Wukoe, Pair ( Qd Qc As Kd 7h )
+Wins: Tuwoe, chips: 100
+Wins: Wukoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwoe
+Small Blind: Tuwoe, chips: 100
+Big Blind: Wukoe, chips: 200
+Flop: 6c 5d Th
+Turn: Jc
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Tuwoe, 4s Kd
+Combination: Tuwoe, High Card ( Kd Qc Jc Th 6c )
+Shows: Wukoe, Jh Ac
+Combination: Wukoe, Pair ( Jh Jc Ac Qc Th )
+Wins: Wukoe, chips: 300
+Quits: Tuwoe, chips: 0
+Ranking: Wukoe, Place: 1, Score: 1000
+Reveal AI: Wukoe, AI: Random
+Ranking: Tuwoe, Place: 2, Score: -1000
+Reveal AI: Tuwoe, AI: AIMyBot1
+
+Player Stats for Tuwoe, AI: AIMyBot1
+General: deals: 23, actions: 11, preflop actions: 11
+Rounds Seen: flops: 12, turns: 12, rivers: 12, showdowns: 12
+Wins: total: 11, showdown: 11, bluff: 0
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.916667
+
+
+Player Stats for Wukoe, AI: Random
+General: deals: 23, actions: 3, preflop actions: 3
+Rounds Seen: flops: 12, turns: 12, rivers: 12, showdowns: 12
+Wins: total: 18, showdown: 7, bluff: 11
+Chips: won: 5700, lost: 4700, bought: 1000, forced bets: 3500
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.130435, 3Bet: 0.130435
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.583333
+
+

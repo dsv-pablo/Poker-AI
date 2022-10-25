@@ -1,0 +1,474 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hudee: AIMyBot1
+Lopefes: Random
+
+Joins: Hudee, chips: 1000
+Joins: Lopefes, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Folds: Hudee
+Pot size: 300
+Wins: Lopefes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Raises: Lopefes, chips: 300
+Folds: Hudee
+Pot size: 700
+Boasts: Lopefes, 4s 8d
+Wins: Lopefes, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Folds: Hudee
+Pot size: 300
+Wins: Lopefes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Raises: Lopefes, chips: 300
+Folds: Hudee
+Pot size: 700
+Wins: Lopefes, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Folds: Hudee
+Pot size: 300
+Boasts: Lopefes, 8c 3s
+Wins: Lopefes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Folds: Lopefes
+Pot size: 300
+Boasts: Lopefes, 8d 2s
+Wins: Hudee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Folds: Hudee
+Pot size: 300
+Boasts: Lopefes, 7c 9s
+Wins: Lopefes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Raises: Lopefes, chips: 300
+Folds: Hudee
+Pot size: 700
+Boasts: Lopefes, 3h Ah
+Wins: Lopefes, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Flop: As 9h Td
+Turn: Qd
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Hudee, 2d 7s
+Combination: Hudee, High Card ( As Qd Td 9h 7s )
+Shows: Lopefes, 6d 4h
+Combination: Lopefes, High Card ( As Qd Td 9h 6d )
+Wins: Hudee, chips: 200
+Wins: Lopefes, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Flop: Qs Ah Kd
+Turn: 7h
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Hudee, 4c Js
+Combination: Hudee, Pair ( Ah Ad Kd Qs Js )
+Shows: Lopefes, 8s 4h
+Combination: Lopefes, Pair ( Ah Ad Kd Qs 8s )
+Wins: Hudee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Folds: Hudee
+Pot size: 300
+Boasts: Lopefes, 5c Ts
+Wins: Lopefes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Flop: 4h 6h Td
+Turn: 4d
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Hudee, 5c 9s
+Combination: Hudee, Pair ( 4h 4d Td 9s 6h )
+Shows: Lopefes, Kh Ks
+Combination: Lopefes, Two Pair ( Kh Ks 4h 4d Td )
+Wins: Hudee, chips: 100
+Wins: Lopefes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Flop: Jh Qh Ah
+Turn: 9h
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Hudee, 6d Th
+Combination: Hudee, Flush ( Ah Qh Jh Th 9h )
+Shows: Lopefes, 7c 5d
+Combination: Lopefes, High Card ( Ah Qh Jh 9h 7c )
+Wins: Hudee, chips: 200
+Wins: Lopefes, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Flop: 8c 7h Ts
+Turn: 3c
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Hudee, Ah Ks
+Combination: Hudee, High Card ( Ah Ks Ts 8c 7h )
+Shows: Lopefes, 6h Kd
+Combination: Lopefes, High Card ( Kd Ts 8c 7h 6h )
+Wins: Hudee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Folds: Hudee
+Pot size: 300
+Boasts: Lopefes, 5d 7s
+Wins: Lopefes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Flop: 4s 3s 4c
+Turn: 8h
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Hudee, Kh Ad
+Combination: Hudee, Pair ( 4s 4c Ad Kh Tc )
+Shows: Lopefes, 6s 7d
+Combination: Lopefes, Pair ( 4s 4c Tc 8h 7d )
+Wins: Hudee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Folds: Hudee
+Pot size: 300
+Boasts: Lopefes, Js Ts
+Wins: Lopefes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Flop: 2s 7h Qs
+Turn: Kh
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Hudee, 9d Ac
+Combination: Hudee, High Card ( Ac Kh Qs 9d 7h )
+Shows: Lopefes, 8c 5c
+Combination: Lopefes, Pair ( 5c 5d Kh Qs 8c )
+Wins: Hudee, chips: 100
+Wins: Lopefes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Flop: Qs 6s 3h
+Turn: Kh
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Hudee, 6c Qc
+Combination: Hudee, Two Pair ( Qc Qs 6c 6s Kh )
+Shows: Lopefes, Jc 9h
+Combination: Lopefes, Straight ( Kh Qs Jc Td 9h )
+Wins: Lopefes, chips: 300
+Quits: Hudee, chips: 0
+Ranking: Lopefes, Place: 1, Score: 1000
+Reveal AI: Lopefes, AI: Random
+Ranking: Hudee, Place: 2, Score: -1000
+Reveal AI: Hudee, AI: AIMyBot1
+
+Player Stats for Hudee, AI: AIMyBot1
+General: deals: 19, actions: 10, preflop actions: 10
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 8, showdown: 7, bluff: 1
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Lopefes, AI: Random
+General: deals: 19, actions: 4, preflop actions: 4
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 15, showdown: 5, bluff: 10
+Chips: won: 5100, lost: 4100, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0.157895, 3Bet: 0.157895
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+
+Date: 2022/10/25 13:46:19
+
+The game begins. The AI's of the players are: 
+Hudee: AIMyBot1
+Lopefes: Random
+
+Joins: Hudee, chips: 1000
+Joins: Lopefes, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Folds: Hudee
+Pot size: 300
+Wins: Lopefes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Raises: Lopefes, chips: 300
+Folds: Hudee
+Pot size: 700
+Boasts: Lopefes, 4s 8d
+Wins: Lopefes, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Folds: Hudee
+Pot size: 300
+Wins: Lopefes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Raises: Lopefes, chips: 300
+Folds: Hudee
+Pot size: 700
+Wins: Lopefes, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Folds: Hudee
+Pot size: 300
+Boasts: Lopefes, 8c 3s
+Wins: Lopefes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Folds: Lopefes
+Pot size: 300
+Boasts: Lopefes, 8d 2s
+Wins: Hudee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Folds: Hudee
+Pot size: 300
+Boasts: Lopefes, 7c 9s
+Wins: Lopefes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Raises: Lopefes, chips: 300
+Folds: Hudee
+Pot size: 700
+Boasts: Lopefes, 3h Ah
+Wins: Lopefes, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Flop: As 9h Td
+Turn: Qd
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Hudee, 2d 7s
+Combination: Hudee, High Card ( As Qd Td 9h 7s )
+Shows: Lopefes, 6d 4h
+Combination: Lopefes, High Card ( As Qd Td 9h 6d )
+Wins: Hudee, chips: 200
+Wins: Lopefes, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Flop: Qs Ah Kd
+Turn: 7h
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Hudee, 4c Js
+Combination: Hudee, Pair ( Ah Ad Kd Qs Js )
+Shows: Lopefes, 8s 4h
+Combination: Lopefes, Pair ( Ah Ad Kd Qs 8s )
+Wins: Hudee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Folds: Hudee
+Pot size: 300
+Boasts: Lopefes, 5c Ts
+Wins: Lopefes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Flop: 4h 6h Td
+Turn: 4d
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Hudee, 5c 9s
+Combination: Hudee, Pair ( 4h 4d Td 9s 6h )
+Shows: Lopefes, Kh Ks
+Combination: Lopefes, Two Pair ( Kh Ks 4h 4d Td )
+Wins: Hudee, chips: 100
+Wins: Lopefes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Flop: Jh Qh Ah
+Turn: 9h
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Hudee, 6d Th
+Combination: Hudee, Flush ( Ah Qh Jh Th 9h )
+Shows: Lopefes, 7c 5d
+Combination: Lopefes, High Card ( Ah Qh Jh 9h 7c )
+Wins: Hudee, chips: 200
+Wins: Lopefes, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Flop: 8c 7h Ts
+Turn: 3c
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Hudee, Ah Ks
+Combination: Hudee, High Card ( Ah Ks Ts 8c 7h )
+Shows: Lopefes, 6h Kd
+Combination: Lopefes, High Card ( Kd Ts 8c 7h 6h )
+Wins: Hudee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Folds: Hudee
+Pot size: 300
+Boasts: Lopefes, 5d 7s
+Wins: Lopefes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Flop: 4s 3s 4c
+Turn: 8h
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Hudee, Kh Ad
+Combination: Hudee, Pair ( 4s 4c Ad Kh Tc )
+Shows: Lopefes, 6s 7d
+Combination: Lopefes, Pair ( 4s 4c Tc 8h 7d )
+Wins: Hudee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Folds: Hudee
+Pot size: 300
+Boasts: Lopefes, Js Ts
+Wins: Lopefes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lopefes
+Small Blind: Lopefes, chips: 100
+Big Blind: Hudee, chips: 200
+Flop: 2s 7h Qs
+Turn: Kh
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Hudee, 9d Ac
+Combination: Hudee, High Card ( Ac Kh Qs 9d 7h )
+Shows: Lopefes, 8c 5c
+Combination: Lopefes, Pair ( 5c 5d Kh Qs 8c )
+Wins: Hudee, chips: 100
+Wins: Lopefes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hudee
+Small Blind: Hudee, chips: 100
+Big Blind: Lopefes, chips: 200
+Flop: Qs 6s 3h
+Turn: Kh
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Hudee, 6c Qc
+Combination: Hudee, Two Pair ( Qc Qs 6c 6s Kh )
+Shows: Lopefes, Jc 9h
+Combination: Lopefes, Straight ( Kh Qs Jc Td 9h )
+Wins: Lopefes, chips: 300
+Quits: Hudee, chips: 0
+Ranking: Lopefes, Place: 1, Score: 1000
+Reveal AI: Lopefes, AI: Random
+Ranking: Hudee, Place: 2, Score: -1000
+Reveal AI: Hudee, AI: AIMyBot1
+
+Player Stats for Hudee, AI: AIMyBot1
+General: deals: 19, actions: 10, preflop actions: 10
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 8, showdown: 7, bluff: 1
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Lopefes, AI: Random
+General: deals: 19, actions: 4, preflop actions: 4
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 15, showdown: 5, bluff: 10
+Chips: won: 5100, lost: 4100, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0.157895, 3Bet: 0.157895
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+

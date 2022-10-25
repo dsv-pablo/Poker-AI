@@ -1,0 +1,536 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Joenhode: Random
+Diwro: AIMyBot1
+
+Joins: Joenhode, chips: 1000
+Joins: Diwro, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Folds: Diwro
+Pot size: 300
+Boasts: Joenhode, 7h Th
+Wins: Joenhode, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Folds: Joenhode
+Pot size: 300
+Wins: Diwro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Folds: Diwro
+Pot size: 300
+Boasts: Joenhode, 2h Ts
+Wins: Joenhode, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Raises: Joenhode, chips: 300
+Folds: Diwro
+Pot size: 700
+Wins: Joenhode, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Folds: Diwro
+Pot size: 300
+Wins: Joenhode, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Raises: Joenhode, chips: 300
+Folds: Diwro
+Pot size: 700
+Boasts: Joenhode, 9d Jh
+Wins: Joenhode, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Folds: Diwro
+Pot size: 300
+Boasts: Joenhode, Jh 8d
+Wins: Joenhode, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Folds: Joenhode
+Pot size: 300
+Boasts: Joenhode, Jd 4h
+Wins: Diwro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Folds: Diwro
+Pot size: 300
+Boasts: Joenhode, As Ac
+Wins: Joenhode, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Raises: Joenhode, chips: 300
+Folds: Diwro
+Pot size: 700
+Wins: Joenhode, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Flop: Qh Tc 2c
+Turn: Qc
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, 5h 8s
+Combination: Joenhode, Pair ( Qh Qc Jh Tc 8s )
+Shows: Diwro, Kc 2h
+Combination: Diwro, Two Pair ( Qh Qc 2h 2c Kc )
+Wins: Joenhode, chips: 100
+Wins: Diwro, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Flop: 7c Qd 6s
+Turn: 3d
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, As 7s
+Combination: Joenhode, Pair ( 7s 7c As Qd 9d )
+Shows: Diwro, Kh Th
+Combination: Diwro, High Card ( Kh Qd Th 9d 7c )
+Wins: Joenhode, chips: 200
+Wins: Diwro, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Flop: 4h Kd Jh
+Turn: Qc
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, 8h 8s
+Combination: Joenhode, Pair ( 8h 8s Kd Qc Jh )
+Shows: Diwro, 2c 9s
+Combination: Diwro, Straight ( Kd Qc Jh Td 9s )
+Wins: Joenhode, chips: 100
+Wins: Diwro, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Flop: 4h Qs Qd
+Turn: 4d
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, Jd 4s
+Combination: Joenhode, Full House ( 4s 4h 4d Qs Qd )
+Shows: Diwro, Ks 8h
+Combination: Diwro, Two Pair ( Qs Qd 4h 4d Ks )
+Wins: Joenhode, chips: 200
+Wins: Diwro, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Flop: 8c 4s Jd
+Turn: Kh
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, 5h 6s
+Combination: Joenhode, Pair ( 8c 8h Kh Jd 6s )
+Shows: Diwro, As Qh
+Combination: Diwro, Pair ( 8c 8h As Kh Qh )
+Wins: Joenhode, chips: 100
+Wins: Diwro, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Flop: 5s 6s 7c
+Turn: 6h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, Js 9h
+Combination: Joenhode, Pair ( 6s 6h Ac Js 9h )
+Shows: Diwro, 9c 5c
+Combination: Diwro, Two Pair ( 6s 6h 5c 5s Ac )
+Wins: Diwro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Folds: Diwro
+Pot size: 300
+Boasts: Joenhode, Td 5s
+Wins: Joenhode, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Flop: Th 6c Jd
+Turn: 5s
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, Js 3c
+Combination: Joenhode, Pair ( Js Jd Th 8c 6c )
+Shows: Diwro, 7h 5d
+Combination: Diwro, Pair ( 5d 5s Jd Th 8c )
+Wins: Joenhode, chips: 200
+Wins: Diwro, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Flop: Qh 9s 2s
+Turn: Qd
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, 8d 5d
+Combination: Joenhode, Pair ( Qh Qd 9s 8d 7d )
+Shows: Diwro, Jc Tc
+Combination: Diwro, Pair ( Qh Qd Jc Tc 9s )
+Wins: Joenhode, chips: 100
+Wins: Diwro, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Flop: 8h 6h 4c
+Turn: Kc
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, 2d 6s
+Combination: Joenhode, Three Of A Kind ( 6s 6h 6c Kc 8h )
+Shows: Diwro, 3h Ah
+Combination: Diwro, Pair ( 6h 6c Ah Kc 8h )
+Wins: Joenhode, chips: 200
+Wins: Diwro, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Flop: 2s 9d Ac
+Turn: Tc
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, 9s 3s
+Combination: Joenhode, Pair ( 9s 9d Ac Tc 4s )
+Shows: Diwro, Qc 6s
+Combination: Diwro, High Card ( Ac Qc Tc 9d 6s )
+Wins: Joenhode, chips: 300
+Quits: Diwro, chips: 0
+Ranking: Joenhode, Place: 1, Score: 1000
+Reveal AI: Joenhode, AI: Random
+Ranking: Diwro, Place: 2, Score: -1000
+Reveal AI: Diwro, AI: AIMyBot1
+
+Player Stats for Diwro, AI: AIMyBot1
+General: deals: 21, actions: 9, preflop actions: 9
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 11, showdown: 9, bluff: 2
+Chips: won: 2100, lost: 3100, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9
+
+
+Player Stats for Joenhode, AI: Random
+General: deals: 21, actions: 5, preflop actions: 5
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 18, showdown: 9, bluff: 9
+Chips: won: 5400, lost: 4400, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9
+
+
+Date: 2022/10/25 13:45:43
+
+The game begins. The AI's of the players are: 
+Joenhode: Random
+Diwro: AIMyBot1
+
+Joins: Joenhode, chips: 1000
+Joins: Diwro, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Folds: Diwro
+Pot size: 300
+Boasts: Joenhode, 7h Th
+Wins: Joenhode, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Folds: Joenhode
+Pot size: 300
+Wins: Diwro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Folds: Diwro
+Pot size: 300
+Boasts: Joenhode, 2h Ts
+Wins: Joenhode, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Raises: Joenhode, chips: 300
+Folds: Diwro
+Pot size: 700
+Wins: Joenhode, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Folds: Diwro
+Pot size: 300
+Wins: Joenhode, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Raises: Joenhode, chips: 300
+Folds: Diwro
+Pot size: 700
+Boasts: Joenhode, 9d Jh
+Wins: Joenhode, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Folds: Diwro
+Pot size: 300
+Boasts: Joenhode, Jh 8d
+Wins: Joenhode, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Folds: Joenhode
+Pot size: 300
+Boasts: Joenhode, Jd 4h
+Wins: Diwro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Folds: Diwro
+Pot size: 300
+Boasts: Joenhode, As Ac
+Wins: Joenhode, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Raises: Joenhode, chips: 300
+Folds: Diwro
+Pot size: 700
+Wins: Joenhode, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Flop: Qh Tc 2c
+Turn: Qc
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, 5h 8s
+Combination: Joenhode, Pair ( Qh Qc Jh Tc 8s )
+Shows: Diwro, Kc 2h
+Combination: Diwro, Two Pair ( Qh Qc 2h 2c Kc )
+Wins: Joenhode, chips: 100
+Wins: Diwro, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Flop: 7c Qd 6s
+Turn: 3d
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, As 7s
+Combination: Joenhode, Pair ( 7s 7c As Qd 9d )
+Shows: Diwro, Kh Th
+Combination: Diwro, High Card ( Kh Qd Th 9d 7c )
+Wins: Joenhode, chips: 200
+Wins: Diwro, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Flop: 4h Kd Jh
+Turn: Qc
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, 8h 8s
+Combination: Joenhode, Pair ( 8h 8s Kd Qc Jh )
+Shows: Diwro, 2c 9s
+Combination: Diwro, Straight ( Kd Qc Jh Td 9s )
+Wins: Joenhode, chips: 100
+Wins: Diwro, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Flop: 4h Qs Qd
+Turn: 4d
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, Jd 4s
+Combination: Joenhode, Full House ( 4s 4h 4d Qs Qd )
+Shows: Diwro, Ks 8h
+Combination: Diwro, Two Pair ( Qs Qd 4h 4d Ks )
+Wins: Joenhode, chips: 200
+Wins: Diwro, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Flop: 8c 4s Jd
+Turn: Kh
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, 5h 6s
+Combination: Joenhode, Pair ( 8c 8h Kh Jd 6s )
+Shows: Diwro, As Qh
+Combination: Diwro, Pair ( 8c 8h As Kh Qh )
+Wins: Joenhode, chips: 100
+Wins: Diwro, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Flop: 5s 6s 7c
+Turn: 6h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, Js 9h
+Combination: Joenhode, Pair ( 6s 6h Ac Js 9h )
+Shows: Diwro, 9c 5c
+Combination: Diwro, Two Pair ( 6s 6h 5c 5s Ac )
+Wins: Diwro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Folds: Diwro
+Pot size: 300
+Boasts: Joenhode, Td 5s
+Wins: Joenhode, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Flop: Th 6c Jd
+Turn: 5s
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, Js 3c
+Combination: Joenhode, Pair ( Js Jd Th 8c 6c )
+Shows: Diwro, 7h 5d
+Combination: Diwro, Pair ( 5d 5s Jd Th 8c )
+Wins: Joenhode, chips: 200
+Wins: Diwro, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Flop: Qh 9s 2s
+Turn: Qd
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, 8d 5d
+Combination: Joenhode, Pair ( Qh Qd 9s 8d 7d )
+Shows: Diwro, Jc Tc
+Combination: Diwro, Pair ( Qh Qd Jc Tc 9s )
+Wins: Joenhode, chips: 100
+Wins: Diwro, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenhode
+Small Blind: Joenhode, chips: 100
+Big Blind: Diwro, chips: 200
+Flop: 8h 6h 4c
+Turn: Kc
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, 2d 6s
+Combination: Joenhode, Three Of A Kind ( 6s 6h 6c Kc 8h )
+Shows: Diwro, 3h Ah
+Combination: Diwro, Pair ( 6h 6c Ah Kc 8h )
+Wins: Joenhode, chips: 200
+Wins: Diwro, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diwro
+Small Blind: Diwro, chips: 100
+Big Blind: Joenhode, chips: 200
+Flop: 2s 9d Ac
+Turn: Tc
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Joenhode, 9s 3s
+Combination: Joenhode, Pair ( 9s 9d Ac Tc 4s )
+Shows: Diwro, Qc 6s
+Combination: Diwro, High Card ( Ac Qc Tc 9d 6s )
+Wins: Joenhode, chips: 300
+Quits: Diwro, chips: 0
+Ranking: Joenhode, Place: 1, Score: 1000
+Reveal AI: Joenhode, AI: Random
+Ranking: Diwro, Place: 2, Score: -1000
+Reveal AI: Diwro, AI: AIMyBot1
+
+Player Stats for Diwro, AI: AIMyBot1
+General: deals: 21, actions: 9, preflop actions: 9
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 11, showdown: 9, bluff: 2
+Chips: won: 2100, lost: 3100, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9
+
+
+Player Stats for Joenhode, AI: Random
+General: deals: 21, actions: 5, preflop actions: 5
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 18, showdown: 9, bluff: 9
+Chips: won: 5400, lost: 4400, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9
+
+

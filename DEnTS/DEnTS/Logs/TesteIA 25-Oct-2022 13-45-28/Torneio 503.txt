@@ -1,0 +1,422 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gisigotry: Random
+Hu: AIMyBot1
+
+Joins: Gisigotry, chips: 1000
+Joins: Hu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Gisigotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gisigotry
+Small Blind: Gisigotry, chips: 100
+Big Blind: Hu, chips: 200
+Raises: Gisigotry, chips: 300
+Folds: Hu
+Pot size: 700
+Boasts: Gisigotry, Js 5c
+Wins: Gisigotry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Gisigotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gisigotry
+Small Blind: Gisigotry, chips: 100
+Big Blind: Hu, chips: 200
+Calls: Gisigotry
+DEBUG MESSAGE: INVALID ACTION FROM Hu (2 0)
+Folds: Hu
+Pot size: 400
+Wins: Gisigotry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Gisigotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gisigotry
+Small Blind: Gisigotry, chips: 100
+Big Blind: Hu, chips: 200
+Raises: Gisigotry, chips: 300
+Folds: Hu
+Pot size: 700
+Boasts: Gisigotry, 4h Ac
+Wins: Gisigotry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Flop: 8s 4s Td
+Turn: 8d
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Gisigotry, 6c 4d
+Combination: Gisigotry, Two Pair ( 8s 8d 4d 4s Td )
+Shows: Hu, Tc 2c
+Combination: Hu, Two Pair ( Tc Td 8s 8d 4s )
+Wins: Gisigotry, chips: 100
+Wins: Hu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gisigotry
+Small Blind: Gisigotry, chips: 100
+Big Blind: Hu, chips: 200
+Flop: 5c 7s 3h
+Turn: Jh
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Gisigotry, 4c 9h
+Combination: Gisigotry, High Card ( Jh 9h 8c 7s 5c )
+Shows: Hu, 7d 6s
+Combination: Hu, Pair ( 7d 7s Jh 8c 6s )
+Wins: Hu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Folds: Hu
+Pot size: 300
+Boasts: Gisigotry, 7h Jc
+Wins: Gisigotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gisigotry
+Small Blind: Gisigotry, chips: 100
+Big Blind: Hu, chips: 200
+Flop: Qh Ad 5d
+Turn: 6s
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Gisigotry, 8d Jd
+Combination: Gisigotry, Pair ( 8d 8s Ad Qh Jd )
+Shows: Hu, Td Tc
+Combination: Hu, Pair ( Td Tc Ad Qh 8s )
+Wins: Hu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Gisigotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gisigotry
+Small Blind: Gisigotry, chips: 100
+Big Blind: Hu, chips: 200
+Flop: 2d 5d Qc
+Turn: 9h
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Gisigotry, 6h Ad
+Combination: Gisigotry, Pair ( 5d 5h Ad Qc 9h )
+Shows: Hu, 2s Jc
+Combination: Hu, Two Pair ( 5d 5h 2s 2d Qc )
+Wins: Hu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Gisigotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gisigotry
+Small Blind: Gisigotry, chips: 100
+Big Blind: Hu, chips: 200
+Flop: 2h 9h 2c
+Turn: 7h
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Gisigotry, 5h Jc
+Combination: Gisigotry, Pair ( 2h 2c Qs Jc 9h )
+Shows: Hu, 7s 8d
+Combination: Hu, Two Pair ( 7s 7h 2h 2c Qs )
+Wins: Hu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Folds: Hu
+Pot size: 300
+Boasts: Gisigotry, 5h 4s
+Wins: Gisigotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gisigotry
+Small Blind: Gisigotry, chips: 100
+Big Blind: Hu, chips: 200
+Flop: As 6s Ts
+Turn: 7c
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Gisigotry, Ad Jh
+Combination: Gisigotry, Pair ( Ad As Jh Ts 7c )
+Shows: Hu, 9d Ks
+Combination: Hu, High Card ( As Ks Ts 9d 7c )
+Wins: Gisigotry, chips: 200
+Wins: Hu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Flop: 4c Ks Kd
+Turn: 3d
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Gisigotry, 7d 4h
+Combination: Gisigotry, Two Pair ( Ks Kd 4h 4c 8h )
+Shows: Hu, 5h As
+Combination: Hu, Pair ( Ks Kd As 8h 5h )
+Wins: Gisigotry, chips: 300
+Quits: Hu, chips: 0
+Ranking: Gisigotry, Place: 1, Score: 1000
+Reveal AI: Gisigotry, AI: Random
+Ranking: Hu, Place: 2, Score: -1000
+Reveal AI: Hu, AI: AIMyBot1
+
+Player Stats for Gisigotry, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 13, showdown: 3, bluff: 10
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.428571
+
+
+Player Stats for Hu, AI: AIMyBot1
+General: deals: 17, actions: 10, preflop actions: 10
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Date: 2022/10/25 13:46:03
+
+The game begins. The AI's of the players are: 
+Gisigotry: Random
+Hu: AIMyBot1
+
+Joins: Gisigotry, chips: 1000
+Joins: Hu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Gisigotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gisigotry
+Small Blind: Gisigotry, chips: 100
+Big Blind: Hu, chips: 200
+Raises: Gisigotry, chips: 300
+Folds: Hu
+Pot size: 700
+Boasts: Gisigotry, Js 5c
+Wins: Gisigotry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Gisigotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gisigotry
+Small Blind: Gisigotry, chips: 100
+Big Blind: Hu, chips: 200
+Calls: Gisigotry
+DEBUG MESSAGE: INVALID ACTION FROM Hu (2 0)
+Folds: Hu
+Pot size: 400
+Wins: Gisigotry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Gisigotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gisigotry
+Small Blind: Gisigotry, chips: 100
+Big Blind: Hu, chips: 200
+Raises: Gisigotry, chips: 300
+Folds: Hu
+Pot size: 700
+Boasts: Gisigotry, 4h Ac
+Wins: Gisigotry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Flop: 8s 4s Td
+Turn: 8d
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Gisigotry, 6c 4d
+Combination: Gisigotry, Two Pair ( 8s 8d 4d 4s Td )
+Shows: Hu, Tc 2c
+Combination: Hu, Two Pair ( Tc Td 8s 8d 4s )
+Wins: Gisigotry, chips: 100
+Wins: Hu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gisigotry
+Small Blind: Gisigotry, chips: 100
+Big Blind: Hu, chips: 200
+Flop: 5c 7s 3h
+Turn: Jh
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Gisigotry, 4c 9h
+Combination: Gisigotry, High Card ( Jh 9h 8c 7s 5c )
+Shows: Hu, 7d 6s
+Combination: Hu, Pair ( 7d 7s Jh 8c 6s )
+Wins: Hu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Folds: Hu
+Pot size: 300
+Boasts: Gisigotry, 7h Jc
+Wins: Gisigotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gisigotry
+Small Blind: Gisigotry, chips: 100
+Big Blind: Hu, chips: 200
+Flop: Qh Ad 5d
+Turn: 6s
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Gisigotry, 8d Jd
+Combination: Gisigotry, Pair ( 8d 8s Ad Qh Jd )
+Shows: Hu, Td Tc
+Combination: Hu, Pair ( Td Tc Ad Qh 8s )
+Wins: Hu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Gisigotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gisigotry
+Small Blind: Gisigotry, chips: 100
+Big Blind: Hu, chips: 200
+Flop: 2d 5d Qc
+Turn: 9h
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Gisigotry, 6h Ad
+Combination: Gisigotry, Pair ( 5d 5h Ad Qc 9h )
+Shows: Hu, 2s Jc
+Combination: Hu, Two Pair ( 5d 5h 2s 2d Qc )
+Wins: Hu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Gisigotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gisigotry
+Small Blind: Gisigotry, chips: 100
+Big Blind: Hu, chips: 200
+Flop: 2h 9h 2c
+Turn: 7h
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Gisigotry, 5h Jc
+Combination: Gisigotry, Pair ( 2h 2c Qs Jc 9h )
+Shows: Hu, 7s 8d
+Combination: Hu, Two Pair ( 7s 7h 2h 2c Qs )
+Wins: Hu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Folds: Hu
+Pot size: 300
+Boasts: Gisigotry, 5h 4s
+Wins: Gisigotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gisigotry
+Small Blind: Gisigotry, chips: 100
+Big Blind: Hu, chips: 200
+Flop: As 6s Ts
+Turn: 7c
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Gisigotry, Ad Jh
+Combination: Gisigotry, Pair ( Ad As Jh Ts 7c )
+Shows: Hu, 9d Ks
+Combination: Hu, High Card ( As Ks Ts 9d 7c )
+Wins: Gisigotry, chips: 200
+Wins: Hu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Gisigotry, chips: 200
+Flop: 4c Ks Kd
+Turn: 3d
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Gisigotry, 7d 4h
+Combination: Gisigotry, Two Pair ( Ks Kd 4h 4c 8h )
+Shows: Hu, 5h As
+Combination: Hu, Pair ( Ks Kd As 8h 5h )
+Wins: Gisigotry, chips: 300
+Quits: Hu, chips: 0
+Ranking: Gisigotry, Place: 1, Score: 1000
+Reveal AI: Gisigotry, AI: Random
+Ranking: Hu, Place: 2, Score: -1000
+Reveal AI: Hu, AI: AIMyBot1
+
+Player Stats for Gisigotry, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 13, showdown: 3, bluff: 10
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.428571
+
+
+Player Stats for Hu, AI: AIMyBot1
+General: deals: 17, actions: 10, preflop actions: 10
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+

@@ -1,0 +1,226 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Ja: Random
+Goda: AIMyBot1
+
+Joins: Ja, chips: 1000
+Joins: Goda, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ja
+Small Blind: Ja, chips: 100
+Big Blind: Goda, chips: 200
+Folds: Ja
+Pot size: 300
+Wins: Goda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goda
+Small Blind: Goda, chips: 100
+Big Blind: Ja, chips: 200
+Folds: Goda
+Pot size: 300
+Boasts: Ja, 8d 4s
+Wins: Ja, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ja
+Small Blind: Ja, chips: 100
+Big Blind: Goda, chips: 200
+Raises: Ja, chips: 300
+Folds: Goda
+Pot size: 700
+Wins: Ja, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goda
+Small Blind: Goda, chips: 100
+Big Blind: Ja, chips: 200
+Folds: Goda
+Pot size: 300
+Boasts: Ja, As 3d
+Wins: Ja, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ja
+Small Blind: Ja, chips: 100
+Big Blind: Goda, chips: 200
+Calls: Ja
+DEBUG MESSAGE: INVALID ACTION FROM Goda (2 0)
+Folds: Goda
+Pot size: 400
+Wins: Ja, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goda
+Small Blind: Goda, chips: 100
+Big Blind: Ja, chips: 200
+Folds: Goda
+Pot size: 300
+Boasts: Ja, 6h 7c
+Wins: Ja, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ja
+Small Blind: Ja, chips: 100
+Big Blind: Goda, chips: 200
+Calls: Ja
+DEBUG MESSAGE: INVALID ACTION FROM Goda (2 0)
+Folds: Goda
+Pot size: 400
+Boasts: Ja, 6c Th
+Wins: Ja, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goda
+Small Blind: Goda, chips: 100
+Big Blind: Ja, chips: 200
+Folds: Goda
+Pot size: 300
+Boasts: Ja, Kh Ad
+Wins: Ja, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ja
+Small Blind: Ja, chips: 100
+Big Blind: Goda, chips: 100
+Flop: 6h 2c 9d
+Turn: Td
+River: 6c
+Pot size: 200
+Showdown Reached
+Shows: Ja, Ah 3s
+Combination: Ja, Pair ( 6h 6c Ah Td 9d )
+Shows: Goda, 5c 7s
+Combination: Goda, Pair ( 6h 6c Td 9d 7s )
+Wins: Ja, chips: 200
+Quits: Goda, chips: 0
+Ranking: Ja, Place: 1, Score: 1000
+Reveal AI: Ja, AI: Random
+Ranking: Goda, Place: 2, Score: -1000
+Reveal AI: Goda, AI: AIMyBot1
+
+Player Stats for Goda, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Ja, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:12
+
+The game begins. The AI's of the players are: 
+Ja: Random
+Goda: AIMyBot1
+
+Joins: Ja, chips: 1000
+Joins: Goda, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ja
+Small Blind: Ja, chips: 100
+Big Blind: Goda, chips: 200
+Folds: Ja
+Pot size: 300
+Wins: Goda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goda
+Small Blind: Goda, chips: 100
+Big Blind: Ja, chips: 200
+Folds: Goda
+Pot size: 300
+Boasts: Ja, 8d 4s
+Wins: Ja, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ja
+Small Blind: Ja, chips: 100
+Big Blind: Goda, chips: 200
+Raises: Ja, chips: 300
+Folds: Goda
+Pot size: 700
+Wins: Ja, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goda
+Small Blind: Goda, chips: 100
+Big Blind: Ja, chips: 200
+Folds: Goda
+Pot size: 300
+Boasts: Ja, As 3d
+Wins: Ja, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ja
+Small Blind: Ja, chips: 100
+Big Blind: Goda, chips: 200
+Calls: Ja
+DEBUG MESSAGE: INVALID ACTION FROM Goda (2 0)
+Folds: Goda
+Pot size: 400
+Wins: Ja, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goda
+Small Blind: Goda, chips: 100
+Big Blind: Ja, chips: 200
+Folds: Goda
+Pot size: 300
+Boasts: Ja, 6h 7c
+Wins: Ja, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ja
+Small Blind: Ja, chips: 100
+Big Blind: Goda, chips: 200
+Calls: Ja
+DEBUG MESSAGE: INVALID ACTION FROM Goda (2 0)
+Folds: Goda
+Pot size: 400
+Boasts: Ja, 6c Th
+Wins: Ja, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goda
+Small Blind: Goda, chips: 100
+Big Blind: Ja, chips: 200
+Folds: Goda
+Pot size: 300
+Boasts: Ja, Kh Ad
+Wins: Ja, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ja
+Small Blind: Ja, chips: 100
+Big Blind: Goda, chips: 100
+Flop: 6h 2c 9d
+Turn: Td
+River: 6c
+Pot size: 200
+Showdown Reached
+Shows: Ja, Ah 3s
+Combination: Ja, Pair ( 6h 6c Ah Td 9d )
+Shows: Goda, 5c 7s
+Combination: Goda, Pair ( 6h 6c Td 9d 7s )
+Wins: Ja, chips: 200
+Quits: Goda, chips: 0
+Ranking: Ja, Place: 1, Score: 1000
+Reveal AI: Ja, AI: Random
+Ranking: Goda, Place: 2, Score: -1000
+Reveal AI: Goda, AI: AIMyBot1
+
+Player Stats for Goda, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Ja, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

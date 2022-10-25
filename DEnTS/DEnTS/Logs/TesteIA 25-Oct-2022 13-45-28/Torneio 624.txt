@@ -1,0 +1,290 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Rerlo: Random
+Roefun: AIMyBot1
+
+Joins: Rerlo, chips: 1000
+Joins: Roefun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roefun
+Small Blind: Roefun, chips: 100
+Big Blind: Rerlo, chips: 200
+Folds: Roefun
+Pot size: 300
+Boasts: Rerlo, 4c 7c
+Wins: Rerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rerlo
+Small Blind: Rerlo, chips: 100
+Big Blind: Roefun, chips: 200
+Calls: Rerlo
+DEBUG MESSAGE: INVALID ACTION FROM Roefun (2 0)
+Folds: Roefun
+Pot size: 400
+Boasts: Rerlo, Jd Jc
+Wins: Rerlo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roefun
+Small Blind: Roefun, chips: 100
+Big Blind: Rerlo, chips: 200
+Folds: Roefun
+Pot size: 300
+Boasts: Rerlo, Qc 4c
+Wins: Rerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rerlo
+Small Blind: Rerlo, chips: 100
+Big Blind: Roefun, chips: 200
+Calls: Rerlo
+DEBUG MESSAGE: INVALID ACTION FROM Roefun (2 0)
+Folds: Roefun
+Pot size: 400
+Boasts: Rerlo, 7d Th
+Wins: Rerlo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roefun
+Small Blind: Roefun, chips: 100
+Big Blind: Rerlo, chips: 200
+Folds: Roefun
+Pot size: 300
+Wins: Rerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rerlo
+Small Blind: Rerlo, chips: 100
+Big Blind: Roefun, chips: 200
+Folds: Rerlo
+Pot size: 300
+Wins: Roefun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roefun
+Small Blind: Roefun, chips: 100
+Big Blind: Rerlo, chips: 200
+Folds: Roefun
+Pot size: 300
+Boasts: Rerlo, Qh 5h
+Wins: Rerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rerlo
+Small Blind: Rerlo, chips: 100
+Big Blind: Roefun, chips: 200
+Calls: Rerlo
+DEBUG MESSAGE: INVALID ACTION FROM Roefun (2 0)
+Folds: Roefun
+Pot size: 400
+Boasts: Rerlo, Kh 7h
+Wins: Rerlo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roefun
+Small Blind: Roefun, chips: 100
+Big Blind: Rerlo, chips: 200
+Flop: 2d 6s 7s
+Turn: Kd
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Rerlo, Js 5h
+Combination: Rerlo, High Card ( Kd Js Th 7s 6s )
+Shows: Roefun, 9s Kh
+Combination: Roefun, Pair ( Kh Kd Th 9s 7s )
+Wins: Rerlo, chips: 100
+Wins: Roefun, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rerlo
+Small Blind: Rerlo, chips: 100
+Big Blind: Roefun, chips: 200
+Flop: 3s Jc Kd
+Turn: 5h
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Rerlo, 3d Tc
+Combination: Rerlo, Two Pair ( 5h 5s 3d 3s Kd )
+Shows: Roefun, 2h 7h
+Combination: Roefun, Pair ( 5h 5s Kd Jc 7h )
+Wins: Rerlo, chips: 200
+Wins: Roefun, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roefun
+Small Blind: Roefun, chips: 100
+Big Blind: Rerlo, chips: 200
+Flop: 9c Kc Td
+Turn: 3d
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Rerlo, Qh 6s
+Combination: Rerlo, Pair ( 3d 3s Kc Qh Td )
+Shows: Roefun, 6d 5c
+Combination: Roefun, Pair ( 3d 3s Kc Td 9c )
+Wins: Rerlo, chips: 300
+Quits: Roefun, chips: 0
+Ranking: Rerlo, Place: 1, Score: 1000
+Reveal AI: Rerlo, AI: Random
+Ranking: Roefun, Place: 2, Score: -1000
+Reveal AI: Roefun, AI: AIMyBot1
+
+Player Stats for Rerlo, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Roefun, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:11
+
+The game begins. The AI's of the players are: 
+Rerlo: Random
+Roefun: AIMyBot1
+
+Joins: Rerlo, chips: 1000
+Joins: Roefun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roefun
+Small Blind: Roefun, chips: 100
+Big Blind: Rerlo, chips: 200
+Folds: Roefun
+Pot size: 300
+Boasts: Rerlo, 4c 7c
+Wins: Rerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rerlo
+Small Blind: Rerlo, chips: 100
+Big Blind: Roefun, chips: 200
+Calls: Rerlo
+DEBUG MESSAGE: INVALID ACTION FROM Roefun (2 0)
+Folds: Roefun
+Pot size: 400
+Boasts: Rerlo, Jd Jc
+Wins: Rerlo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roefun
+Small Blind: Roefun, chips: 100
+Big Blind: Rerlo, chips: 200
+Folds: Roefun
+Pot size: 300
+Boasts: Rerlo, Qc 4c
+Wins: Rerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rerlo
+Small Blind: Rerlo, chips: 100
+Big Blind: Roefun, chips: 200
+Calls: Rerlo
+DEBUG MESSAGE: INVALID ACTION FROM Roefun (2 0)
+Folds: Roefun
+Pot size: 400
+Boasts: Rerlo, 7d Th
+Wins: Rerlo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roefun
+Small Blind: Roefun, chips: 100
+Big Blind: Rerlo, chips: 200
+Folds: Roefun
+Pot size: 300
+Wins: Rerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rerlo
+Small Blind: Rerlo, chips: 100
+Big Blind: Roefun, chips: 200
+Folds: Rerlo
+Pot size: 300
+Wins: Roefun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roefun
+Small Blind: Roefun, chips: 100
+Big Blind: Rerlo, chips: 200
+Folds: Roefun
+Pot size: 300
+Boasts: Rerlo, Qh 5h
+Wins: Rerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rerlo
+Small Blind: Rerlo, chips: 100
+Big Blind: Roefun, chips: 200
+Calls: Rerlo
+DEBUG MESSAGE: INVALID ACTION FROM Roefun (2 0)
+Folds: Roefun
+Pot size: 400
+Boasts: Rerlo, Kh 7h
+Wins: Rerlo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roefun
+Small Blind: Roefun, chips: 100
+Big Blind: Rerlo, chips: 200
+Flop: 2d 6s 7s
+Turn: Kd
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Rerlo, Js 5h
+Combination: Rerlo, High Card ( Kd Js Th 7s 6s )
+Shows: Roefun, 9s Kh
+Combination: Roefun, Pair ( Kh Kd Th 9s 7s )
+Wins: Rerlo, chips: 100
+Wins: Roefun, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rerlo
+Small Blind: Rerlo, chips: 100
+Big Blind: Roefun, chips: 200
+Flop: 3s Jc Kd
+Turn: 5h
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Rerlo, 3d Tc
+Combination: Rerlo, Two Pair ( 5h 5s 3d 3s Kd )
+Shows: Roefun, 2h 7h
+Combination: Roefun, Pair ( 5h 5s Kd Jc 7h )
+Wins: Rerlo, chips: 200
+Wins: Roefun, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roefun
+Small Blind: Roefun, chips: 100
+Big Blind: Rerlo, chips: 200
+Flop: 9c Kc Td
+Turn: 3d
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Rerlo, Qh 6s
+Combination: Rerlo, Pair ( 3d 3s Kc Qh Td )
+Shows: Roefun, 6d 5c
+Combination: Roefun, Pair ( 3d 3s Kc Td 9c )
+Wins: Rerlo, chips: 300
+Quits: Roefun, chips: 0
+Ranking: Rerlo, Place: 1, Score: 1000
+Reveal AI: Rerlo, AI: Random
+Ranking: Roefun, Place: 2, Score: -1000
+Reveal AI: Roefun, AI: AIMyBot1
+
+Player Stats for Rerlo, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Roefun, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

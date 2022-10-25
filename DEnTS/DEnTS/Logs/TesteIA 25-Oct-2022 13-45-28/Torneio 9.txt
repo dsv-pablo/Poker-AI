@@ -1,0 +1,224 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Meettottees: Random
+Toekulee: AIMyBot1
+
+Joins: Meettottees, chips: 1000
+Joins: Toekulee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toekulee
+Small Blind: Toekulee, chips: 100
+Big Blind: Meettottees, chips: 200
+Folds: Toekulee
+Pot size: 300
+Wins: Meettottees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettottees
+Small Blind: Meettottees, chips: 100
+Big Blind: Toekulee, chips: 200
+Calls: Meettottees
+DEBUG MESSAGE: INVALID ACTION FROM Toekulee (2 0)
+Folds: Toekulee
+Pot size: 400
+Boasts: Meettottees, Qd Kh
+Wins: Meettottees, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toekulee
+Small Blind: Toekulee, chips: 100
+Big Blind: Meettottees, chips: 200
+Folds: Toekulee
+Pot size: 300
+Wins: Meettottees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettottees
+Small Blind: Meettottees, chips: 100
+Big Blind: Toekulee, chips: 200
+Folds: Meettottees
+Pot size: 300
+Wins: Toekulee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toekulee
+Small Blind: Toekulee, chips: 100
+Big Blind: Meettottees, chips: 200
+Folds: Toekulee
+Pot size: 300
+Boasts: Meettottees, Kh Ad
+Wins: Meettottees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettottees
+Small Blind: Meettottees, chips: 100
+Big Blind: Toekulee, chips: 200
+Calls: Meettottees
+DEBUG MESSAGE: INVALID ACTION FROM Toekulee (2 0)
+Folds: Toekulee
+Pot size: 400
+Boasts: Meettottees, Ad Js
+Wins: Meettottees, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toekulee
+Small Blind: Toekulee, chips: 100
+Big Blind: Meettottees, chips: 200
+Folds: Toekulee
+Pot size: 300
+Wins: Meettottees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettottees
+Small Blind: Meettottees, chips: 100
+Big Blind: Toekulee, chips: 200
+Calls: Meettottees
+DEBUG MESSAGE: INVALID ACTION FROM Toekulee (2 0)
+Folds: Toekulee
+Pot size: 400
+Wins: Meettottees, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toekulee
+Small Blind: Toekulee, chips: 100
+Big Blind: Meettottees, chips: 200
+Flop: Kc Ad 6c
+Turn: Qh
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Meettottees, Ac 3h
+Combination: Meettottees, Pair ( Ac Ad Kc Qh Jc )
+Shows: Toekulee, 9s 2s
+Combination: Toekulee, High Card ( Ad Kc Qh Jc 9s )
+Wins: Meettottees, chips: 300
+Quits: Toekulee, chips: 0
+Ranking: Meettottees, Place: 1, Score: 1000
+Reveal AI: Meettottees, AI: Random
+Ranking: Toekulee, Place: 2, Score: -1000
+Reveal AI: Toekulee, AI: AIMyBot1
+
+Player Stats for Meettottees, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Toekulee, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:30
+
+The game begins. The AI's of the players are: 
+Meettottees: Random
+Toekulee: AIMyBot1
+
+Joins: Meettottees, chips: 1000
+Joins: Toekulee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toekulee
+Small Blind: Toekulee, chips: 100
+Big Blind: Meettottees, chips: 200
+Folds: Toekulee
+Pot size: 300
+Wins: Meettottees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettottees
+Small Blind: Meettottees, chips: 100
+Big Blind: Toekulee, chips: 200
+Calls: Meettottees
+DEBUG MESSAGE: INVALID ACTION FROM Toekulee (2 0)
+Folds: Toekulee
+Pot size: 400
+Boasts: Meettottees, Qd Kh
+Wins: Meettottees, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toekulee
+Small Blind: Toekulee, chips: 100
+Big Blind: Meettottees, chips: 200
+Folds: Toekulee
+Pot size: 300
+Wins: Meettottees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettottees
+Small Blind: Meettottees, chips: 100
+Big Blind: Toekulee, chips: 200
+Folds: Meettottees
+Pot size: 300
+Wins: Toekulee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toekulee
+Small Blind: Toekulee, chips: 100
+Big Blind: Meettottees, chips: 200
+Folds: Toekulee
+Pot size: 300
+Boasts: Meettottees, Kh Ad
+Wins: Meettottees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettottees
+Small Blind: Meettottees, chips: 100
+Big Blind: Toekulee, chips: 200
+Calls: Meettottees
+DEBUG MESSAGE: INVALID ACTION FROM Toekulee (2 0)
+Folds: Toekulee
+Pot size: 400
+Boasts: Meettottees, Ad Js
+Wins: Meettottees, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toekulee
+Small Blind: Toekulee, chips: 100
+Big Blind: Meettottees, chips: 200
+Folds: Toekulee
+Pot size: 300
+Wins: Meettottees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettottees
+Small Blind: Meettottees, chips: 100
+Big Blind: Toekulee, chips: 200
+Calls: Meettottees
+DEBUG MESSAGE: INVALID ACTION FROM Toekulee (2 0)
+Folds: Toekulee
+Pot size: 400
+Wins: Meettottees, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toekulee
+Small Blind: Toekulee, chips: 100
+Big Blind: Meettottees, chips: 200
+Flop: Kc Ad 6c
+Turn: Qh
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Meettottees, Ac 3h
+Combination: Meettottees, Pair ( Ac Ad Kc Qh Jc )
+Shows: Toekulee, 9s 2s
+Combination: Toekulee, High Card ( Ad Kc Qh Jc 9s )
+Wins: Meettottees, chips: 300
+Quits: Toekulee, chips: 0
+Ranking: Meettottees, Place: 1, Score: 1000
+Reveal AI: Meettottees, AI: Random
+Ranking: Toekulee, Place: 2, Score: -1000
+Reveal AI: Toekulee, AI: AIMyBot1
+
+Player Stats for Meettottees, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Toekulee, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

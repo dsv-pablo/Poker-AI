@@ -1,0 +1,284 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Woeheepoen: AIMyBot1
+Goegonhee: Random
+
+Joins: Woeheepoen, chips: 1000
+Joins: Goegonhee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goegonhee
+Small Blind: Goegonhee, chips: 100
+Big Blind: Woeheepoen, chips: 200
+Folds: Goegonhee
+Pot size: 300
+Boasts: Goegonhee, 9d Tc
+Wins: Woeheepoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheepoen
+Small Blind: Woeheepoen, chips: 100
+Big Blind: Goegonhee, chips: 200
+Folds: Woeheepoen
+Pot size: 300
+Wins: Goegonhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goegonhee
+Small Blind: Goegonhee, chips: 100
+Big Blind: Woeheepoen, chips: 200
+Folds: Goegonhee
+Pot size: 300
+Wins: Woeheepoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheepoen
+Small Blind: Woeheepoen, chips: 100
+Big Blind: Goegonhee, chips: 200
+Folds: Woeheepoen
+Pot size: 300
+Boasts: Goegonhee, Kc 5c
+Wins: Goegonhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goegonhee
+Small Blind: Goegonhee, chips: 100
+Big Blind: Woeheepoen, chips: 200
+Raises: Goegonhee, chips: 300
+Folds: Woeheepoen
+Pot size: 700
+Boasts: Goegonhee, 8s 5s
+Wins: Goegonhee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheepoen
+Small Blind: Woeheepoen, chips: 100
+Big Blind: Goegonhee, chips: 200
+Folds: Woeheepoen
+Pot size: 300
+Boasts: Goegonhee, 9c 5c
+Wins: Goegonhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goegonhee
+Small Blind: Goegonhee, chips: 100
+Big Blind: Woeheepoen, chips: 200
+Raises: Goegonhee, chips: 300
+Folds: Woeheepoen
+Pot size: 700
+Wins: Goegonhee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheepoen
+Small Blind: Woeheepoen, chips: 100
+Big Blind: Goegonhee, chips: 200
+Folds: Woeheepoen
+Pot size: 300
+Boasts: Goegonhee, 5d Ks
+Wins: Goegonhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goegonhee
+Small Blind: Goegonhee, chips: 100
+Big Blind: Woeheepoen, chips: 200
+Folds: Goegonhee
+Pot size: 300
+Wins: Woeheepoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheepoen
+Small Blind: Woeheepoen, chips: 100
+Big Blind: Goegonhee, chips: 200
+Folds: Woeheepoen
+Pot size: 300
+Boasts: Goegonhee, As 6h
+Wins: Goegonhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goegonhee
+Small Blind: Goegonhee, chips: 100
+Big Blind: Woeheepoen, chips: 200
+Calls: Goegonhee
+DEBUG MESSAGE: INVALID ACTION FROM Woeheepoen (2 0)
+Folds: Woeheepoen
+Pot size: 400
+Wins: Goegonhee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheepoen
+Small Blind: Woeheepoen, chips: 100
+Big Blind: Goegonhee, chips: 200
+Folds: Woeheepoen
+Pot size: 300
+Boasts: Goegonhee, 2s 6s
+Wins: Goegonhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goegonhee
+Small Blind: Goegonhee, chips: 100
+Big Blind: Woeheepoen, chips: 100
+Flop: 6s Js 5c
+Turn: 8c
+River: Ac
+Pot size: 200
+Showdown Reached
+Shows: Woeheepoen, 9h Kc
+Combination: Woeheepoen, High Card ( Ac Kc Js 9h 8c )
+Shows: Goegonhee, 3h 8s
+Combination: Goegonhee, Pair ( 8s 8c Ac Js 6s )
+Wins: Goegonhee, chips: 200
+Quits: Woeheepoen, chips: 0
+Ranking: Goegonhee, Place: 1, Score: 1000
+Reveal AI: Goegonhee, AI: Random
+Ranking: Woeheepoen, Place: 2, Score: -1000
+Reveal AI: Woeheepoen, AI: AIMyBot1
+
+Player Stats for Goegonhee, AI: Random
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Woeheepoen, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 3, showdown: 0, bluff: 3
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:55
+
+The game begins. The AI's of the players are: 
+Woeheepoen: AIMyBot1
+Goegonhee: Random
+
+Joins: Woeheepoen, chips: 1000
+Joins: Goegonhee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goegonhee
+Small Blind: Goegonhee, chips: 100
+Big Blind: Woeheepoen, chips: 200
+Folds: Goegonhee
+Pot size: 300
+Boasts: Goegonhee, 9d Tc
+Wins: Woeheepoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheepoen
+Small Blind: Woeheepoen, chips: 100
+Big Blind: Goegonhee, chips: 200
+Folds: Woeheepoen
+Pot size: 300
+Wins: Goegonhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goegonhee
+Small Blind: Goegonhee, chips: 100
+Big Blind: Woeheepoen, chips: 200
+Folds: Goegonhee
+Pot size: 300
+Wins: Woeheepoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheepoen
+Small Blind: Woeheepoen, chips: 100
+Big Blind: Goegonhee, chips: 200
+Folds: Woeheepoen
+Pot size: 300
+Boasts: Goegonhee, Kc 5c
+Wins: Goegonhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goegonhee
+Small Blind: Goegonhee, chips: 100
+Big Blind: Woeheepoen, chips: 200
+Raises: Goegonhee, chips: 300
+Folds: Woeheepoen
+Pot size: 700
+Boasts: Goegonhee, 8s 5s
+Wins: Goegonhee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheepoen
+Small Blind: Woeheepoen, chips: 100
+Big Blind: Goegonhee, chips: 200
+Folds: Woeheepoen
+Pot size: 300
+Boasts: Goegonhee, 9c 5c
+Wins: Goegonhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goegonhee
+Small Blind: Goegonhee, chips: 100
+Big Blind: Woeheepoen, chips: 200
+Raises: Goegonhee, chips: 300
+Folds: Woeheepoen
+Pot size: 700
+Wins: Goegonhee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheepoen
+Small Blind: Woeheepoen, chips: 100
+Big Blind: Goegonhee, chips: 200
+Folds: Woeheepoen
+Pot size: 300
+Boasts: Goegonhee, 5d Ks
+Wins: Goegonhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goegonhee
+Small Blind: Goegonhee, chips: 100
+Big Blind: Woeheepoen, chips: 200
+Folds: Goegonhee
+Pot size: 300
+Wins: Woeheepoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheepoen
+Small Blind: Woeheepoen, chips: 100
+Big Blind: Goegonhee, chips: 200
+Folds: Woeheepoen
+Pot size: 300
+Boasts: Goegonhee, As 6h
+Wins: Goegonhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goegonhee
+Small Blind: Goegonhee, chips: 100
+Big Blind: Woeheepoen, chips: 200
+Calls: Goegonhee
+DEBUG MESSAGE: INVALID ACTION FROM Woeheepoen (2 0)
+Folds: Woeheepoen
+Pot size: 400
+Wins: Goegonhee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woeheepoen
+Small Blind: Woeheepoen, chips: 100
+Big Blind: Goegonhee, chips: 200
+Folds: Woeheepoen
+Pot size: 300
+Boasts: Goegonhee, 2s 6s
+Wins: Goegonhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goegonhee
+Small Blind: Goegonhee, chips: 100
+Big Blind: Woeheepoen, chips: 100
+Flop: 6s Js 5c
+Turn: 8c
+River: Ac
+Pot size: 200
+Showdown Reached
+Shows: Woeheepoen, 9h Kc
+Combination: Woeheepoen, High Card ( Ac Kc Js 9h 8c )
+Shows: Goegonhee, 3h 8s
+Combination: Goegonhee, Pair ( 8s 8c Ac Js 6s )
+Wins: Goegonhee, chips: 200
+Quits: Woeheepoen, chips: 0
+Ranking: Goegonhee, Place: 1, Score: 1000
+Reveal AI: Goegonhee, AI: Random
+Ranking: Woeheepoen, Place: 2, Score: -1000
+Reveal AI: Woeheepoen, AI: AIMyBot1
+
+Player Stats for Goegonhee, AI: Random
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Woeheepoen, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 3, showdown: 0, bluff: 3
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

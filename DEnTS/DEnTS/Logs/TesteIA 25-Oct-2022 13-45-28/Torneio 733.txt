@@ -1,0 +1,280 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Sinha: Random
+Lufee: AIMyBot1
+
+Joins: Sinha, chips: 1000
+Joins: Lufee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sinha
+Small Blind: Sinha, chips: 100
+Big Blind: Lufee, chips: 200
+Calls: Sinha
+DEBUG MESSAGE: INVALID ACTION FROM Lufee (2 0)
+Folds: Lufee
+Pot size: 400
+Boasts: Sinha, 3h 9c
+Wins: Sinha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufee
+Small Blind: Lufee, chips: 100
+Big Blind: Sinha, chips: 200
+Folds: Lufee
+Pot size: 300
+Wins: Sinha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sinha
+Small Blind: Sinha, chips: 100
+Big Blind: Lufee, chips: 200
+Folds: Sinha
+Pot size: 300
+Wins: Lufee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufee
+Small Blind: Lufee, chips: 100
+Big Blind: Sinha, chips: 200
+Folds: Lufee
+Pot size: 300
+Wins: Sinha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sinha
+Small Blind: Sinha, chips: 100
+Big Blind: Lufee, chips: 200
+Folds: Sinha
+Pot size: 300
+Boasts: Sinha, 3d Jh
+Wins: Lufee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufee
+Small Blind: Lufee, chips: 100
+Big Blind: Sinha, chips: 200
+Folds: Lufee
+Pot size: 300
+Wins: Sinha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sinha
+Small Blind: Sinha, chips: 100
+Big Blind: Lufee, chips: 200
+Folds: Sinha
+Pot size: 300
+Boasts: Sinha, 2s 7c
+Wins: Lufee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufee
+Small Blind: Lufee, chips: 100
+Big Blind: Sinha, chips: 200
+Folds: Lufee
+Pot size: 300
+Wins: Sinha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sinha
+Small Blind: Sinha, chips: 100
+Big Blind: Lufee, chips: 200
+Calls: Sinha
+DEBUG MESSAGE: INVALID ACTION FROM Lufee (2 0)
+Folds: Lufee
+Pot size: 400
+Wins: Sinha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufee
+Small Blind: Lufee, chips: 100
+Big Blind: Sinha, chips: 200
+Folds: Lufee
+Pot size: 300
+Wins: Sinha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sinha
+Small Blind: Sinha, chips: 100
+Big Blind: Lufee, chips: 200
+Raises: Sinha, chips: 300
+Folds: Lufee
+Pot size: 700
+Boasts: Sinha, 7h 9d
+Wins: Sinha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufee
+Small Blind: Lufee, chips: 100
+Big Blind: Sinha, chips: 200
+Folds: Lufee
+Pot size: 300
+Wins: Sinha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sinha
+Small Blind: Sinha, chips: 100
+Big Blind: Lufee, chips: 100
+Flop: 5d Jh Js
+Turn: 3s
+River: Ac
+Pot size: 200
+Showdown Reached
+Shows: Sinha, 5c Ad
+Combination: Sinha, Two Pair ( Ad Ac Jh Js 5c )
+Shows: Lufee, 6d 5s
+Combination: Lufee, Two Pair ( Jh Js 5s 5d Ac )
+Wins: Sinha, chips: 200
+Quits: Lufee, chips: 0
+Ranking: Sinha, Place: 1, Score: 1000
+Reveal AI: Sinha, AI: Random
+Ranking: Lufee, Place: 2, Score: -1000
+Reveal AI: Lufee, AI: AIMyBot1
+
+Player Stats for Lufee, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 3, showdown: 0, bluff: 3
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Sinha, AI: Random
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:18
+
+The game begins. The AI's of the players are: 
+Sinha: Random
+Lufee: AIMyBot1
+
+Joins: Sinha, chips: 1000
+Joins: Lufee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sinha
+Small Blind: Sinha, chips: 100
+Big Blind: Lufee, chips: 200
+Calls: Sinha
+DEBUG MESSAGE: INVALID ACTION FROM Lufee (2 0)
+Folds: Lufee
+Pot size: 400
+Boasts: Sinha, 3h 9c
+Wins: Sinha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufee
+Small Blind: Lufee, chips: 100
+Big Blind: Sinha, chips: 200
+Folds: Lufee
+Pot size: 300
+Wins: Sinha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sinha
+Small Blind: Sinha, chips: 100
+Big Blind: Lufee, chips: 200
+Folds: Sinha
+Pot size: 300
+Wins: Lufee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufee
+Small Blind: Lufee, chips: 100
+Big Blind: Sinha, chips: 200
+Folds: Lufee
+Pot size: 300
+Wins: Sinha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sinha
+Small Blind: Sinha, chips: 100
+Big Blind: Lufee, chips: 200
+Folds: Sinha
+Pot size: 300
+Boasts: Sinha, 3d Jh
+Wins: Lufee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufee
+Small Blind: Lufee, chips: 100
+Big Blind: Sinha, chips: 200
+Folds: Lufee
+Pot size: 300
+Wins: Sinha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sinha
+Small Blind: Sinha, chips: 100
+Big Blind: Lufee, chips: 200
+Folds: Sinha
+Pot size: 300
+Boasts: Sinha, 2s 7c
+Wins: Lufee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufee
+Small Blind: Lufee, chips: 100
+Big Blind: Sinha, chips: 200
+Folds: Lufee
+Pot size: 300
+Wins: Sinha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sinha
+Small Blind: Sinha, chips: 100
+Big Blind: Lufee, chips: 200
+Calls: Sinha
+DEBUG MESSAGE: INVALID ACTION FROM Lufee (2 0)
+Folds: Lufee
+Pot size: 400
+Wins: Sinha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufee
+Small Blind: Lufee, chips: 100
+Big Blind: Sinha, chips: 200
+Folds: Lufee
+Pot size: 300
+Wins: Sinha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sinha
+Small Blind: Sinha, chips: 100
+Big Blind: Lufee, chips: 200
+Raises: Sinha, chips: 300
+Folds: Lufee
+Pot size: 700
+Boasts: Sinha, 7h 9d
+Wins: Sinha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufee
+Small Blind: Lufee, chips: 100
+Big Blind: Sinha, chips: 200
+Folds: Lufee
+Pot size: 300
+Wins: Sinha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sinha
+Small Blind: Sinha, chips: 100
+Big Blind: Lufee, chips: 100
+Flop: 5d Jh Js
+Turn: 3s
+River: Ac
+Pot size: 200
+Showdown Reached
+Shows: Sinha, 5c Ad
+Combination: Sinha, Two Pair ( Ad Ac Jh Js 5c )
+Shows: Lufee, 6d 5s
+Combination: Lufee, Two Pair ( Jh Js 5s 5d Ac )
+Wins: Sinha, chips: 200
+Quits: Lufee, chips: 0
+Ranking: Sinha, Place: 1, Score: 1000
+Reveal AI: Sinha, AI: Random
+Ranking: Lufee, Place: 2, Score: -1000
+Reveal AI: Lufee, AI: AIMyBot1
+
+Player Stats for Lufee, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 3, showdown: 0, bluff: 3
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Sinha, AI: Random
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

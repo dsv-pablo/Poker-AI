@@ -1,0 +1,468 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Bu: AIMyBot1
+Lowu: Random
+
+Joins: Bu, chips: 1000
+Joins: Lowu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Folds: Bu
+Pot size: 300
+Wins: Lowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Calls: Lowu
+DEBUG MESSAGE: INVALID ACTION FROM Bu (2 0)
+Folds: Bu
+Pot size: 400
+Wins: Lowu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Folds: Bu
+Pot size: 300
+Wins: Lowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Raises: Lowu, chips: 300
+Folds: Bu
+Pot size: 700
+Wins: Lowu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Folds: Bu
+Pot size: 300
+Boasts: Lowu, 8c 5c
+Wins: Lowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Folds: Lowu
+Pot size: 300
+Wins: Bu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Folds: Bu
+Pot size: 300
+Wins: Lowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Calls: Lowu
+DEBUG MESSAGE: INVALID ACTION FROM Bu (2 0)
+Folds: Bu
+Pot size: 400
+Wins: Lowu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Flop: 6h Jh Qs
+Turn: 4c
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Bu, 7c Jc
+Combination: Bu, Pair ( Jc Jh As Qs 7c )
+Shows: Lowu, 8d 4d
+Combination: Lowu, Pair ( 4d 4c As Qs Jh )
+Wins: Bu, chips: 200
+Wins: Lowu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Flop: 6s 9h Ac
+Turn: Kd
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Bu, Ah 2c
+Combination: Bu, Pair ( Ah Ac Kd Jd 9h )
+Shows: Lowu, 4c 5d
+Combination: Lowu, High Card ( Ac Kd Jd 9h 6s )
+Wins: Bu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Folds: Bu
+Pot size: 300
+Wins: Lowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Flop: Tc 4d Jc
+Turn: Kc
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Bu, Qh 3d
+Combination: Bu, Pair ( Qh Qs Kc Jc Tc )
+Shows: Lowu, 4h 6s
+Combination: Lowu, Pair ( 4h 4d Kc Qs Jc )
+Wins: Bu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Folds: Bu
+Pot size: 300
+Boasts: Lowu, 5h 8s
+Wins: Lowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Flop: Jd 9c 2s
+Turn: Kc
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Bu, 5s 5c
+Combination: Bu, Pair ( 5s 5c Kc Qc Jd )
+Shows: Lowu, Qs 2c
+Combination: Lowu, Two Pair ( Qs Qc 2c 2s Kc )
+Wins: Bu, chips: 100
+Wins: Lowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Flop: 7d 8s Tc
+Turn: 2h
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Bu, Th Qc
+Combination: Bu, Pair ( Th Tc Qc 9h 8s )
+Shows: Lowu, 8d 3h
+Combination: Lowu, Pair ( 8d 8s Tc 9h 7d )
+Wins: Bu, chips: 200
+Wins: Lowu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Flop: Td Qd Jd
+Turn: 2c
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Bu, 7d 9d
+Combination: Bu, Flush ( Qd Jd Td 9d 7d )
+Shows: Lowu, 4h 5c
+Combination: Lowu, Pair ( Td Tc Qd Jd 5c )
+Wins: Bu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Folds: Bu
+Pot size: 300
+Boasts: Lowu, Kc Jd
+Wins: Lowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Flop: 6h Td Js
+Turn: Qs
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Bu, 3s 2c
+Combination: Bu, High Card ( Qs Js Td 7c 6h )
+Shows: Lowu, 3c 9d
+Combination: Lowu, High Card ( Qs Js Td 9d 7c )
+Wins: Bu, chips: 100
+Wins: Lowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Flop: 5c Kh 9d
+Turn: 5h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Bu, 6c 3d
+Combination: Bu, Pair ( 5c 5h As Kh 9d )
+Shows: Lowu, Qc Kd
+Combination: Lowu, Two Pair ( Kd Kh 5c 5h As )
+Wins: Lowu, chips: 300
+Quits: Bu, chips: 0
+Ranking: Lowu, Place: 1, Score: 1000
+Reveal AI: Lowu, AI: Random
+Ranking: Bu, Place: 2, Score: -1000
+Reveal AI: Bu, AI: AIMyBot1
+
+Player Stats for Bu, AI: AIMyBot1
+General: deals: 19, actions: 10, preflop actions: 10
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 8, showdown: 7, bluff: 1
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Lowu, AI: Random
+General: deals: 19, actions: 4, preflop actions: 4
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 15, showdown: 5, bluff: 10
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0.0526316, 3Bet: 0.0526316
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+
+Date: 2022/10/25 13:45:57
+
+The game begins. The AI's of the players are: 
+Bu: AIMyBot1
+Lowu: Random
+
+Joins: Bu, chips: 1000
+Joins: Lowu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Folds: Bu
+Pot size: 300
+Wins: Lowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Calls: Lowu
+DEBUG MESSAGE: INVALID ACTION FROM Bu (2 0)
+Folds: Bu
+Pot size: 400
+Wins: Lowu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Folds: Bu
+Pot size: 300
+Wins: Lowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Raises: Lowu, chips: 300
+Folds: Bu
+Pot size: 700
+Wins: Lowu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Folds: Bu
+Pot size: 300
+Boasts: Lowu, 8c 5c
+Wins: Lowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Folds: Lowu
+Pot size: 300
+Wins: Bu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Folds: Bu
+Pot size: 300
+Wins: Lowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Calls: Lowu
+DEBUG MESSAGE: INVALID ACTION FROM Bu (2 0)
+Folds: Bu
+Pot size: 400
+Wins: Lowu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Flop: 6h Jh Qs
+Turn: 4c
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Bu, 7c Jc
+Combination: Bu, Pair ( Jc Jh As Qs 7c )
+Shows: Lowu, 8d 4d
+Combination: Lowu, Pair ( 4d 4c As Qs Jh )
+Wins: Bu, chips: 200
+Wins: Lowu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Flop: 6s 9h Ac
+Turn: Kd
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Bu, Ah 2c
+Combination: Bu, Pair ( Ah Ac Kd Jd 9h )
+Shows: Lowu, 4c 5d
+Combination: Lowu, High Card ( Ac Kd Jd 9h 6s )
+Wins: Bu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Folds: Bu
+Pot size: 300
+Wins: Lowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Flop: Tc 4d Jc
+Turn: Kc
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Bu, Qh 3d
+Combination: Bu, Pair ( Qh Qs Kc Jc Tc )
+Shows: Lowu, 4h 6s
+Combination: Lowu, Pair ( 4h 4d Kc Qs Jc )
+Wins: Bu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Folds: Bu
+Pot size: 300
+Boasts: Lowu, 5h 8s
+Wins: Lowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Flop: Jd 9c 2s
+Turn: Kc
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Bu, 5s 5c
+Combination: Bu, Pair ( 5s 5c Kc Qc Jd )
+Shows: Lowu, Qs 2c
+Combination: Lowu, Two Pair ( Qs Qc 2c 2s Kc )
+Wins: Bu, chips: 100
+Wins: Lowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Flop: 7d 8s Tc
+Turn: 2h
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Bu, Th Qc
+Combination: Bu, Pair ( Th Tc Qc 9h 8s )
+Shows: Lowu, 8d 3h
+Combination: Lowu, Pair ( 8d 8s Tc 9h 7d )
+Wins: Bu, chips: 200
+Wins: Lowu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Flop: Td Qd Jd
+Turn: 2c
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Bu, 7d 9d
+Combination: Bu, Flush ( Qd Jd Td 9d 7d )
+Shows: Lowu, 4h 5c
+Combination: Lowu, Pair ( Td Tc Qd Jd 5c )
+Wins: Bu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Folds: Bu
+Pot size: 300
+Boasts: Lowu, Kc Jd
+Wins: Lowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowu
+Small Blind: Lowu, chips: 100
+Big Blind: Bu, chips: 200
+Flop: 6h Td Js
+Turn: Qs
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Bu, 3s 2c
+Combination: Bu, High Card ( Qs Js Td 7c 6h )
+Shows: Lowu, 3c 9d
+Combination: Lowu, High Card ( Qs Js Td 9d 7c )
+Wins: Bu, chips: 100
+Wins: Lowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Lowu, chips: 200
+Flop: 5c Kh 9d
+Turn: 5h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Bu, 6c 3d
+Combination: Bu, Pair ( 5c 5h As Kh 9d )
+Shows: Lowu, Qc Kd
+Combination: Lowu, Two Pair ( Kd Kh 5c 5h As )
+Wins: Lowu, chips: 300
+Quits: Bu, chips: 0
+Ranking: Lowu, Place: 1, Score: 1000
+Reveal AI: Lowu, AI: Random
+Ranking: Bu, Place: 2, Score: -1000
+Reveal AI: Bu, AI: AIMyBot1
+
+Player Stats for Bu, AI: AIMyBot1
+General: deals: 19, actions: 10, preflop actions: 10
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 8, showdown: 7, bluff: 1
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Lowu, AI: Random
+General: deals: 19, actions: 4, preflop actions: 4
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 15, showdown: 5, bluff: 10
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0.0526316, 3Bet: 0.0526316
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+

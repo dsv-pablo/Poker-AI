@@ -1,0 +1,228 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Karleeloetry: Random
+Wamoe: AIMyBot1
+
+Joins: Karleeloetry, chips: 1000
+Joins: Wamoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wamoe
+Small Blind: Wamoe, chips: 100
+Big Blind: Karleeloetry, chips: 200
+Folds: Wamoe
+Pot size: 300
+Wins: Karleeloetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Karleeloetry
+Small Blind: Karleeloetry, chips: 100
+Big Blind: Wamoe, chips: 200
+Calls: Karleeloetry
+DEBUG MESSAGE: INVALID ACTION FROM Wamoe (2 0)
+Folds: Wamoe
+Pot size: 400
+Boasts: Karleeloetry, 5s 6h
+Wins: Karleeloetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wamoe
+Small Blind: Wamoe, chips: 100
+Big Blind: Karleeloetry, chips: 200
+Folds: Wamoe
+Pot size: 300
+Boasts: Karleeloetry, 8s Td
+Wins: Karleeloetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Karleeloetry
+Small Blind: Karleeloetry, chips: 100
+Big Blind: Wamoe, chips: 200
+Calls: Karleeloetry
+DEBUG MESSAGE: INVALID ACTION FROM Wamoe (2 0)
+Folds: Wamoe
+Pot size: 400
+Boasts: Karleeloetry, Qd 7s
+Wins: Karleeloetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wamoe
+Small Blind: Wamoe, chips: 100
+Big Blind: Karleeloetry, chips: 200
+Folds: Wamoe
+Pot size: 300
+Boasts: Karleeloetry, 7c 8c
+Wins: Karleeloetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Karleeloetry
+Small Blind: Karleeloetry, chips: 100
+Big Blind: Wamoe, chips: 200
+Calls: Karleeloetry
+DEBUG MESSAGE: INVALID ACTION FROM Wamoe (2 0)
+Folds: Wamoe
+Pot size: 400
+Wins: Karleeloetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wamoe
+Small Blind: Wamoe, chips: 100
+Big Blind: Karleeloetry, chips: 200
+Flop: 5h Kc 3d
+Turn: 9h
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Karleeloetry, 4d Qh
+Combination: Karleeloetry, Pair ( Qh Qc Kc 9h 5h )
+Shows: Wamoe, Qd 4s
+Combination: Wamoe, Pair ( Qd Qc Kc 9h 5h )
+Wins: Karleeloetry, chips: 200
+Wins: Wamoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Karleeloetry
+Small Blind: Karleeloetry, chips: 100
+Big Blind: Wamoe, chips: 100
+Flop: 3c 7d Jh
+Turn: 4s
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Karleeloetry, Ks Jc
+Combination: Karleeloetry, Two Pair ( Jc Jh 7d 7h Ks )
+Shows: Wamoe, 2s 4d
+Combination: Wamoe, Two Pair ( 7d 7h 4d 4s Jh )
+Wins: Karleeloetry, chips: 200
+Quits: Wamoe, chips: 0
+Ranking: Karleeloetry, Place: 1, Score: 1000
+Reveal AI: Karleeloetry, AI: Random
+Ranking: Wamoe, Place: 2, Score: -1000
+Reveal AI: Wamoe, AI: AIMyBot1
+
+Player Stats for Karleeloetry, AI: Random
+General: deals: 8, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 2500, lost: 1500, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Wamoe, AI: AIMyBot1
+General: deals: 8, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 100, lost: 1100, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:46
+
+The game begins. The AI's of the players are: 
+Karleeloetry: Random
+Wamoe: AIMyBot1
+
+Joins: Karleeloetry, chips: 1000
+Joins: Wamoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wamoe
+Small Blind: Wamoe, chips: 100
+Big Blind: Karleeloetry, chips: 200
+Folds: Wamoe
+Pot size: 300
+Wins: Karleeloetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Karleeloetry
+Small Blind: Karleeloetry, chips: 100
+Big Blind: Wamoe, chips: 200
+Calls: Karleeloetry
+DEBUG MESSAGE: INVALID ACTION FROM Wamoe (2 0)
+Folds: Wamoe
+Pot size: 400
+Boasts: Karleeloetry, 5s 6h
+Wins: Karleeloetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wamoe
+Small Blind: Wamoe, chips: 100
+Big Blind: Karleeloetry, chips: 200
+Folds: Wamoe
+Pot size: 300
+Boasts: Karleeloetry, 8s Td
+Wins: Karleeloetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Karleeloetry
+Small Blind: Karleeloetry, chips: 100
+Big Blind: Wamoe, chips: 200
+Calls: Karleeloetry
+DEBUG MESSAGE: INVALID ACTION FROM Wamoe (2 0)
+Folds: Wamoe
+Pot size: 400
+Boasts: Karleeloetry, Qd 7s
+Wins: Karleeloetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wamoe
+Small Blind: Wamoe, chips: 100
+Big Blind: Karleeloetry, chips: 200
+Folds: Wamoe
+Pot size: 300
+Boasts: Karleeloetry, 7c 8c
+Wins: Karleeloetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Karleeloetry
+Small Blind: Karleeloetry, chips: 100
+Big Blind: Wamoe, chips: 200
+Calls: Karleeloetry
+DEBUG MESSAGE: INVALID ACTION FROM Wamoe (2 0)
+Folds: Wamoe
+Pot size: 400
+Wins: Karleeloetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wamoe
+Small Blind: Wamoe, chips: 100
+Big Blind: Karleeloetry, chips: 200
+Flop: 5h Kc 3d
+Turn: 9h
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Karleeloetry, 4d Qh
+Combination: Karleeloetry, Pair ( Qh Qc Kc 9h 5h )
+Shows: Wamoe, Qd 4s
+Combination: Wamoe, Pair ( Qd Qc Kc 9h 5h )
+Wins: Karleeloetry, chips: 200
+Wins: Wamoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Karleeloetry
+Small Blind: Karleeloetry, chips: 100
+Big Blind: Wamoe, chips: 100
+Flop: 3c 7d Jh
+Turn: 4s
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Karleeloetry, Ks Jc
+Combination: Karleeloetry, Two Pair ( Jc Jh 7d 7h Ks )
+Shows: Wamoe, 2s 4d
+Combination: Wamoe, Two Pair ( 7d 7h 4d 4s Jh )
+Wins: Karleeloetry, chips: 200
+Quits: Wamoe, chips: 0
+Ranking: Karleeloetry, Place: 1, Score: 1000
+Reveal AI: Karleeloetry, AI: Random
+Ranking: Wamoe, Place: 2, Score: -1000
+Reveal AI: Wamoe, AI: AIMyBot1
+
+Player Stats for Karleeloetry, AI: Random
+General: deals: 8, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 2500, lost: 1500, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Wamoe, AI: AIMyBot1
+General: deals: 8, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 100, lost: 1100, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

@@ -1,0 +1,364 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Choheebeen: Random
+Pivowre: AIMyBot1
+
+Joins: Choheebeen, chips: 1000
+Joins: Pivowre, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choheebeen
+Small Blind: Choheebeen, chips: 100
+Big Blind: Pivowre, chips: 200
+Calls: Choheebeen
+DEBUG MESSAGE: INVALID ACTION FROM Pivowre (2 0)
+Folds: Pivowre
+Pot size: 400
+Boasts: Choheebeen, Ad 9s
+Wins: Choheebeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pivowre
+Small Blind: Pivowre, chips: 100
+Big Blind: Choheebeen, chips: 200
+Folds: Pivowre
+Pot size: 300
+Wins: Choheebeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choheebeen
+Small Blind: Choheebeen, chips: 100
+Big Blind: Pivowre, chips: 200
+Calls: Choheebeen
+DEBUG MESSAGE: INVALID ACTION FROM Pivowre (2 0)
+Folds: Pivowre
+Pot size: 400
+Wins: Choheebeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pivowre
+Small Blind: Pivowre, chips: 100
+Big Blind: Choheebeen, chips: 200
+Folds: Pivowre
+Pot size: 300
+Wins: Choheebeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choheebeen
+Small Blind: Choheebeen, chips: 100
+Big Blind: Pivowre, chips: 200
+Raises: Choheebeen, chips: 300
+Folds: Pivowre
+Pot size: 700
+Wins: Choheebeen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pivowre
+Small Blind: Pivowre, chips: 100
+Big Blind: Choheebeen, chips: 200
+Folds: Pivowre
+Pot size: 300
+Boasts: Choheebeen, 7d 3h
+Wins: Choheebeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choheebeen
+Small Blind: Choheebeen, chips: 100
+Big Blind: Pivowre, chips: 100
+Flop: Kc 4h 3d
+Turn: Ts
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Choheebeen, 5s 5h
+Combination: Choheebeen, Two Pair ( 5s 5h 4h 4c Kc )
+Shows: Pivowre, Js Tc
+Combination: Pivowre, Two Pair ( Tc Ts 4h 4c Kc )
+Wins: Pivowre, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pivowre
+Small Blind: Pivowre, chips: 100
+Big Blind: Choheebeen, chips: 200
+Folds: Pivowre
+Pot size: 300
+Wins: Choheebeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choheebeen
+Small Blind: Choheebeen, chips: 100
+Big Blind: Pivowre, chips: 100
+Flop: Qh Th 7d
+Turn: Ac
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Choheebeen, 3d 7c
+Combination: Choheebeen, Pair ( 7c 7d Ac Qh Jh )
+Shows: Pivowre, Kd 5s
+Combination: Pivowre, Straight ( Ac Kd Qh Jh Th )
+Wins: Pivowre, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pivowre
+Small Blind: Pivowre, chips: 100
+Big Blind: Choheebeen, chips: 200
+Folds: Pivowre
+Pot size: 300
+Boasts: Choheebeen, 8h Qc
+Wins: Choheebeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choheebeen
+Small Blind: Choheebeen, chips: 100
+Big Blind: Pivowre, chips: 100
+Flop: 8h 9h 9c
+Turn: Th
+River: 9s
+Pot size: 200
+Showdown Reached
+Shows: Choheebeen, 8d Qs
+Combination: Choheebeen, Full House ( 9h 9c 9s 8d 8h )
+Shows: Pivowre, Ts 8c
+Combination: Pivowre, Full House ( 9h 9c 9s Ts Th )
+Wins: Pivowre, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pivowre
+Small Blind: Pivowre, chips: 100
+Big Blind: Choheebeen, chips: 200
+Folds: Pivowre
+Pot size: 300
+Wins: Choheebeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choheebeen
+Small Blind: Choheebeen, chips: 100
+Big Blind: Pivowre, chips: 100
+Flop: Ac Ks 2s
+Turn: 3d
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Choheebeen, 8s Ah
+Combination: Choheebeen, Pair ( Ah Ac Ks 8s 5s )
+Shows: Pivowre, Jh Ad
+Combination: Pivowre, Pair ( Ad Ac Ks Jh 5s )
+Wins: Pivowre, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pivowre
+Small Blind: Pivowre, chips: 100
+Big Blind: Choheebeen, chips: 200
+Folds: Pivowre
+Pot size: 300
+Boasts: Choheebeen, 4d Th
+Wins: Choheebeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choheebeen
+Small Blind: Choheebeen, chips: 100
+Big Blind: Pivowre, chips: 100
+Flop: Ah Ac Js
+Turn: 6c
+River: Qd
+Pot size: 200
+Showdown Reached
+Shows: Choheebeen, Tc Qs
+Combination: Choheebeen, Two Pair ( Ah Ac Qs Qd Js )
+Shows: Pivowre, Kh Jc
+Combination: Pivowre, Two Pair ( Ah Ac Jc Js Kh )
+Wins: Choheebeen, chips: 200
+Quits: Pivowre, chips: 0
+Ranking: Choheebeen, Place: 1, Score: 1000
+Reveal AI: Choheebeen, AI: Random
+Ranking: Pivowre, Place: 2, Score: -1000
+Reveal AI: Pivowre, AI: AIMyBot1
+
+Player Stats for Choheebeen, AI: Random
+General: deals: 15, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.2
+
+
+Player Stats for Pivowre, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Date: 2022/10/25 13:45:30
+
+The game begins. The AI's of the players are: 
+Choheebeen: Random
+Pivowre: AIMyBot1
+
+Joins: Choheebeen, chips: 1000
+Joins: Pivowre, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choheebeen
+Small Blind: Choheebeen, chips: 100
+Big Blind: Pivowre, chips: 200
+Calls: Choheebeen
+DEBUG MESSAGE: INVALID ACTION FROM Pivowre (2 0)
+Folds: Pivowre
+Pot size: 400
+Boasts: Choheebeen, Ad 9s
+Wins: Choheebeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pivowre
+Small Blind: Pivowre, chips: 100
+Big Blind: Choheebeen, chips: 200
+Folds: Pivowre
+Pot size: 300
+Wins: Choheebeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choheebeen
+Small Blind: Choheebeen, chips: 100
+Big Blind: Pivowre, chips: 200
+Calls: Choheebeen
+DEBUG MESSAGE: INVALID ACTION FROM Pivowre (2 0)
+Folds: Pivowre
+Pot size: 400
+Wins: Choheebeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pivowre
+Small Blind: Pivowre, chips: 100
+Big Blind: Choheebeen, chips: 200
+Folds: Pivowre
+Pot size: 300
+Wins: Choheebeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choheebeen
+Small Blind: Choheebeen, chips: 100
+Big Blind: Pivowre, chips: 200
+Raises: Choheebeen, chips: 300
+Folds: Pivowre
+Pot size: 700
+Wins: Choheebeen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pivowre
+Small Blind: Pivowre, chips: 100
+Big Blind: Choheebeen, chips: 200
+Folds: Pivowre
+Pot size: 300
+Boasts: Choheebeen, 7d 3h
+Wins: Choheebeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choheebeen
+Small Blind: Choheebeen, chips: 100
+Big Blind: Pivowre, chips: 100
+Flop: Kc 4h 3d
+Turn: Ts
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Choheebeen, 5s 5h
+Combination: Choheebeen, Two Pair ( 5s 5h 4h 4c Kc )
+Shows: Pivowre, Js Tc
+Combination: Pivowre, Two Pair ( Tc Ts 4h 4c Kc )
+Wins: Pivowre, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pivowre
+Small Blind: Pivowre, chips: 100
+Big Blind: Choheebeen, chips: 200
+Folds: Pivowre
+Pot size: 300
+Wins: Choheebeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choheebeen
+Small Blind: Choheebeen, chips: 100
+Big Blind: Pivowre, chips: 100
+Flop: Qh Th 7d
+Turn: Ac
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Choheebeen, 3d 7c
+Combination: Choheebeen, Pair ( 7c 7d Ac Qh Jh )
+Shows: Pivowre, Kd 5s
+Combination: Pivowre, Straight ( Ac Kd Qh Jh Th )
+Wins: Pivowre, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pivowre
+Small Blind: Pivowre, chips: 100
+Big Blind: Choheebeen, chips: 200
+Folds: Pivowre
+Pot size: 300
+Boasts: Choheebeen, 8h Qc
+Wins: Choheebeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choheebeen
+Small Blind: Choheebeen, chips: 100
+Big Blind: Pivowre, chips: 100
+Flop: 8h 9h 9c
+Turn: Th
+River: 9s
+Pot size: 200
+Showdown Reached
+Shows: Choheebeen, 8d Qs
+Combination: Choheebeen, Full House ( 9h 9c 9s 8d 8h )
+Shows: Pivowre, Ts 8c
+Combination: Pivowre, Full House ( 9h 9c 9s Ts Th )
+Wins: Pivowre, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pivowre
+Small Blind: Pivowre, chips: 100
+Big Blind: Choheebeen, chips: 200
+Folds: Pivowre
+Pot size: 300
+Wins: Choheebeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choheebeen
+Small Blind: Choheebeen, chips: 100
+Big Blind: Pivowre, chips: 100
+Flop: Ac Ks 2s
+Turn: 3d
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Choheebeen, 8s Ah
+Combination: Choheebeen, Pair ( Ah Ac Ks 8s 5s )
+Shows: Pivowre, Jh Ad
+Combination: Pivowre, Pair ( Ad Ac Ks Jh 5s )
+Wins: Pivowre, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pivowre
+Small Blind: Pivowre, chips: 100
+Big Blind: Choheebeen, chips: 200
+Folds: Pivowre
+Pot size: 300
+Boasts: Choheebeen, 4d Th
+Wins: Choheebeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choheebeen
+Small Blind: Choheebeen, chips: 100
+Big Blind: Pivowre, chips: 100
+Flop: Ah Ac Js
+Turn: 6c
+River: Qd
+Pot size: 200
+Showdown Reached
+Shows: Choheebeen, Tc Qs
+Combination: Choheebeen, Two Pair ( Ah Ac Qs Qd Js )
+Shows: Pivowre, Kh Jc
+Combination: Pivowre, Two Pair ( Ah Ac Jc Js Kh )
+Wins: Choheebeen, chips: 200
+Quits: Pivowre, chips: 0
+Ranking: Choheebeen, Place: 1, Score: 1000
+Reveal AI: Choheebeen, AI: Random
+Ranking: Pivowre, Place: 2, Score: -1000
+Reveal AI: Pivowre, AI: AIMyBot1
+
+Player Stats for Choheebeen, AI: Random
+General: deals: 15, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.2
+
+
+Player Stats for Pivowre, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+

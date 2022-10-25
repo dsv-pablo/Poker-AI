@@ -1,0 +1,490 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Koenhik: Random
+Veettanhe: AIMyBot1
+
+Joins: Koenhik, chips: 1000
+Joins: Veettanhe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Folds: Veettanhe
+Pot size: 300
+Wins: Koenhik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 200
+Calls: Koenhik
+DEBUG MESSAGE: INVALID ACTION FROM Veettanhe (2 0)
+Folds: Veettanhe
+Pot size: 400
+Wins: Koenhik, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Folds: Veettanhe
+Pot size: 300
+Boasts: Koenhik, 6c 3h
+Wins: Koenhik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 200
+Raises: Koenhik, chips: 300
+Folds: Veettanhe
+Pot size: 700
+Boasts: Koenhik, Ks Tc
+Wins: Koenhik, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Folds: Veettanhe
+Pot size: 300
+Wins: Koenhik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 200
+Raises: Koenhik, chips: 300
+Folds: Veettanhe
+Pot size: 700
+Wins: Koenhik, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Flop: 9c Kd 2d
+Turn: 3h
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Koenhik, Qc Kc
+Combination: Koenhik, Two Pair ( Kc Kd 3h 3s Qc )
+Shows: Veettanhe, 3d 9h
+Combination: Veettanhe, Full House ( 3d 3h 3s 9h 9c )
+Wins: Koenhik, chips: 100
+Wins: Veettanhe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 200
+Flop: 2h Kd Qd
+Turn: Ts
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Koenhik, Ac 4c
+Combination: Koenhik, High Card ( Ac Kd Qd Ts 5d )
+Shows: Veettanhe, 9d 5h
+Combination: Veettanhe, Pair ( 5h 5d Kd Qd Ts )
+Wins: Veettanhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Folds: Veettanhe
+Pot size: 300
+Wins: Koenhik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 200
+Flop: Th Ad 2s
+Turn: Kd
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Koenhik, Tc 6c
+Combination: Koenhik, Pair ( Tc Th Ad Kd 6c )
+Shows: Veettanhe, Ac 2h
+Combination: Veettanhe, Two Pair ( Ac Ad 2h 2s Kd )
+Wins: Veettanhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Folds: Veettanhe
+Pot size: 300
+Wins: Koenhik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 200
+Flop: Td Th Ah
+Turn: 2c
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Koenhik, 5d 7c
+Combination: Koenhik, Pair ( Td Th Ah Kd 7c )
+Shows: Veettanhe, 9h 9c
+Combination: Veettanhe, Two Pair ( Td Th 9h 9c Ah )
+Wins: Veettanhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Folds: Veettanhe
+Pot size: 300
+Wins: Koenhik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 200
+Flop: 2h Th 7s
+Turn: Jd
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Koenhik, 9s As
+Combination: Koenhik, High Card ( As Jd Th 9s 7s )
+Shows: Veettanhe, Ah 5h
+Combination: Veettanhe, Pair ( 5h 5s Ah Jd Th )
+Wins: Veettanhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Folds: Veettanhe
+Pot size: 300
+Wins: Koenhik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 200
+Flop: 4s 5h Kc
+Turn: Ah
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Koenhik, As 3h
+Combination: Koenhik, Two Pair ( As Ah 3h 3d Kc )
+Shows: Veettanhe, 6c 5c
+Combination: Veettanhe, Pair ( 5c 5h Ah Kc 6c )
+Wins: Koenhik, chips: 200
+Wins: Veettanhe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Flop: 9h 7d Jh
+Turn: 8c
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Koenhik, 4c 3s
+Combination: Koenhik, Pair ( 4c 4h Jh 9h 8c )
+Shows: Veettanhe, 2h 4d
+Combination: Veettanhe, Pair ( 4d 4h Jh 9h 8c )
+Wins: Koenhik, chips: 200
+Wins: Veettanhe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 100
+Flop: Ks Qd 5c
+Turn: 6h
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Koenhik, Jh 9s
+Combination: Koenhik, High Card ( Ks Qd Jh 9s 6h )
+Shows: Veettanhe, 4c 5d
+Combination: Veettanhe, Pair ( 5d 5c Ks Qd 6h )
+Wins: Veettanhe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Folds: Veettanhe
+Pot size: 300
+Wins: Koenhik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 100
+Flop: Ah 9s Td
+Turn: Th
+River: 6d
+Pot size: 200
+Showdown Reached
+Shows: Koenhik, 8c Qc
+Combination: Koenhik, Pair ( Td Th Ah Qc 9s )
+Shows: Veettanhe, 5h Js
+Combination: Veettanhe, Pair ( Td Th Ah Js 9s )
+Wins: Koenhik, chips: 200
+Quits: Veettanhe, chips: 0
+Ranking: Koenhik, Place: 1, Score: 1000
+Reveal AI: Koenhik, AI: Random
+Ranking: Veettanhe, Place: 2, Score: -1000
+Reveal AI: Veettanhe, AI: AIMyBot1
+
+Player Stats for Koenhik, AI: Random
+General: deals: 20, actions: 3, preflop actions: 3
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 15, showdown: 4, bluff: 11
+Chips: won: 4900, lost: 3900, bought: 1000, forced bets: 3000
+Pre-Flop Stats: VP$IP: 0.15, PFR: 0.1, 3Bet: 0.1
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.444444
+
+
+Player Stats for Veettanhe, AI: AIMyBot1
+General: deals: 20, actions: 11, preflop actions: 11
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Date: 2022/10/25 13:45:59
+
+The game begins. The AI's of the players are: 
+Koenhik: Random
+Veettanhe: AIMyBot1
+
+Joins: Koenhik, chips: 1000
+Joins: Veettanhe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Folds: Veettanhe
+Pot size: 300
+Wins: Koenhik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 200
+Calls: Koenhik
+DEBUG MESSAGE: INVALID ACTION FROM Veettanhe (2 0)
+Folds: Veettanhe
+Pot size: 400
+Wins: Koenhik, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Folds: Veettanhe
+Pot size: 300
+Boasts: Koenhik, 6c 3h
+Wins: Koenhik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 200
+Raises: Koenhik, chips: 300
+Folds: Veettanhe
+Pot size: 700
+Boasts: Koenhik, Ks Tc
+Wins: Koenhik, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Folds: Veettanhe
+Pot size: 300
+Wins: Koenhik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 200
+Raises: Koenhik, chips: 300
+Folds: Veettanhe
+Pot size: 700
+Wins: Koenhik, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Flop: 9c Kd 2d
+Turn: 3h
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Koenhik, Qc Kc
+Combination: Koenhik, Two Pair ( Kc Kd 3h 3s Qc )
+Shows: Veettanhe, 3d 9h
+Combination: Veettanhe, Full House ( 3d 3h 3s 9h 9c )
+Wins: Koenhik, chips: 100
+Wins: Veettanhe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 200
+Flop: 2h Kd Qd
+Turn: Ts
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Koenhik, Ac 4c
+Combination: Koenhik, High Card ( Ac Kd Qd Ts 5d )
+Shows: Veettanhe, 9d 5h
+Combination: Veettanhe, Pair ( 5h 5d Kd Qd Ts )
+Wins: Veettanhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Folds: Veettanhe
+Pot size: 300
+Wins: Koenhik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 200
+Flop: Th Ad 2s
+Turn: Kd
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Koenhik, Tc 6c
+Combination: Koenhik, Pair ( Tc Th Ad Kd 6c )
+Shows: Veettanhe, Ac 2h
+Combination: Veettanhe, Two Pair ( Ac Ad 2h 2s Kd )
+Wins: Veettanhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Folds: Veettanhe
+Pot size: 300
+Wins: Koenhik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 200
+Flop: Td Th Ah
+Turn: 2c
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Koenhik, 5d 7c
+Combination: Koenhik, Pair ( Td Th Ah Kd 7c )
+Shows: Veettanhe, 9h 9c
+Combination: Veettanhe, Two Pair ( Td Th 9h 9c Ah )
+Wins: Veettanhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Folds: Veettanhe
+Pot size: 300
+Wins: Koenhik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 200
+Flop: 2h Th 7s
+Turn: Jd
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Koenhik, 9s As
+Combination: Koenhik, High Card ( As Jd Th 9s 7s )
+Shows: Veettanhe, Ah 5h
+Combination: Veettanhe, Pair ( 5h 5s Ah Jd Th )
+Wins: Veettanhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Folds: Veettanhe
+Pot size: 300
+Wins: Koenhik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 200
+Flop: 4s 5h Kc
+Turn: Ah
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Koenhik, As 3h
+Combination: Koenhik, Two Pair ( As Ah 3h 3d Kc )
+Shows: Veettanhe, 6c 5c
+Combination: Veettanhe, Pair ( 5c 5h Ah Kc 6c )
+Wins: Koenhik, chips: 200
+Wins: Veettanhe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Flop: 9h 7d Jh
+Turn: 8c
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Koenhik, 4c 3s
+Combination: Koenhik, Pair ( 4c 4h Jh 9h 8c )
+Shows: Veettanhe, 2h 4d
+Combination: Veettanhe, Pair ( 4d 4h Jh 9h 8c )
+Wins: Koenhik, chips: 200
+Wins: Veettanhe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 100
+Flop: Ks Qd 5c
+Turn: 6h
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Koenhik, Jh 9s
+Combination: Koenhik, High Card ( Ks Qd Jh 9s 6h )
+Shows: Veettanhe, 4c 5d
+Combination: Veettanhe, Pair ( 5d 5c Ks Qd 6h )
+Wins: Veettanhe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veettanhe
+Small Blind: Veettanhe, chips: 100
+Big Blind: Koenhik, chips: 200
+Folds: Veettanhe
+Pot size: 300
+Wins: Koenhik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenhik
+Small Blind: Koenhik, chips: 100
+Big Blind: Veettanhe, chips: 100
+Flop: Ah 9s Td
+Turn: Th
+River: 6d
+Pot size: 200
+Showdown Reached
+Shows: Koenhik, 8c Qc
+Combination: Koenhik, Pair ( Td Th Ah Qc 9s )
+Shows: Veettanhe, 5h Js
+Combination: Veettanhe, Pair ( Td Th Ah Js 9s )
+Wins: Koenhik, chips: 200
+Quits: Veettanhe, chips: 0
+Ranking: Koenhik, Place: 1, Score: 1000
+Reveal AI: Koenhik, AI: Random
+Ranking: Veettanhe, Place: 2, Score: -1000
+Reveal AI: Veettanhe, AI: AIMyBot1
+
+Player Stats for Koenhik, AI: Random
+General: deals: 20, actions: 3, preflop actions: 3
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 15, showdown: 4, bluff: 11
+Chips: won: 4900, lost: 3900, bought: 1000, forced bets: 3000
+Pre-Flop Stats: VP$IP: 0.15, PFR: 0.1, 3Bet: 0.1
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.444444
+
+
+Player Stats for Veettanhe, AI: AIMyBot1
+General: deals: 20, actions: 11, preflop actions: 11
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+

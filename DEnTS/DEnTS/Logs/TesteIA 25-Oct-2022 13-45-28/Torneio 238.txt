@@ -1,0 +1,226 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jotta: AIMyBot1
+Miwremoef: Random
+
+Joins: Jotta, chips: 1000
+Joins: Miwremoef, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jotta
+Small Blind: Jotta, chips: 100
+Big Blind: Miwremoef, chips: 200
+Folds: Jotta
+Pot size: 300
+Boasts: Miwremoef, 5s Js
+Wins: Miwremoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwremoef
+Small Blind: Miwremoef, chips: 100
+Big Blind: Jotta, chips: 200
+Calls: Miwremoef
+DEBUG MESSAGE: INVALID ACTION FROM Jotta (2 0)
+Folds: Jotta
+Pot size: 400
+Boasts: Miwremoef, 4d 3c
+Wins: Miwremoef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jotta
+Small Blind: Jotta, chips: 100
+Big Blind: Miwremoef, chips: 200
+Folds: Jotta
+Pot size: 300
+Boasts: Miwremoef, Th Ad
+Wins: Miwremoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwremoef
+Small Blind: Miwremoef, chips: 100
+Big Blind: Jotta, chips: 200
+Folds: Miwremoef
+Pot size: 300
+Wins: Jotta, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jotta
+Small Blind: Jotta, chips: 100
+Big Blind: Miwremoef, chips: 200
+Folds: Jotta
+Pot size: 300
+Wins: Miwremoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwremoef
+Small Blind: Miwremoef, chips: 100
+Big Blind: Jotta, chips: 200
+Calls: Miwremoef
+DEBUG MESSAGE: INVALID ACTION FROM Jotta (2 0)
+Folds: Jotta
+Pot size: 400
+Boasts: Miwremoef, Jc 6d
+Wins: Miwremoef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jotta
+Small Blind: Jotta, chips: 100
+Big Blind: Miwremoef, chips: 200
+Folds: Jotta
+Pot size: 300
+Wins: Miwremoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwremoef
+Small Blind: Miwremoef, chips: 100
+Big Blind: Jotta, chips: 200
+Raises: Miwremoef, chips: 300
+Folds: Jotta
+Pot size: 700
+Boasts: Miwremoef, Jd Kh
+Wins: Miwremoef, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jotta
+Small Blind: Jotta, chips: 100
+Big Blind: Miwremoef, chips: 200
+Flop: 4d Kc 5d
+Turn: 2h
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Jotta, 3c 7c
+Combination: Jotta, High Card ( Kc Qd 7c 5d 4d )
+Shows: Miwremoef, Jh 7d
+Combination: Miwremoef, High Card ( Kc Qd Jh 7d 5d )
+Wins: Miwremoef, chips: 300
+Quits: Jotta, chips: 0
+Ranking: Miwremoef, Place: 1, Score: 1000
+Reveal AI: Miwremoef, AI: Random
+Ranking: Jotta, Place: 2, Score: -1000
+Reveal AI: Jotta, AI: AIMyBot1
+
+Player Stats for Jotta, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Miwremoef, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:45
+
+The game begins. The AI's of the players are: 
+Jotta: AIMyBot1
+Miwremoef: Random
+
+Joins: Jotta, chips: 1000
+Joins: Miwremoef, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jotta
+Small Blind: Jotta, chips: 100
+Big Blind: Miwremoef, chips: 200
+Folds: Jotta
+Pot size: 300
+Boasts: Miwremoef, 5s Js
+Wins: Miwremoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwremoef
+Small Blind: Miwremoef, chips: 100
+Big Blind: Jotta, chips: 200
+Calls: Miwremoef
+DEBUG MESSAGE: INVALID ACTION FROM Jotta (2 0)
+Folds: Jotta
+Pot size: 400
+Boasts: Miwremoef, 4d 3c
+Wins: Miwremoef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jotta
+Small Blind: Jotta, chips: 100
+Big Blind: Miwremoef, chips: 200
+Folds: Jotta
+Pot size: 300
+Boasts: Miwremoef, Th Ad
+Wins: Miwremoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwremoef
+Small Blind: Miwremoef, chips: 100
+Big Blind: Jotta, chips: 200
+Folds: Miwremoef
+Pot size: 300
+Wins: Jotta, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jotta
+Small Blind: Jotta, chips: 100
+Big Blind: Miwremoef, chips: 200
+Folds: Jotta
+Pot size: 300
+Wins: Miwremoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwremoef
+Small Blind: Miwremoef, chips: 100
+Big Blind: Jotta, chips: 200
+Calls: Miwremoef
+DEBUG MESSAGE: INVALID ACTION FROM Jotta (2 0)
+Folds: Jotta
+Pot size: 400
+Boasts: Miwremoef, Jc 6d
+Wins: Miwremoef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jotta
+Small Blind: Jotta, chips: 100
+Big Blind: Miwremoef, chips: 200
+Folds: Jotta
+Pot size: 300
+Wins: Miwremoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwremoef
+Small Blind: Miwremoef, chips: 100
+Big Blind: Jotta, chips: 200
+Raises: Miwremoef, chips: 300
+Folds: Jotta
+Pot size: 700
+Boasts: Miwremoef, Jd Kh
+Wins: Miwremoef, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jotta
+Small Blind: Jotta, chips: 100
+Big Blind: Miwremoef, chips: 200
+Flop: 4d Kc 5d
+Turn: 2h
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Jotta, 3c 7c
+Combination: Jotta, High Card ( Kc Qd 7c 5d 4d )
+Shows: Miwremoef, Jh 7d
+Combination: Miwremoef, High Card ( Kc Qd Jh 7d 5d )
+Wins: Miwremoef, chips: 300
+Quits: Jotta, chips: 0
+Ranking: Miwremoef, Place: 1, Score: 1000
+Reveal AI: Miwremoef, AI: Random
+Ranking: Jotta, Place: 2, Score: -1000
+Reveal AI: Jotta, AI: AIMyBot1
+
+Player Stats for Jotta, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Miwremoef, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

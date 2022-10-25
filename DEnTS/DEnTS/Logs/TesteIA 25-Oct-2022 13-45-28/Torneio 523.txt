@@ -1,0 +1,372 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Doegi: AIMyBot1
+Boeso: Random
+
+Joins: Doegi, chips: 1000
+Joins: Boeso, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boeso
+Small Blind: Boeso, chips: 100
+Big Blind: Doegi, chips: 200
+Raises: Boeso, chips: 300
+Folds: Doegi
+Pot size: 700
+Boasts: Boeso, 9c Ks
+Wins: Boeso, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doegi
+Small Blind: Doegi, chips: 100
+Big Blind: Boeso, chips: 200
+Folds: Doegi
+Pot size: 300
+Boasts: Boeso, Qs Ks
+Wins: Boeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boeso
+Small Blind: Boeso, chips: 100
+Big Blind: Doegi, chips: 200
+Calls: Boeso
+DEBUG MESSAGE: INVALID ACTION FROM Doegi (2 0)
+Folds: Doegi
+Pot size: 400
+Boasts: Boeso, Jh Kc
+Wins: Boeso, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doegi
+Small Blind: Doegi, chips: 100
+Big Blind: Boeso, chips: 200
+Folds: Doegi
+Pot size: 300
+Boasts: Boeso, 9s 5c
+Wins: Boeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boeso
+Small Blind: Boeso, chips: 100
+Big Blind: Doegi, chips: 200
+Calls: Boeso
+DEBUG MESSAGE: INVALID ACTION FROM Doegi (2 0)
+Folds: Doegi
+Pot size: 400
+Boasts: Boeso, Jd Jc
+Wins: Boeso, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doegi
+Small Blind: Doegi, chips: 100
+Big Blind: Boeso, chips: 200
+Folds: Doegi
+Pot size: 300
+Boasts: Boeso, 3h 7d
+Wins: Boeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boeso
+Small Blind: Boeso, chips: 100
+Big Blind: Doegi, chips: 100
+Flop: Qd Kd 2h
+Turn: 6c
+River: 7s
+Pot size: 200
+Showdown Reached
+Shows: Doegi, 8h 8d
+Combination: Doegi, Pair ( 8h 8d Kd Qd 7s )
+Shows: Boeso, 8c Jd
+Combination: Boeso, High Card ( Kd Qd Jd 8c 7s )
+Wins: Doegi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doegi
+Small Blind: Doegi, chips: 100
+Big Blind: Boeso, chips: 200
+Folds: Doegi
+Pot size: 300
+Boasts: Boeso, 9h As
+Wins: Boeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boeso
+Small Blind: Boeso, chips: 100
+Big Blind: Doegi, chips: 100
+Flop: 5c Qh 4c
+Turn: 4h
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Doegi, Ac Kd
+Combination: Doegi, Pair ( 4c 4h Ac Kd Qh )
+Shows: Boeso, 6s 9d
+Combination: Boeso, Pair ( 4c 4h Qh 9d 7c )
+Wins: Doegi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doegi
+Small Blind: Doegi, chips: 100
+Big Blind: Boeso, chips: 200
+Folds: Doegi
+Pot size: 300
+Boasts: Boeso, 8c Qs
+Wins: Boeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boeso
+Small Blind: Boeso, chips: 100
+Big Blind: Doegi, chips: 100
+Flop: Kc 4c Ah
+Turn: 3s
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Doegi, Th As
+Combination: Doegi, Two Pair ( As Ah 4c 4d Kc )
+Shows: Boeso, Js 2d
+Combination: Boeso, Pair ( 4c 4d Ah Kc Js )
+Wins: Doegi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doegi
+Small Blind: Doegi, chips: 100
+Big Blind: Boeso, chips: 200
+Folds: Doegi
+Pot size: 300
+Wins: Boeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boeso
+Small Blind: Boeso, chips: 100
+Big Blind: Doegi, chips: 100
+Flop: 8h 4s 5c
+Turn: Kd
+River: Qs
+Pot size: 200
+Showdown Reached
+Shows: Doegi, 9c 5s
+Combination: Doegi, Pair ( 5s 5c Kd Qs 9c )
+Shows: Boeso, 3h 7d
+Combination: Boeso, High Card ( Kd Qs 8h 7d 5c )
+Wins: Doegi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doegi
+Small Blind: Doegi, chips: 100
+Big Blind: Boeso, chips: 200
+Folds: Doegi
+Pot size: 300
+Wins: Boeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boeso
+Small Blind: Boeso, chips: 100
+Big Blind: Doegi, chips: 100
+Flop: 9h Qs 8s
+Turn: Td
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Doegi, 2d 2c
+Combination: Doegi, Pair ( 2d 2c Qs Td 9h )
+Shows: Boeso, As 4c
+Combination: Boeso, Pair ( 4c 4h As Qs Td )
+Wins: Boeso, chips: 200
+Quits: Doegi, chips: 0
+Ranking: Boeso, Place: 1, Score: 1000
+Reveal AI: Boeso, AI: Random
+Ranking: Doegi, Place: 2, Score: -1000
+Reveal AI: Doegi, AI: AIMyBot1
+
+Player Stats for Boeso, AI: Random
+General: deals: 15, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.2
+
+
+Player Stats for Doegi, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Date: 2022/10/25 13:46:04
+
+The game begins. The AI's of the players are: 
+Doegi: AIMyBot1
+Boeso: Random
+
+Joins: Doegi, chips: 1000
+Joins: Boeso, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boeso
+Small Blind: Boeso, chips: 100
+Big Blind: Doegi, chips: 200
+Raises: Boeso, chips: 300
+Folds: Doegi
+Pot size: 700
+Boasts: Boeso, 9c Ks
+Wins: Boeso, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doegi
+Small Blind: Doegi, chips: 100
+Big Blind: Boeso, chips: 200
+Folds: Doegi
+Pot size: 300
+Boasts: Boeso, Qs Ks
+Wins: Boeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boeso
+Small Blind: Boeso, chips: 100
+Big Blind: Doegi, chips: 200
+Calls: Boeso
+DEBUG MESSAGE: INVALID ACTION FROM Doegi (2 0)
+Folds: Doegi
+Pot size: 400
+Boasts: Boeso, Jh Kc
+Wins: Boeso, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doegi
+Small Blind: Doegi, chips: 100
+Big Blind: Boeso, chips: 200
+Folds: Doegi
+Pot size: 300
+Boasts: Boeso, 9s 5c
+Wins: Boeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boeso
+Small Blind: Boeso, chips: 100
+Big Blind: Doegi, chips: 200
+Calls: Boeso
+DEBUG MESSAGE: INVALID ACTION FROM Doegi (2 0)
+Folds: Doegi
+Pot size: 400
+Boasts: Boeso, Jd Jc
+Wins: Boeso, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doegi
+Small Blind: Doegi, chips: 100
+Big Blind: Boeso, chips: 200
+Folds: Doegi
+Pot size: 300
+Boasts: Boeso, 3h 7d
+Wins: Boeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boeso
+Small Blind: Boeso, chips: 100
+Big Blind: Doegi, chips: 100
+Flop: Qd Kd 2h
+Turn: 6c
+River: 7s
+Pot size: 200
+Showdown Reached
+Shows: Doegi, 8h 8d
+Combination: Doegi, Pair ( 8h 8d Kd Qd 7s )
+Shows: Boeso, 8c Jd
+Combination: Boeso, High Card ( Kd Qd Jd 8c 7s )
+Wins: Doegi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doegi
+Small Blind: Doegi, chips: 100
+Big Blind: Boeso, chips: 200
+Folds: Doegi
+Pot size: 300
+Boasts: Boeso, 9h As
+Wins: Boeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boeso
+Small Blind: Boeso, chips: 100
+Big Blind: Doegi, chips: 100
+Flop: 5c Qh 4c
+Turn: 4h
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Doegi, Ac Kd
+Combination: Doegi, Pair ( 4c 4h Ac Kd Qh )
+Shows: Boeso, 6s 9d
+Combination: Boeso, Pair ( 4c 4h Qh 9d 7c )
+Wins: Doegi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doegi
+Small Blind: Doegi, chips: 100
+Big Blind: Boeso, chips: 200
+Folds: Doegi
+Pot size: 300
+Boasts: Boeso, 8c Qs
+Wins: Boeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boeso
+Small Blind: Boeso, chips: 100
+Big Blind: Doegi, chips: 100
+Flop: Kc 4c Ah
+Turn: 3s
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Doegi, Th As
+Combination: Doegi, Two Pair ( As Ah 4c 4d Kc )
+Shows: Boeso, Js 2d
+Combination: Boeso, Pair ( 4c 4d Ah Kc Js )
+Wins: Doegi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doegi
+Small Blind: Doegi, chips: 100
+Big Blind: Boeso, chips: 200
+Folds: Doegi
+Pot size: 300
+Wins: Boeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boeso
+Small Blind: Boeso, chips: 100
+Big Blind: Doegi, chips: 100
+Flop: 8h 4s 5c
+Turn: Kd
+River: Qs
+Pot size: 200
+Showdown Reached
+Shows: Doegi, 9c 5s
+Combination: Doegi, Pair ( 5s 5c Kd Qs 9c )
+Shows: Boeso, 3h 7d
+Combination: Boeso, High Card ( Kd Qs 8h 7d 5c )
+Wins: Doegi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doegi
+Small Blind: Doegi, chips: 100
+Big Blind: Boeso, chips: 200
+Folds: Doegi
+Pot size: 300
+Wins: Boeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boeso
+Small Blind: Boeso, chips: 100
+Big Blind: Doegi, chips: 100
+Flop: 9h Qs 8s
+Turn: Td
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Doegi, 2d 2c
+Combination: Doegi, Pair ( 2d 2c Qs Td 9h )
+Shows: Boeso, As 4c
+Combination: Boeso, Pair ( 4c 4h As Qs Td )
+Wins: Boeso, chips: 200
+Quits: Doegi, chips: 0
+Ranking: Boeso, Place: 1, Score: 1000
+Reveal AI: Boeso, AI: Random
+Ranking: Doegi, Place: 2, Score: -1000
+Reveal AI: Doegi, AI: AIMyBot1
+
+Player Stats for Boeso, AI: Random
+General: deals: 15, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.2
+
+
+Player Stats for Doegi, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+

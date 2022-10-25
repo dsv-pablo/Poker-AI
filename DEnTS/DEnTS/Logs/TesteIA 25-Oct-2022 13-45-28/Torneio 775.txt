@@ -1,0 +1,258 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jeewoe: Random
+Howri: AIMyBot1
+
+Joins: Jeewoe, chips: 1000
+Joins: Howri, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeewoe
+Small Blind: Jeewoe, chips: 100
+Big Blind: Howri, chips: 200
+Folds: Jeewoe
+Pot size: 300
+Boasts: Jeewoe, 6h Jc
+Wins: Howri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Howri
+Small Blind: Howri, chips: 100
+Big Blind: Jeewoe, chips: 200
+Folds: Howri
+Pot size: 300
+Boasts: Jeewoe, Ts 6c
+Wins: Jeewoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeewoe
+Small Blind: Jeewoe, chips: 100
+Big Blind: Howri, chips: 200
+Calls: Jeewoe
+DEBUG MESSAGE: INVALID ACTION FROM Howri (2 0)
+Folds: Howri
+Pot size: 400
+Wins: Jeewoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Howri
+Small Blind: Howri, chips: 100
+Big Blind: Jeewoe, chips: 200
+Folds: Howri
+Pot size: 300
+Boasts: Jeewoe, 7h 2c
+Wins: Jeewoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeewoe
+Small Blind: Jeewoe, chips: 100
+Big Blind: Howri, chips: 200
+Folds: Jeewoe
+Pot size: 300
+Boasts: Jeewoe, 4s 3c
+Wins: Howri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Howri
+Small Blind: Howri, chips: 100
+Big Blind: Jeewoe, chips: 200
+Folds: Howri
+Pot size: 300
+Boasts: Jeewoe, 6h 9h
+Wins: Jeewoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeewoe
+Small Blind: Jeewoe, chips: 100
+Big Blind: Howri, chips: 200
+Calls: Jeewoe
+DEBUG MESSAGE: INVALID ACTION FROM Howri (2 0)
+Folds: Howri
+Pot size: 400
+Wins: Jeewoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Howri
+Small Blind: Howri, chips: 100
+Big Blind: Jeewoe, chips: 200
+Folds: Howri
+Pot size: 300
+Wins: Jeewoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeewoe
+Small Blind: Jeewoe, chips: 100
+Big Blind: Howri, chips: 200
+Calls: Jeewoe
+DEBUG MESSAGE: INVALID ACTION FROM Howri (2 0)
+Folds: Howri
+Pot size: 400
+Boasts: Jeewoe, 2h 2s
+Wins: Jeewoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Howri
+Small Blind: Howri, chips: 100
+Big Blind: Jeewoe, chips: 200
+Folds: Howri
+Pot size: 300
+Wins: Jeewoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeewoe
+Small Blind: Jeewoe, chips: 100
+Big Blind: Howri, chips: 100
+Flop: 2s 5s Kc
+Turn: Ks
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Jeewoe, 5c Jc
+Combination: Jeewoe, Two Pair ( Kc Ks 5c 5s Jc )
+Shows: Howri, 7d 6s
+Combination: Howri, Pair ( Kc Ks 7d 6s 5s )
+Wins: Jeewoe, chips: 200
+Quits: Howri, chips: 0
+Ranking: Jeewoe, Place: 1, Score: 1000
+Reveal AI: Jeewoe, AI: Random
+Ranking: Howri, Place: 2, Score: -1000
+Reveal AI: Howri, AI: AIMyBot1
+
+Player Stats for Howri, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Jeewoe, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:21
+
+The game begins. The AI's of the players are: 
+Jeewoe: Random
+Howri: AIMyBot1
+
+Joins: Jeewoe, chips: 1000
+Joins: Howri, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeewoe
+Small Blind: Jeewoe, chips: 100
+Big Blind: Howri, chips: 200
+Folds: Jeewoe
+Pot size: 300
+Boasts: Jeewoe, 6h Jc
+Wins: Howri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Howri
+Small Blind: Howri, chips: 100
+Big Blind: Jeewoe, chips: 200
+Folds: Howri
+Pot size: 300
+Boasts: Jeewoe, Ts 6c
+Wins: Jeewoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeewoe
+Small Blind: Jeewoe, chips: 100
+Big Blind: Howri, chips: 200
+Calls: Jeewoe
+DEBUG MESSAGE: INVALID ACTION FROM Howri (2 0)
+Folds: Howri
+Pot size: 400
+Wins: Jeewoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Howri
+Small Blind: Howri, chips: 100
+Big Blind: Jeewoe, chips: 200
+Folds: Howri
+Pot size: 300
+Boasts: Jeewoe, 7h 2c
+Wins: Jeewoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeewoe
+Small Blind: Jeewoe, chips: 100
+Big Blind: Howri, chips: 200
+Folds: Jeewoe
+Pot size: 300
+Boasts: Jeewoe, 4s 3c
+Wins: Howri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Howri
+Small Blind: Howri, chips: 100
+Big Blind: Jeewoe, chips: 200
+Folds: Howri
+Pot size: 300
+Boasts: Jeewoe, 6h 9h
+Wins: Jeewoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeewoe
+Small Blind: Jeewoe, chips: 100
+Big Blind: Howri, chips: 200
+Calls: Jeewoe
+DEBUG MESSAGE: INVALID ACTION FROM Howri (2 0)
+Folds: Howri
+Pot size: 400
+Wins: Jeewoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Howri
+Small Blind: Howri, chips: 100
+Big Blind: Jeewoe, chips: 200
+Folds: Howri
+Pot size: 300
+Wins: Jeewoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeewoe
+Small Blind: Jeewoe, chips: 100
+Big Blind: Howri, chips: 200
+Calls: Jeewoe
+DEBUG MESSAGE: INVALID ACTION FROM Howri (2 0)
+Folds: Howri
+Pot size: 400
+Boasts: Jeewoe, 2h 2s
+Wins: Jeewoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Howri
+Small Blind: Howri, chips: 100
+Big Blind: Jeewoe, chips: 200
+Folds: Howri
+Pot size: 300
+Wins: Jeewoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeewoe
+Small Blind: Jeewoe, chips: 100
+Big Blind: Howri, chips: 100
+Flop: 2s 5s Kc
+Turn: Ks
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Jeewoe, 5c Jc
+Combination: Jeewoe, Two Pair ( Kc Ks 5c 5s Jc )
+Shows: Howri, 7d 6s
+Combination: Howri, Pair ( Kc Ks 7d 6s 5s )
+Wins: Jeewoe, chips: 200
+Quits: Howri, chips: 0
+Ranking: Jeewoe, Place: 1, Score: 1000
+Reveal AI: Jeewoe, AI: Random
+Ranking: Howri, Place: 2, Score: -1000
+Reveal AI: Howri, AI: AIMyBot1
+
+Player Stats for Howri, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Jeewoe, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

@@ -1,0 +1,418 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Medivul: Random
+Namom: AIMyBot1
+
+Joins: Medivul, chips: 1000
+Joins: Namom, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Namom
+Small Blind: Namom, chips: 100
+Big Blind: Medivul, chips: 200
+Folds: Namom
+Pot size: 300
+Boasts: Medivul, 2d 6c
+Wins: Medivul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Medivul
+Small Blind: Medivul, chips: 100
+Big Blind: Namom, chips: 200
+Raises: Medivul, chips: 300
+Folds: Namom
+Pot size: 700
+Boasts: Medivul, 8c Qd
+Wins: Medivul, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Namom
+Small Blind: Namom, chips: 100
+Big Blind: Medivul, chips: 200
+Folds: Namom
+Pot size: 300
+Wins: Medivul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Medivul
+Small Blind: Medivul, chips: 100
+Big Blind: Namom, chips: 200
+Calls: Medivul
+DEBUG MESSAGE: INVALID ACTION FROM Namom (2 0)
+Folds: Namom
+Pot size: 400
+Boasts: Medivul, 8c 8d
+Wins: Medivul, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Namom
+Small Blind: Namom, chips: 100
+Big Blind: Medivul, chips: 200
+Folds: Namom
+Pot size: 300
+Wins: Medivul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Medivul
+Small Blind: Medivul, chips: 100
+Big Blind: Namom, chips: 200
+Calls: Medivul
+DEBUG MESSAGE: INVALID ACTION FROM Namom (2 0)
+Folds: Namom
+Pot size: 400
+Boasts: Medivul, 8h 6d
+Wins: Medivul, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Namom
+Small Blind: Namom, chips: 100
+Big Blind: Medivul, chips: 200
+Flop: 8h 7h 8d
+Turn: 8c
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Medivul, 2h 4c
+Combination: Medivul, Three Of A Kind ( 8h 8d 8c 7h 4c )
+Shows: Namom, Qh 6h
+Combination: Namom, Flush ( Qh 8h 7h 6h 3h )
+Wins: Medivul, chips: 100
+Wins: Namom, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Medivul
+Small Blind: Medivul, chips: 100
+Big Blind: Namom, chips: 200
+Flop: 7h 5d Qc
+Turn: 6s
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Medivul, 4c 9h
+Combination: Medivul, High Card ( Qc 9h 7h 6s 5d )
+Shows: Namom, Qh 8c
+Combination: Namom, Pair ( Qh Qc 8c 7h 6s )
+Wins: Namom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Namom
+Small Blind: Namom, chips: 100
+Big Blind: Medivul, chips: 200
+Folds: Namom
+Pot size: 300
+Wins: Medivul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Medivul
+Small Blind: Medivul, chips: 100
+Big Blind: Namom, chips: 200
+Flop: Ks 5c Ac
+Turn: 3h
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Medivul, 3d Jc
+Combination: Medivul, Pair ( 3d 3h Ac Ks Jc )
+Shows: Namom, 7h 6s
+Combination: Namom, High Card ( Ac Ks 7h 6s 5c )
+Wins: Medivul, chips: 200
+Wins: Namom, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Namom
+Small Blind: Namom, chips: 100
+Big Blind: Medivul, chips: 200
+Flop: Jd 3s Th
+Turn: 8s
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Medivul, 3c Qh
+Combination: Medivul, Pair ( 3c 3s Qh Jd Th )
+Shows: Namom, 4d 8d
+Combination: Namom, Pair ( 8d 8s Jd Th 6c )
+Wins: Medivul, chips: 100
+Wins: Namom, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Medivul
+Small Blind: Medivul, chips: 100
+Big Blind: Namom, chips: 200
+Flop: Ts 5d 7d
+Turn: 9d
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Medivul, 3c Ad
+Combination: Medivul, Pair ( 9d 9c Ad Ts 7d )
+Shows: Namom, 4c 2c
+Combination: Namom, Pair ( 9d 9c Ts 7d 5d )
+Wins: Medivul, chips: 200
+Wins: Namom, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Namom
+Small Blind: Namom, chips: 100
+Big Blind: Medivul, chips: 200
+Flop: 2c 8d Jc
+Turn: Qs
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Medivul, Qh Kd
+Combination: Medivul, Two Pair ( Qh Qs 8d 8s Kd )
+Shows: Namom, 8c Js
+Combination: Namom, Full House ( 8c 8d 8s Js Jc )
+Wins: Medivul, chips: 100
+Wins: Namom, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Medivul
+Small Blind: Medivul, chips: 100
+Big Blind: Namom, chips: 200
+Flop: Ad 7s 5d
+Turn: 8h
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Medivul, Kc 7h
+Combination: Medivul, Pair ( 7h 7s Ad Kc Ts )
+Shows: Namom, 5h Qc
+Combination: Namom, Pair ( 5h 5d Ad Qc Ts )
+Wins: Medivul, chips: 200
+Wins: Namom, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Namom
+Small Blind: Namom, chips: 100
+Big Blind: Medivul, chips: 200
+Flop: Ks 8s 6h
+Turn: 2d
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Medivul, 2h 7c
+Combination: Medivul, Three Of A Kind ( 2h 2d 2s Ks 8s )
+Shows: Namom, Td Js
+Combination: Namom, Pair ( 2d 2s Ks Js Td )
+Wins: Medivul, chips: 300
+Quits: Namom, chips: 0
+Ranking: Medivul, Place: 1, Score: 1000
+Reveal AI: Medivul, AI: Random
+Ranking: Namom, Place: 2, Score: -1000
+Reveal AI: Namom, AI: AIMyBot1
+
+Player Stats for Medivul, AI: Random
+General: deals: 15, actions: 3, preflop actions: 3
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 14, showdown: 7, bluff: 7
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Namom, AI: AIMyBot1
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Date: 2022/10/25 13:46:23
+
+The game begins. The AI's of the players are: 
+Medivul: Random
+Namom: AIMyBot1
+
+Joins: Medivul, chips: 1000
+Joins: Namom, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Namom
+Small Blind: Namom, chips: 100
+Big Blind: Medivul, chips: 200
+Folds: Namom
+Pot size: 300
+Boasts: Medivul, 2d 6c
+Wins: Medivul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Medivul
+Small Blind: Medivul, chips: 100
+Big Blind: Namom, chips: 200
+Raises: Medivul, chips: 300
+Folds: Namom
+Pot size: 700
+Boasts: Medivul, 8c Qd
+Wins: Medivul, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Namom
+Small Blind: Namom, chips: 100
+Big Blind: Medivul, chips: 200
+Folds: Namom
+Pot size: 300
+Wins: Medivul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Medivul
+Small Blind: Medivul, chips: 100
+Big Blind: Namom, chips: 200
+Calls: Medivul
+DEBUG MESSAGE: INVALID ACTION FROM Namom (2 0)
+Folds: Namom
+Pot size: 400
+Boasts: Medivul, 8c 8d
+Wins: Medivul, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Namom
+Small Blind: Namom, chips: 100
+Big Blind: Medivul, chips: 200
+Folds: Namom
+Pot size: 300
+Wins: Medivul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Medivul
+Small Blind: Medivul, chips: 100
+Big Blind: Namom, chips: 200
+Calls: Medivul
+DEBUG MESSAGE: INVALID ACTION FROM Namom (2 0)
+Folds: Namom
+Pot size: 400
+Boasts: Medivul, 8h 6d
+Wins: Medivul, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Namom
+Small Blind: Namom, chips: 100
+Big Blind: Medivul, chips: 200
+Flop: 8h 7h 8d
+Turn: 8c
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Medivul, 2h 4c
+Combination: Medivul, Three Of A Kind ( 8h 8d 8c 7h 4c )
+Shows: Namom, Qh 6h
+Combination: Namom, Flush ( Qh 8h 7h 6h 3h )
+Wins: Medivul, chips: 100
+Wins: Namom, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Medivul
+Small Blind: Medivul, chips: 100
+Big Blind: Namom, chips: 200
+Flop: 7h 5d Qc
+Turn: 6s
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Medivul, 4c 9h
+Combination: Medivul, High Card ( Qc 9h 7h 6s 5d )
+Shows: Namom, Qh 8c
+Combination: Namom, Pair ( Qh Qc 8c 7h 6s )
+Wins: Namom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Namom
+Small Blind: Namom, chips: 100
+Big Blind: Medivul, chips: 200
+Folds: Namom
+Pot size: 300
+Wins: Medivul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Medivul
+Small Blind: Medivul, chips: 100
+Big Blind: Namom, chips: 200
+Flop: Ks 5c Ac
+Turn: 3h
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Medivul, 3d Jc
+Combination: Medivul, Pair ( 3d 3h Ac Ks Jc )
+Shows: Namom, 7h 6s
+Combination: Namom, High Card ( Ac Ks 7h 6s 5c )
+Wins: Medivul, chips: 200
+Wins: Namom, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Namom
+Small Blind: Namom, chips: 100
+Big Blind: Medivul, chips: 200
+Flop: Jd 3s Th
+Turn: 8s
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Medivul, 3c Qh
+Combination: Medivul, Pair ( 3c 3s Qh Jd Th )
+Shows: Namom, 4d 8d
+Combination: Namom, Pair ( 8d 8s Jd Th 6c )
+Wins: Medivul, chips: 100
+Wins: Namom, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Medivul
+Small Blind: Medivul, chips: 100
+Big Blind: Namom, chips: 200
+Flop: Ts 5d 7d
+Turn: 9d
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Medivul, 3c Ad
+Combination: Medivul, Pair ( 9d 9c Ad Ts 7d )
+Shows: Namom, 4c 2c
+Combination: Namom, Pair ( 9d 9c Ts 7d 5d )
+Wins: Medivul, chips: 200
+Wins: Namom, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Namom
+Small Blind: Namom, chips: 100
+Big Blind: Medivul, chips: 200
+Flop: 2c 8d Jc
+Turn: Qs
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Medivul, Qh Kd
+Combination: Medivul, Two Pair ( Qh Qs 8d 8s Kd )
+Shows: Namom, 8c Js
+Combination: Namom, Full House ( 8c 8d 8s Js Jc )
+Wins: Medivul, chips: 100
+Wins: Namom, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Medivul
+Small Blind: Medivul, chips: 100
+Big Blind: Namom, chips: 200
+Flop: Ad 7s 5d
+Turn: 8h
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Medivul, Kc 7h
+Combination: Medivul, Pair ( 7h 7s Ad Kc Ts )
+Shows: Namom, 5h Qc
+Combination: Namom, Pair ( 5h 5d Ad Qc Ts )
+Wins: Medivul, chips: 200
+Wins: Namom, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Namom
+Small Blind: Namom, chips: 100
+Big Blind: Medivul, chips: 200
+Flop: Ks 8s 6h
+Turn: 2d
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Medivul, 2h 7c
+Combination: Medivul, Three Of A Kind ( 2h 2d 2s Ks 8s )
+Shows: Namom, Td Js
+Combination: Namom, Pair ( 2d 2s Ks Js Td )
+Wins: Medivul, chips: 300
+Quits: Namom, chips: 0
+Ranking: Medivul, Place: 1, Score: 1000
+Reveal AI: Medivul, AI: Random
+Ranking: Namom, Place: 2, Score: -1000
+Reveal AI: Namom, AI: AIMyBot1
+
+Player Stats for Medivul, AI: Random
+General: deals: 15, actions: 3, preflop actions: 3
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 14, showdown: 7, bluff: 7
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Namom, AI: AIMyBot1
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+

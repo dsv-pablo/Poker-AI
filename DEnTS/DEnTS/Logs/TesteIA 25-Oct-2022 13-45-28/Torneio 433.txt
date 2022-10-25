@@ -1,0 +1,278 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Fawuwi: AIMyBot1
+Lotteewreem: Random
+
+Joins: Fawuwi, chips: 1000
+Joins: Lotteewreem, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lotteewreem
+Small Blind: Lotteewreem, chips: 100
+Big Blind: Fawuwi, chips: 200
+Raises: Lotteewreem, chips: 300
+Folds: Fawuwi
+Pot size: 700
+Wins: Lotteewreem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fawuwi
+Small Blind: Fawuwi, chips: 100
+Big Blind: Lotteewreem, chips: 200
+Folds: Fawuwi
+Pot size: 300
+Wins: Lotteewreem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lotteewreem
+Small Blind: Lotteewreem, chips: 100
+Big Blind: Fawuwi, chips: 200
+Calls: Lotteewreem
+DEBUG MESSAGE: INVALID ACTION FROM Fawuwi (2 0)
+Folds: Fawuwi
+Pot size: 400
+Wins: Lotteewreem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fawuwi
+Small Blind: Fawuwi, chips: 100
+Big Blind: Lotteewreem, chips: 200
+Folds: Fawuwi
+Pot size: 300
+Wins: Lotteewreem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lotteewreem
+Small Blind: Lotteewreem, chips: 100
+Big Blind: Fawuwi, chips: 200
+Calls: Lotteewreem
+DEBUG MESSAGE: INVALID ACTION FROM Fawuwi (2 0)
+Folds: Fawuwi
+Pot size: 400
+Boasts: Lotteewreem, 8d Jh
+Wins: Lotteewreem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fawuwi
+Small Blind: Fawuwi, chips: 100
+Big Blind: Lotteewreem, chips: 200
+Folds: Fawuwi
+Pot size: 300
+Boasts: Lotteewreem, 4c Th
+Wins: Lotteewreem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lotteewreem
+Small Blind: Lotteewreem, chips: 100
+Big Blind: Fawuwi, chips: 100
+Flop: 4h 8d 8c
+Turn: 2d
+River: Ac
+Pot size: 200
+Showdown Reached
+Shows: Fawuwi, 8h Td
+Combination: Fawuwi, Three Of A Kind ( 8h 8d 8c Ac Td )
+Shows: Lotteewreem, Ad Ts
+Combination: Lotteewreem, Two Pair ( Ad Ac 8d 8c Ts )
+Wins: Fawuwi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fawuwi
+Small Blind: Fawuwi, chips: 100
+Big Blind: Lotteewreem, chips: 200
+Folds: Fawuwi
+Pot size: 300
+Boasts: Lotteewreem, 2c Jd
+Wins: Lotteewreem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lotteewreem
+Small Blind: Lotteewreem, chips: 100
+Big Blind: Fawuwi, chips: 100
+Flop: 6d Tc 2s
+Turn: 6h
+River: 6c
+Pot size: 200
+Showdown Reached
+Shows: Fawuwi, Qs As
+Combination: Fawuwi, Three Of A Kind ( 6d 6h 6c As Qs )
+Shows: Lotteewreem, Jc 5s
+Combination: Lotteewreem, Three Of A Kind ( 6d 6h 6c Jc Tc )
+Wins: Fawuwi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fawuwi
+Small Blind: Fawuwi, chips: 100
+Big Blind: Lotteewreem, chips: 200
+Folds: Fawuwi
+Pot size: 300
+Wins: Lotteewreem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lotteewreem
+Small Blind: Lotteewreem, chips: 100
+Big Blind: Fawuwi, chips: 100
+Flop: Kd 6c 7s
+Turn: Ks
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Fawuwi, 5h 5d
+Combination: Fawuwi, Two Pair ( Kd Ks 7s 7h 6c )
+Shows: Lotteewreem, 8d 2h
+Combination: Lotteewreem, Two Pair ( Kd Ks 7s 7h 8d )
+Wins: Lotteewreem, chips: 200
+Quits: Fawuwi, chips: 0
+Ranking: Lotteewreem, Place: 1, Score: 1000
+Reveal AI: Lotteewreem, AI: Random
+Ranking: Fawuwi, Place: 2, Score: -1000
+Reveal AI: Fawuwi, AI: AIMyBot1
+
+Player Stats for Fawuwi, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Lotteewreem, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Date: 2022/10/25 13:45:58
+
+The game begins. The AI's of the players are: 
+Fawuwi: AIMyBot1
+Lotteewreem: Random
+
+Joins: Fawuwi, chips: 1000
+Joins: Lotteewreem, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lotteewreem
+Small Blind: Lotteewreem, chips: 100
+Big Blind: Fawuwi, chips: 200
+Raises: Lotteewreem, chips: 300
+Folds: Fawuwi
+Pot size: 700
+Wins: Lotteewreem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fawuwi
+Small Blind: Fawuwi, chips: 100
+Big Blind: Lotteewreem, chips: 200
+Folds: Fawuwi
+Pot size: 300
+Wins: Lotteewreem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lotteewreem
+Small Blind: Lotteewreem, chips: 100
+Big Blind: Fawuwi, chips: 200
+Calls: Lotteewreem
+DEBUG MESSAGE: INVALID ACTION FROM Fawuwi (2 0)
+Folds: Fawuwi
+Pot size: 400
+Wins: Lotteewreem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fawuwi
+Small Blind: Fawuwi, chips: 100
+Big Blind: Lotteewreem, chips: 200
+Folds: Fawuwi
+Pot size: 300
+Wins: Lotteewreem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lotteewreem
+Small Blind: Lotteewreem, chips: 100
+Big Blind: Fawuwi, chips: 200
+Calls: Lotteewreem
+DEBUG MESSAGE: INVALID ACTION FROM Fawuwi (2 0)
+Folds: Fawuwi
+Pot size: 400
+Boasts: Lotteewreem, 8d Jh
+Wins: Lotteewreem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fawuwi
+Small Blind: Fawuwi, chips: 100
+Big Blind: Lotteewreem, chips: 200
+Folds: Fawuwi
+Pot size: 300
+Boasts: Lotteewreem, 4c Th
+Wins: Lotteewreem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lotteewreem
+Small Blind: Lotteewreem, chips: 100
+Big Blind: Fawuwi, chips: 100
+Flop: 4h 8d 8c
+Turn: 2d
+River: Ac
+Pot size: 200
+Showdown Reached
+Shows: Fawuwi, 8h Td
+Combination: Fawuwi, Three Of A Kind ( 8h 8d 8c Ac Td )
+Shows: Lotteewreem, Ad Ts
+Combination: Lotteewreem, Two Pair ( Ad Ac 8d 8c Ts )
+Wins: Fawuwi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fawuwi
+Small Blind: Fawuwi, chips: 100
+Big Blind: Lotteewreem, chips: 200
+Folds: Fawuwi
+Pot size: 300
+Boasts: Lotteewreem, 2c Jd
+Wins: Lotteewreem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lotteewreem
+Small Blind: Lotteewreem, chips: 100
+Big Blind: Fawuwi, chips: 100
+Flop: 6d Tc 2s
+Turn: 6h
+River: 6c
+Pot size: 200
+Showdown Reached
+Shows: Fawuwi, Qs As
+Combination: Fawuwi, Three Of A Kind ( 6d 6h 6c As Qs )
+Shows: Lotteewreem, Jc 5s
+Combination: Lotteewreem, Three Of A Kind ( 6d 6h 6c Jc Tc )
+Wins: Fawuwi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fawuwi
+Small Blind: Fawuwi, chips: 100
+Big Blind: Lotteewreem, chips: 200
+Folds: Fawuwi
+Pot size: 300
+Wins: Lotteewreem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lotteewreem
+Small Blind: Lotteewreem, chips: 100
+Big Blind: Fawuwi, chips: 100
+Flop: Kd 6c 7s
+Turn: Ks
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Fawuwi, 5h 5d
+Combination: Fawuwi, Two Pair ( Kd Ks 7s 7h 6c )
+Shows: Lotteewreem, 8d 2h
+Combination: Lotteewreem, Two Pair ( Kd Ks 7s 7h 8d )
+Wins: Lotteewreem, chips: 200
+Quits: Fawuwi, chips: 0
+Ranking: Lotteewreem, Place: 1, Score: 1000
+Reveal AI: Lotteewreem, AI: Random
+Ranking: Fawuwi, Place: 2, Score: -1000
+Reveal AI: Fawuwi, AI: AIMyBot1
+
+Player Stats for Fawuwi, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Lotteewreem, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+

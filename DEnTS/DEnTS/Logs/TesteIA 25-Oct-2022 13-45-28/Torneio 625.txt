@@ -1,0 +1,228 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Rugiwren: Random
+Ketel: AIMyBot1
+
+Joins: Rugiwren, chips: 1000
+Joins: Ketel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugiwren
+Small Blind: Rugiwren, chips: 100
+Big Blind: Ketel, chips: 200
+Calls: Rugiwren
+DEBUG MESSAGE: INVALID ACTION FROM Ketel (2 0)
+Folds: Ketel
+Pot size: 400
+Wins: Rugiwren, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ketel
+Small Blind: Ketel, chips: 100
+Big Blind: Rugiwren, chips: 200
+Folds: Ketel
+Pot size: 300
+Boasts: Rugiwren, 3s 5h
+Wins: Rugiwren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugiwren
+Small Blind: Rugiwren, chips: 100
+Big Blind: Ketel, chips: 200
+Calls: Rugiwren
+DEBUG MESSAGE: INVALID ACTION FROM Ketel (2 0)
+Folds: Ketel
+Pot size: 400
+Boasts: Rugiwren, 2h Kh
+Wins: Rugiwren, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ketel
+Small Blind: Ketel, chips: 100
+Big Blind: Rugiwren, chips: 200
+Folds: Ketel
+Pot size: 300
+Wins: Rugiwren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugiwren
+Small Blind: Rugiwren, chips: 100
+Big Blind: Ketel, chips: 200
+Calls: Rugiwren
+DEBUG MESSAGE: INVALID ACTION FROM Ketel (2 0)
+Folds: Ketel
+Pot size: 400
+Boasts: Rugiwren, Ah 5h
+Wins: Rugiwren, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ketel
+Small Blind: Ketel, chips: 100
+Big Blind: Rugiwren, chips: 200
+Folds: Ketel
+Pot size: 300
+Boasts: Rugiwren, Jc 2s
+Wins: Rugiwren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugiwren
+Small Blind: Rugiwren, chips: 100
+Big Blind: Ketel, chips: 100
+Flop: Jd 5h 9c
+Turn: Ah
+River: Qd
+Pot size: 200
+Showdown Reached
+Shows: Rugiwren, 4d 3s
+Combination: Rugiwren, High Card ( Ah Qd Jd 9c 5h )
+Shows: Ketel, 2d 3d
+Combination: Ketel, High Card ( Ah Qd Jd 9c 5h )
+Wins: Rugiwren, chips: 100
+Wins: Ketel, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ketel
+Small Blind: Ketel, chips: 100
+Big Blind: Rugiwren, chips: 200
+Flop: 9c 8h 2h
+Turn: 5d
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Rugiwren, Jh Jd
+Combination: Rugiwren, Pair ( Jh Jd Tc 9c 8h )
+Shows: Ketel, 2d Qc
+Combination: Ketel, Pair ( 2d 2h Qc Tc 9c )
+Wins: Rugiwren, chips: 300
+Quits: Ketel, chips: 0
+Ranking: Rugiwren, Place: 1, Score: 1000
+Reveal AI: Rugiwren, AI: Random
+Ranking: Ketel, Place: 2, Score: -1000
+Reveal AI: Ketel, AI: AIMyBot1
+
+Player Stats for Ketel, AI: AIMyBot1
+General: deals: 8, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 100, lost: 1100, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Rugiwren, AI: Random
+General: deals: 8, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 2500, lost: 1500, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:11
+
+The game begins. The AI's of the players are: 
+Rugiwren: Random
+Ketel: AIMyBot1
+
+Joins: Rugiwren, chips: 1000
+Joins: Ketel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugiwren
+Small Blind: Rugiwren, chips: 100
+Big Blind: Ketel, chips: 200
+Calls: Rugiwren
+DEBUG MESSAGE: INVALID ACTION FROM Ketel (2 0)
+Folds: Ketel
+Pot size: 400
+Wins: Rugiwren, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ketel
+Small Blind: Ketel, chips: 100
+Big Blind: Rugiwren, chips: 200
+Folds: Ketel
+Pot size: 300
+Boasts: Rugiwren, 3s 5h
+Wins: Rugiwren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugiwren
+Small Blind: Rugiwren, chips: 100
+Big Blind: Ketel, chips: 200
+Calls: Rugiwren
+DEBUG MESSAGE: INVALID ACTION FROM Ketel (2 0)
+Folds: Ketel
+Pot size: 400
+Boasts: Rugiwren, 2h Kh
+Wins: Rugiwren, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ketel
+Small Blind: Ketel, chips: 100
+Big Blind: Rugiwren, chips: 200
+Folds: Ketel
+Pot size: 300
+Wins: Rugiwren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugiwren
+Small Blind: Rugiwren, chips: 100
+Big Blind: Ketel, chips: 200
+Calls: Rugiwren
+DEBUG MESSAGE: INVALID ACTION FROM Ketel (2 0)
+Folds: Ketel
+Pot size: 400
+Boasts: Rugiwren, Ah 5h
+Wins: Rugiwren, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ketel
+Small Blind: Ketel, chips: 100
+Big Blind: Rugiwren, chips: 200
+Folds: Ketel
+Pot size: 300
+Boasts: Rugiwren, Jc 2s
+Wins: Rugiwren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugiwren
+Small Blind: Rugiwren, chips: 100
+Big Blind: Ketel, chips: 100
+Flop: Jd 5h 9c
+Turn: Ah
+River: Qd
+Pot size: 200
+Showdown Reached
+Shows: Rugiwren, 4d 3s
+Combination: Rugiwren, High Card ( Ah Qd Jd 9c 5h )
+Shows: Ketel, 2d 3d
+Combination: Ketel, High Card ( Ah Qd Jd 9c 5h )
+Wins: Rugiwren, chips: 100
+Wins: Ketel, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ketel
+Small Blind: Ketel, chips: 100
+Big Blind: Rugiwren, chips: 200
+Flop: 9c 8h 2h
+Turn: 5d
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Rugiwren, Jh Jd
+Combination: Rugiwren, Pair ( Jh Jd Tc 9c 8h )
+Shows: Ketel, 2d Qc
+Combination: Ketel, Pair ( 2d 2h Qc Tc 9c )
+Wins: Rugiwren, chips: 300
+Quits: Ketel, chips: 0
+Ranking: Rugiwren, Place: 1, Score: 1000
+Reveal AI: Rugiwren, AI: Random
+Ranking: Ketel, Place: 2, Score: -1000
+Reveal AI: Ketel, AI: AIMyBot1
+
+Player Stats for Ketel, AI: AIMyBot1
+General: deals: 8, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 100, lost: 1100, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Rugiwren, AI: Random
+General: deals: 8, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 2500, lost: 1500, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

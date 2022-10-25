@@ -1,0 +1,252 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Mewa: Random
+Ma: AIMyBot1
+
+Joins: Mewa, chips: 1000
+Joins: Ma, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewa
+Small Blind: Mewa, chips: 100
+Big Blind: Ma, chips: 200
+Folds: Mewa
+Pot size: 300
+Wins: Ma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Mewa, chips: 200
+Folds: Ma
+Pot size: 300
+Wins: Mewa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewa
+Small Blind: Mewa, chips: 100
+Big Blind: Ma, chips: 200
+Calls: Mewa
+DEBUG MESSAGE: INVALID ACTION FROM Ma (2 0)
+Folds: Ma
+Pot size: 400
+Boasts: Mewa, 2c 3h
+Wins: Mewa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Mewa, chips: 200
+Folds: Ma
+Pot size: 300
+Wins: Mewa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewa
+Small Blind: Mewa, chips: 100
+Big Blind: Ma, chips: 200
+Raises: Mewa, chips: 300
+Folds: Ma
+Pot size: 700
+Boasts: Mewa, Qd 9d
+Wins: Mewa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Mewa, chips: 200
+Folds: Ma
+Pot size: 300
+Boasts: Mewa, 4d 9c
+Wins: Mewa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewa
+Small Blind: Mewa, chips: 100
+Big Blind: Ma, chips: 200
+Folds: Mewa
+Pot size: 300
+Wins: Ma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Mewa, chips: 200
+Folds: Ma
+Pot size: 300
+Wins: Mewa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewa
+Small Blind: Mewa, chips: 100
+Big Blind: Ma, chips: 200
+Raises: Mewa, chips: 300
+Folds: Ma
+Pot size: 700
+Boasts: Mewa, Kd Ac
+Wins: Mewa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Mewa, chips: 200
+Folds: Ma
+Pot size: 300
+Boasts: Mewa, 6d Ac
+Wins: Mewa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewa
+Small Blind: Mewa, chips: 100
+Big Blind: Ma, chips: 100
+Flop: 3s 7c 9s
+Turn: 6h
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Mewa, 4s Qh
+Combination: Mewa, Straight ( 7c 6h 5s 4s 3s )
+Shows: Ma, 5c 5h
+Combination: Ma, Three Of A Kind ( 5c 5h 5s 9s 7c )
+Wins: Mewa, chips: 200
+Quits: Ma, chips: 0
+Ranking: Mewa, Place: 1, Score: 1000
+Reveal AI: Mewa, AI: Random
+Ranking: Ma, Place: 2, Score: -1000
+Reveal AI: Ma, AI: AIMyBot1
+
+Player Stats for Ma, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Mewa, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:38
+
+The game begins. The AI's of the players are: 
+Mewa: Random
+Ma: AIMyBot1
+
+Joins: Mewa, chips: 1000
+Joins: Ma, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewa
+Small Blind: Mewa, chips: 100
+Big Blind: Ma, chips: 200
+Folds: Mewa
+Pot size: 300
+Wins: Ma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Mewa, chips: 200
+Folds: Ma
+Pot size: 300
+Wins: Mewa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewa
+Small Blind: Mewa, chips: 100
+Big Blind: Ma, chips: 200
+Calls: Mewa
+DEBUG MESSAGE: INVALID ACTION FROM Ma (2 0)
+Folds: Ma
+Pot size: 400
+Boasts: Mewa, 2c 3h
+Wins: Mewa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Mewa, chips: 200
+Folds: Ma
+Pot size: 300
+Wins: Mewa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewa
+Small Blind: Mewa, chips: 100
+Big Blind: Ma, chips: 200
+Raises: Mewa, chips: 300
+Folds: Ma
+Pot size: 700
+Boasts: Mewa, Qd 9d
+Wins: Mewa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Mewa, chips: 200
+Folds: Ma
+Pot size: 300
+Boasts: Mewa, 4d 9c
+Wins: Mewa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewa
+Small Blind: Mewa, chips: 100
+Big Blind: Ma, chips: 200
+Folds: Mewa
+Pot size: 300
+Wins: Ma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Mewa, chips: 200
+Folds: Ma
+Pot size: 300
+Wins: Mewa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewa
+Small Blind: Mewa, chips: 100
+Big Blind: Ma, chips: 200
+Raises: Mewa, chips: 300
+Folds: Ma
+Pot size: 700
+Boasts: Mewa, Kd Ac
+Wins: Mewa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Mewa, chips: 200
+Folds: Ma
+Pot size: 300
+Boasts: Mewa, 6d Ac
+Wins: Mewa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewa
+Small Blind: Mewa, chips: 100
+Big Blind: Ma, chips: 100
+Flop: 3s 7c 9s
+Turn: 6h
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Mewa, 4s Qh
+Combination: Mewa, Straight ( 7c 6h 5s 4s 3s )
+Shows: Ma, 5c 5h
+Combination: Ma, Three Of A Kind ( 5c 5h 5s 9s 7c )
+Wins: Mewa, chips: 200
+Quits: Ma, chips: 0
+Ranking: Mewa, Place: 1, Score: 1000
+Reveal AI: Mewa, AI: Random
+Ranking: Ma, Place: 2, Score: -1000
+Reveal AI: Ma, AI: AIMyBot1
+
+Player Stats for Ma, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Mewa, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

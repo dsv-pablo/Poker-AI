@@ -1,0 +1,434 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jegepis: AIMyBot1
+Lifoettoe: Random
+
+Joins: Jegepis, chips: 1000
+Joins: Lifoettoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jegepis
+Small Blind: Jegepis, chips: 100
+Big Blind: Lifoettoe, chips: 200
+Folds: Jegepis
+Pot size: 300
+Wins: Lifoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lifoettoe
+Small Blind: Lifoettoe, chips: 100
+Big Blind: Jegepis, chips: 200
+Raises: Lifoettoe, chips: 300
+Folds: Jegepis
+Pot size: 700
+Boasts: Lifoettoe, 6d 3h
+Wins: Lifoettoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jegepis
+Small Blind: Jegepis, chips: 100
+Big Blind: Lifoettoe, chips: 200
+Folds: Jegepis
+Pot size: 300
+Boasts: Lifoettoe, 6h 9c
+Wins: Lifoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lifoettoe
+Small Blind: Lifoettoe, chips: 100
+Big Blind: Jegepis, chips: 200
+Calls: Lifoettoe
+DEBUG MESSAGE: INVALID ACTION FROM Jegepis (2 0)
+Folds: Jegepis
+Pot size: 400
+Boasts: Lifoettoe, 3c 2c
+Wins: Lifoettoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jegepis
+Small Blind: Jegepis, chips: 100
+Big Blind: Lifoettoe, chips: 200
+Folds: Jegepis
+Pot size: 300
+Boasts: Lifoettoe, 9h 6h
+Wins: Lifoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lifoettoe
+Small Blind: Lifoettoe, chips: 100
+Big Blind: Jegepis, chips: 200
+Raises: Lifoettoe, chips: 300
+Folds: Jegepis
+Pot size: 700
+Boasts: Lifoettoe, Jd As
+Wins: Lifoettoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jegepis
+Small Blind: Jegepis, chips: 100
+Big Blind: Lifoettoe, chips: 200
+Flop: 7s 3s Kc
+Turn: 3h
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Jegepis, 4c Jc
+Combination: Jegepis, Two Pair ( 4c 4s 3s 3h Kc )
+Shows: Lifoettoe, Ad Qh
+Combination: Lifoettoe, Pair ( 3s 3h Ad Kc Qh )
+Wins: Jegepis, chips: 200
+Wins: Lifoettoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lifoettoe
+Small Blind: Lifoettoe, chips: 100
+Big Blind: Jegepis, chips: 200
+Flop: Ac 7c 7h
+Turn: 4h
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Jegepis, Qc 2d
+Combination: Jegepis, Pair ( 7c 7h Ac Qc Tc )
+Shows: Lifoettoe, 7d 8h
+Combination: Lifoettoe, Three Of A Kind ( 7d 7c 7h Ac Tc )
+Wins: Jegepis, chips: 100
+Wins: Lifoettoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jegepis
+Small Blind: Jegepis, chips: 100
+Big Blind: Lifoettoe, chips: 200
+Flop: Jd Ad As
+Turn: 5s
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Jegepis, Jc Kh
+Combination: Jegepis, Two Pair ( Ad As Jc Jd Kh )
+Shows: Lifoettoe, 6d 9c
+Combination: Lifoettoe, Two Pair ( Ad As 5s 5d Jd )
+Wins: Jegepis, chips: 200
+Wins: Lifoettoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lifoettoe
+Small Blind: Lifoettoe, chips: 100
+Big Blind: Jegepis, chips: 200
+Flop: As 6c 2h
+Turn: Kd
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Jegepis, Js 8d
+Combination: Jegepis, Pair ( 2h 2s As Kd Js )
+Shows: Lifoettoe, 7s Qs
+Combination: Lifoettoe, Pair ( 2h 2s As Kd Qs )
+Wins: Jegepis, chips: 100
+Wins: Lifoettoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jegepis
+Small Blind: Jegepis, chips: 100
+Big Blind: Lifoettoe, chips: 200
+Flop: Kh 3s Qh
+Turn: 7s
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Jegepis, Qs 2h
+Combination: Jegepis, Pair ( Qs Qh Kh 7s 6d )
+Shows: Lifoettoe, 8s 9d
+Combination: Lifoettoe, High Card ( Kh Qh 9d 8s 7s )
+Wins: Jegepis, chips: 200
+Wins: Lifoettoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lifoettoe
+Small Blind: Lifoettoe, chips: 100
+Big Blind: Jegepis, chips: 200
+Flop: 9s Td 8d
+Turn: Ah
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Jegepis, 9c 8c
+Combination: Jegepis, Full House ( 8c 8d 8s 9c 9s )
+Shows: Lifoettoe, 5h Qs
+Combination: Lifoettoe, Pair ( 8d 8s Ah Qs Td )
+Wins: Jegepis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jegepis
+Small Blind: Jegepis, chips: 100
+Big Blind: Lifoettoe, chips: 200
+Folds: Jegepis
+Pot size: 300
+Boasts: Lifoettoe, Kh Tc
+Wins: Lifoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lifoettoe
+Small Blind: Lifoettoe, chips: 100
+Big Blind: Jegepis, chips: 200
+Flop: Qh 6s Ks
+Turn: Kc
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Jegepis, 4d 9d
+Combination: Jegepis, Two Pair ( Ks Kc 6s 6c Qh )
+Shows: Lifoettoe, 8s 5h
+Combination: Lifoettoe, Two Pair ( Ks Kc 6s 6c Qh )
+Wins: Jegepis, chips: 200
+Wins: Lifoettoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jegepis
+Small Blind: Jegepis, chips: 100
+Big Blind: Lifoettoe, chips: 200
+Folds: Jegepis
+Pot size: 300
+Wins: Lifoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lifoettoe
+Small Blind: Lifoettoe, chips: 100
+Big Blind: Jegepis, chips: 100
+Flop: Qs 7d 6s
+Turn: Js
+River: Ac
+Pot size: 200
+Showdown Reached
+Shows: Jegepis, Th 2h
+Combination: Jegepis, High Card ( Ac Qs Js Th 7d )
+Shows: Lifoettoe, 3s Ks
+Combination: Lifoettoe, Flush ( Ks Qs Js 6s 3s )
+Wins: Lifoettoe, chips: 200
+Quits: Jegepis, chips: 0
+Ranking: Lifoettoe, Place: 1, Score: 1000
+Reveal AI: Lifoettoe, AI: Random
+Ranking: Jegepis, Place: 2, Score: -1000
+Reveal AI: Jegepis, AI: AIMyBot1
+
+Player Stats for Jegepis, AI: AIMyBot1
+General: deals: 16, actions: 8, preflop actions: 8
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1300, lost: 2300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Lifoettoe, AI: Random
+General: deals: 16, actions: 3, preflop actions: 3
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 15, showdown: 7, bluff: 8
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.1875, PFR: 0.125, 3Bet: 0.125
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Date: 2022/10/25 13:46:08
+
+The game begins. The AI's of the players are: 
+Jegepis: AIMyBot1
+Lifoettoe: Random
+
+Joins: Jegepis, chips: 1000
+Joins: Lifoettoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jegepis
+Small Blind: Jegepis, chips: 100
+Big Blind: Lifoettoe, chips: 200
+Folds: Jegepis
+Pot size: 300
+Wins: Lifoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lifoettoe
+Small Blind: Lifoettoe, chips: 100
+Big Blind: Jegepis, chips: 200
+Raises: Lifoettoe, chips: 300
+Folds: Jegepis
+Pot size: 700
+Boasts: Lifoettoe, 6d 3h
+Wins: Lifoettoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jegepis
+Small Blind: Jegepis, chips: 100
+Big Blind: Lifoettoe, chips: 200
+Folds: Jegepis
+Pot size: 300
+Boasts: Lifoettoe, 6h 9c
+Wins: Lifoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lifoettoe
+Small Blind: Lifoettoe, chips: 100
+Big Blind: Jegepis, chips: 200
+Calls: Lifoettoe
+DEBUG MESSAGE: INVALID ACTION FROM Jegepis (2 0)
+Folds: Jegepis
+Pot size: 400
+Boasts: Lifoettoe, 3c 2c
+Wins: Lifoettoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jegepis
+Small Blind: Jegepis, chips: 100
+Big Blind: Lifoettoe, chips: 200
+Folds: Jegepis
+Pot size: 300
+Boasts: Lifoettoe, 9h 6h
+Wins: Lifoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lifoettoe
+Small Blind: Lifoettoe, chips: 100
+Big Blind: Jegepis, chips: 200
+Raises: Lifoettoe, chips: 300
+Folds: Jegepis
+Pot size: 700
+Boasts: Lifoettoe, Jd As
+Wins: Lifoettoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jegepis
+Small Blind: Jegepis, chips: 100
+Big Blind: Lifoettoe, chips: 200
+Flop: 7s 3s Kc
+Turn: 3h
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Jegepis, 4c Jc
+Combination: Jegepis, Two Pair ( 4c 4s 3s 3h Kc )
+Shows: Lifoettoe, Ad Qh
+Combination: Lifoettoe, Pair ( 3s 3h Ad Kc Qh )
+Wins: Jegepis, chips: 200
+Wins: Lifoettoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lifoettoe
+Small Blind: Lifoettoe, chips: 100
+Big Blind: Jegepis, chips: 200
+Flop: Ac 7c 7h
+Turn: 4h
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Jegepis, Qc 2d
+Combination: Jegepis, Pair ( 7c 7h Ac Qc Tc )
+Shows: Lifoettoe, 7d 8h
+Combination: Lifoettoe, Three Of A Kind ( 7d 7c 7h Ac Tc )
+Wins: Jegepis, chips: 100
+Wins: Lifoettoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jegepis
+Small Blind: Jegepis, chips: 100
+Big Blind: Lifoettoe, chips: 200
+Flop: Jd Ad As
+Turn: 5s
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Jegepis, Jc Kh
+Combination: Jegepis, Two Pair ( Ad As Jc Jd Kh )
+Shows: Lifoettoe, 6d 9c
+Combination: Lifoettoe, Two Pair ( Ad As 5s 5d Jd )
+Wins: Jegepis, chips: 200
+Wins: Lifoettoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lifoettoe
+Small Blind: Lifoettoe, chips: 100
+Big Blind: Jegepis, chips: 200
+Flop: As 6c 2h
+Turn: Kd
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Jegepis, Js 8d
+Combination: Jegepis, Pair ( 2h 2s As Kd Js )
+Shows: Lifoettoe, 7s Qs
+Combination: Lifoettoe, Pair ( 2h 2s As Kd Qs )
+Wins: Jegepis, chips: 100
+Wins: Lifoettoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jegepis
+Small Blind: Jegepis, chips: 100
+Big Blind: Lifoettoe, chips: 200
+Flop: Kh 3s Qh
+Turn: 7s
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Jegepis, Qs 2h
+Combination: Jegepis, Pair ( Qs Qh Kh 7s 6d )
+Shows: Lifoettoe, 8s 9d
+Combination: Lifoettoe, High Card ( Kh Qh 9d 8s 7s )
+Wins: Jegepis, chips: 200
+Wins: Lifoettoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lifoettoe
+Small Blind: Lifoettoe, chips: 100
+Big Blind: Jegepis, chips: 200
+Flop: 9s Td 8d
+Turn: Ah
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Jegepis, 9c 8c
+Combination: Jegepis, Full House ( 8c 8d 8s 9c 9s )
+Shows: Lifoettoe, 5h Qs
+Combination: Lifoettoe, Pair ( 8d 8s Ah Qs Td )
+Wins: Jegepis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jegepis
+Small Blind: Jegepis, chips: 100
+Big Blind: Lifoettoe, chips: 200
+Folds: Jegepis
+Pot size: 300
+Boasts: Lifoettoe, Kh Tc
+Wins: Lifoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lifoettoe
+Small Blind: Lifoettoe, chips: 100
+Big Blind: Jegepis, chips: 200
+Flop: Qh 6s Ks
+Turn: Kc
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Jegepis, 4d 9d
+Combination: Jegepis, Two Pair ( Ks Kc 6s 6c Qh )
+Shows: Lifoettoe, 8s 5h
+Combination: Lifoettoe, Two Pair ( Ks Kc 6s 6c Qh )
+Wins: Jegepis, chips: 200
+Wins: Lifoettoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jegepis
+Small Blind: Jegepis, chips: 100
+Big Blind: Lifoettoe, chips: 200
+Folds: Jegepis
+Pot size: 300
+Wins: Lifoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lifoettoe
+Small Blind: Lifoettoe, chips: 100
+Big Blind: Jegepis, chips: 100
+Flop: Qs 7d 6s
+Turn: Js
+River: Ac
+Pot size: 200
+Showdown Reached
+Shows: Jegepis, Th 2h
+Combination: Jegepis, High Card ( Ac Qs Js Th 7d )
+Shows: Lifoettoe, 3s Ks
+Combination: Lifoettoe, Flush ( Ks Qs Js 6s 3s )
+Wins: Lifoettoe, chips: 200
+Quits: Jegepis, chips: 0
+Ranking: Lifoettoe, Place: 1, Score: 1000
+Reveal AI: Lifoettoe, AI: Random
+Ranking: Jegepis, Place: 2, Score: -1000
+Reveal AI: Jegepis, AI: AIMyBot1
+
+Player Stats for Jegepis, AI: AIMyBot1
+General: deals: 16, actions: 8, preflop actions: 8
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1300, lost: 2300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Lifoettoe, AI: Random
+General: deals: 16, actions: 3, preflop actions: 3
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 15, showdown: 7, bluff: 8
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.1875, PFR: 0.125, 3Bet: 0.125
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+

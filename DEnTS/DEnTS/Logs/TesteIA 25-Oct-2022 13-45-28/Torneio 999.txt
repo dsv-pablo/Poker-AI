@@ -1,0 +1,490 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Roeharla: Random
+Rose: AIMyBot1
+
+Joins: Roeharla, chips: 1000
+Joins: Rose, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Folds: Rose
+Pot size: 300
+Boasts: Roeharla, 4d 8d
+Wins: Roeharla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Folds: Roeharla
+Pot size: 300
+Wins: Rose, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Folds: Rose
+Pot size: 300
+Boasts: Roeharla, Tc Kh
+Wins: Roeharla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Folds: Roeharla
+Pot size: 300
+Boasts: Roeharla, Kd 9h
+Wins: Rose, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Folds: Rose
+Pot size: 300
+Wins: Roeharla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Calls: Roeharla
+DEBUG MESSAGE: INVALID ACTION FROM Rose (2 0)
+Folds: Rose
+Pot size: 400
+Wins: Roeharla, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Folds: Rose
+Pot size: 300
+Wins: Roeharla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Folds: Roeharla
+Pot size: 300
+Boasts: Roeharla, 7h 7d
+Wins: Rose, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Folds: Rose
+Pot size: 300
+Boasts: Roeharla, Ks 6h
+Wins: Roeharla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Calls: Roeharla
+DEBUG MESSAGE: INVALID ACTION FROM Rose (2 0)
+Folds: Rose
+Pot size: 400
+Boasts: Roeharla, Qh 8s
+Wins: Roeharla, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Folds: Rose
+Pot size: 300
+Wins: Roeharla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Raises: Roeharla, chips: 300
+Folds: Rose
+Pot size: 700
+Wins: Roeharla, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Flop: 9c 5s Kd
+Turn: 2d
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Roeharla, Ts 6d
+Combination: Roeharla, Pair ( Ts Th Kd 9c 6d )
+Shows: Rose, 8d Td
+Combination: Rose, Pair ( Td Th Kd 9c 8d )
+Wins: Roeharla, chips: 100
+Wins: Rose, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Flop: As 8c 9s
+Turn: 4h
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Roeharla, Th 7d
+Combination: Roeharla, High Card ( As Qc Th 9s 8c )
+Shows: Rose, 5s 9c
+Combination: Rose, Pair ( 9c 9s As Qc 8c )
+Wins: Rose, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Folds: Rose
+Pot size: 300
+Wins: Roeharla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Flop: Ah 9d Qc
+Turn: Qh
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Roeharla, 8h Js
+Combination: Roeharla, Pair ( Qc Qh Ah Js 9d )
+Shows: Rose, Kc 9c
+Combination: Rose, Two Pair ( Qc Qh 9c 9d Ah )
+Wins: Rose, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Folds: Rose
+Pot size: 300
+Boasts: Roeharla, As 9h
+Wins: Roeharla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Flop: 8d 7d 7h
+Turn: 4c
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Roeharla, Kh 4h
+Combination: Roeharla, Two Pair ( 7d 7h 4h 4c Kh )
+Shows: Rose, 2h Kc
+Combination: Rose, Two Pair ( 7d 7h 2h 2d Kc )
+Wins: Roeharla, chips: 200
+Wins: Rose, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Flop: 6c Ks Qh
+Turn: 3s
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Roeharla, As 3c
+Combination: Roeharla, Pair ( 3c 3s As Ks Qh )
+Shows: Rose, Tc Ts
+Combination: Rose, Pair ( Tc Ts Ks Qh 9d )
+Wins: Roeharla, chips: 100
+Wins: Rose, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Flop: 4c Qd Kc
+Turn: 4h
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Roeharla, 7s Jh
+Combination: Roeharla, Pair ( 4c 4h Kc Qd Jh )
+Shows: Rose, 2s 9h
+Combination: Rose, Pair ( 4c 4h Kc Qd Tc )
+Wins: Roeharla, chips: 200
+Wins: Rose, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Flop: 7d 7c 9c
+Turn: 4d
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Roeharla, 8s 8c
+Combination: Roeharla, Full House ( 8s 8c 8h 7d 7c )
+Shows: Rose, 6d 4c
+Combination: Rose, Two Pair ( 7d 7c 4c 4d 9c )
+Wins: Roeharla, chips: 300
+Quits: Rose, chips: 0
+Ranking: Roeharla, Place: 1, Score: 1000
+Reveal AI: Roeharla, AI: Random
+Ranking: Rose, Place: 2, Score: -1000
+Reveal AI: Rose, AI: AIMyBot1
+
+Player Stats for Roeharla, AI: Random
+General: deals: 21, actions: 6, preflop actions: 6
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 16, showdown: 5, bluff: 11
+Chips: won: 4800, lost: 3800, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.047619, 3Bet: 0.047619
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.714286
+
+
+Player Stats for Rose, AI: AIMyBot1
+General: deals: 21, actions: 11, preflop actions: 11
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 9, showdown: 6, bluff: 3
+Chips: won: 2100, lost: 3100, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Date: 2022/10/25 13:46:34
+
+The game begins. The AI's of the players are: 
+Roeharla: Random
+Rose: AIMyBot1
+
+Joins: Roeharla, chips: 1000
+Joins: Rose, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Folds: Rose
+Pot size: 300
+Boasts: Roeharla, 4d 8d
+Wins: Roeharla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Folds: Roeharla
+Pot size: 300
+Wins: Rose, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Folds: Rose
+Pot size: 300
+Boasts: Roeharla, Tc Kh
+Wins: Roeharla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Folds: Roeharla
+Pot size: 300
+Boasts: Roeharla, Kd 9h
+Wins: Rose, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Folds: Rose
+Pot size: 300
+Wins: Roeharla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Calls: Roeharla
+DEBUG MESSAGE: INVALID ACTION FROM Rose (2 0)
+Folds: Rose
+Pot size: 400
+Wins: Roeharla, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Folds: Rose
+Pot size: 300
+Wins: Roeharla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Folds: Roeharla
+Pot size: 300
+Boasts: Roeharla, 7h 7d
+Wins: Rose, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Folds: Rose
+Pot size: 300
+Boasts: Roeharla, Ks 6h
+Wins: Roeharla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Calls: Roeharla
+DEBUG MESSAGE: INVALID ACTION FROM Rose (2 0)
+Folds: Rose
+Pot size: 400
+Boasts: Roeharla, Qh 8s
+Wins: Roeharla, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Folds: Rose
+Pot size: 300
+Wins: Roeharla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Raises: Roeharla, chips: 300
+Folds: Rose
+Pot size: 700
+Wins: Roeharla, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Flop: 9c 5s Kd
+Turn: 2d
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Roeharla, Ts 6d
+Combination: Roeharla, Pair ( Ts Th Kd 9c 6d )
+Shows: Rose, 8d Td
+Combination: Rose, Pair ( Td Th Kd 9c 8d )
+Wins: Roeharla, chips: 100
+Wins: Rose, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Flop: As 8c 9s
+Turn: 4h
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Roeharla, Th 7d
+Combination: Roeharla, High Card ( As Qc Th 9s 8c )
+Shows: Rose, 5s 9c
+Combination: Rose, Pair ( 9c 9s As Qc 8c )
+Wins: Rose, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Folds: Rose
+Pot size: 300
+Wins: Roeharla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Flop: Ah 9d Qc
+Turn: Qh
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Roeharla, 8h Js
+Combination: Roeharla, Pair ( Qc Qh Ah Js 9d )
+Shows: Rose, Kc 9c
+Combination: Rose, Two Pair ( Qc Qh 9c 9d Ah )
+Wins: Rose, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Folds: Rose
+Pot size: 300
+Boasts: Roeharla, As 9h
+Wins: Roeharla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Flop: 8d 7d 7h
+Turn: 4c
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Roeharla, Kh 4h
+Combination: Roeharla, Two Pair ( 7d 7h 4h 4c Kh )
+Shows: Rose, 2h Kc
+Combination: Rose, Two Pair ( 7d 7h 2h 2d Kc )
+Wins: Roeharla, chips: 200
+Wins: Rose, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Flop: 6c Ks Qh
+Turn: 3s
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Roeharla, As 3c
+Combination: Roeharla, Pair ( 3c 3s As Ks Qh )
+Shows: Rose, Tc Ts
+Combination: Rose, Pair ( Tc Ts Ks Qh 9d )
+Wins: Roeharla, chips: 100
+Wins: Rose, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeharla
+Small Blind: Roeharla, chips: 100
+Big Blind: Rose, chips: 200
+Flop: 4c Qd Kc
+Turn: 4h
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Roeharla, 7s Jh
+Combination: Roeharla, Pair ( 4c 4h Kc Qd Jh )
+Shows: Rose, 2s 9h
+Combination: Rose, Pair ( 4c 4h Kc Qd Tc )
+Wins: Roeharla, chips: 200
+Wins: Rose, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rose
+Small Blind: Rose, chips: 100
+Big Blind: Roeharla, chips: 200
+Flop: 7d 7c 9c
+Turn: 4d
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Roeharla, 8s 8c
+Combination: Roeharla, Full House ( 8s 8c 8h 7d 7c )
+Shows: Rose, 6d 4c
+Combination: Rose, Two Pair ( 7d 7c 4c 4d 9c )
+Wins: Roeharla, chips: 300
+Quits: Rose, chips: 0
+Ranking: Roeharla, Place: 1, Score: 1000
+Reveal AI: Roeharla, AI: Random
+Ranking: Rose, Place: 2, Score: -1000
+Reveal AI: Rose, AI: AIMyBot1
+
+Player Stats for Roeharla, AI: Random
+General: deals: 21, actions: 6, preflop actions: 6
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 16, showdown: 5, bluff: 11
+Chips: won: 4800, lost: 3800, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.047619, 3Bet: 0.047619
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.714286
+
+
+Player Stats for Rose, AI: AIMyBot1
+General: deals: 21, actions: 11, preflop actions: 11
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 9, showdown: 6, bluff: 3
+Chips: won: 2100, lost: 3100, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+

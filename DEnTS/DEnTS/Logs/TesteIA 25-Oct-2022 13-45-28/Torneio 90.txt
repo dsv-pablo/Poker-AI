@@ -1,0 +1,628 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Voenhuwoe: Random
+Choenhe: AIMyBot1
+
+Joins: Voenhuwoe, chips: 1000
+Joins: Choenhe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Raises: Voenhuwoe, chips: 300
+Folds: Choenhe
+Pot size: 700
+Wins: Voenhuwoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Boasts: Voenhuwoe, Tc Ks
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Raises: Voenhuwoe, chips: 300
+Folds: Choenhe
+Pot size: 700
+Boasts: Voenhuwoe, 9d Kh
+Wins: Voenhuwoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Boasts: Voenhuwoe, 4s 8h
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Raises: Voenhuwoe, chips: 300
+Calls: Choenhe
+Flop: Td 7h Jd
+Turn: Kd
+River: 4c
+Pot size: 800
+Showdown Reached
+Shows: Voenhuwoe, As 8d
+Combination: Voenhuwoe, High Card ( As Kd Jd Td 8d )
+Shows: Choenhe, Qd Qh
+Combination: Choenhe, Pair ( Qd Qh Kd Jd Td )
+Wins: Voenhuwoe, chips: 200
+Wins: Choenhe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Folds: Voenhuwoe
+Pot size: 300
+Wins: Choenhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Raises: Voenhuwoe, chips: 300
+Folds: Choenhe
+Pot size: 700
+Boasts: Voenhuwoe, 7s Ks
+Wins: Voenhuwoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Boasts: Voenhuwoe, Ts 4c
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Flop: As 4s 9s
+Turn: 6d
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Voenhuwoe, 9h Ts
+Combination: Voenhuwoe, Two Pair ( 9h 9s 4s 4d As )
+Shows: Choenhe, Ac 3c
+Combination: Choenhe, Two Pair ( Ac As 4s 4d 9s )
+Wins: Choenhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Flop: Ah 9d Kc
+Turn: Kd
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Voenhuwoe, 3h Jd
+Combination: Voenhuwoe, Pair ( Kc Kd Ah Jd 9d )
+Shows: Choenhe, Qs Tc
+Combination: Choenhe, Pair ( Kc Kd Ah Qs Tc )
+Wins: Choenhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Flop: 6c Jc Jh
+Turn: 8h
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Voenhuwoe, 4c 3h
+Combination: Voenhuwoe, Two Pair ( Jc Jh 8h 8d 6c )
+Shows: Choenhe, 9d Ac
+Combination: Choenhe, Two Pair ( Jc Jh 8h 8d Ac )
+Wins: Choenhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Boasts: Voenhuwoe, Kc Jc
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Flop: Ts 6d Js
+Turn: 3c
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Voenhuwoe, 5h Qc
+Combination: Voenhuwoe, High Card ( Qc Js Ts 6d 5h )
+Shows: Choenhe, 6c 2h
+Combination: Choenhe, Pair ( 6c 6d Js Ts 4s )
+Wins: Choenhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Boasts: Voenhuwoe, 4h 6h
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Flop: Ts As 3s
+Turn: Ks
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Voenhuwoe, 7h Jc
+Combination: Voenhuwoe, High Card ( As Ks Jc Ts 7h )
+Shows: Choenhe, 8h 9s
+Combination: Choenhe, Flush ( As Ks Ts 9s 3s )
+Wins: Choenhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Flop: 6d Tc 6c
+Turn: Ah
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Voenhuwoe, 8s 7c
+Combination: Voenhuwoe, Pair ( 6d 6c Ah Tc 8s )
+Shows: Choenhe, 8d 7s
+Combination: Choenhe, Pair ( 6d 6c Ah Tc 8d )
+Wins: Voenhuwoe, chips: 100
+Wins: Choenhe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Boasts: Voenhuwoe, 6d Jd
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 100
+Flop: 2d 2c Qs
+Turn: 6d
+River: Kd
+Pot size: 200
+Showdown Reached
+Shows: Voenhuwoe, 9c 5d
+Combination: Voenhuwoe, Pair ( 2d 2c Kd Qs 9c )
+Shows: Choenhe, Jh Td
+Combination: Choenhe, Pair ( 2d 2c Kd Qs Jh )
+Wins: Choenhe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 100
+Flop: 3s Qh Ks
+Turn: 5s
+River: 2h
+Pot size: 200
+Showdown Reached
+Shows: Voenhuwoe, Th 4d
+Combination: Voenhuwoe, High Card ( Ks Qh Th 5s 4d )
+Shows: Choenhe, Ad 8h
+Combination: Choenhe, High Card ( Ad Ks Qh 8h 5s )
+Wins: Choenhe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 100
+Flop: Kd Qh 3s
+Turn: Qs
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Voenhuwoe, Qd Td
+Combination: Voenhuwoe, Three Of A Kind ( Qd Qh Qs Kd Td )
+Shows: Choenhe, 7h Ac
+Combination: Choenhe, Two Pair ( Qh Qs 7h 7d Ac )
+Wins: Voenhuwoe, chips: 200
+Quits: Choenhe, chips: 0
+Ranking: Voenhuwoe, Place: 1, Score: 1000
+Reveal AI: Voenhuwoe, AI: Random
+Ranking: Choenhe, Place: 2, Score: -1000
+Reveal AI: Choenhe, AI: AIMyBot1
+
+Player Stats for Choenhe, AI: AIMyBot1
+General: deals: 28, actions: 18, preflop actions: 18
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 10, showdown: 9, bluff: 1
+Chips: won: 3000, lost: 4200, bought: 1000, forced bets: 3900
+Pre-Flop Stats: VP$IP: 0.0357143, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9
+
+
+Player Stats for Voenhuwoe, AI: Random
+General: deals: 28, actions: 5, preflop actions: 5
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 20, showdown: 3, bluff: 17
+Chips: won: 6800, lost: 5800, bought: 1000, forced bets: 4200
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.3
+
+
+Date: 2022/10/25 13:45:36
+
+The game begins. The AI's of the players are: 
+Voenhuwoe: Random
+Choenhe: AIMyBot1
+
+Joins: Voenhuwoe, chips: 1000
+Joins: Choenhe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Raises: Voenhuwoe, chips: 300
+Folds: Choenhe
+Pot size: 700
+Wins: Voenhuwoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Boasts: Voenhuwoe, Tc Ks
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Raises: Voenhuwoe, chips: 300
+Folds: Choenhe
+Pot size: 700
+Boasts: Voenhuwoe, 9d Kh
+Wins: Voenhuwoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Boasts: Voenhuwoe, 4s 8h
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Raises: Voenhuwoe, chips: 300
+Calls: Choenhe
+Flop: Td 7h Jd
+Turn: Kd
+River: 4c
+Pot size: 800
+Showdown Reached
+Shows: Voenhuwoe, As 8d
+Combination: Voenhuwoe, High Card ( As Kd Jd Td 8d )
+Shows: Choenhe, Qd Qh
+Combination: Choenhe, Pair ( Qd Qh Kd Jd Td )
+Wins: Voenhuwoe, chips: 200
+Wins: Choenhe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Folds: Voenhuwoe
+Pot size: 300
+Wins: Choenhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Raises: Voenhuwoe, chips: 300
+Folds: Choenhe
+Pot size: 700
+Boasts: Voenhuwoe, 7s Ks
+Wins: Voenhuwoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Boasts: Voenhuwoe, Ts 4c
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Flop: As 4s 9s
+Turn: 6d
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Voenhuwoe, 9h Ts
+Combination: Voenhuwoe, Two Pair ( 9h 9s 4s 4d As )
+Shows: Choenhe, Ac 3c
+Combination: Choenhe, Two Pair ( Ac As 4s 4d 9s )
+Wins: Choenhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Flop: Ah 9d Kc
+Turn: Kd
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Voenhuwoe, 3h Jd
+Combination: Voenhuwoe, Pair ( Kc Kd Ah Jd 9d )
+Shows: Choenhe, Qs Tc
+Combination: Choenhe, Pair ( Kc Kd Ah Qs Tc )
+Wins: Choenhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Flop: 6c Jc Jh
+Turn: 8h
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Voenhuwoe, 4c 3h
+Combination: Voenhuwoe, Two Pair ( Jc Jh 8h 8d 6c )
+Shows: Choenhe, 9d Ac
+Combination: Choenhe, Two Pair ( Jc Jh 8h 8d Ac )
+Wins: Choenhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Boasts: Voenhuwoe, Kc Jc
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Flop: Ts 6d Js
+Turn: 3c
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Voenhuwoe, 5h Qc
+Combination: Voenhuwoe, High Card ( Qc Js Ts 6d 5h )
+Shows: Choenhe, 6c 2h
+Combination: Choenhe, Pair ( 6c 6d Js Ts 4s )
+Wins: Choenhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Boasts: Voenhuwoe, 4h 6h
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Flop: Ts As 3s
+Turn: Ks
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Voenhuwoe, 7h Jc
+Combination: Voenhuwoe, High Card ( As Ks Jc Ts 7h )
+Shows: Choenhe, 8h 9s
+Combination: Choenhe, Flush ( As Ks Ts 9s 3s )
+Wins: Choenhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 200
+Flop: 6d Tc 6c
+Turn: Ah
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Voenhuwoe, 8s 7c
+Combination: Voenhuwoe, Pair ( 6d 6c Ah Tc 8s )
+Shows: Choenhe, 8d 7s
+Combination: Choenhe, Pair ( 6d 6c Ah Tc 8d )
+Wins: Voenhuwoe, chips: 100
+Wins: Choenhe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Boasts: Voenhuwoe, 6d Jd
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 100
+Flop: 2d 2c Qs
+Turn: 6d
+River: Kd
+Pot size: 200
+Showdown Reached
+Shows: Voenhuwoe, 9c 5d
+Combination: Voenhuwoe, Pair ( 2d 2c Kd Qs 9c )
+Shows: Choenhe, Jh Td
+Combination: Choenhe, Pair ( 2d 2c Kd Qs Jh )
+Wins: Choenhe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 100
+Flop: 3s Qh Ks
+Turn: 5s
+River: 2h
+Pot size: 200
+Showdown Reached
+Shows: Voenhuwoe, Th 4d
+Combination: Voenhuwoe, High Card ( Ks Qh Th 5s 4d )
+Shows: Choenhe, Ad 8h
+Combination: Choenhe, High Card ( Ad Ks Qh 8h 5s )
+Wins: Choenhe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choenhe
+Small Blind: Choenhe, chips: 100
+Big Blind: Voenhuwoe, chips: 200
+Folds: Choenhe
+Pot size: 300
+Wins: Voenhuwoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhuwoe
+Small Blind: Voenhuwoe, chips: 100
+Big Blind: Choenhe, chips: 100
+Flop: Kd Qh 3s
+Turn: Qs
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Voenhuwoe, Qd Td
+Combination: Voenhuwoe, Three Of A Kind ( Qd Qh Qs Kd Td )
+Shows: Choenhe, 7h Ac
+Combination: Choenhe, Two Pair ( Qh Qs 7h 7d Ac )
+Wins: Voenhuwoe, chips: 200
+Quits: Choenhe, chips: 0
+Ranking: Voenhuwoe, Place: 1, Score: 1000
+Reveal AI: Voenhuwoe, AI: Random
+Ranking: Choenhe, Place: 2, Score: -1000
+Reveal AI: Choenhe, AI: AIMyBot1
+
+Player Stats for Choenhe, AI: AIMyBot1
+General: deals: 28, actions: 18, preflop actions: 18
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 10, showdown: 9, bluff: 1
+Chips: won: 3000, lost: 4200, bought: 1000, forced bets: 3900
+Pre-Flop Stats: VP$IP: 0.0357143, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9
+
+
+Player Stats for Voenhuwoe, AI: Random
+General: deals: 28, actions: 5, preflop actions: 5
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 20, showdown: 3, bluff: 17
+Chips: won: 6800, lost: 5800, bought: 1000, forced bets: 4200
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.3
+
+

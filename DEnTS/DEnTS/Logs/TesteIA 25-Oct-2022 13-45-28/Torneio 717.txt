@@ -1,0 +1,282 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Ruticha: Random
+Weelum: AIMyBot1
+
+Joins: Ruticha, chips: 1000
+Joins: Weelum, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ruticha
+Small Blind: Ruticha, chips: 100
+Big Blind: Weelum, chips: 200
+Raises: Ruticha, chips: 300
+Folds: Weelum
+Pot size: 700
+Boasts: Ruticha, As 3s
+Wins: Ruticha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weelum
+Small Blind: Weelum, chips: 100
+Big Blind: Ruticha, chips: 200
+Folds: Weelum
+Pot size: 300
+Boasts: Ruticha, 2h 3c
+Wins: Ruticha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ruticha
+Small Blind: Ruticha, chips: 100
+Big Blind: Weelum, chips: 200
+Calls: Ruticha
+DEBUG MESSAGE: INVALID ACTION FROM Weelum (2 0)
+Folds: Weelum
+Pot size: 400
+Wins: Ruticha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weelum
+Small Blind: Weelum, chips: 100
+Big Blind: Ruticha, chips: 200
+Folds: Weelum
+Pot size: 300
+Boasts: Ruticha, Jc 5h
+Wins: Ruticha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ruticha
+Small Blind: Ruticha, chips: 100
+Big Blind: Weelum, chips: 200
+Calls: Ruticha
+DEBUG MESSAGE: INVALID ACTION FROM Weelum (2 0)
+Folds: Weelum
+Pot size: 400
+Boasts: Ruticha, 7c 4c
+Wins: Ruticha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weelum
+Small Blind: Weelum, chips: 100
+Big Blind: Ruticha, chips: 200
+Folds: Weelum
+Pot size: 300
+Wins: Ruticha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ruticha
+Small Blind: Ruticha, chips: 100
+Big Blind: Weelum, chips: 100
+Flop: Jc 3h 8s
+Turn: 6c
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Ruticha, Th Qh
+Combination: Ruticha, High Card ( Qh Jc Th 8s 7h )
+Shows: Weelum, Ad Jd
+Combination: Weelum, Pair ( Jd Jc Ad 8s 7h )
+Wins: Weelum, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weelum
+Small Blind: Weelum, chips: 100
+Big Blind: Ruticha, chips: 200
+Folds: Weelum
+Pot size: 300
+Boasts: Ruticha, 2d Qd
+Wins: Ruticha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ruticha
+Small Blind: Ruticha, chips: 100
+Big Blind: Weelum, chips: 100
+Flop: 6c 8h 5c
+Turn: Qh
+River: 3h
+Pot size: 200
+Showdown Reached
+Shows: Ruticha, Ad 4s
+Combination: Ruticha, High Card ( Ad Qh 8h 6c 5c )
+Shows: Weelum, 6s Ah
+Combination: Weelum, Pair ( 6s 6c Ah Qh 8h )
+Wins: Weelum, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weelum
+Small Blind: Weelum, chips: 100
+Big Blind: Ruticha, chips: 200
+Folds: Weelum
+Pot size: 300
+Wins: Ruticha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ruticha
+Small Blind: Ruticha, chips: 100
+Big Blind: Weelum, chips: 100
+Flop: 8h 3s 4d
+Turn: Tc
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Ruticha, Ts 8s
+Combination: Ruticha, Two Pair ( Ts Tc 8s 8h 5d )
+Shows: Weelum, Qs Jh
+Combination: Weelum, High Card ( Qs Jh Tc 8h 5d )
+Wins: Ruticha, chips: 200
+Quits: Weelum, chips: 0
+Ranking: Ruticha, Place: 1, Score: 1000
+Reveal AI: Ruticha, AI: Random
+Ranking: Weelum, Place: 2, Score: -1000
+Reveal AI: Weelum, AI: AIMyBot1
+
+Player Stats for Ruticha, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Weelum, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:17
+
+The game begins. The AI's of the players are: 
+Ruticha: Random
+Weelum: AIMyBot1
+
+Joins: Ruticha, chips: 1000
+Joins: Weelum, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ruticha
+Small Blind: Ruticha, chips: 100
+Big Blind: Weelum, chips: 200
+Raises: Ruticha, chips: 300
+Folds: Weelum
+Pot size: 700
+Boasts: Ruticha, As 3s
+Wins: Ruticha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weelum
+Small Blind: Weelum, chips: 100
+Big Blind: Ruticha, chips: 200
+Folds: Weelum
+Pot size: 300
+Boasts: Ruticha, 2h 3c
+Wins: Ruticha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ruticha
+Small Blind: Ruticha, chips: 100
+Big Blind: Weelum, chips: 200
+Calls: Ruticha
+DEBUG MESSAGE: INVALID ACTION FROM Weelum (2 0)
+Folds: Weelum
+Pot size: 400
+Wins: Ruticha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weelum
+Small Blind: Weelum, chips: 100
+Big Blind: Ruticha, chips: 200
+Folds: Weelum
+Pot size: 300
+Boasts: Ruticha, Jc 5h
+Wins: Ruticha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ruticha
+Small Blind: Ruticha, chips: 100
+Big Blind: Weelum, chips: 200
+Calls: Ruticha
+DEBUG MESSAGE: INVALID ACTION FROM Weelum (2 0)
+Folds: Weelum
+Pot size: 400
+Boasts: Ruticha, 7c 4c
+Wins: Ruticha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weelum
+Small Blind: Weelum, chips: 100
+Big Blind: Ruticha, chips: 200
+Folds: Weelum
+Pot size: 300
+Wins: Ruticha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ruticha
+Small Blind: Ruticha, chips: 100
+Big Blind: Weelum, chips: 100
+Flop: Jc 3h 8s
+Turn: 6c
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Ruticha, Th Qh
+Combination: Ruticha, High Card ( Qh Jc Th 8s 7h )
+Shows: Weelum, Ad Jd
+Combination: Weelum, Pair ( Jd Jc Ad 8s 7h )
+Wins: Weelum, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weelum
+Small Blind: Weelum, chips: 100
+Big Blind: Ruticha, chips: 200
+Folds: Weelum
+Pot size: 300
+Boasts: Ruticha, 2d Qd
+Wins: Ruticha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ruticha
+Small Blind: Ruticha, chips: 100
+Big Blind: Weelum, chips: 100
+Flop: 6c 8h 5c
+Turn: Qh
+River: 3h
+Pot size: 200
+Showdown Reached
+Shows: Ruticha, Ad 4s
+Combination: Ruticha, High Card ( Ad Qh 8h 6c 5c )
+Shows: Weelum, 6s Ah
+Combination: Weelum, Pair ( 6s 6c Ah Qh 8h )
+Wins: Weelum, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weelum
+Small Blind: Weelum, chips: 100
+Big Blind: Ruticha, chips: 200
+Folds: Weelum
+Pot size: 300
+Wins: Ruticha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ruticha
+Small Blind: Ruticha, chips: 100
+Big Blind: Weelum, chips: 100
+Flop: 8h 3s 4d
+Turn: Tc
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Ruticha, Ts 8s
+Combination: Ruticha, Two Pair ( Ts Tc 8s 8h 5d )
+Shows: Weelum, Qs Jh
+Combination: Weelum, High Card ( Qs Jh Tc 8h 5d )
+Wins: Ruticha, chips: 200
+Quits: Weelum, chips: 0
+Ranking: Ruticha, Place: 1, Score: 1000
+Reveal AI: Ruticha, AI: Random
+Ranking: Weelum, Place: 2, Score: -1000
+Reveal AI: Weelum, AI: AIMyBot1
+
+Player Stats for Ruticha, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Weelum, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

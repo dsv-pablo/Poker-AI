@@ -1,0 +1,224 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Mugoef: Random
+Doe: AIMyBot1
+
+Joins: Mugoef, chips: 1000
+Joins: Doe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mugoef
+Small Blind: Mugoef, chips: 100
+Big Blind: Doe, chips: 200
+Folds: Mugoef
+Pot size: 300
+Wins: Doe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doe
+Small Blind: Doe, chips: 100
+Big Blind: Mugoef, chips: 200
+Folds: Doe
+Pot size: 300
+Wins: Mugoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mugoef
+Small Blind: Mugoef, chips: 100
+Big Blind: Doe, chips: 200
+Calls: Mugoef
+DEBUG MESSAGE: INVALID ACTION FROM Doe (2 0)
+Folds: Doe
+Pot size: 400
+Wins: Mugoef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doe
+Small Blind: Doe, chips: 100
+Big Blind: Mugoef, chips: 200
+Folds: Doe
+Pot size: 300
+Boasts: Mugoef, Kh 7s
+Wins: Mugoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mugoef
+Small Blind: Mugoef, chips: 100
+Big Blind: Doe, chips: 200
+Calls: Mugoef
+DEBUG MESSAGE: INVALID ACTION FROM Doe (2 0)
+Folds: Doe
+Pot size: 400
+Wins: Mugoef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doe
+Small Blind: Doe, chips: 100
+Big Blind: Mugoef, chips: 200
+Folds: Doe
+Pot size: 300
+Wins: Mugoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mugoef
+Small Blind: Mugoef, chips: 100
+Big Blind: Doe, chips: 200
+Calls: Mugoef
+DEBUG MESSAGE: INVALID ACTION FROM Doe (2 0)
+Folds: Doe
+Pot size: 400
+Boasts: Mugoef, 6c Jd
+Wins: Mugoef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doe
+Small Blind: Doe, chips: 100
+Big Blind: Mugoef, chips: 200
+Folds: Doe
+Pot size: 300
+Boasts: Mugoef, Kc Ac
+Wins: Mugoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mugoef
+Small Blind: Mugoef, chips: 100
+Big Blind: Doe, chips: 100
+Flop: 7s 8d Qs
+Turn: Ac
+River: 2c
+Pot size: 200
+Showdown Reached
+Shows: Mugoef, 9d Qc
+Combination: Mugoef, Pair ( Qc Qs Ac 9d 8d )
+Shows: Doe, 8c Jc
+Combination: Doe, Pair ( 8c 8d Ac Qs Jc )
+Wins: Mugoef, chips: 200
+Quits: Doe, chips: 0
+Ranking: Mugoef, Place: 1, Score: 1000
+Reveal AI: Mugoef, AI: Random
+Ranking: Doe, Place: 2, Score: -1000
+Reveal AI: Doe, AI: AIMyBot1
+
+Player Stats for Doe, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Mugoef, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:06
+
+The game begins. The AI's of the players are: 
+Mugoef: Random
+Doe: AIMyBot1
+
+Joins: Mugoef, chips: 1000
+Joins: Doe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mugoef
+Small Blind: Mugoef, chips: 100
+Big Blind: Doe, chips: 200
+Folds: Mugoef
+Pot size: 300
+Wins: Doe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doe
+Small Blind: Doe, chips: 100
+Big Blind: Mugoef, chips: 200
+Folds: Doe
+Pot size: 300
+Wins: Mugoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mugoef
+Small Blind: Mugoef, chips: 100
+Big Blind: Doe, chips: 200
+Calls: Mugoef
+DEBUG MESSAGE: INVALID ACTION FROM Doe (2 0)
+Folds: Doe
+Pot size: 400
+Wins: Mugoef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doe
+Small Blind: Doe, chips: 100
+Big Blind: Mugoef, chips: 200
+Folds: Doe
+Pot size: 300
+Boasts: Mugoef, Kh 7s
+Wins: Mugoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mugoef
+Small Blind: Mugoef, chips: 100
+Big Blind: Doe, chips: 200
+Calls: Mugoef
+DEBUG MESSAGE: INVALID ACTION FROM Doe (2 0)
+Folds: Doe
+Pot size: 400
+Wins: Mugoef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doe
+Small Blind: Doe, chips: 100
+Big Blind: Mugoef, chips: 200
+Folds: Doe
+Pot size: 300
+Wins: Mugoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mugoef
+Small Blind: Mugoef, chips: 100
+Big Blind: Doe, chips: 200
+Calls: Mugoef
+DEBUG MESSAGE: INVALID ACTION FROM Doe (2 0)
+Folds: Doe
+Pot size: 400
+Boasts: Mugoef, 6c Jd
+Wins: Mugoef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doe
+Small Blind: Doe, chips: 100
+Big Blind: Mugoef, chips: 200
+Folds: Doe
+Pot size: 300
+Boasts: Mugoef, Kc Ac
+Wins: Mugoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mugoef
+Small Blind: Mugoef, chips: 100
+Big Blind: Doe, chips: 100
+Flop: 7s 8d Qs
+Turn: Ac
+River: 2c
+Pot size: 200
+Showdown Reached
+Shows: Mugoef, 9d Qc
+Combination: Mugoef, Pair ( Qc Qs Ac 9d 8d )
+Shows: Doe, 8c Jc
+Combination: Doe, Pair ( 8c 8d Ac Qs Jc )
+Wins: Mugoef, chips: 200
+Quits: Doe, chips: 0
+Ranking: Mugoef, Place: 1, Score: 1000
+Reveal AI: Mugoef, AI: Random
+Ranking: Doe, Place: 2, Score: -1000
+Reveal AI: Doe, AI: AIMyBot1
+
+Player Stats for Doe, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Mugoef, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

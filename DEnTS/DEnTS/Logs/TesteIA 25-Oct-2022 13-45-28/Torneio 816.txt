@@ -1,0 +1,220 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hoesepee: AIMyBot1
+Tee: Random
+
+Joins: Hoesepee, chips: 1000
+Joins: Tee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoesepee
+Small Blind: Hoesepee, chips: 100
+Big Blind: Tee, chips: 200
+Folds: Hoesepee
+Pot size: 300
+Boasts: Tee, 8d Qs
+Wins: Tee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tee
+Small Blind: Tee, chips: 100
+Big Blind: Hoesepee, chips: 200
+Calls: Tee
+DEBUG MESSAGE: INVALID ACTION FROM Hoesepee (2 0)
+Folds: Hoesepee
+Pot size: 400
+Wins: Tee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoesepee
+Small Blind: Hoesepee, chips: 100
+Big Blind: Tee, chips: 200
+Folds: Hoesepee
+Pot size: 300
+Boasts: Tee, Qh Qs
+Wins: Tee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tee
+Small Blind: Tee, chips: 100
+Big Blind: Hoesepee, chips: 200
+Folds: Tee
+Pot size: 300
+Wins: Hoesepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoesepee
+Small Blind: Hoesepee, chips: 100
+Big Blind: Tee, chips: 200
+Folds: Hoesepee
+Pot size: 300
+Boasts: Tee, 8s Ks
+Wins: Tee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tee
+Small Blind: Tee, chips: 100
+Big Blind: Hoesepee, chips: 200
+Raises: Tee, chips: 300
+Folds: Hoesepee
+Pot size: 700
+Wins: Tee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoesepee
+Small Blind: Hoesepee, chips: 100
+Big Blind: Tee, chips: 200
+Folds: Hoesepee
+Pot size: 300
+Wins: Tee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tee
+Small Blind: Tee, chips: 100
+Big Blind: Hoesepee, chips: 200
+Raises: Tee, chips: 300
+Folds: Hoesepee
+Pot size: 700
+Wins: Tee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoesepee
+Small Blind: Hoesepee, chips: 100
+Big Blind: Tee, chips: 200
+Flop: Jd 8c Kh
+Turn: 5h
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Hoesepee, 6h 7s
+Combination: Hoesepee, High Card ( Kh Qh Jd 8c 7s )
+Shows: Tee, Ac 8d
+Combination: Tee, Pair ( 8d 8c Ac Kh Qh )
+Wins: Tee, chips: 300
+Quits: Hoesepee, chips: 0
+Ranking: Tee, Place: 1, Score: 1000
+Reveal AI: Tee, AI: Random
+Ranking: Hoesepee, Place: 2, Score: -1000
+Reveal AI: Hoesepee, AI: AIMyBot1
+
+Player Stats for Hoesepee, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Tee, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:23
+
+The game begins. The AI's of the players are: 
+Hoesepee: AIMyBot1
+Tee: Random
+
+Joins: Hoesepee, chips: 1000
+Joins: Tee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoesepee
+Small Blind: Hoesepee, chips: 100
+Big Blind: Tee, chips: 200
+Folds: Hoesepee
+Pot size: 300
+Boasts: Tee, 8d Qs
+Wins: Tee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tee
+Small Blind: Tee, chips: 100
+Big Blind: Hoesepee, chips: 200
+Calls: Tee
+DEBUG MESSAGE: INVALID ACTION FROM Hoesepee (2 0)
+Folds: Hoesepee
+Pot size: 400
+Wins: Tee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoesepee
+Small Blind: Hoesepee, chips: 100
+Big Blind: Tee, chips: 200
+Folds: Hoesepee
+Pot size: 300
+Boasts: Tee, Qh Qs
+Wins: Tee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tee
+Small Blind: Tee, chips: 100
+Big Blind: Hoesepee, chips: 200
+Folds: Tee
+Pot size: 300
+Wins: Hoesepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoesepee
+Small Blind: Hoesepee, chips: 100
+Big Blind: Tee, chips: 200
+Folds: Hoesepee
+Pot size: 300
+Boasts: Tee, 8s Ks
+Wins: Tee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tee
+Small Blind: Tee, chips: 100
+Big Blind: Hoesepee, chips: 200
+Raises: Tee, chips: 300
+Folds: Hoesepee
+Pot size: 700
+Wins: Tee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoesepee
+Small Blind: Hoesepee, chips: 100
+Big Blind: Tee, chips: 200
+Folds: Hoesepee
+Pot size: 300
+Wins: Tee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tee
+Small Blind: Tee, chips: 100
+Big Blind: Hoesepee, chips: 200
+Raises: Tee, chips: 300
+Folds: Hoesepee
+Pot size: 700
+Wins: Tee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoesepee
+Small Blind: Hoesepee, chips: 100
+Big Blind: Tee, chips: 200
+Flop: Jd 8c Kh
+Turn: 5h
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Hoesepee, 6h 7s
+Combination: Hoesepee, High Card ( Kh Qh Jd 8c 7s )
+Shows: Tee, Ac 8d
+Combination: Tee, Pair ( 8d 8c Ac Kh Qh )
+Wins: Tee, chips: 300
+Quits: Hoesepee, chips: 0
+Ranking: Tee, Place: 1, Score: 1000
+Reveal AI: Tee, AI: Random
+Ranking: Hoesepee, Place: 2, Score: -1000
+Reveal AI: Hoesepee, AI: AIMyBot1
+
+Player Stats for Hoesepee, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Tee, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

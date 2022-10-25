@@ -1,0 +1,398 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Luwrugi: AIMyBot1
+Gawee: Random
+
+Joins: Luwrugi, chips: 1000
+Joins: Gawee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luwrugi
+Small Blind: Luwrugi, chips: 100
+Big Blind: Gawee, chips: 200
+Folds: Luwrugi
+Pot size: 300
+Boasts: Gawee, 2c 9c
+Wins: Gawee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawee
+Small Blind: Gawee, chips: 100
+Big Blind: Luwrugi, chips: 200
+Raises: Gawee, chips: 300
+Folds: Luwrugi
+Pot size: 700
+Wins: Gawee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luwrugi
+Small Blind: Luwrugi, chips: 100
+Big Blind: Gawee, chips: 200
+Folds: Luwrugi
+Pot size: 300
+Boasts: Gawee, 5c 8s
+Wins: Gawee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawee
+Small Blind: Gawee, chips: 100
+Big Blind: Luwrugi, chips: 200
+Raises: Gawee, chips: 300
+Folds: Luwrugi
+Pot size: 700
+Boasts: Gawee, Jd 8h
+Wins: Gawee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luwrugi
+Small Blind: Luwrugi, chips: 100
+Big Blind: Gawee, chips: 200
+Folds: Luwrugi
+Pot size: 300
+Boasts: Gawee, 2s Js
+Wins: Gawee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawee
+Small Blind: Gawee, chips: 100
+Big Blind: Luwrugi, chips: 200
+Calls: Gawee
+DEBUG MESSAGE: INVALID ACTION FROM Luwrugi (2 0)
+Folds: Luwrugi
+Pot size: 400
+Boasts: Gawee, 4h Qs
+Wins: Gawee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luwrugi
+Small Blind: Luwrugi, chips: 100
+Big Blind: Gawee, chips: 200
+Flop: Kc Td Qd
+Turn: As
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Luwrugi, 6s 5c
+Combination: Luwrugi, Straight ( As Kc Qd Jh Td )
+Shows: Gawee, 7h Kd
+Combination: Gawee, Straight ( As Kd Qd Jh Td )
+Wins: Luwrugi, chips: 100
+Wins: Gawee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawee
+Small Blind: Gawee, chips: 100
+Big Blind: Luwrugi, chips: 100
+Flop: 6d Jh 8c
+Turn: 6h
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Luwrugi, 2s Ac
+Combination: Luwrugi, Pair ( 6d 6h Ac Jh 8c )
+Shows: Gawee, 7h 3s
+Combination: Gawee, Pair ( 6d 6h Jh 8c 7h )
+Wins: Luwrugi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luwrugi
+Small Blind: Luwrugi, chips: 100
+Big Blind: Gawee, chips: 200
+Folds: Luwrugi
+Pot size: 300
+Wins: Gawee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawee
+Small Blind: Gawee, chips: 100
+Big Blind: Luwrugi, chips: 100
+Flop: 2d 3h Qh
+Turn: 2c
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Luwrugi, 3c 2h
+Combination: Luwrugi, Full House ( 2h 2d 2c 3c 3h )
+Shows: Gawee, 9d 5h
+Combination: Gawee, Pair ( 2d 2c Ad Qh 9d )
+Wins: Luwrugi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luwrugi
+Small Blind: Luwrugi, chips: 100
+Big Blind: Gawee, chips: 200
+Folds: Luwrugi
+Pot size: 300
+Boasts: Gawee, 6h Tc
+Wins: Gawee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawee
+Small Blind: Gawee, chips: 100
+Big Blind: Luwrugi, chips: 100
+Flop: 3s Tc As
+Turn: 8h
+River: 2h
+Pot size: 200
+Showdown Reached
+Shows: Luwrugi, 8c 9h
+Combination: Luwrugi, Pair ( 8c 8h As Tc 9h )
+Shows: Gawee, 7d 2c
+Combination: Gawee, Pair ( 2c 2h As Tc 8h )
+Wins: Luwrugi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luwrugi
+Small Blind: Luwrugi, chips: 100
+Big Blind: Gawee, chips: 200
+Folds: Luwrugi
+Pot size: 300
+Wins: Gawee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawee
+Small Blind: Gawee, chips: 100
+Big Blind: Luwrugi, chips: 100
+Flop: 5s 4h 8d
+Turn: 3d
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Luwrugi, 9h Ac
+Combination: Luwrugi, Pair ( Ac As 9h 8d 5s )
+Shows: Gawee, Qc 7h
+Combination: Gawee, High Card ( As Qc 8d 7h 5s )
+Wins: Luwrugi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luwrugi
+Small Blind: Luwrugi, chips: 100
+Big Blind: Gawee, chips: 200
+Folds: Luwrugi
+Pot size: 300
+Boasts: Gawee, As 6c
+Wins: Gawee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawee
+Small Blind: Gawee, chips: 100
+Big Blind: Luwrugi, chips: 100
+Flop: Js 7s 2c
+Turn: Ac
+River: 8d
+Pot size: 200
+Showdown Reached
+Shows: Luwrugi, 4s 6d
+Combination: Luwrugi, High Card ( Ac Js 8d 7s 6d )
+Shows: Gawee, Th 7h
+Combination: Gawee, Pair ( 7h 7s Ac Js Th )
+Wins: Gawee, chips: 200
+Quits: Luwrugi, chips: 0
+Ranking: Gawee, Place: 1, Score: 1000
+Reveal AI: Gawee, AI: Random
+Ranking: Luwrugi, Place: 2, Score: -1000
+Reveal AI: Luwrugi, AI: AIMyBot1
+
+Player Stats for Gawee, AI: Random
+General: deals: 16, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 2, bluff: 10
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.1875, PFR: 0.125, 3Bet: 0.125
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Luwrugi, AI: AIMyBot1
+General: deals: 16, actions: 10, preflop actions: 10
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:46:02
+
+The game begins. The AI's of the players are: 
+Luwrugi: AIMyBot1
+Gawee: Random
+
+Joins: Luwrugi, chips: 1000
+Joins: Gawee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luwrugi
+Small Blind: Luwrugi, chips: 100
+Big Blind: Gawee, chips: 200
+Folds: Luwrugi
+Pot size: 300
+Boasts: Gawee, 2c 9c
+Wins: Gawee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawee
+Small Blind: Gawee, chips: 100
+Big Blind: Luwrugi, chips: 200
+Raises: Gawee, chips: 300
+Folds: Luwrugi
+Pot size: 700
+Wins: Gawee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luwrugi
+Small Blind: Luwrugi, chips: 100
+Big Blind: Gawee, chips: 200
+Folds: Luwrugi
+Pot size: 300
+Boasts: Gawee, 5c 8s
+Wins: Gawee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawee
+Small Blind: Gawee, chips: 100
+Big Blind: Luwrugi, chips: 200
+Raises: Gawee, chips: 300
+Folds: Luwrugi
+Pot size: 700
+Boasts: Gawee, Jd 8h
+Wins: Gawee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luwrugi
+Small Blind: Luwrugi, chips: 100
+Big Blind: Gawee, chips: 200
+Folds: Luwrugi
+Pot size: 300
+Boasts: Gawee, 2s Js
+Wins: Gawee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawee
+Small Blind: Gawee, chips: 100
+Big Blind: Luwrugi, chips: 200
+Calls: Gawee
+DEBUG MESSAGE: INVALID ACTION FROM Luwrugi (2 0)
+Folds: Luwrugi
+Pot size: 400
+Boasts: Gawee, 4h Qs
+Wins: Gawee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luwrugi
+Small Blind: Luwrugi, chips: 100
+Big Blind: Gawee, chips: 200
+Flop: Kc Td Qd
+Turn: As
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Luwrugi, 6s 5c
+Combination: Luwrugi, Straight ( As Kc Qd Jh Td )
+Shows: Gawee, 7h Kd
+Combination: Gawee, Straight ( As Kd Qd Jh Td )
+Wins: Luwrugi, chips: 100
+Wins: Gawee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawee
+Small Blind: Gawee, chips: 100
+Big Blind: Luwrugi, chips: 100
+Flop: 6d Jh 8c
+Turn: 6h
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Luwrugi, 2s Ac
+Combination: Luwrugi, Pair ( 6d 6h Ac Jh 8c )
+Shows: Gawee, 7h 3s
+Combination: Gawee, Pair ( 6d 6h Jh 8c 7h )
+Wins: Luwrugi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luwrugi
+Small Blind: Luwrugi, chips: 100
+Big Blind: Gawee, chips: 200
+Folds: Luwrugi
+Pot size: 300
+Wins: Gawee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawee
+Small Blind: Gawee, chips: 100
+Big Blind: Luwrugi, chips: 100
+Flop: 2d 3h Qh
+Turn: 2c
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Luwrugi, 3c 2h
+Combination: Luwrugi, Full House ( 2h 2d 2c 3c 3h )
+Shows: Gawee, 9d 5h
+Combination: Gawee, Pair ( 2d 2c Ad Qh 9d )
+Wins: Luwrugi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luwrugi
+Small Blind: Luwrugi, chips: 100
+Big Blind: Gawee, chips: 200
+Folds: Luwrugi
+Pot size: 300
+Boasts: Gawee, 6h Tc
+Wins: Gawee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawee
+Small Blind: Gawee, chips: 100
+Big Blind: Luwrugi, chips: 100
+Flop: 3s Tc As
+Turn: 8h
+River: 2h
+Pot size: 200
+Showdown Reached
+Shows: Luwrugi, 8c 9h
+Combination: Luwrugi, Pair ( 8c 8h As Tc 9h )
+Shows: Gawee, 7d 2c
+Combination: Gawee, Pair ( 2c 2h As Tc 8h )
+Wins: Luwrugi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luwrugi
+Small Blind: Luwrugi, chips: 100
+Big Blind: Gawee, chips: 200
+Folds: Luwrugi
+Pot size: 300
+Wins: Gawee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawee
+Small Blind: Gawee, chips: 100
+Big Blind: Luwrugi, chips: 100
+Flop: 5s 4h 8d
+Turn: 3d
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Luwrugi, 9h Ac
+Combination: Luwrugi, Pair ( Ac As 9h 8d 5s )
+Shows: Gawee, Qc 7h
+Combination: Gawee, High Card ( As Qc 8d 7h 5s )
+Wins: Luwrugi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luwrugi
+Small Blind: Luwrugi, chips: 100
+Big Blind: Gawee, chips: 200
+Folds: Luwrugi
+Pot size: 300
+Boasts: Gawee, As 6c
+Wins: Gawee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawee
+Small Blind: Gawee, chips: 100
+Big Blind: Luwrugi, chips: 100
+Flop: Js 7s 2c
+Turn: Ac
+River: 8d
+Pot size: 200
+Showdown Reached
+Shows: Luwrugi, 4s 6d
+Combination: Luwrugi, High Card ( Ac Js 8d 7s 6d )
+Shows: Gawee, Th 7h
+Combination: Gawee, Pair ( 7h 7s Ac Js Th )
+Wins: Gawee, chips: 200
+Quits: Luwrugi, chips: 0
+Ranking: Gawee, Place: 1, Score: 1000
+Reveal AI: Gawee, AI: Random
+Ranking: Luwrugi, Place: 2, Score: -1000
+Reveal AI: Luwrugi, AI: AIMyBot1
+
+Player Stats for Gawee, AI: Random
+General: deals: 16, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 2, bluff: 10
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.1875, PFR: 0.125, 3Bet: 0.125
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Luwrugi, AI: AIMyBot1
+General: deals: 16, actions: 10, preflop actions: 10
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

@@ -1,0 +1,328 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Su: Random
+Teedaf: AIMyBot1
+
+Joins: Su, chips: 1000
+Joins: Teedaf, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Teedaf, chips: 200
+Folds: Su
+Pot size: 300
+Wins: Teedaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teedaf
+Small Blind: Teedaf, chips: 100
+Big Blind: Su, chips: 200
+Folds: Teedaf
+Pot size: 300
+Boasts: Su, Ah 3d
+Wins: Su, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Teedaf, chips: 200
+Folds: Su
+Pot size: 300
+Wins: Teedaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teedaf
+Small Blind: Teedaf, chips: 100
+Big Blind: Su, chips: 200
+Folds: Teedaf
+Pot size: 300
+Wins: Su, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Teedaf, chips: 200
+Raises: Su, chips: 300
+Folds: Teedaf
+Pot size: 700
+Boasts: Su, 2h Td
+Wins: Su, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teedaf
+Small Blind: Teedaf, chips: 100
+Big Blind: Su, chips: 200
+Folds: Teedaf
+Pot size: 300
+Boasts: Su, 3c 6h
+Wins: Su, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Teedaf, chips: 200
+Calls: Su
+DEBUG MESSAGE: INVALID ACTION FROM Teedaf (2 0)
+Folds: Teedaf
+Pot size: 400
+Boasts: Su, 7h 3d
+Wins: Su, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teedaf
+Small Blind: Teedaf, chips: 100
+Big Blind: Su, chips: 200
+Folds: Teedaf
+Pot size: 300
+Boasts: Su, 8d Ad
+Wins: Su, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Teedaf, chips: 200
+Folds: Su
+Pot size: 300
+Wins: Teedaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teedaf
+Small Blind: Teedaf, chips: 100
+Big Blind: Su, chips: 200
+Folds: Teedaf
+Pot size: 300
+Boasts: Su, 5h Jh
+Wins: Su, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Teedaf, chips: 200
+Raises: Su, chips: 300
+Folds: Teedaf
+Pot size: 700
+Wins: Su, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teedaf
+Small Blind: Teedaf, chips: 100
+Big Blind: Su, chips: 200
+Folds: Teedaf
+Pot size: 300
+Boasts: Su, 5s Qs
+Wins: Su, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Teedaf, chips: 100
+Flop: 3h 8s 4d
+Turn: Qs
+River: Th
+Pot size: 200
+Showdown Reached
+Shows: Su, 2h 6d
+Combination: Su, High Card ( Qs Th 8s 6d 4d )
+Shows: Teedaf, 3s 9c
+Combination: Teedaf, Pair ( 3s 3h Qs Th 9c )
+Wins: Teedaf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teedaf
+Small Blind: Teedaf, chips: 100
+Big Blind: Su, chips: 200
+Folds: Teedaf
+Pot size: 300
+Boasts: Su, Tc Jh
+Wins: Su, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Teedaf, chips: 100
+Flop: Ks 6s Js
+Turn: 7d
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Su, Jc Jh
+Combination: Su, Full House ( Jc Jh Js 7d 7c )
+Shows: Teedaf, 8h Kc
+Combination: Teedaf, Two Pair ( Kc Ks 7d 7c Js )
+Wins: Su, chips: 200
+Quits: Teedaf, chips: 0
+Ranking: Su, Place: 1, Score: 1000
+Reveal AI: Su, AI: Random
+Ranking: Teedaf, Place: 2, Score: -1000
+Reveal AI: Teedaf, AI: AIMyBot1
+
+Player Stats for Su, AI: Random
+General: deals: 15, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Teedaf, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 4, showdown: 1, bluff: 3
+Chips: won: 1100, lost: 2100, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:47
+
+The game begins. The AI's of the players are: 
+Su: Random
+Teedaf: AIMyBot1
+
+Joins: Su, chips: 1000
+Joins: Teedaf, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Teedaf, chips: 200
+Folds: Su
+Pot size: 300
+Wins: Teedaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teedaf
+Small Blind: Teedaf, chips: 100
+Big Blind: Su, chips: 200
+Folds: Teedaf
+Pot size: 300
+Boasts: Su, Ah 3d
+Wins: Su, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Teedaf, chips: 200
+Folds: Su
+Pot size: 300
+Wins: Teedaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teedaf
+Small Blind: Teedaf, chips: 100
+Big Blind: Su, chips: 200
+Folds: Teedaf
+Pot size: 300
+Wins: Su, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Teedaf, chips: 200
+Raises: Su, chips: 300
+Folds: Teedaf
+Pot size: 700
+Boasts: Su, 2h Td
+Wins: Su, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teedaf
+Small Blind: Teedaf, chips: 100
+Big Blind: Su, chips: 200
+Folds: Teedaf
+Pot size: 300
+Boasts: Su, 3c 6h
+Wins: Su, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Teedaf, chips: 200
+Calls: Su
+DEBUG MESSAGE: INVALID ACTION FROM Teedaf (2 0)
+Folds: Teedaf
+Pot size: 400
+Boasts: Su, 7h 3d
+Wins: Su, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teedaf
+Small Blind: Teedaf, chips: 100
+Big Blind: Su, chips: 200
+Folds: Teedaf
+Pot size: 300
+Boasts: Su, 8d Ad
+Wins: Su, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Teedaf, chips: 200
+Folds: Su
+Pot size: 300
+Wins: Teedaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teedaf
+Small Blind: Teedaf, chips: 100
+Big Blind: Su, chips: 200
+Folds: Teedaf
+Pot size: 300
+Boasts: Su, 5h Jh
+Wins: Su, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Teedaf, chips: 200
+Raises: Su, chips: 300
+Folds: Teedaf
+Pot size: 700
+Wins: Su, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teedaf
+Small Blind: Teedaf, chips: 100
+Big Blind: Su, chips: 200
+Folds: Teedaf
+Pot size: 300
+Boasts: Su, 5s Qs
+Wins: Su, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Teedaf, chips: 100
+Flop: 3h 8s 4d
+Turn: Qs
+River: Th
+Pot size: 200
+Showdown Reached
+Shows: Su, 2h 6d
+Combination: Su, High Card ( Qs Th 8s 6d 4d )
+Shows: Teedaf, 3s 9c
+Combination: Teedaf, Pair ( 3s 3h Qs Th 9c )
+Wins: Teedaf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teedaf
+Small Blind: Teedaf, chips: 100
+Big Blind: Su, chips: 200
+Folds: Teedaf
+Pot size: 300
+Boasts: Su, Tc Jh
+Wins: Su, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Teedaf, chips: 100
+Flop: Ks 6s Js
+Turn: 7d
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Su, Jc Jh
+Combination: Su, Full House ( Jc Jh Js 7d 7c )
+Shows: Teedaf, 8h Kc
+Combination: Teedaf, Two Pair ( Kc Ks 7d 7c Js )
+Wins: Su, chips: 200
+Quits: Teedaf, chips: 0
+Ranking: Su, Place: 1, Score: 1000
+Reveal AI: Su, AI: Random
+Ranking: Teedaf, Place: 2, Score: -1000
+Reveal AI: Teedaf, AI: AIMyBot1
+
+Player Stats for Su, AI: Random
+General: deals: 15, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Teedaf, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 4, showdown: 1, bluff: 3
+Chips: won: 1100, lost: 2100, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

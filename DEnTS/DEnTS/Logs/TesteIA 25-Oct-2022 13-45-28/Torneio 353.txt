@@ -1,0 +1,414 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Lu: AIMyBot1
+Poe: Random
+
+Joins: Lu, chips: 1000
+Joins: Poe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 200
+Folds: Poe
+Pot size: 300
+Wins: Lu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Boasts: Poe, 7s Ac
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 200
+Folds: Poe
+Pot size: 300
+Wins: Lu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Boasts: Poe, 7h Jd
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 200
+Folds: Poe
+Pot size: 300
+Boasts: Poe, 7h 7d
+Wins: Lu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Boasts: Poe, 2d Th
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 200
+Raises: Poe, chips: 300
+Folds: Lu
+Pot size: 700
+Boasts: Poe, Ah Ad
+Wins: Poe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 200
+Raises: Poe, chips: 300
+Folds: Lu
+Pot size: 700
+Boasts: Poe, 8d Td
+Wins: Poe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 200
+Raises: Poe, chips: 300
+Calls: Lu
+Flop: Kh 7d 3s
+Turn: 7c
+River: Th
+Pot size: 900
+Showdown Reached
+Shows: Lu, 8d Qs
+Combination: Lu, Pair ( 7d 7c Kh Qs Th )
+Shows: Poe, Jd 4h
+Combination: Poe, Pair ( 7d 7c Kh Jd Th )
+Wins: Lu, chips: 800
+Wins: Poe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Boasts: Poe, 5c 7h
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 200
+Calls: Poe
+DEBUG MESSAGE: INVALID ACTION FROM Lu (2 0)
+Folds: Lu
+Pot size: 400
+Boasts: Poe, 5h Jc
+Wins: Poe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Boasts: Poe, 2h Jc
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 200
+Calls: Poe
+DEBUG MESSAGE: INVALID ACTION FROM Lu (2 0)
+Folds: Lu
+Pot size: 400
+Wins: Poe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Boasts: Poe, Ts 4c
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 100
+Flop: Kd As 8c
+Turn: 3d
+River: 9c
+Pot size: 200
+Showdown Reached
+Shows: Lu, Jd 8d
+Combination: Lu, Pair ( 8d 8c As Kd Jd )
+Shows: Poe, 6c 8h
+Combination: Poe, Pair ( 8h 8c As Kd 9c )
+Wins: Lu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Boasts: Poe, Kd 7d
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 100
+Flop: 7h 7s Tc
+Turn: 6c
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Lu, 5c 4d
+Combination: Lu, Straight ( 8h 7h 6c 5c 4d )
+Shows: Poe, 2d 9c
+Combination: Poe, Straight ( Tc 9c 8h 7h 6c )
+Wins: Poe, chips: 200
+Quits: Lu, chips: 0
+Ranking: Poe, Place: 1, Score: 1000
+Reveal AI: Poe, AI: Random
+Ranking: Lu, Place: 2, Score: -1000
+Reveal AI: Lu, AI: AIMyBot1
+
+Player Stats for Lu, AI: AIMyBot1
+General: deals: 19, actions: 14, preflop actions: 14
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1900, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.0526316, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Poe, AI: Random
+General: deals: 19, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 15, showdown: 2, bluff: 13
+Chips: won: 5200, lost: 4200, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.263158, PFR: 0.157895, 3Bet: 0.157895
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:52
+
+The game begins. The AI's of the players are: 
+Lu: AIMyBot1
+Poe: Random
+
+Joins: Lu, chips: 1000
+Joins: Poe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 200
+Folds: Poe
+Pot size: 300
+Wins: Lu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Boasts: Poe, 7s Ac
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 200
+Folds: Poe
+Pot size: 300
+Wins: Lu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Boasts: Poe, 7h Jd
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 200
+Folds: Poe
+Pot size: 300
+Boasts: Poe, 7h 7d
+Wins: Lu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Boasts: Poe, 2d Th
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 200
+Raises: Poe, chips: 300
+Folds: Lu
+Pot size: 700
+Boasts: Poe, Ah Ad
+Wins: Poe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 200
+Raises: Poe, chips: 300
+Folds: Lu
+Pot size: 700
+Boasts: Poe, 8d Td
+Wins: Poe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 200
+Raises: Poe, chips: 300
+Calls: Lu
+Flop: Kh 7d 3s
+Turn: 7c
+River: Th
+Pot size: 900
+Showdown Reached
+Shows: Lu, 8d Qs
+Combination: Lu, Pair ( 7d 7c Kh Qs Th )
+Shows: Poe, Jd 4h
+Combination: Poe, Pair ( 7d 7c Kh Jd Th )
+Wins: Lu, chips: 800
+Wins: Poe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Boasts: Poe, 5c 7h
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 200
+Calls: Poe
+DEBUG MESSAGE: INVALID ACTION FROM Lu (2 0)
+Folds: Lu
+Pot size: 400
+Boasts: Poe, 5h Jc
+Wins: Poe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Boasts: Poe, 2h Jc
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 200
+Calls: Poe
+DEBUG MESSAGE: INVALID ACTION FROM Lu (2 0)
+Folds: Lu
+Pot size: 400
+Wins: Poe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Boasts: Poe, Ts 4c
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 100
+Flop: Kd As 8c
+Turn: 3d
+River: 9c
+Pot size: 200
+Showdown Reached
+Shows: Lu, Jd 8d
+Combination: Lu, Pair ( 8d 8c As Kd Jd )
+Shows: Poe, 6c 8h
+Combination: Poe, Pair ( 8h 8c As Kd 9c )
+Wins: Lu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lu
+Small Blind: Lu, chips: 100
+Big Blind: Poe, chips: 200
+Folds: Lu
+Pot size: 300
+Boasts: Poe, Kd 7d
+Wins: Poe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Lu, chips: 100
+Flop: 7h 7s Tc
+Turn: 6c
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Lu, 5c 4d
+Combination: Lu, Straight ( 8h 7h 6c 5c 4d )
+Shows: Poe, 2d 9c
+Combination: Poe, Straight ( Tc 9c 8h 7h 6c )
+Wins: Poe, chips: 200
+Quits: Lu, chips: 0
+Ranking: Poe, Place: 1, Score: 1000
+Reveal AI: Poe, AI: Random
+Ranking: Lu, Place: 2, Score: -1000
+Reveal AI: Lu, AI: AIMyBot1
+
+Player Stats for Lu, AI: AIMyBot1
+General: deals: 19, actions: 14, preflop actions: 14
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1900, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.0526316, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Poe, AI: Random
+General: deals: 19, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 15, showdown: 2, bluff: 13
+Chips: won: 5200, lost: 4200, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.263158, PFR: 0.157895, 3Bet: 0.157895
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

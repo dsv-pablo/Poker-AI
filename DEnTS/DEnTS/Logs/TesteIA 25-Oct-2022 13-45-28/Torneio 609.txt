@@ -1,0 +1,388 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Viloeleem: Random
+Leku: AIMyBot1
+
+Joins: Viloeleem, chips: 1000
+Joins: Leku, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leku
+Small Blind: Leku, chips: 100
+Big Blind: Viloeleem, chips: 200
+Folds: Leku
+Pot size: 300
+Wins: Viloeleem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viloeleem
+Small Blind: Viloeleem, chips: 100
+Big Blind: Leku, chips: 200
+Calls: Viloeleem
+DEBUG MESSAGE: INVALID ACTION FROM Leku (2 0)
+Folds: Leku
+Pot size: 400
+Boasts: Viloeleem, Th Jh
+Wins: Viloeleem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leku
+Small Blind: Leku, chips: 100
+Big Blind: Viloeleem, chips: 200
+Folds: Leku
+Pot size: 300
+Boasts: Viloeleem, 3h 8d
+Wins: Viloeleem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viloeleem
+Small Blind: Viloeleem, chips: 100
+Big Blind: Leku, chips: 200
+Calls: Viloeleem
+DEBUG MESSAGE: INVALID ACTION FROM Leku (2 0)
+Folds: Leku
+Pot size: 400
+Boasts: Viloeleem, 2h 3c
+Wins: Viloeleem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leku
+Small Blind: Leku, chips: 100
+Big Blind: Viloeleem, chips: 200
+Folds: Leku
+Pot size: 300
+Boasts: Viloeleem, 9d 3h
+Wins: Viloeleem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viloeleem
+Small Blind: Viloeleem, chips: 100
+Big Blind: Leku, chips: 200
+Calls: Viloeleem
+DEBUG MESSAGE: INVALID ACTION FROM Leku (2 0)
+Folds: Leku
+Pot size: 400
+Boasts: Viloeleem, 4d 9d
+Wins: Viloeleem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leku
+Small Blind: Leku, chips: 100
+Big Blind: Viloeleem, chips: 200
+Flop: 6s 8c Jh
+Turn: 2c
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Viloeleem, Tc 3h
+Combination: Viloeleem, High Card ( Jh Tc 8c 6s 5d )
+Shows: Leku, 9c Ks
+Combination: Leku, High Card ( Ks Jh 9c 8c 6s )
+Wins: Viloeleem, chips: 100
+Wins: Leku, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viloeleem
+Small Blind: Viloeleem, chips: 100
+Big Blind: Leku, chips: 200
+Flop: 5s 2h Js
+Turn: 7s
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Viloeleem, Tc 4h
+Combination: Viloeleem, Pair ( 4h 4d Js Tc 7s )
+Shows: Leku, 6d 6h
+Combination: Leku, Pair ( 6d 6h Js 7s 5s )
+Wins: Leku, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leku
+Small Blind: Leku, chips: 100
+Big Blind: Viloeleem, chips: 200
+Folds: Leku
+Pot size: 300
+Wins: Viloeleem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viloeleem
+Small Blind: Viloeleem, chips: 100
+Big Blind: Leku, chips: 200
+Flop: 7h As Qs
+Turn: 5s
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Viloeleem, Kh Qh
+Combination: Viloeleem, Two Pair ( Kh Ks Qh Qs As )
+Shows: Leku, 4c 8s
+Combination: Leku, Flush ( As Ks Qs 8s 5s )
+Wins: Leku, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leku
+Small Blind: Leku, chips: 100
+Big Blind: Viloeleem, chips: 200
+Folds: Leku
+Pot size: 300
+Boasts: Viloeleem, Qd 5h
+Wins: Viloeleem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viloeleem
+Small Blind: Viloeleem, chips: 100
+Big Blind: Leku, chips: 200
+Flop: 9s 4c Ks
+Turn: 3d
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Viloeleem, Jh Ac
+Combination: Viloeleem, High Card ( Ac Ks Jh 9s 6d )
+Shows: Leku, 9h 3h
+Combination: Leku, Two Pair ( 9h 9s 3h 3d Ks )
+Wins: Leku, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leku
+Small Blind: Leku, chips: 100
+Big Blind: Viloeleem, chips: 200
+Folds: Leku
+Pot size: 300
+Wins: Viloeleem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viloeleem
+Small Blind: Viloeleem, chips: 100
+Big Blind: Leku, chips: 200
+Flop: 7c Ts 5s
+Turn: 6h
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Viloeleem, Td Js
+Combination: Viloeleem, Pair ( Td Ts Ah Js 7c )
+Shows: Leku, 5d 2h
+Combination: Leku, Pair ( 5d 5s Ah Ts 7c )
+Wins: Viloeleem, chips: 200
+Wins: Leku, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leku
+Small Blind: Leku, chips: 100
+Big Blind: Viloeleem, chips: 200
+Flop: 8d 6s 9s
+Turn: 5c
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Viloeleem, 2h 6h
+Combination: Viloeleem, Two Pair ( 6h 6s 2h 2s 9s )
+Shows: Leku, 8s 3h
+Combination: Leku, Pair ( 8s 8d 9s 6s 5c )
+Wins: Viloeleem, chips: 300
+Quits: Leku, chips: 0
+Ranking: Viloeleem, Place: 1, Score: 1000
+Reveal AI: Viloeleem, AI: Random
+Ranking: Leku, Place: 2, Score: -1000
+Reveal AI: Leku, AI: AIMyBot1
+
+Player Stats for Leku, AI: AIMyBot1
+General: deals: 15, actions: 9, preflop actions: 9
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Viloeleem, AI: Random
+General: deals: 15, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:09
+
+The game begins. The AI's of the players are: 
+Viloeleem: Random
+Leku: AIMyBot1
+
+Joins: Viloeleem, chips: 1000
+Joins: Leku, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leku
+Small Blind: Leku, chips: 100
+Big Blind: Viloeleem, chips: 200
+Folds: Leku
+Pot size: 300
+Wins: Viloeleem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viloeleem
+Small Blind: Viloeleem, chips: 100
+Big Blind: Leku, chips: 200
+Calls: Viloeleem
+DEBUG MESSAGE: INVALID ACTION FROM Leku (2 0)
+Folds: Leku
+Pot size: 400
+Boasts: Viloeleem, Th Jh
+Wins: Viloeleem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leku
+Small Blind: Leku, chips: 100
+Big Blind: Viloeleem, chips: 200
+Folds: Leku
+Pot size: 300
+Boasts: Viloeleem, 3h 8d
+Wins: Viloeleem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viloeleem
+Small Blind: Viloeleem, chips: 100
+Big Blind: Leku, chips: 200
+Calls: Viloeleem
+DEBUG MESSAGE: INVALID ACTION FROM Leku (2 0)
+Folds: Leku
+Pot size: 400
+Boasts: Viloeleem, 2h 3c
+Wins: Viloeleem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leku
+Small Blind: Leku, chips: 100
+Big Blind: Viloeleem, chips: 200
+Folds: Leku
+Pot size: 300
+Boasts: Viloeleem, 9d 3h
+Wins: Viloeleem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viloeleem
+Small Blind: Viloeleem, chips: 100
+Big Blind: Leku, chips: 200
+Calls: Viloeleem
+DEBUG MESSAGE: INVALID ACTION FROM Leku (2 0)
+Folds: Leku
+Pot size: 400
+Boasts: Viloeleem, 4d 9d
+Wins: Viloeleem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leku
+Small Blind: Leku, chips: 100
+Big Blind: Viloeleem, chips: 200
+Flop: 6s 8c Jh
+Turn: 2c
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Viloeleem, Tc 3h
+Combination: Viloeleem, High Card ( Jh Tc 8c 6s 5d )
+Shows: Leku, 9c Ks
+Combination: Leku, High Card ( Ks Jh 9c 8c 6s )
+Wins: Viloeleem, chips: 100
+Wins: Leku, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viloeleem
+Small Blind: Viloeleem, chips: 100
+Big Blind: Leku, chips: 200
+Flop: 5s 2h Js
+Turn: 7s
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Viloeleem, Tc 4h
+Combination: Viloeleem, Pair ( 4h 4d Js Tc 7s )
+Shows: Leku, 6d 6h
+Combination: Leku, Pair ( 6d 6h Js 7s 5s )
+Wins: Leku, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leku
+Small Blind: Leku, chips: 100
+Big Blind: Viloeleem, chips: 200
+Folds: Leku
+Pot size: 300
+Wins: Viloeleem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viloeleem
+Small Blind: Viloeleem, chips: 100
+Big Blind: Leku, chips: 200
+Flop: 7h As Qs
+Turn: 5s
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Viloeleem, Kh Qh
+Combination: Viloeleem, Two Pair ( Kh Ks Qh Qs As )
+Shows: Leku, 4c 8s
+Combination: Leku, Flush ( As Ks Qs 8s 5s )
+Wins: Leku, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leku
+Small Blind: Leku, chips: 100
+Big Blind: Viloeleem, chips: 200
+Folds: Leku
+Pot size: 300
+Boasts: Viloeleem, Qd 5h
+Wins: Viloeleem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viloeleem
+Small Blind: Viloeleem, chips: 100
+Big Blind: Leku, chips: 200
+Flop: 9s 4c Ks
+Turn: 3d
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Viloeleem, Jh Ac
+Combination: Viloeleem, High Card ( Ac Ks Jh 9s 6d )
+Shows: Leku, 9h 3h
+Combination: Leku, Two Pair ( 9h 9s 3h 3d Ks )
+Wins: Leku, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leku
+Small Blind: Leku, chips: 100
+Big Blind: Viloeleem, chips: 200
+Folds: Leku
+Pot size: 300
+Wins: Viloeleem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Viloeleem
+Small Blind: Viloeleem, chips: 100
+Big Blind: Leku, chips: 200
+Flop: 7c Ts 5s
+Turn: 6h
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Viloeleem, Td Js
+Combination: Viloeleem, Pair ( Td Ts Ah Js 7c )
+Shows: Leku, 5d 2h
+Combination: Leku, Pair ( 5d 5s Ah Ts 7c )
+Wins: Viloeleem, chips: 200
+Wins: Leku, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leku
+Small Blind: Leku, chips: 100
+Big Blind: Viloeleem, chips: 200
+Flop: 8d 6s 9s
+Turn: 5c
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Viloeleem, 2h 6h
+Combination: Viloeleem, Two Pair ( 6h 6s 2h 2s 9s )
+Shows: Leku, 8s 3h
+Combination: Leku, Pair ( 8s 8d 9s 6s 5c )
+Wins: Viloeleem, chips: 300
+Quits: Leku, chips: 0
+Ranking: Viloeleem, Place: 1, Score: 1000
+Reveal AI: Viloeleem, AI: Random
+Ranking: Leku, Place: 2, Score: -1000
+Reveal AI: Leku, AI: AIMyBot1
+
+Player Stats for Leku, AI: AIMyBot1
+General: deals: 15, actions: 9, preflop actions: 9
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Viloeleem, AI: Random
+General: deals: 15, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

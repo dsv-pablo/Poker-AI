@@ -1,0 +1,212 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hoegaponny: AIMyBot1
+Jeebee: Random
+
+Joins: Hoegaponny, chips: 1000
+Joins: Jeebee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoegaponny
+Small Blind: Hoegaponny, chips: 100
+Big Blind: Jeebee, chips: 200
+Folds: Hoegaponny
+Pot size: 300
+Boasts: Jeebee, Kd 7c
+Wins: Jeebee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeebee
+Small Blind: Jeebee, chips: 100
+Big Blind: Hoegaponny, chips: 200
+Folds: Jeebee
+Pot size: 300
+Boasts: Jeebee, 9c 9h
+Wins: Hoegaponny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoegaponny
+Small Blind: Hoegaponny, chips: 100
+Big Blind: Jeebee, chips: 200
+Folds: Hoegaponny
+Pot size: 300
+Boasts: Jeebee, 8h Ts
+Wins: Jeebee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeebee
+Small Blind: Jeebee, chips: 100
+Big Blind: Hoegaponny, chips: 200
+Calls: Jeebee
+DEBUG MESSAGE: INVALID ACTION FROM Hoegaponny (2 0)
+Folds: Hoegaponny
+Pot size: 400
+Wins: Jeebee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoegaponny
+Small Blind: Hoegaponny, chips: 100
+Big Blind: Jeebee, chips: 200
+Folds: Hoegaponny
+Pot size: 300
+Boasts: Jeebee, Jc Kc
+Wins: Jeebee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeebee
+Small Blind: Jeebee, chips: 100
+Big Blind: Hoegaponny, chips: 200
+Raises: Jeebee, chips: 300
+Folds: Hoegaponny
+Pot size: 700
+Wins: Jeebee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoegaponny
+Small Blind: Hoegaponny, chips: 100
+Big Blind: Jeebee, chips: 200
+Folds: Hoegaponny
+Pot size: 300
+Boasts: Jeebee, 4h 5c
+Wins: Jeebee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeebee
+Small Blind: Jeebee, chips: 100
+Big Blind: Hoegaponny, chips: 200
+Raises: Jeebee, chips: 300
+Calls: Hoegaponny
+Flop: 7c Ac 9h
+Turn: 2h
+River: 4c
+Pot size: 800
+Showdown Reached
+Shows: Hoegaponny, 5d Ts
+Combination: Hoegaponny, High Card ( Ac Ts 9h 7c 5d )
+Shows: Jeebee, Kh Tc
+Combination: Jeebee, High Card ( Ac Kh Tc 9h 7c )
+Wins: Jeebee, chips: 800
+Quits: Hoegaponny, chips: 0
+Ranking: Jeebee, Place: 1, Score: 1000
+Reveal AI: Jeebee, AI: Random
+Ranking: Hoegaponny, Place: 2, Score: -1000
+Reveal AI: Hoegaponny, AI: AIMyBot1
+
+Player Stats for Hoegaponny, AI: AIMyBot1
+General: deals: 8, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1500, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.125, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Jeebee, AI: Random
+General: deals: 8, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.25, 3Bet: 0.25
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:09
+
+The game begins. The AI's of the players are: 
+Hoegaponny: AIMyBot1
+Jeebee: Random
+
+Joins: Hoegaponny, chips: 1000
+Joins: Jeebee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoegaponny
+Small Blind: Hoegaponny, chips: 100
+Big Blind: Jeebee, chips: 200
+Folds: Hoegaponny
+Pot size: 300
+Boasts: Jeebee, Kd 7c
+Wins: Jeebee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeebee
+Small Blind: Jeebee, chips: 100
+Big Blind: Hoegaponny, chips: 200
+Folds: Jeebee
+Pot size: 300
+Boasts: Jeebee, 9c 9h
+Wins: Hoegaponny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoegaponny
+Small Blind: Hoegaponny, chips: 100
+Big Blind: Jeebee, chips: 200
+Folds: Hoegaponny
+Pot size: 300
+Boasts: Jeebee, 8h Ts
+Wins: Jeebee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeebee
+Small Blind: Jeebee, chips: 100
+Big Blind: Hoegaponny, chips: 200
+Calls: Jeebee
+DEBUG MESSAGE: INVALID ACTION FROM Hoegaponny (2 0)
+Folds: Hoegaponny
+Pot size: 400
+Wins: Jeebee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoegaponny
+Small Blind: Hoegaponny, chips: 100
+Big Blind: Jeebee, chips: 200
+Folds: Hoegaponny
+Pot size: 300
+Boasts: Jeebee, Jc Kc
+Wins: Jeebee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeebee
+Small Blind: Jeebee, chips: 100
+Big Blind: Hoegaponny, chips: 200
+Raises: Jeebee, chips: 300
+Folds: Hoegaponny
+Pot size: 700
+Wins: Jeebee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoegaponny
+Small Blind: Hoegaponny, chips: 100
+Big Blind: Jeebee, chips: 200
+Folds: Hoegaponny
+Pot size: 300
+Boasts: Jeebee, 4h 5c
+Wins: Jeebee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeebee
+Small Blind: Jeebee, chips: 100
+Big Blind: Hoegaponny, chips: 200
+Raises: Jeebee, chips: 300
+Calls: Hoegaponny
+Flop: 7c Ac 9h
+Turn: 2h
+River: 4c
+Pot size: 800
+Showdown Reached
+Shows: Hoegaponny, 5d Ts
+Combination: Hoegaponny, High Card ( Ac Ts 9h 7c 5d )
+Shows: Jeebee, Kh Tc
+Combination: Jeebee, High Card ( Ac Kh Tc 9h 7c )
+Wins: Jeebee, chips: 800
+Quits: Hoegaponny, chips: 0
+Ranking: Jeebee, Place: 1, Score: 1000
+Reveal AI: Jeebee, AI: Random
+Ranking: Hoegaponny, Place: 2, Score: -1000
+Reveal AI: Hoegaponny, AI: AIMyBot1
+
+Player Stats for Hoegaponny, AI: AIMyBot1
+General: deals: 8, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1500, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.125, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Jeebee, AI: Random
+General: deals: 8, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.25, 3Bet: 0.25
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

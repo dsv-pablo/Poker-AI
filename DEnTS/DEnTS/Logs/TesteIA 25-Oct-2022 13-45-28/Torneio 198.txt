@@ -1,0 +1,264 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Soeken: Random
+Kaboerlo: AIMyBot1
+
+Joins: Soeken, chips: 1000
+Joins: Kaboerlo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soeken
+Small Blind: Soeken, chips: 100
+Big Blind: Kaboerlo, chips: 200
+Calls: Soeken
+DEBUG MESSAGE: INVALID ACTION FROM Kaboerlo (2 0)
+Folds: Kaboerlo
+Pot size: 400
+Wins: Soeken, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kaboerlo
+Small Blind: Kaboerlo, chips: 100
+Big Blind: Soeken, chips: 200
+Folds: Kaboerlo
+Pot size: 300
+Wins: Soeken, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soeken
+Small Blind: Soeken, chips: 100
+Big Blind: Kaboerlo, chips: 200
+Raises: Soeken, chips: 300
+Folds: Kaboerlo
+Pot size: 700
+Boasts: Soeken, Kd Qh
+Wins: Soeken, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kaboerlo
+Small Blind: Kaboerlo, chips: 100
+Big Blind: Soeken, chips: 200
+Folds: Kaboerlo
+Pot size: 300
+Boasts: Soeken, As 5c
+Wins: Soeken, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soeken
+Small Blind: Soeken, chips: 100
+Big Blind: Kaboerlo, chips: 200
+Folds: Soeken
+Pot size: 300
+Wins: Kaboerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kaboerlo
+Small Blind: Kaboerlo, chips: 100
+Big Blind: Soeken, chips: 200
+Folds: Kaboerlo
+Pot size: 300
+Wins: Soeken, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soeken
+Small Blind: Soeken, chips: 100
+Big Blind: Kaboerlo, chips: 200
+Calls: Soeken
+DEBUG MESSAGE: INVALID ACTION FROM Kaboerlo (2 0)
+Folds: Kaboerlo
+Pot size: 400
+Boasts: Soeken, Kh 6s
+Wins: Soeken, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kaboerlo
+Small Blind: Kaboerlo, chips: 100
+Big Blind: Soeken, chips: 200
+Folds: Kaboerlo
+Pot size: 300
+Wins: Soeken, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soeken
+Small Blind: Soeken, chips: 100
+Big Blind: Kaboerlo, chips: 100
+Flop: 3h 2d 5h
+Turn: Jh
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Soeken, 8s 4s
+Combination: Soeken, Pair ( Jh Jc 8s 5h 4s )
+Shows: Kaboerlo, 7c Kc
+Combination: Kaboerlo, Pair ( Jh Jc Kc 7c 5h )
+Wins: Kaboerlo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kaboerlo
+Small Blind: Kaboerlo, chips: 100
+Big Blind: Soeken, chips: 200
+Folds: Kaboerlo
+Pot size: 300
+Wins: Soeken, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soeken
+Small Blind: Soeken, chips: 100
+Big Blind: Kaboerlo, chips: 100
+Flop: 4c 7d 6c
+Turn: Jd
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Soeken, Qh 9c
+Combination: Soeken, Pair ( Qh Qc Jd 9c 7d )
+Shows: Kaboerlo, Kh 7s
+Combination: Kaboerlo, Pair ( 7s 7d Kh Qc Jd )
+Wins: Soeken, chips: 200
+Quits: Kaboerlo, chips: 0
+Ranking: Soeken, Place: 1, Score: 1000
+Reveal AI: Soeken, AI: Random
+Ranking: Kaboerlo, Place: 2, Score: -1000
+Reveal AI: Kaboerlo, AI: AIMyBot1
+
+Player Stats for Kaboerlo, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Soeken, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:42
+
+The game begins. The AI's of the players are: 
+Soeken: Random
+Kaboerlo: AIMyBot1
+
+Joins: Soeken, chips: 1000
+Joins: Kaboerlo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soeken
+Small Blind: Soeken, chips: 100
+Big Blind: Kaboerlo, chips: 200
+Calls: Soeken
+DEBUG MESSAGE: INVALID ACTION FROM Kaboerlo (2 0)
+Folds: Kaboerlo
+Pot size: 400
+Wins: Soeken, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kaboerlo
+Small Blind: Kaboerlo, chips: 100
+Big Blind: Soeken, chips: 200
+Folds: Kaboerlo
+Pot size: 300
+Wins: Soeken, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soeken
+Small Blind: Soeken, chips: 100
+Big Blind: Kaboerlo, chips: 200
+Raises: Soeken, chips: 300
+Folds: Kaboerlo
+Pot size: 700
+Boasts: Soeken, Kd Qh
+Wins: Soeken, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kaboerlo
+Small Blind: Kaboerlo, chips: 100
+Big Blind: Soeken, chips: 200
+Folds: Kaboerlo
+Pot size: 300
+Boasts: Soeken, As 5c
+Wins: Soeken, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soeken
+Small Blind: Soeken, chips: 100
+Big Blind: Kaboerlo, chips: 200
+Folds: Soeken
+Pot size: 300
+Wins: Kaboerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kaboerlo
+Small Blind: Kaboerlo, chips: 100
+Big Blind: Soeken, chips: 200
+Folds: Kaboerlo
+Pot size: 300
+Wins: Soeken, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soeken
+Small Blind: Soeken, chips: 100
+Big Blind: Kaboerlo, chips: 200
+Calls: Soeken
+DEBUG MESSAGE: INVALID ACTION FROM Kaboerlo (2 0)
+Folds: Kaboerlo
+Pot size: 400
+Boasts: Soeken, Kh 6s
+Wins: Soeken, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kaboerlo
+Small Blind: Kaboerlo, chips: 100
+Big Blind: Soeken, chips: 200
+Folds: Kaboerlo
+Pot size: 300
+Wins: Soeken, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soeken
+Small Blind: Soeken, chips: 100
+Big Blind: Kaboerlo, chips: 100
+Flop: 3h 2d 5h
+Turn: Jh
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Soeken, 8s 4s
+Combination: Soeken, Pair ( Jh Jc 8s 5h 4s )
+Shows: Kaboerlo, 7c Kc
+Combination: Kaboerlo, Pair ( Jh Jc Kc 7c 5h )
+Wins: Kaboerlo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kaboerlo
+Small Blind: Kaboerlo, chips: 100
+Big Blind: Soeken, chips: 200
+Folds: Kaboerlo
+Pot size: 300
+Wins: Soeken, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soeken
+Small Blind: Soeken, chips: 100
+Big Blind: Kaboerlo, chips: 100
+Flop: 4c 7d 6c
+Turn: Jd
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Soeken, Qh 9c
+Combination: Soeken, Pair ( Qh Qc Jd 9c 7d )
+Shows: Kaboerlo, Kh 7s
+Combination: Kaboerlo, Pair ( 7s 7d Kh Qc Jd )
+Wins: Soeken, chips: 200
+Quits: Kaboerlo, chips: 0
+Ranking: Soeken, Place: 1, Score: 1000
+Reveal AI: Soeken, AI: Random
+Ranking: Kaboerlo, Place: 2, Score: -1000
+Reveal AI: Kaboerlo, AI: AIMyBot1
+
+Player Stats for Kaboerlo, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Soeken, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

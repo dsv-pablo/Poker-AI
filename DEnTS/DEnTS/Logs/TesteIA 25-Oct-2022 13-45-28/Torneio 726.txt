@@ -1,0 +1,224 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jito: Random
+Koerek: AIMyBot1
+
+Joins: Jito, chips: 1000
+Joins: Koerek, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jito
+Small Blind: Jito, chips: 100
+Big Blind: Koerek, chips: 200
+Folds: Jito
+Pot size: 300
+Boasts: Jito, 3s 9d
+Wins: Koerek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koerek
+Small Blind: Koerek, chips: 100
+Big Blind: Jito, chips: 200
+Folds: Koerek
+Pot size: 300
+Wins: Jito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jito
+Small Blind: Jito, chips: 100
+Big Blind: Koerek, chips: 200
+Raises: Jito, chips: 300
+Folds: Koerek
+Pot size: 700
+Boasts: Jito, 3d 5c
+Wins: Jito, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koerek
+Small Blind: Koerek, chips: 100
+Big Blind: Jito, chips: 200
+Folds: Koerek
+Pot size: 300
+Wins: Jito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jito
+Small Blind: Jito, chips: 100
+Big Blind: Koerek, chips: 200
+Raises: Jito, chips: 300
+Folds: Koerek
+Pot size: 700
+Boasts: Jito, Qd 7h
+Wins: Jito, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koerek
+Small Blind: Koerek, chips: 100
+Big Blind: Jito, chips: 200
+Folds: Koerek
+Pot size: 300
+Boasts: Jito, 4h Jh
+Wins: Jito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jito
+Small Blind: Jito, chips: 100
+Big Blind: Koerek, chips: 200
+Raises: Jito, chips: 300
+Folds: Koerek
+Pot size: 700
+Boasts: Jito, 3h 4d
+Wins: Jito, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koerek
+Small Blind: Koerek, chips: 100
+Big Blind: Jito, chips: 200
+Folds: Koerek
+Pot size: 300
+Boasts: Jito, 6d Jh
+Wins: Jito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jito
+Small Blind: Jito, chips: 100
+Big Blind: Koerek, chips: 100
+Flop: Qs Qc 4c
+Turn: Jd
+River: 8d
+Pot size: 200
+Showdown Reached
+Shows: Jito, Ks 4s
+Combination: Jito, Two Pair ( Qs Qc 4s 4c Ks )
+Shows: Koerek, Kd 6h
+Combination: Koerek, Pair ( Qs Qc Kd Jd 8d )
+Wins: Jito, chips: 200
+Quits: Koerek, chips: 0
+Ranking: Jito, Place: 1, Score: 1000
+Reveal AI: Jito, AI: Random
+Ranking: Koerek, Place: 2, Score: -1000
+Reveal AI: Koerek, AI: AIMyBot1
+
+Player Stats for Jito, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Koerek, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:18
+
+The game begins. The AI's of the players are: 
+Jito: Random
+Koerek: AIMyBot1
+
+Joins: Jito, chips: 1000
+Joins: Koerek, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jito
+Small Blind: Jito, chips: 100
+Big Blind: Koerek, chips: 200
+Folds: Jito
+Pot size: 300
+Boasts: Jito, 3s 9d
+Wins: Koerek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koerek
+Small Blind: Koerek, chips: 100
+Big Blind: Jito, chips: 200
+Folds: Koerek
+Pot size: 300
+Wins: Jito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jito
+Small Blind: Jito, chips: 100
+Big Blind: Koerek, chips: 200
+Raises: Jito, chips: 300
+Folds: Koerek
+Pot size: 700
+Boasts: Jito, 3d 5c
+Wins: Jito, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koerek
+Small Blind: Koerek, chips: 100
+Big Blind: Jito, chips: 200
+Folds: Koerek
+Pot size: 300
+Wins: Jito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jito
+Small Blind: Jito, chips: 100
+Big Blind: Koerek, chips: 200
+Raises: Jito, chips: 300
+Folds: Koerek
+Pot size: 700
+Boasts: Jito, Qd 7h
+Wins: Jito, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koerek
+Small Blind: Koerek, chips: 100
+Big Blind: Jito, chips: 200
+Folds: Koerek
+Pot size: 300
+Boasts: Jito, 4h Jh
+Wins: Jito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jito
+Small Blind: Jito, chips: 100
+Big Blind: Koerek, chips: 200
+Raises: Jito, chips: 300
+Folds: Koerek
+Pot size: 700
+Boasts: Jito, 3h 4d
+Wins: Jito, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koerek
+Small Blind: Koerek, chips: 100
+Big Blind: Jito, chips: 200
+Folds: Koerek
+Pot size: 300
+Boasts: Jito, 6d Jh
+Wins: Jito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jito
+Small Blind: Jito, chips: 100
+Big Blind: Koerek, chips: 100
+Flop: Qs Qc 4c
+Turn: Jd
+River: 8d
+Pot size: 200
+Showdown Reached
+Shows: Jito, Ks 4s
+Combination: Jito, Two Pair ( Qs Qc 4s 4c Ks )
+Shows: Koerek, Kd 6h
+Combination: Koerek, Pair ( Qs Qc Kd Jd 8d )
+Wins: Jito, chips: 200
+Quits: Koerek, chips: 0
+Ranking: Jito, Place: 1, Score: 1000
+Reveal AI: Jito, AI: Random
+Ranking: Koerek, Place: 2, Score: -1000
+Reveal AI: Koerek, AI: AIMyBot1
+
+Player Stats for Jito, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Koerek, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

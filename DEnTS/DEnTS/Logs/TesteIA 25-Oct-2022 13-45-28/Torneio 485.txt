@@ -1,0 +1,318 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Helil: Random
+Tu: AIMyBot1
+
+Joins: Helil, chips: 1000
+Joins: Tu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Helil
+Small Blind: Helil, chips: 100
+Big Blind: Tu, chips: 200
+Calls: Helil
+DEBUG MESSAGE: INVALID ACTION FROM Tu (2 0)
+Folds: Tu
+Pot size: 400
+Boasts: Helil, Ks 2d
+Wins: Helil, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tu
+Small Blind: Tu, chips: 100
+Big Blind: Helil, chips: 200
+Folds: Tu
+Pot size: 300
+Boasts: Helil, 4s 7s
+Wins: Helil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Helil
+Small Blind: Helil, chips: 100
+Big Blind: Tu, chips: 200
+Folds: Helil
+Pot size: 300
+Boasts: Helil, 3d Ah
+Wins: Tu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tu
+Small Blind: Tu, chips: 100
+Big Blind: Helil, chips: 200
+Folds: Tu
+Pot size: 300
+Boasts: Helil, 5c 4s
+Wins: Helil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Helil
+Small Blind: Helil, chips: 100
+Big Blind: Tu, chips: 200
+Calls: Helil
+DEBUG MESSAGE: INVALID ACTION FROM Tu (2 0)
+Folds: Tu
+Pot size: 400
+Boasts: Helil, 7s 9c
+Wins: Helil, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tu
+Small Blind: Tu, chips: 100
+Big Blind: Helil, chips: 200
+Folds: Tu
+Pot size: 300
+Boasts: Helil, Qh 6s
+Wins: Helil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Helil
+Small Blind: Helil, chips: 100
+Big Blind: Tu, chips: 200
+Calls: Helil
+DEBUG MESSAGE: INVALID ACTION FROM Tu (2 0)
+Folds: Tu
+Pot size: 400
+Boasts: Helil, Jd Qd
+Wins: Helil, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tu
+Small Blind: Tu, chips: 100
+Big Blind: Helil, chips: 200
+Folds: Tu
+Pot size: 300
+Wins: Helil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Helil
+Small Blind: Helil, chips: 100
+Big Blind: Tu, chips: 100
+Flop: 4h 5c 6c
+Turn: 5d
+River: Ks
+Pot size: 200
+Showdown Reached
+Shows: Helil, 7h Ac
+Combination: Helil, Pair ( 5c 5d Ac Ks 7h )
+Shows: Tu, Kc 8d
+Combination: Tu, Two Pair ( Kc Ks 5c 5d 8d )
+Wins: Tu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tu
+Small Blind: Tu, chips: 100
+Big Blind: Helil, chips: 200
+Folds: Tu
+Pot size: 300
+Boasts: Helil, Kc 3h
+Wins: Helil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Helil
+Small Blind: Helil, chips: 100
+Big Blind: Tu, chips: 100
+Flop: 4h Jd 6c
+Turn: 7d
+River: 2c
+Pot size: 200
+Showdown Reached
+Shows: Helil, 9d 5h
+Combination: Helil, High Card ( Jd 9d 7d 6c 5h )
+Shows: Tu, Kd Kc
+Combination: Tu, Pair ( Kd Kc Jd 7d 6c )
+Wins: Tu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tu
+Small Blind: Tu, chips: 100
+Big Blind: Helil, chips: 200
+Folds: Tu
+Pot size: 300
+Wins: Helil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Helil
+Small Blind: Helil, chips: 100
+Big Blind: Tu, chips: 100
+Flop: Qs Ad Th
+Turn: 5s
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Helil, Js 5c
+Combination: Helil, Pair ( 5c 5s Ad Qs Js )
+Shows: Tu, 6c 2h
+Combination: Tu, High Card ( Ad Qs Th 8s 6c )
+Wins: Helil, chips: 200
+Quits: Tu, chips: 0
+Ranking: Helil, Place: 1, Score: 1000
+Reveal AI: Helil, AI: Random
+Ranking: Tu, Place: 2, Score: -1000
+Reveal AI: Tu, AI: AIMyBot1
+
+Player Stats for Helil, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Tu, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:01
+
+The game begins. The AI's of the players are: 
+Helil: Random
+Tu: AIMyBot1
+
+Joins: Helil, chips: 1000
+Joins: Tu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Helil
+Small Blind: Helil, chips: 100
+Big Blind: Tu, chips: 200
+Calls: Helil
+DEBUG MESSAGE: INVALID ACTION FROM Tu (2 0)
+Folds: Tu
+Pot size: 400
+Boasts: Helil, Ks 2d
+Wins: Helil, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tu
+Small Blind: Tu, chips: 100
+Big Blind: Helil, chips: 200
+Folds: Tu
+Pot size: 300
+Boasts: Helil, 4s 7s
+Wins: Helil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Helil
+Small Blind: Helil, chips: 100
+Big Blind: Tu, chips: 200
+Folds: Helil
+Pot size: 300
+Boasts: Helil, 3d Ah
+Wins: Tu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tu
+Small Blind: Tu, chips: 100
+Big Blind: Helil, chips: 200
+Folds: Tu
+Pot size: 300
+Boasts: Helil, 5c 4s
+Wins: Helil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Helil
+Small Blind: Helil, chips: 100
+Big Blind: Tu, chips: 200
+Calls: Helil
+DEBUG MESSAGE: INVALID ACTION FROM Tu (2 0)
+Folds: Tu
+Pot size: 400
+Boasts: Helil, 7s 9c
+Wins: Helil, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tu
+Small Blind: Tu, chips: 100
+Big Blind: Helil, chips: 200
+Folds: Tu
+Pot size: 300
+Boasts: Helil, Qh 6s
+Wins: Helil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Helil
+Small Blind: Helil, chips: 100
+Big Blind: Tu, chips: 200
+Calls: Helil
+DEBUG MESSAGE: INVALID ACTION FROM Tu (2 0)
+Folds: Tu
+Pot size: 400
+Boasts: Helil, Jd Qd
+Wins: Helil, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tu
+Small Blind: Tu, chips: 100
+Big Blind: Helil, chips: 200
+Folds: Tu
+Pot size: 300
+Wins: Helil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Helil
+Small Blind: Helil, chips: 100
+Big Blind: Tu, chips: 100
+Flop: 4h 5c 6c
+Turn: 5d
+River: Ks
+Pot size: 200
+Showdown Reached
+Shows: Helil, 7h Ac
+Combination: Helil, Pair ( 5c 5d Ac Ks 7h )
+Shows: Tu, Kc 8d
+Combination: Tu, Two Pair ( Kc Ks 5c 5d 8d )
+Wins: Tu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tu
+Small Blind: Tu, chips: 100
+Big Blind: Helil, chips: 200
+Folds: Tu
+Pot size: 300
+Boasts: Helil, Kc 3h
+Wins: Helil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Helil
+Small Blind: Helil, chips: 100
+Big Blind: Tu, chips: 100
+Flop: 4h Jd 6c
+Turn: 7d
+River: 2c
+Pot size: 200
+Showdown Reached
+Shows: Helil, 9d 5h
+Combination: Helil, High Card ( Jd 9d 7d 6c 5h )
+Shows: Tu, Kd Kc
+Combination: Tu, Pair ( Kd Kc Jd 7d 6c )
+Wins: Tu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tu
+Small Blind: Tu, chips: 100
+Big Blind: Helil, chips: 200
+Folds: Tu
+Pot size: 300
+Wins: Helil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Helil
+Small Blind: Helil, chips: 100
+Big Blind: Tu, chips: 100
+Flop: Qs Ad Th
+Turn: 5s
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Helil, Js 5c
+Combination: Helil, Pair ( 5c 5s Ad Qs Js )
+Shows: Tu, 6c 2h
+Combination: Tu, High Card ( Ad Qs Th 8s 6c )
+Wins: Helil, chips: 200
+Quits: Tu, chips: 0
+Ranking: Helil, Place: 1, Score: 1000
+Reveal AI: Helil, AI: Random
+Ranking: Tu, Place: 2, Score: -1000
+Reveal AI: Tu, AI: AIMyBot1
+
+Player Stats for Helil, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Tu, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

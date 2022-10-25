@@ -1,0 +1,218 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wewoek: AIMyBot1
+Gowuni: Random
+
+Joins: Wewoek, chips: 1000
+Joins: Gowuni, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewoek
+Small Blind: Wewoek, chips: 100
+Big Blind: Gowuni, chips: 200
+Folds: Wewoek
+Pot size: 300
+Wins: Gowuni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowuni
+Small Blind: Gowuni, chips: 100
+Big Blind: Wewoek, chips: 200
+Folds: Gowuni
+Pot size: 300
+Wins: Wewoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewoek
+Small Blind: Wewoek, chips: 100
+Big Blind: Gowuni, chips: 200
+Folds: Wewoek
+Pot size: 300
+Wins: Gowuni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowuni
+Small Blind: Gowuni, chips: 100
+Big Blind: Wewoek, chips: 200
+Raises: Gowuni, chips: 300
+Folds: Wewoek
+Pot size: 700
+Boasts: Gowuni, 4d 2s
+Wins: Gowuni, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewoek
+Small Blind: Wewoek, chips: 100
+Big Blind: Gowuni, chips: 200
+Folds: Wewoek
+Pot size: 300
+Boasts: Gowuni, 4c 2c
+Wins: Gowuni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowuni
+Small Blind: Gowuni, chips: 100
+Big Blind: Wewoek, chips: 200
+Calls: Gowuni
+DEBUG MESSAGE: INVALID ACTION FROM Wewoek (2 0)
+Folds: Wewoek
+Pot size: 400
+Wins: Gowuni, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewoek
+Small Blind: Wewoek, chips: 100
+Big Blind: Gowuni, chips: 200
+Folds: Wewoek
+Pot size: 300
+Wins: Gowuni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowuni
+Small Blind: Gowuni, chips: 100
+Big Blind: Wewoek, chips: 200
+Raises: Gowuni, chips: 300
+Folds: Wewoek
+Pot size: 700
+Wins: Gowuni, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewoek
+Small Blind: Wewoek, chips: 100
+Big Blind: Gowuni, chips: 200
+Flop: 9c 4d 5h
+Turn: Ks
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Wewoek, Jc 3s
+Combination: Wewoek, High Card ( Ks Jc 9c 5h 4d )
+Shows: Gowuni, 7s 9h
+Combination: Gowuni, Pair ( 9h 9c Ks 7s 5h )
+Wins: Gowuni, chips: 300
+Quits: Wewoek, chips: 0
+Ranking: Gowuni, Place: 1, Score: 1000
+Reveal AI: Gowuni, AI: Random
+Ranking: Wewoek, Place: 2, Score: -1000
+Reveal AI: Wewoek, AI: AIMyBot1
+
+Player Stats for Gowuni, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Wewoek, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:58
+
+The game begins. The AI's of the players are: 
+Wewoek: AIMyBot1
+Gowuni: Random
+
+Joins: Wewoek, chips: 1000
+Joins: Gowuni, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewoek
+Small Blind: Wewoek, chips: 100
+Big Blind: Gowuni, chips: 200
+Folds: Wewoek
+Pot size: 300
+Wins: Gowuni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowuni
+Small Blind: Gowuni, chips: 100
+Big Blind: Wewoek, chips: 200
+Folds: Gowuni
+Pot size: 300
+Wins: Wewoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewoek
+Small Blind: Wewoek, chips: 100
+Big Blind: Gowuni, chips: 200
+Folds: Wewoek
+Pot size: 300
+Wins: Gowuni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowuni
+Small Blind: Gowuni, chips: 100
+Big Blind: Wewoek, chips: 200
+Raises: Gowuni, chips: 300
+Folds: Wewoek
+Pot size: 700
+Boasts: Gowuni, 4d 2s
+Wins: Gowuni, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewoek
+Small Blind: Wewoek, chips: 100
+Big Blind: Gowuni, chips: 200
+Folds: Wewoek
+Pot size: 300
+Boasts: Gowuni, 4c 2c
+Wins: Gowuni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowuni
+Small Blind: Gowuni, chips: 100
+Big Blind: Wewoek, chips: 200
+Calls: Gowuni
+DEBUG MESSAGE: INVALID ACTION FROM Wewoek (2 0)
+Folds: Wewoek
+Pot size: 400
+Wins: Gowuni, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewoek
+Small Blind: Wewoek, chips: 100
+Big Blind: Gowuni, chips: 200
+Folds: Wewoek
+Pot size: 300
+Wins: Gowuni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowuni
+Small Blind: Gowuni, chips: 100
+Big Blind: Wewoek, chips: 200
+Raises: Gowuni, chips: 300
+Folds: Wewoek
+Pot size: 700
+Wins: Gowuni, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewoek
+Small Blind: Wewoek, chips: 100
+Big Blind: Gowuni, chips: 200
+Flop: 9c 4d 5h
+Turn: Ks
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Wewoek, Jc 3s
+Combination: Wewoek, High Card ( Ks Jc 9c 5h 4d )
+Shows: Gowuni, 7s 9h
+Combination: Gowuni, Pair ( 9h 9c Ks 7s 5h )
+Wins: Gowuni, chips: 300
+Quits: Wewoek, chips: 0
+Ranking: Gowuni, Place: 1, Score: 1000
+Reveal AI: Gowuni, AI: Random
+Ranking: Wewoek, Place: 2, Score: -1000
+Reveal AI: Wewoek, AI: AIMyBot1
+
+Player Stats for Gowuni, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Wewoek, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

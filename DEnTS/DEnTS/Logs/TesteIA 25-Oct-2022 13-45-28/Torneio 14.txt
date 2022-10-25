@@ -1,0 +1,272 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Tane: Random
+Nuroe: AIMyBot1
+
+Joins: Tane, chips: 1000
+Joins: Nuroe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tane
+Small Blind: Tane, chips: 100
+Big Blind: Nuroe, chips: 200
+Calls: Tane
+DEBUG MESSAGE: INVALID ACTION FROM Nuroe (2 0)
+Folds: Nuroe
+Pot size: 400
+Wins: Tane, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Tane, chips: 200
+Folds: Nuroe
+Pot size: 300
+Boasts: Tane, Jc 5d
+Wins: Tane, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tane
+Small Blind: Tane, chips: 100
+Big Blind: Nuroe, chips: 200
+Raises: Tane, chips: 300
+Folds: Nuroe
+Pot size: 700
+Boasts: Tane, Qs Ad
+Wins: Tane, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Tane, chips: 200
+Folds: Nuroe
+Pot size: 300
+Boasts: Tane, 8c 8h
+Wins: Tane, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tane
+Small Blind: Tane, chips: 100
+Big Blind: Nuroe, chips: 200
+Calls: Tane
+DEBUG MESSAGE: INVALID ACTION FROM Nuroe (2 0)
+Folds: Nuroe
+Pot size: 400
+Boasts: Tane, 3c 6c
+Wins: Tane, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Tane, chips: 200
+Folds: Nuroe
+Pot size: 300
+Boasts: Tane, 6h 9c
+Wins: Tane, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tane
+Small Blind: Tane, chips: 100
+Big Blind: Nuroe, chips: 100
+Flop: 9s 7d 4s
+Turn: 5h
+River: 6s
+Pot size: 200
+Showdown Reached
+Shows: Tane, As 5d
+Combination: Tane, Pair ( 5d 5h As 9s 7d )
+Shows: Nuroe, 8c 4d
+Combination: Nuroe, Straight ( 9s 8c 7d 6s 5h )
+Wins: Nuroe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Tane, chips: 200
+Folds: Nuroe
+Pot size: 300
+Boasts: Tane, 6h Kh
+Wins: Tane, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tane
+Small Blind: Tane, chips: 100
+Big Blind: Nuroe, chips: 100
+Flop: 7c Jh 5s
+Turn: Ac
+River: Qd
+Pot size: 200
+Showdown Reached
+Shows: Tane, 5c 4s
+Combination: Tane, Pair ( 5c 5s Ac Qd Jh )
+Shows: Nuroe, 5h Tc
+Combination: Nuroe, Pair ( 5h 5s Ac Qd Jh )
+Wins: Tane, chips: 100
+Wins: Nuroe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Tane, chips: 200
+Flop: Qh 4c Qd
+Turn: Ac
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Tane, Jc Ks
+Combination: Tane, Pair ( Qh Qd Ac Ks Jc )
+Shows: Nuroe, 8h 3s
+Combination: Nuroe, Pair ( Qh Qd Ac 8h 7s )
+Wins: Tane, chips: 300
+Quits: Nuroe, chips: 0
+Ranking: Tane, Place: 1, Score: 1000
+Reveal AI: Tane, AI: Random
+Ranking: Nuroe, Place: 2, Score: -1000
+Reveal AI: Nuroe, AI: AIMyBot1
+
+Player Stats for Nuroe, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Tane, AI: Random
+General: deals: 10, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 2, bluff: 7
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.1, 3Bet: 0.1
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:31
+
+The game begins. The AI's of the players are: 
+Tane: Random
+Nuroe: AIMyBot1
+
+Joins: Tane, chips: 1000
+Joins: Nuroe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tane
+Small Blind: Tane, chips: 100
+Big Blind: Nuroe, chips: 200
+Calls: Tane
+DEBUG MESSAGE: INVALID ACTION FROM Nuroe (2 0)
+Folds: Nuroe
+Pot size: 400
+Wins: Tane, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Tane, chips: 200
+Folds: Nuroe
+Pot size: 300
+Boasts: Tane, Jc 5d
+Wins: Tane, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tane
+Small Blind: Tane, chips: 100
+Big Blind: Nuroe, chips: 200
+Raises: Tane, chips: 300
+Folds: Nuroe
+Pot size: 700
+Boasts: Tane, Qs Ad
+Wins: Tane, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Tane, chips: 200
+Folds: Nuroe
+Pot size: 300
+Boasts: Tane, 8c 8h
+Wins: Tane, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tane
+Small Blind: Tane, chips: 100
+Big Blind: Nuroe, chips: 200
+Calls: Tane
+DEBUG MESSAGE: INVALID ACTION FROM Nuroe (2 0)
+Folds: Nuroe
+Pot size: 400
+Boasts: Tane, 3c 6c
+Wins: Tane, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Tane, chips: 200
+Folds: Nuroe
+Pot size: 300
+Boasts: Tane, 6h 9c
+Wins: Tane, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tane
+Small Blind: Tane, chips: 100
+Big Blind: Nuroe, chips: 100
+Flop: 9s 7d 4s
+Turn: 5h
+River: 6s
+Pot size: 200
+Showdown Reached
+Shows: Tane, As 5d
+Combination: Tane, Pair ( 5d 5h As 9s 7d )
+Shows: Nuroe, 8c 4d
+Combination: Nuroe, Straight ( 9s 8c 7d 6s 5h )
+Wins: Nuroe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Tane, chips: 200
+Folds: Nuroe
+Pot size: 300
+Boasts: Tane, 6h Kh
+Wins: Tane, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tane
+Small Blind: Tane, chips: 100
+Big Blind: Nuroe, chips: 100
+Flop: 7c Jh 5s
+Turn: Ac
+River: Qd
+Pot size: 200
+Showdown Reached
+Shows: Tane, 5c 4s
+Combination: Tane, Pair ( 5c 5s Ac Qd Jh )
+Shows: Nuroe, 5h Tc
+Combination: Nuroe, Pair ( 5h 5s Ac Qd Jh )
+Wins: Tane, chips: 100
+Wins: Nuroe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuroe
+Small Blind: Nuroe, chips: 100
+Big Blind: Tane, chips: 200
+Flop: Qh 4c Qd
+Turn: Ac
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Tane, Jc Ks
+Combination: Tane, Pair ( Qh Qd Ac Ks Jc )
+Shows: Nuroe, 8h 3s
+Combination: Nuroe, Pair ( Qh Qd Ac 8h 7s )
+Wins: Tane, chips: 300
+Quits: Nuroe, chips: 0
+Ranking: Tane, Place: 1, Score: 1000
+Reveal AI: Tane, AI: Random
+Ranking: Nuroe, Place: 2, Score: -1000
+Reveal AI: Nuroe, AI: AIMyBot1
+
+Player Stats for Nuroe, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Tane, AI: Random
+General: deals: 10, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 2, bluff: 7
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.1, 3Bet: 0.1
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

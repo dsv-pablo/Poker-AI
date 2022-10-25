@@ -1,0 +1,224 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Rupeen: Random
+Mepas: AIMyBot1
+
+Joins: Rupeen, chips: 1000
+Joins: Mepas, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mepas
+Small Blind: Mepas, chips: 100
+Big Blind: Rupeen, chips: 200
+Folds: Mepas
+Pot size: 300
+Boasts: Rupeen, 5s Qs
+Wins: Rupeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rupeen
+Small Blind: Rupeen, chips: 100
+Big Blind: Mepas, chips: 200
+Calls: Rupeen
+DEBUG MESSAGE: INVALID ACTION FROM Mepas (2 0)
+Folds: Mepas
+Pot size: 400
+Boasts: Rupeen, 7c 9h
+Wins: Rupeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mepas
+Small Blind: Mepas, chips: 100
+Big Blind: Rupeen, chips: 200
+Folds: Mepas
+Pot size: 300
+Wins: Rupeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rupeen
+Small Blind: Rupeen, chips: 100
+Big Blind: Mepas, chips: 200
+Calls: Rupeen
+DEBUG MESSAGE: INVALID ACTION FROM Mepas (2 0)
+Folds: Mepas
+Pot size: 400
+Wins: Rupeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mepas
+Small Blind: Mepas, chips: 100
+Big Blind: Rupeen, chips: 200
+Folds: Mepas
+Pot size: 300
+Boasts: Rupeen, Qh As
+Wins: Rupeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rupeen
+Small Blind: Rupeen, chips: 100
+Big Blind: Mepas, chips: 200
+Folds: Rupeen
+Pot size: 300
+Wins: Mepas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mepas
+Small Blind: Mepas, chips: 100
+Big Blind: Rupeen, chips: 200
+Folds: Mepas
+Pot size: 300
+Boasts: Rupeen, Ac 6s
+Wins: Rupeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rupeen
+Small Blind: Rupeen, chips: 100
+Big Blind: Mepas, chips: 200
+Raises: Rupeen, chips: 300
+Folds: Mepas
+Pot size: 700
+Wins: Rupeen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mepas
+Small Blind: Mepas, chips: 100
+Big Blind: Rupeen, chips: 200
+Flop: Ts 2s Ad
+Turn: 3c
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Rupeen, 2c 7d
+Combination: Rupeen, Two Pair ( Ts Td 2c 2s Ad )
+Shows: Mepas, 9s 5s
+Combination: Mepas, Pair ( Ts Td Ad 9s 5s )
+Wins: Rupeen, chips: 300
+Quits: Mepas, chips: 0
+Ranking: Rupeen, Place: 1, Score: 1000
+Reveal AI: Rupeen, AI: Random
+Ranking: Mepas, Place: 2, Score: -1000
+Reveal AI: Mepas, AI: AIMyBot1
+
+Player Stats for Mepas, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Rupeen, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:36
+
+The game begins. The AI's of the players are: 
+Rupeen: Random
+Mepas: AIMyBot1
+
+Joins: Rupeen, chips: 1000
+Joins: Mepas, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mepas
+Small Blind: Mepas, chips: 100
+Big Blind: Rupeen, chips: 200
+Folds: Mepas
+Pot size: 300
+Boasts: Rupeen, 5s Qs
+Wins: Rupeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rupeen
+Small Blind: Rupeen, chips: 100
+Big Blind: Mepas, chips: 200
+Calls: Rupeen
+DEBUG MESSAGE: INVALID ACTION FROM Mepas (2 0)
+Folds: Mepas
+Pot size: 400
+Boasts: Rupeen, 7c 9h
+Wins: Rupeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mepas
+Small Blind: Mepas, chips: 100
+Big Blind: Rupeen, chips: 200
+Folds: Mepas
+Pot size: 300
+Wins: Rupeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rupeen
+Small Blind: Rupeen, chips: 100
+Big Blind: Mepas, chips: 200
+Calls: Rupeen
+DEBUG MESSAGE: INVALID ACTION FROM Mepas (2 0)
+Folds: Mepas
+Pot size: 400
+Wins: Rupeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mepas
+Small Blind: Mepas, chips: 100
+Big Blind: Rupeen, chips: 200
+Folds: Mepas
+Pot size: 300
+Boasts: Rupeen, Qh As
+Wins: Rupeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rupeen
+Small Blind: Rupeen, chips: 100
+Big Blind: Mepas, chips: 200
+Folds: Rupeen
+Pot size: 300
+Wins: Mepas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mepas
+Small Blind: Mepas, chips: 100
+Big Blind: Rupeen, chips: 200
+Folds: Mepas
+Pot size: 300
+Boasts: Rupeen, Ac 6s
+Wins: Rupeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rupeen
+Small Blind: Rupeen, chips: 100
+Big Blind: Mepas, chips: 200
+Raises: Rupeen, chips: 300
+Folds: Mepas
+Pot size: 700
+Wins: Rupeen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mepas
+Small Blind: Mepas, chips: 100
+Big Blind: Rupeen, chips: 200
+Flop: Ts 2s Ad
+Turn: 3c
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Rupeen, 2c 7d
+Combination: Rupeen, Two Pair ( Ts Td 2c 2s Ad )
+Shows: Mepas, 9s 5s
+Combination: Mepas, Pair ( Ts Td Ad 9s 5s )
+Wins: Rupeen, chips: 300
+Quits: Mepas, chips: 0
+Ranking: Rupeen, Place: 1, Score: 1000
+Reveal AI: Rupeen, AI: Random
+Ranking: Mepas, Place: 2, Score: -1000
+Reveal AI: Mepas, AI: AIMyBot1
+
+Player Stats for Mepas, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Rupeen, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

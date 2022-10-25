@@ -1,0 +1,408 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Kekik: Random
+Goewroemi: AIMyBot1
+
+Joins: Kekik, chips: 1000
+Joins: Goewroemi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 200
+Raises: Kekik, chips: 300
+Folds: Goewroemi
+Pot size: 700
+Boasts: Kekik, 4d 3s
+Wins: Kekik, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroemi
+Small Blind: Goewroemi, chips: 100
+Big Blind: Kekik, chips: 200
+Folds: Goewroemi
+Pot size: 300
+Boasts: Kekik, 2s 8s
+Wins: Kekik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 200
+Raises: Kekik, chips: 300
+Folds: Goewroemi
+Pot size: 700
+Boasts: Kekik, 7s 9h
+Wins: Kekik, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroemi
+Small Blind: Goewroemi, chips: 100
+Big Blind: Kekik, chips: 200
+Folds: Goewroemi
+Pot size: 300
+Boasts: Kekik, 8d 9h
+Wins: Kekik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 200
+Calls: Kekik
+DEBUG MESSAGE: INVALID ACTION FROM Goewroemi (2 0)
+Folds: Goewroemi
+Pot size: 400
+Wins: Kekik, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroemi
+Small Blind: Goewroemi, chips: 100
+Big Blind: Kekik, chips: 200
+Folds: Goewroemi
+Pot size: 300
+Boasts: Kekik, 9h Qc
+Wins: Kekik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 100
+Flop: Ah 9h 4h
+Turn: 7d
+River: 2s
+Pot size: 200
+Showdown Reached
+Shows: Kekik, Js 6h
+Combination: Kekik, High Card ( Ah Js 9h 7d 6h )
+Shows: Goewroemi, 2c Jc
+Combination: Goewroemi, Pair ( 2c 2s Ah Jc 9h )
+Wins: Goewroemi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroemi
+Small Blind: Goewroemi, chips: 100
+Big Blind: Kekik, chips: 200
+Folds: Goewroemi
+Pot size: 300
+Boasts: Kekik, As 6s
+Wins: Kekik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 100
+Flop: Ah 7s 3h
+Turn: 2s
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Kekik, 4d 9d
+Combination: Kekik, High Card ( Ah Qc 9d 7s 4d )
+Shows: Goewroemi, 9c Qs
+Combination: Goewroemi, Pair ( Qs Qc Ah 9c 7s )
+Wins: Goewroemi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroemi
+Small Blind: Goewroemi, chips: 100
+Big Blind: Kekik, chips: 200
+Folds: Goewroemi
+Pot size: 300
+Wins: Kekik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 100
+Flop: Jd Td Qc
+Turn: 2c
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Kekik, Kh 3d
+Combination: Kekik, Pair ( Td Ts Kh Qc Jd )
+Shows: Goewroemi, Kc 9s
+Combination: Goewroemi, Straight ( Kc Qc Jd Td 9s )
+Wins: Goewroemi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroemi
+Small Blind: Goewroemi, chips: 100
+Big Blind: Kekik, chips: 200
+Folds: Goewroemi
+Pot size: 300
+Wins: Kekik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 100
+Flop: Ts Th 3c
+Turn: Jc
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Kekik, Ks 5h
+Combination: Kekik, Pair ( Ts Th Ks Jc 9d )
+Shows: Goewroemi, 9s 4s
+Combination: Goewroemi, Two Pair ( Ts Th 9s 9d Jc )
+Wins: Goewroemi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroemi
+Small Blind: Goewroemi, chips: 100
+Big Blind: Kekik, chips: 200
+Folds: Goewroemi
+Pot size: 300
+Wins: Kekik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 100
+Flop: Tc 9c 4h
+Turn: Ah
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Kekik, 4s 6h
+Combination: Kekik, Pair ( 4s 4h Ah Jc Tc )
+Shows: Goewroemi, 7h Td
+Combination: Goewroemi, Pair ( Td Tc Ah Jc 9c )
+Wins: Goewroemi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroemi
+Small Blind: Goewroemi, chips: 100
+Big Blind: Kekik, chips: 200
+Folds: Goewroemi
+Pot size: 300
+Wins: Kekik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 100
+Flop: 4s 3h Ts
+Turn: 8s
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Kekik, Kh Ks
+Combination: Kekik, Pair ( Kh Ks Ad Ts 8s )
+Shows: Goewroemi, Td Jh
+Combination: Goewroemi, Pair ( Td Ts Ad Jh 8s )
+Wins: Kekik, chips: 200
+Quits: Goewroemi, chips: 0
+Ranking: Kekik, Place: 1, Score: 1000
+Reveal AI: Kekik, AI: Random
+Ranking: Goewroemi, Place: 2, Score: -1000
+Reveal AI: Goewroemi, AI: AIMyBot1
+
+Player Stats for Goewroemi, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 1000, lost: 2000, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Kekik, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4400, lost: 3400, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.166667
+
+
+Date: 2022/10/25 13:46:29
+
+The game begins. The AI's of the players are: 
+Kekik: Random
+Goewroemi: AIMyBot1
+
+Joins: Kekik, chips: 1000
+Joins: Goewroemi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 200
+Raises: Kekik, chips: 300
+Folds: Goewroemi
+Pot size: 700
+Boasts: Kekik, 4d 3s
+Wins: Kekik, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroemi
+Small Blind: Goewroemi, chips: 100
+Big Blind: Kekik, chips: 200
+Folds: Goewroemi
+Pot size: 300
+Boasts: Kekik, 2s 8s
+Wins: Kekik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 200
+Raises: Kekik, chips: 300
+Folds: Goewroemi
+Pot size: 700
+Boasts: Kekik, 7s 9h
+Wins: Kekik, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroemi
+Small Blind: Goewroemi, chips: 100
+Big Blind: Kekik, chips: 200
+Folds: Goewroemi
+Pot size: 300
+Boasts: Kekik, 8d 9h
+Wins: Kekik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 200
+Calls: Kekik
+DEBUG MESSAGE: INVALID ACTION FROM Goewroemi (2 0)
+Folds: Goewroemi
+Pot size: 400
+Wins: Kekik, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroemi
+Small Blind: Goewroemi, chips: 100
+Big Blind: Kekik, chips: 200
+Folds: Goewroemi
+Pot size: 300
+Boasts: Kekik, 9h Qc
+Wins: Kekik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 100
+Flop: Ah 9h 4h
+Turn: 7d
+River: 2s
+Pot size: 200
+Showdown Reached
+Shows: Kekik, Js 6h
+Combination: Kekik, High Card ( Ah Js 9h 7d 6h )
+Shows: Goewroemi, 2c Jc
+Combination: Goewroemi, Pair ( 2c 2s Ah Jc 9h )
+Wins: Goewroemi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroemi
+Small Blind: Goewroemi, chips: 100
+Big Blind: Kekik, chips: 200
+Folds: Goewroemi
+Pot size: 300
+Boasts: Kekik, As 6s
+Wins: Kekik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 100
+Flop: Ah 7s 3h
+Turn: 2s
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Kekik, 4d 9d
+Combination: Kekik, High Card ( Ah Qc 9d 7s 4d )
+Shows: Goewroemi, 9c Qs
+Combination: Goewroemi, Pair ( Qs Qc Ah 9c 7s )
+Wins: Goewroemi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroemi
+Small Blind: Goewroemi, chips: 100
+Big Blind: Kekik, chips: 200
+Folds: Goewroemi
+Pot size: 300
+Wins: Kekik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 100
+Flop: Jd Td Qc
+Turn: 2c
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Kekik, Kh 3d
+Combination: Kekik, Pair ( Td Ts Kh Qc Jd )
+Shows: Goewroemi, Kc 9s
+Combination: Goewroemi, Straight ( Kc Qc Jd Td 9s )
+Wins: Goewroemi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroemi
+Small Blind: Goewroemi, chips: 100
+Big Blind: Kekik, chips: 200
+Folds: Goewroemi
+Pot size: 300
+Wins: Kekik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 100
+Flop: Ts Th 3c
+Turn: Jc
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Kekik, Ks 5h
+Combination: Kekik, Pair ( Ts Th Ks Jc 9d )
+Shows: Goewroemi, 9s 4s
+Combination: Goewroemi, Two Pair ( Ts Th 9s 9d Jc )
+Wins: Goewroemi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroemi
+Small Blind: Goewroemi, chips: 100
+Big Blind: Kekik, chips: 200
+Folds: Goewroemi
+Pot size: 300
+Wins: Kekik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 100
+Flop: Tc 9c 4h
+Turn: Ah
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Kekik, 4s 6h
+Combination: Kekik, Pair ( 4s 4h Ah Jc Tc )
+Shows: Goewroemi, 7h Td
+Combination: Goewroemi, Pair ( Td Tc Ah Jc 9c )
+Wins: Goewroemi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goewroemi
+Small Blind: Goewroemi, chips: 100
+Big Blind: Kekik, chips: 200
+Folds: Goewroemi
+Pot size: 300
+Wins: Kekik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kekik
+Small Blind: Kekik, chips: 100
+Big Blind: Goewroemi, chips: 100
+Flop: 4s 3h Ts
+Turn: 8s
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Kekik, Kh Ks
+Combination: Kekik, Pair ( Kh Ks Ad Ts 8s )
+Shows: Goewroemi, Td Jh
+Combination: Goewroemi, Pair ( Td Ts Ad Jh 8s )
+Wins: Kekik, chips: 200
+Quits: Goewroemi, chips: 0
+Ranking: Kekik, Place: 1, Score: 1000
+Reveal AI: Kekik, AI: Random
+Ranking: Goewroemi, Place: 2, Score: -1000
+Reveal AI: Goewroemi, AI: AIMyBot1
+
+Player Stats for Goewroemi, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 1000, lost: 2000, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Kekik, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4400, lost: 3400, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.166667
+
+

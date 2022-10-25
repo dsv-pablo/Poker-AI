@@ -1,0 +1,460 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Goefi: AIMyBot1
+Winunny: Random
+
+Joins: Goefi, chips: 1000
+Joins: Winunny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Folds: Winunny
+Pot size: 300
+Wins: Goefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Folds: Winunny
+Pot size: 300
+Wins: Goefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Boasts: Winunny, 6c 7s
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Raises: Winunny, chips: 300
+Folds: Goefi
+Pot size: 700
+Boasts: Winunny, 3h 3d
+Wins: Winunny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Boasts: Winunny, 9c Qc
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Calls: Winunny
+DEBUG MESSAGE: INVALID ACTION FROM Goefi (2 0)
+Folds: Goefi
+Pot size: 400
+Boasts: Winunny, 9h 4d
+Wins: Winunny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Folds: Winunny
+Pot size: 300
+Wins: Goefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Folds: Winunny
+Pot size: 300
+Wins: Goefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Boasts: Winunny, 5c 3h
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Folds: Winunny
+Pot size: 300
+Wins: Goefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Boasts: Winunny, Ts 7c
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Folds: Winunny
+Pot size: 300
+Boasts: Winunny, 6s 7s
+Wins: Goefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Calls: Winunny
+DEBUG MESSAGE: INVALID ACTION FROM Goefi (2 0)
+Folds: Goefi
+Pot size: 400
+Boasts: Winunny, 9d Qh
+Wins: Winunny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 100
+Flop: 5c As Kh
+Turn: 2s
+River: Js
+Pot size: 200
+Showdown Reached
+Shows: Goefi, 7c Qs
+Combination: Goefi, High Card ( As Kh Qs Js 7c )
+Shows: Winunny, 6d Ts
+Combination: Winunny, High Card ( As Kh Js Ts 6d )
+Wins: Goefi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Boasts: Winunny, 5h Jd
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 100
+Flop: Tc Qs Kc
+Turn: Qh
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Goefi, 4h 4s
+Combination: Goefi, Full House ( Qs Qh Qc 4h 4s )
+Shows: Winunny, As 7s
+Combination: Winunny, Three Of A Kind ( Qs Qh Qc As Kc )
+Wins: Goefi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Boasts: Winunny, Td 3d
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 100
+Flop: 7s Qh 6h
+Turn: Ad
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Goefi, Js 9d
+Combination: Goefi, High Card ( Ad Qh Js Tc 9d )
+Shows: Winunny, 6d 5s
+Combination: Winunny, Pair ( 6d 6h Ad Qh Tc )
+Wins: Winunny, chips: 200
+Quits: Goefi, chips: 0
+Ranking: Winunny, Place: 1, Score: 1000
+Reveal AI: Winunny, AI: Random
+Ranking: Goefi, Place: 2, Score: -1000
+Reveal AI: Goefi, AI: AIMyBot1
+
+Player Stats for Goefi, AI: AIMyBot1
+General: deals: 23, actions: 14, preflop actions: 14
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 2200, lost: 3200, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Winunny, AI: Random
+General: deals: 23, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 15, showdown: 1, bluff: 14
+Chips: won: 5000, lost: 4000, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.0434783, 3Bet: 0.0434783
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Date: 2022/10/25 13:46:13
+
+The game begins. The AI's of the players are: 
+Goefi: AIMyBot1
+Winunny: Random
+
+Joins: Goefi, chips: 1000
+Joins: Winunny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Folds: Winunny
+Pot size: 300
+Wins: Goefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Folds: Winunny
+Pot size: 300
+Wins: Goefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Boasts: Winunny, 6c 7s
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Raises: Winunny, chips: 300
+Folds: Goefi
+Pot size: 700
+Boasts: Winunny, 3h 3d
+Wins: Winunny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Boasts: Winunny, 9c Qc
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Calls: Winunny
+DEBUG MESSAGE: INVALID ACTION FROM Goefi (2 0)
+Folds: Goefi
+Pot size: 400
+Boasts: Winunny, 9h 4d
+Wins: Winunny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Folds: Winunny
+Pot size: 300
+Wins: Goefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Folds: Winunny
+Pot size: 300
+Wins: Goefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Boasts: Winunny, 5c 3h
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Folds: Winunny
+Pot size: 300
+Wins: Goefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Boasts: Winunny, Ts 7c
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Folds: Winunny
+Pot size: 300
+Boasts: Winunny, 6s 7s
+Wins: Goefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 200
+Calls: Winunny
+DEBUG MESSAGE: INVALID ACTION FROM Goefi (2 0)
+Folds: Goefi
+Pot size: 400
+Boasts: Winunny, 9d Qh
+Wins: Winunny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 100
+Flop: 5c As Kh
+Turn: 2s
+River: Js
+Pot size: 200
+Showdown Reached
+Shows: Goefi, 7c Qs
+Combination: Goefi, High Card ( As Kh Qs Js 7c )
+Shows: Winunny, 6d Ts
+Combination: Winunny, High Card ( As Kh Js Ts 6d )
+Wins: Goefi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Boasts: Winunny, 5h Jd
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 100
+Flop: Tc Qs Kc
+Turn: Qh
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Goefi, 4h 4s
+Combination: Goefi, Full House ( Qs Qh Qc 4h 4s )
+Shows: Winunny, As 7s
+Combination: Winunny, Three Of A Kind ( Qs Qh Qc As Kc )
+Wins: Goefi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goefi
+Small Blind: Goefi, chips: 100
+Big Blind: Winunny, chips: 200
+Folds: Goefi
+Pot size: 300
+Boasts: Winunny, Td 3d
+Wins: Winunny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Winunny
+Small Blind: Winunny, chips: 100
+Big Blind: Goefi, chips: 100
+Flop: 7s Qh 6h
+Turn: Ad
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Goefi, Js 9d
+Combination: Goefi, High Card ( Ad Qh Js Tc 9d )
+Shows: Winunny, 6d 5s
+Combination: Winunny, Pair ( 6d 6h Ad Qh Tc )
+Wins: Winunny, chips: 200
+Quits: Goefi, chips: 0
+Ranking: Winunny, Place: 1, Score: 1000
+Reveal AI: Winunny, AI: Random
+Ranking: Goefi, Place: 2, Score: -1000
+Reveal AI: Goefi, AI: AIMyBot1
+
+Player Stats for Goefi, AI: AIMyBot1
+General: deals: 23, actions: 14, preflop actions: 14
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 2200, lost: 3200, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Winunny, AI: Random
+General: deals: 23, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 15, showdown: 1, bluff: 14
+Chips: won: 5000, lost: 4000, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.0434783, 3Bet: 0.0434783
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+

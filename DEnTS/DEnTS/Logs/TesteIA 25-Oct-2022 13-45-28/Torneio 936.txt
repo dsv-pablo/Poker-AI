@@ -1,0 +1,188 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Tittuket: Random
+Hinhoe: AIMyBot1
+
+Joins: Tittuket, chips: 1000
+Joins: Hinhoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhoe
+Small Blind: Hinhoe, chips: 100
+Big Blind: Tittuket, chips: 200
+Folds: Hinhoe
+Pot size: 300
+Wins: Tittuket, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tittuket
+Small Blind: Tittuket, chips: 100
+Big Blind: Hinhoe, chips: 200
+Calls: Tittuket
+DEBUG MESSAGE: INVALID ACTION FROM Hinhoe (2 0)
+Folds: Hinhoe
+Pot size: 400
+Wins: Tittuket, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhoe
+Small Blind: Hinhoe, chips: 100
+Big Blind: Tittuket, chips: 200
+Folds: Hinhoe
+Pot size: 300
+Wins: Tittuket, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tittuket
+Small Blind: Tittuket, chips: 100
+Big Blind: Hinhoe, chips: 200
+Raises: Tittuket, chips: 300
+Folds: Hinhoe
+Pot size: 700
+Wins: Tittuket, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhoe
+Small Blind: Hinhoe, chips: 100
+Big Blind: Tittuket, chips: 200
+Folds: Hinhoe
+Pot size: 300
+Wins: Tittuket, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tittuket
+Small Blind: Tittuket, chips: 100
+Big Blind: Hinhoe, chips: 200
+Raises: Tittuket, chips: 300
+Folds: Hinhoe
+Pot size: 700
+Boasts: Tittuket, 5c 7h
+Wins: Tittuket, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhoe
+Small Blind: Hinhoe, chips: 100
+Big Blind: Tittuket, chips: 200
+Flop: Th As 8h
+Turn: Kd
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Tittuket, 7d Jc
+Combination: Tittuket, Straight ( Jc Th 9c 8h 7d )
+Shows: Hinhoe, 5h 2d
+Combination: Hinhoe, High Card ( As Kd Th 9c 8h )
+Wins: Tittuket, chips: 300
+Quits: Hinhoe, chips: 0
+Ranking: Tittuket, Place: 1, Score: 1000
+Reveal AI: Tittuket, AI: Random
+Ranking: Hinhoe, Place: 2, Score: -1000
+Reveal AI: Hinhoe, AI: AIMyBot1
+
+Player Stats for Hinhoe, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Tittuket, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:31
+
+The game begins. The AI's of the players are: 
+Tittuket: Random
+Hinhoe: AIMyBot1
+
+Joins: Tittuket, chips: 1000
+Joins: Hinhoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhoe
+Small Blind: Hinhoe, chips: 100
+Big Blind: Tittuket, chips: 200
+Folds: Hinhoe
+Pot size: 300
+Wins: Tittuket, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tittuket
+Small Blind: Tittuket, chips: 100
+Big Blind: Hinhoe, chips: 200
+Calls: Tittuket
+DEBUG MESSAGE: INVALID ACTION FROM Hinhoe (2 0)
+Folds: Hinhoe
+Pot size: 400
+Wins: Tittuket, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhoe
+Small Blind: Hinhoe, chips: 100
+Big Blind: Tittuket, chips: 200
+Folds: Hinhoe
+Pot size: 300
+Wins: Tittuket, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tittuket
+Small Blind: Tittuket, chips: 100
+Big Blind: Hinhoe, chips: 200
+Raises: Tittuket, chips: 300
+Folds: Hinhoe
+Pot size: 700
+Wins: Tittuket, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhoe
+Small Blind: Hinhoe, chips: 100
+Big Blind: Tittuket, chips: 200
+Folds: Hinhoe
+Pot size: 300
+Wins: Tittuket, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tittuket
+Small Blind: Tittuket, chips: 100
+Big Blind: Hinhoe, chips: 200
+Raises: Tittuket, chips: 300
+Folds: Hinhoe
+Pot size: 700
+Boasts: Tittuket, 5c 7h
+Wins: Tittuket, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhoe
+Small Blind: Hinhoe, chips: 100
+Big Blind: Tittuket, chips: 200
+Flop: Th As 8h
+Turn: Kd
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Tittuket, 7d Jc
+Combination: Tittuket, Straight ( Jc Th 9c 8h 7d )
+Shows: Hinhoe, 5h 2d
+Combination: Hinhoe, High Card ( As Kd Th 9c 8h )
+Wins: Tittuket, chips: 300
+Quits: Hinhoe, chips: 0
+Ranking: Tittuket, Place: 1, Score: 1000
+Reveal AI: Tittuket, AI: Random
+Ranking: Hinhoe, Place: 2, Score: -1000
+Reveal AI: Hinhoe, AI: AIMyBot1
+
+Player Stats for Hinhoe, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Tittuket, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

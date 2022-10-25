@@ -1,0 +1,228 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Fonoe: Random
+Pige: AIMyBot1
+
+Joins: Fonoe, chips: 1000
+Joins: Pige, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pige
+Small Blind: Pige, chips: 100
+Big Blind: Fonoe, chips: 200
+Folds: Pige
+Pot size: 300
+Boasts: Fonoe, 6s 3d
+Wins: Fonoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonoe
+Small Blind: Fonoe, chips: 100
+Big Blind: Pige, chips: 200
+Raises: Fonoe, chips: 300
+Folds: Pige
+Pot size: 700
+Boasts: Fonoe, 3d 9s
+Wins: Fonoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pige
+Small Blind: Pige, chips: 100
+Big Blind: Fonoe, chips: 200
+Folds: Pige
+Pot size: 300
+Boasts: Fonoe, Tc 5s
+Wins: Fonoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonoe
+Small Blind: Fonoe, chips: 100
+Big Blind: Pige, chips: 200
+Calls: Fonoe
+DEBUG MESSAGE: INVALID ACTION FROM Pige (2 0)
+Folds: Pige
+Pot size: 400
+Boasts: Fonoe, 4s As
+Wins: Fonoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pige
+Small Blind: Pige, chips: 100
+Big Blind: Fonoe, chips: 200
+Folds: Pige
+Pot size: 300
+Wins: Fonoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonoe
+Small Blind: Fonoe, chips: 100
+Big Blind: Pige, chips: 200
+Calls: Fonoe
+DEBUG MESSAGE: INVALID ACTION FROM Pige (2 0)
+Folds: Pige
+Pot size: 400
+Boasts: Fonoe, 3s Kd
+Wins: Fonoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pige
+Small Blind: Pige, chips: 100
+Big Blind: Fonoe, chips: 200
+Flop: 5s 2c 7h
+Turn: 4h
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Fonoe, 6c 6d
+Combination: Fonoe, Straight ( 8s 7h 6c 5s 4h )
+Shows: Pige, 4s 6h
+Combination: Pige, Straight ( 8s 7h 6h 5s 4s )
+Wins: Fonoe, chips: 200
+Wins: Pige, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonoe
+Small Blind: Fonoe, chips: 100
+Big Blind: Pige, chips: 100
+Flop: 9h 5h Jd
+Turn: Ks
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Fonoe, 5d As
+Combination: Fonoe, Two Pair ( 9h 9d 5d 5h As )
+Shows: Pige, 7d 5c
+Combination: Pige, Two Pair ( 9h 9d 5c 5h Ks )
+Wins: Fonoe, chips: 200
+Quits: Pige, chips: 0
+Ranking: Fonoe, Place: 1, Score: 1000
+Reveal AI: Fonoe, AI: Random
+Ranking: Pige, Place: 2, Score: -1000
+Reveal AI: Pige, AI: AIMyBot1
+
+Player Stats for Fonoe, AI: Random
+General: deals: 8, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 2800, lost: 1800, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.125, 3Bet: 0.125
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Pige, AI: AIMyBot1
+General: deals: 8, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 100, lost: 1100, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:26
+
+The game begins. The AI's of the players are: 
+Fonoe: Random
+Pige: AIMyBot1
+
+Joins: Fonoe, chips: 1000
+Joins: Pige, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pige
+Small Blind: Pige, chips: 100
+Big Blind: Fonoe, chips: 200
+Folds: Pige
+Pot size: 300
+Boasts: Fonoe, 6s 3d
+Wins: Fonoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonoe
+Small Blind: Fonoe, chips: 100
+Big Blind: Pige, chips: 200
+Raises: Fonoe, chips: 300
+Folds: Pige
+Pot size: 700
+Boasts: Fonoe, 3d 9s
+Wins: Fonoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pige
+Small Blind: Pige, chips: 100
+Big Blind: Fonoe, chips: 200
+Folds: Pige
+Pot size: 300
+Boasts: Fonoe, Tc 5s
+Wins: Fonoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonoe
+Small Blind: Fonoe, chips: 100
+Big Blind: Pige, chips: 200
+Calls: Fonoe
+DEBUG MESSAGE: INVALID ACTION FROM Pige (2 0)
+Folds: Pige
+Pot size: 400
+Boasts: Fonoe, 4s As
+Wins: Fonoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pige
+Small Blind: Pige, chips: 100
+Big Blind: Fonoe, chips: 200
+Folds: Pige
+Pot size: 300
+Wins: Fonoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonoe
+Small Blind: Fonoe, chips: 100
+Big Blind: Pige, chips: 200
+Calls: Fonoe
+DEBUG MESSAGE: INVALID ACTION FROM Pige (2 0)
+Folds: Pige
+Pot size: 400
+Boasts: Fonoe, 3s Kd
+Wins: Fonoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pige
+Small Blind: Pige, chips: 100
+Big Blind: Fonoe, chips: 200
+Flop: 5s 2c 7h
+Turn: 4h
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Fonoe, 6c 6d
+Combination: Fonoe, Straight ( 8s 7h 6c 5s 4h )
+Shows: Pige, 4s 6h
+Combination: Pige, Straight ( 8s 7h 6h 5s 4s )
+Wins: Fonoe, chips: 200
+Wins: Pige, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonoe
+Small Blind: Fonoe, chips: 100
+Big Blind: Pige, chips: 100
+Flop: 9h 5h Jd
+Turn: Ks
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Fonoe, 5d As
+Combination: Fonoe, Two Pair ( 9h 9d 5d 5h As )
+Shows: Pige, 7d 5c
+Combination: Pige, Two Pair ( 9h 9d 5c 5h Ks )
+Wins: Fonoe, chips: 200
+Quits: Pige, chips: 0
+Ranking: Fonoe, Place: 1, Score: 1000
+Reveal AI: Fonoe, AI: Random
+Ranking: Pige, Place: 2, Score: -1000
+Reveal AI: Pige, AI: AIMyBot1
+
+Player Stats for Fonoe, AI: Random
+General: deals: 8, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 2800, lost: 1800, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.125, 3Bet: 0.125
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Pige, AI: AIMyBot1
+General: deals: 8, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 100, lost: 1100, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

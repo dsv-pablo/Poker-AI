@@ -1,0 +1,182 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hoban: Random
+Cheetochop: AIMyBot1
+
+Joins: Hoban, chips: 1000
+Joins: Cheetochop, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheetochop
+Small Blind: Cheetochop, chips: 100
+Big Blind: Hoban, chips: 200
+Folds: Cheetochop
+Pot size: 300
+Boasts: Hoban, 5h 4s
+Wins: Hoban, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoban
+Small Blind: Hoban, chips: 100
+Big Blind: Cheetochop, chips: 200
+Calls: Hoban
+DEBUG MESSAGE: INVALID ACTION FROM Cheetochop (2 0)
+Folds: Cheetochop
+Pot size: 400
+Wins: Hoban, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheetochop
+Small Blind: Cheetochop, chips: 100
+Big Blind: Hoban, chips: 200
+Folds: Cheetochop
+Pot size: 300
+Boasts: Hoban, 6d 2c
+Wins: Hoban, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoban
+Small Blind: Hoban, chips: 100
+Big Blind: Cheetochop, chips: 200
+Calls: Hoban
+DEBUG MESSAGE: INVALID ACTION FROM Cheetochop (2 0)
+Folds: Cheetochop
+Pot size: 400
+Boasts: Hoban, Ks 7h
+Wins: Hoban, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheetochop
+Small Blind: Cheetochop, chips: 100
+Big Blind: Hoban, chips: 200
+Folds: Cheetochop
+Pot size: 300
+Wins: Hoban, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoban
+Small Blind: Hoban, chips: 100
+Big Blind: Cheetochop, chips: 200
+Raises: Hoban, chips: 300
+Calls: Cheetochop
+Flop: 8d Jd Ad
+Turn: 3c
+River: 7s
+Pot size: 800
+Showdown Reached
+Shows: Hoban, 3d Kh
+Combination: Hoban, Pair ( 3d 3c Ad Kh Jd )
+Shows: Cheetochop, Kd 5s
+Combination: Cheetochop, High Card ( Ad Kd Jd 8d 7s )
+Wins: Hoban, chips: 800
+Quits: Cheetochop, chips: 0
+Ranking: Hoban, Place: 1, Score: 1000
+Reveal AI: Hoban, AI: Random
+Ranking: Cheetochop, Place: 2, Score: -1000
+Reveal AI: Cheetochop, AI: AIMyBot1
+
+Player Stats for Cheetochop, AI: AIMyBot1
+General: deals: 6, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1200, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Hoban, AI: Random
+General: deals: 6, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 1, bluff: 5
+Chips: won: 2500, lost: 1500, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.166667, 3Bet: 0.166667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:46
+
+The game begins. The AI's of the players are: 
+Hoban: Random
+Cheetochop: AIMyBot1
+
+Joins: Hoban, chips: 1000
+Joins: Cheetochop, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheetochop
+Small Blind: Cheetochop, chips: 100
+Big Blind: Hoban, chips: 200
+Folds: Cheetochop
+Pot size: 300
+Boasts: Hoban, 5h 4s
+Wins: Hoban, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoban
+Small Blind: Hoban, chips: 100
+Big Blind: Cheetochop, chips: 200
+Calls: Hoban
+DEBUG MESSAGE: INVALID ACTION FROM Cheetochop (2 0)
+Folds: Cheetochop
+Pot size: 400
+Wins: Hoban, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheetochop
+Small Blind: Cheetochop, chips: 100
+Big Blind: Hoban, chips: 200
+Folds: Cheetochop
+Pot size: 300
+Boasts: Hoban, 6d 2c
+Wins: Hoban, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoban
+Small Blind: Hoban, chips: 100
+Big Blind: Cheetochop, chips: 200
+Calls: Hoban
+DEBUG MESSAGE: INVALID ACTION FROM Cheetochop (2 0)
+Folds: Cheetochop
+Pot size: 400
+Boasts: Hoban, Ks 7h
+Wins: Hoban, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheetochop
+Small Blind: Cheetochop, chips: 100
+Big Blind: Hoban, chips: 200
+Folds: Cheetochop
+Pot size: 300
+Wins: Hoban, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoban
+Small Blind: Hoban, chips: 100
+Big Blind: Cheetochop, chips: 200
+Raises: Hoban, chips: 300
+Calls: Cheetochop
+Flop: 8d Jd Ad
+Turn: 3c
+River: 7s
+Pot size: 800
+Showdown Reached
+Shows: Hoban, 3d Kh
+Combination: Hoban, Pair ( 3d 3c Ad Kh Jd )
+Shows: Cheetochop, Kd 5s
+Combination: Cheetochop, High Card ( Ad Kd Jd 8d 7s )
+Wins: Hoban, chips: 800
+Quits: Cheetochop, chips: 0
+Ranking: Hoban, Place: 1, Score: 1000
+Reveal AI: Hoban, AI: Random
+Ranking: Cheetochop, Place: 2, Score: -1000
+Reveal AI: Cheetochop, AI: AIMyBot1
+
+Player Stats for Cheetochop, AI: AIMyBot1
+General: deals: 6, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1200, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Hoban, AI: Random
+General: deals: 6, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 1, bluff: 5
+Chips: won: 2500, lost: 1500, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.166667, 3Bet: 0.166667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

@@ -1,0 +1,3098 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wonhos: AIMyBot4
+Waper: AIMyBot7
+Walee: AIMyBot1
+Hoewof: AIMyBot6
+Koesi: AIMyBot2
+Doewo: AIMyBot3
+Rurenun: AIMyBot5
+
+Joins: Wonhos, chips: 1000
+Joins: Waper, chips: 1000
+Joins: Walee, chips: 1000
+Joins: Hoewof, chips: 1000
+Joins: Koesi, chips: 1000
+Joins: Doewo, chips: 1000
+Joins: Rurenun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Koesi, chips: 200
+Folds: Doewo
+Folds: Rurenun
+Raises: Wonhos, chips: 200
+Folds: Waper
+Folds: Walee
+Folds: Hoewof
+Folds: Koesi
+Pot size: 700
+Wins: Wonhos, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Koesi, chips: 100
+Big Blind: Doewo, chips: 200
+Folds: Rurenun
+Calls: Wonhos
+Raises: Waper, chips: 600
+Folds: Walee
+Folds: Hoewof
+Folds: Koesi
+Calls: Doewo
+Calls: Wonhos
+Flop: 4d 4h Kd
+Raises: Doewo, chips: 200
+Calls: Wonhos
+Calls: Waper
+Turn: As
+River: Jh
+Pot size: 3100
+Showdown Reached
+Shows: Wonhos, 8c 8s
+Combination: Wonhos, Two Pair ( 8c 8s 4d 4h As )
+Shows: Waper, 6h Ah
+Combination: Waper, Two Pair ( Ah As 4d 4h Kd )
+Shows: Doewo, 4c 3d
+Combination: Doewo, Three Of A Kind ( 4c 4d 4h As Kd )
+Wins: Doewo, chips: 3100
+Quits: Waper, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koesi
+Small Blind: Doewo, chips: 100
+Big Blind: Rurenun, chips: 200
+Calls: Wonhos
+Calls: Walee
+Folds: Hoewof
+Folds: Koesi
+Folds: Doewo
+Checks: Rurenun
+Flop: 5c Ks 4c
+Checks: Rurenun
+Checks: Wonhos
+Checks: Walee
+Turn: 9h
+Checks: Rurenun
+Checks: Wonhos
+Checks: Walee
+River: 3d
+Checks: Rurenun
+Checks: Wonhos
+Checks: Walee
+Pot size: 700
+Showdown Reached
+Shows: Wonhos, Kh 8h
+Combination: Wonhos, Pair ( Kh Ks 9h 8h 5c )
+Shows: Walee, Ac Th
+Combination: Walee, High Card ( Ac Ks Th 9h 5c )
+Shows: Rurenun, 2d 3s
+Combination: Rurenun, Pair ( 3s 3d Ks 9h 5c )
+Wins: Wonhos, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Rurenun, chips: 100
+Big Blind: Wonhos, chips: 200
+Calls: Walee
+Folds: Hoewof
+Folds: Koesi
+Folds: Doewo
+Folds: Rurenun
+Checks: Wonhos
+Flop: 5h Jc Tc
+Checks: Wonhos
+Checks: Walee
+Turn: Th
+Checks: Wonhos
+Checks: Walee
+River: 3c
+Checks: Wonhos
+Checks: Walee
+Pot size: 500
+Showdown Reached
+Shows: Wonhos, Qh 7c
+Combination: Wonhos, Pair ( Tc Th Qh Jc 7c )
+Shows: Walee, Jh Jd
+Combination: Walee, Full House ( Jh Jd Jc Tc Th )
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rurenun
+Small Blind: Wonhos, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Folds: Koesi
+Folds: Doewo
+Calls: Rurenun
+Calls: Wonhos
+Raises: Walee, chips: 200
+Folds: Rurenun
+Calls: Wonhos
+Flop: 7c 3d 9c
+Checks: Wonhos
+Checks: Walee
+Turn: 2s
+Checks: Wonhos
+Checks: Walee
+River: 2d
+Checks: Wonhos
+Checks: Walee
+Pot size: 1000
+Showdown Reached
+Shows: Wonhos, 6d Qs
+Combination: Wonhos, Pair ( 2s 2d Qs 9c 7c )
+Shows: Walee, 3h Jd
+Combination: Walee, Two Pair ( 3h 3d 2s 2d Jd )
+Wins: Walee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wonhos
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Folds: Koesi
+Folds: Doewo
+Calls: Rurenun
+Calls: Wonhos
+Calls: Walee
+Checks: Hoewof
+Flop: 7c 3c 9c
+Checks: Walee
+Checks: Hoewof
+Checks: Rurenun
+Turn: 6d
+Checks: Walee
+Checks: Hoewof
+Checks: Rurenun
+River: 6h
+Checks: Walee
+Raises: Hoewof, chips: 400
+Calls: Rurenun
+Folds: Walee
+Pot size: 1500
+Showdown Reached
+Shows: Wonhos, As 7s
+Combination: Wonhos, Two Pair ( 7s 7c 6d 6h As )
+Shows: Hoewof, 3d 4c
+Combination: Hoewof, Two Pair ( 6d 6h 3d 3c 9c )
+Shows: Rurenun, Qh 2d
+Combination: Rurenun, Pair ( 6d 6h Qh 9c 7c )
+Wins: Wonhos, chips: 800
+Wins: Hoewof, chips: 700
+Quits: Rurenun, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Koesi, chips: 200
+Folds: Doewo
+Calls: Wonhos
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Koesi (2 0)
+Folds: Koesi
+Flop: 9d Kc Kh
+Checks: Wonhos
+Checks: Walee
+Turn: Qh
+Checks: Wonhos
+Checks: Walee
+River: 2s
+Checks: Wonhos
+Checks: Walee
+Pot size: 700
+Showdown Reached
+Shows: Wonhos, 3d 2c
+Combination: Wonhos, Two Pair ( Kc Kh 2c 2s Qh )
+Shows: Walee, 6s Ks
+Combination: Walee, Three Of A Kind ( Ks Kc Kh Qh 9d )
+Wins: Walee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Koesi, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Wonhos
+Calls: Walee
+Folds: Hoewof
+Calls: Koesi
+Folds: Doewo
+Flop: Qs 3d Ts
+Folds: Koesi
+Checks: Wonhos
+Checks: Walee
+Turn: 6c
+Checks: Wonhos
+Checks: Walee
+River: 5h
+Checks: Wonhos
+Checks: Walee
+Pot size: 800
+Showdown Reached
+Shows: Wonhos, 8s 8c
+Combination: Wonhos, Pair ( 8s 8c Qs Ts 6c )
+Shows: Walee, 5d 4h
+Combination: Walee, Pair ( 5d 5h Qs Ts 6c )
+Wins: Wonhos, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koesi
+Small Blind: Doewo, chips: 100
+Big Blind: Wonhos, chips: 200
+Calls: Walee
+Folds: Hoewof
+Folds: Koesi
+Folds: Doewo
+Checks: Wonhos
+Flop: 2c Ah 5c
+Checks: Wonhos
+Checks: Walee
+Turn: Ac
+Checks: Wonhos
+Checks: Walee
+River: Td
+Checks: Wonhos
+Checks: Walee
+Pot size: 500
+Showdown Reached
+Shows: Wonhos, 7s Jd
+Combination: Wonhos, Pair ( Ah Ac Jd Td 7s )
+Shows: Walee, 3s 3h
+Combination: Walee, Two Pair ( Ah Ac 3s 3h Td )
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Wonhos, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Folds: Koesi
+Calls: Doewo
+Folds: Wonhos
+Raises: Walee, chips: 200
+Raises: Doewo, chips: 267
+Folds: Walee
+Pot size: 1167
+Wins: Doewo, chips: 1167
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wonhos
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Folds: Koesi
+Folds: Doewo
+Calls: Wonhos
+Calls: Walee
+Checks: Hoewof
+Flop: 3h 4d 7s
+Checks: Walee
+Checks: Hoewof
+Checks: Wonhos
+Turn: 5d
+Checks: Walee
+Checks: Hoewof
+Checks: Wonhos
+River: Td
+Checks: Walee
+Checks: Hoewof
+Checks: Wonhos
+Pot size: 600
+Showdown Reached
+Shows: Wonhos, Ah 5h
+Combination: Wonhos, Pair ( 5h 5d Ah Td 7s )
+Shows: Walee, 6c 3c
+Combination: Walee, Straight ( 7s 6c 5d 4d 3c )
+Shows: Hoewof, 4h 9s
+Combination: Hoewof, Pair ( 4h 4d Td 9s 7s )
+Wins: Walee, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Koesi, chips: 200
+Folds: Doewo
+Folds: Wonhos
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Koesi (2 0)
+Folds: Koesi
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Koesi, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Wonhos
+Calls: Walee
+Calls: Hoewof
+Folds: Doewo
+Flop: Ks Tc 6h
+Checks: Wonhos
+Checks: Walee
+Checks: Hoewof
+Turn: 4h
+Checks: Wonhos
+Checks: Walee
+Checks: Hoewof
+River: 6d
+Checks: Wonhos
+Checks: Walee
+Raises: Hoewof, chips: 400
+Calls: Wonhos
+Folds: Walee
+Pot size: 1700
+Showdown Reached
+Shows: Wonhos, 8s 9s
+Combination: Wonhos, Pair ( 6h 6d Ks Tc 9s )
+Shows: Hoewof, 7c 7s
+Combination: Hoewof, Two Pair ( 7c 7s 6h 6d Ks )
+Shows: Koesi, 9d 3s
+Combination: Koesi, Pair ( 6h 6d Ks Tc 9d )
+Wins: Hoewof, chips: 1700
+Quits: Koesi, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Wonhos, chips: 100
+Big Blind: Walee, chips: 200
+Raises: Hoewof, chips: 600
+Calls: Doewo
+Folds: Walee
+Flop: 4h Ah 3d
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: Ac
+River: 4c
+Pot size: 1900
+Showdown Reached
+Shows: Wonhos, 5c Ts
+Combination: Wonhos, Two Pair ( Ah Ac 4h 4c Ts )
+Shows: Hoewof, Qs Qd
+Combination: Hoewof, Two Pair ( Ah Ac Qs Qd 4h )
+Wins: Hoewof, chips: 1900
+Quits: Wonhos, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Raises: Doewo, chips: 213
+Folds: Walee
+Pot size: 1013
+Wins: Doewo, chips: 1013
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 2s 6s As
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: 4d
+Checks: Walee
+Checks: Hoewof
+River: 8d
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, Jh 7s
+Combination: Walee, High Card ( As Jh 8d 7s 6s )
+Shows: Hoewof, Kd 7d
+Combination: Hoewof, High Card ( As Kd 8d 7d 6s )
+Wins: Hoewof, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Raises: Doewo, chips: 286
+Folds: Walee
+Pot size: 1086
+Wins: Doewo, chips: 1086
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: Qc 8c 6h
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: Qd
+Checks: Walee
+Checks: Hoewof
+River: 8h
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, 4s As
+Combination: Walee, Two Pair ( Qc Qd 8c 8h As )
+Shows: Hoewof, 2c 3c
+Combination: Hoewof, Two Pair ( Qc Qd 8c 8h 6h )
+Wins: Walee, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Raises: Doewo, chips: 213
+Folds: Walee
+Pot size: 1013
+Wins: Doewo, chips: 1013
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Folds: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 9s 8s Kd
+Checks: Walee
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 800
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Raises: Doewo, chips: 279
+Folds: Walee
+Pot size: 1079
+Wins: Doewo, chips: 1079
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Folds: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 9h 6s 4h
+Checks: Walee
+Checks: Hoewof
+Turn: Kd
+Checks: Walee
+Checks: Hoewof
+River: 8s
+Checks: Walee
+Checks: Hoewof
+Pot size: 400
+Showdown Reached
+Shows: Walee, 9c 7c
+Combination: Walee, Pair ( 9c 9h Kd 8s 7c )
+Shows: Hoewof, Ad 6d
+Combination: Hoewof, Pair ( 6d 6s Ad Kd 9h )
+Wins: Walee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Raises: Doewo, chips: 273
+Folds: Walee
+Pot size: 1073
+Wins: Doewo, chips: 1073
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 7d 2h 3d
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: 2s
+Checks: Walee
+Checks: Hoewof
+River: Kh
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, 3s 5s
+Combination: Walee, Two Pair ( 3s 3d 2h 2s Kh )
+Shows: Hoewof, Td 8h
+Combination: Hoewof, Pair ( 2h 2s Kh Td 8h )
+Wins: Walee, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Raises: Doewo, chips: 273
+Folds: Walee
+Pot size: 1073
+Wins: Doewo, chips: 1073
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Folds: Doewo
+Calls: Walee
+Raises: Hoewof, chips: 2000
+Folds: Walee
+Pot size: 2400
+Wins: Hoewof, chips: 2400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Raises: Hoewof, chips: 600
+Folds: Doewo
+Folds: Walee
+Pot size: 1100
+Wins: Hoewof, chips: 1100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 5c 6s 3c
+Checks: Walee
+Raises: Hoewof, chips: 400
+Calls: Doewo
+Folds: Walee
+Turn: Qc
+Checks: Hoewof
+Raises: Doewo, chips: 462
+Folds: Hoewof
+Pot size: 1862
+Wins: Doewo, chips: 1862
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Raises: Hoewof, chips: 600
+Folds: Doewo
+Folds: Walee
+Pot size: 1100
+Wins: Hoewof, chips: 1100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: Qh Ks Th
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: 8s
+Checks: Walee
+Checks: Hoewof
+River: 9d
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, 5c 3s
+Combination: Walee, High Card ( Ks Qh Th 9d 8s )
+Shows: Hoewof, 6d As
+Combination: Hoewof, High Card ( As Ks Qh Th 9d )
+Wins: Hoewof, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Calls: Doewo
+Flop: 2s 3c 4h
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 800
+Wins: Walee, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 5h Ah Ks
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: Kd
+Checks: Walee
+Checks: Hoewof
+River: As
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, 2c 4s
+Combination: Walee, Two Pair ( Ah As Ks Kd 5h )
+Shows: Hoewof, 8d Td
+Combination: Hoewof, Two Pair ( Ah As Ks Kd Td )
+Wins: Hoewof, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Calls: Doewo
+Flop: Ah Qh 5c
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 800
+Wins: Walee, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 3s 2h 8d
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: 5h
+Checks: Walee
+Checks: Hoewof
+River: Qh
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, 9h Jc
+Combination: Walee, High Card ( Qh Jc 9h 8d 5h )
+Shows: Hoewof, 2d Js
+Combination: Hoewof, Pair ( 2d 2h Qh Js 8d )
+Wins: Hoewof, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Calls: Doewo
+Flop: 2d Td Kh
+Raises: Doewo, chips: 441
+Folds: Walee
+Pot size: 1241
+Wins: Doewo, chips: 1241
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 5c Kh Qs
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: Ad
+Checks: Walee
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 1000
+Wins: Hoewof, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Raises: Doewo, chips: 215
+Folds: Walee
+Pot size: 615
+Wins: Doewo, chips: 615
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 9c Jc 8d
+Checks: Walee
+Raises: Hoewof, chips: 400
+Calls: Doewo
+Folds: Walee
+Turn: Ac
+Checks: Hoewof
+Raises: Doewo, chips: 600
+Folds: Hoewof
+Pot size: 2000
+Wins: Doewo, chips: 2000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Calls: Doewo
+Flop: Th Qh 9s
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 800
+Wins: Walee, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 9s 4c Ts
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: Ks
+Checks: Walee
+Checks: Hoewof
+River: 3c
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, Kh As
+Combination: Walee, Pair ( Kh Ks As Ts 9s )
+Shows: Hoewof, Ac 2d
+Combination: Hoewof, High Card ( Ac Ks Ts 9s 4c )
+Wins: Walee, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Raises: Doewo, chips: 215
+Folds: Walee
+Pot size: 615
+Wins: Doewo, chips: 615
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: Ad 5h Qh
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: 9d
+Checks: Walee
+Checks: Hoewof
+River: Jc
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, 3h 8d
+Combination: Walee, High Card ( Ad Qh Jc 9d 8d )
+Shows: Hoewof, Kc 9h
+Combination: Hoewof, Pair ( 9h 9d Ad Kc Qh )
+Wins: Hoewof, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+Raises: Doewo, chips: 207
+Folds: Walee
+Pot size: 707
+Wins: Doewo, chips: 707
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Raises: Doewo, chips: 202
+Folds: Walee
+Pot size: 602
+Wins: Doewo, chips: 602
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 2d 3s 7d
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: 6c
+Checks: Walee
+Checks: Hoewof
+River: 7c
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, 7s Ts
+Combination: Walee, Three Of A Kind ( 7s 7d 7c Ts 6c )
+Shows: Hoewof, 9s Ad
+Combination: Hoewof, Pair ( 7d 7c Ad 9s 6c )
+Wins: Walee, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Calls: Doewo
+Flop: Ad Ks 3c
+Raises: Doewo, chips: 306
+Folds: Walee
+Pot size: 1106
+Wins: Doewo, chips: 1106
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: Jc Td Ad
+Checks: Walee
+Raises: Hoewof, chips: 400
+Calls: Doewo
+Folds: Walee
+Turn: 4h
+Raises: Hoewof, chips: 800
+Raises: Doewo, chips: 100
+Calls: Hoewof
+River: 9c
+Pot size: 3200
+Showdown Reached
+Shows: Hoewof, Jd Ac
+Combination: Hoewof, Two Pair ( Ac Ad Jd Jc Td )
+Shows: Doewo, 5s 7c
+Combination: Doewo, High Card ( Ad Jc Td 9c 7c )
+Wins: Hoewof, chips: 3200
+Quits: Doewo, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: 5s 2c Qd
+Checks: Hoewof
+Checks: Walee
+Turn: Qh
+Checks: Hoewof
+Checks: Walee
+River: Qs
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 800
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Pot size: 300
+Wins: Walee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: 7s Qh Jh
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 800
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Pot size: 300
+Wins: Walee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: 2d Js 3d
+Checks: Hoewof
+Checks: Walee
+Turn: 6c
+Checks: Hoewof
+Checks: Walee
+River: 8d
+Checks: Hoewof
+Checks: Walee
+Pot size: 400
+Showdown Reached
+Shows: Walee, 5c 4c
+Combination: Walee, Straight ( 6c 5c 4c 3d 2d )
+Shows: Hoewof, 8s 7c
+Combination: Hoewof, Pair ( 8s 8d Js 7c 6c )
+Wins: Walee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Calls: Hoewof
+Raises: Walee, chips: 200
+Calls: Hoewof
+Flop: 2d 3c Ts
+Checks: Walee
+Checks: Hoewof
+Turn: 2s
+Checks: Walee
+Checks: Hoewof
+River: 3s
+Checks: Walee
+Checks: Hoewof
+Pot size: 800
+Showdown Reached
+Shows: Walee, 9h 5s
+Combination: Walee, Two Pair ( 3c 3s 2d 2s Ts )
+Shows: Hoewof, Kh 4d
+Combination: Hoewof, Two Pair ( 3c 3s 2d 2s Kh )
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Raises: Hoewof, chips: 300
+Folds: Walee
+Pot size: 700
+Wins: Hoewof, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Raises: Hoewof, chips: 450
+Folds: Walee
+Pot size: 850
+Wins: Hoewof, chips: 850
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: As 3c Jc
+Checks: Hoewof
+Checks: Walee
+Turn: Js
+Checks: Hoewof
+Checks: Walee
+River: 4d
+Checks: Hoewof
+Checks: Walee
+Pot size: 400
+Showdown Reached
+Shows: Walee, 2d 8d
+Combination: Walee, Pair ( Jc Js As 8d 4d )
+Shows: Hoewof, 9d 8c
+Combination: Hoewof, Pair ( Jc Js As 9d 8c )
+Wins: Hoewof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Raises: Hoewof, chips: 450
+Folds: Walee
+Pot size: 850
+Wins: Hoewof, chips: 850
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: Ks Qc As
+Checks: Hoewof
+Checks: Walee
+Turn: 8s
+Checks: Hoewof
+Checks: Walee
+River: Qs
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 800
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Pot size: 300
+Wins: Walee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: 4c 4s Qc
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 800
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Calls: Hoewof
+Raises: Walee, chips: 200
+Calls: Hoewof
+Flop: Jh Jc 7d
+Checks: Walee
+Checks: Hoewof
+Turn: Ks
+Checks: Walee
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 1200
+Wins: Hoewof, chips: 1200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: Qc 7s Ad
+Checks: Hoewof
+Checks: Walee
+Turn: 7c
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 800
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Pot size: 300
+Wins: Walee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: 3s 3h Jh
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 800
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Pot size: 300
+Wins: Walee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: 7d Qh 5c
+Checks: Hoewof
+Checks: Walee
+Turn: 9c
+Checks: Hoewof
+Checks: Walee
+River: Td
+Checks: Hoewof
+Checks: Walee
+Pot size: 400
+Showdown Reached
+Shows: Walee, Ad Jc
+Combination: Walee, High Card ( Ad Qh Jc Td 9c )
+Shows: Hoewof, 4s 7s
+Combination: Hoewof, Pair ( 7s 7d Qh Td 9c )
+Wins: Hoewof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Raises: Hoewof, chips: 450
+Folds: Walee
+Pot size: 850
+Wins: Hoewof, chips: 850
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: 2d Js 7d
+Checks: Hoewof
+Checks: Walee
+Turn: 5d
+Checks: Hoewof
+Checks: Walee
+River: Ts
+Checks: Hoewof
+Checks: Walee
+Pot size: 400
+Showdown Reached
+Shows: Walee, 3s Jc
+Combination: Walee, Pair ( Jc Js Ts 7d 5d )
+Shows: Hoewof, Qd 3h
+Combination: Hoewof, High Card ( Qd Js Ts 7d 5d )
+Wins: Walee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Pot size: 300
+Wins: Walee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: As Kd 3s
+Checks: Hoewof
+Checks: Walee
+Turn: 7h
+Checks: Hoewof
+Checks: Walee
+River: 6h
+Checks: Hoewof
+Checks: Walee
+Pot size: 400
+Showdown Reached
+Shows: Walee, 4d 3h
+Combination: Walee, Pair ( 3h 3s As Kd 7h )
+Shows: Hoewof, Jc 8s
+Combination: Hoewof, High Card ( As Kd Jc 8s 7h )
+Wins: Walee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Pot size: 300
+Wins: Walee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: 5c Ah 6c
+Checks: Hoewof
+Checks: Walee
+Turn: 6h
+Checks: Hoewof
+Checks: Walee
+River: Jd
+Checks: Hoewof
+Checks: Walee
+Pot size: 400
+Showdown Reached
+Shows: Walee, Kh 7c
+Combination: Walee, Pair ( 6c 6h Ah Kh Jd )
+Shows: Hoewof, Kc 3h
+Combination: Hoewof, Pair ( 6c 6h Ah Kc Jd )
+Wins: Walee, chips: 200
+Wins: Hoewof, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Pot size: 300
+Wins: Walee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Raises: Hoewof, chips: 300
+Folds: Walee
+Pot size: 700
+Wins: Hoewof, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Raises: Hoewof, chips: 450
+Folds: Walee
+Pot size: 850
+Wins: Hoewof, chips: 850
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: Qd 9d Ah
+Checks: Hoewof
+Checks: Walee
+Turn: Qh
+Checks: Hoewof
+Checks: Walee
+River: 9c
+Checks: Hoewof
+Checks: Walee
+Pot size: 400
+Showdown Reached
+Shows: Walee, 7s 8c
+Combination: Walee, Two Pair ( Qd Qh 9d 9c Ah )
+Shows: Hoewof, Kh 3s
+Combination: Hoewof, Two Pair ( Qd Qh 9d 9c Ah )
+Wins: Walee, chips: 200
+Wins: Hoewof, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Calls: Hoewof
+Raises: Walee, chips: 200
+Calls: Hoewof
+Flop: 3s Kd Qh
+Checks: Walee
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 1200
+Wins: Hoewof, chips: 1200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: Kc Jc 3c
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 800
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 100
+Flop: 6s 8s 9c
+Turn: Jc
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Walee, 2h 7c
+Combination: Walee, High Card ( Jc 9c 8s 7c 6s )
+Shows: Hoewof, Ah Ac
+Combination: Hoewof, Pair ( Ah Ac Jc 9c 8s )
+Wins: Hoewof, chips: 200
+Quits: Walee, chips: 0
+Ranking: Hoewof, Place: 1, Score: 6000
+Reveal AI: Hoewof, AI: AIMyBot6
+Ranking: Walee, Place: 2, Score: -1000
+Reveal AI: Walee, AI: AIMyBot1
+Ranking: Doewo, Place: 3, Score: -1000
+Reveal AI: Doewo, AI: AIMyBot3
+Ranking: Wonhos, Place: 4, Score: -1000
+Reveal AI: Wonhos, AI: AIMyBot4
+Ranking: Koesi, Place: 5, Score: -1000
+Reveal AI: Koesi, AI: AIMyBot2
+Ranking: Rurenun, Place: 6, Score: -1000
+Reveal AI: Rurenun, AI: AIMyBot5
+Ranking: Waper, Place: 7, Score: -1000
+Reveal AI: Waper, AI: AIMyBot7
+
+Player Stats for Doewo, AI: AIMyBot3
+General: deals: 62, actions: 97, preflop actions: 74
+Rounds Seen: flops: 38, turns: 17, rivers: 13, showdowns: 11
+Wins: total: 16, showdown: 1, bluff: 15
+Chips: won: 19352, lost: 20352, bought: 1000, forced bets: 5600
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.177419, 3Bet: 0.16129
+Post-Flop Stats: AF: 2, WSD: 0.289474, WSDW: 0.0909091
+
+
+Player Stats for Hoewof, AI: AIMyBot6
+General: deals: 94, actions: 187, preflop actions: 96
+Rounds Seen: flops: 37, turns: 31, rivers: 26, showdowns: 24
+Wins: total: 35, showdown: 15, bluff: 20
+Chips: won: 31900, lost: 25900, bought: 1000, forced bets: 10300
+Pre-Flop Stats: VP$IP: 0.148936, PFR: 0.106383, 3Bet: 0.0744681
+Post-Flop Stats: AF: 17, WSD: 0.648649, WSDW: 0.625
+
+
+Player Stats for Koesi, AI: AIMyBot2
+General: deals: 13, actions: 13, preflop actions: 12
+Rounds Seen: flops: 41, turns: 29, rivers: 24, showdowns: 22
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.0769231, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.536585, WSDW: 0
+
+
+Player Stats for Rurenun, AI: AIMyBot5
+General: deals: 6, actions: 13, preflop actions: 7
+Rounds Seen: flops: 46, turns: 35, rivers: 30, showdowns: 28
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1100, bought: 1000, forced bets: 300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.608696, WSDW: 0
+
+
+Player Stats for Walee, AI: AIMyBot1
+General: deals: 94, actions: 209, preflop actions: 96
+Rounds Seen: flops: 47, turns: 33, rivers: 30, showdowns: 26
+Wins: total: 42, showdown: 15, bluff: 27
+Chips: won: 20500, lost: 21500, bought: 1000, forced bets: 10300
+Pre-Flop Stats: VP$IP: 0.776596, PFR: 0.170213, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.553191, WSDW: 0.576923
+
+
+Player Stats for Waper, AI: AIMyBot7
+General: deals: 2, actions: 3, preflop actions: 2
+Rounds Seen: flops: 49, turns: 38, rivers: 33, showdowns: 31
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: 0, WSD: 0.632653, WSDW: 0
+
+
+Player Stats for Wonhos, AI: AIMyBot4
+General: deals: 14, actions: 41, preflop actions: 15
+Rounds Seen: flops: 49, turns: 38, rivers: 33, showdowns: 31
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 3000, lost: 4000, bought: 1000, forced bets: 700
+Pre-Flop Stats: VP$IP: 0.642857, PFR: 0.0714286, 3Bet: 0.0714286
+Post-Flop Stats: AF: 0, WSD: 0.632653, WSDW: 0.0967742
+
+
+Date: 2018/06/05 16:22:35
+
+The game begins. The AI's of the players are: 
+Wonhos: AIMyBot4
+Waper: AIMyBot7
+Walee: AIMyBot1
+Hoewof: AIMyBot6
+Koesi: AIMyBot2
+Doewo: AIMyBot3
+Rurenun: AIMyBot5
+
+Joins: Wonhos, chips: 1000
+Joins: Waper, chips: 1000
+Joins: Walee, chips: 1000
+Joins: Hoewof, chips: 1000
+Joins: Koesi, chips: 1000
+Joins: Doewo, chips: 1000
+Joins: Rurenun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Koesi, chips: 200
+Folds: Doewo
+Folds: Rurenun
+Raises: Wonhos, chips: 200
+Folds: Waper
+Folds: Walee
+Folds: Hoewof
+Folds: Koesi
+Pot size: 700
+Wins: Wonhos, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Koesi, chips: 100
+Big Blind: Doewo, chips: 200
+Folds: Rurenun
+Calls: Wonhos
+Raises: Waper, chips: 600
+Folds: Walee
+Folds: Hoewof
+Folds: Koesi
+Calls: Doewo
+Calls: Wonhos
+Flop: 4d 4h Kd
+Raises: Doewo, chips: 200
+Calls: Wonhos
+Calls: Waper
+Turn: As
+River: Jh
+Pot size: 3100
+Showdown Reached
+Shows: Wonhos, 8c 8s
+Combination: Wonhos, Two Pair ( 8c 8s 4d 4h As )
+Shows: Waper, 6h Ah
+Combination: Waper, Two Pair ( Ah As 4d 4h Kd )
+Shows: Doewo, 4c 3d
+Combination: Doewo, Three Of A Kind ( 4c 4d 4h As Kd )
+Wins: Doewo, chips: 3100
+Quits: Waper, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koesi
+Small Blind: Doewo, chips: 100
+Big Blind: Rurenun, chips: 200
+Calls: Wonhos
+Calls: Walee
+Folds: Hoewof
+Folds: Koesi
+Folds: Doewo
+Checks: Rurenun
+Flop: 5c Ks 4c
+Checks: Rurenun
+Checks: Wonhos
+Checks: Walee
+Turn: 9h
+Checks: Rurenun
+Checks: Wonhos
+Checks: Walee
+River: 3d
+Checks: Rurenun
+Checks: Wonhos
+Checks: Walee
+Pot size: 700
+Showdown Reached
+Shows: Wonhos, Kh 8h
+Combination: Wonhos, Pair ( Kh Ks 9h 8h 5c )
+Shows: Walee, Ac Th
+Combination: Walee, High Card ( Ac Ks Th 9h 5c )
+Shows: Rurenun, 2d 3s
+Combination: Rurenun, Pair ( 3s 3d Ks 9h 5c )
+Wins: Wonhos, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Rurenun, chips: 100
+Big Blind: Wonhos, chips: 200
+Calls: Walee
+Folds: Hoewof
+Folds: Koesi
+Folds: Doewo
+Folds: Rurenun
+Checks: Wonhos
+Flop: 5h Jc Tc
+Checks: Wonhos
+Checks: Walee
+Turn: Th
+Checks: Wonhos
+Checks: Walee
+River: 3c
+Checks: Wonhos
+Checks: Walee
+Pot size: 500
+Showdown Reached
+Shows: Wonhos, Qh 7c
+Combination: Wonhos, Pair ( Tc Th Qh Jc 7c )
+Shows: Walee, Jh Jd
+Combination: Walee, Full House ( Jh Jd Jc Tc Th )
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rurenun
+Small Blind: Wonhos, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Folds: Koesi
+Folds: Doewo
+Calls: Rurenun
+Calls: Wonhos
+Raises: Walee, chips: 200
+Folds: Rurenun
+Calls: Wonhos
+Flop: 7c 3d 9c
+Checks: Wonhos
+Checks: Walee
+Turn: 2s
+Checks: Wonhos
+Checks: Walee
+River: 2d
+Checks: Wonhos
+Checks: Walee
+Pot size: 1000
+Showdown Reached
+Shows: Wonhos, 6d Qs
+Combination: Wonhos, Pair ( 2s 2d Qs 9c 7c )
+Shows: Walee, 3h Jd
+Combination: Walee, Two Pair ( 3h 3d 2s 2d Jd )
+Wins: Walee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wonhos
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Folds: Koesi
+Folds: Doewo
+Calls: Rurenun
+Calls: Wonhos
+Calls: Walee
+Checks: Hoewof
+Flop: 7c 3c 9c
+Checks: Walee
+Checks: Hoewof
+Checks: Rurenun
+Turn: 6d
+Checks: Walee
+Checks: Hoewof
+Checks: Rurenun
+River: 6h
+Checks: Walee
+Raises: Hoewof, chips: 400
+Calls: Rurenun
+Folds: Walee
+Pot size: 1500
+Showdown Reached
+Shows: Wonhos, As 7s
+Combination: Wonhos, Two Pair ( 7s 7c 6d 6h As )
+Shows: Hoewof, 3d 4c
+Combination: Hoewof, Two Pair ( 6d 6h 3d 3c 9c )
+Shows: Rurenun, Qh 2d
+Combination: Rurenun, Pair ( 6d 6h Qh 9c 7c )
+Wins: Wonhos, chips: 800
+Wins: Hoewof, chips: 700
+Quits: Rurenun, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Koesi, chips: 200
+Folds: Doewo
+Calls: Wonhos
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Koesi (2 0)
+Folds: Koesi
+Flop: 9d Kc Kh
+Checks: Wonhos
+Checks: Walee
+Turn: Qh
+Checks: Wonhos
+Checks: Walee
+River: 2s
+Checks: Wonhos
+Checks: Walee
+Pot size: 700
+Showdown Reached
+Shows: Wonhos, 3d 2c
+Combination: Wonhos, Two Pair ( Kc Kh 2c 2s Qh )
+Shows: Walee, 6s Ks
+Combination: Walee, Three Of A Kind ( Ks Kc Kh Qh 9d )
+Wins: Walee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Koesi, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Wonhos
+Calls: Walee
+Folds: Hoewof
+Calls: Koesi
+Folds: Doewo
+Flop: Qs 3d Ts
+Folds: Koesi
+Checks: Wonhos
+Checks: Walee
+Turn: 6c
+Checks: Wonhos
+Checks: Walee
+River: 5h
+Checks: Wonhos
+Checks: Walee
+Pot size: 800
+Showdown Reached
+Shows: Wonhos, 8s 8c
+Combination: Wonhos, Pair ( 8s 8c Qs Ts 6c )
+Shows: Walee, 5d 4h
+Combination: Walee, Pair ( 5d 5h Qs Ts 6c )
+Wins: Wonhos, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koesi
+Small Blind: Doewo, chips: 100
+Big Blind: Wonhos, chips: 200
+Calls: Walee
+Folds: Hoewof
+Folds: Koesi
+Folds: Doewo
+Checks: Wonhos
+Flop: 2c Ah 5c
+Checks: Wonhos
+Checks: Walee
+Turn: Ac
+Checks: Wonhos
+Checks: Walee
+River: Td
+Checks: Wonhos
+Checks: Walee
+Pot size: 500
+Showdown Reached
+Shows: Wonhos, 7s Jd
+Combination: Wonhos, Pair ( Ah Ac Jd Td 7s )
+Shows: Walee, 3s 3h
+Combination: Walee, Two Pair ( Ah Ac 3s 3h Td )
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Wonhos, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Folds: Koesi
+Calls: Doewo
+Folds: Wonhos
+Raises: Walee, chips: 200
+Raises: Doewo, chips: 267
+Folds: Walee
+Pot size: 1167
+Wins: Doewo, chips: 1167
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wonhos
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Folds: Koesi
+Folds: Doewo
+Calls: Wonhos
+Calls: Walee
+Checks: Hoewof
+Flop: 3h 4d 7s
+Checks: Walee
+Checks: Hoewof
+Checks: Wonhos
+Turn: 5d
+Checks: Walee
+Checks: Hoewof
+Checks: Wonhos
+River: Td
+Checks: Walee
+Checks: Hoewof
+Checks: Wonhos
+Pot size: 600
+Showdown Reached
+Shows: Wonhos, Ah 5h
+Combination: Wonhos, Pair ( 5h 5d Ah Td 7s )
+Shows: Walee, 6c 3c
+Combination: Walee, Straight ( 7s 6c 5d 4d 3c )
+Shows: Hoewof, 4h 9s
+Combination: Hoewof, Pair ( 4h 4d Td 9s 7s )
+Wins: Walee, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Koesi, chips: 200
+Folds: Doewo
+Folds: Wonhos
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Koesi (2 0)
+Folds: Koesi
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Koesi, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Wonhos
+Calls: Walee
+Calls: Hoewof
+Folds: Doewo
+Flop: Ks Tc 6h
+Checks: Wonhos
+Checks: Walee
+Checks: Hoewof
+Turn: 4h
+Checks: Wonhos
+Checks: Walee
+Checks: Hoewof
+River: 6d
+Checks: Wonhos
+Checks: Walee
+Raises: Hoewof, chips: 400
+Calls: Wonhos
+Folds: Walee
+Pot size: 1700
+Showdown Reached
+Shows: Wonhos, 8s 9s
+Combination: Wonhos, Pair ( 6h 6d Ks Tc 9s )
+Shows: Hoewof, 7c 7s
+Combination: Hoewof, Two Pair ( 7c 7s 6h 6d Ks )
+Shows: Koesi, 9d 3s
+Combination: Koesi, Pair ( 6h 6d Ks Tc 9d )
+Wins: Hoewof, chips: 1700
+Quits: Koesi, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Wonhos, chips: 100
+Big Blind: Walee, chips: 200
+Raises: Hoewof, chips: 600
+Calls: Doewo
+Folds: Walee
+Flop: 4h Ah 3d
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: Ac
+River: 4c
+Pot size: 1900
+Showdown Reached
+Shows: Wonhos, 5c Ts
+Combination: Wonhos, Two Pair ( Ah Ac 4h 4c Ts )
+Shows: Hoewof, Qs Qd
+Combination: Hoewof, Two Pair ( Ah Ac Qs Qd 4h )
+Wins: Hoewof, chips: 1900
+Quits: Wonhos, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Raises: Doewo, chips: 213
+Folds: Walee
+Pot size: 1013
+Wins: Doewo, chips: 1013
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 2s 6s As
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: 4d
+Checks: Walee
+Checks: Hoewof
+River: 8d
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, Jh 7s
+Combination: Walee, High Card ( As Jh 8d 7s 6s )
+Shows: Hoewof, Kd 7d
+Combination: Hoewof, High Card ( As Kd 8d 7d 6s )
+Wins: Hoewof, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Raises: Doewo, chips: 286
+Folds: Walee
+Pot size: 1086
+Wins: Doewo, chips: 1086
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: Qc 8c 6h
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: Qd
+Checks: Walee
+Checks: Hoewof
+River: 8h
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, 4s As
+Combination: Walee, Two Pair ( Qc Qd 8c 8h As )
+Shows: Hoewof, 2c 3c
+Combination: Hoewof, Two Pair ( Qc Qd 8c 8h 6h )
+Wins: Walee, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Raises: Doewo, chips: 213
+Folds: Walee
+Pot size: 1013
+Wins: Doewo, chips: 1013
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Folds: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 9s 8s Kd
+Checks: Walee
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 800
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Raises: Doewo, chips: 279
+Folds: Walee
+Pot size: 1079
+Wins: Doewo, chips: 1079
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Folds: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 9h 6s 4h
+Checks: Walee
+Checks: Hoewof
+Turn: Kd
+Checks: Walee
+Checks: Hoewof
+River: 8s
+Checks: Walee
+Checks: Hoewof
+Pot size: 400
+Showdown Reached
+Shows: Walee, 9c 7c
+Combination: Walee, Pair ( 9c 9h Kd 8s 7c )
+Shows: Hoewof, Ad 6d
+Combination: Hoewof, Pair ( 6d 6s Ad Kd 9h )
+Wins: Walee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Raises: Doewo, chips: 273
+Folds: Walee
+Pot size: 1073
+Wins: Doewo, chips: 1073
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 7d 2h 3d
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: 2s
+Checks: Walee
+Checks: Hoewof
+River: Kh
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, 3s 5s
+Combination: Walee, Two Pair ( 3s 3d 2h 2s Kh )
+Shows: Hoewof, Td 8h
+Combination: Hoewof, Pair ( 2h 2s Kh Td 8h )
+Wins: Walee, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Raises: Doewo, chips: 273
+Folds: Walee
+Pot size: 1073
+Wins: Doewo, chips: 1073
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Folds: Doewo
+Calls: Walee
+Raises: Hoewof, chips: 2000
+Folds: Walee
+Pot size: 2400
+Wins: Hoewof, chips: 2400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Raises: Hoewof, chips: 600
+Folds: Doewo
+Folds: Walee
+Pot size: 1100
+Wins: Hoewof, chips: 1100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 5c 6s 3c
+Checks: Walee
+Raises: Hoewof, chips: 400
+Calls: Doewo
+Folds: Walee
+Turn: Qc
+Checks: Hoewof
+Raises: Doewo, chips: 462
+Folds: Hoewof
+Pot size: 1862
+Wins: Doewo, chips: 1862
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Raises: Hoewof, chips: 600
+Folds: Doewo
+Folds: Walee
+Pot size: 1100
+Wins: Hoewof, chips: 1100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: Qh Ks Th
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: 8s
+Checks: Walee
+Checks: Hoewof
+River: 9d
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, 5c 3s
+Combination: Walee, High Card ( Ks Qh Th 9d 8s )
+Shows: Hoewof, 6d As
+Combination: Hoewof, High Card ( As Ks Qh Th 9d )
+Wins: Hoewof, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Calls: Doewo
+Flop: 2s 3c 4h
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 800
+Wins: Walee, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 5h Ah Ks
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: Kd
+Checks: Walee
+Checks: Hoewof
+River: As
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, 2c 4s
+Combination: Walee, Two Pair ( Ah As Ks Kd 5h )
+Shows: Hoewof, 8d Td
+Combination: Hoewof, Two Pair ( Ah As Ks Kd Td )
+Wins: Hoewof, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Calls: Doewo
+Flop: Ah Qh 5c
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 800
+Wins: Walee, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 3s 2h 8d
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: 5h
+Checks: Walee
+Checks: Hoewof
+River: Qh
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, 9h Jc
+Combination: Walee, High Card ( Qh Jc 9h 8d 5h )
+Shows: Hoewof, 2d Js
+Combination: Hoewof, Pair ( 2d 2h Qh Js 8d )
+Wins: Hoewof, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Calls: Doewo
+Flop: 2d Td Kh
+Raises: Doewo, chips: 441
+Folds: Walee
+Pot size: 1241
+Wins: Doewo, chips: 1241
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 5c Kh Qs
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: Ad
+Checks: Walee
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 1000
+Wins: Hoewof, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Raises: Doewo, chips: 215
+Folds: Walee
+Pot size: 615
+Wins: Doewo, chips: 615
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 9c Jc 8d
+Checks: Walee
+Raises: Hoewof, chips: 400
+Calls: Doewo
+Folds: Walee
+Turn: Ac
+Checks: Hoewof
+Raises: Doewo, chips: 600
+Folds: Hoewof
+Pot size: 2000
+Wins: Doewo, chips: 2000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Calls: Doewo
+Flop: Th Qh 9s
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 800
+Wins: Walee, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 9s 4c Ts
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: Ks
+Checks: Walee
+Checks: Hoewof
+River: 3c
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, Kh As
+Combination: Walee, Pair ( Kh Ks As Ts 9s )
+Shows: Hoewof, Ac 2d
+Combination: Hoewof, High Card ( Ac Ks Ts 9s 4c )
+Wins: Walee, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Raises: Doewo, chips: 215
+Folds: Walee
+Pot size: 615
+Wins: Doewo, chips: 615
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: Ad 5h Qh
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: 9d
+Checks: Walee
+Checks: Hoewof
+River: Jc
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, 3h 8d
+Combination: Walee, High Card ( Ad Qh Jc 9d 8d )
+Shows: Hoewof, Kc 9h
+Combination: Hoewof, Pair ( 9h 9d Ad Kc Qh )
+Wins: Hoewof, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+Raises: Doewo, chips: 207
+Folds: Walee
+Pot size: 707
+Wins: Doewo, chips: 707
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Raises: Doewo, chips: 202
+Folds: Walee
+Pot size: 602
+Wins: Doewo, chips: 602
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: 2d 3s 7d
+Checks: Walee
+Checks: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Turn: 6c
+Checks: Walee
+Checks: Hoewof
+River: 7c
+Checks: Walee
+Checks: Hoewof
+Pot size: 600
+Showdown Reached
+Shows: Walee, 7s Ts
+Combination: Walee, Three Of A Kind ( 7s 7d 7c Ts 6c )
+Shows: Hoewof, 9s Ad
+Combination: Hoewof, Pair ( 7d 7c Ad 9s 6c )
+Wins: Walee, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Hoewof, chips: 100
+Big Blind: Doewo, chips: 200
+Calls: Walee
+Folds: Hoewof
+DEBUG MESSAGE: INVALID ACTION FROM Doewo (2 0)
+Folds: Doewo
+Pot size: 500
+Wins: Walee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Doewo, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Calls: Doewo
+Raises: Walee, chips: 200
+Calls: Doewo
+Flop: Ad Ks 3c
+Raises: Doewo, chips: 306
+Folds: Walee
+Pot size: 1106
+Wins: Doewo, chips: 1106
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doewo
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Doewo
+Calls: Walee
+Checks: Hoewof
+Flop: Jc Td Ad
+Checks: Walee
+Raises: Hoewof, chips: 400
+Calls: Doewo
+Folds: Walee
+Turn: 4h
+Raises: Hoewof, chips: 800
+Raises: Doewo, chips: 100
+Calls: Hoewof
+River: 9c
+Pot size: 3200
+Showdown Reached
+Shows: Hoewof, Jd Ac
+Combination: Hoewof, Two Pair ( Ac Ad Jd Jc Td )
+Shows: Doewo, 5s 7c
+Combination: Doewo, High Card ( Ad Jc Td 9c 7c )
+Wins: Hoewof, chips: 3200
+Quits: Doewo, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: 5s 2c Qd
+Checks: Hoewof
+Checks: Walee
+Turn: Qh
+Checks: Hoewof
+Checks: Walee
+River: Qs
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 800
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Pot size: 300
+Wins: Walee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: 7s Qh Jh
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 800
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Pot size: 300
+Wins: Walee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: 2d Js 3d
+Checks: Hoewof
+Checks: Walee
+Turn: 6c
+Checks: Hoewof
+Checks: Walee
+River: 8d
+Checks: Hoewof
+Checks: Walee
+Pot size: 400
+Showdown Reached
+Shows: Walee, 5c 4c
+Combination: Walee, Straight ( 6c 5c 4c 3d 2d )
+Shows: Hoewof, 8s 7c
+Combination: Hoewof, Pair ( 8s 8d Js 7c 6c )
+Wins: Walee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Calls: Hoewof
+Raises: Walee, chips: 200
+Calls: Hoewof
+Flop: 2d 3c Ts
+Checks: Walee
+Checks: Hoewof
+Turn: 2s
+Checks: Walee
+Checks: Hoewof
+River: 3s
+Checks: Walee
+Checks: Hoewof
+Pot size: 800
+Showdown Reached
+Shows: Walee, 9h 5s
+Combination: Walee, Two Pair ( 3c 3s 2d 2s Ts )
+Shows: Hoewof, Kh 4d
+Combination: Hoewof, Two Pair ( 3c 3s 2d 2s Kh )
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Raises: Hoewof, chips: 300
+Folds: Walee
+Pot size: 700
+Wins: Hoewof, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Raises: Hoewof, chips: 450
+Folds: Walee
+Pot size: 850
+Wins: Hoewof, chips: 850
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: As 3c Jc
+Checks: Hoewof
+Checks: Walee
+Turn: Js
+Checks: Hoewof
+Checks: Walee
+River: 4d
+Checks: Hoewof
+Checks: Walee
+Pot size: 400
+Showdown Reached
+Shows: Walee, 2d 8d
+Combination: Walee, Pair ( Jc Js As 8d 4d )
+Shows: Hoewof, 9d 8c
+Combination: Hoewof, Pair ( Jc Js As 9d 8c )
+Wins: Hoewof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Raises: Hoewof, chips: 450
+Folds: Walee
+Pot size: 850
+Wins: Hoewof, chips: 850
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: Ks Qc As
+Checks: Hoewof
+Checks: Walee
+Turn: 8s
+Checks: Hoewof
+Checks: Walee
+River: Qs
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 800
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Pot size: 300
+Wins: Walee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: 4c 4s Qc
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 800
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Calls: Hoewof
+Raises: Walee, chips: 200
+Calls: Hoewof
+Flop: Jh Jc 7d
+Checks: Walee
+Checks: Hoewof
+Turn: Ks
+Checks: Walee
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 1200
+Wins: Hoewof, chips: 1200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: Qc 7s Ad
+Checks: Hoewof
+Checks: Walee
+Turn: 7c
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 800
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Pot size: 300
+Wins: Walee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: 3s 3h Jh
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 800
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Pot size: 300
+Wins: Walee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: 7d Qh 5c
+Checks: Hoewof
+Checks: Walee
+Turn: 9c
+Checks: Hoewof
+Checks: Walee
+River: Td
+Checks: Hoewof
+Checks: Walee
+Pot size: 400
+Showdown Reached
+Shows: Walee, Ad Jc
+Combination: Walee, High Card ( Ad Qh Jc Td 9c )
+Shows: Hoewof, 4s 7s
+Combination: Hoewof, Pair ( 7s 7d Qh Td 9c )
+Wins: Hoewof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Raises: Hoewof, chips: 450
+Folds: Walee
+Pot size: 850
+Wins: Hoewof, chips: 850
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: 2d Js 7d
+Checks: Hoewof
+Checks: Walee
+Turn: 5d
+Checks: Hoewof
+Checks: Walee
+River: Ts
+Checks: Hoewof
+Checks: Walee
+Pot size: 400
+Showdown Reached
+Shows: Walee, 3s Jc
+Combination: Walee, Pair ( Jc Js Ts 7d 5d )
+Shows: Hoewof, Qd 3h
+Combination: Hoewof, High Card ( Qd Js Ts 7d 5d )
+Wins: Walee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Pot size: 300
+Wins: Walee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: As Kd 3s
+Checks: Hoewof
+Checks: Walee
+Turn: 7h
+Checks: Hoewof
+Checks: Walee
+River: 6h
+Checks: Hoewof
+Checks: Walee
+Pot size: 400
+Showdown Reached
+Shows: Walee, 4d 3h
+Combination: Walee, Pair ( 3h 3s As Kd 7h )
+Shows: Hoewof, Jc 8s
+Combination: Hoewof, High Card ( As Kd Jc 8s 7h )
+Wins: Walee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Pot size: 300
+Wins: Walee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: 5c Ah 6c
+Checks: Hoewof
+Checks: Walee
+Turn: 6h
+Checks: Hoewof
+Checks: Walee
+River: Jd
+Checks: Hoewof
+Checks: Walee
+Pot size: 400
+Showdown Reached
+Shows: Walee, Kh 7c
+Combination: Walee, Pair ( 6c 6h Ah Kh Jd )
+Shows: Hoewof, Kc 3h
+Combination: Hoewof, Pair ( 6c 6h Ah Kc Jd )
+Wins: Walee, chips: 200
+Wins: Hoewof, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Folds: Hoewof
+Pot size: 300
+Wins: Walee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Raises: Hoewof, chips: 300
+Folds: Walee
+Pot size: 700
+Wins: Hoewof, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Raises: Hoewof, chips: 450
+Folds: Walee
+Pot size: 850
+Wins: Hoewof, chips: 850
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: Qd 9d Ah
+Checks: Hoewof
+Checks: Walee
+Turn: Qh
+Checks: Hoewof
+Checks: Walee
+River: 9c
+Checks: Hoewof
+Checks: Walee
+Pot size: 400
+Showdown Reached
+Shows: Walee, 7s 8c
+Combination: Walee, Two Pair ( Qd Qh 9d 9c Ah )
+Shows: Hoewof, Kh 3s
+Combination: Hoewof, Two Pair ( Qd Qh 9d 9c Ah )
+Wins: Walee, chips: 200
+Wins: Hoewof, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 200
+Calls: Hoewof
+Raises: Walee, chips: 200
+Calls: Hoewof
+Flop: 3s Kd Qh
+Checks: Walee
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 1200
+Wins: Hoewof, chips: 1200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Walee
+Small Blind: Walee, chips: 100
+Big Blind: Hoewof, chips: 200
+Calls: Walee
+Checks: Hoewof
+Flop: Kc Jc 3c
+Raises: Hoewof, chips: 400
+Folds: Walee
+Pot size: 800
+Wins: Hoewof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewof
+Small Blind: Hoewof, chips: 100
+Big Blind: Walee, chips: 100
+Flop: 6s 8s 9c
+Turn: Jc
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Walee, 2h 7c
+Combination: Walee, High Card ( Jc 9c 8s 7c 6s )
+Shows: Hoewof, Ah Ac
+Combination: Hoewof, Pair ( Ah Ac Jc 9c 8s )
+Wins: Hoewof, chips: 200
+Quits: Walee, chips: 0
+Ranking: Hoewof, Place: 1, Score: 6000
+Reveal AI: Hoewof, AI: AIMyBot6
+Ranking: Walee, Place: 2, Score: -1000
+Reveal AI: Walee, AI: AIMyBot1
+Ranking: Doewo, Place: 3, Score: -1000
+Reveal AI: Doewo, AI: AIMyBot3
+Ranking: Wonhos, Place: 4, Score: -1000
+Reveal AI: Wonhos, AI: AIMyBot4
+Ranking: Koesi, Place: 5, Score: -1000
+Reveal AI: Koesi, AI: AIMyBot2
+Ranking: Rurenun, Place: 6, Score: -1000
+Reveal AI: Rurenun, AI: AIMyBot5
+Ranking: Waper, Place: 7, Score: -1000
+Reveal AI: Waper, AI: AIMyBot7
+
+Player Stats for Doewo, AI: AIMyBot3
+General: deals: 62, actions: 97, preflop actions: 74
+Rounds Seen: flops: 38, turns: 17, rivers: 13, showdowns: 11
+Wins: total: 16, showdown: 1, bluff: 15
+Chips: won: 19352, lost: 20352, bought: 1000, forced bets: 5600
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.177419, 3Bet: 0.16129
+Post-Flop Stats: AF: 2, WSD: 0.289474, WSDW: 0.0909091
+
+
+Player Stats for Hoewof, AI: AIMyBot6
+General: deals: 94, actions: 187, preflop actions: 96
+Rounds Seen: flops: 37, turns: 31, rivers: 26, showdowns: 24
+Wins: total: 35, showdown: 15, bluff: 20
+Chips: won: 31900, lost: 25900, bought: 1000, forced bets: 10300
+Pre-Flop Stats: VP$IP: 0.148936, PFR: 0.106383, 3Bet: 0.0744681
+Post-Flop Stats: AF: 17, WSD: 0.648649, WSDW: 0.625
+
+
+Player Stats for Koesi, AI: AIMyBot2
+General: deals: 13, actions: 13, preflop actions: 12
+Rounds Seen: flops: 41, turns: 29, rivers: 24, showdowns: 22
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.0769231, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.536585, WSDW: 0
+
+
+Player Stats for Rurenun, AI: AIMyBot5
+General: deals: 6, actions: 13, preflop actions: 7
+Rounds Seen: flops: 46, turns: 35, rivers: 30, showdowns: 28
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1100, bought: 1000, forced bets: 300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.608696, WSDW: 0
+
+
+Player Stats for Walee, AI: AIMyBot1
+General: deals: 94, actions: 209, preflop actions: 96
+Rounds Seen: flops: 47, turns: 33, rivers: 30, showdowns: 26
+Wins: total: 42, showdown: 15, bluff: 27
+Chips: won: 20500, lost: 21500, bought: 1000, forced bets: 10300
+Pre-Flop Stats: VP$IP: 0.776596, PFR: 0.170213, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.553191, WSDW: 0.576923
+
+
+Player Stats for Waper, AI: AIMyBot7
+General: deals: 2, actions: 3, preflop actions: 2
+Rounds Seen: flops: 49, turns: 38, rivers: 33, showdowns: 31
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: 0, WSD: 0.632653, WSDW: 0
+
+
+Player Stats for Wonhos, AI: AIMyBot4
+General: deals: 14, actions: 41, preflop actions: 15
+Rounds Seen: flops: 49, turns: 38, rivers: 33, showdowns: 31
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 3000, lost: 4000, bought: 1000, forced bets: 700
+Pre-Flop Stats: VP$IP: 0.642857, PFR: 0.0714286, 3Bet: 0.0714286
+Post-Flop Stats: AF: 0, WSD: 0.632653, WSDW: 0.0967742
+
+

@@ -1,0 +1,228 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Sottu: Random
+Reefot: AIMyBot1
+
+Joins: Sottu, chips: 1000
+Joins: Reefot, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sottu
+Small Blind: Sottu, chips: 100
+Big Blind: Reefot, chips: 200
+Calls: Sottu
+DEBUG MESSAGE: INVALID ACTION FROM Reefot (2 0)
+Folds: Reefot
+Pot size: 400
+Wins: Sottu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reefot
+Small Blind: Reefot, chips: 100
+Big Blind: Sottu, chips: 200
+Folds: Reefot
+Pot size: 300
+Wins: Sottu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sottu
+Small Blind: Sottu, chips: 100
+Big Blind: Reefot, chips: 200
+Folds: Sottu
+Pot size: 300
+Boasts: Sottu, As 4h
+Wins: Reefot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reefot
+Small Blind: Reefot, chips: 100
+Big Blind: Sottu, chips: 200
+Folds: Reefot
+Pot size: 300
+Wins: Sottu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sottu
+Small Blind: Sottu, chips: 100
+Big Blind: Reefot, chips: 200
+Calls: Sottu
+DEBUG MESSAGE: INVALID ACTION FROM Reefot (2 0)
+Folds: Reefot
+Pot size: 400
+Boasts: Sottu, 3d 4d
+Wins: Sottu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reefot
+Small Blind: Reefot, chips: 100
+Big Blind: Sottu, chips: 200
+Folds: Reefot
+Pot size: 300
+Boasts: Sottu, 8s Js
+Wins: Sottu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sottu
+Small Blind: Sottu, chips: 100
+Big Blind: Reefot, chips: 200
+Calls: Sottu
+DEBUG MESSAGE: INVALID ACTION FROM Reefot (2 0)
+Folds: Reefot
+Pot size: 400
+Boasts: Sottu, 7c Qh
+Wins: Sottu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reefot
+Small Blind: Reefot, chips: 100
+Big Blind: Sottu, chips: 200
+Folds: Reefot
+Pot size: 300
+Boasts: Sottu, Kd 9s
+Wins: Sottu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sottu
+Small Blind: Sottu, chips: 100
+Big Blind: Reefot, chips: 100
+Flop: 6h Td 6c
+Turn: Tc
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Sottu, 8h Qs
+Combination: Sottu, Two Pair ( Td Tc 6h 6c Qs )
+Shows: Reefot, 3c 3d
+Combination: Reefot, Two Pair ( Td Tc 6h 6c 5s )
+Wins: Sottu, chips: 200
+Quits: Reefot, chips: 0
+Ranking: Sottu, Place: 1, Score: 1000
+Reveal AI: Sottu, AI: Random
+Ranking: Reefot, Place: 2, Score: -1000
+Reveal AI: Reefot, AI: AIMyBot1
+
+Player Stats for Reefot, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Sottu, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:06
+
+The game begins. The AI's of the players are: 
+Sottu: Random
+Reefot: AIMyBot1
+
+Joins: Sottu, chips: 1000
+Joins: Reefot, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sottu
+Small Blind: Sottu, chips: 100
+Big Blind: Reefot, chips: 200
+Calls: Sottu
+DEBUG MESSAGE: INVALID ACTION FROM Reefot (2 0)
+Folds: Reefot
+Pot size: 400
+Wins: Sottu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reefot
+Small Blind: Reefot, chips: 100
+Big Blind: Sottu, chips: 200
+Folds: Reefot
+Pot size: 300
+Wins: Sottu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sottu
+Small Blind: Sottu, chips: 100
+Big Blind: Reefot, chips: 200
+Folds: Sottu
+Pot size: 300
+Boasts: Sottu, As 4h
+Wins: Reefot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reefot
+Small Blind: Reefot, chips: 100
+Big Blind: Sottu, chips: 200
+Folds: Reefot
+Pot size: 300
+Wins: Sottu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sottu
+Small Blind: Sottu, chips: 100
+Big Blind: Reefot, chips: 200
+Calls: Sottu
+DEBUG MESSAGE: INVALID ACTION FROM Reefot (2 0)
+Folds: Reefot
+Pot size: 400
+Boasts: Sottu, 3d 4d
+Wins: Sottu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reefot
+Small Blind: Reefot, chips: 100
+Big Blind: Sottu, chips: 200
+Folds: Reefot
+Pot size: 300
+Boasts: Sottu, 8s Js
+Wins: Sottu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sottu
+Small Blind: Sottu, chips: 100
+Big Blind: Reefot, chips: 200
+Calls: Sottu
+DEBUG MESSAGE: INVALID ACTION FROM Reefot (2 0)
+Folds: Reefot
+Pot size: 400
+Boasts: Sottu, 7c Qh
+Wins: Sottu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reefot
+Small Blind: Reefot, chips: 100
+Big Blind: Sottu, chips: 200
+Folds: Reefot
+Pot size: 300
+Boasts: Sottu, Kd 9s
+Wins: Sottu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sottu
+Small Blind: Sottu, chips: 100
+Big Blind: Reefot, chips: 100
+Flop: 6h Td 6c
+Turn: Tc
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Sottu, 8h Qs
+Combination: Sottu, Two Pair ( Td Tc 6h 6c Qs )
+Shows: Reefot, 3c 3d
+Combination: Reefot, Two Pair ( Td Tc 6h 6c 5s )
+Wins: Sottu, chips: 200
+Quits: Reefot, chips: 0
+Ranking: Sottu, Place: 1, Score: 1000
+Reveal AI: Sottu, AI: Random
+Ranking: Reefot, Place: 2, Score: -1000
+Reveal AI: Reefot, AI: AIMyBot1
+
+Player Stats for Reefot, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Sottu, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

@@ -1,0 +1,242 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gekiru: Random
+Wo: AIMyBot1
+
+Joins: Gekiru, chips: 1000
+Joins: Wo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gekiru
+Small Blind: Gekiru, chips: 100
+Big Blind: Wo, chips: 200
+Calls: Gekiru
+DEBUG MESSAGE: INVALID ACTION FROM Wo (2 0)
+Folds: Wo
+Pot size: 400
+Boasts: Gekiru, 2s 4d
+Wins: Gekiru, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wo
+Small Blind: Wo, chips: 100
+Big Blind: Gekiru, chips: 200
+Folds: Wo
+Pot size: 300
+Wins: Gekiru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gekiru
+Small Blind: Gekiru, chips: 100
+Big Blind: Wo, chips: 200
+Calls: Gekiru
+DEBUG MESSAGE: INVALID ACTION FROM Wo (2 0)
+Folds: Wo
+Pot size: 400
+Boasts: Gekiru, Jc 9s
+Wins: Gekiru, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wo
+Small Blind: Wo, chips: 100
+Big Blind: Gekiru, chips: 200
+Folds: Wo
+Pot size: 300
+Wins: Gekiru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gekiru
+Small Blind: Gekiru, chips: 100
+Big Blind: Wo, chips: 200
+Calls: Gekiru
+DEBUG MESSAGE: INVALID ACTION FROM Wo (2 0)
+Folds: Wo
+Pot size: 400
+Boasts: Gekiru, Ks 8c
+Wins: Gekiru, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wo
+Small Blind: Wo, chips: 100
+Big Blind: Gekiru, chips: 200
+Folds: Wo
+Pot size: 300
+Boasts: Gekiru, 4s Qs
+Wins: Gekiru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gekiru
+Small Blind: Gekiru, chips: 100
+Big Blind: Wo, chips: 100
+Flop: 4s Ac 5c
+Turn: Js
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Gekiru, 7c 5s
+Combination: Gekiru, Pair ( 5s 5c Ac Js 7c )
+Shows: Wo, 4d 2h
+Combination: Wo, Two Pair ( 4d 4s 2h 2d Ac )
+Wins: Wo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wo
+Small Blind: Wo, chips: 100
+Big Blind: Gekiru, chips: 200
+Folds: Wo
+Pot size: 300
+Boasts: Gekiru, Qh 6c
+Wins: Gekiru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gekiru
+Small Blind: Gekiru, chips: 100
+Big Blind: Wo, chips: 100
+Flop: Qh 9d 9c
+Turn: 8s
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Gekiru, 6d 7h
+Combination: Gekiru, Straight ( Tc 9d 8s 7h 6d )
+Shows: Wo, 7d 4d
+Combination: Wo, Pair ( 9d 9c Qh Tc 8s )
+Wins: Gekiru, chips: 200
+Quits: Wo, chips: 0
+Ranking: Gekiru, Place: 1, Score: 1000
+Reveal AI: Gekiru, AI: Random
+Ranking: Wo, Place: 2, Score: -1000
+Reveal AI: Wo, AI: AIMyBot1
+
+Player Stats for Gekiru, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Wo, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:43
+
+The game begins. The AI's of the players are: 
+Gekiru: Random
+Wo: AIMyBot1
+
+Joins: Gekiru, chips: 1000
+Joins: Wo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gekiru
+Small Blind: Gekiru, chips: 100
+Big Blind: Wo, chips: 200
+Calls: Gekiru
+DEBUG MESSAGE: INVALID ACTION FROM Wo (2 0)
+Folds: Wo
+Pot size: 400
+Boasts: Gekiru, 2s 4d
+Wins: Gekiru, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wo
+Small Blind: Wo, chips: 100
+Big Blind: Gekiru, chips: 200
+Folds: Wo
+Pot size: 300
+Wins: Gekiru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gekiru
+Small Blind: Gekiru, chips: 100
+Big Blind: Wo, chips: 200
+Calls: Gekiru
+DEBUG MESSAGE: INVALID ACTION FROM Wo (2 0)
+Folds: Wo
+Pot size: 400
+Boasts: Gekiru, Jc 9s
+Wins: Gekiru, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wo
+Small Blind: Wo, chips: 100
+Big Blind: Gekiru, chips: 200
+Folds: Wo
+Pot size: 300
+Wins: Gekiru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gekiru
+Small Blind: Gekiru, chips: 100
+Big Blind: Wo, chips: 200
+Calls: Gekiru
+DEBUG MESSAGE: INVALID ACTION FROM Wo (2 0)
+Folds: Wo
+Pot size: 400
+Boasts: Gekiru, Ks 8c
+Wins: Gekiru, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wo
+Small Blind: Wo, chips: 100
+Big Blind: Gekiru, chips: 200
+Folds: Wo
+Pot size: 300
+Boasts: Gekiru, 4s Qs
+Wins: Gekiru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gekiru
+Small Blind: Gekiru, chips: 100
+Big Blind: Wo, chips: 100
+Flop: 4s Ac 5c
+Turn: Js
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Gekiru, 7c 5s
+Combination: Gekiru, Pair ( 5s 5c Ac Js 7c )
+Shows: Wo, 4d 2h
+Combination: Wo, Two Pair ( 4d 4s 2h 2d Ac )
+Wins: Wo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wo
+Small Blind: Wo, chips: 100
+Big Blind: Gekiru, chips: 200
+Folds: Wo
+Pot size: 300
+Boasts: Gekiru, Qh 6c
+Wins: Gekiru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gekiru
+Small Blind: Gekiru, chips: 100
+Big Blind: Wo, chips: 100
+Flop: Qh 9d 9c
+Turn: 8s
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Gekiru, 6d 7h
+Combination: Gekiru, Straight ( Tc 9d 8s 7h 6d )
+Shows: Wo, 7d 4d
+Combination: Wo, Pair ( 9d 9c Qh Tc 8s )
+Wins: Gekiru, chips: 200
+Quits: Wo, chips: 0
+Ranking: Gekiru, Place: 1, Score: 1000
+Reveal AI: Gekiru, AI: Random
+Ranking: Wo, Place: 2, Score: -1000
+Reveal AI: Wo, AI: AIMyBot1
+
+Player Stats for Gekiru, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Wo, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

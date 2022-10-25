@@ -1,0 +1,436 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Choeweechi: Random
+Hefonu: AIMyBot1
+
+Joins: Choeweechi, chips: 1000
+Joins: Hefonu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Folds: Hefonu
+Pot size: 300
+Boasts: Choeweechi, 4c 3h
+Wins: Choeweechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeweechi
+Small Blind: Choeweechi, chips: 100
+Big Blind: Hefonu, chips: 200
+Raises: Choeweechi, chips: 300
+Folds: Hefonu
+Pot size: 700
+Wins: Choeweechi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Folds: Hefonu
+Pot size: 300
+Wins: Choeweechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeweechi
+Small Blind: Choeweechi, chips: 100
+Big Blind: Hefonu, chips: 200
+Calls: Choeweechi
+DEBUG MESSAGE: INVALID ACTION FROM Hefonu (2 0)
+Folds: Hefonu
+Pot size: 400
+Wins: Choeweechi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Folds: Hefonu
+Pot size: 300
+Wins: Choeweechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeweechi
+Small Blind: Choeweechi, chips: 100
+Big Blind: Hefonu, chips: 200
+Raises: Choeweechi, chips: 300
+Folds: Hefonu
+Pot size: 700
+Boasts: Choeweechi, 2h 6c
+Wins: Choeweechi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Flop: Jc 2d 5d
+Turn: 7c
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Choeweechi, Kc Ad
+Combination: Choeweechi, High Card ( Ad Kc Jc Th 7c )
+Shows: Hefonu, 3h 2h
+Combination: Hefonu, Pair ( 2h 2d Jc Th 7c )
+Wins: Choeweechi, chips: 100
+Wins: Hefonu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeweechi
+Small Blind: Choeweechi, chips: 100
+Big Blind: Hefonu, chips: 200
+Flop: Qh 5c 8d
+Turn: 3c
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Choeweechi, Jh Kc
+Combination: Choeweechi, High Card ( Kc Qh Jh 8d 5c )
+Shows: Hefonu, 7h 5d
+Combination: Hefonu, Pair ( 5d 5c Qh 8d 7h )
+Wins: Hefonu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Folds: Hefonu
+Pot size: 300
+Wins: Choeweechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeweechi
+Small Blind: Choeweechi, chips: 100
+Big Blind: Hefonu, chips: 200
+Flop: 8c 5h 3d
+Turn: 2s
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Choeweechi, 5c 9s
+Combination: Choeweechi, Two Pair ( 5c 5h 2s 2c 9s )
+Shows: Hefonu, 7d 6d
+Combination: Hefonu, Pair ( 2s 2c 8c 7d 6d )
+Wins: Choeweechi, chips: 200
+Wins: Hefonu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Flop: 5c 6s Kh
+Turn: Jd
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Choeweechi, 4d Js
+Combination: Choeweechi, Pair ( Js Jd Kh Td 6s )
+Shows: Hefonu, 9h Qc
+Combination: Hefonu, Straight ( Kh Qc Jd Td 9h )
+Wins: Choeweechi, chips: 100
+Wins: Hefonu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeweechi
+Small Blind: Choeweechi, chips: 100
+Big Blind: Hefonu, chips: 200
+Flop: 5d Ac Ad
+Turn: 7s
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Choeweechi, 8c 3c
+Combination: Choeweechi, Pair ( Ac Ad 8c 7s 5d )
+Shows: Hefonu, 4s 5s
+Combination: Hefonu, Two Pair ( Ac Ad 5s 5d 7s )
+Wins: Hefonu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Folds: Hefonu
+Pot size: 300
+Wins: Choeweechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeweechi
+Small Blind: Choeweechi, chips: 100
+Big Blind: Hefonu, chips: 200
+Flop: 2c 4d 3c
+Turn: 4c
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Choeweechi, 2h 7c
+Combination: Choeweechi, Two Pair ( 4d 4c 3c 3h 7c )
+Shows: Hefonu, Ts Ks
+Combination: Hefonu, Two Pair ( 4d 4c 3c 3h Ks )
+Wins: Hefonu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Folds: Hefonu
+Pot size: 300
+Wins: Choeweechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeweechi
+Small Blind: Choeweechi, chips: 100
+Big Blind: Hefonu, chips: 200
+Flop: Ah 8s 7c
+Turn: Td
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Choeweechi, Ac Qh
+Combination: Choeweechi, Pair ( Ac Ah Qh Td 8s )
+Shows: Hefonu, Qs 8c
+Combination: Hefonu, Pair ( 8c 8s Ah Qs Td )
+Wins: Choeweechi, chips: 200
+Wins: Hefonu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Flop: Qd Ac 6h
+Turn: Js
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Choeweechi, Qs 9h
+Combination: Choeweechi, Two Pair ( Qs Qd 9h 9s Ac )
+Shows: Hefonu, Qc 2c
+Combination: Hefonu, Pair ( Qc Qd Ac Js 9s )
+Wins: Choeweechi, chips: 300
+Quits: Hefonu, chips: 0
+Ranking: Choeweechi, Place: 1, Score: 1000
+Reveal AI: Choeweechi, AI: Random
+Ranking: Hefonu, Place: 2, Score: -1000
+Reveal AI: Hefonu, AI: AIMyBot1
+
+Player Stats for Choeweechi, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 14, showdown: 5, bluff: 9
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+
+Player Stats for Hefonu, AI: AIMyBot1
+General: deals: 17, actions: 9, preflop actions: 9
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Date: 2022/10/25 13:46:20
+
+The game begins. The AI's of the players are: 
+Choeweechi: Random
+Hefonu: AIMyBot1
+
+Joins: Choeweechi, chips: 1000
+Joins: Hefonu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Folds: Hefonu
+Pot size: 300
+Boasts: Choeweechi, 4c 3h
+Wins: Choeweechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeweechi
+Small Blind: Choeweechi, chips: 100
+Big Blind: Hefonu, chips: 200
+Raises: Choeweechi, chips: 300
+Folds: Hefonu
+Pot size: 700
+Wins: Choeweechi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Folds: Hefonu
+Pot size: 300
+Wins: Choeweechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeweechi
+Small Blind: Choeweechi, chips: 100
+Big Blind: Hefonu, chips: 200
+Calls: Choeweechi
+DEBUG MESSAGE: INVALID ACTION FROM Hefonu (2 0)
+Folds: Hefonu
+Pot size: 400
+Wins: Choeweechi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Folds: Hefonu
+Pot size: 300
+Wins: Choeweechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeweechi
+Small Blind: Choeweechi, chips: 100
+Big Blind: Hefonu, chips: 200
+Raises: Choeweechi, chips: 300
+Folds: Hefonu
+Pot size: 700
+Boasts: Choeweechi, 2h 6c
+Wins: Choeweechi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Flop: Jc 2d 5d
+Turn: 7c
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Choeweechi, Kc Ad
+Combination: Choeweechi, High Card ( Ad Kc Jc Th 7c )
+Shows: Hefonu, 3h 2h
+Combination: Hefonu, Pair ( 2h 2d Jc Th 7c )
+Wins: Choeweechi, chips: 100
+Wins: Hefonu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeweechi
+Small Blind: Choeweechi, chips: 100
+Big Blind: Hefonu, chips: 200
+Flop: Qh 5c 8d
+Turn: 3c
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Choeweechi, Jh Kc
+Combination: Choeweechi, High Card ( Kc Qh Jh 8d 5c )
+Shows: Hefonu, 7h 5d
+Combination: Hefonu, Pair ( 5d 5c Qh 8d 7h )
+Wins: Hefonu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Folds: Hefonu
+Pot size: 300
+Wins: Choeweechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeweechi
+Small Blind: Choeweechi, chips: 100
+Big Blind: Hefonu, chips: 200
+Flop: 8c 5h 3d
+Turn: 2s
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Choeweechi, 5c 9s
+Combination: Choeweechi, Two Pair ( 5c 5h 2s 2c 9s )
+Shows: Hefonu, 7d 6d
+Combination: Hefonu, Pair ( 2s 2c 8c 7d 6d )
+Wins: Choeweechi, chips: 200
+Wins: Hefonu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Flop: 5c 6s Kh
+Turn: Jd
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Choeweechi, 4d Js
+Combination: Choeweechi, Pair ( Js Jd Kh Td 6s )
+Shows: Hefonu, 9h Qc
+Combination: Hefonu, Straight ( Kh Qc Jd Td 9h )
+Wins: Choeweechi, chips: 100
+Wins: Hefonu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeweechi
+Small Blind: Choeweechi, chips: 100
+Big Blind: Hefonu, chips: 200
+Flop: 5d Ac Ad
+Turn: 7s
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Choeweechi, 8c 3c
+Combination: Choeweechi, Pair ( Ac Ad 8c 7s 5d )
+Shows: Hefonu, 4s 5s
+Combination: Hefonu, Two Pair ( Ac Ad 5s 5d 7s )
+Wins: Hefonu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Folds: Hefonu
+Pot size: 300
+Wins: Choeweechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeweechi
+Small Blind: Choeweechi, chips: 100
+Big Blind: Hefonu, chips: 200
+Flop: 2c 4d 3c
+Turn: 4c
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Choeweechi, 2h 7c
+Combination: Choeweechi, Two Pair ( 4d 4c 3c 3h 7c )
+Shows: Hefonu, Ts Ks
+Combination: Hefonu, Two Pair ( 4d 4c 3c 3h Ks )
+Wins: Hefonu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Folds: Hefonu
+Pot size: 300
+Wins: Choeweechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeweechi
+Small Blind: Choeweechi, chips: 100
+Big Blind: Hefonu, chips: 200
+Flop: Ah 8s 7c
+Turn: Td
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Choeweechi, Ac Qh
+Combination: Choeweechi, Pair ( Ac Ah Qh Td 8s )
+Shows: Hefonu, Qs 8c
+Combination: Hefonu, Pair ( 8c 8s Ah Qs Td )
+Wins: Choeweechi, chips: 200
+Wins: Hefonu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefonu
+Small Blind: Hefonu, chips: 100
+Big Blind: Choeweechi, chips: 200
+Flop: Qd Ac 6h
+Turn: Js
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Choeweechi, Qs 9h
+Combination: Choeweechi, Two Pair ( Qs Qd 9h 9s Ac )
+Shows: Hefonu, Qc 2c
+Combination: Hefonu, Pair ( Qc Qd Ac Js 9s )
+Wins: Choeweechi, chips: 300
+Quits: Hefonu, chips: 0
+Ranking: Choeweechi, Place: 1, Score: 1000
+Reveal AI: Choeweechi, AI: Random
+Ranking: Hefonu, Place: 2, Score: -1000
+Reveal AI: Hefonu, AI: AIMyBot1
+
+Player Stats for Choeweechi, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 14, showdown: 5, bluff: 9
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+
+Player Stats for Hefonu, AI: AIMyBot1
+General: deals: 17, actions: 9, preflop actions: 9
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+

@@ -1,0 +1,456 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Chawriro: Random
+Putto: AIMyBot1
+
+Joins: Chawriro, chips: 1000
+Joins: Putto, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 200
+Calls: Chawriro
+DEBUG MESSAGE: INVALID ACTION FROM Putto (2 0)
+Folds: Putto
+Pot size: 400
+Boasts: Chawriro, 6s 2s
+Wins: Chawriro, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Putto
+Small Blind: Putto, chips: 100
+Big Blind: Chawriro, chips: 200
+Folds: Putto
+Pot size: 300
+Boasts: Chawriro, 3d 8s
+Wins: Chawriro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 200
+Raises: Chawriro, chips: 300
+Folds: Putto
+Pot size: 700
+Wins: Chawriro, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Putto
+Small Blind: Putto, chips: 100
+Big Blind: Chawriro, chips: 200
+Folds: Putto
+Pot size: 300
+Boasts: Chawriro, 4d Qs
+Wins: Chawriro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 200
+Raises: Chawriro, chips: 300
+Folds: Putto
+Pot size: 700
+Wins: Chawriro, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Putto
+Small Blind: Putto, chips: 100
+Big Blind: Chawriro, chips: 200
+Folds: Putto
+Pot size: 300
+Wins: Chawriro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 100
+Flop: 8s 5d 8d
+Turn: 4s
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Chawriro, 7d 9c
+Combination: Chawriro, Pair ( 8s 8d Kh 9c 7d )
+Shows: Putto, 9d 7h
+Combination: Putto, Pair ( 8s 8d Kh 9d 7h )
+Wins: Chawriro, chips: 100
+Wins: Putto, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Putto
+Small Blind: Putto, chips: 100
+Big Blind: Chawriro, chips: 200
+Flop: Qh Jc 8d
+Turn: Ac
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Chawriro, 7s 3s
+Combination: Chawriro, Pair ( Ac Ad Qh Jc 8d )
+Shows: Putto, 9c Qc
+Combination: Putto, Two Pair ( Ac Ad Qc Qh Jc )
+Wins: Chawriro, chips: 100
+Wins: Putto, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 200
+Flop: Ah 2c 8c
+Turn: 6s
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Chawriro, Qc 7d
+Combination: Chawriro, High Card ( Ah Qc 8c 7d 6s )
+Shows: Putto, 3c 5h
+Combination: Putto, Straight ( 6s 5h 4h 3c 2c )
+Wins: Putto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Putto
+Small Blind: Putto, chips: 100
+Big Blind: Chawriro, chips: 200
+Folds: Putto
+Pot size: 300
+Wins: Chawriro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 200
+Flop: Ad 7c As
+Turn: 7d
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Chawriro, 9c Kd
+Combination: Chawriro, Two Pair ( Ad As 7c 7d Kd )
+Shows: Putto, Qs 9h
+Combination: Putto, Two Pair ( Ad As 7c 7d Qs )
+Wins: Chawriro, chips: 200
+Wins: Putto, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Putto
+Small Blind: Putto, chips: 100
+Big Blind: Chawriro, chips: 200
+Flop: 9s 6d Ac
+Turn: 7d
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Chawriro, Js 4d
+Combination: Chawriro, High Card ( Ac Js 9s 7d 6d )
+Shows: Putto, 2s 9c
+Combination: Putto, Pair ( 9c 9s Ac 7d 6d )
+Wins: Chawriro, chips: 100
+Wins: Putto, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 200
+Flop: 5d 4s 9s
+Turn: Tc
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Chawriro, 4d Qh
+Combination: Chawriro, Pair ( 4d 4s Qh Tc 9s )
+Shows: Putto, Jd 4c
+Combination: Putto, Pair ( 4c 4s Jd Tc 9s )
+Wins: Chawriro, chips: 200
+Wins: Putto, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Putto
+Small Blind: Putto, chips: 100
+Big Blind: Chawriro, chips: 200
+Flop: 7s 5s 6s
+Turn: Ts
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Chawriro, Ac 3d
+Combination: Chawriro, Flush ( Js Ts 7s 6s 5s )
+Shows: Putto, Qh 9d
+Combination: Putto, Flush ( Js Ts 7s 6s 5s )
+Wins: Chawriro, chips: 200
+Wins: Putto, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 100
+Flop: Ad 8h 9d
+Turn: 6s
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Chawriro, Kc 9h
+Combination: Chawriro, Pair ( 9h 9d Ad Kc 8h )
+Shows: Putto, Th 7h
+Combination: Putto, Straight ( Th 9d 8h 7h 6s )
+Wins: Putto, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Putto
+Small Blind: Putto, chips: 100
+Big Blind: Chawriro, chips: 200
+Folds: Putto
+Pot size: 300
+Wins: Chawriro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 100
+Flop: 2c Qd 2d
+Turn: 5c
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Chawriro, 8c 2s
+Combination: Chawriro, Three Of A Kind ( 2s 2c 2d Ad Qd )
+Shows: Putto, 4s 7s
+Combination: Putto, Pair ( 2c 2d Ad Qd 7s )
+Wins: Chawriro, chips: 200
+Quits: Putto, chips: 0
+Ranking: Chawriro, Place: 1, Score: 1000
+Reveal AI: Chawriro, AI: Random
+Ranking: Putto, Place: 2, Score: -1000
+Reveal AI: Putto, AI: AIMyBot1
+
+Player Stats for Chawriro, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 15, showdown: 7, bluff: 8
+Chips: won: 4400, lost: 3400, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.777778
+
+
+Player Stats for Putto, AI: AIMyBot1
+General: deals: 17, actions: 8, preflop actions: 8
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1300, lost: 2300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Date: 2022/10/25 13:46:10
+
+The game begins. The AI's of the players are: 
+Chawriro: Random
+Putto: AIMyBot1
+
+Joins: Chawriro, chips: 1000
+Joins: Putto, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 200
+Calls: Chawriro
+DEBUG MESSAGE: INVALID ACTION FROM Putto (2 0)
+Folds: Putto
+Pot size: 400
+Boasts: Chawriro, 6s 2s
+Wins: Chawriro, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Putto
+Small Blind: Putto, chips: 100
+Big Blind: Chawriro, chips: 200
+Folds: Putto
+Pot size: 300
+Boasts: Chawriro, 3d 8s
+Wins: Chawriro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 200
+Raises: Chawriro, chips: 300
+Folds: Putto
+Pot size: 700
+Wins: Chawriro, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Putto
+Small Blind: Putto, chips: 100
+Big Blind: Chawriro, chips: 200
+Folds: Putto
+Pot size: 300
+Boasts: Chawriro, 4d Qs
+Wins: Chawriro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 200
+Raises: Chawriro, chips: 300
+Folds: Putto
+Pot size: 700
+Wins: Chawriro, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Putto
+Small Blind: Putto, chips: 100
+Big Blind: Chawriro, chips: 200
+Folds: Putto
+Pot size: 300
+Wins: Chawriro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 100
+Flop: 8s 5d 8d
+Turn: 4s
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Chawriro, 7d 9c
+Combination: Chawriro, Pair ( 8s 8d Kh 9c 7d )
+Shows: Putto, 9d 7h
+Combination: Putto, Pair ( 8s 8d Kh 9d 7h )
+Wins: Chawriro, chips: 100
+Wins: Putto, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Putto
+Small Blind: Putto, chips: 100
+Big Blind: Chawriro, chips: 200
+Flop: Qh Jc 8d
+Turn: Ac
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Chawriro, 7s 3s
+Combination: Chawriro, Pair ( Ac Ad Qh Jc 8d )
+Shows: Putto, 9c Qc
+Combination: Putto, Two Pair ( Ac Ad Qc Qh Jc )
+Wins: Chawriro, chips: 100
+Wins: Putto, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 200
+Flop: Ah 2c 8c
+Turn: 6s
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Chawriro, Qc 7d
+Combination: Chawriro, High Card ( Ah Qc 8c 7d 6s )
+Shows: Putto, 3c 5h
+Combination: Putto, Straight ( 6s 5h 4h 3c 2c )
+Wins: Putto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Putto
+Small Blind: Putto, chips: 100
+Big Blind: Chawriro, chips: 200
+Folds: Putto
+Pot size: 300
+Wins: Chawriro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 200
+Flop: Ad 7c As
+Turn: 7d
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Chawriro, 9c Kd
+Combination: Chawriro, Two Pair ( Ad As 7c 7d Kd )
+Shows: Putto, Qs 9h
+Combination: Putto, Two Pair ( Ad As 7c 7d Qs )
+Wins: Chawriro, chips: 200
+Wins: Putto, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Putto
+Small Blind: Putto, chips: 100
+Big Blind: Chawriro, chips: 200
+Flop: 9s 6d Ac
+Turn: 7d
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Chawriro, Js 4d
+Combination: Chawriro, High Card ( Ac Js 9s 7d 6d )
+Shows: Putto, 2s 9c
+Combination: Putto, Pair ( 9c 9s Ac 7d 6d )
+Wins: Chawriro, chips: 100
+Wins: Putto, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 200
+Flop: 5d 4s 9s
+Turn: Tc
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Chawriro, 4d Qh
+Combination: Chawriro, Pair ( 4d 4s Qh Tc 9s )
+Shows: Putto, Jd 4c
+Combination: Putto, Pair ( 4c 4s Jd Tc 9s )
+Wins: Chawriro, chips: 200
+Wins: Putto, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Putto
+Small Blind: Putto, chips: 100
+Big Blind: Chawriro, chips: 200
+Flop: 7s 5s 6s
+Turn: Ts
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Chawriro, Ac 3d
+Combination: Chawriro, Flush ( Js Ts 7s 6s 5s )
+Shows: Putto, Qh 9d
+Combination: Putto, Flush ( Js Ts 7s 6s 5s )
+Wins: Chawriro, chips: 200
+Wins: Putto, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 100
+Flop: Ad 8h 9d
+Turn: 6s
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Chawriro, Kc 9h
+Combination: Chawriro, Pair ( 9h 9d Ad Kc 8h )
+Shows: Putto, Th 7h
+Combination: Putto, Straight ( Th 9d 8h 7h 6s )
+Wins: Putto, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Putto
+Small Blind: Putto, chips: 100
+Big Blind: Chawriro, chips: 200
+Folds: Putto
+Pot size: 300
+Wins: Chawriro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chawriro
+Small Blind: Chawriro, chips: 100
+Big Blind: Putto, chips: 100
+Flop: 2c Qd 2d
+Turn: 5c
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Chawriro, 8c 2s
+Combination: Chawriro, Three Of A Kind ( 2s 2c 2d Ad Qd )
+Shows: Putto, 4s 7s
+Combination: Putto, Pair ( 2c 2d Ad Qd 7s )
+Wins: Chawriro, chips: 200
+Quits: Putto, chips: 0
+Ranking: Chawriro, Place: 1, Score: 1000
+Reveal AI: Chawriro, AI: Random
+Ranking: Putto, Place: 2, Score: -1000
+Reveal AI: Putto, AI: AIMyBot1
+
+Player Stats for Chawriro, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 15, showdown: 7, bluff: 8
+Chips: won: 4400, lost: 3400, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.777778
+
+
+Player Stats for Putto, AI: AIMyBot1
+General: deals: 17, actions: 8, preflop actions: 8
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1300, lost: 2300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+

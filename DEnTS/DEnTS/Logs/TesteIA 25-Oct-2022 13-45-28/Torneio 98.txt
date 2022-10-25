@@ -1,0 +1,192 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+He: Random
+Darlee: AIMyBot1
+
+Joins: He, chips: 1000
+Joins: Darlee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Darlee, chips: 200
+Raises: He, chips: 300
+Folds: Darlee
+Pot size: 700
+Boasts: He, 9h Jc
+Wins: He, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darlee
+Small Blind: Darlee, chips: 100
+Big Blind: He, chips: 200
+Folds: Darlee
+Pot size: 300
+Boasts: He, 3c 8h
+Wins: He, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Darlee, chips: 200
+Calls: He
+DEBUG MESSAGE: INVALID ACTION FROM Darlee (2 0)
+Folds: Darlee
+Pot size: 400
+Boasts: He, 9h 7h
+Wins: He, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darlee
+Small Blind: Darlee, chips: 100
+Big Blind: He, chips: 200
+Folds: Darlee
+Pot size: 300
+Wins: He, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Darlee, chips: 200
+Raises: He, chips: 300
+Folds: Darlee
+Pot size: 700
+Wins: He, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darlee
+Small Blind: Darlee, chips: 100
+Big Blind: He, chips: 200
+Folds: Darlee
+Pot size: 300
+Wins: He, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Darlee, chips: 100
+Flop: Qh 9s 7d
+Turn: Td
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: He, 4d Ts
+Combination: He, Pair ( Ts Td Qh 9s 7d )
+Shows: Darlee, 7s 6h
+Combination: Darlee, Pair ( 7s 7d Qh Td 9s )
+Wins: He, chips: 200
+Quits: Darlee, chips: 0
+Ranking: He, Place: 1, Score: 1000
+Reveal AI: He, AI: Random
+Ranking: Darlee, Place: 2, Score: -1000
+Reveal AI: Darlee, AI: AIMyBot1
+
+Player Stats for Darlee, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for He, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:36
+
+The game begins. The AI's of the players are: 
+He: Random
+Darlee: AIMyBot1
+
+Joins: He, chips: 1000
+Joins: Darlee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Darlee, chips: 200
+Raises: He, chips: 300
+Folds: Darlee
+Pot size: 700
+Boasts: He, 9h Jc
+Wins: He, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darlee
+Small Blind: Darlee, chips: 100
+Big Blind: He, chips: 200
+Folds: Darlee
+Pot size: 300
+Boasts: He, 3c 8h
+Wins: He, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Darlee, chips: 200
+Calls: He
+DEBUG MESSAGE: INVALID ACTION FROM Darlee (2 0)
+Folds: Darlee
+Pot size: 400
+Boasts: He, 9h 7h
+Wins: He, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darlee
+Small Blind: Darlee, chips: 100
+Big Blind: He, chips: 200
+Folds: Darlee
+Pot size: 300
+Wins: He, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Darlee, chips: 200
+Raises: He, chips: 300
+Folds: Darlee
+Pot size: 700
+Wins: He, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Darlee
+Small Blind: Darlee, chips: 100
+Big Blind: He, chips: 200
+Folds: Darlee
+Pot size: 300
+Wins: He, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Darlee, chips: 100
+Flop: Qh 9s 7d
+Turn: Td
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: He, 4d Ts
+Combination: He, Pair ( Ts Td Qh 9s 7d )
+Shows: Darlee, 7s 6h
+Combination: Darlee, Pair ( 7s 7d Qh Td 9s )
+Wins: He, chips: 200
+Quits: Darlee, chips: 0
+Ranking: He, Place: 1, Score: 1000
+Reveal AI: He, AI: Random
+Ranking: Darlee, Place: 2, Score: -1000
+Reveal AI: Darlee, AI: AIMyBot1
+
+Player Stats for Darlee, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for He, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

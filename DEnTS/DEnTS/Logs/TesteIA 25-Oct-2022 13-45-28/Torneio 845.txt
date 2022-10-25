@@ -1,0 +1,294 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Ni: AIMyBot1
+Chifamoe: Random
+
+Joins: Ni, chips: 1000
+Joins: Chifamoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Chifamoe, chips: 200
+Folds: Ni
+Pot size: 300
+Wins: Chifamoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifamoe
+Small Blind: Chifamoe, chips: 100
+Big Blind: Ni, chips: 200
+Calls: Chifamoe
+DEBUG MESSAGE: INVALID ACTION FROM Ni (2 0)
+Folds: Ni
+Pot size: 400
+Wins: Chifamoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Chifamoe, chips: 200
+Folds: Ni
+Pot size: 300
+Wins: Chifamoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifamoe
+Small Blind: Chifamoe, chips: 100
+Big Blind: Ni, chips: 200
+Folds: Chifamoe
+Pot size: 300
+Wins: Ni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Chifamoe, chips: 200
+Folds: Ni
+Pot size: 300
+Boasts: Chifamoe, 2c 2d
+Wins: Chifamoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifamoe
+Small Blind: Chifamoe, chips: 100
+Big Blind: Ni, chips: 200
+Calls: Chifamoe
+DEBUG MESSAGE: INVALID ACTION FROM Ni (2 0)
+Folds: Ni
+Pot size: 400
+Boasts: Chifamoe, 3c 3d
+Wins: Chifamoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Chifamoe, chips: 200
+Folds: Ni
+Pot size: 300
+Boasts: Chifamoe, 7d 4c
+Wins: Chifamoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifamoe
+Small Blind: Chifamoe, chips: 100
+Big Blind: Ni, chips: 200
+Raises: Chifamoe, chips: 300
+Folds: Ni
+Pot size: 700
+Wins: Chifamoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Chifamoe, chips: 200
+Flop: 7c Jd Ad
+Turn: 7h
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Ni, 4h Qh
+Combination: Ni, Two Pair ( Jd Js 7c 7h Ad )
+Shows: Chifamoe, 6h Qc
+Combination: Chifamoe, Two Pair ( Jd Js 7c 7h Ad )
+Wins: Ni, chips: 100
+Wins: Chifamoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifamoe
+Small Blind: Chifamoe, chips: 100
+Big Blind: Ni, chips: 100
+Flop: Qh Kc 7d
+Turn: 2s
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Ni, Ac 2d
+Combination: Ni, Pair ( 2d 2s Ac Kc Qh )
+Shows: Chifamoe, 9c 5d
+Combination: Chifamoe, High Card ( Kc Qh 9c 8s 7d )
+Wins: Ni, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Chifamoe, chips: 200
+Folds: Ni
+Pot size: 300
+Wins: Chifamoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifamoe
+Small Blind: Chifamoe, chips: 100
+Big Blind: Ni, chips: 100
+Flop: 9h Kd 3c
+Turn: 8d
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Ni, Jh 3h
+Combination: Ni, Pair ( 3h 3c Kd Jh 9h )
+Shows: Chifamoe, 9d 6c
+Combination: Chifamoe, Pair ( 9d 9h Kd 8d 7c )
+Wins: Chifamoe, chips: 200
+Quits: Ni, chips: 0
+Ranking: Chifamoe, Place: 1, Score: 1000
+Reveal AI: Chifamoe, AI: Random
+Ranking: Ni, Place: 2, Score: -1000
+Reveal AI: Ni, AI: AIMyBot1
+
+Player Stats for Chifamoe, AI: Random
+General: deals: 12, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 2, bluff: 8
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0.0833333, 3Bet: 0.0833333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Ni, AI: AIMyBot1
+General: deals: 12, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:25
+
+The game begins. The AI's of the players are: 
+Ni: AIMyBot1
+Chifamoe: Random
+
+Joins: Ni, chips: 1000
+Joins: Chifamoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Chifamoe, chips: 200
+Folds: Ni
+Pot size: 300
+Wins: Chifamoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifamoe
+Small Blind: Chifamoe, chips: 100
+Big Blind: Ni, chips: 200
+Calls: Chifamoe
+DEBUG MESSAGE: INVALID ACTION FROM Ni (2 0)
+Folds: Ni
+Pot size: 400
+Wins: Chifamoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Chifamoe, chips: 200
+Folds: Ni
+Pot size: 300
+Wins: Chifamoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifamoe
+Small Blind: Chifamoe, chips: 100
+Big Blind: Ni, chips: 200
+Folds: Chifamoe
+Pot size: 300
+Wins: Ni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Chifamoe, chips: 200
+Folds: Ni
+Pot size: 300
+Boasts: Chifamoe, 2c 2d
+Wins: Chifamoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifamoe
+Small Blind: Chifamoe, chips: 100
+Big Blind: Ni, chips: 200
+Calls: Chifamoe
+DEBUG MESSAGE: INVALID ACTION FROM Ni (2 0)
+Folds: Ni
+Pot size: 400
+Boasts: Chifamoe, 3c 3d
+Wins: Chifamoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Chifamoe, chips: 200
+Folds: Ni
+Pot size: 300
+Boasts: Chifamoe, 7d 4c
+Wins: Chifamoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifamoe
+Small Blind: Chifamoe, chips: 100
+Big Blind: Ni, chips: 200
+Raises: Chifamoe, chips: 300
+Folds: Ni
+Pot size: 700
+Wins: Chifamoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Chifamoe, chips: 200
+Flop: 7c Jd Ad
+Turn: 7h
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Ni, 4h Qh
+Combination: Ni, Two Pair ( Jd Js 7c 7h Ad )
+Shows: Chifamoe, 6h Qc
+Combination: Chifamoe, Two Pair ( Jd Js 7c 7h Ad )
+Wins: Ni, chips: 100
+Wins: Chifamoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifamoe
+Small Blind: Chifamoe, chips: 100
+Big Blind: Ni, chips: 100
+Flop: Qh Kc 7d
+Turn: 2s
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Ni, Ac 2d
+Combination: Ni, Pair ( 2d 2s Ac Kc Qh )
+Shows: Chifamoe, 9c 5d
+Combination: Chifamoe, High Card ( Kc Qh 9c 8s 7d )
+Wins: Ni, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Chifamoe, chips: 200
+Folds: Ni
+Pot size: 300
+Wins: Chifamoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chifamoe
+Small Blind: Chifamoe, chips: 100
+Big Blind: Ni, chips: 100
+Flop: 9h Kd 3c
+Turn: 8d
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Ni, Jh 3h
+Combination: Ni, Pair ( 3h 3c Kd Jh 9h )
+Shows: Chifamoe, 9d 6c
+Combination: Chifamoe, Pair ( 9d 9h Kd 8d 7c )
+Wins: Chifamoe, chips: 200
+Quits: Ni, chips: 0
+Ranking: Chifamoe, Place: 1, Score: 1000
+Reveal AI: Chifamoe, AI: Random
+Ranking: Ni, Place: 2, Score: -1000
+Reveal AI: Ni, AI: AIMyBot1
+
+Player Stats for Chifamoe, AI: Random
+General: deals: 12, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 2, bluff: 8
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0.0833333, 3Bet: 0.0833333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Ni, AI: AIMyBot1
+General: deals: 12, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

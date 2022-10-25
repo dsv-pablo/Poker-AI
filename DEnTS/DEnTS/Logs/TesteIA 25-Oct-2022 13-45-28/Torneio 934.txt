@@ -1,0 +1,182 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Bu: AIMyBot1
+Huchee: Random
+
+Joins: Bu, chips: 1000
+Joins: Huchee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Huchee, chips: 200
+Folds: Bu
+Pot size: 300
+Wins: Huchee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchee
+Small Blind: Huchee, chips: 100
+Big Blind: Bu, chips: 200
+Calls: Huchee
+DEBUG MESSAGE: INVALID ACTION FROM Bu (2 0)
+Folds: Bu
+Pot size: 400
+Boasts: Huchee, Qs 9s
+Wins: Huchee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Huchee, chips: 200
+Folds: Bu
+Pot size: 300
+Boasts: Huchee, Qs Kh
+Wins: Huchee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchee
+Small Blind: Huchee, chips: 100
+Big Blind: Bu, chips: 200
+Calls: Huchee
+DEBUG MESSAGE: INVALID ACTION FROM Bu (2 0)
+Folds: Bu
+Pot size: 400
+Boasts: Huchee, Qd Td
+Wins: Huchee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Huchee, chips: 200
+Folds: Bu
+Pot size: 300
+Wins: Huchee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchee
+Small Blind: Huchee, chips: 100
+Big Blind: Bu, chips: 200
+Raises: Huchee, chips: 300
+Calls: Bu
+Flop: 6d 9d 6h
+Turn: 3d
+River: 2s
+Pot size: 800
+Showdown Reached
+Shows: Bu, Tc 9h
+Combination: Bu, Two Pair ( 9h 9d 6d 6h Tc )
+Shows: Huchee, Qs Qd
+Combination: Huchee, Two Pair ( Qs Qd 6d 6h 9d )
+Wins: Huchee, chips: 800
+Quits: Bu, chips: 0
+Ranking: Huchee, Place: 1, Score: 1000
+Reveal AI: Huchee, AI: Random
+Ranking: Bu, Place: 2, Score: -1000
+Reveal AI: Bu, AI: AIMyBot1
+
+Player Stats for Bu, AI: AIMyBot1
+General: deals: 6, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1200, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Huchee, AI: Random
+General: deals: 6, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 1, bluff: 5
+Chips: won: 2500, lost: 1500, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.166667, 3Bet: 0.166667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:30
+
+The game begins. The AI's of the players are: 
+Bu: AIMyBot1
+Huchee: Random
+
+Joins: Bu, chips: 1000
+Joins: Huchee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Huchee, chips: 200
+Folds: Bu
+Pot size: 300
+Wins: Huchee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchee
+Small Blind: Huchee, chips: 100
+Big Blind: Bu, chips: 200
+Calls: Huchee
+DEBUG MESSAGE: INVALID ACTION FROM Bu (2 0)
+Folds: Bu
+Pot size: 400
+Boasts: Huchee, Qs 9s
+Wins: Huchee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Huchee, chips: 200
+Folds: Bu
+Pot size: 300
+Boasts: Huchee, Qs Kh
+Wins: Huchee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchee
+Small Blind: Huchee, chips: 100
+Big Blind: Bu, chips: 200
+Calls: Huchee
+DEBUG MESSAGE: INVALID ACTION FROM Bu (2 0)
+Folds: Bu
+Pot size: 400
+Boasts: Huchee, Qd Td
+Wins: Huchee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bu
+Small Blind: Bu, chips: 100
+Big Blind: Huchee, chips: 200
+Folds: Bu
+Pot size: 300
+Wins: Huchee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchee
+Small Blind: Huchee, chips: 100
+Big Blind: Bu, chips: 200
+Raises: Huchee, chips: 300
+Calls: Bu
+Flop: 6d 9d 6h
+Turn: 3d
+River: 2s
+Pot size: 800
+Showdown Reached
+Shows: Bu, Tc 9h
+Combination: Bu, Two Pair ( 9h 9d 6d 6h Tc )
+Shows: Huchee, Qs Qd
+Combination: Huchee, Two Pair ( Qs Qd 6d 6h 9d )
+Wins: Huchee, chips: 800
+Quits: Bu, chips: 0
+Ranking: Huchee, Place: 1, Score: 1000
+Reveal AI: Huchee, AI: Random
+Ranking: Bu, Place: 2, Score: -1000
+Reveal AI: Bu, AI: AIMyBot1
+
+Player Stats for Bu, AI: AIMyBot1
+General: deals: 6, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1200, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Huchee, AI: Random
+General: deals: 6, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 1, bluff: 5
+Chips: won: 2500, lost: 1500, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.166667, 3Bet: 0.166667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

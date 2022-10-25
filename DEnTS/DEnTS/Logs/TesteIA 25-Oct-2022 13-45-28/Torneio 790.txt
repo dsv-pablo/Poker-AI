@@ -1,0 +1,268 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Deewre: Random
+Gelilee: AIMyBot1
+
+Joins: Deewre, chips: 1000
+Joins: Gelilee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewre
+Small Blind: Deewre, chips: 100
+Big Blind: Gelilee, chips: 200
+Raises: Deewre, chips: 300
+Folds: Gelilee
+Pot size: 700
+Boasts: Deewre, 6s 5h
+Wins: Deewre, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gelilee
+Small Blind: Gelilee, chips: 100
+Big Blind: Deewre, chips: 200
+Folds: Gelilee
+Pot size: 300
+Boasts: Deewre, Kc 2c
+Wins: Deewre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewre
+Small Blind: Deewre, chips: 100
+Big Blind: Gelilee, chips: 200
+Raises: Deewre, chips: 300
+Folds: Gelilee
+Pot size: 700
+Boasts: Deewre, 9c 6c
+Wins: Deewre, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gelilee
+Small Blind: Gelilee, chips: 100
+Big Blind: Deewre, chips: 200
+Folds: Gelilee
+Pot size: 300
+Wins: Deewre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewre
+Small Blind: Deewre, chips: 100
+Big Blind: Gelilee, chips: 200
+Folds: Deewre
+Pot size: 300
+Wins: Gelilee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gelilee
+Small Blind: Gelilee, chips: 100
+Big Blind: Deewre, chips: 200
+Folds: Gelilee
+Pot size: 300
+Boasts: Deewre, 5c 4h
+Wins: Deewre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewre
+Small Blind: Deewre, chips: 100
+Big Blind: Gelilee, chips: 200
+Calls: Deewre
+DEBUG MESSAGE: INVALID ACTION FROM Gelilee (2 0)
+Folds: Gelilee
+Pot size: 400
+Wins: Deewre, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gelilee
+Small Blind: Gelilee, chips: 100
+Big Blind: Deewre, chips: 200
+Folds: Gelilee
+Pot size: 300
+Boasts: Deewre, 6s 7d
+Wins: Deewre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewre
+Small Blind: Deewre, chips: 100
+Big Blind: Gelilee, chips: 100
+Flop: Jd As Js
+Turn: 5h
+River: Qh
+Pot size: 200
+Showdown Reached
+Shows: Deewre, 9c Th
+Combination: Deewre, Pair ( Jd Js As Qh Th )
+Shows: Gelilee, 3c Kc
+Combination: Gelilee, Pair ( Jd Js As Kc Qh )
+Wins: Gelilee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gelilee
+Small Blind: Gelilee, chips: 100
+Big Blind: Deewre, chips: 200
+Folds: Gelilee
+Pot size: 300
+Boasts: Deewre, 8s 7c
+Wins: Deewre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewre
+Small Blind: Deewre, chips: 100
+Big Blind: Gelilee, chips: 100
+Flop: 2s 5s Td
+Turn: Jc
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Deewre, Kh 7h
+Combination: Deewre, Pair ( Jc Jd Kh Td 7h )
+Shows: Gelilee, Qc 8d
+Combination: Gelilee, Pair ( Jc Jd Qc Td 8d )
+Wins: Deewre, chips: 200
+Quits: Gelilee, chips: 0
+Ranking: Deewre, Place: 1, Score: 1000
+Reveal AI: Deewre, AI: Random
+Ranking: Gelilee, Place: 2, Score: -1000
+Reveal AI: Gelilee, AI: AIMyBot1
+
+Player Stats for Deewre, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Gelilee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:22
+
+The game begins. The AI's of the players are: 
+Deewre: Random
+Gelilee: AIMyBot1
+
+Joins: Deewre, chips: 1000
+Joins: Gelilee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewre
+Small Blind: Deewre, chips: 100
+Big Blind: Gelilee, chips: 200
+Raises: Deewre, chips: 300
+Folds: Gelilee
+Pot size: 700
+Boasts: Deewre, 6s 5h
+Wins: Deewre, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gelilee
+Small Blind: Gelilee, chips: 100
+Big Blind: Deewre, chips: 200
+Folds: Gelilee
+Pot size: 300
+Boasts: Deewre, Kc 2c
+Wins: Deewre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewre
+Small Blind: Deewre, chips: 100
+Big Blind: Gelilee, chips: 200
+Raises: Deewre, chips: 300
+Folds: Gelilee
+Pot size: 700
+Boasts: Deewre, 9c 6c
+Wins: Deewre, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gelilee
+Small Blind: Gelilee, chips: 100
+Big Blind: Deewre, chips: 200
+Folds: Gelilee
+Pot size: 300
+Wins: Deewre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewre
+Small Blind: Deewre, chips: 100
+Big Blind: Gelilee, chips: 200
+Folds: Deewre
+Pot size: 300
+Wins: Gelilee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gelilee
+Small Blind: Gelilee, chips: 100
+Big Blind: Deewre, chips: 200
+Folds: Gelilee
+Pot size: 300
+Boasts: Deewre, 5c 4h
+Wins: Deewre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewre
+Small Blind: Deewre, chips: 100
+Big Blind: Gelilee, chips: 200
+Calls: Deewre
+DEBUG MESSAGE: INVALID ACTION FROM Gelilee (2 0)
+Folds: Gelilee
+Pot size: 400
+Wins: Deewre, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gelilee
+Small Blind: Gelilee, chips: 100
+Big Blind: Deewre, chips: 200
+Folds: Gelilee
+Pot size: 300
+Boasts: Deewre, 6s 7d
+Wins: Deewre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewre
+Small Blind: Deewre, chips: 100
+Big Blind: Gelilee, chips: 100
+Flop: Jd As Js
+Turn: 5h
+River: Qh
+Pot size: 200
+Showdown Reached
+Shows: Deewre, 9c Th
+Combination: Deewre, Pair ( Jd Js As Qh Th )
+Shows: Gelilee, 3c Kc
+Combination: Gelilee, Pair ( Jd Js As Kc Qh )
+Wins: Gelilee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gelilee
+Small Blind: Gelilee, chips: 100
+Big Blind: Deewre, chips: 200
+Folds: Gelilee
+Pot size: 300
+Boasts: Deewre, 8s 7c
+Wins: Deewre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewre
+Small Blind: Deewre, chips: 100
+Big Blind: Gelilee, chips: 100
+Flop: 2s 5s Td
+Turn: Jc
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Deewre, Kh 7h
+Combination: Deewre, Pair ( Jc Jd Kh Td 7h )
+Shows: Gelilee, Qc 8d
+Combination: Gelilee, Pair ( Jc Jd Qc Td 8d )
+Wins: Deewre, chips: 200
+Quits: Gelilee, chips: 0
+Ranking: Deewre, Place: 1, Score: 1000
+Reveal AI: Deewre, AI: Random
+Ranking: Gelilee, Place: 2, Score: -1000
+Reveal AI: Gelilee, AI: AIMyBot1
+
+Player Stats for Deewre, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Gelilee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

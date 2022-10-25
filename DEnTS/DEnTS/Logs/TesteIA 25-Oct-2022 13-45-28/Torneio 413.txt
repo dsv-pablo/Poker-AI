@@ -1,0 +1,246 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Voenhatti: AIMyBot1
+Choewefep: Random
+
+Joins: Voenhatti, chips: 1000
+Joins: Choewefep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhatti
+Small Blind: Voenhatti, chips: 100
+Big Blind: Choewefep, chips: 200
+Folds: Voenhatti
+Pot size: 300
+Wins: Choewefep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choewefep
+Small Blind: Choewefep, chips: 100
+Big Blind: Voenhatti, chips: 200
+Raises: Choewefep, chips: 300
+Folds: Voenhatti
+Pot size: 700
+Wins: Choewefep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhatti
+Small Blind: Voenhatti, chips: 100
+Big Blind: Choewefep, chips: 200
+Folds: Voenhatti
+Pot size: 300
+Boasts: Choewefep, 6c 2s
+Wins: Choewefep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choewefep
+Small Blind: Choewefep, chips: 100
+Big Blind: Voenhatti, chips: 200
+Raises: Choewefep, chips: 300
+Folds: Voenhatti
+Pot size: 700
+Wins: Choewefep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhatti
+Small Blind: Voenhatti, chips: 100
+Big Blind: Choewefep, chips: 200
+Folds: Voenhatti
+Pot size: 300
+Wins: Choewefep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choewefep
+Small Blind: Choewefep, chips: 100
+Big Blind: Voenhatti, chips: 200
+Raises: Choewefep, chips: 300
+Folds: Voenhatti
+Pot size: 700
+Wins: Choewefep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhatti
+Small Blind: Voenhatti, chips: 100
+Big Blind: Choewefep, chips: 200
+Flop: 6c 8d Td
+Turn: Jc
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Voenhatti, Ad 8h
+Combination: Voenhatti, Pair ( 8h 8d Ad Jc Td )
+Shows: Choewefep, 2c 7h
+Combination: Choewefep, High Card ( Jc Td 8d 7h 6c )
+Wins: Voenhatti, chips: 200
+Wins: Choewefep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choewefep
+Small Blind: Choewefep, chips: 100
+Big Blind: Voenhatti, chips: 200
+Flop: Kc 8h Ks
+Turn: 5h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Voenhatti, 5c 8d
+Combination: Voenhatti, Two Pair ( Kc Ks 8d 8h Ac )
+Shows: Choewefep, 5d Ad
+Combination: Choewefep, Two Pair ( Ad Ac Kc Ks 8h )
+Wins: Voenhatti, chips: 100
+Wins: Choewefep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhatti
+Small Blind: Voenhatti, chips: 100
+Big Blind: Choewefep, chips: 200
+Flop: Jh Ts Ac
+Turn: Ks
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Voenhatti, Th 2c
+Combination: Voenhatti, Three Of A Kind ( Th Ts Tc Ac Ks )
+Shows: Choewefep, 3c Qc
+Combination: Choewefep, Straight ( Ac Ks Qc Jh Ts )
+Wins: Choewefep, chips: 300
+Quits: Voenhatti, chips: 0
+Ranking: Choewefep, Place: 1, Score: 1000
+Reveal AI: Choewefep, AI: Random
+Ranking: Voenhatti, Place: 2, Score: -1000
+Reveal AI: Voenhatti, AI: AIMyBot1
+
+Player Stats for Choewefep, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Voenhatti, AI: AIMyBot1
+General: deals: 9, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:56
+
+The game begins. The AI's of the players are: 
+Voenhatti: AIMyBot1
+Choewefep: Random
+
+Joins: Voenhatti, chips: 1000
+Joins: Choewefep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhatti
+Small Blind: Voenhatti, chips: 100
+Big Blind: Choewefep, chips: 200
+Folds: Voenhatti
+Pot size: 300
+Wins: Choewefep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choewefep
+Small Blind: Choewefep, chips: 100
+Big Blind: Voenhatti, chips: 200
+Raises: Choewefep, chips: 300
+Folds: Voenhatti
+Pot size: 700
+Wins: Choewefep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhatti
+Small Blind: Voenhatti, chips: 100
+Big Blind: Choewefep, chips: 200
+Folds: Voenhatti
+Pot size: 300
+Boasts: Choewefep, 6c 2s
+Wins: Choewefep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choewefep
+Small Blind: Choewefep, chips: 100
+Big Blind: Voenhatti, chips: 200
+Raises: Choewefep, chips: 300
+Folds: Voenhatti
+Pot size: 700
+Wins: Choewefep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhatti
+Small Blind: Voenhatti, chips: 100
+Big Blind: Choewefep, chips: 200
+Folds: Voenhatti
+Pot size: 300
+Wins: Choewefep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choewefep
+Small Blind: Choewefep, chips: 100
+Big Blind: Voenhatti, chips: 200
+Raises: Choewefep, chips: 300
+Folds: Voenhatti
+Pot size: 700
+Wins: Choewefep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhatti
+Small Blind: Voenhatti, chips: 100
+Big Blind: Choewefep, chips: 200
+Flop: 6c 8d Td
+Turn: Jc
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Voenhatti, Ad 8h
+Combination: Voenhatti, Pair ( 8h 8d Ad Jc Td )
+Shows: Choewefep, 2c 7h
+Combination: Choewefep, High Card ( Jc Td 8d 7h 6c )
+Wins: Voenhatti, chips: 200
+Wins: Choewefep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choewefep
+Small Blind: Choewefep, chips: 100
+Big Blind: Voenhatti, chips: 200
+Flop: Kc 8h Ks
+Turn: 5h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Voenhatti, 5c 8d
+Combination: Voenhatti, Two Pair ( Kc Ks 8d 8h Ac )
+Shows: Choewefep, 5d Ad
+Combination: Choewefep, Two Pair ( Ad Ac Kc Ks 8h )
+Wins: Voenhatti, chips: 100
+Wins: Choewefep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhatti
+Small Blind: Voenhatti, chips: 100
+Big Blind: Choewefep, chips: 200
+Flop: Jh Ts Ac
+Turn: Ks
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Voenhatti, Th 2c
+Combination: Voenhatti, Three Of A Kind ( Th Ts Tc Ac Ks )
+Shows: Choewefep, 3c Qc
+Combination: Choewefep, Straight ( Ac Ks Qc Jh Ts )
+Wins: Choewefep, chips: 300
+Quits: Voenhatti, chips: 0
+Ranking: Choewefep, Place: 1, Score: 1000
+Reveal AI: Choewefep, AI: Random
+Ranking: Voenhatti, Place: 2, Score: -1000
+Reveal AI: Voenhatti, AI: AIMyBot1
+
+Player Stats for Choewefep, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Voenhatti, AI: AIMyBot1
+General: deals: 9, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

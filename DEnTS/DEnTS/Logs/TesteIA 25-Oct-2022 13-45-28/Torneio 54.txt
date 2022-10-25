@@ -1,0 +1,278 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Cheeka: Random
+Ha: AIMyBot1
+
+Joins: Cheeka, chips: 1000
+Joins: Ha, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheeka
+Small Blind: Cheeka, chips: 100
+Big Blind: Ha, chips: 200
+Calls: Cheeka
+DEBUG MESSAGE: INVALID ACTION FROM Ha (2 0)
+Folds: Ha
+Pot size: 400
+Boasts: Cheeka, Ah 9d
+Wins: Cheeka, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Cheeka, chips: 200
+Folds: Ha
+Pot size: 300
+Wins: Cheeka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheeka
+Small Blind: Cheeka, chips: 100
+Big Blind: Ha, chips: 200
+Raises: Cheeka, chips: 300
+Folds: Ha
+Pot size: 700
+Wins: Cheeka, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Cheeka, chips: 200
+Folds: Ha
+Pot size: 300
+Wins: Cheeka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheeka
+Small Blind: Cheeka, chips: 100
+Big Blind: Ha, chips: 200
+Calls: Cheeka
+DEBUG MESSAGE: INVALID ACTION FROM Ha (2 0)
+Folds: Ha
+Pot size: 400
+Wins: Cheeka, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Cheeka, chips: 200
+Folds: Ha
+Pot size: 300
+Boasts: Cheeka, 5h Js
+Wins: Cheeka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheeka
+Small Blind: Cheeka, chips: 100
+Big Blind: Ha, chips: 100
+Flop: Qc 4h 4c
+Turn: 7h
+River: Th
+Pot size: 200
+Showdown Reached
+Shows: Cheeka, Jh Kd
+Combination: Cheeka, Pair ( 4h 4c Kd Qc Jh )
+Shows: Ha, Qh 3s
+Combination: Ha, Two Pair ( Qh Qc 4h 4c Th )
+Wins: Ha, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Cheeka, chips: 200
+Folds: Ha
+Pot size: 300
+Wins: Cheeka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheeka
+Small Blind: Cheeka, chips: 100
+Big Blind: Ha, chips: 100
+Flop: 7d 5c Jh
+Turn: 7c
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Cheeka, 9d Kc
+Combination: Cheeka, Two Pair ( Jh Jc 7d 7c Kc )
+Shows: Ha, 5h Jd
+Combination: Ha, Full House ( Jd Jh Jc 7d 7c )
+Wins: Ha, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Cheeka, chips: 200
+Folds: Ha
+Pot size: 300
+Boasts: Cheeka, As 9s
+Wins: Cheeka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheeka
+Small Blind: Cheeka, chips: 100
+Big Blind: Ha, chips: 100
+Flop: 7d 2d 9d
+Turn: 2c
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Cheeka, Ad 8h
+Combination: Cheeka, Pair ( 2d 2c Ad Tc 9d )
+Shows: Ha, Jh 5s
+Combination: Ha, Pair ( 2d 2c Jh Tc 9d )
+Wins: Cheeka, chips: 200
+Quits: Ha, chips: 0
+Ranking: Cheeka, Place: 1, Score: 1000
+Reveal AI: Cheeka, AI: Random
+Ranking: Ha, Place: 2, Score: -1000
+Reveal AI: Ha, AI: AIMyBot1
+
+Player Stats for Cheeka, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Ha, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:33
+
+The game begins. The AI's of the players are: 
+Cheeka: Random
+Ha: AIMyBot1
+
+Joins: Cheeka, chips: 1000
+Joins: Ha, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheeka
+Small Blind: Cheeka, chips: 100
+Big Blind: Ha, chips: 200
+Calls: Cheeka
+DEBUG MESSAGE: INVALID ACTION FROM Ha (2 0)
+Folds: Ha
+Pot size: 400
+Boasts: Cheeka, Ah 9d
+Wins: Cheeka, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Cheeka, chips: 200
+Folds: Ha
+Pot size: 300
+Wins: Cheeka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheeka
+Small Blind: Cheeka, chips: 100
+Big Blind: Ha, chips: 200
+Raises: Cheeka, chips: 300
+Folds: Ha
+Pot size: 700
+Wins: Cheeka, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Cheeka, chips: 200
+Folds: Ha
+Pot size: 300
+Wins: Cheeka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheeka
+Small Blind: Cheeka, chips: 100
+Big Blind: Ha, chips: 200
+Calls: Cheeka
+DEBUG MESSAGE: INVALID ACTION FROM Ha (2 0)
+Folds: Ha
+Pot size: 400
+Wins: Cheeka, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Cheeka, chips: 200
+Folds: Ha
+Pot size: 300
+Boasts: Cheeka, 5h Js
+Wins: Cheeka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheeka
+Small Blind: Cheeka, chips: 100
+Big Blind: Ha, chips: 100
+Flop: Qc 4h 4c
+Turn: 7h
+River: Th
+Pot size: 200
+Showdown Reached
+Shows: Cheeka, Jh Kd
+Combination: Cheeka, Pair ( 4h 4c Kd Qc Jh )
+Shows: Ha, Qh 3s
+Combination: Ha, Two Pair ( Qh Qc 4h 4c Th )
+Wins: Ha, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Cheeka, chips: 200
+Folds: Ha
+Pot size: 300
+Wins: Cheeka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheeka
+Small Blind: Cheeka, chips: 100
+Big Blind: Ha, chips: 100
+Flop: 7d 5c Jh
+Turn: 7c
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Cheeka, 9d Kc
+Combination: Cheeka, Two Pair ( Jh Jc 7d 7c Kc )
+Shows: Ha, 5h Jd
+Combination: Ha, Full House ( Jd Jh Jc 7d 7c )
+Wins: Ha, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ha
+Small Blind: Ha, chips: 100
+Big Blind: Cheeka, chips: 200
+Folds: Ha
+Pot size: 300
+Boasts: Cheeka, As 9s
+Wins: Cheeka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheeka
+Small Blind: Cheeka, chips: 100
+Big Blind: Ha, chips: 100
+Flop: 7d 2d 9d
+Turn: 2c
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Cheeka, Ad 8h
+Combination: Cheeka, Pair ( 2d 2c Ad Tc 9d )
+Shows: Ha, Jh 5s
+Combination: Ha, Pair ( 2d 2c Jh Tc 9d )
+Wins: Cheeka, chips: 200
+Quits: Ha, chips: 0
+Ranking: Cheeka, Place: 1, Score: 1000
+Reveal AI: Cheeka, AI: Random
+Ranking: Ha, Place: 2, Score: -1000
+Reveal AI: Ha, AI: AIMyBot1
+
+Player Stats for Cheeka, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Ha, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

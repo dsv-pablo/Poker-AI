@@ -1,0 +1,490 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gameef: Random
+Weveep: AIMyBot1
+
+Joins: Gameef, chips: 1000
+Joins: Weveep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Folds: Weveep
+Pot size: 300
+Wins: Gameef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Calls: Gameef
+DEBUG MESSAGE: INVALID ACTION FROM Weveep (2 0)
+Folds: Weveep
+Pot size: 400
+Boasts: Gameef, 2h Js
+Wins: Gameef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Folds: Weveep
+Pot size: 300
+Boasts: Gameef, 6s Th
+Wins: Gameef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Calls: Gameef
+DEBUG MESSAGE: INVALID ACTION FROM Weveep (2 0)
+Folds: Weveep
+Pot size: 400
+Wins: Gameef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Folds: Weveep
+Pot size: 300
+Wins: Gameef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Raises: Gameef, chips: 300
+Calls: Weveep
+Flop: Ad Jd 2c
+Turn: Kd
+River: 9d
+Pot size: 800
+Showdown Reached
+Shows: Gameef, Qc 4c
+Combination: Gameef, High Card ( Ad Kd Qc Jd 9d )
+Shows: Weveep, Td Th
+Combination: Weveep, Flush ( Ad Kd Jd Td 9d )
+Wins: Gameef, chips: 200
+Wins: Weveep, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Folds: Weveep
+Pot size: 300
+Wins: Gameef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Calls: Gameef
+DEBUG MESSAGE: INVALID ACTION FROM Weveep (2 0)
+Folds: Weveep
+Pot size: 400
+Wins: Gameef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Folds: Weveep
+Pot size: 300
+Wins: Gameef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Flop: 4s Qs Jc
+Turn: Qc
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Gameef, Ac 2h
+Combination: Gameef, Pair ( Qs Qc Ac Jc Tc )
+Shows: Weveep, 4c Jd
+Combination: Weveep, Two Pair ( Qs Qc Jd Jc Tc )
+Wins: Weveep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Folds: Weveep
+Pot size: 300
+Wins: Gameef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Flop: Jd 4c Qd
+Turn: 8s
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Gameef, Kd Td
+Combination: Gameef, High Card ( Kd Qd Jd Td 8s )
+Shows: Weveep, Js 7h
+Combination: Weveep, Pair ( Js Jd Qd 8s 7h )
+Wins: Weveep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Folds: Weveep
+Pot size: 300
+Wins: Gameef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Flop: Js Ts 2h
+Turn: 9h
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Gameef, 6d 7d
+Combination: Gameef, Pair ( 7d 7s Js Ts 9h )
+Shows: Weveep, 5h 6c
+Combination: Weveep, High Card ( Js Ts 9h 7s 6c )
+Wins: Gameef, chips: 200
+Wins: Weveep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Flop: 4c 8d As
+Turn: Ah
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Gameef, Js 3d
+Combination: Gameef, Pair ( As Ah Js 9s 8d )
+Shows: Weveep, Td Tc
+Combination: Weveep, Two Pair ( As Ah Td Tc 9s )
+Wins: Gameef, chips: 100
+Wins: Weveep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Flop: 9h 8s 8h
+Turn: Qs
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Gameef, 6c Ah
+Combination: Gameef, Two Pair ( Ah Ac 8s 8h Qs )
+Shows: Weveep, Qd Td
+Combination: Weveep, Two Pair ( Qd Qs 8s 8h Ac )
+Wins: Gameef, chips: 200
+Wins: Weveep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Flop: 7s Ts 2d
+Turn: 8s
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Gameef, 5s 3h
+Combination: Gameef, High Card ( Kh Ts 8s 7s 5s )
+Shows: Weveep, 2s 2c
+Combination: Weveep, Three Of A Kind ( 2s 2c 2d Kh Ts )
+Wins: Gameef, chips: 100
+Wins: Weveep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Flop: 6s 4h Qs
+Turn: Jc
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Gameef, Qd 9c
+Combination: Gameef, Two Pair ( Qd Qs 9c 9d Jc )
+Shows: Weveep, 7c 3c
+Combination: Weveep, High Card ( Qs Jc 9d 7c 6s )
+Wins: Gameef, chips: 200
+Wins: Weveep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Flop: 6h Jd Js
+Turn: 9h
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Gameef, 3s Ts
+Combination: Gameef, Three Of A Kind ( Jd Js Jh Ts 9h )
+Shows: Weveep, 4c 7h
+Combination: Weveep, Three Of A Kind ( Jd Js Jh 9h 7h )
+Wins: Gameef, chips: 300
+Quits: Weveep, chips: 0
+Ranking: Gameef, Place: 1, Score: 1000
+Reveal AI: Gameef, AI: Random
+Ranking: Weveep, Place: 2, Score: -1000
+Reveal AI: Weveep, AI: AIMyBot1
+
+Player Stats for Gameef, AI: Random
+General: deals: 19, actions: 4, preflop actions: 4
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 17, showdown: 7, bluff: 10
+Chips: won: 4600, lost: 3600, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.210526, PFR: 0.0526316, 3Bet: 0.0526316
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.777778
+
+
+Player Stats for Weveep, AI: AIMyBot1
+General: deals: 19, actions: 11, preflop actions: 11
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1900, lost: 3100, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.0526316, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Date: 2022/10/25 13:45:45
+
+The game begins. The AI's of the players are: 
+Gameef: Random
+Weveep: AIMyBot1
+
+Joins: Gameef, chips: 1000
+Joins: Weveep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Folds: Weveep
+Pot size: 300
+Wins: Gameef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Calls: Gameef
+DEBUG MESSAGE: INVALID ACTION FROM Weveep (2 0)
+Folds: Weveep
+Pot size: 400
+Boasts: Gameef, 2h Js
+Wins: Gameef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Folds: Weveep
+Pot size: 300
+Boasts: Gameef, 6s Th
+Wins: Gameef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Calls: Gameef
+DEBUG MESSAGE: INVALID ACTION FROM Weveep (2 0)
+Folds: Weveep
+Pot size: 400
+Wins: Gameef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Folds: Weveep
+Pot size: 300
+Wins: Gameef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Raises: Gameef, chips: 300
+Calls: Weveep
+Flop: Ad Jd 2c
+Turn: Kd
+River: 9d
+Pot size: 800
+Showdown Reached
+Shows: Gameef, Qc 4c
+Combination: Gameef, High Card ( Ad Kd Qc Jd 9d )
+Shows: Weveep, Td Th
+Combination: Weveep, Flush ( Ad Kd Jd Td 9d )
+Wins: Gameef, chips: 200
+Wins: Weveep, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Folds: Weveep
+Pot size: 300
+Wins: Gameef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Calls: Gameef
+DEBUG MESSAGE: INVALID ACTION FROM Weveep (2 0)
+Folds: Weveep
+Pot size: 400
+Wins: Gameef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Folds: Weveep
+Pot size: 300
+Wins: Gameef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Flop: 4s Qs Jc
+Turn: Qc
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Gameef, Ac 2h
+Combination: Gameef, Pair ( Qs Qc Ac Jc Tc )
+Shows: Weveep, 4c Jd
+Combination: Weveep, Two Pair ( Qs Qc Jd Jc Tc )
+Wins: Weveep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Folds: Weveep
+Pot size: 300
+Wins: Gameef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Flop: Jd 4c Qd
+Turn: 8s
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Gameef, Kd Td
+Combination: Gameef, High Card ( Kd Qd Jd Td 8s )
+Shows: Weveep, Js 7h
+Combination: Weveep, Pair ( Js Jd Qd 8s 7h )
+Wins: Weveep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Folds: Weveep
+Pot size: 300
+Wins: Gameef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Flop: Js Ts 2h
+Turn: 9h
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Gameef, 6d 7d
+Combination: Gameef, Pair ( 7d 7s Js Ts 9h )
+Shows: Weveep, 5h 6c
+Combination: Weveep, High Card ( Js Ts 9h 7s 6c )
+Wins: Gameef, chips: 200
+Wins: Weveep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Flop: 4c 8d As
+Turn: Ah
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Gameef, Js 3d
+Combination: Gameef, Pair ( As Ah Js 9s 8d )
+Shows: Weveep, Td Tc
+Combination: Weveep, Two Pair ( As Ah Td Tc 9s )
+Wins: Gameef, chips: 100
+Wins: Weveep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Flop: 9h 8s 8h
+Turn: Qs
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Gameef, 6c Ah
+Combination: Gameef, Two Pair ( Ah Ac 8s 8h Qs )
+Shows: Weveep, Qd Td
+Combination: Weveep, Two Pair ( Qd Qs 8s 8h Ac )
+Wins: Gameef, chips: 200
+Wins: Weveep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Flop: 7s Ts 2d
+Turn: 8s
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Gameef, 5s 3h
+Combination: Gameef, High Card ( Kh Ts 8s 7s 5s )
+Shows: Weveep, 2s 2c
+Combination: Weveep, Three Of A Kind ( 2s 2c 2d Kh Ts )
+Wins: Gameef, chips: 100
+Wins: Weveep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gameef
+Small Blind: Gameef, chips: 100
+Big Blind: Weveep, chips: 200
+Flop: 6s 4h Qs
+Turn: Jc
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Gameef, Qd 9c
+Combination: Gameef, Two Pair ( Qd Qs 9c 9d Jc )
+Shows: Weveep, 7c 3c
+Combination: Weveep, High Card ( Qs Jc 9d 7c 6s )
+Wins: Gameef, chips: 200
+Wins: Weveep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weveep
+Small Blind: Weveep, chips: 100
+Big Blind: Gameef, chips: 200
+Flop: 6h Jd Js
+Turn: 9h
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Gameef, 3s Ts
+Combination: Gameef, Three Of A Kind ( Jd Js Jh Ts 9h )
+Shows: Weveep, 4c 7h
+Combination: Weveep, Three Of A Kind ( Jd Js Jh 9h 7h )
+Wins: Gameef, chips: 300
+Quits: Weveep, chips: 0
+Ranking: Gameef, Place: 1, Score: 1000
+Reveal AI: Gameef, AI: Random
+Ranking: Weveep, Place: 2, Score: -1000
+Reveal AI: Weveep, AI: AIMyBot1
+
+Player Stats for Gameef, AI: Random
+General: deals: 19, actions: 4, preflop actions: 4
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 17, showdown: 7, bluff: 10
+Chips: won: 4600, lost: 3600, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.210526, PFR: 0.0526316, 3Bet: 0.0526316
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.777778
+
+
+Player Stats for Weveep, AI: AIMyBot1
+General: deals: 19, actions: 11, preflop actions: 11
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1900, lost: 3100, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.0526316, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+

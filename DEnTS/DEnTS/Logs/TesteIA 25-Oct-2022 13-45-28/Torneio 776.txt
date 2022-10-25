@@ -1,0 +1,190 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Ni: Random
+Huroedoev: AIMyBot1
+
+Joins: Ni, chips: 1000
+Joins: Huroedoev, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Huroedoev, chips: 200
+Calls: Ni
+DEBUG MESSAGE: INVALID ACTION FROM Huroedoev (2 0)
+Folds: Huroedoev
+Pot size: 400
+Wins: Ni, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroedoev
+Small Blind: Huroedoev, chips: 100
+Big Blind: Ni, chips: 200
+Folds: Huroedoev
+Pot size: 300
+Boasts: Ni, 2d 7s
+Wins: Ni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Huroedoev, chips: 200
+Raises: Ni, chips: 300
+Folds: Huroedoev
+Pot size: 700
+Boasts: Ni, As 8s
+Wins: Ni, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroedoev
+Small Blind: Huroedoev, chips: 100
+Big Blind: Ni, chips: 200
+Folds: Huroedoev
+Pot size: 300
+Wins: Ni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Huroedoev, chips: 200
+Raises: Ni, chips: 300
+Folds: Huroedoev
+Pot size: 700
+Wins: Ni, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroedoev
+Small Blind: Huroedoev, chips: 100
+Big Blind: Ni, chips: 200
+Folds: Huroedoev
+Pot size: 300
+Wins: Ni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Huroedoev, chips: 100
+Flop: Kc 6c 9d
+Turn: 8d
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Ni, 8h 5s
+Combination: Ni, Pair ( 8h 8d Kc Jc 9d )
+Shows: Huroedoev, 3d 6d
+Combination: Huroedoev, Pair ( 6d 6c Kc Jc 9d )
+Wins: Ni, chips: 200
+Quits: Huroedoev, chips: 0
+Ranking: Ni, Place: 1, Score: 1000
+Reveal AI: Ni, AI: Random
+Ranking: Huroedoev, Place: 2, Score: -1000
+Reveal AI: Huroedoev, AI: AIMyBot1
+
+Player Stats for Huroedoev, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Ni, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:21
+
+The game begins. The AI's of the players are: 
+Ni: Random
+Huroedoev: AIMyBot1
+
+Joins: Ni, chips: 1000
+Joins: Huroedoev, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Huroedoev, chips: 200
+Calls: Ni
+DEBUG MESSAGE: INVALID ACTION FROM Huroedoev (2 0)
+Folds: Huroedoev
+Pot size: 400
+Wins: Ni, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroedoev
+Small Blind: Huroedoev, chips: 100
+Big Blind: Ni, chips: 200
+Folds: Huroedoev
+Pot size: 300
+Boasts: Ni, 2d 7s
+Wins: Ni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Huroedoev, chips: 200
+Raises: Ni, chips: 300
+Folds: Huroedoev
+Pot size: 700
+Boasts: Ni, As 8s
+Wins: Ni, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroedoev
+Small Blind: Huroedoev, chips: 100
+Big Blind: Ni, chips: 200
+Folds: Huroedoev
+Pot size: 300
+Wins: Ni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Huroedoev, chips: 200
+Raises: Ni, chips: 300
+Folds: Huroedoev
+Pot size: 700
+Wins: Ni, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroedoev
+Small Blind: Huroedoev, chips: 100
+Big Blind: Ni, chips: 200
+Folds: Huroedoev
+Pot size: 300
+Wins: Ni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ni
+Small Blind: Ni, chips: 100
+Big Blind: Huroedoev, chips: 100
+Flop: Kc 6c 9d
+Turn: 8d
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Ni, 8h 5s
+Combination: Ni, Pair ( 8h 8d Kc Jc 9d )
+Shows: Huroedoev, 3d 6d
+Combination: Huroedoev, Pair ( 6d 6c Kc Jc 9d )
+Wins: Ni, chips: 200
+Quits: Huroedoev, chips: 0
+Ranking: Ni, Place: 1, Score: 1000
+Reveal AI: Ni, AI: Random
+Ranking: Huroedoev, Place: 2, Score: -1000
+Reveal AI: Huroedoev, AI: AIMyBot1
+
+Player Stats for Huroedoev, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Ni, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

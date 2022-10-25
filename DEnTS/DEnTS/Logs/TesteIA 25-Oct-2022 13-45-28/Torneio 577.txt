@@ -1,0 +1,720 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Tachetry: Random
+Buvoepip: AIMyBot1
+
+Joins: Tachetry, chips: 1000
+Joins: Buvoepip, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Calls: Tachetry
+DEBUG MESSAGE: INVALID ACTION FROM Buvoepip (2 0)
+Folds: Buvoepip
+Pot size: 400
+Wins: Tachetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Calls: Tachetry
+DEBUG MESSAGE: INVALID ACTION FROM Buvoepip (2 0)
+Folds: Buvoepip
+Pot size: 400
+Wins: Tachetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Calls: Tachetry
+DEBUG MESSAGE: INVALID ACTION FROM Buvoepip (2 0)
+Folds: Buvoepip
+Pot size: 400
+Wins: Tachetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 100
+Flop: 6c Qh 9d
+Turn: 2s
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Tachetry, 8s 8d
+Combination: Tachetry, Two Pair ( 8s 8d 2s 2d Qh )
+Shows: Buvoepip, Td 9h
+Combination: Buvoepip, Two Pair ( 9h 9d 2s 2d Qh )
+Wins: Buvoepip, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 100
+Flop: 5h Kc 2s
+Turn: Jc
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Tachetry, 9s Js
+Combination: Tachetry, Pair ( Js Jc Kc 9s 7c )
+Shows: Buvoepip, 7h Kh
+Combination: Buvoepip, Two Pair ( Kh Kc 7h 7c Jc )
+Wins: Buvoepip, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Boasts: Tachetry, 9h 5c
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 100
+Flop: 8h 2h Qs
+Turn: Ts
+River: 8d
+Pot size: 200
+Showdown Reached
+Shows: Tachetry, 9c 9h
+Combination: Tachetry, Two Pair ( 9c 9h 8h 8d Qs )
+Shows: Buvoepip, 4d Tc
+Combination: Buvoepip, Two Pair ( Tc Ts 8h 8d Qs )
+Wins: Buvoepip, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 100
+Flop: 2d Qh 2h
+Turn: 2s
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Tachetry, 7c Jh
+Combination: Tachetry, Full House ( 2d 2h 2s Jh Jd )
+Shows: Buvoepip, Jc 3c
+Combination: Buvoepip, Full House ( 2d 2h 2s Jc Jd )
+Wins: Tachetry, chips: 100
+Wins: Buvoepip, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Flop: 5s Qh 6c
+Turn: 4d
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, 2d Td
+Combination: Tachetry, Pair ( 6c 6s Qh Td 5s )
+Shows: Buvoepip, 5d 8c
+Combination: Buvoepip, Two Pair ( 6c 6s 5d 5s Qh )
+Wins: Tachetry, chips: 100
+Wins: Buvoepip, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Flop: 8h 6s 9d
+Turn: Tc
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, 2s Kd
+Combination: Tachetry, High Card ( Kd Jd Tc 9d 8h )
+Shows: Buvoepip, Ks 6d
+Combination: Buvoepip, Pair ( 6d 6s Ks Jd Tc )
+Wins: Buvoepip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Boasts: Tachetry, Ac Kh
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Flop: 6c 9d Qc
+Turn: Ad
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, 7c Kc
+Combination: Tachetry, High Card ( Ad Kc Qc 9d 8s )
+Shows: Buvoepip, 4d Ah
+Combination: Buvoepip, Pair ( Ah Ad Qc 9d 8s )
+Wins: Buvoepip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Boasts: Tachetry, Ks 8s
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Flop: 2c 4h 2d
+Turn: Th
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, 9h Kc
+Combination: Tachetry, Pair ( 2c 2d Kc Th 9h )
+Shows: Buvoepip, 9c Jc
+Combination: Buvoepip, Pair ( 2c 2d Jc Th 9c )
+Wins: Tachetry, chips: 200
+Wins: Buvoepip, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Flop: Kc 8c 5c
+Turn: 2s
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, Td 9s
+Combination: Tachetry, High Card ( Kc Td 9s 8c 5c )
+Shows: Buvoepip, 8d 6d
+Combination: Buvoepip, Pair ( 8d 8c Kc 6d 5c )
+Wins: Tachetry, chips: 100
+Wins: Buvoepip, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Flop: Th Jd 7s
+Turn: 2s
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, As Jc
+Combination: Tachetry, Two Pair ( As Ac Jc Jd Th )
+Shows: Buvoepip, 2h Ts
+Combination: Buvoepip, Two Pair ( Ts Th 2h 2s Ac )
+Wins: Tachetry, chips: 200
+Wins: Buvoepip, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Flop: 2s 9c 6c
+Turn: 8h
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, Qd 5s
+Combination: Tachetry, High Card ( Qd Ts 9c 8h 6c )
+Shows: Buvoepip, 7d Qh
+Combination: Buvoepip, Straight ( Ts 9c 8h 7d 6c )
+Wins: Tachetry, chips: 100
+Wins: Buvoepip, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Flop: 2h Ac 2d
+Turn: Ad
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, 8h 7c
+Combination: Tachetry, Two Pair ( Ac Ad 8h 8d 7c )
+Shows: Buvoepip, Tc 6h
+Combination: Buvoepip, Two Pair ( Ac Ad 2h 2d Tc )
+Wins: Tachetry, chips: 200
+Wins: Buvoepip, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Flop: 4h 5s Td
+Turn: Kc
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, 3d 8s
+Combination: Tachetry, High Card ( Kc Td 9d 8s 5s )
+Shows: Buvoepip, Ks 7h
+Combination: Buvoepip, Pair ( Ks Kc Td 9d 7h )
+Wins: Tachetry, chips: 100
+Wins: Buvoepip, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Flop: As 7h 3s
+Turn: 8d
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, Kc Td
+Combination: Tachetry, High Card ( As Kc Td 9c 8d )
+Shows: Buvoepip, 9d 8s
+Combination: Buvoepip, Two Pair ( 9d 9c 8s 8d As )
+Wins: Buvoepip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Boasts: Tachetry, Kd Ad
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Flop: 3h Ks Kd
+Turn: 5d
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, 5h 9d
+Combination: Tachetry, Full House ( 5h 5d 5s Ks Kd )
+Shows: Buvoepip, 9h 8h
+Combination: Buvoepip, Two Pair ( Ks Kd 5d 5s 9h )
+Wins: Tachetry, chips: 200
+Wins: Buvoepip, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Flop: 9d Td Kc
+Turn: 4s
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, 9c 3s
+Combination: Tachetry, Pair ( 9c 9d Ad Kc Td )
+Shows: Buvoepip, Jc 5s
+Combination: Buvoepip, High Card ( Ad Kc Jc Td 9d )
+Wins: Tachetry, chips: 300
+Quits: Buvoepip, chips: 0
+Ranking: Tachetry, Place: 1, Score: 1000
+Reveal AI: Tachetry, AI: Random
+Ranking: Buvoepip, Place: 2, Score: -1000
+Reveal AI: Buvoepip, AI: AIMyBot1
+
+Player Stats for Buvoepip, AI: AIMyBot1
+General: deals: 28, actions: 12, preflop actions: 12
+Rounds Seen: flops: 16, turns: 16, rivers: 16, showdowns: 16
+Wins: total: 15, showdown: 15, bluff: 0
+Chips: won: 2800, lost: 3800, bought: 1000, forced bets: 3800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9375
+
+
+Player Stats for Tachetry, AI: Random
+General: deals: 28, actions: 3, preflop actions: 3
+Rounds Seen: flops: 16, turns: 16, rivers: 16, showdowns: 16
+Wins: total: 22, showdown: 10, bluff: 12
+Chips: won: 5500, lost: 4500, bought: 1000, forced bets: 4200
+Pre-Flop Stats: VP$IP: 0.107143, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+
+Date: 2022/10/25 13:46:07
+
+The game begins. The AI's of the players are: 
+Tachetry: Random
+Buvoepip: AIMyBot1
+
+Joins: Tachetry, chips: 1000
+Joins: Buvoepip, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Calls: Tachetry
+DEBUG MESSAGE: INVALID ACTION FROM Buvoepip (2 0)
+Folds: Buvoepip
+Pot size: 400
+Wins: Tachetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Calls: Tachetry
+DEBUG MESSAGE: INVALID ACTION FROM Buvoepip (2 0)
+Folds: Buvoepip
+Pot size: 400
+Wins: Tachetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Calls: Tachetry
+DEBUG MESSAGE: INVALID ACTION FROM Buvoepip (2 0)
+Folds: Buvoepip
+Pot size: 400
+Wins: Tachetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 100
+Flop: 6c Qh 9d
+Turn: 2s
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Tachetry, 8s 8d
+Combination: Tachetry, Two Pair ( 8s 8d 2s 2d Qh )
+Shows: Buvoepip, Td 9h
+Combination: Buvoepip, Two Pair ( 9h 9d 2s 2d Qh )
+Wins: Buvoepip, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 100
+Flop: 5h Kc 2s
+Turn: Jc
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Tachetry, 9s Js
+Combination: Tachetry, Pair ( Js Jc Kc 9s 7c )
+Shows: Buvoepip, 7h Kh
+Combination: Buvoepip, Two Pair ( Kh Kc 7h 7c Jc )
+Wins: Buvoepip, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Boasts: Tachetry, 9h 5c
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 100
+Flop: 8h 2h Qs
+Turn: Ts
+River: 8d
+Pot size: 200
+Showdown Reached
+Shows: Tachetry, 9c 9h
+Combination: Tachetry, Two Pair ( 9c 9h 8h 8d Qs )
+Shows: Buvoepip, 4d Tc
+Combination: Buvoepip, Two Pair ( Tc Ts 8h 8d Qs )
+Wins: Buvoepip, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 100
+Flop: 2d Qh 2h
+Turn: 2s
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Tachetry, 7c Jh
+Combination: Tachetry, Full House ( 2d 2h 2s Jh Jd )
+Shows: Buvoepip, Jc 3c
+Combination: Buvoepip, Full House ( 2d 2h 2s Jc Jd )
+Wins: Tachetry, chips: 100
+Wins: Buvoepip, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Flop: 5s Qh 6c
+Turn: 4d
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, 2d Td
+Combination: Tachetry, Pair ( 6c 6s Qh Td 5s )
+Shows: Buvoepip, 5d 8c
+Combination: Buvoepip, Two Pair ( 6c 6s 5d 5s Qh )
+Wins: Tachetry, chips: 100
+Wins: Buvoepip, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Flop: 8h 6s 9d
+Turn: Tc
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, 2s Kd
+Combination: Tachetry, High Card ( Kd Jd Tc 9d 8h )
+Shows: Buvoepip, Ks 6d
+Combination: Buvoepip, Pair ( 6d 6s Ks Jd Tc )
+Wins: Buvoepip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Boasts: Tachetry, Ac Kh
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Flop: 6c 9d Qc
+Turn: Ad
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, 7c Kc
+Combination: Tachetry, High Card ( Ad Kc Qc 9d 8s )
+Shows: Buvoepip, 4d Ah
+Combination: Buvoepip, Pair ( Ah Ad Qc 9d 8s )
+Wins: Buvoepip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Boasts: Tachetry, Ks 8s
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Flop: 2c 4h 2d
+Turn: Th
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, 9h Kc
+Combination: Tachetry, Pair ( 2c 2d Kc Th 9h )
+Shows: Buvoepip, 9c Jc
+Combination: Buvoepip, Pair ( 2c 2d Jc Th 9c )
+Wins: Tachetry, chips: 200
+Wins: Buvoepip, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Flop: Kc 8c 5c
+Turn: 2s
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, Td 9s
+Combination: Tachetry, High Card ( Kc Td 9s 8c 5c )
+Shows: Buvoepip, 8d 6d
+Combination: Buvoepip, Pair ( 8d 8c Kc 6d 5c )
+Wins: Tachetry, chips: 100
+Wins: Buvoepip, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Flop: Th Jd 7s
+Turn: 2s
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, As Jc
+Combination: Tachetry, Two Pair ( As Ac Jc Jd Th )
+Shows: Buvoepip, 2h Ts
+Combination: Buvoepip, Two Pair ( Ts Th 2h 2s Ac )
+Wins: Tachetry, chips: 200
+Wins: Buvoepip, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Flop: 2s 9c 6c
+Turn: 8h
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, Qd 5s
+Combination: Tachetry, High Card ( Qd Ts 9c 8h 6c )
+Shows: Buvoepip, 7d Qh
+Combination: Buvoepip, Straight ( Ts 9c 8h 7d 6c )
+Wins: Tachetry, chips: 100
+Wins: Buvoepip, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Flop: 2h Ac 2d
+Turn: Ad
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, 8h 7c
+Combination: Tachetry, Two Pair ( Ac Ad 8h 8d 7c )
+Shows: Buvoepip, Tc 6h
+Combination: Buvoepip, Two Pair ( Ac Ad 2h 2d Tc )
+Wins: Tachetry, chips: 200
+Wins: Buvoepip, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Flop: 4h 5s Td
+Turn: Kc
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, 3d 8s
+Combination: Tachetry, High Card ( Kc Td 9d 8s 5s )
+Shows: Buvoepip, Ks 7h
+Combination: Buvoepip, Pair ( Ks Kc Td 9d 7h )
+Wins: Tachetry, chips: 100
+Wins: Buvoepip, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Flop: As 7h 3s
+Turn: 8d
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, Kc Td
+Combination: Tachetry, High Card ( As Kc Td 9c 8d )
+Shows: Buvoepip, 9d 8s
+Combination: Buvoepip, Two Pair ( 9d 9c 8s 8d As )
+Wins: Buvoepip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Folds: Buvoepip
+Pot size: 300
+Boasts: Tachetry, Kd Ad
+Wins: Tachetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tachetry
+Small Blind: Tachetry, chips: 100
+Big Blind: Buvoepip, chips: 200
+Flop: 3h Ks Kd
+Turn: 5d
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, 5h 9d
+Combination: Tachetry, Full House ( 5h 5d 5s Ks Kd )
+Shows: Buvoepip, 9h 8h
+Combination: Buvoepip, Two Pair ( Ks Kd 5d 5s 9h )
+Wins: Tachetry, chips: 200
+Wins: Buvoepip, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buvoepip
+Small Blind: Buvoepip, chips: 100
+Big Blind: Tachetry, chips: 200
+Flop: 9d Td Kc
+Turn: 4s
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Tachetry, 9c 3s
+Combination: Tachetry, Pair ( 9c 9d Ad Kc Td )
+Shows: Buvoepip, Jc 5s
+Combination: Buvoepip, High Card ( Ad Kc Jc Td 9d )
+Wins: Tachetry, chips: 300
+Quits: Buvoepip, chips: 0
+Ranking: Tachetry, Place: 1, Score: 1000
+Reveal AI: Tachetry, AI: Random
+Ranking: Buvoepip, Place: 2, Score: -1000
+Reveal AI: Buvoepip, AI: AIMyBot1
+
+Player Stats for Buvoepip, AI: AIMyBot1
+General: deals: 28, actions: 12, preflop actions: 12
+Rounds Seen: flops: 16, turns: 16, rivers: 16, showdowns: 16
+Wins: total: 15, showdown: 15, bluff: 0
+Chips: won: 2800, lost: 3800, bought: 1000, forced bets: 3800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9375
+
+
+Player Stats for Tachetry, AI: Random
+General: deals: 28, actions: 3, preflop actions: 3
+Rounds Seen: flops: 16, turns: 16, rivers: 16, showdowns: 16
+Wins: total: 22, showdown: 10, bluff: 12
+Chips: won: 5500, lost: 4500, bought: 1000, forced bets: 4200
+Pre-Flop Stats: VP$IP: 0.107143, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+

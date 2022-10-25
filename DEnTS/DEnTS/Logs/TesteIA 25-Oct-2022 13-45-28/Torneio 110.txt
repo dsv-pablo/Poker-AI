@@ -1,0 +1,256 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Bettos: AIMyBot1
+Reenhunat: Random
+
+Joins: Bettos, chips: 1000
+Joins: Reenhunat, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bettos
+Small Blind: Bettos, chips: 100
+Big Blind: Reenhunat, chips: 200
+Folds: Bettos
+Pot size: 300
+Boasts: Reenhunat, 6d 3h
+Wins: Reenhunat, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reenhunat
+Small Blind: Reenhunat, chips: 100
+Big Blind: Bettos, chips: 200
+Folds: Reenhunat
+Pot size: 300
+Boasts: Reenhunat, Ad Ts
+Wins: Bettos, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bettos
+Small Blind: Bettos, chips: 100
+Big Blind: Reenhunat, chips: 200
+Folds: Bettos
+Pot size: 300
+Wins: Reenhunat, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reenhunat
+Small Blind: Reenhunat, chips: 100
+Big Blind: Bettos, chips: 200
+Calls: Reenhunat
+DEBUG MESSAGE: INVALID ACTION FROM Bettos (2 0)
+Folds: Bettos
+Pot size: 400
+Boasts: Reenhunat, Kh 4h
+Wins: Reenhunat, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bettos
+Small Blind: Bettos, chips: 100
+Big Blind: Reenhunat, chips: 200
+Folds: Bettos
+Pot size: 300
+Wins: Reenhunat, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reenhunat
+Small Blind: Reenhunat, chips: 100
+Big Blind: Bettos, chips: 200
+Folds: Reenhunat
+Pot size: 300
+Wins: Bettos, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bettos
+Small Blind: Bettos, chips: 100
+Big Blind: Reenhunat, chips: 200
+Folds: Bettos
+Pot size: 300
+Boasts: Reenhunat, 4h 4d
+Wins: Reenhunat, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reenhunat
+Small Blind: Reenhunat, chips: 100
+Big Blind: Bettos, chips: 200
+Raises: Reenhunat, chips: 300
+Folds: Bettos
+Pot size: 700
+Wins: Reenhunat, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bettos
+Small Blind: Bettos, chips: 100
+Big Blind: Reenhunat, chips: 200
+Folds: Bettos
+Pot size: 300
+Boasts: Reenhunat, Jd Jh
+Wins: Reenhunat, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reenhunat
+Small Blind: Reenhunat, chips: 100
+Big Blind: Bettos, chips: 200
+Calls: Reenhunat
+DEBUG MESSAGE: INVALID ACTION FROM Bettos (2 0)
+Folds: Bettos
+Pot size: 400
+Boasts: Reenhunat, 2c 9s
+Wins: Reenhunat, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bettos
+Small Blind: Bettos, chips: 100
+Big Blind: Reenhunat, chips: 200
+Flop: 9h Kc Ah
+Turn: Td
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Bettos, 5c 6h
+Combination: Bettos, High Card ( Ah Kc Td 9h 8h )
+Shows: Reenhunat, 2h 9s
+Combination: Reenhunat, Pair ( 9s 9h Ah Kc Td )
+Wins: Reenhunat, chips: 300
+Quits: Bettos, chips: 0
+Ranking: Reenhunat, Place: 1, Score: 1000
+Reveal AI: Reenhunat, AI: Random
+Ranking: Bettos, Place: 2, Score: -1000
+Reveal AI: Bettos, AI: AIMyBot1
+
+Player Stats for Bettos, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Reenhunat, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:37
+
+The game begins. The AI's of the players are: 
+Bettos: AIMyBot1
+Reenhunat: Random
+
+Joins: Bettos, chips: 1000
+Joins: Reenhunat, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bettos
+Small Blind: Bettos, chips: 100
+Big Blind: Reenhunat, chips: 200
+Folds: Bettos
+Pot size: 300
+Boasts: Reenhunat, 6d 3h
+Wins: Reenhunat, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reenhunat
+Small Blind: Reenhunat, chips: 100
+Big Blind: Bettos, chips: 200
+Folds: Reenhunat
+Pot size: 300
+Boasts: Reenhunat, Ad Ts
+Wins: Bettos, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bettos
+Small Blind: Bettos, chips: 100
+Big Blind: Reenhunat, chips: 200
+Folds: Bettos
+Pot size: 300
+Wins: Reenhunat, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reenhunat
+Small Blind: Reenhunat, chips: 100
+Big Blind: Bettos, chips: 200
+Calls: Reenhunat
+DEBUG MESSAGE: INVALID ACTION FROM Bettos (2 0)
+Folds: Bettos
+Pot size: 400
+Boasts: Reenhunat, Kh 4h
+Wins: Reenhunat, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bettos
+Small Blind: Bettos, chips: 100
+Big Blind: Reenhunat, chips: 200
+Folds: Bettos
+Pot size: 300
+Wins: Reenhunat, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reenhunat
+Small Blind: Reenhunat, chips: 100
+Big Blind: Bettos, chips: 200
+Folds: Reenhunat
+Pot size: 300
+Wins: Bettos, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bettos
+Small Blind: Bettos, chips: 100
+Big Blind: Reenhunat, chips: 200
+Folds: Bettos
+Pot size: 300
+Boasts: Reenhunat, 4h 4d
+Wins: Reenhunat, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reenhunat
+Small Blind: Reenhunat, chips: 100
+Big Blind: Bettos, chips: 200
+Raises: Reenhunat, chips: 300
+Folds: Bettos
+Pot size: 700
+Wins: Reenhunat, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bettos
+Small Blind: Bettos, chips: 100
+Big Blind: Reenhunat, chips: 200
+Folds: Bettos
+Pot size: 300
+Boasts: Reenhunat, Jd Jh
+Wins: Reenhunat, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reenhunat
+Small Blind: Reenhunat, chips: 100
+Big Blind: Bettos, chips: 200
+Calls: Reenhunat
+DEBUG MESSAGE: INVALID ACTION FROM Bettos (2 0)
+Folds: Bettos
+Pot size: 400
+Boasts: Reenhunat, 2c 9s
+Wins: Reenhunat, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bettos
+Small Blind: Bettos, chips: 100
+Big Blind: Reenhunat, chips: 200
+Flop: 9h Kc Ah
+Turn: Td
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Bettos, 5c 6h
+Combination: Bettos, High Card ( Ah Kc Td 9h 8h )
+Shows: Reenhunat, 2h 9s
+Combination: Reenhunat, Pair ( 9s 9h Ah Kc Td )
+Wins: Reenhunat, chips: 300
+Quits: Bettos, chips: 0
+Ranking: Reenhunat, Place: 1, Score: 1000
+Reveal AI: Reenhunat, AI: Random
+Ranking: Bettos, Place: 2, Score: -1000
+Reveal AI: Bettos, AI: AIMyBot1
+
+Player Stats for Bettos, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Reenhunat, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

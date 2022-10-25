@@ -1,0 +1,352 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Kunes: Random
+Goega: AIMyBot1
+
+Joins: Kunes, chips: 1000
+Joins: Goega, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goega
+Small Blind: Goega, chips: 100
+Big Blind: Kunes, chips: 200
+Folds: Goega
+Pot size: 300
+Wins: Kunes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunes
+Small Blind: Kunes, chips: 100
+Big Blind: Goega, chips: 200
+Calls: Kunes
+DEBUG MESSAGE: INVALID ACTION FROM Goega (2 0)
+Folds: Goega
+Pot size: 400
+Wins: Kunes, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goega
+Small Blind: Goega, chips: 100
+Big Blind: Kunes, chips: 200
+Folds: Goega
+Pot size: 300
+Boasts: Kunes, 6d 8d
+Wins: Kunes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunes
+Small Blind: Kunes, chips: 100
+Big Blind: Goega, chips: 200
+Calls: Kunes
+DEBUG MESSAGE: INVALID ACTION FROM Goega (2 0)
+Folds: Goega
+Pot size: 400
+Wins: Kunes, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goega
+Small Blind: Goega, chips: 100
+Big Blind: Kunes, chips: 200
+Folds: Goega
+Pot size: 300
+Wins: Kunes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunes
+Small Blind: Kunes, chips: 100
+Big Blind: Goega, chips: 200
+Raises: Kunes, chips: 300
+Folds: Goega
+Pot size: 700
+Wins: Kunes, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goega
+Small Blind: Goega, chips: 100
+Big Blind: Kunes, chips: 200
+Flop: 8h 9c 3h
+Turn: As
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Kunes, Kc 2h
+Combination: Kunes, High Card ( As Kc 9c 8h 4c )
+Shows: Goega, Ks 9d
+Combination: Goega, Pair ( 9d 9c As Ks 8h )
+Wins: Kunes, chips: 100
+Wins: Goega, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunes
+Small Blind: Kunes, chips: 100
+Big Blind: Goega, chips: 200
+Flop: 7s 5d 5c
+Turn: Td
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Kunes, Kc 9s
+Combination: Kunes, Pair ( 5d 5c Kc Qd Td )
+Shows: Goega, Jc Ah
+Combination: Goega, Pair ( 5d 5c Ah Qd Jc )
+Wins: Goega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goega
+Small Blind: Goega, chips: 100
+Big Blind: Kunes, chips: 200
+Folds: Goega
+Pot size: 300
+Wins: Kunes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunes
+Small Blind: Kunes, chips: 100
+Big Blind: Goega, chips: 200
+Flop: 7h Kh 3h
+Turn: 8s
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Kunes, 2d Ac
+Combination: Kunes, Pair ( 7h 7c Ac Kh 8s )
+Shows: Goega, 6h 9c
+Combination: Goega, Pair ( 7h 7c Kh 9c 8s )
+Wins: Kunes, chips: 200
+Wins: Goega, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goega
+Small Blind: Goega, chips: 100
+Big Blind: Kunes, chips: 200
+Flop: 8d 9h Ah
+Turn: 7h
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Kunes, 4c 5c
+Combination: Kunes, High Card ( Ah Kh 9h 8d 7h )
+Shows: Goega, Ts 8c
+Combination: Goega, Pair ( 8c 8d Ah Kh Ts )
+Wins: Kunes, chips: 100
+Wins: Goega, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunes
+Small Blind: Kunes, chips: 100
+Big Blind: Goega, chips: 200
+Flop: Jh Ad 3c
+Turn: 6h
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Kunes, 2h 4h
+Combination: Kunes, Flush ( Kh Jh 6h 4h 2h )
+Shows: Goega, 8d 4s
+Combination: Goega, High Card ( Ad Kh Jh 8d 6h )
+Wins: Kunes, chips: 200
+Wins: Goega, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goega
+Small Blind: Goega, chips: 100
+Big Blind: Kunes, chips: 200
+Flop: 6s 2s Ah
+Turn: 5c
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Kunes, 6d Ac
+Combination: Kunes, Two Pair ( Ac Ah 6d 6s 5c )
+Shows: Goega, Jh Th
+Combination: Goega, High Card ( Ah Jh Th 6s 5c )
+Wins: Kunes, chips: 300
+Quits: Goega, chips: 0
+Ranking: Kunes, Place: 1, Score: 1000
+Reveal AI: Kunes, AI: Random
+Ranking: Goega, Place: 2, Score: -1000
+Reveal AI: Goega, AI: AIMyBot1
+
+Player Stats for Goega, AI: AIMyBot1
+General: deals: 13, actions: 7, preflop actions: 7
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Kunes, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 5, bluff: 7
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:46:05
+
+The game begins. The AI's of the players are: 
+Kunes: Random
+Goega: AIMyBot1
+
+Joins: Kunes, chips: 1000
+Joins: Goega, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goega
+Small Blind: Goega, chips: 100
+Big Blind: Kunes, chips: 200
+Folds: Goega
+Pot size: 300
+Wins: Kunes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunes
+Small Blind: Kunes, chips: 100
+Big Blind: Goega, chips: 200
+Calls: Kunes
+DEBUG MESSAGE: INVALID ACTION FROM Goega (2 0)
+Folds: Goega
+Pot size: 400
+Wins: Kunes, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goega
+Small Blind: Goega, chips: 100
+Big Blind: Kunes, chips: 200
+Folds: Goega
+Pot size: 300
+Boasts: Kunes, 6d 8d
+Wins: Kunes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunes
+Small Blind: Kunes, chips: 100
+Big Blind: Goega, chips: 200
+Calls: Kunes
+DEBUG MESSAGE: INVALID ACTION FROM Goega (2 0)
+Folds: Goega
+Pot size: 400
+Wins: Kunes, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goega
+Small Blind: Goega, chips: 100
+Big Blind: Kunes, chips: 200
+Folds: Goega
+Pot size: 300
+Wins: Kunes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunes
+Small Blind: Kunes, chips: 100
+Big Blind: Goega, chips: 200
+Raises: Kunes, chips: 300
+Folds: Goega
+Pot size: 700
+Wins: Kunes, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goega
+Small Blind: Goega, chips: 100
+Big Blind: Kunes, chips: 200
+Flop: 8h 9c 3h
+Turn: As
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Kunes, Kc 2h
+Combination: Kunes, High Card ( As Kc 9c 8h 4c )
+Shows: Goega, Ks 9d
+Combination: Goega, Pair ( 9d 9c As Ks 8h )
+Wins: Kunes, chips: 100
+Wins: Goega, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunes
+Small Blind: Kunes, chips: 100
+Big Blind: Goega, chips: 200
+Flop: 7s 5d 5c
+Turn: Td
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Kunes, Kc 9s
+Combination: Kunes, Pair ( 5d 5c Kc Qd Td )
+Shows: Goega, Jc Ah
+Combination: Goega, Pair ( 5d 5c Ah Qd Jc )
+Wins: Goega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goega
+Small Blind: Goega, chips: 100
+Big Blind: Kunes, chips: 200
+Folds: Goega
+Pot size: 300
+Wins: Kunes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunes
+Small Blind: Kunes, chips: 100
+Big Blind: Goega, chips: 200
+Flop: 7h Kh 3h
+Turn: 8s
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Kunes, 2d Ac
+Combination: Kunes, Pair ( 7h 7c Ac Kh 8s )
+Shows: Goega, 6h 9c
+Combination: Goega, Pair ( 7h 7c Kh 9c 8s )
+Wins: Kunes, chips: 200
+Wins: Goega, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goega
+Small Blind: Goega, chips: 100
+Big Blind: Kunes, chips: 200
+Flop: 8d 9h Ah
+Turn: 7h
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Kunes, 4c 5c
+Combination: Kunes, High Card ( Ah Kh 9h 8d 7h )
+Shows: Goega, Ts 8c
+Combination: Goega, Pair ( 8c 8d Ah Kh Ts )
+Wins: Kunes, chips: 100
+Wins: Goega, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kunes
+Small Blind: Kunes, chips: 100
+Big Blind: Goega, chips: 200
+Flop: Jh Ad 3c
+Turn: 6h
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Kunes, 2h 4h
+Combination: Kunes, Flush ( Kh Jh 6h 4h 2h )
+Shows: Goega, 8d 4s
+Combination: Goega, High Card ( Ad Kh Jh 8d 6h )
+Wins: Kunes, chips: 200
+Wins: Goega, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goega
+Small Blind: Goega, chips: 100
+Big Blind: Kunes, chips: 200
+Flop: 6s 2s Ah
+Turn: 5c
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Kunes, 6d Ac
+Combination: Kunes, Two Pair ( Ac Ah 6d 6s 5c )
+Shows: Goega, Jh Th
+Combination: Goega, High Card ( Ah Jh Th 6s 5c )
+Wins: Kunes, chips: 300
+Quits: Goega, chips: 0
+Ranking: Kunes, Place: 1, Score: 1000
+Reveal AI: Kunes, AI: Random
+Ranking: Goega, Place: 2, Score: -1000
+Reveal AI: Goega, AI: AIMyBot1
+
+Player Stats for Goega, AI: AIMyBot1
+General: deals: 13, actions: 7, preflop actions: 7
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Kunes, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 5, bluff: 7
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

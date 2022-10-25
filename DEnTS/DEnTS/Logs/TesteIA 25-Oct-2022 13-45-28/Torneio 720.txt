@@ -1,0 +1,740 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gopoe: Random
+Gilu: AIMyBot1
+
+Joins: Gopoe, chips: 1000
+Joins: Gilu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Boasts: Gopoe, Th Ah
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Raises: Gopoe, chips: 300
+Folds: Gilu
+Pot size: 700
+Wins: Gopoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Folds: Gopoe
+Pot size: 300
+Wins: Gilu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Boasts: Gopoe, 4h 2h
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Calls: Gopoe
+DEBUG MESSAGE: INVALID ACTION FROM Gilu (2 0)
+Folds: Gilu
+Pot size: 400
+Boasts: Gopoe, Qs Ad
+Wins: Gopoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Calls: Gopoe
+DEBUG MESSAGE: INVALID ACTION FROM Gilu (2 0)
+Folds: Gilu
+Pot size: 400
+Boasts: Gopoe, 3s Qh
+Wins: Gopoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Flop: 3d 7c Ad
+Turn: 7s
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, Kc 8h
+Combination: Gopoe, Pair ( 7c 7s Ad Kc Jh )
+Shows: Gilu, 4h 3h
+Combination: Gilu, Two Pair ( 7c 7s 3h 3d Ad )
+Wins: Gopoe, chips: 100
+Wins: Gilu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: 2d 8c 7h
+Turn: 4d
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 9s 6h
+Combination: Gopoe, Pair ( 9s 9h 8c 7h 6h )
+Shows: Gilu, 2s Js
+Combination: Gilu, Pair ( 2s 2d Js 9h 8c )
+Wins: Gopoe, chips: 200
+Wins: Gilu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Flop: Jc 3h 5c
+Turn: 2h
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 3d Kh
+Combination: Gopoe, Pair ( 3d 3h Kh Jc 7d )
+Shows: Gilu, Qc 5d
+Combination: Gilu, Pair ( 5d 5c Qc Jc 7d )
+Wins: Gopoe, chips: 100
+Wins: Gilu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: 7c Ac 7d
+Turn: 6d
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 4h Kc
+Combination: Gopoe, Pair ( 7c 7d Ac Kc Js )
+Shows: Gilu, Kd Jd
+Combination: Gilu, Two Pair ( Jd Js 7c 7d Ac )
+Wins: Gilu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: 6h 9s 3h
+Turn: Qh
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 9c Kd
+Combination: Gopoe, Pair ( 9c 9s Ac Kd Qh )
+Shows: Gilu, 6s 6c
+Combination: Gilu, Three Of A Kind ( 6s 6c 6h Ac Qh )
+Wins: Gilu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Boasts: Gopoe, 9s Qd
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: 5d Qh 7s
+Turn: 9h
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 8d Qs
+Combination: Gopoe, Pair ( Qs Qh 9h 8d 7s )
+Shows: Gilu, 3h 6h
+Combination: Gilu, High Card ( Qh 9h 7s 6h 5d )
+Wins: Gopoe, chips: 200
+Wins: Gilu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Flop: Qd 6d 4h
+Turn: 9s
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 4s Ah
+Combination: Gopoe, Pair ( 4s 4h Ah Qd 9s )
+Shows: Gilu, Ad 6h
+Combination: Gilu, Pair ( 6h 6d Ad Qd 9s )
+Wins: Gopoe, chips: 100
+Wins: Gilu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: Qc 2c 5c
+Turn: 9d
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 9c 7c
+Combination: Gopoe, Flush ( Qc 9c 7c 5c 2c )
+Shows: Gilu, 3d 4s
+Combination: Gilu, High Card ( Qc Jh 9d 5c 4s )
+Wins: Gopoe, chips: 200
+Wins: Gilu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Flop: 5d 2c 7h
+Turn: 3s
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, Th 9c
+Combination: Gopoe, Pair ( 9c 9h Th 7h 5d )
+Shows: Gilu, 4h As
+Combination: Gilu, Straight ( 5d 4h 3s 2c As )
+Wins: Gopoe, chips: 100
+Wins: Gilu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: Qc 4s Jd
+Turn: Qd
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, Js 8c
+Combination: Gopoe, Two Pair ( Qc Qd Js Jd 8c )
+Shows: Gilu, Qh 2d
+Combination: Gilu, Three Of A Kind ( Qh Qc Qd Jd 7c )
+Wins: Gilu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Boasts: Gopoe, Ad 5c
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: Kh 5d 4s
+Turn: 6c
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, Jd 8s
+Combination: Gopoe, High Card ( Kh Jd 8s 6c 5d )
+Shows: Gilu, Kc 5c
+Combination: Gilu, Two Pair ( Kc Kh 5c 5d 6c )
+Wins: Gilu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: Jh 6h 5c
+Turn: 9s
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, Qd 4s
+Combination: Gopoe, Pair ( 5c 5s Qd Jh 9s )
+Shows: Gilu, Jc Ah
+Combination: Gilu, Two Pair ( Jc Jh 5c 5s Ah )
+Wins: Gilu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Boasts: Gopoe, 8d 7d
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: Td 6c 4h
+Turn: Jc
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 9s 2h
+Combination: Gopoe, Pair ( 9s 9d Jc Td 6c )
+Shows: Gilu, 3c 2s
+Combination: Gilu, High Card ( Jc Td 9d 6c 4h )
+Wins: Gopoe, chips: 200
+Wins: Gilu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Flop: Kc 9h Jc
+Turn: 2c
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 5s 4h
+Combination: Gopoe, Pair ( 4h 4s Kc Jc 9h )
+Shows: Gilu, 4d 2h
+Combination: Gilu, Two Pair ( 4d 4s 2h 2c Kc )
+Wins: Gopoe, chips: 100
+Wins: Gilu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: 7c 4h 8s
+Turn: Js
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 8h 2c
+Combination: Gopoe, Pair ( 8h 8s Ks Js 7c )
+Shows: Gilu, Tc 3c
+Combination: Gilu, High Card ( Ks Js Tc 8s 7c )
+Wins: Gopoe, chips: 200
+Wins: Gilu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Flop: Tc 5s Qc
+Turn: As
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, Qs 5d
+Combination: Gopoe, Two Pair ( Qs Qc 5d 5s As )
+Shows: Gilu, 4c 8h
+Combination: Gilu, High Card ( As Kh Qc Tc 8h )
+Wins: Gopoe, chips: 300
+Quits: Gilu, chips: 0
+Ranking: Gopoe, Place: 1, Score: 1000
+Reveal AI: Gopoe, AI: Random
+Ranking: Gilu, Place: 2, Score: -1000
+Reveal AI: Gilu, AI: AIMyBot1
+
+Player Stats for Gilu, AI: AIMyBot1
+General: deals: 29, actions: 12, preflop actions: 12
+Rounds Seen: flops: 16, turns: 16, rivers: 16, showdowns: 16
+Wins: total: 16, showdown: 15, bluff: 1
+Chips: won: 3300, lost: 4300, bought: 1000, forced bets: 4300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9375
+
+
+Player Stats for Gopoe, AI: Random
+General: deals: 29, actions: 4, preflop actions: 4
+Rounds Seen: flops: 16, turns: 16, rivers: 16, showdowns: 16
+Wins: total: 23, showdown: 11, bluff: 12
+Chips: won: 6000, lost: 5000, bought: 1000, forced bets: 4400
+Pre-Flop Stats: VP$IP: 0.103448, PFR: 0.0344828, 3Bet: 0.0344828
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6875
+
+
+Date: 2022/10/25 13:46:17
+
+The game begins. The AI's of the players are: 
+Gopoe: Random
+Gilu: AIMyBot1
+
+Joins: Gopoe, chips: 1000
+Joins: Gilu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Boasts: Gopoe, Th Ah
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Raises: Gopoe, chips: 300
+Folds: Gilu
+Pot size: 700
+Wins: Gopoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Folds: Gopoe
+Pot size: 300
+Wins: Gilu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Boasts: Gopoe, 4h 2h
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Calls: Gopoe
+DEBUG MESSAGE: INVALID ACTION FROM Gilu (2 0)
+Folds: Gilu
+Pot size: 400
+Boasts: Gopoe, Qs Ad
+Wins: Gopoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Calls: Gopoe
+DEBUG MESSAGE: INVALID ACTION FROM Gilu (2 0)
+Folds: Gilu
+Pot size: 400
+Boasts: Gopoe, 3s Qh
+Wins: Gopoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Flop: 3d 7c Ad
+Turn: 7s
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, Kc 8h
+Combination: Gopoe, Pair ( 7c 7s Ad Kc Jh )
+Shows: Gilu, 4h 3h
+Combination: Gilu, Two Pair ( 7c 7s 3h 3d Ad )
+Wins: Gopoe, chips: 100
+Wins: Gilu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: 2d 8c 7h
+Turn: 4d
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 9s 6h
+Combination: Gopoe, Pair ( 9s 9h 8c 7h 6h )
+Shows: Gilu, 2s Js
+Combination: Gilu, Pair ( 2s 2d Js 9h 8c )
+Wins: Gopoe, chips: 200
+Wins: Gilu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Flop: Jc 3h 5c
+Turn: 2h
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 3d Kh
+Combination: Gopoe, Pair ( 3d 3h Kh Jc 7d )
+Shows: Gilu, Qc 5d
+Combination: Gilu, Pair ( 5d 5c Qc Jc 7d )
+Wins: Gopoe, chips: 100
+Wins: Gilu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: 7c Ac 7d
+Turn: 6d
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 4h Kc
+Combination: Gopoe, Pair ( 7c 7d Ac Kc Js )
+Shows: Gilu, Kd Jd
+Combination: Gilu, Two Pair ( Jd Js 7c 7d Ac )
+Wins: Gilu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: 6h 9s 3h
+Turn: Qh
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 9c Kd
+Combination: Gopoe, Pair ( 9c 9s Ac Kd Qh )
+Shows: Gilu, 6s 6c
+Combination: Gilu, Three Of A Kind ( 6s 6c 6h Ac Qh )
+Wins: Gilu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Boasts: Gopoe, 9s Qd
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: 5d Qh 7s
+Turn: 9h
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 8d Qs
+Combination: Gopoe, Pair ( Qs Qh 9h 8d 7s )
+Shows: Gilu, 3h 6h
+Combination: Gilu, High Card ( Qh 9h 7s 6h 5d )
+Wins: Gopoe, chips: 200
+Wins: Gilu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Flop: Qd 6d 4h
+Turn: 9s
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 4s Ah
+Combination: Gopoe, Pair ( 4s 4h Ah Qd 9s )
+Shows: Gilu, Ad 6h
+Combination: Gilu, Pair ( 6h 6d Ad Qd 9s )
+Wins: Gopoe, chips: 100
+Wins: Gilu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: Qc 2c 5c
+Turn: 9d
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 9c 7c
+Combination: Gopoe, Flush ( Qc 9c 7c 5c 2c )
+Shows: Gilu, 3d 4s
+Combination: Gilu, High Card ( Qc Jh 9d 5c 4s )
+Wins: Gopoe, chips: 200
+Wins: Gilu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Flop: 5d 2c 7h
+Turn: 3s
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, Th 9c
+Combination: Gopoe, Pair ( 9c 9h Th 7h 5d )
+Shows: Gilu, 4h As
+Combination: Gilu, Straight ( 5d 4h 3s 2c As )
+Wins: Gopoe, chips: 100
+Wins: Gilu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: Qc 4s Jd
+Turn: Qd
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, Js 8c
+Combination: Gopoe, Two Pair ( Qc Qd Js Jd 8c )
+Shows: Gilu, Qh 2d
+Combination: Gilu, Three Of A Kind ( Qh Qc Qd Jd 7c )
+Wins: Gilu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Boasts: Gopoe, Ad 5c
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: Kh 5d 4s
+Turn: 6c
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, Jd 8s
+Combination: Gopoe, High Card ( Kh Jd 8s 6c 5d )
+Shows: Gilu, Kc 5c
+Combination: Gilu, Two Pair ( Kc Kh 5c 5d 6c )
+Wins: Gilu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: Jh 6h 5c
+Turn: 9s
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, Qd 4s
+Combination: Gopoe, Pair ( 5c 5s Qd Jh 9s )
+Shows: Gilu, Jc Ah
+Combination: Gilu, Two Pair ( Jc Jh 5c 5s Ah )
+Wins: Gilu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Folds: Gilu
+Pot size: 300
+Boasts: Gopoe, 8d 7d
+Wins: Gopoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: Td 6c 4h
+Turn: Jc
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 9s 2h
+Combination: Gopoe, Pair ( 9s 9d Jc Td 6c )
+Shows: Gilu, 3c 2s
+Combination: Gilu, High Card ( Jc Td 9d 6c 4h )
+Wins: Gopoe, chips: 200
+Wins: Gilu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Flop: Kc 9h Jc
+Turn: 2c
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 5s 4h
+Combination: Gopoe, Pair ( 4h 4s Kc Jc 9h )
+Shows: Gilu, 4d 2h
+Combination: Gilu, Two Pair ( 4d 4s 2h 2c Kc )
+Wins: Gopoe, chips: 100
+Wins: Gilu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gopoe
+Small Blind: Gopoe, chips: 100
+Big Blind: Gilu, chips: 200
+Flop: 7c 4h 8s
+Turn: Js
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, 8h 2c
+Combination: Gopoe, Pair ( 8h 8s Ks Js 7c )
+Shows: Gilu, Tc 3c
+Combination: Gilu, High Card ( Ks Js Tc 8s 7c )
+Wins: Gopoe, chips: 200
+Wins: Gilu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gilu
+Small Blind: Gilu, chips: 100
+Big Blind: Gopoe, chips: 200
+Flop: Tc 5s Qc
+Turn: As
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Gopoe, Qs 5d
+Combination: Gopoe, Two Pair ( Qs Qc 5d 5s As )
+Shows: Gilu, 4c 8h
+Combination: Gilu, High Card ( As Kh Qc Tc 8h )
+Wins: Gopoe, chips: 300
+Quits: Gilu, chips: 0
+Ranking: Gopoe, Place: 1, Score: 1000
+Reveal AI: Gopoe, AI: Random
+Ranking: Gilu, Place: 2, Score: -1000
+Reveal AI: Gilu, AI: AIMyBot1
+
+Player Stats for Gilu, AI: AIMyBot1
+General: deals: 29, actions: 12, preflop actions: 12
+Rounds Seen: flops: 16, turns: 16, rivers: 16, showdowns: 16
+Wins: total: 16, showdown: 15, bluff: 1
+Chips: won: 3300, lost: 4300, bought: 1000, forced bets: 4300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9375
+
+
+Player Stats for Gopoe, AI: Random
+General: deals: 29, actions: 4, preflop actions: 4
+Rounds Seen: flops: 16, turns: 16, rivers: 16, showdowns: 16
+Wins: total: 23, showdown: 11, bluff: 12
+Chips: won: 6000, lost: 5000, bought: 1000, forced bets: 4400
+Pre-Flop Stats: VP$IP: 0.103448, PFR: 0.0344828, 3Bet: 0.0344828
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6875
+
+

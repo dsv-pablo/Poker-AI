@@ -1,0 +1,190 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Roemet: Random
+Joe: AIMyBot1
+
+Joins: Roemet, chips: 1000
+Joins: Joe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joe
+Small Blind: Joe, chips: 100
+Big Blind: Roemet, chips: 200
+Folds: Joe
+Pot size: 300
+Wins: Roemet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roemet
+Small Blind: Roemet, chips: 100
+Big Blind: Joe, chips: 200
+Raises: Roemet, chips: 300
+Folds: Joe
+Pot size: 700
+Wins: Roemet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joe
+Small Blind: Joe, chips: 100
+Big Blind: Roemet, chips: 200
+Folds: Joe
+Pot size: 300
+Boasts: Roemet, Kh Jh
+Wins: Roemet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roemet
+Small Blind: Roemet, chips: 100
+Big Blind: Joe, chips: 200
+Calls: Roemet
+DEBUG MESSAGE: INVALID ACTION FROM Joe (2 0)
+Folds: Joe
+Pot size: 400
+Wins: Roemet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joe
+Small Blind: Joe, chips: 100
+Big Blind: Roemet, chips: 200
+Folds: Joe
+Pot size: 300
+Wins: Roemet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roemet
+Small Blind: Roemet, chips: 100
+Big Blind: Joe, chips: 200
+Raises: Roemet, chips: 300
+Folds: Joe
+Pot size: 700
+Boasts: Roemet, 7c Qc
+Wins: Roemet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joe
+Small Blind: Joe, chips: 100
+Big Blind: Roemet, chips: 200
+Flop: 5h 6c 2s
+Turn: 2h
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Roemet, Qd Td
+Combination: Roemet, Two Pair ( 6c 6h 2s 2h Qd )
+Shows: Joe, 7s Jh
+Combination: Joe, Two Pair ( 6c 6h 2s 2h Jh )
+Wins: Roemet, chips: 300
+Quits: Joe, chips: 0
+Ranking: Roemet, Place: 1, Score: 1000
+Reveal AI: Roemet, AI: Random
+Ranking: Joe, Place: 2, Score: -1000
+Reveal AI: Joe, AI: AIMyBot1
+
+Player Stats for Joe, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Roemet, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:10
+
+The game begins. The AI's of the players are: 
+Roemet: Random
+Joe: AIMyBot1
+
+Joins: Roemet, chips: 1000
+Joins: Joe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joe
+Small Blind: Joe, chips: 100
+Big Blind: Roemet, chips: 200
+Folds: Joe
+Pot size: 300
+Wins: Roemet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roemet
+Small Blind: Roemet, chips: 100
+Big Blind: Joe, chips: 200
+Raises: Roemet, chips: 300
+Folds: Joe
+Pot size: 700
+Wins: Roemet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joe
+Small Blind: Joe, chips: 100
+Big Blind: Roemet, chips: 200
+Folds: Joe
+Pot size: 300
+Boasts: Roemet, Kh Jh
+Wins: Roemet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roemet
+Small Blind: Roemet, chips: 100
+Big Blind: Joe, chips: 200
+Calls: Roemet
+DEBUG MESSAGE: INVALID ACTION FROM Joe (2 0)
+Folds: Joe
+Pot size: 400
+Wins: Roemet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joe
+Small Blind: Joe, chips: 100
+Big Blind: Roemet, chips: 200
+Folds: Joe
+Pot size: 300
+Wins: Roemet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roemet
+Small Blind: Roemet, chips: 100
+Big Blind: Joe, chips: 200
+Raises: Roemet, chips: 300
+Folds: Joe
+Pot size: 700
+Boasts: Roemet, 7c Qc
+Wins: Roemet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joe
+Small Blind: Joe, chips: 100
+Big Blind: Roemet, chips: 200
+Flop: 5h 6c 2s
+Turn: 2h
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Roemet, Qd Td
+Combination: Roemet, Two Pair ( 6c 6h 2s 2h Qd )
+Shows: Joe, 7s Jh
+Combination: Joe, Two Pair ( 6c 6h 2s 2h Jh )
+Wins: Roemet, chips: 300
+Quits: Joe, chips: 0
+Ranking: Roemet, Place: 1, Score: 1000
+Reveal AI: Roemet, AI: Random
+Ranking: Joe, Place: 2, Score: -1000
+Reveal AI: Joe, AI: AIMyBot1
+
+Player Stats for Joe, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Roemet, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

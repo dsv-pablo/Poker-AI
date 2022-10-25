@@ -1,0 +1,330 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Chavik: AIMyBot1
+Gunoe: Random
+
+Joins: Chavik, chips: 1000
+Joins: Gunoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chavik
+Small Blind: Chavik, chips: 100
+Big Blind: Gunoe, chips: 200
+Folds: Chavik
+Pot size: 300
+Wins: Gunoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gunoe
+Small Blind: Gunoe, chips: 100
+Big Blind: Chavik, chips: 200
+Calls: Gunoe
+DEBUG MESSAGE: INVALID ACTION FROM Chavik (2 0)
+Folds: Chavik
+Pot size: 400
+Boasts: Gunoe, 6c Jh
+Wins: Gunoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chavik
+Small Blind: Chavik, chips: 100
+Big Blind: Gunoe, chips: 200
+Folds: Chavik
+Pot size: 300
+Wins: Gunoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gunoe
+Small Blind: Gunoe, chips: 100
+Big Blind: Chavik, chips: 200
+Folds: Gunoe
+Pot size: 300
+Boasts: Gunoe, 9s Qc
+Wins: Chavik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chavik
+Small Blind: Chavik, chips: 100
+Big Blind: Gunoe, chips: 200
+Folds: Chavik
+Pot size: 300
+Boasts: Gunoe, 6h 7c
+Wins: Gunoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gunoe
+Small Blind: Gunoe, chips: 100
+Big Blind: Chavik, chips: 200
+Raises: Gunoe, chips: 300
+Folds: Chavik
+Pot size: 700
+Boasts: Gunoe, 3h 7d
+Wins: Gunoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chavik
+Small Blind: Chavik, chips: 100
+Big Blind: Gunoe, chips: 200
+Folds: Chavik
+Pot size: 300
+Boasts: Gunoe, Qh Qc
+Wins: Gunoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gunoe
+Small Blind: Gunoe, chips: 100
+Big Blind: Chavik, chips: 200
+Calls: Gunoe
+DEBUG MESSAGE: INVALID ACTION FROM Chavik (2 0)
+Folds: Chavik
+Pot size: 400
+Wins: Gunoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chavik
+Small Blind: Chavik, chips: 100
+Big Blind: Gunoe, chips: 200
+Flop: 3h 4s 7h
+Turn: Ts
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Chavik, Jd 9d
+Combination: Chavik, Pair ( 4s 4h Jd Ts 9d )
+Shows: Gunoe, 5d 2d
+Combination: Gunoe, Pair ( 4s 4h Ts 7h 5d )
+Wins: Chavik, chips: 200
+Wins: Gunoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gunoe
+Small Blind: Gunoe, chips: 100
+Big Blind: Chavik, chips: 200
+Flop: Ah Ts Th
+Turn: As
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Chavik, Js 2c
+Combination: Chavik, Two Pair ( Ah As Ts Th Js )
+Shows: Gunoe, 7d 7c
+Combination: Gunoe, Two Pair ( Ah As Ts Th 7d )
+Wins: Chavik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chavik
+Small Blind: Chavik, chips: 100
+Big Blind: Gunoe, chips: 200
+Folds: Chavik
+Pot size: 300
+Boasts: Gunoe, Ah Qh
+Wins: Gunoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gunoe
+Small Blind: Gunoe, chips: 100
+Big Blind: Chavik, chips: 200
+Flop: 5d 9s Jc
+Turn: Ac
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Chavik, Qd 4s
+Combination: Chavik, High Card ( Ac Qd Jc Ts 9s )
+Shows: Gunoe, Th Ks
+Combination: Gunoe, Pair ( Th Ts Ac Ks Jc )
+Wins: Chavik, chips: 100
+Wins: Gunoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chavik
+Small Blind: Chavik, chips: 100
+Big Blind: Gunoe, chips: 200
+Flop: 9s Ts Qs
+Turn: 2d
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Chavik, 6d 2h
+Combination: Chavik, Pair ( 2h 2d Qs Ts 9s )
+Shows: Gunoe, Kc Tc
+Combination: Gunoe, Pair ( Tc Ts Kc Qs 9s )
+Wins: Gunoe, chips: 300
+Quits: Chavik, chips: 0
+Ranking: Gunoe, Place: 1, Score: 1000
+Reveal AI: Gunoe, AI: Random
+Ranking: Chavik, Place: 2, Score: -1000
+Reveal AI: Chavik, AI: AIMyBot1
+
+Player Stats for Chavik, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Gunoe, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:28
+
+The game begins. The AI's of the players are: 
+Chavik: AIMyBot1
+Gunoe: Random
+
+Joins: Chavik, chips: 1000
+Joins: Gunoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chavik
+Small Blind: Chavik, chips: 100
+Big Blind: Gunoe, chips: 200
+Folds: Chavik
+Pot size: 300
+Wins: Gunoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gunoe
+Small Blind: Gunoe, chips: 100
+Big Blind: Chavik, chips: 200
+Calls: Gunoe
+DEBUG MESSAGE: INVALID ACTION FROM Chavik (2 0)
+Folds: Chavik
+Pot size: 400
+Boasts: Gunoe, 6c Jh
+Wins: Gunoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chavik
+Small Blind: Chavik, chips: 100
+Big Blind: Gunoe, chips: 200
+Folds: Chavik
+Pot size: 300
+Wins: Gunoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gunoe
+Small Blind: Gunoe, chips: 100
+Big Blind: Chavik, chips: 200
+Folds: Gunoe
+Pot size: 300
+Boasts: Gunoe, 9s Qc
+Wins: Chavik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chavik
+Small Blind: Chavik, chips: 100
+Big Blind: Gunoe, chips: 200
+Folds: Chavik
+Pot size: 300
+Boasts: Gunoe, 6h 7c
+Wins: Gunoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gunoe
+Small Blind: Gunoe, chips: 100
+Big Blind: Chavik, chips: 200
+Raises: Gunoe, chips: 300
+Folds: Chavik
+Pot size: 700
+Boasts: Gunoe, 3h 7d
+Wins: Gunoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chavik
+Small Blind: Chavik, chips: 100
+Big Blind: Gunoe, chips: 200
+Folds: Chavik
+Pot size: 300
+Boasts: Gunoe, Qh Qc
+Wins: Gunoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gunoe
+Small Blind: Gunoe, chips: 100
+Big Blind: Chavik, chips: 200
+Calls: Gunoe
+DEBUG MESSAGE: INVALID ACTION FROM Chavik (2 0)
+Folds: Chavik
+Pot size: 400
+Wins: Gunoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chavik
+Small Blind: Chavik, chips: 100
+Big Blind: Gunoe, chips: 200
+Flop: 3h 4s 7h
+Turn: Ts
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Chavik, Jd 9d
+Combination: Chavik, Pair ( 4s 4h Jd Ts 9d )
+Shows: Gunoe, 5d 2d
+Combination: Gunoe, Pair ( 4s 4h Ts 7h 5d )
+Wins: Chavik, chips: 200
+Wins: Gunoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gunoe
+Small Blind: Gunoe, chips: 100
+Big Blind: Chavik, chips: 200
+Flop: Ah Ts Th
+Turn: As
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Chavik, Js 2c
+Combination: Chavik, Two Pair ( Ah As Ts Th Js )
+Shows: Gunoe, 7d 7c
+Combination: Gunoe, Two Pair ( Ah As Ts Th 7d )
+Wins: Chavik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chavik
+Small Blind: Chavik, chips: 100
+Big Blind: Gunoe, chips: 200
+Folds: Chavik
+Pot size: 300
+Boasts: Gunoe, Ah Qh
+Wins: Gunoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gunoe
+Small Blind: Gunoe, chips: 100
+Big Blind: Chavik, chips: 200
+Flop: 5d 9s Jc
+Turn: Ac
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Chavik, Qd 4s
+Combination: Chavik, High Card ( Ac Qd Jc Ts 9s )
+Shows: Gunoe, Th Ks
+Combination: Gunoe, Pair ( Th Ts Ac Ks Jc )
+Wins: Chavik, chips: 100
+Wins: Gunoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chavik
+Small Blind: Chavik, chips: 100
+Big Blind: Gunoe, chips: 200
+Flop: 9s Ts Qs
+Turn: 2d
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Chavik, 6d 2h
+Combination: Chavik, Pair ( 2h 2d Qs Ts 9s )
+Shows: Gunoe, Kc Tc
+Combination: Gunoe, Pair ( Tc Ts Kc Qs 9s )
+Wins: Gunoe, chips: 300
+Quits: Chavik, chips: 0
+Ranking: Gunoe, Place: 1, Score: 1000
+Reveal AI: Gunoe, AI: Random
+Ranking: Chavik, Place: 2, Score: -1000
+Reveal AI: Chavik, AI: AIMyBot1
+
+Player Stats for Chavik, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Gunoe, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

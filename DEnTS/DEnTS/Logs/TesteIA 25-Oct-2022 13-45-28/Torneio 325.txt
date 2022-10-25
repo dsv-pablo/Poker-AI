@@ -1,0 +1,164 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Nuchof: AIMyBot1
+Wurlawref: Random
+
+Joins: Nuchof, chips: 1000
+Joins: Wurlawref, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlawref
+Small Blind: Wurlawref, chips: 100
+Big Blind: Nuchof, chips: 200
+Calls: Wurlawref
+DEBUG MESSAGE: INVALID ACTION FROM Nuchof (2 0)
+Folds: Nuchof
+Pot size: 400
+Wins: Wurlawref, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuchof
+Small Blind: Nuchof, chips: 100
+Big Blind: Wurlawref, chips: 200
+Folds: Nuchof
+Pot size: 300
+Wins: Wurlawref, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlawref
+Small Blind: Wurlawref, chips: 100
+Big Blind: Nuchof, chips: 200
+Calls: Wurlawref
+DEBUG MESSAGE: INVALID ACTION FROM Nuchof (2 0)
+Folds: Nuchof
+Pot size: 400
+Boasts: Wurlawref, Td Jd
+Wins: Wurlawref, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuchof
+Small Blind: Nuchof, chips: 100
+Big Blind: Wurlawref, chips: 200
+Folds: Nuchof
+Pot size: 300
+Wins: Wurlawref, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlawref
+Small Blind: Wurlawref, chips: 100
+Big Blind: Nuchof, chips: 200
+Raises: Wurlawref, chips: 300
+Calls: Nuchof
+Flop: 2c Ad 3h
+Turn: 3d
+River: Td
+Pot size: 900
+Showdown Reached
+Shows: Nuchof, Kc Js
+Combination: Nuchof, Pair ( 3h 3d Ad Kc Js )
+Shows: Wurlawref, Th Kd
+Combination: Wurlawref, Two Pair ( Th Td 3h 3d Ad )
+Wins: Wurlawref, chips: 900
+Quits: Nuchof, chips: 0
+Ranking: Wurlawref, Place: 1, Score: 1000
+Reveal AI: Wurlawref, AI: Random
+Ranking: Nuchof, Place: 2, Score: -1000
+Reveal AI: Nuchof, AI: AIMyBot1
+
+Player Stats for Nuchof, AI: AIMyBot1
+General: deals: 5, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1100, bought: 1000, forced bets: 800
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Wurlawref, AI: Random
+General: deals: 5, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 5, showdown: 1, bluff: 4
+Chips: won: 2300, lost: 1300, bought: 1000, forced bets: 700
+Pre-Flop Stats: VP$IP: 0.6, PFR: 0.2, 3Bet: 0.2
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:50
+
+The game begins. The AI's of the players are: 
+Nuchof: AIMyBot1
+Wurlawref: Random
+
+Joins: Nuchof, chips: 1000
+Joins: Wurlawref, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlawref
+Small Blind: Wurlawref, chips: 100
+Big Blind: Nuchof, chips: 200
+Calls: Wurlawref
+DEBUG MESSAGE: INVALID ACTION FROM Nuchof (2 0)
+Folds: Nuchof
+Pot size: 400
+Wins: Wurlawref, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuchof
+Small Blind: Nuchof, chips: 100
+Big Blind: Wurlawref, chips: 200
+Folds: Nuchof
+Pot size: 300
+Wins: Wurlawref, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlawref
+Small Blind: Wurlawref, chips: 100
+Big Blind: Nuchof, chips: 200
+Calls: Wurlawref
+DEBUG MESSAGE: INVALID ACTION FROM Nuchof (2 0)
+Folds: Nuchof
+Pot size: 400
+Boasts: Wurlawref, Td Jd
+Wins: Wurlawref, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuchof
+Small Blind: Nuchof, chips: 100
+Big Blind: Wurlawref, chips: 200
+Folds: Nuchof
+Pot size: 300
+Wins: Wurlawref, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlawref
+Small Blind: Wurlawref, chips: 100
+Big Blind: Nuchof, chips: 200
+Raises: Wurlawref, chips: 300
+Calls: Nuchof
+Flop: 2c Ad 3h
+Turn: 3d
+River: Td
+Pot size: 900
+Showdown Reached
+Shows: Nuchof, Kc Js
+Combination: Nuchof, Pair ( 3h 3d Ad Kc Js )
+Shows: Wurlawref, Th Kd
+Combination: Wurlawref, Two Pair ( Th Td 3h 3d Ad )
+Wins: Wurlawref, chips: 900
+Quits: Nuchof, chips: 0
+Ranking: Wurlawref, Place: 1, Score: 1000
+Reveal AI: Wurlawref, AI: Random
+Ranking: Nuchof, Place: 2, Score: -1000
+Reveal AI: Nuchof, AI: AIMyBot1
+
+Player Stats for Nuchof, AI: AIMyBot1
+General: deals: 5, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1100, bought: 1000, forced bets: 800
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Wurlawref, AI: Random
+General: deals: 5, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 5, showdown: 1, bluff: 4
+Chips: won: 2300, lost: 1300, bought: 1000, forced bets: 700
+Pre-Flop Stats: VP$IP: 0.6, PFR: 0.2, 3Bet: 0.2
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

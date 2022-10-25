@@ -1,0 +1,262 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Kirimeem: Random
+Vurlak: AIMyBot1
+
+Joins: Kirimeem, chips: 1000
+Joins: Vurlak, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kirimeem
+Small Blind: Kirimeem, chips: 100
+Big Blind: Vurlak, chips: 200
+Calls: Kirimeem
+DEBUG MESSAGE: INVALID ACTION FROM Vurlak (2 0)
+Folds: Vurlak
+Pot size: 400
+Wins: Kirimeem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vurlak
+Small Blind: Vurlak, chips: 100
+Big Blind: Kirimeem, chips: 200
+Folds: Vurlak
+Pot size: 300
+Boasts: Kirimeem, 7c 3s
+Wins: Kirimeem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kirimeem
+Small Blind: Kirimeem, chips: 100
+Big Blind: Vurlak, chips: 200
+Folds: Kirimeem
+Pot size: 300
+Wins: Vurlak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vurlak
+Small Blind: Vurlak, chips: 100
+Big Blind: Kirimeem, chips: 200
+Folds: Vurlak
+Pot size: 300
+Wins: Kirimeem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kirimeem
+Small Blind: Kirimeem, chips: 100
+Big Blind: Vurlak, chips: 200
+Calls: Kirimeem
+DEBUG MESSAGE: INVALID ACTION FROM Vurlak (2 0)
+Folds: Vurlak
+Pot size: 400
+Wins: Kirimeem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vurlak
+Small Blind: Vurlak, chips: 100
+Big Blind: Kirimeem, chips: 200
+Folds: Vurlak
+Pot size: 300
+Wins: Kirimeem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kirimeem
+Small Blind: Kirimeem, chips: 100
+Big Blind: Vurlak, chips: 200
+Raises: Kirimeem, chips: 300
+Folds: Vurlak
+Pot size: 700
+Wins: Kirimeem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vurlak
+Small Blind: Vurlak, chips: 100
+Big Blind: Kirimeem, chips: 200
+Folds: Vurlak
+Pot size: 300
+Wins: Kirimeem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kirimeem
+Small Blind: Kirimeem, chips: 100
+Big Blind: Vurlak, chips: 100
+Flop: 3d 9h 6s
+Turn: Jc
+River: Kd
+Pot size: 200
+Showdown Reached
+Shows: Kirimeem, Tc 9d
+Combination: Kirimeem, Pair ( 9d 9h Kd Jc Tc )
+Shows: Vurlak, Kc Kh
+Combination: Vurlak, Three Of A Kind ( Kc Kh Kd Jc 9h )
+Wins: Vurlak, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vurlak
+Small Blind: Vurlak, chips: 100
+Big Blind: Kirimeem, chips: 200
+Folds: Vurlak
+Pot size: 300
+Boasts: Kirimeem, Jh 3h
+Wins: Kirimeem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kirimeem
+Small Blind: Kirimeem, chips: 100
+Big Blind: Vurlak, chips: 100
+Flop: Qd Qc Td
+Turn: Jc
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Kirimeem, 5d Jh
+Combination: Kirimeem, Two Pair ( Qd Qc Jh Jc As )
+Shows: Vurlak, 6h 4s
+Combination: Vurlak, Pair ( Qd Qc As Jc Td )
+Wins: Kirimeem, chips: 200
+Quits: Vurlak, chips: 0
+Ranking: Kirimeem, Place: 1, Score: 1000
+Reveal AI: Kirimeem, AI: Random
+Ranking: Vurlak, Place: 2, Score: -1000
+Reveal AI: Vurlak, AI: AIMyBot1
+
+Player Stats for Kirimeem, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Vurlak, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:26
+
+The game begins. The AI's of the players are: 
+Kirimeem: Random
+Vurlak: AIMyBot1
+
+Joins: Kirimeem, chips: 1000
+Joins: Vurlak, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kirimeem
+Small Blind: Kirimeem, chips: 100
+Big Blind: Vurlak, chips: 200
+Calls: Kirimeem
+DEBUG MESSAGE: INVALID ACTION FROM Vurlak (2 0)
+Folds: Vurlak
+Pot size: 400
+Wins: Kirimeem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vurlak
+Small Blind: Vurlak, chips: 100
+Big Blind: Kirimeem, chips: 200
+Folds: Vurlak
+Pot size: 300
+Boasts: Kirimeem, 7c 3s
+Wins: Kirimeem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kirimeem
+Small Blind: Kirimeem, chips: 100
+Big Blind: Vurlak, chips: 200
+Folds: Kirimeem
+Pot size: 300
+Wins: Vurlak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vurlak
+Small Blind: Vurlak, chips: 100
+Big Blind: Kirimeem, chips: 200
+Folds: Vurlak
+Pot size: 300
+Wins: Kirimeem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kirimeem
+Small Blind: Kirimeem, chips: 100
+Big Blind: Vurlak, chips: 200
+Calls: Kirimeem
+DEBUG MESSAGE: INVALID ACTION FROM Vurlak (2 0)
+Folds: Vurlak
+Pot size: 400
+Wins: Kirimeem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vurlak
+Small Blind: Vurlak, chips: 100
+Big Blind: Kirimeem, chips: 200
+Folds: Vurlak
+Pot size: 300
+Wins: Kirimeem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kirimeem
+Small Blind: Kirimeem, chips: 100
+Big Blind: Vurlak, chips: 200
+Raises: Kirimeem, chips: 300
+Folds: Vurlak
+Pot size: 700
+Wins: Kirimeem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vurlak
+Small Blind: Vurlak, chips: 100
+Big Blind: Kirimeem, chips: 200
+Folds: Vurlak
+Pot size: 300
+Wins: Kirimeem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kirimeem
+Small Blind: Kirimeem, chips: 100
+Big Blind: Vurlak, chips: 100
+Flop: 3d 9h 6s
+Turn: Jc
+River: Kd
+Pot size: 200
+Showdown Reached
+Shows: Kirimeem, Tc 9d
+Combination: Kirimeem, Pair ( 9d 9h Kd Jc Tc )
+Shows: Vurlak, Kc Kh
+Combination: Vurlak, Three Of A Kind ( Kc Kh Kd Jc 9h )
+Wins: Vurlak, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vurlak
+Small Blind: Vurlak, chips: 100
+Big Blind: Kirimeem, chips: 200
+Folds: Vurlak
+Pot size: 300
+Boasts: Kirimeem, Jh 3h
+Wins: Kirimeem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kirimeem
+Small Blind: Kirimeem, chips: 100
+Big Blind: Vurlak, chips: 100
+Flop: Qd Qc Td
+Turn: Jc
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Kirimeem, 5d Jh
+Combination: Kirimeem, Two Pair ( Qd Qc Jh Jc As )
+Shows: Vurlak, 6h 4s
+Combination: Vurlak, Pair ( Qd Qc As Jc Td )
+Wins: Kirimeem, chips: 200
+Quits: Vurlak, chips: 0
+Ranking: Kirimeem, Place: 1, Score: 1000
+Reveal AI: Kirimeem, AI: Random
+Ranking: Vurlak, Place: 2, Score: -1000
+Reveal AI: Vurlak, AI: AIMyBot1
+
+Player Stats for Kirimeem, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Vurlak, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

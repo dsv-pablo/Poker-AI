@@ -1,0 +1,228 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Neefa: Random
+Hawumi: AIMyBot1
+
+Joins: Neefa, chips: 1000
+Joins: Hawumi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hawumi
+Small Blind: Hawumi, chips: 100
+Big Blind: Neefa, chips: 200
+Folds: Hawumi
+Pot size: 300
+Wins: Neefa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neefa
+Small Blind: Neefa, chips: 100
+Big Blind: Hawumi, chips: 200
+Calls: Neefa
+DEBUG MESSAGE: INVALID ACTION FROM Hawumi (2 0)
+Folds: Hawumi
+Pot size: 400
+Boasts: Neefa, Kc Tc
+Wins: Neefa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hawumi
+Small Blind: Hawumi, chips: 100
+Big Blind: Neefa, chips: 200
+Folds: Hawumi
+Pot size: 300
+Boasts: Neefa, Tc Jd
+Wins: Neefa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neefa
+Small Blind: Neefa, chips: 100
+Big Blind: Hawumi, chips: 200
+Folds: Neefa
+Pot size: 300
+Wins: Hawumi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hawumi
+Small Blind: Hawumi, chips: 100
+Big Blind: Neefa, chips: 200
+Folds: Hawumi
+Pot size: 300
+Boasts: Neefa, 5s Kd
+Wins: Neefa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neefa
+Small Blind: Neefa, chips: 100
+Big Blind: Hawumi, chips: 200
+Calls: Neefa
+DEBUG MESSAGE: INVALID ACTION FROM Hawumi (2 0)
+Folds: Hawumi
+Pot size: 400
+Boasts: Neefa, Kd 5h
+Wins: Neefa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hawumi
+Small Blind: Hawumi, chips: 100
+Big Blind: Neefa, chips: 200
+Folds: Hawumi
+Pot size: 300
+Boasts: Neefa, Kd Jc
+Wins: Neefa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neefa
+Small Blind: Neefa, chips: 100
+Big Blind: Hawumi, chips: 200
+Calls: Neefa
+DEBUG MESSAGE: INVALID ACTION FROM Hawumi (2 0)
+Folds: Hawumi
+Pot size: 400
+Wins: Neefa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hawumi
+Small Blind: Hawumi, chips: 100
+Big Blind: Neefa, chips: 200
+Flop: 9d 3d 5s
+Turn: Kh
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Neefa, 9s Jh
+Combination: Neefa, Pair ( 9s 9d Kh Jh 8c )
+Shows: Hawumi, Ts 4d
+Combination: Hawumi, High Card ( Kh Ts 9d 8c 5s )
+Wins: Neefa, chips: 300
+Quits: Hawumi, chips: 0
+Ranking: Neefa, Place: 1, Score: 1000
+Reveal AI: Neefa, AI: Random
+Ranking: Hawumi, Place: 2, Score: -1000
+Reveal AI: Hawumi, AI: AIMyBot1
+
+Player Stats for Hawumi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Neefa, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:31
+
+The game begins. The AI's of the players are: 
+Neefa: Random
+Hawumi: AIMyBot1
+
+Joins: Neefa, chips: 1000
+Joins: Hawumi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hawumi
+Small Blind: Hawumi, chips: 100
+Big Blind: Neefa, chips: 200
+Folds: Hawumi
+Pot size: 300
+Wins: Neefa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neefa
+Small Blind: Neefa, chips: 100
+Big Blind: Hawumi, chips: 200
+Calls: Neefa
+DEBUG MESSAGE: INVALID ACTION FROM Hawumi (2 0)
+Folds: Hawumi
+Pot size: 400
+Boasts: Neefa, Kc Tc
+Wins: Neefa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hawumi
+Small Blind: Hawumi, chips: 100
+Big Blind: Neefa, chips: 200
+Folds: Hawumi
+Pot size: 300
+Boasts: Neefa, Tc Jd
+Wins: Neefa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neefa
+Small Blind: Neefa, chips: 100
+Big Blind: Hawumi, chips: 200
+Folds: Neefa
+Pot size: 300
+Wins: Hawumi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hawumi
+Small Blind: Hawumi, chips: 100
+Big Blind: Neefa, chips: 200
+Folds: Hawumi
+Pot size: 300
+Boasts: Neefa, 5s Kd
+Wins: Neefa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neefa
+Small Blind: Neefa, chips: 100
+Big Blind: Hawumi, chips: 200
+Calls: Neefa
+DEBUG MESSAGE: INVALID ACTION FROM Hawumi (2 0)
+Folds: Hawumi
+Pot size: 400
+Boasts: Neefa, Kd 5h
+Wins: Neefa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hawumi
+Small Blind: Hawumi, chips: 100
+Big Blind: Neefa, chips: 200
+Folds: Hawumi
+Pot size: 300
+Boasts: Neefa, Kd Jc
+Wins: Neefa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neefa
+Small Blind: Neefa, chips: 100
+Big Blind: Hawumi, chips: 200
+Calls: Neefa
+DEBUG MESSAGE: INVALID ACTION FROM Hawumi (2 0)
+Folds: Hawumi
+Pot size: 400
+Wins: Neefa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hawumi
+Small Blind: Hawumi, chips: 100
+Big Blind: Neefa, chips: 200
+Flop: 9d 3d 5s
+Turn: Kh
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Neefa, 9s Jh
+Combination: Neefa, Pair ( 9s 9d Kh Jh 8c )
+Shows: Hawumi, Ts 4d
+Combination: Hawumi, High Card ( Kh Ts 9d 8c 5s )
+Wins: Neefa, chips: 300
+Quits: Hawumi, chips: 0
+Ranking: Neefa, Place: 1, Score: 1000
+Reveal AI: Neefa, AI: Random
+Ranking: Hawumi, Place: 2, Score: -1000
+Reveal AI: Hawumi, AI: AIMyBot1
+
+Player Stats for Hawumi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Neefa, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

@@ -1,0 +1,46 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Noenel: AIMyBot4
+Vorlee: AIMyBot7
+Nefatry: AIMyBot1
+Wogudo: AIMyBot6
+Hirle: AIMyBot2
+Geetihik: AIMyBot3
+Hoenee: AIMyBot5
+
+Joins: Noenel, chips: 1000
+Joins: Vorlee, chips: 1000
+Joins: Nefatry, chips: 1000
+Joins: Wogudo, chips: 1000
+Joins: Hirle, chips: 1000
+Joins: Geetihik, chips: 1000
+Joins: Hoenee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noenel
+Small Blind: Vorlee, chips: 100
+Big Blind: Nefatry, chips: 200
+Date: 2018/06/11 13:17:52
+
+The game begins. The AI's of the players are: 
+Noenel: AIMyBot4
+Vorlee: AIMyBot7
+Nefatry: AIMyBot1
+Wogudo: AIMyBot6
+Hirle: AIMyBot2
+Geetihik: AIMyBot3
+Hoenee: AIMyBot5
+
+Joins: Noenel, chips: 1000
+Joins: Vorlee, chips: 1000
+Joins: Nefatry, chips: 1000
+Joins: Wogudo, chips: 1000
+Joins: Hirle, chips: 1000
+Joins: Geetihik, chips: 1000
+Joins: Hoenee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noenel
+Small Blind: Vorlee, chips: 100
+Big Blind: Nefatry, chips: 200

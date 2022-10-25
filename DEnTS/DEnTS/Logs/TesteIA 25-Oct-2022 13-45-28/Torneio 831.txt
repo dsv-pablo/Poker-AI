@@ -1,0 +1,192 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Watedo: Random
+Miwroerlenny: AIMyBot1
+
+Joins: Watedo, chips: 1000
+Joins: Miwroerlenny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwroerlenny
+Small Blind: Miwroerlenny, chips: 100
+Big Blind: Watedo, chips: 200
+Folds: Miwroerlenny
+Pot size: 300
+Wins: Watedo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Watedo
+Small Blind: Watedo, chips: 100
+Big Blind: Miwroerlenny, chips: 200
+Raises: Watedo, chips: 300
+Folds: Miwroerlenny
+Pot size: 700
+Boasts: Watedo, Th 3s
+Wins: Watedo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwroerlenny
+Small Blind: Miwroerlenny, chips: 100
+Big Blind: Watedo, chips: 200
+Folds: Miwroerlenny
+Pot size: 300
+Boasts: Watedo, 9d Tc
+Wins: Watedo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Watedo
+Small Blind: Watedo, chips: 100
+Big Blind: Miwroerlenny, chips: 200
+Raises: Watedo, chips: 300
+Folds: Miwroerlenny
+Pot size: 700
+Wins: Watedo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwroerlenny
+Small Blind: Miwroerlenny, chips: 100
+Big Blind: Watedo, chips: 200
+Folds: Miwroerlenny
+Pot size: 300
+Boasts: Watedo, 4h 5c
+Wins: Watedo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Watedo
+Small Blind: Watedo, chips: 100
+Big Blind: Miwroerlenny, chips: 200
+Raises: Watedo, chips: 300
+Folds: Miwroerlenny
+Pot size: 700
+Boasts: Watedo, Qc Qd
+Wins: Watedo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwroerlenny
+Small Blind: Miwroerlenny, chips: 100
+Big Blind: Watedo, chips: 200
+Flop: 3s 8d 5c
+Turn: 9h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Watedo, 2s 4c
+Combination: Watedo, Straight ( 5c 4c 3s 2s As )
+Shows: Miwroerlenny, Ac Qh
+Combination: Miwroerlenny, Pair ( Ac As Qh 9h 8d )
+Wins: Watedo, chips: 300
+Quits: Miwroerlenny, chips: 0
+Ranking: Watedo, Place: 1, Score: 1000
+Reveal AI: Watedo, AI: Random
+Ranking: Miwroerlenny, Place: 2, Score: -1000
+Reveal AI: Miwroerlenny, AI: AIMyBot1
+
+Player Stats for Miwroerlenny, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Watedo, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.428571, 3Bet: 0.428571
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:24
+
+The game begins. The AI's of the players are: 
+Watedo: Random
+Miwroerlenny: AIMyBot1
+
+Joins: Watedo, chips: 1000
+Joins: Miwroerlenny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwroerlenny
+Small Blind: Miwroerlenny, chips: 100
+Big Blind: Watedo, chips: 200
+Folds: Miwroerlenny
+Pot size: 300
+Wins: Watedo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Watedo
+Small Blind: Watedo, chips: 100
+Big Blind: Miwroerlenny, chips: 200
+Raises: Watedo, chips: 300
+Folds: Miwroerlenny
+Pot size: 700
+Boasts: Watedo, Th 3s
+Wins: Watedo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwroerlenny
+Small Blind: Miwroerlenny, chips: 100
+Big Blind: Watedo, chips: 200
+Folds: Miwroerlenny
+Pot size: 300
+Boasts: Watedo, 9d Tc
+Wins: Watedo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Watedo
+Small Blind: Watedo, chips: 100
+Big Blind: Miwroerlenny, chips: 200
+Raises: Watedo, chips: 300
+Folds: Miwroerlenny
+Pot size: 700
+Wins: Watedo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwroerlenny
+Small Blind: Miwroerlenny, chips: 100
+Big Blind: Watedo, chips: 200
+Folds: Miwroerlenny
+Pot size: 300
+Boasts: Watedo, 4h 5c
+Wins: Watedo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Watedo
+Small Blind: Watedo, chips: 100
+Big Blind: Miwroerlenny, chips: 200
+Raises: Watedo, chips: 300
+Folds: Miwroerlenny
+Pot size: 700
+Boasts: Watedo, Qc Qd
+Wins: Watedo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwroerlenny
+Small Blind: Miwroerlenny, chips: 100
+Big Blind: Watedo, chips: 200
+Flop: 3s 8d 5c
+Turn: 9h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Watedo, 2s 4c
+Combination: Watedo, Straight ( 5c 4c 3s 2s As )
+Shows: Miwroerlenny, Ac Qh
+Combination: Miwroerlenny, Pair ( Ac As Qh 9h 8d )
+Wins: Watedo, chips: 300
+Quits: Miwroerlenny, chips: 0
+Ranking: Watedo, Place: 1, Score: 1000
+Reveal AI: Watedo, AI: Random
+Ranking: Miwroerlenny, Place: 2, Score: -1000
+Reveal AI: Miwroerlenny, AI: AIMyBot1
+
+Player Stats for Miwroerlenny, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Watedo, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.428571, 3Bet: 0.428571
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

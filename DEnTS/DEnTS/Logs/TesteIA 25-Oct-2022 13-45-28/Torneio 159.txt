@@ -1,0 +1,250 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Punip: AIMyBot1
+Soemo: Random
+
+Joins: Punip, chips: 1000
+Joins: Soemo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punip
+Small Blind: Punip, chips: 100
+Big Blind: Soemo, chips: 200
+Folds: Punip
+Pot size: 300
+Wins: Soemo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soemo
+Small Blind: Soemo, chips: 100
+Big Blind: Punip, chips: 200
+Raises: Soemo, chips: 300
+Folds: Punip
+Pot size: 700
+Boasts: Soemo, 3s 7h
+Wins: Soemo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punip
+Small Blind: Punip, chips: 100
+Big Blind: Soemo, chips: 200
+Folds: Punip
+Pot size: 300
+Wins: Soemo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soemo
+Small Blind: Soemo, chips: 100
+Big Blind: Punip, chips: 200
+Raises: Soemo, chips: 300
+Folds: Punip
+Pot size: 700
+Boasts: Soemo, 5c 8d
+Wins: Soemo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punip
+Small Blind: Punip, chips: 100
+Big Blind: Soemo, chips: 200
+Folds: Punip
+Pot size: 300
+Wins: Soemo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soemo
+Small Blind: Soemo, chips: 100
+Big Blind: Punip, chips: 200
+Raises: Soemo, chips: 300
+Folds: Punip
+Pot size: 700
+Boasts: Soemo, Qd 2s
+Wins: Soemo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punip
+Small Blind: Punip, chips: 100
+Big Blind: Soemo, chips: 200
+Flop: Jd 2c 7s
+Turn: 8c
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Punip, 8s 8d
+Combination: Punip, Full House ( 8s 8d 8c 7s 7d )
+Shows: Soemo, 2s 4h
+Combination: Soemo, Two Pair ( 7s 7d 2s 2c Jd )
+Wins: Punip, chips: 200
+Wins: Soemo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soemo
+Small Blind: Soemo, chips: 100
+Big Blind: Punip, chips: 200
+Flop: Ad 4c 8s
+Turn: 6d
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Punip, Kd 9h
+Combination: Punip, High Card ( Ad Kd Qh 9h 8s )
+Shows: Soemo, 8c 5c
+Combination: Soemo, Pair ( 8c 8s Ad Qh 6d )
+Wins: Punip, chips: 100
+Wins: Soemo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punip
+Small Blind: Punip, chips: 100
+Big Blind: Soemo, chips: 200
+Flop: 3h 9h Th
+Turn: 7d
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Punip, 6d 4d
+Combination: Punip, Pair ( 6d 6h Th 9h 7d )
+Shows: Soemo, 9s Qc
+Combination: Soemo, Pair ( 9s 9h Qc Th 7d )
+Wins: Soemo, chips: 300
+Quits: Punip, chips: 0
+Ranking: Soemo, Place: 1, Score: 1000
+Reveal AI: Soemo, AI: Random
+Ranking: Punip, Place: 2, Score: -1000
+Reveal AI: Punip, AI: AIMyBot1
+
+Player Stats for Punip, AI: AIMyBot1
+General: deals: 9, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Soemo, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:40
+
+The game begins. The AI's of the players are: 
+Punip: AIMyBot1
+Soemo: Random
+
+Joins: Punip, chips: 1000
+Joins: Soemo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punip
+Small Blind: Punip, chips: 100
+Big Blind: Soemo, chips: 200
+Folds: Punip
+Pot size: 300
+Wins: Soemo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soemo
+Small Blind: Soemo, chips: 100
+Big Blind: Punip, chips: 200
+Raises: Soemo, chips: 300
+Folds: Punip
+Pot size: 700
+Boasts: Soemo, 3s 7h
+Wins: Soemo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punip
+Small Blind: Punip, chips: 100
+Big Blind: Soemo, chips: 200
+Folds: Punip
+Pot size: 300
+Wins: Soemo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soemo
+Small Blind: Soemo, chips: 100
+Big Blind: Punip, chips: 200
+Raises: Soemo, chips: 300
+Folds: Punip
+Pot size: 700
+Boasts: Soemo, 5c 8d
+Wins: Soemo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punip
+Small Blind: Punip, chips: 100
+Big Blind: Soemo, chips: 200
+Folds: Punip
+Pot size: 300
+Wins: Soemo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soemo
+Small Blind: Soemo, chips: 100
+Big Blind: Punip, chips: 200
+Raises: Soemo, chips: 300
+Folds: Punip
+Pot size: 700
+Boasts: Soemo, Qd 2s
+Wins: Soemo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punip
+Small Blind: Punip, chips: 100
+Big Blind: Soemo, chips: 200
+Flop: Jd 2c 7s
+Turn: 8c
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Punip, 8s 8d
+Combination: Punip, Full House ( 8s 8d 8c 7s 7d )
+Shows: Soemo, 2s 4h
+Combination: Soemo, Two Pair ( 7s 7d 2s 2c Jd )
+Wins: Punip, chips: 200
+Wins: Soemo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soemo
+Small Blind: Soemo, chips: 100
+Big Blind: Punip, chips: 200
+Flop: Ad 4c 8s
+Turn: 6d
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Punip, Kd 9h
+Combination: Punip, High Card ( Ad Kd Qh 9h 8s )
+Shows: Soemo, 8c 5c
+Combination: Soemo, Pair ( 8c 8s Ad Qh 6d )
+Wins: Punip, chips: 100
+Wins: Soemo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punip
+Small Blind: Punip, chips: 100
+Big Blind: Soemo, chips: 200
+Flop: 3h 9h Th
+Turn: 7d
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Punip, 6d 4d
+Combination: Punip, Pair ( 6d 6h Th 9h 7d )
+Shows: Soemo, 9s Qc
+Combination: Soemo, Pair ( 9s 9h Qc Th 7d )
+Wins: Soemo, chips: 300
+Quits: Punip, chips: 0
+Ranking: Soemo, Place: 1, Score: 1000
+Reveal AI: Soemo, AI: Random
+Ranking: Punip, Place: 2, Score: -1000
+Reveal AI: Punip, AI: AIMyBot1
+
+Player Stats for Punip, AI: AIMyBot1
+General: deals: 9, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Soemo, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

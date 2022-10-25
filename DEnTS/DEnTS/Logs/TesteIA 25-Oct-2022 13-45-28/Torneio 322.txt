@@ -1,0 +1,376 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hanee: Random
+Cho: AIMyBot1
+
+Joins: Hanee, chips: 1000
+Joins: Cho, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 200
+Calls: Hanee
+DEBUG MESSAGE: INVALID ACTION FROM Cho (2 0)
+Folds: Cho
+Pot size: 400
+Wins: Hanee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cho
+Small Blind: Cho, chips: 100
+Big Blind: Hanee, chips: 200
+Folds: Cho
+Pot size: 300
+Boasts: Hanee, 4c Qc
+Wins: Hanee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 200
+Folds: Hanee
+Pot size: 300
+Boasts: Hanee, Kd Tc
+Wins: Cho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cho
+Small Blind: Cho, chips: 100
+Big Blind: Hanee, chips: 200
+Folds: Cho
+Pot size: 300
+Wins: Hanee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 200
+Folds: Hanee
+Pot size: 300
+Boasts: Hanee, Td 2c
+Wins: Cho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cho
+Small Blind: Cho, chips: 100
+Big Blind: Hanee, chips: 200
+Folds: Cho
+Pot size: 300
+Boasts: Hanee, 3s Jd
+Wins: Hanee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 200
+Folds: Hanee
+Pot size: 300
+Boasts: Hanee, 9c 6s
+Wins: Cho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cho
+Small Blind: Cho, chips: 100
+Big Blind: Hanee, chips: 200
+Folds: Cho
+Pot size: 300
+Boasts: Hanee, 2s 7c
+Wins: Hanee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 200
+Raises: Hanee, chips: 300
+Folds: Cho
+Pot size: 700
+Wins: Hanee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cho
+Small Blind: Cho, chips: 100
+Big Blind: Hanee, chips: 200
+Folds: Cho
+Pot size: 300
+Boasts: Hanee, 3s 6h
+Wins: Hanee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 200
+Calls: Hanee
+DEBUG MESSAGE: INVALID ACTION FROM Cho (2 0)
+Folds: Cho
+Pot size: 400
+Boasts: Hanee, Js Qs
+Wins: Hanee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cho
+Small Blind: Cho, chips: 100
+Big Blind: Hanee, chips: 200
+Folds: Cho
+Pot size: 300
+Boasts: Hanee, 5c 2c
+Wins: Hanee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 100
+Flop: 2d 9s Kd
+Turn: 2s
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Hanee, Th 6c
+Combination: Hanee, Two Pair ( Th Td 2d 2s Kd )
+Shows: Cho, 6d 9d
+Combination: Cho, Flush ( Kd Td 9d 6d 2d )
+Wins: Cho, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cho
+Small Blind: Cho, chips: 100
+Big Blind: Hanee, chips: 200
+Folds: Cho
+Pot size: 300
+Wins: Hanee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 100
+Flop: Tc Qs 5s
+Turn: 2s
+River: 7s
+Pot size: 200
+Showdown Reached
+Shows: Hanee, Qh 4h
+Combination: Hanee, Pair ( Qh Qs Tc 7s 5s )
+Shows: Cho, 3d 4s
+Combination: Cho, Flush ( Qs 7s 5s 4s 2s )
+Wins: Cho, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cho
+Small Blind: Cho, chips: 100
+Big Blind: Hanee, chips: 200
+Folds: Cho
+Pot size: 300
+Boasts: Hanee, As Ah
+Wins: Hanee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 100
+Flop: Ts 8h Th
+Turn: 7c
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Hanee, 4c 8s
+Combination: Hanee, Two Pair ( Ts Th 8s 8h 7c )
+Shows: Cho, Qc 4d
+Combination: Cho, Two Pair ( Ts Th 7c 7h Qc )
+Wins: Hanee, chips: 200
+Quits: Cho, chips: 0
+Ranking: Hanee, Place: 1, Score: 1000
+Reveal AI: Hanee, AI: Random
+Ranking: Cho, Place: 2, Score: -1000
+Reveal AI: Cho, AI: AIMyBot1
+
+Player Stats for Cho, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1300, lost: 2300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Hanee, AI: Random
+General: deals: 17, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Date: 2022/10/25 13:45:50
+
+The game begins. The AI's of the players are: 
+Hanee: Random
+Cho: AIMyBot1
+
+Joins: Hanee, chips: 1000
+Joins: Cho, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 200
+Calls: Hanee
+DEBUG MESSAGE: INVALID ACTION FROM Cho (2 0)
+Folds: Cho
+Pot size: 400
+Wins: Hanee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cho
+Small Blind: Cho, chips: 100
+Big Blind: Hanee, chips: 200
+Folds: Cho
+Pot size: 300
+Boasts: Hanee, 4c Qc
+Wins: Hanee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 200
+Folds: Hanee
+Pot size: 300
+Boasts: Hanee, Kd Tc
+Wins: Cho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cho
+Small Blind: Cho, chips: 100
+Big Blind: Hanee, chips: 200
+Folds: Cho
+Pot size: 300
+Wins: Hanee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 200
+Folds: Hanee
+Pot size: 300
+Boasts: Hanee, Td 2c
+Wins: Cho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cho
+Small Blind: Cho, chips: 100
+Big Blind: Hanee, chips: 200
+Folds: Cho
+Pot size: 300
+Boasts: Hanee, 3s Jd
+Wins: Hanee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 200
+Folds: Hanee
+Pot size: 300
+Boasts: Hanee, 9c 6s
+Wins: Cho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cho
+Small Blind: Cho, chips: 100
+Big Blind: Hanee, chips: 200
+Folds: Cho
+Pot size: 300
+Boasts: Hanee, 2s 7c
+Wins: Hanee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 200
+Raises: Hanee, chips: 300
+Folds: Cho
+Pot size: 700
+Wins: Hanee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cho
+Small Blind: Cho, chips: 100
+Big Blind: Hanee, chips: 200
+Folds: Cho
+Pot size: 300
+Boasts: Hanee, 3s 6h
+Wins: Hanee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 200
+Calls: Hanee
+DEBUG MESSAGE: INVALID ACTION FROM Cho (2 0)
+Folds: Cho
+Pot size: 400
+Boasts: Hanee, Js Qs
+Wins: Hanee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cho
+Small Blind: Cho, chips: 100
+Big Blind: Hanee, chips: 200
+Folds: Cho
+Pot size: 300
+Boasts: Hanee, 5c 2c
+Wins: Hanee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 100
+Flop: 2d 9s Kd
+Turn: 2s
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Hanee, Th 6c
+Combination: Hanee, Two Pair ( Th Td 2d 2s Kd )
+Shows: Cho, 6d 9d
+Combination: Cho, Flush ( Kd Td 9d 6d 2d )
+Wins: Cho, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cho
+Small Blind: Cho, chips: 100
+Big Blind: Hanee, chips: 200
+Folds: Cho
+Pot size: 300
+Wins: Hanee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 100
+Flop: Tc Qs 5s
+Turn: 2s
+River: 7s
+Pot size: 200
+Showdown Reached
+Shows: Hanee, Qh 4h
+Combination: Hanee, Pair ( Qh Qs Tc 7s 5s )
+Shows: Cho, 3d 4s
+Combination: Cho, Flush ( Qs 7s 5s 4s 2s )
+Wins: Cho, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cho
+Small Blind: Cho, chips: 100
+Big Blind: Hanee, chips: 200
+Folds: Cho
+Pot size: 300
+Boasts: Hanee, As Ah
+Wins: Hanee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanee
+Small Blind: Hanee, chips: 100
+Big Blind: Cho, chips: 100
+Flop: Ts 8h Th
+Turn: 7c
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Hanee, 4c 8s
+Combination: Hanee, Two Pair ( Ts Th 8s 8h 7c )
+Shows: Cho, Qc 4d
+Combination: Cho, Two Pair ( Ts Th 7c 7h Qc )
+Wins: Hanee, chips: 200
+Quits: Cho, chips: 0
+Ranking: Hanee, Place: 1, Score: 1000
+Reveal AI: Hanee, AI: Random
+Ranking: Cho, Place: 2, Score: -1000
+Reveal AI: Cho, AI: AIMyBot1
+
+Player Stats for Cho, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1300, lost: 2300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Hanee, AI: Random
+General: deals: 17, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+

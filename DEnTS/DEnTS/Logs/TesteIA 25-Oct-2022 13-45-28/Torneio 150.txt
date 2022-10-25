@@ -1,0 +1,460 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Lurik: Random
+Ferottol: AIMyBot1
+
+Joins: Lurik, chips: 1000
+Joins: Ferottol, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Folds: Ferottol
+Pot size: 300
+Wins: Lurik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Raises: Lurik, chips: 300
+Folds: Ferottol
+Pot size: 700
+Boasts: Lurik, 5h 2c
+Wins: Lurik, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Folds: Ferottol
+Pot size: 300
+Wins: Lurik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Calls: Lurik
+DEBUG MESSAGE: INVALID ACTION FROM Ferottol (2 0)
+Folds: Ferottol
+Pot size: 400
+Wins: Lurik, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Folds: Ferottol
+Pot size: 300
+Boasts: Lurik, 3d Qh
+Wins: Lurik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Folds: Lurik
+Pot size: 300
+Wins: Ferottol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Folds: Ferottol
+Pot size: 300
+Wins: Lurik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Folds: Lurik
+Pot size: 300
+Boasts: Lurik, 9s Kc
+Wins: Ferottol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Folds: Ferottol
+Pot size: 300
+Boasts: Lurik, 6d Ad
+Wins: Lurik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Calls: Lurik
+DEBUG MESSAGE: INVALID ACTION FROM Ferottol (2 0)
+Folds: Ferottol
+Pot size: 400
+Boasts: Lurik, 4c 8s
+Wins: Lurik, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Flop: Ts Qs 7c
+Turn: 9h
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Lurik, Kd 5s
+Combination: Lurik, Pair ( 9h 9s Kd Qs Ts )
+Shows: Ferottol, Ad Qd
+Combination: Ferottol, Two Pair ( Qd Qs 9h 9s Ad )
+Wins: Lurik, chips: 100
+Wins: Ferottol, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Flop: 7d 2c 8c
+Turn: Kd
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Lurik, Qc Td
+Combination: Lurik, Pair ( 8c 8s Kd Qc Td )
+Shows: Ferottol, Kc 9s
+Combination: Ferottol, Two Pair ( Kc Kd 8c 8s 9s )
+Wins: Ferottol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Folds: Ferottol
+Pot size: 300
+Wins: Lurik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Flop: Jh 2h 7h
+Turn: 9d
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Lurik, 4s As
+Combination: Lurik, High Card ( As Jh 9d 7h 5c )
+Shows: Ferottol, Ah Qc
+Combination: Ferottol, High Card ( Ah Qc Jh 9d 7h )
+Wins: Ferottol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Folds: Ferottol
+Pot size: 300
+Boasts: Lurik, 8h Ks
+Wins: Lurik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Flop: 6h Js Ts
+Turn: Qd
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Lurik, Qs Jc
+Combination: Lurik, Two Pair ( Qs Qd Jc Js Ts )
+Shows: Ferottol, Ac 9h
+Combination: Ferottol, High Card ( Ac Qd Js Ts 9h )
+Wins: Lurik, chips: 200
+Wins: Ferottol, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Flop: 8d As 7h
+Turn: Ah
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Lurik, Jc 4d
+Combination: Lurik, Pair ( As Ah Kc Jc 8d )
+Shows: Ferottol, Jd Js
+Combination: Ferottol, Two Pair ( As Ah Jd Js Kc )
+Wins: Lurik, chips: 100
+Wins: Ferottol, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Flop: 8c 6c 7h
+Turn: 9c
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Lurik, 2c 5c
+Combination: Lurik, Flush ( 9c 8c 6c 5c 2c )
+Shows: Ferottol, Qc 4h
+Combination: Ferottol, High Card ( Qc 9c 8c 7h 6c )
+Wins: Lurik, chips: 200
+Wins: Ferottol, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Flop: 4h Qh 6h
+Turn: 4s
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Lurik, Js 6c
+Combination: Lurik, Two Pair ( 6c 6h 4h 4s Qh )
+Shows: Ferottol, 8s Kd
+Combination: Ferottol, Pair ( 4h 4s Kd Qh 8s )
+Wins: Lurik, chips: 300
+Quits: Ferottol, chips: 0
+Ranking: Lurik, Place: 1, Score: 1000
+Reveal AI: Lurik, AI: Random
+Ranking: Ferottol, Place: 2, Score: -1000
+Reveal AI: Ferottol, AI: AIMyBot1
+
+Player Stats for Ferottol, AI: AIMyBot1
+General: deals: 19, actions: 10, preflop actions: 10
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 8, showdown: 6, bluff: 2
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Lurik, AI: Random
+General: deals: 19, actions: 5, preflop actions: 5
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 15, showdown: 5, bluff: 10
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0.0526316, 3Bet: 0.0526316
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.714286
+
+
+Date: 2022/10/25 13:45:39
+
+The game begins. The AI's of the players are: 
+Lurik: Random
+Ferottol: AIMyBot1
+
+Joins: Lurik, chips: 1000
+Joins: Ferottol, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Folds: Ferottol
+Pot size: 300
+Wins: Lurik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Raises: Lurik, chips: 300
+Folds: Ferottol
+Pot size: 700
+Boasts: Lurik, 5h 2c
+Wins: Lurik, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Folds: Ferottol
+Pot size: 300
+Wins: Lurik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Calls: Lurik
+DEBUG MESSAGE: INVALID ACTION FROM Ferottol (2 0)
+Folds: Ferottol
+Pot size: 400
+Wins: Lurik, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Folds: Ferottol
+Pot size: 300
+Boasts: Lurik, 3d Qh
+Wins: Lurik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Folds: Lurik
+Pot size: 300
+Wins: Ferottol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Folds: Ferottol
+Pot size: 300
+Wins: Lurik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Folds: Lurik
+Pot size: 300
+Boasts: Lurik, 9s Kc
+Wins: Ferottol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Folds: Ferottol
+Pot size: 300
+Boasts: Lurik, 6d Ad
+Wins: Lurik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Calls: Lurik
+DEBUG MESSAGE: INVALID ACTION FROM Ferottol (2 0)
+Folds: Ferottol
+Pot size: 400
+Boasts: Lurik, 4c 8s
+Wins: Lurik, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Flop: Ts Qs 7c
+Turn: 9h
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Lurik, Kd 5s
+Combination: Lurik, Pair ( 9h 9s Kd Qs Ts )
+Shows: Ferottol, Ad Qd
+Combination: Ferottol, Two Pair ( Qd Qs 9h 9s Ad )
+Wins: Lurik, chips: 100
+Wins: Ferottol, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Flop: 7d 2c 8c
+Turn: Kd
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Lurik, Qc Td
+Combination: Lurik, Pair ( 8c 8s Kd Qc Td )
+Shows: Ferottol, Kc 9s
+Combination: Ferottol, Two Pair ( Kc Kd 8c 8s 9s )
+Wins: Ferottol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Folds: Ferottol
+Pot size: 300
+Wins: Lurik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Flop: Jh 2h 7h
+Turn: 9d
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Lurik, 4s As
+Combination: Lurik, High Card ( As Jh 9d 7h 5c )
+Shows: Ferottol, Ah Qc
+Combination: Ferottol, High Card ( Ah Qc Jh 9d 7h )
+Wins: Ferottol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Folds: Ferottol
+Pot size: 300
+Boasts: Lurik, 8h Ks
+Wins: Lurik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Flop: 6h Js Ts
+Turn: Qd
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Lurik, Qs Jc
+Combination: Lurik, Two Pair ( Qs Qd Jc Js Ts )
+Shows: Ferottol, Ac 9h
+Combination: Ferottol, High Card ( Ac Qd Js Ts 9h )
+Wins: Lurik, chips: 200
+Wins: Ferottol, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Flop: 8d As 7h
+Turn: Ah
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Lurik, Jc 4d
+Combination: Lurik, Pair ( As Ah Kc Jc 8d )
+Shows: Ferottol, Jd Js
+Combination: Ferottol, Two Pair ( As Ah Jd Js Kc )
+Wins: Lurik, chips: 100
+Wins: Ferottol, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lurik
+Small Blind: Lurik, chips: 100
+Big Blind: Ferottol, chips: 200
+Flop: 8c 6c 7h
+Turn: 9c
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Lurik, 2c 5c
+Combination: Lurik, Flush ( 9c 8c 6c 5c 2c )
+Shows: Ferottol, Qc 4h
+Combination: Ferottol, High Card ( Qc 9c 8c 7h 6c )
+Wins: Lurik, chips: 200
+Wins: Ferottol, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ferottol
+Small Blind: Ferottol, chips: 100
+Big Blind: Lurik, chips: 200
+Flop: 4h Qh 6h
+Turn: 4s
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Lurik, Js 6c
+Combination: Lurik, Two Pair ( 6c 6h 4h 4s Qh )
+Shows: Ferottol, 8s Kd
+Combination: Ferottol, Pair ( 4h 4s Kd Qh 8s )
+Wins: Lurik, chips: 300
+Quits: Ferottol, chips: 0
+Ranking: Lurik, Place: 1, Score: 1000
+Reveal AI: Lurik, AI: Random
+Ranking: Ferottol, Place: 2, Score: -1000
+Reveal AI: Ferottol, AI: AIMyBot1
+
+Player Stats for Ferottol, AI: AIMyBot1
+General: deals: 19, actions: 10, preflop actions: 10
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 8, showdown: 6, bluff: 2
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Lurik, AI: Random
+General: deals: 19, actions: 5, preflop actions: 5
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 15, showdown: 5, bluff: 10
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0.0526316, 3Bet: 0.0526316
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.714286
+
+

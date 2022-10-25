@@ -1,0 +1,594 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Fonit: AIMyBot1
+Pa: Random
+
+Joins: Fonit, chips: 1000
+Joins: Pa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Calls: Pa
+DEBUG MESSAGE: INVALID ACTION FROM Fonit (2 0)
+Folds: Fonit
+Pot size: 400
+Boasts: Pa, 3c Th
+Wins: Pa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Raises: Pa, chips: 300
+Folds: Fonit
+Pot size: 700
+Boasts: Pa, 5h 8s
+Wins: Pa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Folds: Pa
+Pot size: 300
+Boasts: Pa, Ad 7c
+Wins: Fonit, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Boasts: Pa, 2c Qc
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Folds: Pa
+Pot size: 300
+Boasts: Pa, Kd 4c
+Wins: Fonit, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Folds: Pa
+Pot size: 300
+Boasts: Pa, Jc Ks
+Wins: Fonit, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Folds: Pa
+Pot size: 300
+Boasts: Pa, Qc 6h
+Wins: Fonit, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Raises: Pa, chips: 300
+Folds: Fonit
+Pot size: 700
+Wins: Pa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Flop: 6c 4h 5h
+Turn: 5s
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Fonit, Qh 8d
+Combination: Fonit, Two Pair ( 8d 8h 5h 5s Qh )
+Shows: Pa, Td 4c
+Combination: Pa, Two Pair ( 5h 5s 4c 4h Td )
+Wins: Fonit, chips: 200
+Wins: Pa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Flop: 8s As 9d
+Turn: Ac
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Fonit, Jh Qd
+Combination: Fonit, Pair ( As Ac Qd Jh 9d )
+Shows: Pa, Jc 3c
+Combination: Pa, Pair ( As Ac Jc 9d 8s )
+Wins: Fonit, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Boasts: Pa, Jd 8s
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Flop: 6c Ks Js
+Turn: Ad
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Fonit, Qd Td
+Combination: Fonit, Straight ( Ad Ks Qd Js Td )
+Shows: Pa, 2c Kh
+Combination: Pa, Pair ( Kh Ks Ad Js Tc )
+Wins: Fonit, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Flop: 9s 4h 6h
+Turn: Js
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Fonit, Ts Ah
+Combination: Fonit, High Card ( Ah Js Ts 9s 6h )
+Shows: Pa, Jh 7s
+Combination: Pa, Pair ( Jh Js 9s 7s 6h )
+Wins: Fonit, chips: 100
+Wins: Pa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Flop: 7s Qs 9d
+Turn: 3c
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Fonit, 4d 8h
+Combination: Fonit, Pair ( 8h 8c Qs 9d 7s )
+Shows: Pa, 3d 2s
+Combination: Pa, Pair ( 3d 3c Qs 9d 8c )
+Wins: Fonit, chips: 200
+Wins: Pa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Flop: Jc As Ts
+Turn: 5h
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Fonit, 5d 2c
+Combination: Fonit, Pair ( 5d 5h As Qs Jc )
+Shows: Pa, Ks 9d
+Combination: Pa, Straight ( As Ks Qs Jc Ts )
+Wins: Fonit, chips: 100
+Wins: Pa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Flop: Ts 2h Kd
+Turn: 5d
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Fonit, 3c Qs
+Combination: Fonit, High Card ( Kd Qs Ts 5d 4h )
+Shows: Pa, 9s 6d
+Combination: Pa, High Card ( Kd Ts 9s 6d 5d )
+Wins: Fonit, chips: 200
+Wins: Pa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Flop: Td Jd 6h
+Turn: Ks
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Fonit, 2d Js
+Combination: Fonit, Pair ( Js Jd Ks Td 6h )
+Shows: Pa, Jc 2h
+Combination: Pa, Pair ( Jc Jd Ks Td 6h )
+Wins: Fonit, chips: 200
+Wins: Pa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Boasts: Pa, Ah Ac
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 100
+Flop: Ac 2s 7d
+Turn: Ks
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Fonit, Jd Jc
+Combination: Fonit, Pair ( Jd Jc Ac Ks 8h )
+Shows: Pa, Kh 8s
+Combination: Pa, Two Pair ( Kh Ks 8s 8h Ac )
+Wins: Pa, chips: 200
+Quits: Fonit, chips: 0
+Ranking: Pa, Place: 1, Score: 1000
+Reveal AI: Pa, AI: Random
+Ranking: Fonit, Place: 2, Score: -1000
+Reveal AI: Fonit, AI: AIMyBot1
+
+Player Stats for Fonit, AI: AIMyBot1
+General: deals: 26, actions: 13, preflop actions: 13
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 12, showdown: 8, bluff: 4
+Chips: won: 2800, lost: 3800, bought: 1000, forced bets: 3800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Player Stats for Pa, AI: Random
+General: deals: 26, actions: 7, preflop actions: 7
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 20, showdown: 7, bluff: 13
+Chips: won: 5800, lost: 4800, bought: 1000, forced bets: 3900
+Pre-Flop Stats: VP$IP: 0.115385, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.777778
+
+
+Date: 2022/10/25 13:45:33
+
+The game begins. The AI's of the players are: 
+Fonit: AIMyBot1
+Pa: Random
+
+Joins: Fonit, chips: 1000
+Joins: Pa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Calls: Pa
+DEBUG MESSAGE: INVALID ACTION FROM Fonit (2 0)
+Folds: Fonit
+Pot size: 400
+Boasts: Pa, 3c Th
+Wins: Pa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Raises: Pa, chips: 300
+Folds: Fonit
+Pot size: 700
+Boasts: Pa, 5h 8s
+Wins: Pa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Folds: Pa
+Pot size: 300
+Boasts: Pa, Ad 7c
+Wins: Fonit, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Boasts: Pa, 2c Qc
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Folds: Pa
+Pot size: 300
+Boasts: Pa, Kd 4c
+Wins: Fonit, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Folds: Pa
+Pot size: 300
+Boasts: Pa, Jc Ks
+Wins: Fonit, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Folds: Pa
+Pot size: 300
+Boasts: Pa, Qc 6h
+Wins: Fonit, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Raises: Pa, chips: 300
+Folds: Fonit
+Pot size: 700
+Wins: Pa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Flop: 6c 4h 5h
+Turn: 5s
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Fonit, Qh 8d
+Combination: Fonit, Two Pair ( 8d 8h 5h 5s Qh )
+Shows: Pa, Td 4c
+Combination: Pa, Two Pair ( 5h 5s 4c 4h Td )
+Wins: Fonit, chips: 200
+Wins: Pa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Flop: 8s As 9d
+Turn: Ac
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Fonit, Jh Qd
+Combination: Fonit, Pair ( As Ac Qd Jh 9d )
+Shows: Pa, Jc 3c
+Combination: Pa, Pair ( As Ac Jc 9d 8s )
+Wins: Fonit, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Boasts: Pa, Jd 8s
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Flop: 6c Ks Js
+Turn: Ad
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Fonit, Qd Td
+Combination: Fonit, Straight ( Ad Ks Qd Js Td )
+Shows: Pa, 2c Kh
+Combination: Pa, Pair ( Kh Ks Ad Js Tc )
+Wins: Fonit, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Flop: 9s 4h 6h
+Turn: Js
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Fonit, Ts Ah
+Combination: Fonit, High Card ( Ah Js Ts 9s 6h )
+Shows: Pa, Jh 7s
+Combination: Pa, Pair ( Jh Js 9s 7s 6h )
+Wins: Fonit, chips: 100
+Wins: Pa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Flop: 7s Qs 9d
+Turn: 3c
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Fonit, 4d 8h
+Combination: Fonit, Pair ( 8h 8c Qs 9d 7s )
+Shows: Pa, 3d 2s
+Combination: Pa, Pair ( 3d 3c Qs 9d 8c )
+Wins: Fonit, chips: 200
+Wins: Pa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Flop: Jc As Ts
+Turn: 5h
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Fonit, 5d 2c
+Combination: Fonit, Pair ( 5d 5h As Qs Jc )
+Shows: Pa, Ks 9d
+Combination: Pa, Straight ( As Ks Qs Jc Ts )
+Wins: Fonit, chips: 100
+Wins: Pa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Flop: Ts 2h Kd
+Turn: 5d
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Fonit, 3c Qs
+Combination: Fonit, High Card ( Kd Qs Ts 5d 4h )
+Shows: Pa, 9s 6d
+Combination: Pa, High Card ( Kd Ts 9s 6d 5d )
+Wins: Fonit, chips: 200
+Wins: Pa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 200
+Flop: Td Jd 6h
+Turn: Ks
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Fonit, 2d Js
+Combination: Fonit, Pair ( Js Jd Ks Td 6h )
+Shows: Pa, Jc 2h
+Combination: Pa, Pair ( Jc Jd Ks Td 6h )
+Wins: Fonit, chips: 200
+Wins: Pa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fonit
+Small Blind: Fonit, chips: 100
+Big Blind: Pa, chips: 200
+Folds: Fonit
+Pot size: 300
+Boasts: Pa, Ah Ac
+Wins: Pa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pa
+Small Blind: Pa, chips: 100
+Big Blind: Fonit, chips: 100
+Flop: Ac 2s 7d
+Turn: Ks
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Fonit, Jd Jc
+Combination: Fonit, Pair ( Jd Jc Ac Ks 8h )
+Shows: Pa, Kh 8s
+Combination: Pa, Two Pair ( Kh Ks 8s 8h Ac )
+Wins: Pa, chips: 200
+Quits: Fonit, chips: 0
+Ranking: Pa, Place: 1, Score: 1000
+Reveal AI: Pa, AI: Random
+Ranking: Fonit, Place: 2, Score: -1000
+Reveal AI: Fonit, AI: AIMyBot1
+
+Player Stats for Fonit, AI: AIMyBot1
+General: deals: 26, actions: 13, preflop actions: 13
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 12, showdown: 8, bluff: 4
+Chips: won: 2800, lost: 3800, bought: 1000, forced bets: 3800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Player Stats for Pa, AI: Random
+General: deals: 26, actions: 7, preflop actions: 7
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 20, showdown: 7, bluff: 13
+Chips: won: 5800, lost: 4800, bought: 1000, forced bets: 3900
+Pre-Flop Stats: VP$IP: 0.115385, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.777778
+
+

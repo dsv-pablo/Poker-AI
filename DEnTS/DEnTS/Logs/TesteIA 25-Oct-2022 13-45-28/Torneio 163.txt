@@ -1,0 +1,196 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Nigav: AIMyBot1
+Lefis: Random
+
+Joins: Nigav, chips: 1000
+Joins: Lefis, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nigav
+Small Blind: Nigav, chips: 100
+Big Blind: Lefis, chips: 200
+Folds: Nigav
+Pot size: 300
+Wins: Lefis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lefis
+Small Blind: Lefis, chips: 100
+Big Blind: Nigav, chips: 200
+Calls: Lefis
+DEBUG MESSAGE: INVALID ACTION FROM Nigav (2 0)
+Folds: Nigav
+Pot size: 400
+Wins: Lefis, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nigav
+Small Blind: Nigav, chips: 100
+Big Blind: Lefis, chips: 200
+Folds: Nigav
+Pot size: 300
+Boasts: Lefis, Ah Jc
+Wins: Lefis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lefis
+Small Blind: Lefis, chips: 100
+Big Blind: Nigav, chips: 200
+Raises: Lefis, chips: 300
+Folds: Nigav
+Pot size: 700
+Boasts: Lefis, 3h 6s
+Wins: Lefis, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nigav
+Small Blind: Nigav, chips: 100
+Big Blind: Lefis, chips: 200
+Folds: Nigav
+Pot size: 300
+Boasts: Lefis, 2h Kh
+Wins: Lefis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lefis
+Small Blind: Lefis, chips: 100
+Big Blind: Nigav, chips: 200
+Calls: Lefis
+DEBUG MESSAGE: INVALID ACTION FROM Nigav (2 0)
+Folds: Nigav
+Pot size: 400
+Boasts: Lefis, Td 5d
+Wins: Lefis, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nigav
+Small Blind: Nigav, chips: 100
+Big Blind: Lefis, chips: 200
+Flop: 5c 2d 3s
+Turn: Kd
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Nigav, Jc 4c
+Combination: Nigav, High Card ( Kd Qc Jc 5c 4c )
+Shows: Lefis, As 3c
+Combination: Lefis, Pair ( 3c 3s As Kd Qc )
+Wins: Lefis, chips: 300
+Quits: Nigav, chips: 0
+Ranking: Lefis, Place: 1, Score: 1000
+Reveal AI: Lefis, AI: Random
+Ranking: Nigav, Place: 2, Score: -1000
+Reveal AI: Nigav, AI: AIMyBot1
+
+Player Stats for Lefis, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Nigav, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:40
+
+The game begins. The AI's of the players are: 
+Nigav: AIMyBot1
+Lefis: Random
+
+Joins: Nigav, chips: 1000
+Joins: Lefis, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nigav
+Small Blind: Nigav, chips: 100
+Big Blind: Lefis, chips: 200
+Folds: Nigav
+Pot size: 300
+Wins: Lefis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lefis
+Small Blind: Lefis, chips: 100
+Big Blind: Nigav, chips: 200
+Calls: Lefis
+DEBUG MESSAGE: INVALID ACTION FROM Nigav (2 0)
+Folds: Nigav
+Pot size: 400
+Wins: Lefis, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nigav
+Small Blind: Nigav, chips: 100
+Big Blind: Lefis, chips: 200
+Folds: Nigav
+Pot size: 300
+Boasts: Lefis, Ah Jc
+Wins: Lefis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lefis
+Small Blind: Lefis, chips: 100
+Big Blind: Nigav, chips: 200
+Raises: Lefis, chips: 300
+Folds: Nigav
+Pot size: 700
+Boasts: Lefis, 3h 6s
+Wins: Lefis, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nigav
+Small Blind: Nigav, chips: 100
+Big Blind: Lefis, chips: 200
+Folds: Nigav
+Pot size: 300
+Boasts: Lefis, 2h Kh
+Wins: Lefis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lefis
+Small Blind: Lefis, chips: 100
+Big Blind: Nigav, chips: 200
+Calls: Lefis
+DEBUG MESSAGE: INVALID ACTION FROM Nigav (2 0)
+Folds: Nigav
+Pot size: 400
+Boasts: Lefis, Td 5d
+Wins: Lefis, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nigav
+Small Blind: Nigav, chips: 100
+Big Blind: Lefis, chips: 200
+Flop: 5c 2d 3s
+Turn: Kd
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Nigav, Jc 4c
+Combination: Nigav, High Card ( Kd Qc Jc 5c 4c )
+Shows: Lefis, As 3c
+Combination: Lefis, Pair ( 3c 3s As Kd Qc )
+Wins: Lefis, chips: 300
+Quits: Nigav, chips: 0
+Ranking: Lefis, Place: 1, Score: 1000
+Reveal AI: Lefis, AI: Random
+Ranking: Nigav, Place: 2, Score: -1000
+Reveal AI: Nigav, AI: AIMyBot1
+
+Player Stats for Lefis, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Nigav, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

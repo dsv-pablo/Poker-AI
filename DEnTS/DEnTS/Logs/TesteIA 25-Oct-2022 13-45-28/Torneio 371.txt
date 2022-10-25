@@ -1,0 +1,484 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Duloeloe: AIMyBot1
+Chebin: Random
+
+Joins: Duloeloe, chips: 1000
+Joins: Chebin, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 200
+Calls: Chebin
+DEBUG MESSAGE: INVALID ACTION FROM Duloeloe (2 0)
+Folds: Duloeloe
+Pot size: 400
+Wins: Chebin, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Boasts: Chebin, 9c 9d
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 200
+Folds: Chebin
+Pot size: 300
+Boasts: Chebin, 9c 5h
+Wins: Duloeloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Boasts: Chebin, Th 8h
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 200
+Calls: Chebin
+DEBUG MESSAGE: INVALID ACTION FROM Duloeloe (2 0)
+Folds: Duloeloe
+Pot size: 400
+Wins: Chebin, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 200
+Raises: Chebin, chips: 300
+Folds: Duloeloe
+Pot size: 700
+Boasts: Chebin, 8c 7s
+Wins: Chebin, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 100
+Flop: 4c 5d Ah
+Turn: 6h
+River: 6d
+Pot size: 200
+Showdown Reached
+Shows: Duloeloe, Qd 6c
+Combination: Duloeloe, Three Of A Kind ( 6c 6h 6d Ah Qd )
+Shows: Chebin, Jc Td
+Combination: Chebin, Pair ( 6h 6d Ah Jc Td )
+Wins: Duloeloe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 100
+Flop: 8h 9c 7c
+Turn: 5c
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Duloeloe, Ks Js
+Combination: Duloeloe, High Card ( Ks Js 9c 8h 7c )
+Shows: Chebin, 2c 4s
+Combination: Chebin, High Card ( 9c 8h 7c 5c 4s )
+Wins: Duloeloe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Boasts: Chebin, Ac Jd
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 100
+Flop: 9s 9h 8d
+Turn: 3d
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Duloeloe, Jd Kd
+Combination: Duloeloe, Flush ( Kd Jd 8d 5d 3d )
+Shows: Chebin, 8h Th
+Combination: Chebin, Two Pair ( 9s 9h 8h 8d Th )
+Wins: Duloeloe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Boasts: Chebin, 7h 4s
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 100
+Flop: 8c 8s Qc
+Turn: Ts
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Duloeloe, 9c 2d
+Combination: Duloeloe, Straight ( Qc Jd Ts 9c 8c )
+Shows: Chebin, Js Qh
+Combination: Chebin, Two Pair ( Qh Qc Js Jd Ts )
+Wins: Duloeloe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 100
+Flop: Jd Qc 2s
+Turn: 9h
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Duloeloe, Qs Th
+Combination: Duloeloe, Two Pair ( Qs Qc Jd Jh Th )
+Shows: Chebin, As 8d
+Combination: Chebin, Pair ( Jd Jh As Qc 9h )
+Wins: Duloeloe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Boasts: Chebin, Kd Js
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 100
+Flop: Jd Ks Qd
+Turn: 9s
+River: 2s
+Pot size: 200
+Showdown Reached
+Shows: Duloeloe, 2d Kh
+Combination: Duloeloe, Two Pair ( Kh Ks 2d 2s Qd )
+Shows: Chebin, 6d 4s
+Combination: Chebin, High Card ( Ks Qd Jd 9s 6d )
+Wins: Duloeloe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Boasts: Chebin, 8d 4h
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 100
+Flop: 9s 2c 2d
+Turn: 5h
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Duloeloe, 5d Ad
+Combination: Duloeloe, Two Pair ( 5d 5h 2c 2d Ad )
+Shows: Chebin, 8s 2h
+Combination: Chebin, Three Of A Kind ( 2h 2c 2d Jc 9s )
+Wins: Chebin, chips: 200
+Quits: Duloeloe, chips: 0
+Ranking: Chebin, Place: 1, Score: 1000
+Reveal AI: Chebin, AI: Random
+Ranking: Duloeloe, Place: 2, Score: -1000
+Reveal AI: Duloeloe, AI: AIMyBot1
+
+Player Stats for Chebin, AI: Random
+General: deals: 21, actions: 4, preflop actions: 4
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 14, showdown: 1, bluff: 13
+Chips: won: 4700, lost: 3700, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.047619, 3Bet: 0.047619
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.142857
+
+
+Player Stats for Duloeloe, AI: AIMyBot1
+General: deals: 21, actions: 13, preflop actions: 13
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 7, showdown: 6, bluff: 1
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Date: 2022/10/25 13:45:53
+
+The game begins. The AI's of the players are: 
+Duloeloe: AIMyBot1
+Chebin: Random
+
+Joins: Duloeloe, chips: 1000
+Joins: Chebin, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 200
+Calls: Chebin
+DEBUG MESSAGE: INVALID ACTION FROM Duloeloe (2 0)
+Folds: Duloeloe
+Pot size: 400
+Wins: Chebin, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Boasts: Chebin, 9c 9d
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 200
+Folds: Chebin
+Pot size: 300
+Boasts: Chebin, 9c 5h
+Wins: Duloeloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Boasts: Chebin, Th 8h
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 200
+Calls: Chebin
+DEBUG MESSAGE: INVALID ACTION FROM Duloeloe (2 0)
+Folds: Duloeloe
+Pot size: 400
+Wins: Chebin, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 200
+Raises: Chebin, chips: 300
+Folds: Duloeloe
+Pot size: 700
+Boasts: Chebin, 8c 7s
+Wins: Chebin, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 100
+Flop: 4c 5d Ah
+Turn: 6h
+River: 6d
+Pot size: 200
+Showdown Reached
+Shows: Duloeloe, Qd 6c
+Combination: Duloeloe, Three Of A Kind ( 6c 6h 6d Ah Qd )
+Shows: Chebin, Jc Td
+Combination: Chebin, Pair ( 6h 6d Ah Jc Td )
+Wins: Duloeloe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 100
+Flop: 8h 9c 7c
+Turn: 5c
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Duloeloe, Ks Js
+Combination: Duloeloe, High Card ( Ks Js 9c 8h 7c )
+Shows: Chebin, 2c 4s
+Combination: Chebin, High Card ( 9c 8h 7c 5c 4s )
+Wins: Duloeloe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Boasts: Chebin, Ac Jd
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 100
+Flop: 9s 9h 8d
+Turn: 3d
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Duloeloe, Jd Kd
+Combination: Duloeloe, Flush ( Kd Jd 8d 5d 3d )
+Shows: Chebin, 8h Th
+Combination: Chebin, Two Pair ( 9s 9h 8h 8d Th )
+Wins: Duloeloe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Boasts: Chebin, 7h 4s
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 100
+Flop: 8c 8s Qc
+Turn: Ts
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Duloeloe, 9c 2d
+Combination: Duloeloe, Straight ( Qc Jd Ts 9c 8c )
+Shows: Chebin, Js Qh
+Combination: Chebin, Two Pair ( Qh Qc Js Jd Ts )
+Wins: Duloeloe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 100
+Flop: Jd Qc 2s
+Turn: 9h
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Duloeloe, Qs Th
+Combination: Duloeloe, Two Pair ( Qs Qc Jd Jh Th )
+Shows: Chebin, As 8d
+Combination: Chebin, Pair ( Jd Jh As Qc 9h )
+Wins: Duloeloe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Boasts: Chebin, Kd Js
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 100
+Flop: Jd Ks Qd
+Turn: 9s
+River: 2s
+Pot size: 200
+Showdown Reached
+Shows: Duloeloe, 2d Kh
+Combination: Duloeloe, Two Pair ( Kh Ks 2d 2s Qd )
+Shows: Chebin, 6d 4s
+Combination: Chebin, High Card ( Ks Qd Jd 9s 6d )
+Wins: Duloeloe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duloeloe
+Small Blind: Duloeloe, chips: 100
+Big Blind: Chebin, chips: 200
+Folds: Duloeloe
+Pot size: 300
+Boasts: Chebin, 8d 4h
+Wins: Chebin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebin
+Small Blind: Chebin, chips: 100
+Big Blind: Duloeloe, chips: 100
+Flop: 9s 2c 2d
+Turn: 5h
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Duloeloe, 5d Ad
+Combination: Duloeloe, Two Pair ( 5d 5h 2c 2d Ad )
+Shows: Chebin, 8s 2h
+Combination: Chebin, Three Of A Kind ( 2h 2c 2d Jc 9s )
+Wins: Chebin, chips: 200
+Quits: Duloeloe, chips: 0
+Ranking: Chebin, Place: 1, Score: 1000
+Reveal AI: Chebin, AI: Random
+Ranking: Duloeloe, Place: 2, Score: -1000
+Reveal AI: Duloeloe, AI: AIMyBot1
+
+Player Stats for Chebin, AI: Random
+General: deals: 21, actions: 4, preflop actions: 4
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 14, showdown: 1, bluff: 13
+Chips: won: 4700, lost: 3700, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.047619, 3Bet: 0.047619
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.142857
+
+
+Player Stats for Duloeloe, AI: AIMyBot1
+General: deals: 21, actions: 13, preflop actions: 13
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 7, showdown: 6, bluff: 1
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+

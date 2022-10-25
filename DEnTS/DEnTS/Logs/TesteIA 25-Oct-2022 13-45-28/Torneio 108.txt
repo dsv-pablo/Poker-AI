@@ -1,0 +1,254 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jepee: Random
+Hinhom: AIMyBot1
+
+Joins: Jepee, chips: 1000
+Joins: Hinhom, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhom
+Small Blind: Hinhom, chips: 100
+Big Blind: Jepee, chips: 200
+Folds: Hinhom
+Pot size: 300
+Boasts: Jepee, 6c 7h
+Wins: Jepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jepee
+Small Blind: Jepee, chips: 100
+Big Blind: Hinhom, chips: 200
+Calls: Jepee
+DEBUG MESSAGE: INVALID ACTION FROM Hinhom (2 0)
+Folds: Hinhom
+Pot size: 400
+Boasts: Jepee, 7h 2h
+Wins: Jepee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhom
+Small Blind: Hinhom, chips: 100
+Big Blind: Jepee, chips: 200
+Folds: Hinhom
+Pot size: 300
+Wins: Jepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jepee
+Small Blind: Jepee, chips: 100
+Big Blind: Hinhom, chips: 200
+Calls: Jepee
+DEBUG MESSAGE: INVALID ACTION FROM Hinhom (2 0)
+Folds: Hinhom
+Pot size: 400
+Wins: Jepee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhom
+Small Blind: Hinhom, chips: 100
+Big Blind: Jepee, chips: 200
+Folds: Hinhom
+Pot size: 300
+Wins: Jepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jepee
+Small Blind: Jepee, chips: 100
+Big Blind: Hinhom, chips: 200
+Calls: Jepee
+DEBUG MESSAGE: INVALID ACTION FROM Hinhom (2 0)
+Folds: Hinhom
+Pot size: 400
+Wins: Jepee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhom
+Small Blind: Hinhom, chips: 100
+Big Blind: Jepee, chips: 200
+Flop: Ks 4d Qh
+Turn: 8s
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Jepee, 9d 2s
+Combination: Jepee, High Card ( Ah Ks Qh 9d 8s )
+Shows: Hinhom, 6c As
+Combination: Hinhom, Pair ( As Ah Ks Qh 8s )
+Wins: Jepee, chips: 100
+Wins: Hinhom, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jepee
+Small Blind: Jepee, chips: 100
+Big Blind: Hinhom, chips: 200
+Flop: 9s Qc Js
+Turn: 6c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Jepee, 6s Jh
+Combination: Jepee, Two Pair ( Jh Js 6s 6c Qc )
+Shows: Hinhom, 6d 9c
+Combination: Hinhom, Two Pair ( 9c 9s 6d 6c Qc )
+Wins: Jepee, chips: 200
+Wins: Hinhom, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhom
+Small Blind: Hinhom, chips: 100
+Big Blind: Jepee, chips: 200
+Flop: Qd 3c 8s
+Turn: Ts
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Jepee, 8c 5s
+Combination: Jepee, Pair ( 8c 8s Qd Ts 7h )
+Shows: Hinhom, 4s 9d
+Combination: Hinhom, High Card ( Qd Ts 9d 8s 7h )
+Wins: Jepee, chips: 300
+Quits: Hinhom, chips: 0
+Ranking: Jepee, Place: 1, Score: 1000
+Reveal AI: Jepee, AI: Random
+Ranking: Hinhom, Place: 2, Score: -1000
+Reveal AI: Hinhom, AI: AIMyBot1
+
+Player Stats for Hinhom, AI: AIMyBot1
+General: deals: 9, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Jepee, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:37
+
+The game begins. The AI's of the players are: 
+Jepee: Random
+Hinhom: AIMyBot1
+
+Joins: Jepee, chips: 1000
+Joins: Hinhom, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhom
+Small Blind: Hinhom, chips: 100
+Big Blind: Jepee, chips: 200
+Folds: Hinhom
+Pot size: 300
+Boasts: Jepee, 6c 7h
+Wins: Jepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jepee
+Small Blind: Jepee, chips: 100
+Big Blind: Hinhom, chips: 200
+Calls: Jepee
+DEBUG MESSAGE: INVALID ACTION FROM Hinhom (2 0)
+Folds: Hinhom
+Pot size: 400
+Boasts: Jepee, 7h 2h
+Wins: Jepee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhom
+Small Blind: Hinhom, chips: 100
+Big Blind: Jepee, chips: 200
+Folds: Hinhom
+Pot size: 300
+Wins: Jepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jepee
+Small Blind: Jepee, chips: 100
+Big Blind: Hinhom, chips: 200
+Calls: Jepee
+DEBUG MESSAGE: INVALID ACTION FROM Hinhom (2 0)
+Folds: Hinhom
+Pot size: 400
+Wins: Jepee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhom
+Small Blind: Hinhom, chips: 100
+Big Blind: Jepee, chips: 200
+Folds: Hinhom
+Pot size: 300
+Wins: Jepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jepee
+Small Blind: Jepee, chips: 100
+Big Blind: Hinhom, chips: 200
+Calls: Jepee
+DEBUG MESSAGE: INVALID ACTION FROM Hinhom (2 0)
+Folds: Hinhom
+Pot size: 400
+Wins: Jepee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhom
+Small Blind: Hinhom, chips: 100
+Big Blind: Jepee, chips: 200
+Flop: Ks 4d Qh
+Turn: 8s
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Jepee, 9d 2s
+Combination: Jepee, High Card ( Ah Ks Qh 9d 8s )
+Shows: Hinhom, 6c As
+Combination: Hinhom, Pair ( As Ah Ks Qh 8s )
+Wins: Jepee, chips: 100
+Wins: Hinhom, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jepee
+Small Blind: Jepee, chips: 100
+Big Blind: Hinhom, chips: 200
+Flop: 9s Qc Js
+Turn: 6c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Jepee, 6s Jh
+Combination: Jepee, Two Pair ( Jh Js 6s 6c Qc )
+Shows: Hinhom, 6d 9c
+Combination: Hinhom, Two Pair ( 9c 9s 6d 6c Qc )
+Wins: Jepee, chips: 200
+Wins: Hinhom, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hinhom
+Small Blind: Hinhom, chips: 100
+Big Blind: Jepee, chips: 200
+Flop: Qd 3c 8s
+Turn: Ts
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Jepee, 8c 5s
+Combination: Jepee, Pair ( 8c 8s Qd Ts 7h )
+Shows: Hinhom, 4s 9d
+Combination: Hinhom, High Card ( Qd Ts 9d 8s 7h )
+Wins: Jepee, chips: 300
+Quits: Hinhom, chips: 0
+Ranking: Jepee, Place: 1, Score: 1000
+Reveal AI: Jepee, AI: Random
+Ranking: Hinhom, Place: 2, Score: -1000
+Reveal AI: Hinhom, AI: AIMyBot1
+
+Player Stats for Hinhom, AI: AIMyBot1
+General: deals: 9, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Jepee, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

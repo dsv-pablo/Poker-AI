@@ -1,0 +1,442 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pepoep: AIMyBot1
+Fosawe: Random
+
+Joins: Pepoep, chips: 1000
+Joins: Fosawe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Folds: Pepoep
+Pot size: 300
+Boasts: Fosawe, 8h 2d
+Wins: Fosawe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Folds: Fosawe
+Pot size: 300
+Boasts: Fosawe, 7c 2c
+Wins: Pepoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Folds: Pepoep
+Pot size: 300
+Boasts: Fosawe, Ah Qd
+Wins: Fosawe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Folds: Fosawe
+Pot size: 300
+Wins: Pepoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Folds: Pepoep
+Pot size: 300
+Wins: Fosawe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Calls: Fosawe
+DEBUG MESSAGE: INVALID ACTION FROM Pepoep (2 0)
+Folds: Pepoep
+Pot size: 400
+Wins: Fosawe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Folds: Pepoep
+Pot size: 300
+Wins: Fosawe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Calls: Fosawe
+DEBUG MESSAGE: INVALID ACTION FROM Pepoep (2 0)
+Folds: Pepoep
+Pot size: 400
+Boasts: Fosawe, 3s 3c
+Wins: Fosawe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Folds: Pepoep
+Pot size: 300
+Wins: Fosawe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Calls: Fosawe
+DEBUG MESSAGE: INVALID ACTION FROM Pepoep (2 0)
+Folds: Pepoep
+Pot size: 400
+Wins: Fosawe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Flop: Qs Qh Js
+Turn: 6h
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Pepoep, Qc 8c
+Combination: Pepoep, Four Of A Kind ( Qc Qs Qh Qd Js )
+Shows: Fosawe, 6d Ah
+Combination: Fosawe, Full House ( Qs Qh Qd 6d 6h )
+Wins: Pepoep, chips: 200
+Wins: Fosawe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Flop: Ac Qc 4c
+Turn: Td
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Pepoep, Ad Th
+Combination: Pepoep, Two Pair ( Ad Ac Th Td Qc )
+Shows: Fosawe, 6d Qh
+Combination: Fosawe, Pair ( Qh Qc Ac Td 9d )
+Wins: Pepoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Folds: Pepoep
+Pot size: 300
+Boasts: Fosawe, 5d 6h
+Wins: Fosawe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Flop: Qs 4h 2d
+Turn: 5d
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Pepoep, 3c 6d
+Combination: Pepoep, Straight ( 6d 5d 4h 3c 2d )
+Shows: Fosawe, Tc 4c
+Combination: Fosawe, Two Pair ( 5d 5h 4c 4h Qs )
+Wins: Pepoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Folds: Pepoep
+Pot size: 300
+Wins: Fosawe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Flop: Qd Kd 9c
+Turn: 6c
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Pepoep, Qc Ad
+Combination: Pepoep, Three Of A Kind ( Qc Qd Qs Ad Kd )
+Shows: Fosawe, 2s 7d
+Combination: Fosawe, Pair ( Qd Qs Kd 9c 7d )
+Wins: Pepoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Folds: Pepoep
+Pot size: 300
+Wins: Fosawe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Flop: 2s Ac 9c
+Turn: 5c
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Pepoep, 7h 6h
+Combination: Pepoep, Pair ( 2s 2h Ac 9c 7h )
+Shows: Fosawe, 7s 2d
+Combination: Fosawe, Three Of A Kind ( 2d 2s 2h Ac 9c )
+Wins: Pepoep, chips: 100
+Wins: Fosawe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Flop: 9c 8s Jd
+Turn: 4c
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Pepoep, 4s Qh
+Combination: Pepoep, Three Of A Kind ( 4s 4c 4d Qh Jd )
+Shows: Fosawe, 7d Td
+Combination: Fosawe, Straight ( Jd Td 9c 8s 7d )
+Wins: Fosawe, chips: 300
+Quits: Pepoep, chips: 0
+Ranking: Fosawe, Place: 1, Score: 1000
+Reveal AI: Fosawe, AI: Random
+Ranking: Pepoep, Place: 2, Score: -1000
+Reveal AI: Pepoep, AI: AIMyBot1
+
+Player Stats for Fosawe, AI: Random
+General: deals: 19, actions: 5, preflop actions: 5
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 14, showdown: 3, bluff: 11
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Pepoep, AI: AIMyBot1
+General: deals: 19, actions: 11, preflop actions: 11
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 7, showdown: 5, bluff: 2
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:46:03
+
+The game begins. The AI's of the players are: 
+Pepoep: AIMyBot1
+Fosawe: Random
+
+Joins: Pepoep, chips: 1000
+Joins: Fosawe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Folds: Pepoep
+Pot size: 300
+Boasts: Fosawe, 8h 2d
+Wins: Fosawe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Folds: Fosawe
+Pot size: 300
+Boasts: Fosawe, 7c 2c
+Wins: Pepoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Folds: Pepoep
+Pot size: 300
+Boasts: Fosawe, Ah Qd
+Wins: Fosawe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Folds: Fosawe
+Pot size: 300
+Wins: Pepoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Folds: Pepoep
+Pot size: 300
+Wins: Fosawe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Calls: Fosawe
+DEBUG MESSAGE: INVALID ACTION FROM Pepoep (2 0)
+Folds: Pepoep
+Pot size: 400
+Wins: Fosawe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Folds: Pepoep
+Pot size: 300
+Wins: Fosawe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Calls: Fosawe
+DEBUG MESSAGE: INVALID ACTION FROM Pepoep (2 0)
+Folds: Pepoep
+Pot size: 400
+Boasts: Fosawe, 3s 3c
+Wins: Fosawe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Folds: Pepoep
+Pot size: 300
+Wins: Fosawe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Calls: Fosawe
+DEBUG MESSAGE: INVALID ACTION FROM Pepoep (2 0)
+Folds: Pepoep
+Pot size: 400
+Wins: Fosawe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Flop: Qs Qh Js
+Turn: 6h
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Pepoep, Qc 8c
+Combination: Pepoep, Four Of A Kind ( Qc Qs Qh Qd Js )
+Shows: Fosawe, 6d Ah
+Combination: Fosawe, Full House ( Qs Qh Qd 6d 6h )
+Wins: Pepoep, chips: 200
+Wins: Fosawe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Flop: Ac Qc 4c
+Turn: Td
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Pepoep, Ad Th
+Combination: Pepoep, Two Pair ( Ad Ac Th Td Qc )
+Shows: Fosawe, 6d Qh
+Combination: Fosawe, Pair ( Qh Qc Ac Td 9d )
+Wins: Pepoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Folds: Pepoep
+Pot size: 300
+Boasts: Fosawe, 5d 6h
+Wins: Fosawe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Flop: Qs 4h 2d
+Turn: 5d
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Pepoep, 3c 6d
+Combination: Pepoep, Straight ( 6d 5d 4h 3c 2d )
+Shows: Fosawe, Tc 4c
+Combination: Fosawe, Two Pair ( 5d 5h 4c 4h Qs )
+Wins: Pepoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Folds: Pepoep
+Pot size: 300
+Wins: Fosawe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Flop: Qd Kd 9c
+Turn: 6c
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Pepoep, Qc Ad
+Combination: Pepoep, Three Of A Kind ( Qc Qd Qs Ad Kd )
+Shows: Fosawe, 2s 7d
+Combination: Fosawe, Pair ( Qd Qs Kd 9c 7d )
+Wins: Pepoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Folds: Pepoep
+Pot size: 300
+Wins: Fosawe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosawe
+Small Blind: Fosawe, chips: 100
+Big Blind: Pepoep, chips: 200
+Flop: 2s Ac 9c
+Turn: 5c
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Pepoep, 7h 6h
+Combination: Pepoep, Pair ( 2s 2h Ac 9c 7h )
+Shows: Fosawe, 7s 2d
+Combination: Fosawe, Three Of A Kind ( 2d 2s 2h Ac 9c )
+Wins: Pepoep, chips: 100
+Wins: Fosawe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pepoep
+Small Blind: Pepoep, chips: 100
+Big Blind: Fosawe, chips: 200
+Flop: 9c 8s Jd
+Turn: 4c
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Pepoep, 4s Qh
+Combination: Pepoep, Three Of A Kind ( 4s 4c 4d Qh Jd )
+Shows: Fosawe, 7d Td
+Combination: Fosawe, Straight ( Jd Td 9c 8s 7d )
+Wins: Fosawe, chips: 300
+Quits: Pepoep, chips: 0
+Ranking: Fosawe, Place: 1, Score: 1000
+Reveal AI: Fosawe, AI: Random
+Ranking: Pepoep, Place: 2, Score: -1000
+Reveal AI: Pepoep, AI: AIMyBot1
+
+Player Stats for Fosawe, AI: Random
+General: deals: 19, actions: 5, preflop actions: 5
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 14, showdown: 3, bluff: 11
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Pepoep, AI: AIMyBot1
+General: deals: 19, actions: 11, preflop actions: 11
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 7, showdown: 5, bluff: 2
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

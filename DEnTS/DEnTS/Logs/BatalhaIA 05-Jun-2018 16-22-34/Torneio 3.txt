@@ -1,0 +1,2502 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wiwrinny: AIMyBot1
+Choeroet: AIMyBot5
+Choewil: AIMyBot6
+Werli: AIMyBot3
+Bonhof: AIMyBot7
+Beesee: AIMyBot4
+Chinhoe: AIMyBot2
+
+Joins: Wiwrinny, chips: 1000
+Joins: Choeroet, chips: 1000
+Joins: Choewil, chips: 1000
+Joins: Werli, chips: 1000
+Joins: Bonhof, chips: 1000
+Joins: Beesee, chips: 1000
+Joins: Chinhoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Chinhoe, chips: 100
+Big Blind: Wiwrinny, chips: 200
+Folds: Choeroet
+Folds: Choewil
+Folds: Werli
+Folds: Bonhof
+Folds: Beesee
+Calls: Chinhoe
+Raises: Wiwrinny, chips: 200
+Folds: Chinhoe
+Pot size: 600
+Wins: Wiwrinny, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinhoe
+Small Blind: Wiwrinny, chips: 100
+Big Blind: Choeroet, chips: 200
+Calls: Choewil
+Folds: Werli
+Folds: Bonhof
+Calls: Beesee
+Folds: Chinhoe
+Calls: Wiwrinny
+Checks: Choeroet
+Flop: Qc Ts 9s
+Checks: Wiwrinny
+Checks: Choeroet
+Checks: Choewil
+Checks: Beesee
+Turn: 2s
+Checks: Wiwrinny
+Checks: Choeroet
+Checks: Choewil
+Checks: Beesee
+River: Ks
+Checks: Wiwrinny
+Checks: Choeroet
+Checks: Choewil
+Checks: Beesee
+Pot size: 800
+Showdown Reached
+Shows: Wiwrinny, 6s 8d
+Combination: Wiwrinny, Flush ( Ks Ts 9s 6s 2s )
+Shows: Choeroet, 6c 9d
+Combination: Choeroet, Pair ( 9d 9s Ks Qc Ts )
+Shows: Choewil, 7d 7h
+Combination: Choewil, Pair ( 7d 7h Ks Qc Ts )
+Shows: Beesee, Qd Td
+Combination: Beesee, Two Pair ( Qd Qc Td Ts Ks )
+Wins: Wiwrinny, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwrinny
+Small Blind: Choeroet, chips: 100
+Big Blind: Choewil, chips: 200
+Folds: Werli
+Raises: Bonhof, chips: 600
+Folds: Beesee
+Folds: Chinhoe
+Folds: Wiwrinny
+Folds: Choeroet
+Folds: Choewil
+Pot size: 1100
+Wins: Bonhof, chips: 1100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeroet
+Small Blind: Choewil, chips: 100
+Big Blind: Werli, chips: 200
+Folds: Bonhof
+Calls: Beesee
+Folds: Chinhoe
+Calls: Wiwrinny
+Folds: Choeroet
+Folds: Choewil
+DEBUG MESSAGE: INVALID ACTION FROM Werli (2 0)
+Folds: Werli
+Flop: As 7s Tc
+Checks: Beesee
+Checks: Wiwrinny
+Turn: Qs
+Checks: Beesee
+Checks: Wiwrinny
+River: 5h
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 700
+Showdown Reached
+Shows: Wiwrinny, Qh 7h
+Combination: Wiwrinny, Two Pair ( Qh Qs 7h 7s As )
+Shows: Beesee, 9h 8d
+Combination: Beesee, High Card ( As Qs Tc 9h 8d )
+Wins: Wiwrinny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choewil
+Small Blind: Werli, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Folds: Chinhoe
+Calls: Wiwrinny
+Folds: Choeroet
+Folds: Choewil
+Folds: Werli
+Checks: Bonhof
+Flop: Td Kh 2d
+Checks: Bonhof
+Checks: Beesee
+Checks: Wiwrinny
+Turn: Jd
+Checks: Bonhof
+Checks: Beesee
+Checks: Wiwrinny
+River: Jc
+Checks: Bonhof
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 700
+Showdown Reached
+Shows: Wiwrinny, 4s 9d
+Combination: Wiwrinny, Pair ( Jd Jc Kh Td 9d )
+Shows: Bonhof, As 4h
+Combination: Bonhof, Pair ( Jd Jc As Kh Td )
+Shows: Beesee, 6c Kc
+Combination: Beesee, Two Pair ( Kc Kh Jd Jc Td )
+Wins: Beesee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werli
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Folds: Chinhoe
+Calls: Wiwrinny
+Calls: Choeroet
+Calls: Choewil
+Folds: Werli
+Folds: Bonhof
+Checks: Beesee
+Flop: 4h 3s Kd
+Checks: Beesee
+Checks: Wiwrinny
+Checks: Choeroet
+Checks: Choewil
+Turn: 6d
+Checks: Beesee
+Checks: Wiwrinny
+Checks: Choeroet
+Checks: Choewil
+River: Jd
+Checks: Beesee
+Checks: Wiwrinny
+Checks: Choeroet
+Checks: Choewil
+Pot size: 900
+Showdown Reached
+Shows: Wiwrinny, 3c 8d
+Combination: Wiwrinny, Pair ( 3c 3s Kd Jd 8d )
+Shows: Choeroet, 5h Qd
+Combination: Choeroet, High Card ( Kd Qd Jd 6d 5h )
+Shows: Choewil, Qh Th
+Combination: Choewil, High Card ( Kd Qh Jd Th 6d )
+Shows: Beesee, Ah 3d
+Combination: Beesee, Pair ( 3d 3s Ah Kd Jd )
+Wins: Beesee, chips: 900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Beesee, chips: 100
+Big Blind: Chinhoe, chips: 200
+Calls: Wiwrinny
+Raises: Choeroet, chips: 300
+Folds: Choewil
+Folds: Werli
+Folds: Bonhof
+Calls: Beesee
+Folds: Chinhoe
+Folds: Wiwrinny
+Flop: Jc Tc Qc
+Turn: 3h
+River: 5c
+Pot size: 1400
+Showdown Reached
+Shows: Choeroet, 2d Ad
+Combination: Choeroet, High Card ( Ad Qc Jc Tc 5c )
+Shows: Beesee, Qs 5h
+Combination: Beesee, Two Pair ( Qs Qc 5h 5c Jc )
+Wins: Beesee, chips: 1400
+Quits: Choeroet, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Chinhoe, chips: 100
+Big Blind: Wiwrinny, chips: 200
+Folds: Choewil
+Folds: Werli
+Folds: Bonhof
+Calls: Beesee
+Folds: Chinhoe
+Raises: Wiwrinny, chips: 200
+Calls: Beesee
+Flop: 8d 2c Ac
+Checks: Wiwrinny
+Checks: Beesee
+Turn: Qd
+Checks: Wiwrinny
+Checks: Beesee
+River: 7c
+Checks: Wiwrinny
+Checks: Beesee
+Pot size: 900
+Showdown Reached
+Shows: Wiwrinny, 9c 9h
+Combination: Wiwrinny, Pair ( 9c 9h Ac Qd 8d )
+Shows: Beesee, 7s 9s
+Combination: Beesee, Pair ( 7s 7c Ac Qd 9s )
+Wins: Wiwrinny, chips: 900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinhoe
+Small Blind: Wiwrinny, chips: 100
+Big Blind: Choewil, chips: 200
+Folds: Werli
+Folds: Bonhof
+Calls: Beesee
+Folds: Chinhoe
+Calls: Wiwrinny
+Checks: Choewil
+Flop: Qh Ac 8d
+Checks: Wiwrinny
+Raises: Choewil, chips: 100
+Calls: Beesee
+Folds: Wiwrinny
+Turn: 2s
+River: 9d
+Pot size: 800
+Showdown Reached
+Shows: Choewil, Ah Qd
+Combination: Choewil, Two Pair ( Ah Ac Qd Qh 9d )
+Shows: Beesee, Kh 2h
+Combination: Beesee, Pair ( 2h 2s Ac Kh Qh )
+Wins: Choewil, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwrinny
+Small Blind: Choewil, chips: 100
+Big Blind: Werli, chips: 200
+Folds: Bonhof
+Calls: Beesee
+Folds: Chinhoe
+Calls: Wiwrinny
+Folds: Choewil
+Raises: Werli, chips: 217
+Folds: Beesee
+Folds: Wiwrinny
+Pot size: 917
+Wins: Werli, chips: 917
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choewil
+Small Blind: Werli, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Folds: Chinhoe
+Calls: Wiwrinny
+Calls: Choewil
+Folds: Werli
+Checks: Bonhof
+Flop: 2s 7d 2d
+Checks: Bonhof
+Checks: Beesee
+Checks: Wiwrinny
+Checks: Choewil
+Turn: Ah
+Checks: Bonhof
+Checks: Beesee
+Checks: Wiwrinny
+Raises: Choewil, chips: 400
+Folds: Bonhof
+Calls: Beesee
+Folds: Wiwrinny
+River: 7c
+Checks: Beesee
+DEBUG MESSAGE: INVALID ACTION FROM Choewil (2 0)
+Folds: Choewil
+Pot size: 1700
+Wins: Beesee, chips: 1700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werli
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Folds: Chinhoe
+Calls: Wiwrinny
+Folds: Choewil
+Folds: Werli
+Folds: Bonhof
+Checks: Beesee
+Flop: 8c 4h 6c
+Checks: Beesee
+Checks: Wiwrinny
+Turn: Qs
+Checks: Beesee
+Checks: Wiwrinny
+River: Kh
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 500
+Showdown Reached
+Shows: Wiwrinny, 9s As
+Combination: Wiwrinny, High Card ( As Kh Qs 9s 8c )
+Shows: Beesee, 7h 3s
+Combination: Beesee, High Card ( Kh Qs 8c 7h 6c )
+Wins: Wiwrinny, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Beesee, chips: 100
+Big Blind: Chinhoe, chips: 200
+Calls: Wiwrinny
+Folds: Choewil
+Folds: Werli
+Folds: Bonhof
+Calls: Beesee
+DEBUG MESSAGE: INVALID ACTION FROM Chinhoe (2 0)
+Folds: Chinhoe
+Flop: 7h 2c 6h
+Checks: Beesee
+Checks: Wiwrinny
+Turn: Ts
+Checks: Beesee
+Checks: Wiwrinny
+River: 5d
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 600
+Showdown Reached
+Shows: Wiwrinny, 8d Qc
+Combination: Wiwrinny, High Card ( Qc Ts 8d 7h 6h )
+Shows: Beesee, Kh 9h
+Combination: Beesee, High Card ( Kh Ts 9h 7h 6h )
+Wins: Beesee, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Chinhoe, chips: 100
+Big Blind: Wiwrinny, chips: 200
+Folds: Choewil
+Folds: Werli
+Folds: Bonhof
+Folds: Beesee
+Folds: Chinhoe
+Pot size: 300
+Wins: Wiwrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinhoe
+Small Blind: Wiwrinny, chips: 100
+Big Blind: Choewil, chips: 100
+Folds: Werli
+Folds: Bonhof
+Calls: Beesee
+Folds: Chinhoe
+Raises: Wiwrinny, chips: 200
+Folds: Beesee
+Flop: 2h As 7c
+Turn: Qh
+River: 4d
+Pot size: 500
+Showdown Reached
+Shows: Wiwrinny, 9d 7d
+Combination: Wiwrinny, Pair ( 7d 7c As Qh 9d )
+Shows: Choewil, 5s Jh
+Combination: Choewil, High Card ( As Qh Jh 7c 5s )
+Wins: Wiwrinny, chips: 500
+Quits: Choewil, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwrinny
+Small Blind: Werli, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Folds: Chinhoe
+Calls: Wiwrinny
+Folds: Werli
+Checks: Bonhof
+Flop: 5d 8d 2s
+Raises: Bonhof, chips: 400
+Calls: Beesee
+Folds: Wiwrinny
+Turn: 4d
+Raises: Bonhof, chips: 100
+Calls: Beesee
+River: Qs
+Pot size: 1700
+Showdown Reached
+Shows: Bonhof, 8h 8s
+Combination: Bonhof, Three Of A Kind ( 8h 8s 8d Qs 5d )
+Shows: Beesee, 4h Qd
+Combination: Beesee, Two Pair ( Qd Qs 4h 4d 8d )
+Wins: Bonhof, chips: 1700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werli
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Folds: Chinhoe
+Calls: Wiwrinny
+Folds: Werli
+Folds: Bonhof
+Checks: Beesee
+Flop: Ts Th 5h
+Checks: Beesee
+Checks: Wiwrinny
+Turn: Jh
+Checks: Beesee
+Checks: Wiwrinny
+River: 7d
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 500
+Showdown Reached
+Shows: Wiwrinny, Td Ad
+Combination: Wiwrinny, Three Of A Kind ( Td Ts Th Ad Jh )
+Shows: Beesee, Ah 8h
+Combination: Beesee, Flush ( Ah Jh Th 8h 5h )
+Wins: Beesee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Beesee, chips: 100
+Big Blind: Chinhoe, chips: 200
+Calls: Wiwrinny
+Folds: Werli
+Folds: Bonhof
+Calls: Beesee
+Flop: 4c Ts As
+Checks: Beesee
+Checks: Wiwrinny
+Turn: 8h
+Checks: Beesee
+Checks: Wiwrinny
+River: Ad
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 600
+Showdown Reached
+Shows: Wiwrinny, Kh 2d
+Combination: Wiwrinny, Pair ( As Ad Kh Ts 8h )
+Shows: Beesee, 5c Ac
+Combination: Beesee, Three Of A Kind ( Ac As Ad Ts 8h )
+Shows: Chinhoe, Jh 8d
+Combination: Chinhoe, Two Pair ( As Ad 8d 8h Jh )
+Wins: Beesee, chips: 600
+Quits: Chinhoe, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Wiwrinny, chips: 100
+Big Blind: Werli, chips: 200
+Folds: Bonhof
+Calls: Beesee
+Calls: Wiwrinny
+DEBUG MESSAGE: INVALID ACTION FROM Werli (2 0)
+Folds: Werli
+Flop: 2h Qd Jc
+Checks: Wiwrinny
+Checks: Beesee
+Turn: Td
+Checks: Wiwrinny
+Checks: Beesee
+River: 8s
+Checks: Wiwrinny
+Checks: Beesee
+Pot size: 600
+Showdown Reached
+Shows: Wiwrinny, 3s 2s
+Combination: Wiwrinny, Pair ( 2s 2h Qd Jc Td )
+Shows: Beesee, 7c Kc
+Combination: Beesee, High Card ( Kc Qd Jc Td 8s )
+Wins: Wiwrinny, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwrinny
+Small Blind: Werli, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Calls: Wiwrinny
+Folds: Werli
+Checks: Bonhof
+Flop: 6s Tc 3c
+Checks: Bonhof
+Checks: Beesee
+Checks: Wiwrinny
+Turn: Ts
+Raises: Bonhof, chips: 400
+Folds: Beesee
+Folds: Wiwrinny
+Pot size: 1100
+Wins: Bonhof, chips: 1100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werli
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Wiwrinny
+Folds: Werli
+Folds: Bonhof
+Checks: Beesee
+Flop: 8d 5s Kc
+Checks: Beesee
+Checks: Wiwrinny
+Turn: Ac
+Checks: Beesee
+Checks: Wiwrinny
+River: 6h
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 500
+Showdown Reached
+Shows: Wiwrinny, Qc 7c
+Combination: Wiwrinny, High Card ( Ac Kc Qc 8d 7c )
+Shows: Beesee, 6d 3s
+Combination: Beesee, Pair ( 6d 6h Ac Kc 8d )
+Wins: Beesee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Beesee, chips: 100
+Big Blind: Wiwrinny, chips: 200
+Folds: Werli
+Folds: Bonhof
+Folds: Beesee
+Pot size: 300
+Wins: Wiwrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Wiwrinny, chips: 100
+Big Blind: Werli, chips: 200
+Folds: Bonhof
+Folds: Beesee
+Calls: Wiwrinny
+Raises: Werli, chips: 316
+Folds: Wiwrinny
+Pot size: 716
+Wins: Werli, chips: 716
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwrinny
+Small Blind: Werli, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Calls: Wiwrinny
+Folds: Werli
+Checks: Bonhof
+Flop: 6d Kc Ad
+Checks: Bonhof
+Checks: Beesee
+Checks: Wiwrinny
+Turn: 6c
+Raises: Bonhof, chips: 400
+Calls: Beesee
+Folds: Wiwrinny
+River: Kd
+Raises: Bonhof, chips: 800
+Calls: Beesee
+Pot size: 3100
+Showdown Reached
+Shows: Bonhof, Kh 7d
+Combination: Bonhof, Full House ( Kh Kc Kd 6d 6c )
+Shows: Beesee, 5s 6s
+Combination: Beesee, Full House ( 6s 6d 6c Kc Kd )
+Wins: Bonhof, chips: 3100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werli
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Wiwrinny
+Folds: Werli
+Folds: Bonhof
+Checks: Beesee
+Flop: Jh Kh Qc
+Checks: Beesee
+Checks: Wiwrinny
+Turn: Qd
+Checks: Beesee
+Checks: Wiwrinny
+River: Kc
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 500
+Showdown Reached
+Shows: Wiwrinny, Ac 4d
+Combination: Wiwrinny, Two Pair ( Kh Kc Qc Qd Ac )
+Shows: Beesee, 5s Ad
+Combination: Beesee, Two Pair ( Kh Kc Qc Qd Ad )
+Wins: Wiwrinny, chips: 250
+Wins: Beesee, chips: 250
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Beesee, chips: 100
+Big Blind: Wiwrinny, chips: 200
+Folds: Werli
+Raises: Bonhof, chips: 600
+Calls: Beesee
+Folds: Wiwrinny
+Flop: 9c 4h 2h
+Checks: Beesee
+Checks: Bonhof
+Turn: Jc
+Checks: Beesee
+Raises: Bonhof, chips: 1200
+Calls: Beesee
+River: 8c
+Pot size: 3650
+Showdown Reached
+Shows: Bonhof, Js Ts
+Combination: Bonhof, Pair ( Js Jc Ts 9c 8c )
+Shows: Beesee, 3c 6c
+Combination: Beesee, Flush ( Jc 9c 8c 6c 3c )
+Wins: Bonhof, chips: 550
+Wins: Beesee, chips: 3100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Wiwrinny, chips: 100
+Big Blind: Werli, chips: 200
+Folds: Bonhof
+Calls: Beesee
+Calls: Wiwrinny
+DEBUG MESSAGE: INVALID ACTION FROM Werli (2 0)
+Folds: Werli
+Flop: 3h 9h 4d
+Checks: Wiwrinny
+Checks: Beesee
+Turn: Jc
+Checks: Wiwrinny
+Checks: Beesee
+River: 2c
+Checks: Wiwrinny
+Checks: Beesee
+Pot size: 600
+Showdown Reached
+Shows: Wiwrinny, 6h Ks
+Combination: Wiwrinny, High Card ( Ks Jc 9h 6h 4d )
+Shows: Beesee, 6s 3c
+Combination: Beesee, Pair ( 3c 3h Jc 9h 6s )
+Wins: Beesee, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwrinny
+Small Blind: Werli, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Calls: Wiwrinny
+Calls: Werli
+Checks: Bonhof
+Flop: 3c Js 9s
+Raises: Werli, chips: 219
+Folds: Bonhof
+Calls: Beesee
+Folds: Wiwrinny
+Turn: Jd
+Raises: Werli, chips: 181
+Calls: Beesee
+River: 6c
+Pot size: 1600
+Showdown Reached
+Shows: Werli, 6h 4c
+Combination: Werli, Two Pair ( Js Jd 6h 6c 9s )
+Shows: Beesee, Td 3d
+Combination: Beesee, Two Pair ( Js Jd 3d 3c Td )
+Wins: Werli, chips: 1600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werli
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Wiwrinny
+Folds: Werli
+Folds: Bonhof
+Checks: Beesee
+Flop: 6h Kd Qh
+Checks: Beesee
+Checks: Wiwrinny
+Turn: 4s
+Checks: Beesee
+Checks: Wiwrinny
+River: 5h
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 500
+Showdown Reached
+Shows: Wiwrinny, Jc 3s
+Combination: Wiwrinny, High Card ( Kd Qh Jc 6h 5h )
+Shows: Beesee, 2d 2s
+Combination: Beesee, Pair ( 2d 2s Kd Qh 6h )
+Wins: Beesee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Beesee, chips: 100
+Big Blind: Wiwrinny, chips: 200
+Folds: Werli
+Raises: Bonhof, chips: 600
+Folds: Beesee
+Folds: Wiwrinny
+Pot size: 1100
+Wins: Bonhof, chips: 1100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Wiwrinny, chips: 100
+Big Blind: Werli, chips: 200
+Folds: Bonhof
+Calls: Beesee
+Calls: Wiwrinny
+DEBUG MESSAGE: INVALID ACTION FROM Werli (2 0)
+Folds: Werli
+Flop: Ah 4d 5h
+Turn: 2s
+River: 7s
+Pot size: 550
+Showdown Reached
+Shows: Wiwrinny, 7d 8d
+Combination: Wiwrinny, Pair ( 7d 7s Ah 8d 5h )
+Shows: Beesee, 8s 6h
+Combination: Beesee, Straight ( 8s 7s 6h 5h 4d )
+Wins: Beesee, chips: 550
+Quits: Wiwrinny, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werli
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Folds: Werli
+Folds: Bonhof
+Pot size: 300
+Wins: Beesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Beesee, chips: 100
+Big Blind: Werli, chips: 200
+Folds: Bonhof
+Raises: Beesee, chips: 200
+Raises: Werli, chips: 329
+Raises: Beesee, chips: 329
+Raises: Werli, chips: 342
+Raises: Beesee, chips: 329
+Flop: 3c Jc 2s
+Turn: As
+River: 3s
+Pot size: 3129
+Showdown Reached
+Shows: Werli, 5d 8c
+Combination: Werli, Pair ( 3c 3s As Jc 8c )
+Shows: Beesee, Ks Ad
+Combination: Beesee, Two Pair ( Ad As 3c 3s Ks )
+Wins: Beesee, chips: 3129
+Quits: Werli, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Folds: Beesee
+Pot size: 300
+Wins: Bonhof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Bonhof
+Checks: Beesee
+Flop: 4s 6s 3c
+Checks: Beesee
+Raises: Bonhof, chips: 400
+Folds: Beesee
+Pot size: 800
+Wins: Bonhof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Raises: Bonhof, chips: 300
+Calls: Beesee
+Flop: Qs 9h 5h
+Checks: Bonhof
+Checks: Beesee
+Turn: Kh
+Checks: Bonhof
+Checks: Beesee
+River: 5c
+Raises: Bonhof, chips: 600
+Calls: Beesee
+Pot size: 2200
+Showdown Reached
+Shows: Bonhof, 8c 8d
+Combination: Bonhof, Two Pair ( 8c 8d 5h 5c Kh )
+Shows: Beesee, Ah 2h
+Combination: Beesee, Flush ( Ah Kh 9h 5h 2h )
+Wins: Beesee, chips: 2200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Raises: Bonhof, chips: 1050
+Calls: Beesee
+Flop: 6h 8d Ad
+Turn: 6s
+River: Qc
+Pot size: 2500
+Showdown Reached
+Shows: Bonhof, Ah 4h
+Combination: Bonhof, Two Pair ( Ah Ad 6h 6s Qc )
+Shows: Beesee, Td 2d
+Combination: Beesee, Pair ( 6h 6s Ad Qc Td )
+Wins: Bonhof, chips: 2500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Folds: Beesee
+Pot size: 300
+Wins: Bonhof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Bonhof
+Checks: Beesee
+Flop: 9d 9h Qh
+Checks: Beesee
+Raises: Bonhof, chips: 400
+Calls: Beesee
+Turn: 7c
+Checks: Beesee
+Raises: Bonhof, chips: 800
+Folds: Beesee
+Pot size: 2000
+Wins: Bonhof, chips: 2000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Folds: Beesee
+Pot size: 300
+Wins: Bonhof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Folds: Bonhof
+Pot size: 300
+Wins: Beesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Checks: Bonhof
+Flop: 3c 5s Qc
+Checks: Bonhof
+Checks: Beesee
+Turn: Qs
+Checks: Bonhof
+Checks: Beesee
+River: Kh
+Checks: Bonhof
+Checks: Beesee
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, 9h As
+Combination: Bonhof, Pair ( Qc Qs As Kh 9h )
+Shows: Beesee, Th 4s
+Combination: Beesee, Pair ( Qc Qs Kh Th 5s )
+Wins: Bonhof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Folds: Bonhof
+Pot size: 300
+Wins: Beesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Checks: Bonhof
+Flop: Kh Tc 2c
+Checks: Bonhof
+Checks: Beesee
+Turn: 6h
+Checks: Bonhof
+Checks: Beesee
+River: 6d
+Raises: Bonhof, chips: 400
+Folds: Beesee
+Pot size: 800
+Wins: Bonhof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Bonhof
+Checks: Beesee
+Flop: Js 9s 2d
+Checks: Beesee
+Checks: Bonhof
+Turn: Jd
+Checks: Beesee
+Checks: Bonhof
+River: 5c
+Checks: Beesee
+Checks: Bonhof
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, 3c Ac
+Combination: Bonhof, Pair ( Js Jd Ac 9s 5c )
+Shows: Beesee, 6s Kd
+Combination: Beesee, Pair ( Js Jd Kd 9s 6s )
+Wins: Bonhof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Folds: Beesee
+Pot size: 300
+Wins: Bonhof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Bonhof
+Checks: Beesee
+Flop: Td 5c Js
+Checks: Beesee
+Checks: Bonhof
+Turn: 8c
+Checks: Beesee
+Checks: Bonhof
+River: 8d
+Checks: Beesee
+Raises: Bonhof, chips: 400
+Folds: Beesee
+Pot size: 800
+Wins: Bonhof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Folds: Beesee
+Pot size: 300
+Wins: Bonhof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Bonhof
+Checks: Beesee
+Flop: Ts Kc Td
+Checks: Beesee
+Checks: Bonhof
+Turn: 3d
+Checks: Beesee
+Checks: Bonhof
+River: 7d
+Checks: Beesee
+Checks: Bonhof
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, 6d As
+Combination: Bonhof, Pair ( Ts Td As Kc 7d )
+Shows: Beesee, Qh 8d
+Combination: Beesee, Pair ( Ts Td Kc Qh 8d )
+Wins: Bonhof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Checks: Bonhof
+Flop: 4d Ah 2s
+Checks: Bonhof
+Checks: Beesee
+Turn: 5d
+Checks: Bonhof
+Checks: Beesee
+River: 6c
+Raises: Bonhof, chips: 400
+Folds: Beesee
+Pot size: 800
+Wins: Bonhof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Bonhof
+Checks: Beesee
+Flop: Ks 3c 5h
+Checks: Beesee
+Checks: Bonhof
+Turn: Qs
+Checks: Beesee
+Checks: Bonhof
+River: 2c
+Checks: Beesee
+Checks: Bonhof
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, 2d Ad
+Combination: Bonhof, Pair ( 2d 2c Ad Ks Qs )
+Shows: Beesee, 2s Kd
+Combination: Beesee, Two Pair ( Kd Ks 2s 2c Qs )
+Wins: Beesee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Checks: Bonhof
+Flop: Ah Qs Jh
+Checks: Bonhof
+Checks: Beesee
+Turn: Jd
+Checks: Bonhof
+Checks: Beesee
+River: 4d
+Checks: Bonhof
+Checks: Beesee
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, 8h 3d
+Combination: Bonhof, Pair ( Jh Jd Ah Qs 8h )
+Shows: Beesee, 2d 3h
+Combination: Beesee, Pair ( Jh Jd Ah Qs 4d )
+Wins: Bonhof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Raises: Bonhof, chips: 450
+Folds: Beesee
+Pot size: 850
+Wins: Bonhof, chips: 850
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Checks: Bonhof
+Flop: 2d Ah 9s
+Checks: Bonhof
+Checks: Beesee
+Turn: 5s
+Checks: Bonhof
+Checks: Beesee
+River: Kh
+Checks: Bonhof
+Checks: Beesee
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, Js 8s
+Combination: Bonhof, High Card ( Ah Kh Js 9s 8s )
+Shows: Beesee, Ad Kd
+Combination: Beesee, Two Pair ( Ad Ah Kd Kh 9s )
+Wins: Beesee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Bonhof
+Checks: Beesee
+Flop: Th 2h 9s
+Checks: Beesee
+Checks: Bonhof
+Turn: 4d
+Checks: Beesee
+Checks: Bonhof
+River: Kc
+Checks: Beesee
+Checks: Bonhof
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, 5c 5s
+Combination: Bonhof, Pair ( 5c 5s Kc Th 9s )
+Shows: Beesee, 8s Jc
+Combination: Beesee, High Card ( Kc Jc Th 9s 8s )
+Wins: Bonhof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Checks: Bonhof
+Flop: 6s 3s 2h
+Checks: Bonhof
+Checks: Beesee
+Turn: Kc
+Checks: Bonhof
+Checks: Beesee
+River: 7h
+Checks: Bonhof
+Checks: Beesee
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, Qs 9d
+Combination: Bonhof, High Card ( Kc Qs 9d 7h 6s )
+Shows: Beesee, Kd Qd
+Combination: Beesee, Pair ( Kd Kc Qd 7h 6s )
+Wins: Beesee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Folds: Bonhof
+Pot size: 300
+Wins: Beesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Checks: Bonhof
+Flop: 7c Kh 6h
+Checks: Bonhof
+Checks: Beesee
+Turn: 2c
+Checks: Bonhof
+Checks: Beesee
+River: 2h
+Checks: Bonhof
+Checks: Beesee
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, Ts 8s
+Combination: Bonhof, Pair ( 2c 2h Kh Ts 8s )
+Shows: Beesee, 4c Jd
+Combination: Beesee, Pair ( 2c 2h Kh Jd 7c )
+Wins: Beesee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Folds: Bonhof
+Pot size: 300
+Wins: Beesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Folds: Beesee
+Pot size: 300
+Wins: Bonhof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Bonhof
+Checks: Beesee
+Flop: 6h 2c 8c
+Checks: Beesee
+Raises: Bonhof, chips: 400
+Calls: Beesee
+Turn: 2d
+Checks: Beesee
+Raises: Bonhof, chips: 800
+Calls: Beesee
+River: 9c
+Checks: Beesee
+Raises: Bonhof, chips: 1600
+Calls: Beesee
+Pot size: 5800
+Showdown Reached
+Shows: Bonhof, 8h Th
+Combination: Bonhof, Two Pair ( 8h 8c 2c 2d Th )
+Shows: Beesee, 3s 4d
+Combination: Beesee, Pair ( 2c 2d 9c 8c 6h )
+Wins: Bonhof, chips: 5800
+Quits: Beesee, chips: 0
+Ranking: Bonhof, Place: 1, Score: 6000
+Reveal AI: Bonhof, AI: AIMyBot7
+Ranking: Beesee, Place: 2, Score: -1000
+Reveal AI: Beesee, AI: AIMyBot4
+Ranking: Werli, Place: 3, Score: -1000
+Reveal AI: Werli, AI: AIMyBot3
+Ranking: Wiwrinny, Place: 4, Score: -1000
+Reveal AI: Wiwrinny, AI: AIMyBot1
+Ranking: Chinhoe, Place: 5, Score: -1000
+Reveal AI: Chinhoe, AI: AIMyBot2
+Ranking: Choewil, Place: 6, Score: -1000
+Reveal AI: Choewil, AI: AIMyBot6
+Ranking: Choeroet, Place: 7, Score: -1000
+Reveal AI: Choeroet, AI: AIMyBot5
+
+Player Stats for Beesee, AI: AIMyBot4
+General: deals: 61, actions: 173, preflop actions: 62
+Rounds Seen: flops: 41, turns: 40, rivers: 38, showdowns: 34
+Wins: total: 24, showdown: 18, bluff: 6
+Chips: won: 20329, lost: 22079, bought: 1000, forced bets: 6300
+Pre-Flop Stats: VP$IP: 0.47541, PFR: 0.0163934, 3Bet: 0.0163934
+Post-Flop Stats: AF: 0, WSD: 0.829268, WSDW: 0.529412
+
+
+Player Stats for Bonhof, AI: AIMyBot7
+General: deals: 61, actions: 116, preflop actions: 55
+Rounds Seen: flops: 24, turns: 22, rivers: 19, showdowns: 16
+Wins: total: 25, showdown: 10, bluff: 15
+Chips: won: 26800, lost: 20800, bought: 1000, forced bets: 6100
+Pre-Flop Stats: VP$IP: 0.229508, PFR: 0.0983607, 3Bet: 0.0819672
+Post-Flop Stats: AF: 1.#INF, WSD: 0.666667, WSDW: 0.625
+
+
+Player Stats for Chinhoe, AI: AIMyBot2
+General: deals: 18, actions: 18, preflop actions: 18
+Rounds Seen: flops: 29, turns: 28, rivers: 26, showdowns: 23
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.0555556, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.793103, WSDW: 0
+
+
+Player Stats for Choeroet, AI: AIMyBot5
+General: deals: 7, actions: 13, preflop actions: 7
+Rounds Seen: flops: 40, turns: 39, rivers: 37, showdowns: 33
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 300
+Pre-Flop Stats: VP$IP: 0.285714, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 0.825, WSDW: 0
+
+
+Player Stats for Choewil, AI: AIMyBot6
+General: deals: 15, actions: 24, preflop actions: 14
+Rounds Seen: flops: 36, turns: 35, rivers: 33, showdowns: 29
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 700
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 1.#INF, WSD: 0.805556, WSDW: 0.0344828
+
+
+Player Stats for Werli, AI: AIMyBot3
+General: deals: 33, actions: 36, preflop actions: 34
+Rounds Seen: flops: 19, turns: 18, rivers: 17, showdowns: 14
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 3233, lost: 4233, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.121212, PFR: 0.0909091, 3Bet: 0.030303
+Post-Flop Stats: AF: 1.#INF, WSD: 0.736842, WSDW: 0.0714286
+
+
+Player Stats for Wiwrinny, AI: AIMyBot1
+General: deals: 31, actions: 85, preflop actions: 32
+Rounds Seen: flops: 40, turns: 36, rivers: 32, showdowns: 29
+Wins: total: 10, showdown: 7, bluff: 3
+Chips: won: 5450, lost: 6500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.83871, PFR: 0.0967742, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.725, WSDW: 0.241379
+
+
+Date: 2018/06/05 16:24:02
+
+The game begins. The AI's of the players are: 
+Wiwrinny: AIMyBot1
+Choeroet: AIMyBot5
+Choewil: AIMyBot6
+Werli: AIMyBot3
+Bonhof: AIMyBot7
+Beesee: AIMyBot4
+Chinhoe: AIMyBot2
+
+Joins: Wiwrinny, chips: 1000
+Joins: Choeroet, chips: 1000
+Joins: Choewil, chips: 1000
+Joins: Werli, chips: 1000
+Joins: Bonhof, chips: 1000
+Joins: Beesee, chips: 1000
+Joins: Chinhoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Chinhoe, chips: 100
+Big Blind: Wiwrinny, chips: 200
+Folds: Choeroet
+Folds: Choewil
+Folds: Werli
+Folds: Bonhof
+Folds: Beesee
+Calls: Chinhoe
+Raises: Wiwrinny, chips: 200
+Folds: Chinhoe
+Pot size: 600
+Wins: Wiwrinny, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinhoe
+Small Blind: Wiwrinny, chips: 100
+Big Blind: Choeroet, chips: 200
+Calls: Choewil
+Folds: Werli
+Folds: Bonhof
+Calls: Beesee
+Folds: Chinhoe
+Calls: Wiwrinny
+Checks: Choeroet
+Flop: Qc Ts 9s
+Checks: Wiwrinny
+Checks: Choeroet
+Checks: Choewil
+Checks: Beesee
+Turn: 2s
+Checks: Wiwrinny
+Checks: Choeroet
+Checks: Choewil
+Checks: Beesee
+River: Ks
+Checks: Wiwrinny
+Checks: Choeroet
+Checks: Choewil
+Checks: Beesee
+Pot size: 800
+Showdown Reached
+Shows: Wiwrinny, 6s 8d
+Combination: Wiwrinny, Flush ( Ks Ts 9s 6s 2s )
+Shows: Choeroet, 6c 9d
+Combination: Choeroet, Pair ( 9d 9s Ks Qc Ts )
+Shows: Choewil, 7d 7h
+Combination: Choewil, Pair ( 7d 7h Ks Qc Ts )
+Shows: Beesee, Qd Td
+Combination: Beesee, Two Pair ( Qd Qc Td Ts Ks )
+Wins: Wiwrinny, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwrinny
+Small Blind: Choeroet, chips: 100
+Big Blind: Choewil, chips: 200
+Folds: Werli
+Raises: Bonhof, chips: 600
+Folds: Beesee
+Folds: Chinhoe
+Folds: Wiwrinny
+Folds: Choeroet
+Folds: Choewil
+Pot size: 1100
+Wins: Bonhof, chips: 1100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeroet
+Small Blind: Choewil, chips: 100
+Big Blind: Werli, chips: 200
+Folds: Bonhof
+Calls: Beesee
+Folds: Chinhoe
+Calls: Wiwrinny
+Folds: Choeroet
+Folds: Choewil
+DEBUG MESSAGE: INVALID ACTION FROM Werli (2 0)
+Folds: Werli
+Flop: As 7s Tc
+Checks: Beesee
+Checks: Wiwrinny
+Turn: Qs
+Checks: Beesee
+Checks: Wiwrinny
+River: 5h
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 700
+Showdown Reached
+Shows: Wiwrinny, Qh 7h
+Combination: Wiwrinny, Two Pair ( Qh Qs 7h 7s As )
+Shows: Beesee, 9h 8d
+Combination: Beesee, High Card ( As Qs Tc 9h 8d )
+Wins: Wiwrinny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choewil
+Small Blind: Werli, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Folds: Chinhoe
+Calls: Wiwrinny
+Folds: Choeroet
+Folds: Choewil
+Folds: Werli
+Checks: Bonhof
+Flop: Td Kh 2d
+Checks: Bonhof
+Checks: Beesee
+Checks: Wiwrinny
+Turn: Jd
+Checks: Bonhof
+Checks: Beesee
+Checks: Wiwrinny
+River: Jc
+Checks: Bonhof
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 700
+Showdown Reached
+Shows: Wiwrinny, 4s 9d
+Combination: Wiwrinny, Pair ( Jd Jc Kh Td 9d )
+Shows: Bonhof, As 4h
+Combination: Bonhof, Pair ( Jd Jc As Kh Td )
+Shows: Beesee, 6c Kc
+Combination: Beesee, Two Pair ( Kc Kh Jd Jc Td )
+Wins: Beesee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werli
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Folds: Chinhoe
+Calls: Wiwrinny
+Calls: Choeroet
+Calls: Choewil
+Folds: Werli
+Folds: Bonhof
+Checks: Beesee
+Flop: 4h 3s Kd
+Checks: Beesee
+Checks: Wiwrinny
+Checks: Choeroet
+Checks: Choewil
+Turn: 6d
+Checks: Beesee
+Checks: Wiwrinny
+Checks: Choeroet
+Checks: Choewil
+River: Jd
+Checks: Beesee
+Checks: Wiwrinny
+Checks: Choeroet
+Checks: Choewil
+Pot size: 900
+Showdown Reached
+Shows: Wiwrinny, 3c 8d
+Combination: Wiwrinny, Pair ( 3c 3s Kd Jd 8d )
+Shows: Choeroet, 5h Qd
+Combination: Choeroet, High Card ( Kd Qd Jd 6d 5h )
+Shows: Choewil, Qh Th
+Combination: Choewil, High Card ( Kd Qh Jd Th 6d )
+Shows: Beesee, Ah 3d
+Combination: Beesee, Pair ( 3d 3s Ah Kd Jd )
+Wins: Beesee, chips: 900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Beesee, chips: 100
+Big Blind: Chinhoe, chips: 200
+Calls: Wiwrinny
+Raises: Choeroet, chips: 300
+Folds: Choewil
+Folds: Werli
+Folds: Bonhof
+Calls: Beesee
+Folds: Chinhoe
+Folds: Wiwrinny
+Flop: Jc Tc Qc
+Turn: 3h
+River: 5c
+Pot size: 1400
+Showdown Reached
+Shows: Choeroet, 2d Ad
+Combination: Choeroet, High Card ( Ad Qc Jc Tc 5c )
+Shows: Beesee, Qs 5h
+Combination: Beesee, Two Pair ( Qs Qc 5h 5c Jc )
+Wins: Beesee, chips: 1400
+Quits: Choeroet, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Chinhoe, chips: 100
+Big Blind: Wiwrinny, chips: 200
+Folds: Choewil
+Folds: Werli
+Folds: Bonhof
+Calls: Beesee
+Folds: Chinhoe
+Raises: Wiwrinny, chips: 200
+Calls: Beesee
+Flop: 8d 2c Ac
+Checks: Wiwrinny
+Checks: Beesee
+Turn: Qd
+Checks: Wiwrinny
+Checks: Beesee
+River: 7c
+Checks: Wiwrinny
+Checks: Beesee
+Pot size: 900
+Showdown Reached
+Shows: Wiwrinny, 9c 9h
+Combination: Wiwrinny, Pair ( 9c 9h Ac Qd 8d )
+Shows: Beesee, 7s 9s
+Combination: Beesee, Pair ( 7s 7c Ac Qd 9s )
+Wins: Wiwrinny, chips: 900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinhoe
+Small Blind: Wiwrinny, chips: 100
+Big Blind: Choewil, chips: 200
+Folds: Werli
+Folds: Bonhof
+Calls: Beesee
+Folds: Chinhoe
+Calls: Wiwrinny
+Checks: Choewil
+Flop: Qh Ac 8d
+Checks: Wiwrinny
+Raises: Choewil, chips: 100
+Calls: Beesee
+Folds: Wiwrinny
+Turn: 2s
+River: 9d
+Pot size: 800
+Showdown Reached
+Shows: Choewil, Ah Qd
+Combination: Choewil, Two Pair ( Ah Ac Qd Qh 9d )
+Shows: Beesee, Kh 2h
+Combination: Beesee, Pair ( 2h 2s Ac Kh Qh )
+Wins: Choewil, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwrinny
+Small Blind: Choewil, chips: 100
+Big Blind: Werli, chips: 200
+Folds: Bonhof
+Calls: Beesee
+Folds: Chinhoe
+Calls: Wiwrinny
+Folds: Choewil
+Raises: Werli, chips: 217
+Folds: Beesee
+Folds: Wiwrinny
+Pot size: 917
+Wins: Werli, chips: 917
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choewil
+Small Blind: Werli, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Folds: Chinhoe
+Calls: Wiwrinny
+Calls: Choewil
+Folds: Werli
+Checks: Bonhof
+Flop: 2s 7d 2d
+Checks: Bonhof
+Checks: Beesee
+Checks: Wiwrinny
+Checks: Choewil
+Turn: Ah
+Checks: Bonhof
+Checks: Beesee
+Checks: Wiwrinny
+Raises: Choewil, chips: 400
+Folds: Bonhof
+Calls: Beesee
+Folds: Wiwrinny
+River: 7c
+Checks: Beesee
+DEBUG MESSAGE: INVALID ACTION FROM Choewil (2 0)
+Folds: Choewil
+Pot size: 1700
+Wins: Beesee, chips: 1700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werli
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Folds: Chinhoe
+Calls: Wiwrinny
+Folds: Choewil
+Folds: Werli
+Folds: Bonhof
+Checks: Beesee
+Flop: 8c 4h 6c
+Checks: Beesee
+Checks: Wiwrinny
+Turn: Qs
+Checks: Beesee
+Checks: Wiwrinny
+River: Kh
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 500
+Showdown Reached
+Shows: Wiwrinny, 9s As
+Combination: Wiwrinny, High Card ( As Kh Qs 9s 8c )
+Shows: Beesee, 7h 3s
+Combination: Beesee, High Card ( Kh Qs 8c 7h 6c )
+Wins: Wiwrinny, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Beesee, chips: 100
+Big Blind: Chinhoe, chips: 200
+Calls: Wiwrinny
+Folds: Choewil
+Folds: Werli
+Folds: Bonhof
+Calls: Beesee
+DEBUG MESSAGE: INVALID ACTION FROM Chinhoe (2 0)
+Folds: Chinhoe
+Flop: 7h 2c 6h
+Checks: Beesee
+Checks: Wiwrinny
+Turn: Ts
+Checks: Beesee
+Checks: Wiwrinny
+River: 5d
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 600
+Showdown Reached
+Shows: Wiwrinny, 8d Qc
+Combination: Wiwrinny, High Card ( Qc Ts 8d 7h 6h )
+Shows: Beesee, Kh 9h
+Combination: Beesee, High Card ( Kh Ts 9h 7h 6h )
+Wins: Beesee, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Chinhoe, chips: 100
+Big Blind: Wiwrinny, chips: 200
+Folds: Choewil
+Folds: Werli
+Folds: Bonhof
+Folds: Beesee
+Folds: Chinhoe
+Pot size: 300
+Wins: Wiwrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinhoe
+Small Blind: Wiwrinny, chips: 100
+Big Blind: Choewil, chips: 100
+Folds: Werli
+Folds: Bonhof
+Calls: Beesee
+Folds: Chinhoe
+Raises: Wiwrinny, chips: 200
+Folds: Beesee
+Flop: 2h As 7c
+Turn: Qh
+River: 4d
+Pot size: 500
+Showdown Reached
+Shows: Wiwrinny, 9d 7d
+Combination: Wiwrinny, Pair ( 7d 7c As Qh 9d )
+Shows: Choewil, 5s Jh
+Combination: Choewil, High Card ( As Qh Jh 7c 5s )
+Wins: Wiwrinny, chips: 500
+Quits: Choewil, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwrinny
+Small Blind: Werli, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Folds: Chinhoe
+Calls: Wiwrinny
+Folds: Werli
+Checks: Bonhof
+Flop: 5d 8d 2s
+Raises: Bonhof, chips: 400
+Calls: Beesee
+Folds: Wiwrinny
+Turn: 4d
+Raises: Bonhof, chips: 100
+Calls: Beesee
+River: Qs
+Pot size: 1700
+Showdown Reached
+Shows: Bonhof, 8h 8s
+Combination: Bonhof, Three Of A Kind ( 8h 8s 8d Qs 5d )
+Shows: Beesee, 4h Qd
+Combination: Beesee, Two Pair ( Qd Qs 4h 4d 8d )
+Wins: Bonhof, chips: 1700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werli
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Folds: Chinhoe
+Calls: Wiwrinny
+Folds: Werli
+Folds: Bonhof
+Checks: Beesee
+Flop: Ts Th 5h
+Checks: Beesee
+Checks: Wiwrinny
+Turn: Jh
+Checks: Beesee
+Checks: Wiwrinny
+River: 7d
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 500
+Showdown Reached
+Shows: Wiwrinny, Td Ad
+Combination: Wiwrinny, Three Of A Kind ( Td Ts Th Ad Jh )
+Shows: Beesee, Ah 8h
+Combination: Beesee, Flush ( Ah Jh Th 8h 5h )
+Wins: Beesee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Beesee, chips: 100
+Big Blind: Chinhoe, chips: 200
+Calls: Wiwrinny
+Folds: Werli
+Folds: Bonhof
+Calls: Beesee
+Flop: 4c Ts As
+Checks: Beesee
+Checks: Wiwrinny
+Turn: 8h
+Checks: Beesee
+Checks: Wiwrinny
+River: Ad
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 600
+Showdown Reached
+Shows: Wiwrinny, Kh 2d
+Combination: Wiwrinny, Pair ( As Ad Kh Ts 8h )
+Shows: Beesee, 5c Ac
+Combination: Beesee, Three Of A Kind ( Ac As Ad Ts 8h )
+Shows: Chinhoe, Jh 8d
+Combination: Chinhoe, Two Pair ( As Ad 8d 8h Jh )
+Wins: Beesee, chips: 600
+Quits: Chinhoe, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Wiwrinny, chips: 100
+Big Blind: Werli, chips: 200
+Folds: Bonhof
+Calls: Beesee
+Calls: Wiwrinny
+DEBUG MESSAGE: INVALID ACTION FROM Werli (2 0)
+Folds: Werli
+Flop: 2h Qd Jc
+Checks: Wiwrinny
+Checks: Beesee
+Turn: Td
+Checks: Wiwrinny
+Checks: Beesee
+River: 8s
+Checks: Wiwrinny
+Checks: Beesee
+Pot size: 600
+Showdown Reached
+Shows: Wiwrinny, 3s 2s
+Combination: Wiwrinny, Pair ( 2s 2h Qd Jc Td )
+Shows: Beesee, 7c Kc
+Combination: Beesee, High Card ( Kc Qd Jc Td 8s )
+Wins: Wiwrinny, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwrinny
+Small Blind: Werli, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Calls: Wiwrinny
+Folds: Werli
+Checks: Bonhof
+Flop: 6s Tc 3c
+Checks: Bonhof
+Checks: Beesee
+Checks: Wiwrinny
+Turn: Ts
+Raises: Bonhof, chips: 400
+Folds: Beesee
+Folds: Wiwrinny
+Pot size: 1100
+Wins: Bonhof, chips: 1100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werli
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Wiwrinny
+Folds: Werli
+Folds: Bonhof
+Checks: Beesee
+Flop: 8d 5s Kc
+Checks: Beesee
+Checks: Wiwrinny
+Turn: Ac
+Checks: Beesee
+Checks: Wiwrinny
+River: 6h
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 500
+Showdown Reached
+Shows: Wiwrinny, Qc 7c
+Combination: Wiwrinny, High Card ( Ac Kc Qc 8d 7c )
+Shows: Beesee, 6d 3s
+Combination: Beesee, Pair ( 6d 6h Ac Kc 8d )
+Wins: Beesee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Beesee, chips: 100
+Big Blind: Wiwrinny, chips: 200
+Folds: Werli
+Folds: Bonhof
+Folds: Beesee
+Pot size: 300
+Wins: Wiwrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Wiwrinny, chips: 100
+Big Blind: Werli, chips: 200
+Folds: Bonhof
+Folds: Beesee
+Calls: Wiwrinny
+Raises: Werli, chips: 316
+Folds: Wiwrinny
+Pot size: 716
+Wins: Werli, chips: 716
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwrinny
+Small Blind: Werli, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Calls: Wiwrinny
+Folds: Werli
+Checks: Bonhof
+Flop: 6d Kc Ad
+Checks: Bonhof
+Checks: Beesee
+Checks: Wiwrinny
+Turn: 6c
+Raises: Bonhof, chips: 400
+Calls: Beesee
+Folds: Wiwrinny
+River: Kd
+Raises: Bonhof, chips: 800
+Calls: Beesee
+Pot size: 3100
+Showdown Reached
+Shows: Bonhof, Kh 7d
+Combination: Bonhof, Full House ( Kh Kc Kd 6d 6c )
+Shows: Beesee, 5s 6s
+Combination: Beesee, Full House ( 6s 6d 6c Kc Kd )
+Wins: Bonhof, chips: 3100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werli
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Wiwrinny
+Folds: Werli
+Folds: Bonhof
+Checks: Beesee
+Flop: Jh Kh Qc
+Checks: Beesee
+Checks: Wiwrinny
+Turn: Qd
+Checks: Beesee
+Checks: Wiwrinny
+River: Kc
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 500
+Showdown Reached
+Shows: Wiwrinny, Ac 4d
+Combination: Wiwrinny, Two Pair ( Kh Kc Qc Qd Ac )
+Shows: Beesee, 5s Ad
+Combination: Beesee, Two Pair ( Kh Kc Qc Qd Ad )
+Wins: Wiwrinny, chips: 250
+Wins: Beesee, chips: 250
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Beesee, chips: 100
+Big Blind: Wiwrinny, chips: 200
+Folds: Werli
+Raises: Bonhof, chips: 600
+Calls: Beesee
+Folds: Wiwrinny
+Flop: 9c 4h 2h
+Checks: Beesee
+Checks: Bonhof
+Turn: Jc
+Checks: Beesee
+Raises: Bonhof, chips: 1200
+Calls: Beesee
+River: 8c
+Pot size: 3650
+Showdown Reached
+Shows: Bonhof, Js Ts
+Combination: Bonhof, Pair ( Js Jc Ts 9c 8c )
+Shows: Beesee, 3c 6c
+Combination: Beesee, Flush ( Jc 9c 8c 6c 3c )
+Wins: Bonhof, chips: 550
+Wins: Beesee, chips: 3100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Wiwrinny, chips: 100
+Big Blind: Werli, chips: 200
+Folds: Bonhof
+Calls: Beesee
+Calls: Wiwrinny
+DEBUG MESSAGE: INVALID ACTION FROM Werli (2 0)
+Folds: Werli
+Flop: 3h 9h 4d
+Checks: Wiwrinny
+Checks: Beesee
+Turn: Jc
+Checks: Wiwrinny
+Checks: Beesee
+River: 2c
+Checks: Wiwrinny
+Checks: Beesee
+Pot size: 600
+Showdown Reached
+Shows: Wiwrinny, 6h Ks
+Combination: Wiwrinny, High Card ( Ks Jc 9h 6h 4d )
+Shows: Beesee, 6s 3c
+Combination: Beesee, Pair ( 3c 3h Jc 9h 6s )
+Wins: Beesee, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwrinny
+Small Blind: Werli, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Calls: Wiwrinny
+Calls: Werli
+Checks: Bonhof
+Flop: 3c Js 9s
+Raises: Werli, chips: 219
+Folds: Bonhof
+Calls: Beesee
+Folds: Wiwrinny
+Turn: Jd
+Raises: Werli, chips: 181
+Calls: Beesee
+River: 6c
+Pot size: 1600
+Showdown Reached
+Shows: Werli, 6h 4c
+Combination: Werli, Two Pair ( Js Jd 6h 6c 9s )
+Shows: Beesee, Td 3d
+Combination: Beesee, Two Pair ( Js Jd 3d 3c Td )
+Wins: Werli, chips: 1600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werli
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Wiwrinny
+Folds: Werli
+Folds: Bonhof
+Checks: Beesee
+Flop: 6h Kd Qh
+Checks: Beesee
+Checks: Wiwrinny
+Turn: 4s
+Checks: Beesee
+Checks: Wiwrinny
+River: 5h
+Checks: Beesee
+Checks: Wiwrinny
+Pot size: 500
+Showdown Reached
+Shows: Wiwrinny, Jc 3s
+Combination: Wiwrinny, High Card ( Kd Qh Jc 6h 5h )
+Shows: Beesee, 2d 2s
+Combination: Beesee, Pair ( 2d 2s Kd Qh 6h )
+Wins: Beesee, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Beesee, chips: 100
+Big Blind: Wiwrinny, chips: 200
+Folds: Werli
+Raises: Bonhof, chips: 600
+Folds: Beesee
+Folds: Wiwrinny
+Pot size: 1100
+Wins: Bonhof, chips: 1100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Wiwrinny, chips: 100
+Big Blind: Werli, chips: 200
+Folds: Bonhof
+Calls: Beesee
+Calls: Wiwrinny
+DEBUG MESSAGE: INVALID ACTION FROM Werli (2 0)
+Folds: Werli
+Flop: Ah 4d 5h
+Turn: 2s
+River: 7s
+Pot size: 550
+Showdown Reached
+Shows: Wiwrinny, 7d 8d
+Combination: Wiwrinny, Pair ( 7d 7s Ah 8d 5h )
+Shows: Beesee, 8s 6h
+Combination: Beesee, Straight ( 8s 7s 6h 5h 4d )
+Wins: Beesee, chips: 550
+Quits: Wiwrinny, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werli
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Folds: Werli
+Folds: Bonhof
+Pot size: 300
+Wins: Beesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Beesee, chips: 100
+Big Blind: Werli, chips: 200
+Folds: Bonhof
+Raises: Beesee, chips: 200
+Raises: Werli, chips: 329
+Raises: Beesee, chips: 329
+Raises: Werli, chips: 342
+Raises: Beesee, chips: 329
+Flop: 3c Jc 2s
+Turn: As
+River: 3s
+Pot size: 3129
+Showdown Reached
+Shows: Werli, 5d 8c
+Combination: Werli, Pair ( 3c 3s As Jc 8c )
+Shows: Beesee, Ks Ad
+Combination: Beesee, Two Pair ( Ad As 3c 3s Ks )
+Wins: Beesee, chips: 3129
+Quits: Werli, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Folds: Beesee
+Pot size: 300
+Wins: Bonhof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Bonhof
+Checks: Beesee
+Flop: 4s 6s 3c
+Checks: Beesee
+Raises: Bonhof, chips: 400
+Folds: Beesee
+Pot size: 800
+Wins: Bonhof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Raises: Bonhof, chips: 300
+Calls: Beesee
+Flop: Qs 9h 5h
+Checks: Bonhof
+Checks: Beesee
+Turn: Kh
+Checks: Bonhof
+Checks: Beesee
+River: 5c
+Raises: Bonhof, chips: 600
+Calls: Beesee
+Pot size: 2200
+Showdown Reached
+Shows: Bonhof, 8c 8d
+Combination: Bonhof, Two Pair ( 8c 8d 5h 5c Kh )
+Shows: Beesee, Ah 2h
+Combination: Beesee, Flush ( Ah Kh 9h 5h 2h )
+Wins: Beesee, chips: 2200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Raises: Bonhof, chips: 1050
+Calls: Beesee
+Flop: 6h 8d Ad
+Turn: 6s
+River: Qc
+Pot size: 2500
+Showdown Reached
+Shows: Bonhof, Ah 4h
+Combination: Bonhof, Two Pair ( Ah Ad 6h 6s Qc )
+Shows: Beesee, Td 2d
+Combination: Beesee, Pair ( 6h 6s Ad Qc Td )
+Wins: Bonhof, chips: 2500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Folds: Beesee
+Pot size: 300
+Wins: Bonhof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Bonhof
+Checks: Beesee
+Flop: 9d 9h Qh
+Checks: Beesee
+Raises: Bonhof, chips: 400
+Calls: Beesee
+Turn: 7c
+Checks: Beesee
+Raises: Bonhof, chips: 800
+Folds: Beesee
+Pot size: 2000
+Wins: Bonhof, chips: 2000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Folds: Beesee
+Pot size: 300
+Wins: Bonhof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Folds: Bonhof
+Pot size: 300
+Wins: Beesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Checks: Bonhof
+Flop: 3c 5s Qc
+Checks: Bonhof
+Checks: Beesee
+Turn: Qs
+Checks: Bonhof
+Checks: Beesee
+River: Kh
+Checks: Bonhof
+Checks: Beesee
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, 9h As
+Combination: Bonhof, Pair ( Qc Qs As Kh 9h )
+Shows: Beesee, Th 4s
+Combination: Beesee, Pair ( Qc Qs Kh Th 5s )
+Wins: Bonhof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Folds: Bonhof
+Pot size: 300
+Wins: Beesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Checks: Bonhof
+Flop: Kh Tc 2c
+Checks: Bonhof
+Checks: Beesee
+Turn: 6h
+Checks: Bonhof
+Checks: Beesee
+River: 6d
+Raises: Bonhof, chips: 400
+Folds: Beesee
+Pot size: 800
+Wins: Bonhof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Bonhof
+Checks: Beesee
+Flop: Js 9s 2d
+Checks: Beesee
+Checks: Bonhof
+Turn: Jd
+Checks: Beesee
+Checks: Bonhof
+River: 5c
+Checks: Beesee
+Checks: Bonhof
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, 3c Ac
+Combination: Bonhof, Pair ( Js Jd Ac 9s 5c )
+Shows: Beesee, 6s Kd
+Combination: Beesee, Pair ( Js Jd Kd 9s 6s )
+Wins: Bonhof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Folds: Beesee
+Pot size: 300
+Wins: Bonhof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Bonhof
+Checks: Beesee
+Flop: Td 5c Js
+Checks: Beesee
+Checks: Bonhof
+Turn: 8c
+Checks: Beesee
+Checks: Bonhof
+River: 8d
+Checks: Beesee
+Raises: Bonhof, chips: 400
+Folds: Beesee
+Pot size: 800
+Wins: Bonhof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Folds: Beesee
+Pot size: 300
+Wins: Bonhof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Bonhof
+Checks: Beesee
+Flop: Ts Kc Td
+Checks: Beesee
+Checks: Bonhof
+Turn: 3d
+Checks: Beesee
+Checks: Bonhof
+River: 7d
+Checks: Beesee
+Checks: Bonhof
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, 6d As
+Combination: Bonhof, Pair ( Ts Td As Kc 7d )
+Shows: Beesee, Qh 8d
+Combination: Beesee, Pair ( Ts Td Kc Qh 8d )
+Wins: Bonhof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Checks: Bonhof
+Flop: 4d Ah 2s
+Checks: Bonhof
+Checks: Beesee
+Turn: 5d
+Checks: Bonhof
+Checks: Beesee
+River: 6c
+Raises: Bonhof, chips: 400
+Folds: Beesee
+Pot size: 800
+Wins: Bonhof, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Bonhof
+Checks: Beesee
+Flop: Ks 3c 5h
+Checks: Beesee
+Checks: Bonhof
+Turn: Qs
+Checks: Beesee
+Checks: Bonhof
+River: 2c
+Checks: Beesee
+Checks: Bonhof
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, 2d Ad
+Combination: Bonhof, Pair ( 2d 2c Ad Ks Qs )
+Shows: Beesee, 2s Kd
+Combination: Beesee, Two Pair ( Kd Ks 2s 2c Qs )
+Wins: Beesee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Checks: Bonhof
+Flop: Ah Qs Jh
+Checks: Bonhof
+Checks: Beesee
+Turn: Jd
+Checks: Bonhof
+Checks: Beesee
+River: 4d
+Checks: Bonhof
+Checks: Beesee
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, 8h 3d
+Combination: Bonhof, Pair ( Jh Jd Ah Qs 8h )
+Shows: Beesee, 2d 3h
+Combination: Beesee, Pair ( Jh Jd Ah Qs 4d )
+Wins: Bonhof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Raises: Bonhof, chips: 450
+Folds: Beesee
+Pot size: 850
+Wins: Bonhof, chips: 850
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Checks: Bonhof
+Flop: 2d Ah 9s
+Checks: Bonhof
+Checks: Beesee
+Turn: 5s
+Checks: Bonhof
+Checks: Beesee
+River: Kh
+Checks: Bonhof
+Checks: Beesee
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, Js 8s
+Combination: Bonhof, High Card ( Ah Kh Js 9s 8s )
+Shows: Beesee, Ad Kd
+Combination: Beesee, Two Pair ( Ad Ah Kd Kh 9s )
+Wins: Beesee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Bonhof
+Checks: Beesee
+Flop: Th 2h 9s
+Checks: Beesee
+Checks: Bonhof
+Turn: 4d
+Checks: Beesee
+Checks: Bonhof
+River: Kc
+Checks: Beesee
+Checks: Bonhof
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, 5c 5s
+Combination: Bonhof, Pair ( 5c 5s Kc Th 9s )
+Shows: Beesee, 8s Jc
+Combination: Beesee, High Card ( Kc Jc Th 9s 8s )
+Wins: Bonhof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Checks: Bonhof
+Flop: 6s 3s 2h
+Checks: Bonhof
+Checks: Beesee
+Turn: Kc
+Checks: Bonhof
+Checks: Beesee
+River: 7h
+Checks: Bonhof
+Checks: Beesee
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, Qs 9d
+Combination: Bonhof, High Card ( Kc Qs 9d 7h 6s )
+Shows: Beesee, Kd Qd
+Combination: Beesee, Pair ( Kd Kc Qd 7h 6s )
+Wins: Beesee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Folds: Bonhof
+Pot size: 300
+Wins: Beesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Calls: Beesee
+Checks: Bonhof
+Flop: 7c Kh 6h
+Checks: Bonhof
+Checks: Beesee
+Turn: 2c
+Checks: Bonhof
+Checks: Beesee
+River: 2h
+Checks: Bonhof
+Checks: Beesee
+Pot size: 400
+Showdown Reached
+Shows: Bonhof, Ts 8s
+Combination: Bonhof, Pair ( 2c 2h Kh Ts 8s )
+Shows: Beesee, 4c Jd
+Combination: Beesee, Pair ( 2c 2h Kh Jd 7c )
+Wins: Beesee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Folds: Bonhof
+Pot size: 300
+Wins: Beesee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beesee
+Small Blind: Beesee, chips: 100
+Big Blind: Bonhof, chips: 200
+Folds: Beesee
+Pot size: 300
+Wins: Bonhof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonhof
+Small Blind: Bonhof, chips: 100
+Big Blind: Beesee, chips: 200
+Calls: Bonhof
+Checks: Beesee
+Flop: 6h 2c 8c
+Checks: Beesee
+Raises: Bonhof, chips: 400
+Calls: Beesee
+Turn: 2d
+Checks: Beesee
+Raises: Bonhof, chips: 800
+Calls: Beesee
+River: 9c
+Checks: Beesee
+Raises: Bonhof, chips: 1600
+Calls: Beesee
+Pot size: 5800
+Showdown Reached
+Shows: Bonhof, 8h Th
+Combination: Bonhof, Two Pair ( 8h 8c 2c 2d Th )
+Shows: Beesee, 3s 4d
+Combination: Beesee, Pair ( 2c 2d 9c 8c 6h )
+Wins: Bonhof, chips: 5800
+Quits: Beesee, chips: 0
+Ranking: Bonhof, Place: 1, Score: 6000
+Reveal AI: Bonhof, AI: AIMyBot7
+Ranking: Beesee, Place: 2, Score: -1000
+Reveal AI: Beesee, AI: AIMyBot4
+Ranking: Werli, Place: 3, Score: -1000
+Reveal AI: Werli, AI: AIMyBot3
+Ranking: Wiwrinny, Place: 4, Score: -1000
+Reveal AI: Wiwrinny, AI: AIMyBot1
+Ranking: Chinhoe, Place: 5, Score: -1000
+Reveal AI: Chinhoe, AI: AIMyBot2
+Ranking: Choewil, Place: 6, Score: -1000
+Reveal AI: Choewil, AI: AIMyBot6
+Ranking: Choeroet, Place: 7, Score: -1000
+Reveal AI: Choeroet, AI: AIMyBot5
+
+Player Stats for Beesee, AI: AIMyBot4
+General: deals: 61, actions: 173, preflop actions: 62
+Rounds Seen: flops: 41, turns: 40, rivers: 38, showdowns: 34
+Wins: total: 24, showdown: 18, bluff: 6
+Chips: won: 20329, lost: 22079, bought: 1000, forced bets: 6300
+Pre-Flop Stats: VP$IP: 0.47541, PFR: 0.0163934, 3Bet: 0.0163934
+Post-Flop Stats: AF: 0, WSD: 0.829268, WSDW: 0.529412
+
+
+Player Stats for Bonhof, AI: AIMyBot7
+General: deals: 61, actions: 116, preflop actions: 55
+Rounds Seen: flops: 24, turns: 22, rivers: 19, showdowns: 16
+Wins: total: 25, showdown: 10, bluff: 15
+Chips: won: 26800, lost: 20800, bought: 1000, forced bets: 6100
+Pre-Flop Stats: VP$IP: 0.229508, PFR: 0.0983607, 3Bet: 0.0819672
+Post-Flop Stats: AF: 1.#INF, WSD: 0.666667, WSDW: 0.625
+
+
+Player Stats for Chinhoe, AI: AIMyBot2
+General: deals: 18, actions: 18, preflop actions: 18
+Rounds Seen: flops: 29, turns: 28, rivers: 26, showdowns: 23
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.0555556, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.793103, WSDW: 0
+
+
+Player Stats for Choeroet, AI: AIMyBot5
+General: deals: 7, actions: 13, preflop actions: 7
+Rounds Seen: flops: 40, turns: 39, rivers: 37, showdowns: 33
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 300
+Pre-Flop Stats: VP$IP: 0.285714, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 0.825, WSDW: 0
+
+
+Player Stats for Choewil, AI: AIMyBot6
+General: deals: 15, actions: 24, preflop actions: 14
+Rounds Seen: flops: 36, turns: 35, rivers: 33, showdowns: 29
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 700
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 1.#INF, WSD: 0.805556, WSDW: 0.0344828
+
+
+Player Stats for Werli, AI: AIMyBot3
+General: deals: 33, actions: 36, preflop actions: 34
+Rounds Seen: flops: 19, turns: 18, rivers: 17, showdowns: 14
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 3233, lost: 4233, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.121212, PFR: 0.0909091, 3Bet: 0.030303
+Post-Flop Stats: AF: 1.#INF, WSD: 0.736842, WSDW: 0.0714286
+
+
+Player Stats for Wiwrinny, AI: AIMyBot1
+General: deals: 31, actions: 85, preflop actions: 32
+Rounds Seen: flops: 40, turns: 36, rivers: 32, showdowns: 29
+Wins: total: 10, showdown: 7, bluff: 3
+Chips: won: 5450, lost: 6500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.83871, PFR: 0.0967742, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.725, WSDW: 0.241379
+
+

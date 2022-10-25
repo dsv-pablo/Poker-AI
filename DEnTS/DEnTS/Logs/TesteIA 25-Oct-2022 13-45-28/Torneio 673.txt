@@ -1,0 +1,300 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Choekuf: AIMyBot1
+Fabifi: Random
+
+Joins: Choekuf, chips: 1000
+Joins: Fabifi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekuf
+Small Blind: Choekuf, chips: 100
+Big Blind: Fabifi, chips: 200
+Folds: Choekuf
+Pot size: 300
+Wins: Fabifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabifi
+Small Blind: Fabifi, chips: 100
+Big Blind: Choekuf, chips: 200
+Raises: Fabifi, chips: 300
+Folds: Choekuf
+Pot size: 700
+Boasts: Fabifi, 5d Kd
+Wins: Fabifi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekuf
+Small Blind: Choekuf, chips: 100
+Big Blind: Fabifi, chips: 200
+Folds: Choekuf
+Pot size: 300
+Boasts: Fabifi, Jc 3d
+Wins: Fabifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabifi
+Small Blind: Fabifi, chips: 100
+Big Blind: Choekuf, chips: 200
+Calls: Fabifi
+DEBUG MESSAGE: INVALID ACTION FROM Choekuf (2 0)
+Folds: Choekuf
+Pot size: 400
+Boasts: Fabifi, 5h 8h
+Wins: Fabifi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekuf
+Small Blind: Choekuf, chips: 100
+Big Blind: Fabifi, chips: 200
+Folds: Choekuf
+Pot size: 300
+Boasts: Fabifi, Td 6d
+Wins: Fabifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabifi
+Small Blind: Fabifi, chips: 100
+Big Blind: Choekuf, chips: 200
+Calls: Fabifi
+DEBUG MESSAGE: INVALID ACTION FROM Choekuf (2 0)
+Folds: Choekuf
+Pot size: 400
+Boasts: Fabifi, 3h Tc
+Wins: Fabifi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekuf
+Small Blind: Choekuf, chips: 100
+Big Blind: Fabifi, chips: 200
+Flop: 7h 2d 3s
+Turn: Ts
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Choekuf, Qs Kc
+Combination: Choekuf, Pair ( 7h 7s Kc Qs Ts )
+Shows: Fabifi, Ks 4d
+Combination: Fabifi, Pair ( 7h 7s Ks Ts 4d )
+Wins: Choekuf, chips: 200
+Wins: Fabifi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabifi
+Small Blind: Fabifi, chips: 100
+Big Blind: Choekuf, chips: 200
+Flop: 5c 2h 4h
+Turn: 7d
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Choekuf, Tc Kd
+Combination: Choekuf, High Card ( Kd Qd Tc 7d 5c )
+Shows: Fabifi, 9c 8h
+Combination: Fabifi, High Card ( Qd 9c 8h 7d 5c )
+Wins: Choekuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekuf
+Small Blind: Choekuf, chips: 100
+Big Blind: Fabifi, chips: 200
+Folds: Choekuf
+Pot size: 300
+Wins: Fabifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabifi
+Small Blind: Fabifi, chips: 100
+Big Blind: Choekuf, chips: 200
+Flop: 7h 4s Ts
+Turn: 3c
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Choekuf, 9c Td
+Combination: Choekuf, Pair ( Td Ts 9c 7h 6c )
+Shows: Fabifi, 5s Qd
+Combination: Fabifi, Straight ( 7h 6c 5s 4s 3c )
+Wins: Choekuf, chips: 100
+Wins: Fabifi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekuf
+Small Blind: Choekuf, chips: 100
+Big Blind: Fabifi, chips: 200
+Flop: Qc Kd 8d
+Turn: 9s
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Choekuf, 7h 3s
+Combination: Choekuf, Pair ( 9s 9d Kd Qc 8d )
+Shows: Fabifi, 5s 8c
+Combination: Fabifi, Two Pair ( 9s 9d 8c 8d Kd )
+Wins: Fabifi, chips: 300
+Quits: Choekuf, chips: 0
+Ranking: Fabifi, Place: 1, Score: 1000
+Reveal AI: Fabifi, AI: Random
+Ranking: Choekuf, Place: 2, Score: -1000
+Reveal AI: Choekuf, AI: AIMyBot1
+
+Player Stats for Choekuf, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Fabifi, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:14
+
+The game begins. The AI's of the players are: 
+Choekuf: AIMyBot1
+Fabifi: Random
+
+Joins: Choekuf, chips: 1000
+Joins: Fabifi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekuf
+Small Blind: Choekuf, chips: 100
+Big Blind: Fabifi, chips: 200
+Folds: Choekuf
+Pot size: 300
+Wins: Fabifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabifi
+Small Blind: Fabifi, chips: 100
+Big Blind: Choekuf, chips: 200
+Raises: Fabifi, chips: 300
+Folds: Choekuf
+Pot size: 700
+Boasts: Fabifi, 5d Kd
+Wins: Fabifi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekuf
+Small Blind: Choekuf, chips: 100
+Big Blind: Fabifi, chips: 200
+Folds: Choekuf
+Pot size: 300
+Boasts: Fabifi, Jc 3d
+Wins: Fabifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabifi
+Small Blind: Fabifi, chips: 100
+Big Blind: Choekuf, chips: 200
+Calls: Fabifi
+DEBUG MESSAGE: INVALID ACTION FROM Choekuf (2 0)
+Folds: Choekuf
+Pot size: 400
+Boasts: Fabifi, 5h 8h
+Wins: Fabifi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekuf
+Small Blind: Choekuf, chips: 100
+Big Blind: Fabifi, chips: 200
+Folds: Choekuf
+Pot size: 300
+Boasts: Fabifi, Td 6d
+Wins: Fabifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabifi
+Small Blind: Fabifi, chips: 100
+Big Blind: Choekuf, chips: 200
+Calls: Fabifi
+DEBUG MESSAGE: INVALID ACTION FROM Choekuf (2 0)
+Folds: Choekuf
+Pot size: 400
+Boasts: Fabifi, 3h Tc
+Wins: Fabifi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekuf
+Small Blind: Choekuf, chips: 100
+Big Blind: Fabifi, chips: 200
+Flop: 7h 2d 3s
+Turn: Ts
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Choekuf, Qs Kc
+Combination: Choekuf, Pair ( 7h 7s Kc Qs Ts )
+Shows: Fabifi, Ks 4d
+Combination: Fabifi, Pair ( 7h 7s Ks Ts 4d )
+Wins: Choekuf, chips: 200
+Wins: Fabifi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabifi
+Small Blind: Fabifi, chips: 100
+Big Blind: Choekuf, chips: 200
+Flop: 5c 2h 4h
+Turn: 7d
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Choekuf, Tc Kd
+Combination: Choekuf, High Card ( Kd Qd Tc 7d 5c )
+Shows: Fabifi, 9c 8h
+Combination: Fabifi, High Card ( Qd 9c 8h 7d 5c )
+Wins: Choekuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekuf
+Small Blind: Choekuf, chips: 100
+Big Blind: Fabifi, chips: 200
+Folds: Choekuf
+Pot size: 300
+Wins: Fabifi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabifi
+Small Blind: Fabifi, chips: 100
+Big Blind: Choekuf, chips: 200
+Flop: 7h 4s Ts
+Turn: 3c
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Choekuf, 9c Td
+Combination: Choekuf, Pair ( Td Ts 9c 7h 6c )
+Shows: Fabifi, 5s Qd
+Combination: Fabifi, Straight ( 7h 6c 5s 4s 3c )
+Wins: Choekuf, chips: 100
+Wins: Fabifi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekuf
+Small Blind: Choekuf, chips: 100
+Big Blind: Fabifi, chips: 200
+Flop: Qc Kd 8d
+Turn: 9s
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Choekuf, 7h 3s
+Combination: Choekuf, Pair ( 9s 9d Kd Qc 8d )
+Shows: Fabifi, 5s 8c
+Combination: Fabifi, Two Pair ( 9s 9d 8c 8d Kd )
+Wins: Fabifi, chips: 300
+Quits: Choekuf, chips: 0
+Ranking: Fabifi, Place: 1, Score: 1000
+Reveal AI: Fabifi, AI: Random
+Ranking: Choekuf, Place: 2, Score: -1000
+Reveal AI: Choekuf, AI: AIMyBot1
+
+Player Stats for Choekuf, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Fabifi, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

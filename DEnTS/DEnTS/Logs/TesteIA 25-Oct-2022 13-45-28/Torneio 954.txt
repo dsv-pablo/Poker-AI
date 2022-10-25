@@ -1,0 +1,384 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Chatte: Random
+Hafoe: AIMyBot1
+
+Joins: Chatte, chips: 1000
+Joins: Hafoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafoe
+Small Blind: Hafoe, chips: 100
+Big Blind: Chatte, chips: 200
+Folds: Hafoe
+Pot size: 300
+Boasts: Chatte, 6h Tc
+Wins: Chatte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chatte
+Small Blind: Chatte, chips: 100
+Big Blind: Hafoe, chips: 200
+Folds: Chatte
+Pot size: 300
+Wins: Hafoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafoe
+Small Blind: Hafoe, chips: 100
+Big Blind: Chatte, chips: 200
+Folds: Hafoe
+Pot size: 300
+Boasts: Chatte, 9d Jc
+Wins: Chatte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chatte
+Small Blind: Chatte, chips: 100
+Big Blind: Hafoe, chips: 200
+Raises: Chatte, chips: 300
+Folds: Hafoe
+Pot size: 700
+Wins: Chatte, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafoe
+Small Blind: Hafoe, chips: 100
+Big Blind: Chatte, chips: 200
+Folds: Hafoe
+Pot size: 300
+Wins: Chatte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chatte
+Small Blind: Chatte, chips: 100
+Big Blind: Hafoe, chips: 200
+Calls: Chatte
+DEBUG MESSAGE: INVALID ACTION FROM Hafoe (2 0)
+Folds: Hafoe
+Pot size: 400
+Boasts: Chatte, 7s Kd
+Wins: Chatte, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafoe
+Small Blind: Hafoe, chips: 100
+Big Blind: Chatte, chips: 200
+Folds: Hafoe
+Pot size: 300
+Boasts: Chatte, 6s 6c
+Wins: Chatte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chatte
+Small Blind: Chatte, chips: 100
+Big Blind: Hafoe, chips: 200
+Raises: Chatte, chips: 300
+Folds: Hafoe
+Pot size: 700
+Wins: Chatte, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafoe
+Small Blind: Hafoe, chips: 100
+Big Blind: Chatte, chips: 200
+Flop: 7d Ah Qd
+Turn: 8s
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Chatte, 3d 2c
+Combination: Chatte, High Card ( Ah Qd 8s 7d 6d )
+Shows: Hafoe, 7s Kc
+Combination: Hafoe, Pair ( 7s 7d Ah Kc Qd )
+Wins: Chatte, chips: 100
+Wins: Hafoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chatte
+Small Blind: Chatte, chips: 100
+Big Blind: Hafoe, chips: 200
+Flop: 5s Js 6s
+Turn: Jh
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Chatte, Kd 7c
+Combination: Chatte, Pair ( Js Jh Kd 8d 7c )
+Shows: Hafoe, Jd Tc
+Combination: Hafoe, Three Of A Kind ( Jd Js Jh Tc 8d )
+Wins: Hafoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafoe
+Small Blind: Hafoe, chips: 100
+Big Blind: Chatte, chips: 200
+Folds: Hafoe
+Pot size: 300
+Boasts: Chatte, 5d 5s
+Wins: Chatte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chatte
+Small Blind: Chatte, chips: 100
+Big Blind: Hafoe, chips: 200
+Flop: Jc 7s Ts
+Turn: Ks
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Chatte, 5c 9d
+Combination: Chatte, High Card ( Ks Jc Ts 9d 7s )
+Shows: Hafoe, 3c 9c
+Combination: Hafoe, High Card ( Ks Jc Ts 9c 7s )
+Wins: Chatte, chips: 100
+Wins: Hafoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafoe
+Small Blind: Hafoe, chips: 100
+Big Blind: Chatte, chips: 200
+Folds: Hafoe
+Pot size: 300
+Boasts: Chatte, Kd 2h
+Wins: Chatte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chatte
+Small Blind: Chatte, chips: 100
+Big Blind: Hafoe, chips: 100
+Flop: 4c Qs 2d
+Turn: Ts
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Chatte, 9s Qd
+Combination: Chatte, Pair ( Qd Qs Ts 9s 5d )
+Shows: Hafoe, 3c Ah
+Combination: Hafoe, Straight ( 5d 4c 3c 2d Ah )
+Wins: Hafoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafoe
+Small Blind: Hafoe, chips: 100
+Big Blind: Chatte, chips: 200
+Folds: Hafoe
+Pot size: 300
+Wins: Chatte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chatte
+Small Blind: Chatte, chips: 100
+Big Blind: Hafoe, chips: 100
+Flop: Jc 9s 4d
+Turn: 9h
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Chatte, Qd Td
+Combination: Chatte, Pair ( 9s 9h Qd Jc Td )
+Shows: Hafoe, 3h 8s
+Combination: Hafoe, Pair ( 9s 9h Jc 8s 7h )
+Wins: Chatte, chips: 200
+Quits: Hafoe, chips: 0
+Ranking: Chatte, Place: 1, Score: 1000
+Reveal AI: Chatte, AI: Random
+Ranking: Hafoe, Place: 2, Score: -1000
+Reveal AI: Hafoe, AI: AIMyBot1
+
+Player Stats for Chatte, AI: Random
+General: deals: 16, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 13, showdown: 3, bluff: 10
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.1875, PFR: 0.125, 3Bet: 0.125
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+
+Player Stats for Hafoe, AI: AIMyBot1
+General: deals: 16, actions: 10, preflop actions: 10
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Date: 2022/10/25 13:46:32
+
+The game begins. The AI's of the players are: 
+Chatte: Random
+Hafoe: AIMyBot1
+
+Joins: Chatte, chips: 1000
+Joins: Hafoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafoe
+Small Blind: Hafoe, chips: 100
+Big Blind: Chatte, chips: 200
+Folds: Hafoe
+Pot size: 300
+Boasts: Chatte, 6h Tc
+Wins: Chatte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chatte
+Small Blind: Chatte, chips: 100
+Big Blind: Hafoe, chips: 200
+Folds: Chatte
+Pot size: 300
+Wins: Hafoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafoe
+Small Blind: Hafoe, chips: 100
+Big Blind: Chatte, chips: 200
+Folds: Hafoe
+Pot size: 300
+Boasts: Chatte, 9d Jc
+Wins: Chatte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chatte
+Small Blind: Chatte, chips: 100
+Big Blind: Hafoe, chips: 200
+Raises: Chatte, chips: 300
+Folds: Hafoe
+Pot size: 700
+Wins: Chatte, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafoe
+Small Blind: Hafoe, chips: 100
+Big Blind: Chatte, chips: 200
+Folds: Hafoe
+Pot size: 300
+Wins: Chatte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chatte
+Small Blind: Chatte, chips: 100
+Big Blind: Hafoe, chips: 200
+Calls: Chatte
+DEBUG MESSAGE: INVALID ACTION FROM Hafoe (2 0)
+Folds: Hafoe
+Pot size: 400
+Boasts: Chatte, 7s Kd
+Wins: Chatte, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafoe
+Small Blind: Hafoe, chips: 100
+Big Blind: Chatte, chips: 200
+Folds: Hafoe
+Pot size: 300
+Boasts: Chatte, 6s 6c
+Wins: Chatte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chatte
+Small Blind: Chatte, chips: 100
+Big Blind: Hafoe, chips: 200
+Raises: Chatte, chips: 300
+Folds: Hafoe
+Pot size: 700
+Wins: Chatte, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafoe
+Small Blind: Hafoe, chips: 100
+Big Blind: Chatte, chips: 200
+Flop: 7d Ah Qd
+Turn: 8s
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Chatte, 3d 2c
+Combination: Chatte, High Card ( Ah Qd 8s 7d 6d )
+Shows: Hafoe, 7s Kc
+Combination: Hafoe, Pair ( 7s 7d Ah Kc Qd )
+Wins: Chatte, chips: 100
+Wins: Hafoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chatte
+Small Blind: Chatte, chips: 100
+Big Blind: Hafoe, chips: 200
+Flop: 5s Js 6s
+Turn: Jh
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Chatte, Kd 7c
+Combination: Chatte, Pair ( Js Jh Kd 8d 7c )
+Shows: Hafoe, Jd Tc
+Combination: Hafoe, Three Of A Kind ( Jd Js Jh Tc 8d )
+Wins: Hafoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafoe
+Small Blind: Hafoe, chips: 100
+Big Blind: Chatte, chips: 200
+Folds: Hafoe
+Pot size: 300
+Boasts: Chatte, 5d 5s
+Wins: Chatte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chatte
+Small Blind: Chatte, chips: 100
+Big Blind: Hafoe, chips: 200
+Flop: Jc 7s Ts
+Turn: Ks
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Chatte, 5c 9d
+Combination: Chatte, High Card ( Ks Jc Ts 9d 7s )
+Shows: Hafoe, 3c 9c
+Combination: Hafoe, High Card ( Ks Jc Ts 9c 7s )
+Wins: Chatte, chips: 100
+Wins: Hafoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafoe
+Small Blind: Hafoe, chips: 100
+Big Blind: Chatte, chips: 200
+Folds: Hafoe
+Pot size: 300
+Boasts: Chatte, Kd 2h
+Wins: Chatte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chatte
+Small Blind: Chatte, chips: 100
+Big Blind: Hafoe, chips: 100
+Flop: 4c Qs 2d
+Turn: Ts
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Chatte, 9s Qd
+Combination: Chatte, Pair ( Qd Qs Ts 9s 5d )
+Shows: Hafoe, 3c Ah
+Combination: Hafoe, Straight ( 5d 4c 3c 2d Ah )
+Wins: Hafoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafoe
+Small Blind: Hafoe, chips: 100
+Big Blind: Chatte, chips: 200
+Folds: Hafoe
+Pot size: 300
+Wins: Chatte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chatte
+Small Blind: Chatte, chips: 100
+Big Blind: Hafoe, chips: 100
+Flop: Jc 9s 4d
+Turn: 9h
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Chatte, Qd Td
+Combination: Chatte, Pair ( 9s 9h Qd Jc Td )
+Shows: Hafoe, 3h 8s
+Combination: Hafoe, Pair ( 9s 9h Jc 8s 7h )
+Wins: Chatte, chips: 200
+Quits: Hafoe, chips: 0
+Ranking: Chatte, Place: 1, Score: 1000
+Reveal AI: Chatte, AI: Random
+Ranking: Hafoe, Place: 2, Score: -1000
+Reveal AI: Hafoe, AI: AIMyBot1
+
+Player Stats for Chatte, AI: Random
+General: deals: 16, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 13, showdown: 3, bluff: 10
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.1875, PFR: 0.125, 3Bet: 0.125
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+
+Player Stats for Hafoe, AI: AIMyBot1
+General: deals: 16, actions: 10, preflop actions: 10
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+

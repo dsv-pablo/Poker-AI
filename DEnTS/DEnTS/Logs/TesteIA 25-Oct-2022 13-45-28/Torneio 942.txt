@@ -1,0 +1,316 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Doechov: Random
+Su: AIMyBot1
+
+Joins: Doechov, chips: 1000
+Joins: Su, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Doechov, chips: 200
+Folds: Su
+Pot size: 300
+Boasts: Doechov, 5h 5d
+Wins: Doechov, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doechov
+Small Blind: Doechov, chips: 100
+Big Blind: Su, chips: 200
+Calls: Doechov
+DEBUG MESSAGE: INVALID ACTION FROM Su (2 0)
+Folds: Su
+Pot size: 400
+Boasts: Doechov, Kc Tc
+Wins: Doechov, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Doechov, chips: 200
+Folds: Su
+Pot size: 300
+Wins: Doechov, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doechov
+Small Blind: Doechov, chips: 100
+Big Blind: Su, chips: 200
+Calls: Doechov
+DEBUG MESSAGE: INVALID ACTION FROM Su (2 0)
+Folds: Su
+Pot size: 400
+Wins: Doechov, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Doechov, chips: 200
+Folds: Su
+Pot size: 300
+Boasts: Doechov, 9h 4c
+Wins: Doechov, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doechov
+Small Blind: Doechov, chips: 100
+Big Blind: Su, chips: 200
+Calls: Doechov
+DEBUG MESSAGE: INVALID ACTION FROM Su (2 0)
+Folds: Su
+Pot size: 400
+Wins: Doechov, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Doechov, chips: 200
+Flop: 8h As 2d
+Turn: Ts
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Doechov, 7s 2s
+Combination: Doechov, Pair ( 2s 2d As Kc Ts )
+Shows: Su, Ks Kd
+Combination: Su, Three Of A Kind ( Ks Kd Kc As Ts )
+Wins: Doechov, chips: 100
+Wins: Su, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doechov
+Small Blind: Doechov, chips: 100
+Big Blind: Su, chips: 200
+Flop: Kd Ts Th
+Turn: 4h
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Doechov, 3c Ah
+Combination: Doechov, Pair ( Ts Th Ah Kd Qd )
+Shows: Su, Jd 2s
+Combination: Su, Pair ( Ts Th Kd Qd Jd )
+Wins: Doechov, chips: 200
+Wins: Su, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Doechov, chips: 200
+Flop: 8c 5d 4h
+Turn: Td
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Doechov, 3c Kd
+Combination: Doechov, High Card ( Kd Td 8c 6d 5d )
+Shows: Su, 6c 3d
+Combination: Su, Pair ( 6c 6d Td 8c 5d )
+Wins: Doechov, chips: 100
+Wins: Su, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doechov
+Small Blind: Doechov, chips: 100
+Big Blind: Su, chips: 200
+Flop: Ah Jh As
+Turn: Kh
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Doechov, 8h Qd
+Combination: Doechov, Two Pair ( Ah As Qd Qc Kh )
+Shows: Su, 7s 7h
+Combination: Su, Two Pair ( Ah As 7s 7h Kh )
+Wins: Doechov, chips: 200
+Wins: Su, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Doechov, chips: 200
+Flop: Qd 8d 4s
+Turn: 9h
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Doechov, 9c Ad
+Combination: Doechov, Three Of A Kind ( 9c 9h 9s Ad Qd )
+Shows: Su, Ks Th
+Combination: Su, Pair ( 9h 9s Ks Qd Th )
+Wins: Doechov, chips: 300
+Quits: Su, chips: 0
+Ranking: Doechov, Place: 1, Score: 1000
+Reveal AI: Doechov, AI: Random
+Ranking: Su, Place: 2, Score: -1000
+Reveal AI: Su, AI: AIMyBot1
+
+Player Stats for Doechov, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 5, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Su, AI: AIMyBot1
+General: deals: 11, actions: 6, preflop actions: 6
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Date: 2022/10/25 13:46:31
+
+The game begins. The AI's of the players are: 
+Doechov: Random
+Su: AIMyBot1
+
+Joins: Doechov, chips: 1000
+Joins: Su, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Doechov, chips: 200
+Folds: Su
+Pot size: 300
+Boasts: Doechov, 5h 5d
+Wins: Doechov, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doechov
+Small Blind: Doechov, chips: 100
+Big Blind: Su, chips: 200
+Calls: Doechov
+DEBUG MESSAGE: INVALID ACTION FROM Su (2 0)
+Folds: Su
+Pot size: 400
+Boasts: Doechov, Kc Tc
+Wins: Doechov, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Doechov, chips: 200
+Folds: Su
+Pot size: 300
+Wins: Doechov, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doechov
+Small Blind: Doechov, chips: 100
+Big Blind: Su, chips: 200
+Calls: Doechov
+DEBUG MESSAGE: INVALID ACTION FROM Su (2 0)
+Folds: Su
+Pot size: 400
+Wins: Doechov, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Doechov, chips: 200
+Folds: Su
+Pot size: 300
+Boasts: Doechov, 9h 4c
+Wins: Doechov, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doechov
+Small Blind: Doechov, chips: 100
+Big Blind: Su, chips: 200
+Calls: Doechov
+DEBUG MESSAGE: INVALID ACTION FROM Su (2 0)
+Folds: Su
+Pot size: 400
+Wins: Doechov, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Doechov, chips: 200
+Flop: 8h As 2d
+Turn: Ts
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Doechov, 7s 2s
+Combination: Doechov, Pair ( 2s 2d As Kc Ts )
+Shows: Su, Ks Kd
+Combination: Su, Three Of A Kind ( Ks Kd Kc As Ts )
+Wins: Doechov, chips: 100
+Wins: Su, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doechov
+Small Blind: Doechov, chips: 100
+Big Blind: Su, chips: 200
+Flop: Kd Ts Th
+Turn: 4h
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Doechov, 3c Ah
+Combination: Doechov, Pair ( Ts Th Ah Kd Qd )
+Shows: Su, Jd 2s
+Combination: Su, Pair ( Ts Th Kd Qd Jd )
+Wins: Doechov, chips: 200
+Wins: Su, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Doechov, chips: 200
+Flop: 8c 5d 4h
+Turn: Td
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Doechov, 3c Kd
+Combination: Doechov, High Card ( Kd Td 8c 6d 5d )
+Shows: Su, 6c 3d
+Combination: Su, Pair ( 6c 6d Td 8c 5d )
+Wins: Doechov, chips: 100
+Wins: Su, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doechov
+Small Blind: Doechov, chips: 100
+Big Blind: Su, chips: 200
+Flop: Ah Jh As
+Turn: Kh
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Doechov, 8h Qd
+Combination: Doechov, Two Pair ( Ah As Qd Qc Kh )
+Shows: Su, 7s 7h
+Combination: Su, Two Pair ( Ah As 7s 7h Kh )
+Wins: Doechov, chips: 200
+Wins: Su, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Su
+Small Blind: Su, chips: 100
+Big Blind: Doechov, chips: 200
+Flop: Qd 8d 4s
+Turn: 9h
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Doechov, 9c Ad
+Combination: Doechov, Three Of A Kind ( 9c 9h 9s Ad Qd )
+Shows: Su, Ks Th
+Combination: Su, Pair ( 9h 9s Ks Qd Th )
+Wins: Doechov, chips: 300
+Quits: Su, chips: 0
+Ranking: Doechov, Place: 1, Score: 1000
+Reveal AI: Doechov, AI: Random
+Ranking: Su, Place: 2, Score: -1000
+Reveal AI: Su, AI: AIMyBot1
+
+Player Stats for Doechov, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 5, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Su, AI: AIMyBot1
+General: deals: 11, actions: 6, preflop actions: 6
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+

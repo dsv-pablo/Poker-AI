@@ -1,0 +1,220 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Keeki: AIMyBot1
+Johoero: Random
+
+Joins: Keeki, chips: 1000
+Joins: Johoero, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Johoero
+Small Blind: Johoero, chips: 100
+Big Blind: Keeki, chips: 200
+Calls: Johoero
+DEBUG MESSAGE: INVALID ACTION FROM Keeki (2 0)
+Folds: Keeki
+Pot size: 400
+Boasts: Johoero, 9c Qc
+Wins: Johoero, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keeki
+Small Blind: Keeki, chips: 100
+Big Blind: Johoero, chips: 200
+Folds: Keeki
+Pot size: 300
+Wins: Johoero, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Johoero
+Small Blind: Johoero, chips: 100
+Big Blind: Keeki, chips: 200
+Raises: Johoero, chips: 300
+Folds: Keeki
+Pot size: 700
+Wins: Johoero, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keeki
+Small Blind: Keeki, chips: 100
+Big Blind: Johoero, chips: 200
+Folds: Keeki
+Pot size: 300
+Wins: Johoero, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Johoero
+Small Blind: Johoero, chips: 100
+Big Blind: Keeki, chips: 200
+Folds: Johoero
+Pot size: 300
+Wins: Keeki, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keeki
+Small Blind: Keeki, chips: 100
+Big Blind: Johoero, chips: 200
+Folds: Keeki
+Pot size: 300
+Boasts: Johoero, 7c Kc
+Wins: Johoero, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Johoero
+Small Blind: Johoero, chips: 100
+Big Blind: Keeki, chips: 200
+Calls: Johoero
+DEBUG MESSAGE: INVALID ACTION FROM Keeki (2 0)
+Folds: Keeki
+Pot size: 400
+Wins: Johoero, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keeki
+Small Blind: Keeki, chips: 100
+Big Blind: Johoero, chips: 200
+Folds: Keeki
+Pot size: 300
+Wins: Johoero, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Johoero
+Small Blind: Johoero, chips: 100
+Big Blind: Keeki, chips: 100
+Flop: 4s 2h 8s
+Turn: Ad
+River: 8c
+Pot size: 200
+Showdown Reached
+Shows: Keeki, 3c Tc
+Combination: Keeki, Pair ( 8s 8c Ad Tc 4s )
+Shows: Johoero, Ts 9s
+Combination: Johoero, Pair ( 8s 8c Ad Ts 9s )
+Wins: Johoero, chips: 200
+Quits: Keeki, chips: 0
+Ranking: Johoero, Place: 1, Score: 1000
+Reveal AI: Johoero, AI: Random
+Ranking: Keeki, Place: 2, Score: -1000
+Reveal AI: Keeki, AI: AIMyBot1
+
+Player Stats for Johoero, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Keeki, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:48
+
+The game begins. The AI's of the players are: 
+Keeki: AIMyBot1
+Johoero: Random
+
+Joins: Keeki, chips: 1000
+Joins: Johoero, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Johoero
+Small Blind: Johoero, chips: 100
+Big Blind: Keeki, chips: 200
+Calls: Johoero
+DEBUG MESSAGE: INVALID ACTION FROM Keeki (2 0)
+Folds: Keeki
+Pot size: 400
+Boasts: Johoero, 9c Qc
+Wins: Johoero, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keeki
+Small Blind: Keeki, chips: 100
+Big Blind: Johoero, chips: 200
+Folds: Keeki
+Pot size: 300
+Wins: Johoero, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Johoero
+Small Blind: Johoero, chips: 100
+Big Blind: Keeki, chips: 200
+Raises: Johoero, chips: 300
+Folds: Keeki
+Pot size: 700
+Wins: Johoero, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keeki
+Small Blind: Keeki, chips: 100
+Big Blind: Johoero, chips: 200
+Folds: Keeki
+Pot size: 300
+Wins: Johoero, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Johoero
+Small Blind: Johoero, chips: 100
+Big Blind: Keeki, chips: 200
+Folds: Johoero
+Pot size: 300
+Wins: Keeki, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keeki
+Small Blind: Keeki, chips: 100
+Big Blind: Johoero, chips: 200
+Folds: Keeki
+Pot size: 300
+Boasts: Johoero, 7c Kc
+Wins: Johoero, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Johoero
+Small Blind: Johoero, chips: 100
+Big Blind: Keeki, chips: 200
+Calls: Johoero
+DEBUG MESSAGE: INVALID ACTION FROM Keeki (2 0)
+Folds: Keeki
+Pot size: 400
+Wins: Johoero, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keeki
+Small Blind: Keeki, chips: 100
+Big Blind: Johoero, chips: 200
+Folds: Keeki
+Pot size: 300
+Wins: Johoero, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Johoero
+Small Blind: Johoero, chips: 100
+Big Blind: Keeki, chips: 100
+Flop: 4s 2h 8s
+Turn: Ad
+River: 8c
+Pot size: 200
+Showdown Reached
+Shows: Keeki, 3c Tc
+Combination: Keeki, Pair ( 8s 8c Ad Tc 4s )
+Shows: Johoero, Ts 9s
+Combination: Johoero, Pair ( 8s 8c Ad Ts 9s )
+Wins: Johoero, chips: 200
+Quits: Keeki, chips: 0
+Ranking: Johoero, Place: 1, Score: 1000
+Reveal AI: Johoero, AI: Random
+Ranking: Keeki, Place: 2, Score: -1000
+Reveal AI: Keeki, AI: AIMyBot1
+
+Player Stats for Johoero, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Keeki, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

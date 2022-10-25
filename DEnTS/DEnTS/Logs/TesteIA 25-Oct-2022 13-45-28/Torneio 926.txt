@@ -1,0 +1,232 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Mowroet: Random
+Ritolul: AIMyBot1
+
+Joins: Mowroet, chips: 1000
+Joins: Ritolul, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroet
+Small Blind: Mowroet, chips: 100
+Big Blind: Ritolul, chips: 200
+Raises: Mowroet, chips: 300
+Folds: Ritolul
+Pot size: 700
+Wins: Mowroet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritolul
+Small Blind: Ritolul, chips: 100
+Big Blind: Mowroet, chips: 200
+Folds: Ritolul
+Pot size: 300
+Wins: Mowroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroet
+Small Blind: Mowroet, chips: 100
+Big Blind: Ritolul, chips: 200
+Raises: Mowroet, chips: 300
+Folds: Ritolul
+Pot size: 700
+Wins: Mowroet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritolul
+Small Blind: Ritolul, chips: 100
+Big Blind: Mowroet, chips: 200
+Folds: Ritolul
+Pot size: 300
+Boasts: Mowroet, Ts 3d
+Wins: Mowroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroet
+Small Blind: Mowroet, chips: 100
+Big Blind: Ritolul, chips: 200
+Raises: Mowroet, chips: 300
+Folds: Ritolul
+Pot size: 700
+Wins: Mowroet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritolul
+Small Blind: Ritolul, chips: 100
+Big Blind: Mowroet, chips: 200
+Folds: Ritolul
+Pot size: 300
+Boasts: Mowroet, 8h 8s
+Wins: Mowroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroet
+Small Blind: Mowroet, chips: 100
+Big Blind: Ritolul, chips: 100
+Flop: 4h 2c 3c
+Turn: 4s
+River: Ks
+Pot size: 200
+Showdown Reached
+Shows: Mowroet, Jh 3h
+Combination: Mowroet, Two Pair ( 4h 4s 3h 3c Ks )
+Shows: Ritolul, Td Kc
+Combination: Ritolul, Two Pair ( Kc Ks 4h 4s Td )
+Wins: Ritolul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritolul
+Small Blind: Ritolul, chips: 100
+Big Blind: Mowroet, chips: 200
+Folds: Ritolul
+Pot size: 300
+Boasts: Mowroet, 4h 7d
+Wins: Mowroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroet
+Small Blind: Mowroet, chips: 100
+Big Blind: Ritolul, chips: 100
+Flop: 3h 2c 4c
+Turn: Jc
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Mowroet, 3d 9c
+Combination: Mowroet, Two Pair ( 9c 9d 3d 3h Jc )
+Shows: Ritolul, 5d 2h
+Combination: Ritolul, Pair ( 2h 2c Jc 9d 5d )
+Wins: Mowroet, chips: 200
+Quits: Ritolul, chips: 0
+Ranking: Mowroet, Place: 1, Score: 1000
+Reveal AI: Mowroet, AI: Random
+Ranking: Ritolul, Place: 2, Score: -1000
+Reveal AI: Ritolul, AI: AIMyBot1
+
+Player Stats for Mowroet, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Ritolul, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:30
+
+The game begins. The AI's of the players are: 
+Mowroet: Random
+Ritolul: AIMyBot1
+
+Joins: Mowroet, chips: 1000
+Joins: Ritolul, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroet
+Small Blind: Mowroet, chips: 100
+Big Blind: Ritolul, chips: 200
+Raises: Mowroet, chips: 300
+Folds: Ritolul
+Pot size: 700
+Wins: Mowroet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritolul
+Small Blind: Ritolul, chips: 100
+Big Blind: Mowroet, chips: 200
+Folds: Ritolul
+Pot size: 300
+Wins: Mowroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroet
+Small Blind: Mowroet, chips: 100
+Big Blind: Ritolul, chips: 200
+Raises: Mowroet, chips: 300
+Folds: Ritolul
+Pot size: 700
+Wins: Mowroet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritolul
+Small Blind: Ritolul, chips: 100
+Big Blind: Mowroet, chips: 200
+Folds: Ritolul
+Pot size: 300
+Boasts: Mowroet, Ts 3d
+Wins: Mowroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroet
+Small Blind: Mowroet, chips: 100
+Big Blind: Ritolul, chips: 200
+Raises: Mowroet, chips: 300
+Folds: Ritolul
+Pot size: 700
+Wins: Mowroet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritolul
+Small Blind: Ritolul, chips: 100
+Big Blind: Mowroet, chips: 200
+Folds: Ritolul
+Pot size: 300
+Boasts: Mowroet, 8h 8s
+Wins: Mowroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroet
+Small Blind: Mowroet, chips: 100
+Big Blind: Ritolul, chips: 100
+Flop: 4h 2c 3c
+Turn: 4s
+River: Ks
+Pot size: 200
+Showdown Reached
+Shows: Mowroet, Jh 3h
+Combination: Mowroet, Two Pair ( 4h 4s 3h 3c Ks )
+Shows: Ritolul, Td Kc
+Combination: Ritolul, Two Pair ( Kc Ks 4h 4s Td )
+Wins: Ritolul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritolul
+Small Blind: Ritolul, chips: 100
+Big Blind: Mowroet, chips: 200
+Folds: Ritolul
+Pot size: 300
+Boasts: Mowroet, 4h 7d
+Wins: Mowroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroet
+Small Blind: Mowroet, chips: 100
+Big Blind: Ritolul, chips: 100
+Flop: 3h 2c 4c
+Turn: Jc
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Mowroet, 3d 9c
+Combination: Mowroet, Two Pair ( 9c 9d 3d 3h Jc )
+Shows: Ritolul, 5d 2h
+Combination: Ritolul, Pair ( 2h 2c Jc 9d 5d )
+Wins: Mowroet, chips: 200
+Quits: Ritolul, chips: 0
+Ranking: Mowroet, Place: 1, Score: 1000
+Reveal AI: Mowroet, AI: Random
+Ranking: Ritolul, Place: 2, Score: -1000
+Reveal AI: Ritolul, AI: AIMyBot1
+
+Player Stats for Mowroet, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Ritolul, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

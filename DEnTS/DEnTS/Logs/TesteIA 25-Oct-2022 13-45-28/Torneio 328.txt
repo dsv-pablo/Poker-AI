@@ -1,0 +1,222 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Poveeme: Random
+Hi: AIMyBot1
+
+Joins: Poveeme, chips: 1000
+Joins: Hi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poveeme
+Small Blind: Poveeme, chips: 100
+Big Blind: Hi, chips: 200
+Raises: Poveeme, chips: 300
+Folds: Hi
+Pot size: 700
+Boasts: Poveeme, 5c 2s
+Wins: Poveeme, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Poveeme, chips: 200
+Folds: Hi
+Pot size: 300
+Boasts: Poveeme, Qh Td
+Wins: Poveeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poveeme
+Small Blind: Poveeme, chips: 100
+Big Blind: Hi, chips: 200
+Folds: Poveeme
+Pot size: 300
+Boasts: Poveeme, Ts 4h
+Wins: Hi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Poveeme, chips: 200
+Folds: Hi
+Pot size: 300
+Wins: Poveeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poveeme
+Small Blind: Poveeme, chips: 100
+Big Blind: Hi, chips: 200
+Folds: Poveeme
+Pot size: 300
+Wins: Hi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Poveeme, chips: 200
+Folds: Hi
+Pot size: 300
+Wins: Poveeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poveeme
+Small Blind: Poveeme, chips: 100
+Big Blind: Hi, chips: 200
+Raises: Poveeme, chips: 300
+Folds: Hi
+Pot size: 700
+Wins: Poveeme, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Poveeme, chips: 200
+Folds: Hi
+Pot size: 300
+Boasts: Poveeme, 9c 4s
+Wins: Poveeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poveeme
+Small Blind: Poveeme, chips: 100
+Big Blind: Hi, chips: 200
+Raises: Poveeme, chips: 300
+Calls: Hi
+Flop: 2s 2d 9h
+Turn: 9s
+River: 8c
+Pot size: 900
+Showdown Reached
+Shows: Poveeme, 9c 4d
+Combination: Poveeme, Full House ( 9c 9h 9s 2s 2d )
+Shows: Hi, Jc Qs
+Combination: Hi, Two Pair ( 9h 9s 2s 2d Qs )
+Wins: Poveeme, chips: 900
+Quits: Hi, chips: 0
+Ranking: Poveeme, Place: 1, Score: 1000
+Reveal AI: Poveeme, AI: Random
+Ranking: Hi, Place: 2, Score: -1000
+Reveal AI: Hi, AI: AIMyBot1
+
+Player Stats for Hi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1700, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.111111, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Poveeme, AI: Random
+General: deals: 9, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:50
+
+The game begins. The AI's of the players are: 
+Poveeme: Random
+Hi: AIMyBot1
+
+Joins: Poveeme, chips: 1000
+Joins: Hi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poveeme
+Small Blind: Poveeme, chips: 100
+Big Blind: Hi, chips: 200
+Raises: Poveeme, chips: 300
+Folds: Hi
+Pot size: 700
+Boasts: Poveeme, 5c 2s
+Wins: Poveeme, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Poveeme, chips: 200
+Folds: Hi
+Pot size: 300
+Boasts: Poveeme, Qh Td
+Wins: Poveeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poveeme
+Small Blind: Poveeme, chips: 100
+Big Blind: Hi, chips: 200
+Folds: Poveeme
+Pot size: 300
+Boasts: Poveeme, Ts 4h
+Wins: Hi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Poveeme, chips: 200
+Folds: Hi
+Pot size: 300
+Wins: Poveeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poveeme
+Small Blind: Poveeme, chips: 100
+Big Blind: Hi, chips: 200
+Folds: Poveeme
+Pot size: 300
+Wins: Hi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Poveeme, chips: 200
+Folds: Hi
+Pot size: 300
+Wins: Poveeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poveeme
+Small Blind: Poveeme, chips: 100
+Big Blind: Hi, chips: 200
+Raises: Poveeme, chips: 300
+Folds: Hi
+Pot size: 700
+Wins: Poveeme, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 100
+Big Blind: Poveeme, chips: 200
+Folds: Hi
+Pot size: 300
+Boasts: Poveeme, 9c 4s
+Wins: Poveeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poveeme
+Small Blind: Poveeme, chips: 100
+Big Blind: Hi, chips: 200
+Raises: Poveeme, chips: 300
+Calls: Hi
+Flop: 2s 2d 9h
+Turn: 9s
+River: 8c
+Pot size: 900
+Showdown Reached
+Shows: Poveeme, 9c 4d
+Combination: Poveeme, Full House ( 9c 9h 9s 2s 2d )
+Shows: Hi, Jc Qs
+Combination: Hi, Two Pair ( 9h 9s 2s 2d Qs )
+Wins: Poveeme, chips: 900
+Quits: Hi, chips: 0
+Ranking: Poveeme, Place: 1, Score: 1000
+Reveal AI: Poveeme, AI: Random
+Ranking: Hi, Place: 2, Score: -1000
+Reveal AI: Hi, AI: AIMyBot1
+
+Player Stats for Hi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1700, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.111111, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Poveeme, AI: Random
+General: deals: 9, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

@@ -1,0 +1,306 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Choeseet: Random
+Jigul: AIMyBot1
+
+Joins: Choeseet, chips: 1000
+Joins: Jigul, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeseet
+Small Blind: Choeseet, chips: 100
+Big Blind: Jigul, chips: 200
+Calls: Choeseet
+DEBUG MESSAGE: INVALID ACTION FROM Jigul (2 0)
+Folds: Jigul
+Pot size: 400
+Wins: Choeseet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigul
+Small Blind: Jigul, chips: 100
+Big Blind: Choeseet, chips: 200
+Folds: Jigul
+Pot size: 300
+Boasts: Choeseet, 5d 9c
+Wins: Choeseet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeseet
+Small Blind: Choeseet, chips: 100
+Big Blind: Jigul, chips: 200
+Folds: Choeseet
+Pot size: 300
+Wins: Jigul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigul
+Small Blind: Jigul, chips: 100
+Big Blind: Choeseet, chips: 200
+Folds: Jigul
+Pot size: 300
+Boasts: Choeseet, 3d 6c
+Wins: Choeseet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeseet
+Small Blind: Choeseet, chips: 100
+Big Blind: Jigul, chips: 200
+Raises: Choeseet, chips: 300
+Folds: Jigul
+Pot size: 700
+Wins: Choeseet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigul
+Small Blind: Jigul, chips: 100
+Big Blind: Choeseet, chips: 200
+Folds: Jigul
+Pot size: 300
+Wins: Choeseet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeseet
+Small Blind: Choeseet, chips: 100
+Big Blind: Jigul, chips: 200
+Raises: Choeseet, chips: 300
+Folds: Jigul
+Pot size: 700
+Wins: Choeseet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigul
+Small Blind: Jigul, chips: 100
+Big Blind: Choeseet, chips: 200
+Folds: Jigul
+Pot size: 300
+Boasts: Choeseet, 9s 3c
+Wins: Choeseet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeseet
+Small Blind: Choeseet, chips: 100
+Big Blind: Jigul, chips: 100
+Flop: Td 6h 9c
+Turn: Kh
+River: Th
+Pot size: 200
+Showdown Reached
+Shows: Choeseet, 4c 4s
+Combination: Choeseet, Two Pair ( Td Th 4c 4s Kh )
+Shows: Jigul, 9s 5s
+Combination: Jigul, Two Pair ( Td Th 9s 9c Kh )
+Wins: Jigul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigul
+Small Blind: Jigul, chips: 100
+Big Blind: Choeseet, chips: 200
+Folds: Jigul
+Pot size: 300
+Boasts: Choeseet, Qs 6h
+Wins: Choeseet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeseet
+Small Blind: Choeseet, chips: 100
+Big Blind: Jigul, chips: 100
+Flop: 8d 2c 3d
+Turn: 6c
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Choeseet, Qh 7d
+Combination: Choeseet, High Card ( Qh 8d 7d 6c 5h )
+Shows: Jigul, 3c As
+Combination: Jigul, Pair ( 3c 3d As 8d 6c )
+Wins: Jigul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigul
+Small Blind: Jigul, chips: 100
+Big Blind: Choeseet, chips: 200
+Folds: Jigul
+Pot size: 300
+Wins: Choeseet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeseet
+Small Blind: Choeseet, chips: 100
+Big Blind: Jigul, chips: 100
+Flop: Tc Jc 3h
+Turn: 2h
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Choeseet, Qh Jd
+Combination: Choeseet, Two Pair ( Jd Jc 3h 3c Qh )
+Shows: Jigul, Ac Ks
+Combination: Jigul, Pair ( 3h 3c Ac Ks Jc )
+Wins: Choeseet, chips: 200
+Quits: Jigul, chips: 0
+Ranking: Choeseet, Place: 1, Score: 1000
+Reveal AI: Choeseet, AI: Random
+Ranking: Jigul, Place: 2, Score: -1000
+Reveal AI: Jigul, AI: AIMyBot1
+
+Player Stats for Choeseet, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Jigul, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:55
+
+The game begins. The AI's of the players are: 
+Choeseet: Random
+Jigul: AIMyBot1
+
+Joins: Choeseet, chips: 1000
+Joins: Jigul, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeseet
+Small Blind: Choeseet, chips: 100
+Big Blind: Jigul, chips: 200
+Calls: Choeseet
+DEBUG MESSAGE: INVALID ACTION FROM Jigul (2 0)
+Folds: Jigul
+Pot size: 400
+Wins: Choeseet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigul
+Small Blind: Jigul, chips: 100
+Big Blind: Choeseet, chips: 200
+Folds: Jigul
+Pot size: 300
+Boasts: Choeseet, 5d 9c
+Wins: Choeseet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeseet
+Small Blind: Choeseet, chips: 100
+Big Blind: Jigul, chips: 200
+Folds: Choeseet
+Pot size: 300
+Wins: Jigul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigul
+Small Blind: Jigul, chips: 100
+Big Blind: Choeseet, chips: 200
+Folds: Jigul
+Pot size: 300
+Boasts: Choeseet, 3d 6c
+Wins: Choeseet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeseet
+Small Blind: Choeseet, chips: 100
+Big Blind: Jigul, chips: 200
+Raises: Choeseet, chips: 300
+Folds: Jigul
+Pot size: 700
+Wins: Choeseet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigul
+Small Blind: Jigul, chips: 100
+Big Blind: Choeseet, chips: 200
+Folds: Jigul
+Pot size: 300
+Wins: Choeseet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeseet
+Small Blind: Choeseet, chips: 100
+Big Blind: Jigul, chips: 200
+Raises: Choeseet, chips: 300
+Folds: Jigul
+Pot size: 700
+Wins: Choeseet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigul
+Small Blind: Jigul, chips: 100
+Big Blind: Choeseet, chips: 200
+Folds: Jigul
+Pot size: 300
+Boasts: Choeseet, 9s 3c
+Wins: Choeseet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeseet
+Small Blind: Choeseet, chips: 100
+Big Blind: Jigul, chips: 100
+Flop: Td 6h 9c
+Turn: Kh
+River: Th
+Pot size: 200
+Showdown Reached
+Shows: Choeseet, 4c 4s
+Combination: Choeseet, Two Pair ( Td Th 4c 4s Kh )
+Shows: Jigul, 9s 5s
+Combination: Jigul, Two Pair ( Td Th 9s 9c Kh )
+Wins: Jigul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigul
+Small Blind: Jigul, chips: 100
+Big Blind: Choeseet, chips: 200
+Folds: Jigul
+Pot size: 300
+Boasts: Choeseet, Qs 6h
+Wins: Choeseet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeseet
+Small Blind: Choeseet, chips: 100
+Big Blind: Jigul, chips: 100
+Flop: 8d 2c 3d
+Turn: 6c
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Choeseet, Qh 7d
+Combination: Choeseet, High Card ( Qh 8d 7d 6c 5h )
+Shows: Jigul, 3c As
+Combination: Jigul, Pair ( 3c 3d As 8d 6c )
+Wins: Jigul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigul
+Small Blind: Jigul, chips: 100
+Big Blind: Choeseet, chips: 200
+Folds: Jigul
+Pot size: 300
+Wins: Choeseet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeseet
+Small Blind: Choeseet, chips: 100
+Big Blind: Jigul, chips: 100
+Flop: Tc Jc 3h
+Turn: 2h
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Choeseet, Qh Jd
+Combination: Choeseet, Two Pair ( Jd Jc 3h 3c Qh )
+Shows: Jigul, Ac Ks
+Combination: Jigul, Pair ( 3h 3c Ac Ks Jc )
+Wins: Choeseet, chips: 200
+Quits: Jigul, chips: 0
+Ranking: Choeseet, Place: 1, Score: 1000
+Reveal AI: Choeseet, AI: Random
+Ranking: Jigul, Place: 2, Score: -1000
+Reveal AI: Jigul, AI: AIMyBot1
+
+Player Stats for Choeseet, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Jigul, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

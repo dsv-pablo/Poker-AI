@@ -1,0 +1,226 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Meewi: AIMyBot1
+Gawruv: Random
+
+Joins: Meewi, chips: 1000
+Joins: Gawruv, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meewi
+Small Blind: Meewi, chips: 100
+Big Blind: Gawruv, chips: 200
+Folds: Meewi
+Pot size: 300
+Wins: Gawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawruv
+Small Blind: Gawruv, chips: 100
+Big Blind: Meewi, chips: 200
+Raises: Gawruv, chips: 300
+Folds: Meewi
+Pot size: 700
+Wins: Gawruv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meewi
+Small Blind: Meewi, chips: 100
+Big Blind: Gawruv, chips: 200
+Folds: Meewi
+Pot size: 300
+Boasts: Gawruv, 5c 8d
+Wins: Gawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawruv
+Small Blind: Gawruv, chips: 100
+Big Blind: Meewi, chips: 200
+Folds: Gawruv
+Pot size: 300
+Wins: Meewi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meewi
+Small Blind: Meewi, chips: 100
+Big Blind: Gawruv, chips: 200
+Folds: Meewi
+Pot size: 300
+Boasts: Gawruv, 8c 2s
+Wins: Gawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawruv
+Small Blind: Gawruv, chips: 100
+Big Blind: Meewi, chips: 200
+Calls: Gawruv
+DEBUG MESSAGE: INVALID ACTION FROM Meewi (2 0)
+Folds: Meewi
+Pot size: 400
+Boasts: Gawruv, 8c 6c
+Wins: Gawruv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meewi
+Small Blind: Meewi, chips: 100
+Big Blind: Gawruv, chips: 200
+Folds: Meewi
+Pot size: 300
+Boasts: Gawruv, Ad Td
+Wins: Gawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawruv
+Small Blind: Gawruv, chips: 100
+Big Blind: Meewi, chips: 200
+Calls: Gawruv
+DEBUG MESSAGE: INVALID ACTION FROM Meewi (2 0)
+Folds: Meewi
+Pot size: 400
+Boasts: Gawruv, 8c 3c
+Wins: Gawruv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meewi
+Small Blind: Meewi, chips: 100
+Big Blind: Gawruv, chips: 200
+Flop: 4c Kh 8s
+Turn: 2s
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Meewi, 5d Qd
+Combination: Meewi, Pair ( 4c 4d Kh Qd 8s )
+Shows: Gawruv, Td Kd
+Combination: Gawruv, Two Pair ( Kd Kh 4c 4d Td )
+Wins: Gawruv, chips: 300
+Quits: Meewi, chips: 0
+Ranking: Gawruv, Place: 1, Score: 1000
+Reveal AI: Gawruv, AI: Random
+Ranking: Meewi, Place: 2, Score: -1000
+Reveal AI: Meewi, AI: AIMyBot1
+
+Player Stats for Gawruv, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Meewi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:39
+
+The game begins. The AI's of the players are: 
+Meewi: AIMyBot1
+Gawruv: Random
+
+Joins: Meewi, chips: 1000
+Joins: Gawruv, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meewi
+Small Blind: Meewi, chips: 100
+Big Blind: Gawruv, chips: 200
+Folds: Meewi
+Pot size: 300
+Wins: Gawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawruv
+Small Blind: Gawruv, chips: 100
+Big Blind: Meewi, chips: 200
+Raises: Gawruv, chips: 300
+Folds: Meewi
+Pot size: 700
+Wins: Gawruv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meewi
+Small Blind: Meewi, chips: 100
+Big Blind: Gawruv, chips: 200
+Folds: Meewi
+Pot size: 300
+Boasts: Gawruv, 5c 8d
+Wins: Gawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawruv
+Small Blind: Gawruv, chips: 100
+Big Blind: Meewi, chips: 200
+Folds: Gawruv
+Pot size: 300
+Wins: Meewi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meewi
+Small Blind: Meewi, chips: 100
+Big Blind: Gawruv, chips: 200
+Folds: Meewi
+Pot size: 300
+Boasts: Gawruv, 8c 2s
+Wins: Gawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawruv
+Small Blind: Gawruv, chips: 100
+Big Blind: Meewi, chips: 200
+Calls: Gawruv
+DEBUG MESSAGE: INVALID ACTION FROM Meewi (2 0)
+Folds: Meewi
+Pot size: 400
+Boasts: Gawruv, 8c 6c
+Wins: Gawruv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meewi
+Small Blind: Meewi, chips: 100
+Big Blind: Gawruv, chips: 200
+Folds: Meewi
+Pot size: 300
+Boasts: Gawruv, Ad Td
+Wins: Gawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawruv
+Small Blind: Gawruv, chips: 100
+Big Blind: Meewi, chips: 200
+Calls: Gawruv
+DEBUG MESSAGE: INVALID ACTION FROM Meewi (2 0)
+Folds: Meewi
+Pot size: 400
+Boasts: Gawruv, 8c 3c
+Wins: Gawruv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meewi
+Small Blind: Meewi, chips: 100
+Big Blind: Gawruv, chips: 200
+Flop: 4c Kh 8s
+Turn: 2s
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Meewi, 5d Qd
+Combination: Meewi, Pair ( 4c 4d Kh Qd 8s )
+Shows: Gawruv, Td Kd
+Combination: Gawruv, Two Pair ( Kd Kh 4c 4d Td )
+Wins: Gawruv, chips: 300
+Quits: Meewi, chips: 0
+Ranking: Gawruv, Place: 1, Score: 1000
+Reveal AI: Gawruv, AI: Random
+Ranking: Meewi, Place: 2, Score: -1000
+Reveal AI: Meewi, AI: AIMyBot1
+
+Player Stats for Gawruv, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Meewi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

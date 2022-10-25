@@ -1,0 +1,376 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Teera: AIMyBot1
+Penhoe: Random
+
+Joins: Teera, chips: 1000
+Joins: Penhoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 200
+Calls: Penhoe
+DEBUG MESSAGE: INVALID ACTION FROM Teera (2 0)
+Folds: Teera
+Pot size: 400
+Wins: Penhoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teera
+Small Blind: Teera, chips: 100
+Big Blind: Penhoe, chips: 200
+Folds: Teera
+Pot size: 300
+Wins: Penhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 200
+Folds: Penhoe
+Pot size: 300
+Boasts: Penhoe, 7s 2h
+Wins: Teera, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teera
+Small Blind: Teera, chips: 100
+Big Blind: Penhoe, chips: 200
+Folds: Teera
+Pot size: 300
+Boasts: Penhoe, 9c Ah
+Wins: Penhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 200
+Folds: Penhoe
+Pot size: 300
+Boasts: Penhoe, Ah 3c
+Wins: Teera, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teera
+Small Blind: Teera, chips: 100
+Big Blind: Penhoe, chips: 200
+Folds: Teera
+Pot size: 300
+Wins: Penhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 200
+Folds: Penhoe
+Pot size: 300
+Wins: Teera, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teera
+Small Blind: Teera, chips: 100
+Big Blind: Penhoe, chips: 200
+Folds: Teera
+Pot size: 300
+Wins: Penhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 200
+Calls: Penhoe
+DEBUG MESSAGE: INVALID ACTION FROM Teera (2 0)
+Folds: Teera
+Pot size: 400
+Boasts: Penhoe, Qs 5c
+Wins: Penhoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teera
+Small Blind: Teera, chips: 100
+Big Blind: Penhoe, chips: 200
+Folds: Teera
+Pot size: 300
+Boasts: Penhoe, 5s 2c
+Wins: Penhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 200
+Calls: Penhoe
+DEBUG MESSAGE: INVALID ACTION FROM Teera (2 0)
+Folds: Teera
+Pot size: 400
+Boasts: Penhoe, 8c As
+Wins: Penhoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teera
+Small Blind: Teera, chips: 100
+Big Blind: Penhoe, chips: 200
+Folds: Teera
+Pot size: 300
+Boasts: Penhoe, 3c Ts
+Wins: Penhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 100
+Flop: 6s 2h Qd
+Turn: 9d
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Teera, Qs 8h
+Combination: Teera, Pair ( Qs Qd 9d 8h 6s )
+Shows: Penhoe, 4h Jd
+Combination: Penhoe, High Card ( Qd Jd 9d 6s 4h )
+Wins: Teera, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teera
+Small Blind: Teera, chips: 100
+Big Blind: Penhoe, chips: 200
+Folds: Teera
+Pot size: 300
+Boasts: Penhoe, 6h 8d
+Wins: Penhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 100
+Flop: As 4c Kd
+Turn: Qh
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Teera, 9c 5d
+Combination: Teera, High Card ( As Kd Qh Tc 9c )
+Shows: Penhoe, 5h 8h
+Combination: Penhoe, High Card ( As Kd Qh Tc 8h )
+Wins: Teera, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teera
+Small Blind: Teera, chips: 100
+Big Blind: Penhoe, chips: 200
+Folds: Teera
+Pot size: 300
+Boasts: Penhoe, Qh 8c
+Wins: Penhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 100
+Flop: Td Jh 6h
+Turn: 6c
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Teera, 3c Kh
+Combination: Teera, Pair ( 6h 6c Kh Jh Td )
+Shows: Penhoe, 4d As
+Combination: Penhoe, Pair ( 6h 6c As Jh Td )
+Wins: Penhoe, chips: 200
+Quits: Teera, chips: 0
+Ranking: Penhoe, Place: 1, Score: 1000
+Reveal AI: Penhoe, AI: Random
+Ranking: Teera, Place: 2, Score: -1000
+Reveal AI: Teera, AI: AIMyBot1
+
+Player Stats for Penhoe, AI: Random
+General: deals: 17, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Teera, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1300, lost: 2300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:28
+
+The game begins. The AI's of the players are: 
+Teera: AIMyBot1
+Penhoe: Random
+
+Joins: Teera, chips: 1000
+Joins: Penhoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 200
+Calls: Penhoe
+DEBUG MESSAGE: INVALID ACTION FROM Teera (2 0)
+Folds: Teera
+Pot size: 400
+Wins: Penhoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teera
+Small Blind: Teera, chips: 100
+Big Blind: Penhoe, chips: 200
+Folds: Teera
+Pot size: 300
+Wins: Penhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 200
+Folds: Penhoe
+Pot size: 300
+Boasts: Penhoe, 7s 2h
+Wins: Teera, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teera
+Small Blind: Teera, chips: 100
+Big Blind: Penhoe, chips: 200
+Folds: Teera
+Pot size: 300
+Boasts: Penhoe, 9c Ah
+Wins: Penhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 200
+Folds: Penhoe
+Pot size: 300
+Boasts: Penhoe, Ah 3c
+Wins: Teera, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teera
+Small Blind: Teera, chips: 100
+Big Blind: Penhoe, chips: 200
+Folds: Teera
+Pot size: 300
+Wins: Penhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 200
+Folds: Penhoe
+Pot size: 300
+Wins: Teera, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teera
+Small Blind: Teera, chips: 100
+Big Blind: Penhoe, chips: 200
+Folds: Teera
+Pot size: 300
+Wins: Penhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 200
+Calls: Penhoe
+DEBUG MESSAGE: INVALID ACTION FROM Teera (2 0)
+Folds: Teera
+Pot size: 400
+Boasts: Penhoe, Qs 5c
+Wins: Penhoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teera
+Small Blind: Teera, chips: 100
+Big Blind: Penhoe, chips: 200
+Folds: Teera
+Pot size: 300
+Boasts: Penhoe, 5s 2c
+Wins: Penhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 200
+Calls: Penhoe
+DEBUG MESSAGE: INVALID ACTION FROM Teera (2 0)
+Folds: Teera
+Pot size: 400
+Boasts: Penhoe, 8c As
+Wins: Penhoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teera
+Small Blind: Teera, chips: 100
+Big Blind: Penhoe, chips: 200
+Folds: Teera
+Pot size: 300
+Boasts: Penhoe, 3c Ts
+Wins: Penhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 100
+Flop: 6s 2h Qd
+Turn: 9d
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Teera, Qs 8h
+Combination: Teera, Pair ( Qs Qd 9d 8h 6s )
+Shows: Penhoe, 4h Jd
+Combination: Penhoe, High Card ( Qd Jd 9d 6s 4h )
+Wins: Teera, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teera
+Small Blind: Teera, chips: 100
+Big Blind: Penhoe, chips: 200
+Folds: Teera
+Pot size: 300
+Boasts: Penhoe, 6h 8d
+Wins: Penhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 100
+Flop: As 4c Kd
+Turn: Qh
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Teera, 9c 5d
+Combination: Teera, High Card ( As Kd Qh Tc 9c )
+Shows: Penhoe, 5h 8h
+Combination: Penhoe, High Card ( As Kd Qh Tc 8h )
+Wins: Teera, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teera
+Small Blind: Teera, chips: 100
+Big Blind: Penhoe, chips: 200
+Folds: Teera
+Pot size: 300
+Boasts: Penhoe, Qh 8c
+Wins: Penhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhoe
+Small Blind: Penhoe, chips: 100
+Big Blind: Teera, chips: 100
+Flop: Td Jh 6h
+Turn: 6c
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Teera, 3c Kh
+Combination: Teera, Pair ( 6h 6c Kh Jh Td )
+Shows: Penhoe, 4d As
+Combination: Penhoe, Pair ( 6h 6c As Jh Td )
+Wins: Penhoe, chips: 200
+Quits: Teera, chips: 0
+Ranking: Penhoe, Place: 1, Score: 1000
+Reveal AI: Penhoe, AI: Random
+Ranking: Teera, Place: 2, Score: -1000
+Reveal AI: Teera, AI: AIMyBot1
+
+Player Stats for Penhoe, AI: Random
+General: deals: 17, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Teera, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1300, lost: 2300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

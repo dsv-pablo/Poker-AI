@@ -1,0 +1,252 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Nobe: Random
+Gomime: AIMyBot1
+
+Joins: Nobe, chips: 1000
+Joins: Gomime, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gomime
+Small Blind: Gomime, chips: 100
+Big Blind: Nobe, chips: 200
+Folds: Gomime
+Pot size: 300
+Boasts: Nobe, 5c 7h
+Wins: Nobe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nobe
+Small Blind: Nobe, chips: 100
+Big Blind: Gomime, chips: 200
+Calls: Nobe
+DEBUG MESSAGE: INVALID ACTION FROM Gomime (2 0)
+Folds: Gomime
+Pot size: 400
+Boasts: Nobe, 7h 2s
+Wins: Nobe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gomime
+Small Blind: Gomime, chips: 100
+Big Blind: Nobe, chips: 200
+Folds: Gomime
+Pot size: 300
+Wins: Nobe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nobe
+Small Blind: Nobe, chips: 100
+Big Blind: Gomime, chips: 200
+Raises: Nobe, chips: 300
+Folds: Gomime
+Pot size: 700
+Boasts: Nobe, Qs 8s
+Wins: Nobe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gomime
+Small Blind: Gomime, chips: 100
+Big Blind: Nobe, chips: 200
+Folds: Gomime
+Pot size: 300
+Boasts: Nobe, Kd Kh
+Wins: Nobe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nobe
+Small Blind: Nobe, chips: 100
+Big Blind: Gomime, chips: 200
+Folds: Nobe
+Pot size: 300
+Wins: Gomime, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gomime
+Small Blind: Gomime, chips: 100
+Big Blind: Nobe, chips: 200
+Folds: Gomime
+Pot size: 300
+Wins: Nobe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nobe
+Small Blind: Nobe, chips: 100
+Big Blind: Gomime, chips: 200
+Folds: Nobe
+Pot size: 300
+Wins: Gomime, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gomime
+Small Blind: Gomime, chips: 100
+Big Blind: Nobe, chips: 200
+Folds: Gomime
+Pot size: 300
+Wins: Nobe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nobe
+Small Blind: Nobe, chips: 100
+Big Blind: Gomime, chips: 200
+Raises: Nobe, chips: 300
+Folds: Gomime
+Pot size: 700
+Boasts: Nobe, As Ts
+Wins: Nobe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gomime
+Small Blind: Gomime, chips: 100
+Big Blind: Nobe, chips: 200
+Flop: 3s 5h 3h
+Turn: 7d
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Nobe, As 2d
+Combination: Nobe, Pair ( 3s 3h As Jd 7d )
+Shows: Gomime, Td Kd
+Combination: Gomime, Pair ( 3s 3h Kd Jd Td )
+Wins: Nobe, chips: 300
+Quits: Gomime, chips: 0
+Ranking: Nobe, Place: 1, Score: 1000
+Reveal AI: Nobe, AI: Random
+Ranking: Gomime, Place: 2, Score: -1000
+Reveal AI: Gomime, AI: AIMyBot1
+
+Player Stats for Gomime, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Nobe, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:30
+
+The game begins. The AI's of the players are: 
+Nobe: Random
+Gomime: AIMyBot1
+
+Joins: Nobe, chips: 1000
+Joins: Gomime, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gomime
+Small Blind: Gomime, chips: 100
+Big Blind: Nobe, chips: 200
+Folds: Gomime
+Pot size: 300
+Boasts: Nobe, 5c 7h
+Wins: Nobe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nobe
+Small Blind: Nobe, chips: 100
+Big Blind: Gomime, chips: 200
+Calls: Nobe
+DEBUG MESSAGE: INVALID ACTION FROM Gomime (2 0)
+Folds: Gomime
+Pot size: 400
+Boasts: Nobe, 7h 2s
+Wins: Nobe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gomime
+Small Blind: Gomime, chips: 100
+Big Blind: Nobe, chips: 200
+Folds: Gomime
+Pot size: 300
+Wins: Nobe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nobe
+Small Blind: Nobe, chips: 100
+Big Blind: Gomime, chips: 200
+Raises: Nobe, chips: 300
+Folds: Gomime
+Pot size: 700
+Boasts: Nobe, Qs 8s
+Wins: Nobe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gomime
+Small Blind: Gomime, chips: 100
+Big Blind: Nobe, chips: 200
+Folds: Gomime
+Pot size: 300
+Boasts: Nobe, Kd Kh
+Wins: Nobe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nobe
+Small Blind: Nobe, chips: 100
+Big Blind: Gomime, chips: 200
+Folds: Nobe
+Pot size: 300
+Wins: Gomime, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gomime
+Small Blind: Gomime, chips: 100
+Big Blind: Nobe, chips: 200
+Folds: Gomime
+Pot size: 300
+Wins: Nobe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nobe
+Small Blind: Nobe, chips: 100
+Big Blind: Gomime, chips: 200
+Folds: Nobe
+Pot size: 300
+Wins: Gomime, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gomime
+Small Blind: Gomime, chips: 100
+Big Blind: Nobe, chips: 200
+Folds: Gomime
+Pot size: 300
+Wins: Nobe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nobe
+Small Blind: Nobe, chips: 100
+Big Blind: Gomime, chips: 200
+Raises: Nobe, chips: 300
+Folds: Gomime
+Pot size: 700
+Boasts: Nobe, As Ts
+Wins: Nobe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gomime
+Small Blind: Gomime, chips: 100
+Big Blind: Nobe, chips: 200
+Flop: 3s 5h 3h
+Turn: 7d
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Nobe, As 2d
+Combination: Nobe, Pair ( 3s 3h As Jd 7d )
+Shows: Gomime, Td Kd
+Combination: Gomime, Pair ( 3s 3h Kd Jd Td )
+Wins: Nobe, chips: 300
+Quits: Gomime, chips: 0
+Ranking: Nobe, Place: 1, Score: 1000
+Reveal AI: Nobe, AI: Random
+Ranking: Gomime, Place: 2, Score: -1000
+Reveal AI: Gomime, AI: AIMyBot1
+
+Player Stats for Gomime, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Nobe, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

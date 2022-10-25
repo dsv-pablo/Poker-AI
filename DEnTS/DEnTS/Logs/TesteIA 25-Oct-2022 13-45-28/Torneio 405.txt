@@ -1,0 +1,190 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Mee: Random
+Neechoen: AIMyBot1
+
+Joins: Mee, chips: 1000
+Joins: Neechoen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neechoen
+Small Blind: Neechoen, chips: 100
+Big Blind: Mee, chips: 200
+Folds: Neechoen
+Pot size: 300
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Neechoen, chips: 200
+Raises: Mee, chips: 300
+Folds: Neechoen
+Pot size: 700
+Wins: Mee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neechoen
+Small Blind: Neechoen, chips: 100
+Big Blind: Mee, chips: 200
+Folds: Neechoen
+Pot size: 300
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Neechoen, chips: 200
+Calls: Mee
+DEBUG MESSAGE: INVALID ACTION FROM Neechoen (2 0)
+Folds: Neechoen
+Pot size: 400
+Wins: Mee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neechoen
+Small Blind: Neechoen, chips: 100
+Big Blind: Mee, chips: 200
+Folds: Neechoen
+Pot size: 300
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Neechoen, chips: 200
+Calls: Mee
+DEBUG MESSAGE: INVALID ACTION FROM Neechoen (2 0)
+Folds: Neechoen
+Pot size: 400
+Boasts: Mee, 7d Ks
+Wins: Mee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neechoen
+Small Blind: Neechoen, chips: 100
+Big Blind: Mee, chips: 200
+Flop: 9d As 3s
+Turn: 4h
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Mee, 8h Kc
+Combination: Mee, High Card ( As Kc Qs 9d 8h )
+Shows: Neechoen, 5c 6s
+Combination: Neechoen, High Card ( As Qs 9d 6s 5c )
+Wins: Mee, chips: 300
+Quits: Neechoen, chips: 0
+Ranking: Mee, Place: 1, Score: 1000
+Reveal AI: Mee, AI: Random
+Ranking: Neechoen, Place: 2, Score: -1000
+Reveal AI: Neechoen, AI: AIMyBot1
+
+Player Stats for Mee, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Neechoen, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:56
+
+The game begins. The AI's of the players are: 
+Mee: Random
+Neechoen: AIMyBot1
+
+Joins: Mee, chips: 1000
+Joins: Neechoen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neechoen
+Small Blind: Neechoen, chips: 100
+Big Blind: Mee, chips: 200
+Folds: Neechoen
+Pot size: 300
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Neechoen, chips: 200
+Raises: Mee, chips: 300
+Folds: Neechoen
+Pot size: 700
+Wins: Mee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neechoen
+Small Blind: Neechoen, chips: 100
+Big Blind: Mee, chips: 200
+Folds: Neechoen
+Pot size: 300
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Neechoen, chips: 200
+Calls: Mee
+DEBUG MESSAGE: INVALID ACTION FROM Neechoen (2 0)
+Folds: Neechoen
+Pot size: 400
+Wins: Mee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neechoen
+Small Blind: Neechoen, chips: 100
+Big Blind: Mee, chips: 200
+Folds: Neechoen
+Pot size: 300
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Neechoen, chips: 200
+Calls: Mee
+DEBUG MESSAGE: INVALID ACTION FROM Neechoen (2 0)
+Folds: Neechoen
+Pot size: 400
+Boasts: Mee, 7d Ks
+Wins: Mee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neechoen
+Small Blind: Neechoen, chips: 100
+Big Blind: Mee, chips: 200
+Flop: 9d As 3s
+Turn: 4h
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Mee, 8h Kc
+Combination: Mee, High Card ( As Kc Qs 9d 8h )
+Shows: Neechoen, 5c 6s
+Combination: Neechoen, High Card ( As Qs 9d 6s 5c )
+Wins: Mee, chips: 300
+Quits: Neechoen, chips: 0
+Ranking: Mee, Place: 1, Score: 1000
+Reveal AI: Mee, AI: Random
+Ranking: Neechoen, Place: 2, Score: -1000
+Reveal AI: Neechoen, AI: AIMyBot1
+
+Player Stats for Mee, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Neechoen, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

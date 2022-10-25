@@ -1,0 +1,264 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Voevadof: AIMyBot1
+Mobav: Random
+
+Joins: Voevadof, chips: 1000
+Joins: Mobav, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mobav
+Small Blind: Mobav, chips: 100
+Big Blind: Voevadof, chips: 200
+Folds: Mobav
+Pot size: 300
+Boasts: Mobav, 9c 7d
+Wins: Voevadof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voevadof
+Small Blind: Voevadof, chips: 100
+Big Blind: Mobav, chips: 200
+Folds: Voevadof
+Pot size: 300
+Boasts: Mobav, 2h 5d
+Wins: Mobav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mobav
+Small Blind: Mobav, chips: 100
+Big Blind: Voevadof, chips: 200
+Raises: Mobav, chips: 300
+Folds: Voevadof
+Pot size: 700
+Wins: Mobav, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voevadof
+Small Blind: Voevadof, chips: 100
+Big Blind: Mobav, chips: 200
+Folds: Voevadof
+Pot size: 300
+Wins: Mobav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mobav
+Small Blind: Mobav, chips: 100
+Big Blind: Voevadof, chips: 200
+Raises: Mobav, chips: 300
+Folds: Voevadof
+Pot size: 700
+Wins: Mobav, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voevadof
+Small Blind: Voevadof, chips: 100
+Big Blind: Mobav, chips: 200
+Folds: Voevadof
+Pot size: 300
+Boasts: Mobav, 8c 2d
+Wins: Mobav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mobav
+Small Blind: Mobav, chips: 100
+Big Blind: Voevadof, chips: 200
+Calls: Mobav
+DEBUG MESSAGE: INVALID ACTION FROM Voevadof (2 0)
+Folds: Voevadof
+Pot size: 400
+Wins: Mobav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voevadof
+Small Blind: Voevadof, chips: 100
+Big Blind: Mobav, chips: 200
+Folds: Voevadof
+Pot size: 300
+Boasts: Mobav, Qd Qs
+Wins: Mobav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mobav
+Small Blind: Mobav, chips: 100
+Big Blind: Voevadof, chips: 100
+Flop: 5h Js 8c
+Turn: 2d
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Voevadof, Ts Ad
+Combination: Voevadof, Pair ( 5h 5s Ad Js Ts )
+Shows: Mobav, Th 4h
+Combination: Mobav, Pair ( 5h 5s Js Th 8c )
+Wins: Voevadof, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voevadof
+Small Blind: Voevadof, chips: 100
+Big Blind: Mobav, chips: 200
+Folds: Voevadof
+Pot size: 300
+Wins: Mobav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mobav
+Small Blind: Mobav, chips: 100
+Big Blind: Voevadof, chips: 100
+Flop: Kh 8d Td
+Turn: Jh
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Voevadof, 7s Ks
+Combination: Voevadof, Two Pair ( Ks Kh 7s 7c Jh )
+Shows: Mobav, 8s 9c
+Combination: Mobav, Straight ( Jh Td 9c 8s 7c )
+Wins: Mobav, chips: 200
+Quits: Voevadof, chips: 0
+Ranking: Mobav, Place: 1, Score: 1000
+Reveal AI: Mobav, AI: Random
+Ranking: Voevadof, Place: 2, Score: -1000
+Reveal AI: Voevadof, AI: AIMyBot1
+
+Player Stats for Mobav, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Voevadof, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:30
+
+The game begins. The AI's of the players are: 
+Voevadof: AIMyBot1
+Mobav: Random
+
+Joins: Voevadof, chips: 1000
+Joins: Mobav, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mobav
+Small Blind: Mobav, chips: 100
+Big Blind: Voevadof, chips: 200
+Folds: Mobav
+Pot size: 300
+Boasts: Mobav, 9c 7d
+Wins: Voevadof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voevadof
+Small Blind: Voevadof, chips: 100
+Big Blind: Mobav, chips: 200
+Folds: Voevadof
+Pot size: 300
+Boasts: Mobav, 2h 5d
+Wins: Mobav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mobav
+Small Blind: Mobav, chips: 100
+Big Blind: Voevadof, chips: 200
+Raises: Mobav, chips: 300
+Folds: Voevadof
+Pot size: 700
+Wins: Mobav, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voevadof
+Small Blind: Voevadof, chips: 100
+Big Blind: Mobav, chips: 200
+Folds: Voevadof
+Pot size: 300
+Wins: Mobav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mobav
+Small Blind: Mobav, chips: 100
+Big Blind: Voevadof, chips: 200
+Raises: Mobav, chips: 300
+Folds: Voevadof
+Pot size: 700
+Wins: Mobav, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voevadof
+Small Blind: Voevadof, chips: 100
+Big Blind: Mobav, chips: 200
+Folds: Voevadof
+Pot size: 300
+Boasts: Mobav, 8c 2d
+Wins: Mobav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mobav
+Small Blind: Mobav, chips: 100
+Big Blind: Voevadof, chips: 200
+Calls: Mobav
+DEBUG MESSAGE: INVALID ACTION FROM Voevadof (2 0)
+Folds: Voevadof
+Pot size: 400
+Wins: Mobav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voevadof
+Small Blind: Voevadof, chips: 100
+Big Blind: Mobav, chips: 200
+Folds: Voevadof
+Pot size: 300
+Boasts: Mobav, Qd Qs
+Wins: Mobav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mobav
+Small Blind: Mobav, chips: 100
+Big Blind: Voevadof, chips: 100
+Flop: 5h Js 8c
+Turn: 2d
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Voevadof, Ts Ad
+Combination: Voevadof, Pair ( 5h 5s Ad Js Ts )
+Shows: Mobav, Th 4h
+Combination: Mobav, Pair ( 5h 5s Js Th 8c )
+Wins: Voevadof, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voevadof
+Small Blind: Voevadof, chips: 100
+Big Blind: Mobav, chips: 200
+Folds: Voevadof
+Pot size: 300
+Wins: Mobav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mobav
+Small Blind: Mobav, chips: 100
+Big Blind: Voevadof, chips: 100
+Flop: Kh 8d Td
+Turn: Jh
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Voevadof, 7s Ks
+Combination: Voevadof, Two Pair ( Ks Kh 7s 7c Jh )
+Shows: Mobav, 8s 9c
+Combination: Mobav, Straight ( Jh Td 9c 8s 7c )
+Wins: Mobav, chips: 200
+Quits: Voevadof, chips: 0
+Ranking: Mobav, Place: 1, Score: 1000
+Reveal AI: Mobav, AI: Random
+Ranking: Voevadof, Place: 2, Score: -1000
+Reveal AI: Voevadof, AI: AIMyBot1
+
+Player Stats for Mobav, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Voevadof, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

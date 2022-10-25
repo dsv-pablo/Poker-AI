@@ -1,0 +1,418 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Poechi: Random
+Vi: AIMyBot1
+
+Joins: Poechi, chips: 1000
+Joins: Vi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Folds: Vi
+Pot size: 300
+Boasts: Poechi, 5s 4s
+Wins: Poechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poechi
+Small Blind: Poechi, chips: 100
+Big Blind: Vi, chips: 200
+Folds: Poechi
+Pot size: 300
+Wins: Vi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Folds: Vi
+Pot size: 300
+Boasts: Poechi, 6s As
+Wins: Poechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poechi
+Small Blind: Poechi, chips: 100
+Big Blind: Vi, chips: 200
+Calls: Poechi
+DEBUG MESSAGE: INVALID ACTION FROM Vi (2 0)
+Folds: Vi
+Pot size: 400
+Boasts: Poechi, 4s 8h
+Wins: Poechi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Folds: Vi
+Pot size: 300
+Boasts: Poechi, Qh 5c
+Wins: Poechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poechi
+Small Blind: Poechi, chips: 100
+Big Blind: Vi, chips: 200
+Folds: Poechi
+Pot size: 300
+Wins: Vi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Folds: Vi
+Pot size: 300
+Wins: Poechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poechi
+Small Blind: Poechi, chips: 100
+Big Blind: Vi, chips: 200
+Raises: Poechi, chips: 300
+Folds: Vi
+Pot size: 700
+Boasts: Poechi, 8s 6s
+Wins: Poechi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Folds: Vi
+Pot size: 300
+Boasts: Poechi, 5h 3s
+Wins: Poechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poechi
+Small Blind: Poechi, chips: 100
+Big Blind: Vi, chips: 200
+Raises: Poechi, chips: 300
+Folds: Vi
+Pot size: 700
+Boasts: Poechi, Tc 4d
+Wins: Poechi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Flop: 4c 5c 7c
+Turn: 2h
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Poechi, 8h 3d
+Combination: Poechi, Pair ( 2h 2s 8h 7c 5c )
+Shows: Vi, Kc Js
+Combination: Vi, Pair ( 2h 2s Kc Js 7c )
+Wins: Poechi, chips: 100
+Wins: Vi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poechi
+Small Blind: Poechi, chips: 100
+Big Blind: Vi, chips: 200
+Flop: Qc Jd 7d
+Turn: 8d
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Poechi, 9s 7c
+Combination: Poechi, Two Pair ( Qc Qd 7c 7d Jd )
+Shows: Vi, 2h Th
+Combination: Vi, Pair ( Qc Qd Jd Th 8d )
+Wins: Poechi, chips: 200
+Wins: Vi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Flop: 9c Ac Kc
+Turn: 5d
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Poechi, Jc 3s
+Combination: Poechi, High Card ( Ac Kc Jc 9c 5d )
+Shows: Vi, Jd Th
+Combination: Vi, High Card ( Ac Kc Jd Th 9c )
+Wins: Poechi, chips: 100
+Wins: Vi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poechi
+Small Blind: Poechi, chips: 100
+Big Blind: Vi, chips: 200
+Flop: 5s Ah Tc
+Turn: 2c
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Poechi, 5c 4s
+Combination: Poechi, Pair ( 5c 5s Ah Tc 7c )
+Shows: Vi, 7h 2s
+Combination: Vi, Two Pair ( 7h 7c 2s 2c Ah )
+Wins: Vi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Folds: Vi
+Pot size: 300
+Wins: Poechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poechi
+Small Blind: Poechi, chips: 100
+Big Blind: Vi, chips: 200
+Flop: 8s 5d Jh
+Turn: 6c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Poechi, Jc 2h
+Combination: Poechi, Two Pair ( Jc Jh 8s 8d 6c )
+Shows: Vi, 4s 3s
+Combination: Vi, Pair ( 8s 8d Jh 6c 5d )
+Wins: Poechi, chips: 200
+Wins: Vi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Flop: Jh Ad 5d
+Turn: 7c
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Poechi, Qc 6s
+Combination: Poechi, High Card ( Ad Kd Qc Jh 7c )
+Shows: Vi, 4h 3c
+Combination: Vi, High Card ( Ad Kd Jh 7c 5d )
+Wins: Poechi, chips: 300
+Quits: Vi, chips: 0
+Ranking: Poechi, Place: 1, Score: 1000
+Reveal AI: Poechi, AI: Random
+Ranking: Vi, Place: 2, Score: -1000
+Reveal AI: Vi, AI: AIMyBot1
+
+Player Stats for Poechi, AI: Random
+General: deals: 17, actions: 5, preflop actions: 5
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 14, showdown: 5, bluff: 9
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Vi, AI: AIMyBot1
+General: deals: 17, actions: 9, preflop actions: 9
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 7, showdown: 5, bluff: 2
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:46:23
+
+The game begins. The AI's of the players are: 
+Poechi: Random
+Vi: AIMyBot1
+
+Joins: Poechi, chips: 1000
+Joins: Vi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Folds: Vi
+Pot size: 300
+Boasts: Poechi, 5s 4s
+Wins: Poechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poechi
+Small Blind: Poechi, chips: 100
+Big Blind: Vi, chips: 200
+Folds: Poechi
+Pot size: 300
+Wins: Vi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Folds: Vi
+Pot size: 300
+Boasts: Poechi, 6s As
+Wins: Poechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poechi
+Small Blind: Poechi, chips: 100
+Big Blind: Vi, chips: 200
+Calls: Poechi
+DEBUG MESSAGE: INVALID ACTION FROM Vi (2 0)
+Folds: Vi
+Pot size: 400
+Boasts: Poechi, 4s 8h
+Wins: Poechi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Folds: Vi
+Pot size: 300
+Boasts: Poechi, Qh 5c
+Wins: Poechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poechi
+Small Blind: Poechi, chips: 100
+Big Blind: Vi, chips: 200
+Folds: Poechi
+Pot size: 300
+Wins: Vi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Folds: Vi
+Pot size: 300
+Wins: Poechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poechi
+Small Blind: Poechi, chips: 100
+Big Blind: Vi, chips: 200
+Raises: Poechi, chips: 300
+Folds: Vi
+Pot size: 700
+Boasts: Poechi, 8s 6s
+Wins: Poechi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Folds: Vi
+Pot size: 300
+Boasts: Poechi, 5h 3s
+Wins: Poechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poechi
+Small Blind: Poechi, chips: 100
+Big Blind: Vi, chips: 200
+Raises: Poechi, chips: 300
+Folds: Vi
+Pot size: 700
+Boasts: Poechi, Tc 4d
+Wins: Poechi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Flop: 4c 5c 7c
+Turn: 2h
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Poechi, 8h 3d
+Combination: Poechi, Pair ( 2h 2s 8h 7c 5c )
+Shows: Vi, Kc Js
+Combination: Vi, Pair ( 2h 2s Kc Js 7c )
+Wins: Poechi, chips: 100
+Wins: Vi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poechi
+Small Blind: Poechi, chips: 100
+Big Blind: Vi, chips: 200
+Flop: Qc Jd 7d
+Turn: 8d
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Poechi, 9s 7c
+Combination: Poechi, Two Pair ( Qc Qd 7c 7d Jd )
+Shows: Vi, 2h Th
+Combination: Vi, Pair ( Qc Qd Jd Th 8d )
+Wins: Poechi, chips: 200
+Wins: Vi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Flop: 9c Ac Kc
+Turn: 5d
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Poechi, Jc 3s
+Combination: Poechi, High Card ( Ac Kc Jc 9c 5d )
+Shows: Vi, Jd Th
+Combination: Vi, High Card ( Ac Kc Jd Th 9c )
+Wins: Poechi, chips: 100
+Wins: Vi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poechi
+Small Blind: Poechi, chips: 100
+Big Blind: Vi, chips: 200
+Flop: 5s Ah Tc
+Turn: 2c
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Poechi, 5c 4s
+Combination: Poechi, Pair ( 5c 5s Ah Tc 7c )
+Shows: Vi, 7h 2s
+Combination: Vi, Two Pair ( 7h 7c 2s 2c Ah )
+Wins: Vi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Folds: Vi
+Pot size: 300
+Wins: Poechi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poechi
+Small Blind: Poechi, chips: 100
+Big Blind: Vi, chips: 200
+Flop: 8s 5d Jh
+Turn: 6c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Poechi, Jc 2h
+Combination: Poechi, Two Pair ( Jc Jh 8s 8d 6c )
+Shows: Vi, 4s 3s
+Combination: Vi, Pair ( 8s 8d Jh 6c 5d )
+Wins: Poechi, chips: 200
+Wins: Vi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vi
+Small Blind: Vi, chips: 100
+Big Blind: Poechi, chips: 200
+Flop: Jh Ad 5d
+Turn: 7c
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Poechi, Qc 6s
+Combination: Poechi, High Card ( Ad Kd Qc Jh 7c )
+Shows: Vi, 4h 3c
+Combination: Vi, High Card ( Ad Kd Jh 7c 5d )
+Wins: Poechi, chips: 300
+Quits: Vi, chips: 0
+Ranking: Poechi, Place: 1, Score: 1000
+Reveal AI: Poechi, AI: Random
+Ranking: Vi, Place: 2, Score: -1000
+Reveal AI: Vi, AI: AIMyBot1
+
+Player Stats for Poechi, AI: Random
+General: deals: 17, actions: 5, preflop actions: 5
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 14, showdown: 5, bluff: 9
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Vi, AI: AIMyBot1
+General: deals: 17, actions: 9, preflop actions: 9
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 7, showdown: 5, bluff: 2
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

@@ -1,0 +1,366 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Poekito: Random
+Boedanny: AIMyBot1
+
+Joins: Poekito, chips: 1000
+Joins: Boedanny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poekito
+Small Blind: Poekito, chips: 100
+Big Blind: Boedanny, chips: 200
+Calls: Poekito
+DEBUG MESSAGE: INVALID ACTION FROM Boedanny (2 0)
+Folds: Boedanny
+Pot size: 400
+Wins: Poekito, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boedanny
+Small Blind: Boedanny, chips: 100
+Big Blind: Poekito, chips: 200
+Folds: Boedanny
+Pot size: 300
+Boasts: Poekito, Qs 6d
+Wins: Poekito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poekito
+Small Blind: Poekito, chips: 100
+Big Blind: Boedanny, chips: 200
+Raises: Poekito, chips: 300
+Folds: Boedanny
+Pot size: 700
+Wins: Poekito, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boedanny
+Small Blind: Boedanny, chips: 100
+Big Blind: Poekito, chips: 200
+Folds: Boedanny
+Pot size: 300
+Boasts: Poekito, 4h 4d
+Wins: Poekito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poekito
+Small Blind: Poekito, chips: 100
+Big Blind: Boedanny, chips: 200
+Calls: Poekito
+DEBUG MESSAGE: INVALID ACTION FROM Boedanny (2 0)
+Folds: Boedanny
+Pot size: 400
+Boasts: Poekito, Ad 5s
+Wins: Poekito, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boedanny
+Small Blind: Boedanny, chips: 100
+Big Blind: Poekito, chips: 200
+Folds: Boedanny
+Pot size: 300
+Boasts: Poekito, 8h 4c
+Wins: Poekito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poekito
+Small Blind: Poekito, chips: 100
+Big Blind: Boedanny, chips: 100
+Flop: 7s Qs Js
+Turn: 6s
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Poekito, 6c 7c
+Combination: Poekito, Two Pair ( Js Jd 7c 7s Qs )
+Shows: Boedanny, 3s Ac
+Combination: Boedanny, Flush ( Qs Js 7s 6s 3s )
+Wins: Boedanny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boedanny
+Small Blind: Boedanny, chips: 100
+Big Blind: Poekito, chips: 200
+Folds: Boedanny
+Pot size: 300
+Wins: Poekito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poekito
+Small Blind: Poekito, chips: 100
+Big Blind: Boedanny, chips: 100
+Flop: 2c 5s Ks
+Turn: 8s
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Poekito, 9c Qd
+Combination: Poekito, High Card ( Ks Qd Tc 9c 8s )
+Shows: Boedanny, 5d 4d
+Combination: Boedanny, Pair ( 5d 5s Ks Tc 8s )
+Wins: Boedanny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boedanny
+Small Blind: Boedanny, chips: 100
+Big Blind: Poekito, chips: 200
+Folds: Boedanny
+Pot size: 300
+Boasts: Poekito, Ts Jc
+Wins: Poekito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poekito
+Small Blind: Poekito, chips: 100
+Big Blind: Boedanny, chips: 100
+Flop: Qh Ks Jc
+Turn: 9c
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Poekito, 5h 5c
+Combination: Poekito, Pair ( 5h 5c Ks Qh Jc )
+Shows: Boedanny, 2s 8s
+Combination: Boedanny, Pair ( 8s 8h Ks Qh Jc )
+Wins: Boedanny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boedanny
+Small Blind: Boedanny, chips: 100
+Big Blind: Poekito, chips: 200
+Folds: Boedanny
+Pot size: 300
+Wins: Poekito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poekito
+Small Blind: Poekito, chips: 100
+Big Blind: Boedanny, chips: 100
+Flop: 7h Ts Kh
+Turn: Qh
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Poekito, 4h 6d
+Combination: Poekito, High Card ( Ad Kh Qh Ts 7h )
+Shows: Boedanny, 5h 6h
+Combination: Boedanny, Flush ( Kh Qh 7h 6h 5h )
+Wins: Boedanny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boedanny
+Small Blind: Boedanny, chips: 100
+Big Blind: Poekito, chips: 200
+Folds: Boedanny
+Pot size: 300
+Wins: Poekito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poekito
+Small Blind: Poekito, chips: 100
+Big Blind: Boedanny, chips: 100
+Flop: 9h 5d Td
+Turn: 5h
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Poekito, 7s 5s
+Combination: Poekito, Three Of A Kind ( 5s 5d 5h Td 9h )
+Shows: Boedanny, 9d 4c
+Combination: Boedanny, Two Pair ( 9d 9h 5d 5h Td )
+Wins: Poekito, chips: 200
+Quits: Boedanny, chips: 0
+Ranking: Poekito, Place: 1, Score: 1000
+Reveal AI: Poekito, AI: Random
+Ranking: Boedanny, Place: 2, Score: -1000
+Reveal AI: Boedanny, AI: AIMyBot1
+
+Player Stats for Boedanny, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Poekito, AI: Random
+General: deals: 15, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.2
+
+
+Date: 2022/10/25 13:46:12
+
+The game begins. The AI's of the players are: 
+Poekito: Random
+Boedanny: AIMyBot1
+
+Joins: Poekito, chips: 1000
+Joins: Boedanny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poekito
+Small Blind: Poekito, chips: 100
+Big Blind: Boedanny, chips: 200
+Calls: Poekito
+DEBUG MESSAGE: INVALID ACTION FROM Boedanny (2 0)
+Folds: Boedanny
+Pot size: 400
+Wins: Poekito, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boedanny
+Small Blind: Boedanny, chips: 100
+Big Blind: Poekito, chips: 200
+Folds: Boedanny
+Pot size: 300
+Boasts: Poekito, Qs 6d
+Wins: Poekito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poekito
+Small Blind: Poekito, chips: 100
+Big Blind: Boedanny, chips: 200
+Raises: Poekito, chips: 300
+Folds: Boedanny
+Pot size: 700
+Wins: Poekito, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boedanny
+Small Blind: Boedanny, chips: 100
+Big Blind: Poekito, chips: 200
+Folds: Boedanny
+Pot size: 300
+Boasts: Poekito, 4h 4d
+Wins: Poekito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poekito
+Small Blind: Poekito, chips: 100
+Big Blind: Boedanny, chips: 200
+Calls: Poekito
+DEBUG MESSAGE: INVALID ACTION FROM Boedanny (2 0)
+Folds: Boedanny
+Pot size: 400
+Boasts: Poekito, Ad 5s
+Wins: Poekito, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boedanny
+Small Blind: Boedanny, chips: 100
+Big Blind: Poekito, chips: 200
+Folds: Boedanny
+Pot size: 300
+Boasts: Poekito, 8h 4c
+Wins: Poekito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poekito
+Small Blind: Poekito, chips: 100
+Big Blind: Boedanny, chips: 100
+Flop: 7s Qs Js
+Turn: 6s
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Poekito, 6c 7c
+Combination: Poekito, Two Pair ( Js Jd 7c 7s Qs )
+Shows: Boedanny, 3s Ac
+Combination: Boedanny, Flush ( Qs Js 7s 6s 3s )
+Wins: Boedanny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boedanny
+Small Blind: Boedanny, chips: 100
+Big Blind: Poekito, chips: 200
+Folds: Boedanny
+Pot size: 300
+Wins: Poekito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poekito
+Small Blind: Poekito, chips: 100
+Big Blind: Boedanny, chips: 100
+Flop: 2c 5s Ks
+Turn: 8s
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Poekito, 9c Qd
+Combination: Poekito, High Card ( Ks Qd Tc 9c 8s )
+Shows: Boedanny, 5d 4d
+Combination: Boedanny, Pair ( 5d 5s Ks Tc 8s )
+Wins: Boedanny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boedanny
+Small Blind: Boedanny, chips: 100
+Big Blind: Poekito, chips: 200
+Folds: Boedanny
+Pot size: 300
+Boasts: Poekito, Ts Jc
+Wins: Poekito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poekito
+Small Blind: Poekito, chips: 100
+Big Blind: Boedanny, chips: 100
+Flop: Qh Ks Jc
+Turn: 9c
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Poekito, 5h 5c
+Combination: Poekito, Pair ( 5h 5c Ks Qh Jc )
+Shows: Boedanny, 2s 8s
+Combination: Boedanny, Pair ( 8s 8h Ks Qh Jc )
+Wins: Boedanny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boedanny
+Small Blind: Boedanny, chips: 100
+Big Blind: Poekito, chips: 200
+Folds: Boedanny
+Pot size: 300
+Wins: Poekito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poekito
+Small Blind: Poekito, chips: 100
+Big Blind: Boedanny, chips: 100
+Flop: 7h Ts Kh
+Turn: Qh
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Poekito, 4h 6d
+Combination: Poekito, High Card ( Ad Kh Qh Ts 7h )
+Shows: Boedanny, 5h 6h
+Combination: Boedanny, Flush ( Kh Qh 7h 6h 5h )
+Wins: Boedanny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boedanny
+Small Blind: Boedanny, chips: 100
+Big Blind: Poekito, chips: 200
+Folds: Boedanny
+Pot size: 300
+Wins: Poekito, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poekito
+Small Blind: Poekito, chips: 100
+Big Blind: Boedanny, chips: 100
+Flop: 9h 5d Td
+Turn: 5h
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Poekito, 7s 5s
+Combination: Poekito, Three Of A Kind ( 5s 5d 5h Td 9h )
+Shows: Boedanny, 9d 4c
+Combination: Boedanny, Two Pair ( 9d 9h 5d 5h Td )
+Wins: Poekito, chips: 200
+Quits: Boedanny, chips: 0
+Ranking: Poekito, Place: 1, Score: 1000
+Reveal AI: Poekito, AI: Random
+Ranking: Boedanny, Place: 2, Score: -1000
+Reveal AI: Boedanny, AI: AIMyBot1
+
+Player Stats for Boedanny, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Poekito, AI: Random
+General: deals: 15, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.2
+
+

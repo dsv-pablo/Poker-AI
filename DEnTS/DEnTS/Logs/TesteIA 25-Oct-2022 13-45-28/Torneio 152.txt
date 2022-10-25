@@ -1,0 +1,224 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Fuchosor: AIMyBot1
+Teeda: Random
+
+Joins: Fuchosor, chips: 1000
+Joins: Teeda, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuchosor
+Small Blind: Fuchosor, chips: 100
+Big Blind: Teeda, chips: 200
+Folds: Fuchosor
+Pot size: 300
+Wins: Teeda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teeda
+Small Blind: Teeda, chips: 100
+Big Blind: Fuchosor, chips: 200
+Calls: Teeda
+DEBUG MESSAGE: INVALID ACTION FROM Fuchosor (2 0)
+Folds: Fuchosor
+Pot size: 400
+Boasts: Teeda, Td 6c
+Wins: Teeda, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuchosor
+Small Blind: Fuchosor, chips: 100
+Big Blind: Teeda, chips: 200
+Folds: Fuchosor
+Pot size: 300
+Wins: Teeda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teeda
+Small Blind: Teeda, chips: 100
+Big Blind: Fuchosor, chips: 200
+Folds: Teeda
+Pot size: 300
+Boasts: Teeda, Jh 4s
+Wins: Fuchosor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuchosor
+Small Blind: Fuchosor, chips: 100
+Big Blind: Teeda, chips: 200
+Folds: Fuchosor
+Pot size: 300
+Boasts: Teeda, 5d Js
+Wins: Teeda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teeda
+Small Blind: Teeda, chips: 100
+Big Blind: Fuchosor, chips: 200
+Raises: Teeda, chips: 300
+Folds: Fuchosor
+Pot size: 700
+Wins: Teeda, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuchosor
+Small Blind: Fuchosor, chips: 100
+Big Blind: Teeda, chips: 200
+Folds: Fuchosor
+Pot size: 300
+Boasts: Teeda, 5c Jh
+Wins: Teeda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teeda
+Small Blind: Teeda, chips: 100
+Big Blind: Fuchosor, chips: 200
+Calls: Teeda
+DEBUG MESSAGE: INVALID ACTION FROM Fuchosor (2 0)
+Folds: Fuchosor
+Pot size: 400
+Wins: Teeda, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuchosor
+Small Blind: Fuchosor, chips: 100
+Big Blind: Teeda, chips: 200
+Flop: 9h Qc 6h
+Turn: 5c
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Fuchosor, 3h 7c
+Combination: Fuchosor, High Card ( Qc 9h 7c 6h 5c )
+Shows: Teeda, 2h Kd
+Combination: Teeda, Pair ( 2h 2c Kd Qc 9h )
+Wins: Teeda, chips: 300
+Quits: Fuchosor, chips: 0
+Ranking: Teeda, Place: 1, Score: 1000
+Reveal AI: Teeda, AI: Random
+Ranking: Fuchosor, Place: 2, Score: -1000
+Reveal AI: Fuchosor, AI: AIMyBot1
+
+Player Stats for Fuchosor, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Teeda, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:40
+
+The game begins. The AI's of the players are: 
+Fuchosor: AIMyBot1
+Teeda: Random
+
+Joins: Fuchosor, chips: 1000
+Joins: Teeda, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuchosor
+Small Blind: Fuchosor, chips: 100
+Big Blind: Teeda, chips: 200
+Folds: Fuchosor
+Pot size: 300
+Wins: Teeda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teeda
+Small Blind: Teeda, chips: 100
+Big Blind: Fuchosor, chips: 200
+Calls: Teeda
+DEBUG MESSAGE: INVALID ACTION FROM Fuchosor (2 0)
+Folds: Fuchosor
+Pot size: 400
+Boasts: Teeda, Td 6c
+Wins: Teeda, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuchosor
+Small Blind: Fuchosor, chips: 100
+Big Blind: Teeda, chips: 200
+Folds: Fuchosor
+Pot size: 300
+Wins: Teeda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teeda
+Small Blind: Teeda, chips: 100
+Big Blind: Fuchosor, chips: 200
+Folds: Teeda
+Pot size: 300
+Boasts: Teeda, Jh 4s
+Wins: Fuchosor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuchosor
+Small Blind: Fuchosor, chips: 100
+Big Blind: Teeda, chips: 200
+Folds: Fuchosor
+Pot size: 300
+Boasts: Teeda, 5d Js
+Wins: Teeda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teeda
+Small Blind: Teeda, chips: 100
+Big Blind: Fuchosor, chips: 200
+Raises: Teeda, chips: 300
+Folds: Fuchosor
+Pot size: 700
+Wins: Teeda, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuchosor
+Small Blind: Fuchosor, chips: 100
+Big Blind: Teeda, chips: 200
+Folds: Fuchosor
+Pot size: 300
+Boasts: Teeda, 5c Jh
+Wins: Teeda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teeda
+Small Blind: Teeda, chips: 100
+Big Blind: Fuchosor, chips: 200
+Calls: Teeda
+DEBUG MESSAGE: INVALID ACTION FROM Fuchosor (2 0)
+Folds: Fuchosor
+Pot size: 400
+Wins: Teeda, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuchosor
+Small Blind: Fuchosor, chips: 100
+Big Blind: Teeda, chips: 200
+Flop: 9h Qc 6h
+Turn: 5c
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Fuchosor, 3h 7c
+Combination: Fuchosor, High Card ( Qc 9h 7c 6h 5c )
+Shows: Teeda, 2h Kd
+Combination: Teeda, Pair ( 2h 2c Kd Qc 9h )
+Wins: Teeda, chips: 300
+Quits: Fuchosor, chips: 0
+Ranking: Teeda, Place: 1, Score: 1000
+Reveal AI: Teeda, AI: Random
+Ranking: Fuchosor, Place: 2, Score: -1000
+Reveal AI: Fuchosor, AI: AIMyBot1
+
+Player Stats for Fuchosor, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Teeda, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

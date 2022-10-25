@@ -1,0 +1,386 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Ke: Random
+Holuwanny: AIMyBot1
+
+Joins: Ke, chips: 1000
+Joins: Holuwanny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Holuwanny
+Small Blind: Holuwanny, chips: 100
+Big Blind: Ke, chips: 200
+Folds: Holuwanny
+Pot size: 300
+Boasts: Ke, 4d Jd
+Wins: Ke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Holuwanny, chips: 200
+Calls: Ke
+DEBUG MESSAGE: INVALID ACTION FROM Holuwanny (2 0)
+Folds: Holuwanny
+Pot size: 400
+Wins: Ke, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Holuwanny
+Small Blind: Holuwanny, chips: 100
+Big Blind: Ke, chips: 200
+Folds: Holuwanny
+Pot size: 300
+Wins: Ke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Holuwanny, chips: 200
+Calls: Ke
+DEBUG MESSAGE: INVALID ACTION FROM Holuwanny (2 0)
+Folds: Holuwanny
+Pot size: 400
+Boasts: Ke, Kh 5h
+Wins: Ke, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Holuwanny
+Small Blind: Holuwanny, chips: 100
+Big Blind: Ke, chips: 200
+Folds: Holuwanny
+Pot size: 300
+Wins: Ke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Holuwanny, chips: 200
+Folds: Ke
+Pot size: 300
+Wins: Holuwanny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Holuwanny
+Small Blind: Holuwanny, chips: 100
+Big Blind: Ke, chips: 200
+Folds: Holuwanny
+Pot size: 300
+Boasts: Ke, Kd Ts
+Wins: Ke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Holuwanny, chips: 200
+Raises: Ke, chips: 300
+Folds: Holuwanny
+Pot size: 700
+Boasts: Ke, Ah Ks
+Wins: Ke, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Holuwanny
+Small Blind: Holuwanny, chips: 100
+Big Blind: Ke, chips: 200
+Flop: 8c Js Tc
+Turn: Kh
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Ke, 8s 7s
+Combination: Ke, Two Pair ( Tc Td 8s 8c Kh )
+Shows: Holuwanny, Kd 5d
+Combination: Holuwanny, Two Pair ( Kd Kh Tc Td Js )
+Wins: Ke, chips: 100
+Wins: Holuwanny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Holuwanny, chips: 200
+Flop: Qs Td Qd
+Turn: Jh
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Ke, 2d Tc
+Combination: Ke, Two Pair ( Qs Qd Tc Td Jh )
+Shows: Holuwanny, 7s 8s
+Combination: Holuwanny, Straight ( Qs Jh Td 9c 8s )
+Wins: Holuwanny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Holuwanny
+Small Blind: Holuwanny, chips: 100
+Big Blind: Ke, chips: 200
+Folds: Holuwanny
+Pot size: 300
+Wins: Ke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Holuwanny, chips: 200
+Flop: Qh 9c 2c
+Turn: 2h
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Ke, 2d 7s
+Combination: Ke, Three Of A Kind ( 2d 2c 2h Qh 9c )
+Shows: Holuwanny, 5d Tc
+Combination: Holuwanny, Pair ( 2c 2h Qh Tc 9c )
+Wins: Ke, chips: 200
+Wins: Holuwanny, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Holuwanny
+Small Blind: Holuwanny, chips: 100
+Big Blind: Ke, chips: 200
+Flop: 7h 9s 8s
+Turn: 8d
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Ke, Ks 2h
+Combination: Ke, Pair ( 8s 8d Ks Jc 9s )
+Shows: Holuwanny, 5c Tc
+Combination: Holuwanny, Straight ( Jc Tc 9s 8s 7h )
+Wins: Ke, chips: 100
+Wins: Holuwanny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Holuwanny, chips: 200
+Flop: 6h 7d Kc
+Turn: 9h
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Ke, Td 8h
+Combination: Ke, Straight ( Td 9h 8h 7d 6h )
+Shows: Holuwanny, 5d 9c
+Combination: Holuwanny, Two Pair ( Kc Kh 9c 9h 7d )
+Wins: Ke, chips: 200
+Wins: Holuwanny, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Holuwanny
+Small Blind: Holuwanny, chips: 100
+Big Blind: Ke, chips: 200
+Flop: 9h Ah 3h
+Turn: 7d
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Ke, Kh 7c
+Combination: Ke, Three Of A Kind ( 7c 7d 7s Ah Kh )
+Shows: Holuwanny, 9s 6c
+Combination: Holuwanny, Two Pair ( 9s 9h 7d 7s Ah )
+Wins: Ke, chips: 300
+Quits: Holuwanny, chips: 0
+Ranking: Ke, Place: 1, Score: 1000
+Reveal AI: Ke, AI: Random
+Ranking: Holuwanny, Place: 2, Score: -1000
+Reveal AI: Holuwanny, AI: AIMyBot1
+
+Player Stats for Holuwanny, AI: AIMyBot1
+General: deals: 15, actions: 8, preflop actions: 8
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Ke, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 5, bluff: 8
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:45:30
+
+The game begins. The AI's of the players are: 
+Ke: Random
+Holuwanny: AIMyBot1
+
+Joins: Ke, chips: 1000
+Joins: Holuwanny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Holuwanny
+Small Blind: Holuwanny, chips: 100
+Big Blind: Ke, chips: 200
+Folds: Holuwanny
+Pot size: 300
+Boasts: Ke, 4d Jd
+Wins: Ke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Holuwanny, chips: 200
+Calls: Ke
+DEBUG MESSAGE: INVALID ACTION FROM Holuwanny (2 0)
+Folds: Holuwanny
+Pot size: 400
+Wins: Ke, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Holuwanny
+Small Blind: Holuwanny, chips: 100
+Big Blind: Ke, chips: 200
+Folds: Holuwanny
+Pot size: 300
+Wins: Ke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Holuwanny, chips: 200
+Calls: Ke
+DEBUG MESSAGE: INVALID ACTION FROM Holuwanny (2 0)
+Folds: Holuwanny
+Pot size: 400
+Boasts: Ke, Kh 5h
+Wins: Ke, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Holuwanny
+Small Blind: Holuwanny, chips: 100
+Big Blind: Ke, chips: 200
+Folds: Holuwanny
+Pot size: 300
+Wins: Ke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Holuwanny, chips: 200
+Folds: Ke
+Pot size: 300
+Wins: Holuwanny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Holuwanny
+Small Blind: Holuwanny, chips: 100
+Big Blind: Ke, chips: 200
+Folds: Holuwanny
+Pot size: 300
+Boasts: Ke, Kd Ts
+Wins: Ke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Holuwanny, chips: 200
+Raises: Ke, chips: 300
+Folds: Holuwanny
+Pot size: 700
+Boasts: Ke, Ah Ks
+Wins: Ke, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Holuwanny
+Small Blind: Holuwanny, chips: 100
+Big Blind: Ke, chips: 200
+Flop: 8c Js Tc
+Turn: Kh
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Ke, 8s 7s
+Combination: Ke, Two Pair ( Tc Td 8s 8c Kh )
+Shows: Holuwanny, Kd 5d
+Combination: Holuwanny, Two Pair ( Kd Kh Tc Td Js )
+Wins: Ke, chips: 100
+Wins: Holuwanny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Holuwanny, chips: 200
+Flop: Qs Td Qd
+Turn: Jh
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Ke, 2d Tc
+Combination: Ke, Two Pair ( Qs Qd Tc Td Jh )
+Shows: Holuwanny, 7s 8s
+Combination: Holuwanny, Straight ( Qs Jh Td 9c 8s )
+Wins: Holuwanny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Holuwanny
+Small Blind: Holuwanny, chips: 100
+Big Blind: Ke, chips: 200
+Folds: Holuwanny
+Pot size: 300
+Wins: Ke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Holuwanny, chips: 200
+Flop: Qh 9c 2c
+Turn: 2h
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Ke, 2d 7s
+Combination: Ke, Three Of A Kind ( 2d 2c 2h Qh 9c )
+Shows: Holuwanny, 5d Tc
+Combination: Holuwanny, Pair ( 2c 2h Qh Tc 9c )
+Wins: Ke, chips: 200
+Wins: Holuwanny, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Holuwanny
+Small Blind: Holuwanny, chips: 100
+Big Blind: Ke, chips: 200
+Flop: 7h 9s 8s
+Turn: 8d
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Ke, Ks 2h
+Combination: Ke, Pair ( 8s 8d Ks Jc 9s )
+Shows: Holuwanny, 5c Tc
+Combination: Holuwanny, Straight ( Jc Tc 9s 8s 7h )
+Wins: Ke, chips: 100
+Wins: Holuwanny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Holuwanny, chips: 200
+Flop: 6h 7d Kc
+Turn: 9h
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Ke, Td 8h
+Combination: Ke, Straight ( Td 9h 8h 7d 6h )
+Shows: Holuwanny, 5d 9c
+Combination: Holuwanny, Two Pair ( Kc Kh 9c 9h 7d )
+Wins: Ke, chips: 200
+Wins: Holuwanny, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Holuwanny
+Small Blind: Holuwanny, chips: 100
+Big Blind: Ke, chips: 200
+Flop: 9h Ah 3h
+Turn: 7d
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Ke, Kh 7c
+Combination: Ke, Three Of A Kind ( 7c 7d 7s Ah Kh )
+Shows: Holuwanny, 9s 6c
+Combination: Holuwanny, Two Pair ( 9s 9h 7d 7s Ah )
+Wins: Ke, chips: 300
+Quits: Holuwanny, chips: 0
+Ranking: Ke, Place: 1, Score: 1000
+Reveal AI: Ke, AI: Random
+Ranking: Holuwanny, Place: 2, Score: -1000
+Reveal AI: Holuwanny, AI: AIMyBot1
+
+Player Stats for Holuwanny, AI: AIMyBot1
+General: deals: 15, actions: 8, preflop actions: 8
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Ke, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 5, bluff: 8
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

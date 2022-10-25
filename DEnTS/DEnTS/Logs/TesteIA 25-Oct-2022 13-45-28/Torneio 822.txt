@@ -1,0 +1,288 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Rarleenee: AIMyBot1
+Kesoe: Random
+
+Joins: Rarleenee, chips: 1000
+Joins: Kesoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarleenee
+Small Blind: Rarleenee, chips: 100
+Big Blind: Kesoe, chips: 200
+Folds: Rarleenee
+Pot size: 300
+Boasts: Kesoe, Qs 5s
+Wins: Kesoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kesoe
+Small Blind: Kesoe, chips: 100
+Big Blind: Rarleenee, chips: 200
+Calls: Kesoe
+DEBUG MESSAGE: INVALID ACTION FROM Rarleenee (2 0)
+Folds: Rarleenee
+Pot size: 400
+Boasts: Kesoe, 5h 5d
+Wins: Kesoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarleenee
+Small Blind: Rarleenee, chips: 100
+Big Blind: Kesoe, chips: 200
+Folds: Rarleenee
+Pot size: 300
+Boasts: Kesoe, 5s 8d
+Wins: Kesoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kesoe
+Small Blind: Kesoe, chips: 100
+Big Blind: Rarleenee, chips: 200
+Calls: Kesoe
+DEBUG MESSAGE: INVALID ACTION FROM Rarleenee (2 0)
+Folds: Rarleenee
+Pot size: 400
+Boasts: Kesoe, Qd Jd
+Wins: Kesoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarleenee
+Small Blind: Rarleenee, chips: 100
+Big Blind: Kesoe, chips: 200
+Folds: Rarleenee
+Pot size: 300
+Wins: Kesoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kesoe
+Small Blind: Kesoe, chips: 100
+Big Blind: Rarleenee, chips: 200
+Folds: Kesoe
+Pot size: 300
+Boasts: Kesoe, 3c 8c
+Wins: Rarleenee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarleenee
+Small Blind: Rarleenee, chips: 100
+Big Blind: Kesoe, chips: 200
+Folds: Rarleenee
+Pot size: 300
+Wins: Kesoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kesoe
+Small Blind: Kesoe, chips: 100
+Big Blind: Rarleenee, chips: 200
+Raises: Kesoe, chips: 300
+Folds: Rarleenee
+Pot size: 700
+Boasts: Kesoe, 2c Qs
+Wins: Kesoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarleenee
+Small Blind: Rarleenee, chips: 100
+Big Blind: Kesoe, chips: 200
+Flop: 5c Kh As
+Turn: Ts
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Rarleenee, 9d 9s
+Combination: Rarleenee, Pair ( 9d 9s As Kh Ts )
+Shows: Kesoe, 9c 6c
+Combination: Kesoe, High Card ( As Kh Ts 9c 8s )
+Wins: Rarleenee, chips: 200
+Wins: Kesoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kesoe
+Small Blind: Kesoe, chips: 100
+Big Blind: Rarleenee, chips: 200
+Flop: Jd 9c Th
+Turn: 2c
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Rarleenee, 5s 8s
+Combination: Rarleenee, High Card ( Ah Jd Th 9c 8s )
+Shows: Kesoe, Kc 6c
+Combination: Kesoe, High Card ( Ah Kc Jd Th 9c )
+Wins: Rarleenee, chips: 100
+Wins: Kesoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarleenee
+Small Blind: Rarleenee, chips: 100
+Big Blind: Kesoe, chips: 200
+Flop: 7h Jh 4h
+Turn: 9h
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Rarleenee, 4d 3s
+Combination: Rarleenee, Pair ( 4d 4h Jh 9h 7h )
+Shows: Kesoe, 5d 3h
+Combination: Kesoe, Flush ( Jh 9h 7h 4h 3h )
+Wins: Kesoe, chips: 300
+Quits: Rarleenee, chips: 0
+Ranking: Kesoe, Place: 1, Score: 1000
+Reveal AI: Kesoe, AI: Random
+Ranking: Rarleenee, Place: 2, Score: -1000
+Reveal AI: Rarleenee, AI: AIMyBot1
+
+Player Stats for Kesoe, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Rarleenee, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:23
+
+The game begins. The AI's of the players are: 
+Rarleenee: AIMyBot1
+Kesoe: Random
+
+Joins: Rarleenee, chips: 1000
+Joins: Kesoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarleenee
+Small Blind: Rarleenee, chips: 100
+Big Blind: Kesoe, chips: 200
+Folds: Rarleenee
+Pot size: 300
+Boasts: Kesoe, Qs 5s
+Wins: Kesoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kesoe
+Small Blind: Kesoe, chips: 100
+Big Blind: Rarleenee, chips: 200
+Calls: Kesoe
+DEBUG MESSAGE: INVALID ACTION FROM Rarleenee (2 0)
+Folds: Rarleenee
+Pot size: 400
+Boasts: Kesoe, 5h 5d
+Wins: Kesoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarleenee
+Small Blind: Rarleenee, chips: 100
+Big Blind: Kesoe, chips: 200
+Folds: Rarleenee
+Pot size: 300
+Boasts: Kesoe, 5s 8d
+Wins: Kesoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kesoe
+Small Blind: Kesoe, chips: 100
+Big Blind: Rarleenee, chips: 200
+Calls: Kesoe
+DEBUG MESSAGE: INVALID ACTION FROM Rarleenee (2 0)
+Folds: Rarleenee
+Pot size: 400
+Boasts: Kesoe, Qd Jd
+Wins: Kesoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarleenee
+Small Blind: Rarleenee, chips: 100
+Big Blind: Kesoe, chips: 200
+Folds: Rarleenee
+Pot size: 300
+Wins: Kesoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kesoe
+Small Blind: Kesoe, chips: 100
+Big Blind: Rarleenee, chips: 200
+Folds: Kesoe
+Pot size: 300
+Boasts: Kesoe, 3c 8c
+Wins: Rarleenee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarleenee
+Small Blind: Rarleenee, chips: 100
+Big Blind: Kesoe, chips: 200
+Folds: Rarleenee
+Pot size: 300
+Wins: Kesoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kesoe
+Small Blind: Kesoe, chips: 100
+Big Blind: Rarleenee, chips: 200
+Raises: Kesoe, chips: 300
+Folds: Rarleenee
+Pot size: 700
+Boasts: Kesoe, 2c Qs
+Wins: Kesoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarleenee
+Small Blind: Rarleenee, chips: 100
+Big Blind: Kesoe, chips: 200
+Flop: 5c Kh As
+Turn: Ts
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Rarleenee, 9d 9s
+Combination: Rarleenee, Pair ( 9d 9s As Kh Ts )
+Shows: Kesoe, 9c 6c
+Combination: Kesoe, High Card ( As Kh Ts 9c 8s )
+Wins: Rarleenee, chips: 200
+Wins: Kesoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kesoe
+Small Blind: Kesoe, chips: 100
+Big Blind: Rarleenee, chips: 200
+Flop: Jd 9c Th
+Turn: 2c
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Rarleenee, 5s 8s
+Combination: Rarleenee, High Card ( Ah Jd Th 9c 8s )
+Shows: Kesoe, Kc 6c
+Combination: Kesoe, High Card ( Ah Kc Jd Th 9c )
+Wins: Rarleenee, chips: 100
+Wins: Kesoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarleenee
+Small Blind: Rarleenee, chips: 100
+Big Blind: Kesoe, chips: 200
+Flop: 7h Jh 4h
+Turn: 9h
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Rarleenee, 4d 3s
+Combination: Rarleenee, Pair ( 4d 4h Jh 9h 7h )
+Shows: Kesoe, 5d 3h
+Combination: Kesoe, Flush ( Jh 9h 7h 4h 3h )
+Wins: Kesoe, chips: 300
+Quits: Rarleenee, chips: 0
+Ranking: Kesoe, Place: 1, Score: 1000
+Reveal AI: Kesoe, AI: Random
+Ranking: Rarleenee, Place: 2, Score: -1000
+Reveal AI: Rarleenee, AI: AIMyBot1
+
+Player Stats for Kesoe, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Rarleenee, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

@@ -1,0 +1,192 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jani: Random
+Meenifen: AIMyBot1
+
+Joins: Jani, chips: 1000
+Joins: Meenifen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meenifen
+Small Blind: Meenifen, chips: 100
+Big Blind: Jani, chips: 200
+Folds: Meenifen
+Pot size: 300
+Boasts: Jani, Qs Qc
+Wins: Jani, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jani
+Small Blind: Jani, chips: 100
+Big Blind: Meenifen, chips: 200
+Calls: Jani
+DEBUG MESSAGE: INVALID ACTION FROM Meenifen (2 0)
+Folds: Meenifen
+Pot size: 400
+Boasts: Jani, 6d 9d
+Wins: Jani, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meenifen
+Small Blind: Meenifen, chips: 100
+Big Blind: Jani, chips: 200
+Folds: Meenifen
+Pot size: 300
+Boasts: Jani, Tc Ks
+Wins: Jani, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jani
+Small Blind: Jani, chips: 100
+Big Blind: Meenifen, chips: 200
+Raises: Jani, chips: 300
+Folds: Meenifen
+Pot size: 700
+Wins: Jani, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meenifen
+Small Blind: Meenifen, chips: 100
+Big Blind: Jani, chips: 200
+Folds: Meenifen
+Pot size: 300
+Wins: Jani, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jani
+Small Blind: Jani, chips: 100
+Big Blind: Meenifen, chips: 200
+Raises: Jani, chips: 300
+Folds: Meenifen
+Pot size: 700
+Wins: Jani, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meenifen
+Small Blind: Meenifen, chips: 100
+Big Blind: Jani, chips: 200
+Flop: Ks 6h 9c
+Turn: Td
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Jani, 7s Kc
+Combination: Jani, Straight ( Td 9c 8d 7s 6h )
+Shows: Meenifen, Qd 3s
+Combination: Meenifen, High Card ( Ks Qd Td 9c 8d )
+Wins: Jani, chips: 300
+Quits: Meenifen, chips: 0
+Ranking: Jani, Place: 1, Score: 1000
+Reveal AI: Jani, AI: Random
+Ranking: Meenifen, Place: 2, Score: -1000
+Reveal AI: Meenifen, AI: AIMyBot1
+
+Player Stats for Jani, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Meenifen, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:16
+
+The game begins. The AI's of the players are: 
+Jani: Random
+Meenifen: AIMyBot1
+
+Joins: Jani, chips: 1000
+Joins: Meenifen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meenifen
+Small Blind: Meenifen, chips: 100
+Big Blind: Jani, chips: 200
+Folds: Meenifen
+Pot size: 300
+Boasts: Jani, Qs Qc
+Wins: Jani, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jani
+Small Blind: Jani, chips: 100
+Big Blind: Meenifen, chips: 200
+Calls: Jani
+DEBUG MESSAGE: INVALID ACTION FROM Meenifen (2 0)
+Folds: Meenifen
+Pot size: 400
+Boasts: Jani, 6d 9d
+Wins: Jani, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meenifen
+Small Blind: Meenifen, chips: 100
+Big Blind: Jani, chips: 200
+Folds: Meenifen
+Pot size: 300
+Boasts: Jani, Tc Ks
+Wins: Jani, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jani
+Small Blind: Jani, chips: 100
+Big Blind: Meenifen, chips: 200
+Raises: Jani, chips: 300
+Folds: Meenifen
+Pot size: 700
+Wins: Jani, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meenifen
+Small Blind: Meenifen, chips: 100
+Big Blind: Jani, chips: 200
+Folds: Meenifen
+Pot size: 300
+Wins: Jani, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jani
+Small Blind: Jani, chips: 100
+Big Blind: Meenifen, chips: 200
+Raises: Jani, chips: 300
+Folds: Meenifen
+Pot size: 700
+Wins: Jani, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meenifen
+Small Blind: Meenifen, chips: 100
+Big Blind: Jani, chips: 200
+Flop: Ks 6h 9c
+Turn: Td
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Jani, 7s Kc
+Combination: Jani, Straight ( Td 9c 8d 7s 6h )
+Shows: Meenifen, Qd 3s
+Combination: Meenifen, High Card ( Ks Qd Td 9c 8d )
+Wins: Jani, chips: 300
+Quits: Meenifen, chips: 0
+Ranking: Jani, Place: 1, Score: 1000
+Reveal AI: Jani, AI: Random
+Ranking: Meenifen, Place: 2, Score: -1000
+Reveal AI: Meenifen, AI: AIMyBot1
+
+Player Stats for Jani, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Meenifen, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

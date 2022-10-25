@@ -1,0 +1,256 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Joenha: Random
+Chufattel: AIMyBot1
+
+Joins: Joenha, chips: 1000
+Joins: Chufattel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufattel
+Small Blind: Chufattel, chips: 100
+Big Blind: Joenha, chips: 200
+Folds: Chufattel
+Pot size: 300
+Wins: Joenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenha
+Small Blind: Joenha, chips: 100
+Big Blind: Chufattel, chips: 200
+Raises: Joenha, chips: 300
+Folds: Chufattel
+Pot size: 700
+Boasts: Joenha, 5d 6c
+Wins: Joenha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufattel
+Small Blind: Chufattel, chips: 100
+Big Blind: Joenha, chips: 200
+Folds: Chufattel
+Pot size: 300
+Boasts: Joenha, Ac 9d
+Wins: Joenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenha
+Small Blind: Joenha, chips: 100
+Big Blind: Chufattel, chips: 200
+Folds: Joenha
+Pot size: 300
+Wins: Chufattel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufattel
+Small Blind: Chufattel, chips: 100
+Big Blind: Joenha, chips: 200
+Folds: Chufattel
+Pot size: 300
+Wins: Joenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenha
+Small Blind: Joenha, chips: 100
+Big Blind: Chufattel, chips: 200
+Raises: Joenha, chips: 300
+Folds: Chufattel
+Pot size: 700
+Boasts: Joenha, 6s Js
+Wins: Joenha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufattel
+Small Blind: Chufattel, chips: 100
+Big Blind: Joenha, chips: 200
+Folds: Chufattel
+Pot size: 300
+Boasts: Joenha, Tc Ah
+Wins: Joenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenha
+Small Blind: Joenha, chips: 100
+Big Blind: Chufattel, chips: 200
+Folds: Joenha
+Pot size: 300
+Boasts: Joenha, 6s Th
+Wins: Chufattel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufattel
+Small Blind: Chufattel, chips: 100
+Big Blind: Joenha, chips: 200
+Folds: Chufattel
+Pot size: 300
+Boasts: Joenha, 7s Qs
+Wins: Joenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenha
+Small Blind: Joenha, chips: 100
+Big Blind: Chufattel, chips: 200
+Calls: Joenha
+DEBUG MESSAGE: INVALID ACTION FROM Chufattel (2 0)
+Folds: Chufattel
+Pot size: 400
+Boasts: Joenha, 4c 2c
+Wins: Joenha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufattel
+Small Blind: Chufattel, chips: 100
+Big Blind: Joenha, chips: 200
+Flop: Qd Ac 4d
+Turn: 8h
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Joenha, 3s 8s
+Combination: Joenha, Two Pair ( Ac Ah 8s 8h Qd )
+Shows: Chufattel, 9c 2d
+Combination: Chufattel, Pair ( Ac Ah Qd 9c 8h )
+Wins: Joenha, chips: 300
+Quits: Chufattel, chips: 0
+Ranking: Joenha, Place: 1, Score: 1000
+Reveal AI: Joenha, AI: Random
+Ranking: Chufattel, Place: 2, Score: -1000
+Reveal AI: Chufattel, AI: AIMyBot1
+
+Player Stats for Chufattel, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Joenha, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:37
+
+The game begins. The AI's of the players are: 
+Joenha: Random
+Chufattel: AIMyBot1
+
+Joins: Joenha, chips: 1000
+Joins: Chufattel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufattel
+Small Blind: Chufattel, chips: 100
+Big Blind: Joenha, chips: 200
+Folds: Chufattel
+Pot size: 300
+Wins: Joenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenha
+Small Blind: Joenha, chips: 100
+Big Blind: Chufattel, chips: 200
+Raises: Joenha, chips: 300
+Folds: Chufattel
+Pot size: 700
+Boasts: Joenha, 5d 6c
+Wins: Joenha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufattel
+Small Blind: Chufattel, chips: 100
+Big Blind: Joenha, chips: 200
+Folds: Chufattel
+Pot size: 300
+Boasts: Joenha, Ac 9d
+Wins: Joenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenha
+Small Blind: Joenha, chips: 100
+Big Blind: Chufattel, chips: 200
+Folds: Joenha
+Pot size: 300
+Wins: Chufattel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufattel
+Small Blind: Chufattel, chips: 100
+Big Blind: Joenha, chips: 200
+Folds: Chufattel
+Pot size: 300
+Wins: Joenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenha
+Small Blind: Joenha, chips: 100
+Big Blind: Chufattel, chips: 200
+Raises: Joenha, chips: 300
+Folds: Chufattel
+Pot size: 700
+Boasts: Joenha, 6s Js
+Wins: Joenha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufattel
+Small Blind: Chufattel, chips: 100
+Big Blind: Joenha, chips: 200
+Folds: Chufattel
+Pot size: 300
+Boasts: Joenha, Tc Ah
+Wins: Joenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenha
+Small Blind: Joenha, chips: 100
+Big Blind: Chufattel, chips: 200
+Folds: Joenha
+Pot size: 300
+Boasts: Joenha, 6s Th
+Wins: Chufattel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufattel
+Small Blind: Chufattel, chips: 100
+Big Blind: Joenha, chips: 200
+Folds: Chufattel
+Pot size: 300
+Boasts: Joenha, 7s Qs
+Wins: Joenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joenha
+Small Blind: Joenha, chips: 100
+Big Blind: Chufattel, chips: 200
+Calls: Joenha
+DEBUG MESSAGE: INVALID ACTION FROM Chufattel (2 0)
+Folds: Chufattel
+Pot size: 400
+Boasts: Joenha, 4c 2c
+Wins: Joenha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufattel
+Small Blind: Chufattel, chips: 100
+Big Blind: Joenha, chips: 200
+Flop: Qd Ac 4d
+Turn: 8h
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Joenha, 3s 8s
+Combination: Joenha, Two Pair ( Ac Ah 8s 8h Qd )
+Shows: Chufattel, 9c 2d
+Combination: Chufattel, Pair ( Ac Ah Qd 9c 8h )
+Wins: Joenha, chips: 300
+Quits: Chufattel, chips: 0
+Ranking: Joenha, Place: 1, Score: 1000
+Reveal AI: Joenha, AI: Random
+Ranking: Chufattel, Place: 2, Score: -1000
+Reveal AI: Chufattel, AI: AIMyBot1
+
+Player Stats for Chufattel, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Joenha, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

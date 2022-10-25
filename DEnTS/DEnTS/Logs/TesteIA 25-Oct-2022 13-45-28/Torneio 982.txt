@@ -1,0 +1,312 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gumu: AIMyBot1
+Soe: Random
+
+Joins: Gumu, chips: 1000
+Joins: Soe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gumu
+Small Blind: Gumu, chips: 100
+Big Blind: Soe, chips: 200
+Folds: Gumu
+Pot size: 300
+Boasts: Soe, Tc Jc
+Wins: Soe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soe
+Small Blind: Soe, chips: 100
+Big Blind: Gumu, chips: 200
+Raises: Soe, chips: 300
+Folds: Gumu
+Pot size: 700
+Wins: Soe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gumu
+Small Blind: Gumu, chips: 100
+Big Blind: Soe, chips: 200
+Folds: Gumu
+Pot size: 300
+Boasts: Soe, 3h 3c
+Wins: Soe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soe
+Small Blind: Soe, chips: 100
+Big Blind: Gumu, chips: 200
+Calls: Soe
+DEBUG MESSAGE: INVALID ACTION FROM Gumu (2 0)
+Folds: Gumu
+Pot size: 400
+Boasts: Soe, 5s 6h
+Wins: Soe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gumu
+Small Blind: Gumu, chips: 100
+Big Blind: Soe, chips: 200
+Folds: Gumu
+Pot size: 300
+Wins: Soe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soe
+Small Blind: Soe, chips: 100
+Big Blind: Gumu, chips: 200
+Folds: Soe
+Pot size: 300
+Boasts: Soe, 7c Kd
+Wins: Gumu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gumu
+Small Blind: Gumu, chips: 100
+Big Blind: Soe, chips: 200
+Folds: Gumu
+Pot size: 300
+Wins: Soe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soe
+Small Blind: Soe, chips: 100
+Big Blind: Gumu, chips: 200
+Folds: Soe
+Pot size: 300
+Wins: Gumu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gumu
+Small Blind: Gumu, chips: 100
+Big Blind: Soe, chips: 200
+Folds: Gumu
+Pot size: 300
+Wins: Soe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soe
+Small Blind: Soe, chips: 100
+Big Blind: Gumu, chips: 200
+Calls: Soe
+DEBUG MESSAGE: INVALID ACTION FROM Gumu (2 0)
+Folds: Gumu
+Pot size: 400
+Wins: Soe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gumu
+Small Blind: Gumu, chips: 100
+Big Blind: Soe, chips: 200
+Flop: 4s Ac 5s
+Turn: 3h
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Gumu, Tc Ts
+Combination: Gumu, Two Pair ( Ac Ah Tc Ts 5s )
+Shows: Soe, 6c 5h
+Combination: Soe, Two Pair ( Ac Ah 5h 5s 6c )
+Wins: Gumu, chips: 200
+Wins: Soe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soe
+Small Blind: Soe, chips: 100
+Big Blind: Gumu, chips: 200
+Flop: 4d Qh 2c
+Turn: 2s
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Gumu, 7h 6c
+Combination: Gumu, Pair ( 2c 2s Qh Ts 7h )
+Shows: Soe, Ks 4s
+Combination: Soe, Two Pair ( 4s 4d 2c 2s Ks )
+Wins: Gumu, chips: 100
+Wins: Soe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gumu
+Small Blind: Gumu, chips: 100
+Big Blind: Soe, chips: 200
+Flop: 5d As 9s
+Turn: 3s
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Gumu, Kd Ts
+Combination: Gumu, Pair ( As Ac Kd Ts 9s )
+Shows: Soe, Jc 5s
+Combination: Soe, Two Pair ( As Ac 5s 5d Jc )
+Wins: Soe, chips: 300
+Quits: Gumu, chips: 0
+Ranking: Soe, Place: 1, Score: 1000
+Reveal AI: Soe, AI: Random
+Ranking: Gumu, Place: 2, Score: -1000
+Reveal AI: Gumu, AI: AIMyBot1
+
+Player Stats for Gumu, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 4, showdown: 2, bluff: 2
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Soe, AI: Random
+General: deals: 13, actions: 5, preflop actions: 5
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:33
+
+The game begins. The AI's of the players are: 
+Gumu: AIMyBot1
+Soe: Random
+
+Joins: Gumu, chips: 1000
+Joins: Soe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gumu
+Small Blind: Gumu, chips: 100
+Big Blind: Soe, chips: 200
+Folds: Gumu
+Pot size: 300
+Boasts: Soe, Tc Jc
+Wins: Soe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soe
+Small Blind: Soe, chips: 100
+Big Blind: Gumu, chips: 200
+Raises: Soe, chips: 300
+Folds: Gumu
+Pot size: 700
+Wins: Soe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gumu
+Small Blind: Gumu, chips: 100
+Big Blind: Soe, chips: 200
+Folds: Gumu
+Pot size: 300
+Boasts: Soe, 3h 3c
+Wins: Soe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soe
+Small Blind: Soe, chips: 100
+Big Blind: Gumu, chips: 200
+Calls: Soe
+DEBUG MESSAGE: INVALID ACTION FROM Gumu (2 0)
+Folds: Gumu
+Pot size: 400
+Boasts: Soe, 5s 6h
+Wins: Soe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gumu
+Small Blind: Gumu, chips: 100
+Big Blind: Soe, chips: 200
+Folds: Gumu
+Pot size: 300
+Wins: Soe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soe
+Small Blind: Soe, chips: 100
+Big Blind: Gumu, chips: 200
+Folds: Soe
+Pot size: 300
+Boasts: Soe, 7c Kd
+Wins: Gumu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gumu
+Small Blind: Gumu, chips: 100
+Big Blind: Soe, chips: 200
+Folds: Gumu
+Pot size: 300
+Wins: Soe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soe
+Small Blind: Soe, chips: 100
+Big Blind: Gumu, chips: 200
+Folds: Soe
+Pot size: 300
+Wins: Gumu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gumu
+Small Blind: Gumu, chips: 100
+Big Blind: Soe, chips: 200
+Folds: Gumu
+Pot size: 300
+Wins: Soe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soe
+Small Blind: Soe, chips: 100
+Big Blind: Gumu, chips: 200
+Calls: Soe
+DEBUG MESSAGE: INVALID ACTION FROM Gumu (2 0)
+Folds: Gumu
+Pot size: 400
+Wins: Soe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gumu
+Small Blind: Gumu, chips: 100
+Big Blind: Soe, chips: 200
+Flop: 4s Ac 5s
+Turn: 3h
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Gumu, Tc Ts
+Combination: Gumu, Two Pair ( Ac Ah Tc Ts 5s )
+Shows: Soe, 6c 5h
+Combination: Soe, Two Pair ( Ac Ah 5h 5s 6c )
+Wins: Gumu, chips: 200
+Wins: Soe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soe
+Small Blind: Soe, chips: 100
+Big Blind: Gumu, chips: 200
+Flop: 4d Qh 2c
+Turn: 2s
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Gumu, 7h 6c
+Combination: Gumu, Pair ( 2c 2s Qh Ts 7h )
+Shows: Soe, Ks 4s
+Combination: Soe, Two Pair ( 4s 4d 2c 2s Ks )
+Wins: Gumu, chips: 100
+Wins: Soe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gumu
+Small Blind: Gumu, chips: 100
+Big Blind: Soe, chips: 200
+Flop: 5d As 9s
+Turn: 3s
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Gumu, Kd Ts
+Combination: Gumu, Pair ( As Ac Kd Ts 9s )
+Shows: Soe, Jc 5s
+Combination: Soe, Two Pair ( As Ac 5s 5d Jc )
+Wins: Soe, chips: 300
+Quits: Gumu, chips: 0
+Ranking: Soe, Place: 1, Score: 1000
+Reveal AI: Soe, AI: Random
+Ranking: Gumu, Place: 2, Score: -1000
+Reveal AI: Gumu, AI: AIMyBot1
+
+Player Stats for Gumu, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 4, showdown: 2, bluff: 2
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Soe, AI: Random
+General: deals: 13, actions: 5, preflop actions: 5
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

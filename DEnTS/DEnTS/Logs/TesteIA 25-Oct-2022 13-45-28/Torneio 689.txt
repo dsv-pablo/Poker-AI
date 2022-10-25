@@ -1,0 +1,334 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Lenhoelop: Random
+Mottu: AIMyBot1
+
+Joins: Lenhoelop, chips: 1000
+Joins: Mottu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mottu
+Small Blind: Mottu, chips: 100
+Big Blind: Lenhoelop, chips: 200
+Folds: Mottu
+Pot size: 300
+Wins: Lenhoelop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lenhoelop
+Small Blind: Lenhoelop, chips: 100
+Big Blind: Mottu, chips: 200
+Folds: Lenhoelop
+Pot size: 300
+Wins: Mottu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mottu
+Small Blind: Mottu, chips: 100
+Big Blind: Lenhoelop, chips: 200
+Folds: Mottu
+Pot size: 300
+Wins: Lenhoelop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lenhoelop
+Small Blind: Lenhoelop, chips: 100
+Big Blind: Mottu, chips: 200
+Raises: Lenhoelop, chips: 300
+Folds: Mottu
+Pot size: 700
+Boasts: Lenhoelop, 2d 6d
+Wins: Lenhoelop, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mottu
+Small Blind: Mottu, chips: 100
+Big Blind: Lenhoelop, chips: 200
+Folds: Mottu
+Pot size: 300
+Wins: Lenhoelop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lenhoelop
+Small Blind: Lenhoelop, chips: 100
+Big Blind: Mottu, chips: 200
+Raises: Lenhoelop, chips: 300
+Folds: Mottu
+Pot size: 700
+Wins: Lenhoelop, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mottu
+Small Blind: Mottu, chips: 100
+Big Blind: Lenhoelop, chips: 200
+Folds: Mottu
+Pot size: 300
+Boasts: Lenhoelop, Js 6c
+Wins: Lenhoelop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lenhoelop
+Small Blind: Lenhoelop, chips: 100
+Big Blind: Mottu, chips: 200
+Raises: Lenhoelop, chips: 300
+Folds: Mottu
+Pot size: 700
+Boasts: Lenhoelop, 3h Qd
+Wins: Lenhoelop, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mottu
+Small Blind: Mottu, chips: 100
+Big Blind: Lenhoelop, chips: 200
+Flop: Th Kh 6c
+Turn: Kc
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Lenhoelop, 5d Qh
+Combination: Lenhoelop, Three Of A Kind ( Kh Kc Ks Qh Th )
+Shows: Mottu, 2s Qc
+Combination: Mottu, Three Of A Kind ( Kh Kc Ks Qc Th )
+Wins: Lenhoelop, chips: 200
+Wins: Mottu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lenhoelop
+Small Blind: Lenhoelop, chips: 100
+Big Blind: Mottu, chips: 100
+Flop: 3h 2c Qs
+Turn: 4c
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Lenhoelop, 8s 9s
+Combination: Lenhoelop, High Card ( Qs 9s 8s 5h 4c )
+Shows: Mottu, Qd 2s
+Combination: Mottu, Two Pair ( Qd Qs 2s 2c 5h )
+Wins: Mottu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mottu
+Small Blind: Mottu, chips: 100
+Big Blind: Lenhoelop, chips: 200
+Folds: Mottu
+Pot size: 300
+Wins: Lenhoelop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lenhoelop
+Small Blind: Lenhoelop, chips: 100
+Big Blind: Mottu, chips: 100
+Flop: Qc 4s Kc
+Turn: Ac
+River: Ks
+Pot size: 200
+Showdown Reached
+Shows: Lenhoelop, 2d 6d
+Combination: Lenhoelop, Pair ( Kc Ks Ac Qc 6d )
+Shows: Mottu, 3h 7d
+Combination: Mottu, Pair ( Kc Ks Ac Qc 7d )
+Wins: Mottu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mottu
+Small Blind: Mottu, chips: 100
+Big Blind: Lenhoelop, chips: 200
+Folds: Mottu
+Pot size: 300
+Boasts: Lenhoelop, Ah 6c
+Wins: Lenhoelop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lenhoelop
+Small Blind: Lenhoelop, chips: 100
+Big Blind: Mottu, chips: 100
+Flop: Ac Qs 2s
+Turn: Kc
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Lenhoelop, 8h 9s
+Combination: Lenhoelop, High Card ( Ac Kc Qs Jc 9s )
+Shows: Mottu, 5h 6d
+Combination: Mottu, High Card ( Ac Kc Qs Jc 6d )
+Wins: Lenhoelop, chips: 200
+Quits: Mottu, chips: 0
+Ranking: Lenhoelop, Place: 1, Score: 1000
+Reveal AI: Lenhoelop, AI: Random
+Ranking: Mottu, Place: 2, Score: -1000
+Reveal AI: Mottu, AI: AIMyBot1
+
+Player Stats for Lenhoelop, AI: Random
+General: deals: 14, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 2, bluff: 9
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0.214286, 3Bet: 0.214286
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Mottu, AI: AIMyBot1
+General: deals: 14, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:15
+
+The game begins. The AI's of the players are: 
+Lenhoelop: Random
+Mottu: AIMyBot1
+
+Joins: Lenhoelop, chips: 1000
+Joins: Mottu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mottu
+Small Blind: Mottu, chips: 100
+Big Blind: Lenhoelop, chips: 200
+Folds: Mottu
+Pot size: 300
+Wins: Lenhoelop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lenhoelop
+Small Blind: Lenhoelop, chips: 100
+Big Blind: Mottu, chips: 200
+Folds: Lenhoelop
+Pot size: 300
+Wins: Mottu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mottu
+Small Blind: Mottu, chips: 100
+Big Blind: Lenhoelop, chips: 200
+Folds: Mottu
+Pot size: 300
+Wins: Lenhoelop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lenhoelop
+Small Blind: Lenhoelop, chips: 100
+Big Blind: Mottu, chips: 200
+Raises: Lenhoelop, chips: 300
+Folds: Mottu
+Pot size: 700
+Boasts: Lenhoelop, 2d 6d
+Wins: Lenhoelop, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mottu
+Small Blind: Mottu, chips: 100
+Big Blind: Lenhoelop, chips: 200
+Folds: Mottu
+Pot size: 300
+Wins: Lenhoelop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lenhoelop
+Small Blind: Lenhoelop, chips: 100
+Big Blind: Mottu, chips: 200
+Raises: Lenhoelop, chips: 300
+Folds: Mottu
+Pot size: 700
+Wins: Lenhoelop, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mottu
+Small Blind: Mottu, chips: 100
+Big Blind: Lenhoelop, chips: 200
+Folds: Mottu
+Pot size: 300
+Boasts: Lenhoelop, Js 6c
+Wins: Lenhoelop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lenhoelop
+Small Blind: Lenhoelop, chips: 100
+Big Blind: Mottu, chips: 200
+Raises: Lenhoelop, chips: 300
+Folds: Mottu
+Pot size: 700
+Boasts: Lenhoelop, 3h Qd
+Wins: Lenhoelop, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mottu
+Small Blind: Mottu, chips: 100
+Big Blind: Lenhoelop, chips: 200
+Flop: Th Kh 6c
+Turn: Kc
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Lenhoelop, 5d Qh
+Combination: Lenhoelop, Three Of A Kind ( Kh Kc Ks Qh Th )
+Shows: Mottu, 2s Qc
+Combination: Mottu, Three Of A Kind ( Kh Kc Ks Qc Th )
+Wins: Lenhoelop, chips: 200
+Wins: Mottu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lenhoelop
+Small Blind: Lenhoelop, chips: 100
+Big Blind: Mottu, chips: 100
+Flop: 3h 2c Qs
+Turn: 4c
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Lenhoelop, 8s 9s
+Combination: Lenhoelop, High Card ( Qs 9s 8s 5h 4c )
+Shows: Mottu, Qd 2s
+Combination: Mottu, Two Pair ( Qd Qs 2s 2c 5h )
+Wins: Mottu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mottu
+Small Blind: Mottu, chips: 100
+Big Blind: Lenhoelop, chips: 200
+Folds: Mottu
+Pot size: 300
+Wins: Lenhoelop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lenhoelop
+Small Blind: Lenhoelop, chips: 100
+Big Blind: Mottu, chips: 100
+Flop: Qc 4s Kc
+Turn: Ac
+River: Ks
+Pot size: 200
+Showdown Reached
+Shows: Lenhoelop, 2d 6d
+Combination: Lenhoelop, Pair ( Kc Ks Ac Qc 6d )
+Shows: Mottu, 3h 7d
+Combination: Mottu, Pair ( Kc Ks Ac Qc 7d )
+Wins: Mottu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mottu
+Small Blind: Mottu, chips: 100
+Big Blind: Lenhoelop, chips: 200
+Folds: Mottu
+Pot size: 300
+Boasts: Lenhoelop, Ah 6c
+Wins: Lenhoelop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lenhoelop
+Small Blind: Lenhoelop, chips: 100
+Big Blind: Mottu, chips: 100
+Flop: Ac Qs 2s
+Turn: Kc
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Lenhoelop, 8h 9s
+Combination: Lenhoelop, High Card ( Ac Kc Qs Jc 9s )
+Shows: Mottu, 5h 6d
+Combination: Mottu, High Card ( Ac Kc Qs Jc 6d )
+Wins: Lenhoelop, chips: 200
+Quits: Mottu, chips: 0
+Ranking: Lenhoelop, Place: 1, Score: 1000
+Reveal AI: Lenhoelop, AI: Random
+Ranking: Mottu, Place: 2, Score: -1000
+Reveal AI: Mottu, AI: AIMyBot1
+
+Player Stats for Lenhoelop, AI: Random
+General: deals: 14, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 2, bluff: 9
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0.214286, 3Bet: 0.214286
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Mottu, AI: AIMyBot1
+General: deals: 14, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

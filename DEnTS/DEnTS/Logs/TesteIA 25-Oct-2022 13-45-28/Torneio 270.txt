@@ -1,0 +1,312 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Faseelur: AIMyBot1
+Charlotry: Random
+
+Joins: Faseelur, chips: 1000
+Joins: Charlotry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faseelur
+Small Blind: Faseelur, chips: 100
+Big Blind: Charlotry, chips: 200
+Folds: Faseelur
+Pot size: 300
+Wins: Charlotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charlotry
+Small Blind: Charlotry, chips: 100
+Big Blind: Faseelur, chips: 200
+Calls: Charlotry
+DEBUG MESSAGE: INVALID ACTION FROM Faseelur (2 0)
+Folds: Faseelur
+Pot size: 400
+Wins: Charlotry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faseelur
+Small Blind: Faseelur, chips: 100
+Big Blind: Charlotry, chips: 200
+Folds: Faseelur
+Pot size: 300
+Wins: Charlotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charlotry
+Small Blind: Charlotry, chips: 100
+Big Blind: Faseelur, chips: 200
+Calls: Charlotry
+DEBUG MESSAGE: INVALID ACTION FROM Faseelur (2 0)
+Folds: Faseelur
+Pot size: 400
+Wins: Charlotry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faseelur
+Small Blind: Faseelur, chips: 100
+Big Blind: Charlotry, chips: 200
+Folds: Faseelur
+Pot size: 300
+Boasts: Charlotry, 2c 5h
+Wins: Charlotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charlotry
+Small Blind: Charlotry, chips: 100
+Big Blind: Faseelur, chips: 200
+Calls: Charlotry
+DEBUG MESSAGE: INVALID ACTION FROM Faseelur (2 0)
+Folds: Faseelur
+Pot size: 400
+Boasts: Charlotry, Th Js
+Wins: Charlotry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faseelur
+Small Blind: Faseelur, chips: 100
+Big Blind: Charlotry, chips: 200
+Flop: 7s Js 9d
+Turn: 8h
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Faseelur, Jc 8c
+Combination: Faseelur, Straight ( Jc Th 9d 8c 7s )
+Shows: Charlotry, 6c 5h
+Combination: Charlotry, Straight ( Js Th 9d 8h 7s )
+Wins: Faseelur, chips: 100
+Wins: Charlotry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charlotry
+Small Blind: Charlotry, chips: 100
+Big Blind: Faseelur, chips: 100
+Flop: 4s 6d 8s
+Turn: 2c
+River: 3h
+Pot size: 200
+Showdown Reached
+Shows: Faseelur, 8d As
+Combination: Faseelur, Pair ( 8d 8s As 6d 4s )
+Shows: Charlotry, Th Jh
+Combination: Charlotry, High Card ( Jh Th 8s 6d 4s )
+Wins: Faseelur, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faseelur
+Small Blind: Faseelur, chips: 100
+Big Blind: Charlotry, chips: 200
+Folds: Faseelur
+Pot size: 300
+Boasts: Charlotry, 8d 3h
+Wins: Charlotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charlotry
+Small Blind: Charlotry, chips: 100
+Big Blind: Faseelur, chips: 100
+Flop: Kd 5h 4s
+Turn: 6d
+River: 2c
+Pot size: 200
+Showdown Reached
+Shows: Faseelur, 3h Qs
+Combination: Faseelur, Straight ( 6d 5h 4s 3h 2c )
+Shows: Charlotry, 8d 2s
+Combination: Charlotry, Pair ( 2s 2c Kd 8d 6d )
+Wins: Faseelur, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faseelur
+Small Blind: Faseelur, chips: 100
+Big Blind: Charlotry, chips: 200
+Folds: Faseelur
+Pot size: 300
+Boasts: Charlotry, Tc Qd
+Wins: Charlotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charlotry
+Small Blind: Charlotry, chips: 100
+Big Blind: Faseelur, chips: 100
+Flop: 8h Qc Jh
+Turn: 5s
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Faseelur, 5h 2s
+Combination: Faseelur, Pair ( 5h 5s Qc Jh Td )
+Shows: Charlotry, Js Ad
+Combination: Charlotry, Pair ( Js Jh Ad Qc Td )
+Wins: Charlotry, chips: 200
+Quits: Faseelur, chips: 0
+Ranking: Charlotry, Place: 1, Score: 1000
+Reveal AI: Charlotry, AI: Random
+Ranking: Faseelur, Place: 2, Score: -1000
+Reveal AI: Faseelur, AI: AIMyBot1
+
+Player Stats for Charlotry, AI: Random
+General: deals: 12, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 2, bluff: 8
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Faseelur, AI: AIMyBot1
+General: deals: 12, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:45:47
+
+The game begins. The AI's of the players are: 
+Faseelur: AIMyBot1
+Charlotry: Random
+
+Joins: Faseelur, chips: 1000
+Joins: Charlotry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faseelur
+Small Blind: Faseelur, chips: 100
+Big Blind: Charlotry, chips: 200
+Folds: Faseelur
+Pot size: 300
+Wins: Charlotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charlotry
+Small Blind: Charlotry, chips: 100
+Big Blind: Faseelur, chips: 200
+Calls: Charlotry
+DEBUG MESSAGE: INVALID ACTION FROM Faseelur (2 0)
+Folds: Faseelur
+Pot size: 400
+Wins: Charlotry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faseelur
+Small Blind: Faseelur, chips: 100
+Big Blind: Charlotry, chips: 200
+Folds: Faseelur
+Pot size: 300
+Wins: Charlotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charlotry
+Small Blind: Charlotry, chips: 100
+Big Blind: Faseelur, chips: 200
+Calls: Charlotry
+DEBUG MESSAGE: INVALID ACTION FROM Faseelur (2 0)
+Folds: Faseelur
+Pot size: 400
+Wins: Charlotry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faseelur
+Small Blind: Faseelur, chips: 100
+Big Blind: Charlotry, chips: 200
+Folds: Faseelur
+Pot size: 300
+Boasts: Charlotry, 2c 5h
+Wins: Charlotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charlotry
+Small Blind: Charlotry, chips: 100
+Big Blind: Faseelur, chips: 200
+Calls: Charlotry
+DEBUG MESSAGE: INVALID ACTION FROM Faseelur (2 0)
+Folds: Faseelur
+Pot size: 400
+Boasts: Charlotry, Th Js
+Wins: Charlotry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faseelur
+Small Blind: Faseelur, chips: 100
+Big Blind: Charlotry, chips: 200
+Flop: 7s Js 9d
+Turn: 8h
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Faseelur, Jc 8c
+Combination: Faseelur, Straight ( Jc Th 9d 8c 7s )
+Shows: Charlotry, 6c 5h
+Combination: Charlotry, Straight ( Js Th 9d 8h 7s )
+Wins: Faseelur, chips: 100
+Wins: Charlotry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charlotry
+Small Blind: Charlotry, chips: 100
+Big Blind: Faseelur, chips: 100
+Flop: 4s 6d 8s
+Turn: 2c
+River: 3h
+Pot size: 200
+Showdown Reached
+Shows: Faseelur, 8d As
+Combination: Faseelur, Pair ( 8d 8s As 6d 4s )
+Shows: Charlotry, Th Jh
+Combination: Charlotry, High Card ( Jh Th 8s 6d 4s )
+Wins: Faseelur, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faseelur
+Small Blind: Faseelur, chips: 100
+Big Blind: Charlotry, chips: 200
+Folds: Faseelur
+Pot size: 300
+Boasts: Charlotry, 8d 3h
+Wins: Charlotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charlotry
+Small Blind: Charlotry, chips: 100
+Big Blind: Faseelur, chips: 100
+Flop: Kd 5h 4s
+Turn: 6d
+River: 2c
+Pot size: 200
+Showdown Reached
+Shows: Faseelur, 3h Qs
+Combination: Faseelur, Straight ( 6d 5h 4s 3h 2c )
+Shows: Charlotry, 8d 2s
+Combination: Charlotry, Pair ( 2s 2c Kd 8d 6d )
+Wins: Faseelur, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faseelur
+Small Blind: Faseelur, chips: 100
+Big Blind: Charlotry, chips: 200
+Folds: Faseelur
+Pot size: 300
+Boasts: Charlotry, Tc Qd
+Wins: Charlotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charlotry
+Small Blind: Charlotry, chips: 100
+Big Blind: Faseelur, chips: 100
+Flop: 8h Qc Jh
+Turn: 5s
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Faseelur, 5h 2s
+Combination: Faseelur, Pair ( 5h 5s Qc Jh Td )
+Shows: Charlotry, Js Ad
+Combination: Charlotry, Pair ( Js Jh Ad Qc Td )
+Wins: Charlotry, chips: 200
+Quits: Faseelur, chips: 0
+Ranking: Charlotry, Place: 1, Score: 1000
+Reveal AI: Charlotry, AI: Random
+Ranking: Faseelur, Place: 2, Score: -1000
+Reveal AI: Faseelur, AI: AIMyBot1
+
+Player Stats for Charlotry, AI: Random
+General: deals: 12, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 2, bluff: 8
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Faseelur, AI: AIMyBot1
+General: deals: 12, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

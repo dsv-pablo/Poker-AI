@@ -1,0 +1,262 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wewigu: AIMyBot1
+Dunepa: Random
+
+Joins: Wewigu, chips: 1000
+Joins: Dunepa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunepa
+Small Blind: Dunepa, chips: 100
+Big Blind: Wewigu, chips: 200
+Folds: Dunepa
+Pot size: 300
+Wins: Wewigu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewigu
+Small Blind: Wewigu, chips: 100
+Big Blind: Dunepa, chips: 200
+Folds: Wewigu
+Pot size: 300
+Wins: Dunepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunepa
+Small Blind: Dunepa, chips: 100
+Big Blind: Wewigu, chips: 200
+Raises: Dunepa, chips: 300
+Folds: Wewigu
+Pot size: 700
+Wins: Dunepa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewigu
+Small Blind: Wewigu, chips: 100
+Big Blind: Dunepa, chips: 200
+Folds: Wewigu
+Pot size: 300
+Boasts: Dunepa, Js 4s
+Wins: Dunepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunepa
+Small Blind: Dunepa, chips: 100
+Big Blind: Wewigu, chips: 200
+Raises: Dunepa, chips: 300
+Folds: Wewigu
+Pot size: 700
+Wins: Dunepa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewigu
+Small Blind: Wewigu, chips: 100
+Big Blind: Dunepa, chips: 200
+Folds: Wewigu
+Pot size: 300
+Boasts: Dunepa, Kc 2h
+Wins: Dunepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunepa
+Small Blind: Dunepa, chips: 100
+Big Blind: Wewigu, chips: 200
+Calls: Dunepa
+DEBUG MESSAGE: INVALID ACTION FROM Wewigu (2 0)
+Folds: Wewigu
+Pot size: 400
+Wins: Dunepa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewigu
+Small Blind: Wewigu, chips: 100
+Big Blind: Dunepa, chips: 200
+Folds: Wewigu
+Pot size: 300
+Wins: Dunepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunepa
+Small Blind: Dunepa, chips: 100
+Big Blind: Wewigu, chips: 100
+Flop: 8c Kd 7d
+Turn: Th
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Wewigu, Ac 7h
+Combination: Wewigu, Pair ( 7h 7d Ac Kd Th )
+Shows: Dunepa, 5c 5h
+Combination: Dunepa, Pair ( 5c 5h Kd Th 8c )
+Wins: Wewigu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewigu
+Small Blind: Wewigu, chips: 100
+Big Blind: Dunepa, chips: 200
+Folds: Wewigu
+Pot size: 300
+Boasts: Dunepa, 4c 6d
+Wins: Dunepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunepa
+Small Blind: Dunepa, chips: 100
+Big Blind: Wewigu, chips: 100
+Flop: Td Kh 6s
+Turn: 5h
+River: Ac
+Pot size: 200
+Showdown Reached
+Shows: Wewigu, 2d 6d
+Combination: Wewigu, Pair ( 6d 6s Ac Kh Td )
+Shows: Dunepa, As 3c
+Combination: Dunepa, Pair ( As Ac Kh Td 6s )
+Wins: Dunepa, chips: 200
+Quits: Wewigu, chips: 0
+Ranking: Dunepa, Place: 1, Score: 1000
+Reveal AI: Dunepa, AI: Random
+Ranking: Wewigu, Place: 2, Score: -1000
+Reveal AI: Wewigu, AI: AIMyBot1
+
+Player Stats for Dunepa, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Wewigu, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:03
+
+The game begins. The AI's of the players are: 
+Wewigu: AIMyBot1
+Dunepa: Random
+
+Joins: Wewigu, chips: 1000
+Joins: Dunepa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunepa
+Small Blind: Dunepa, chips: 100
+Big Blind: Wewigu, chips: 200
+Folds: Dunepa
+Pot size: 300
+Wins: Wewigu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewigu
+Small Blind: Wewigu, chips: 100
+Big Blind: Dunepa, chips: 200
+Folds: Wewigu
+Pot size: 300
+Wins: Dunepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunepa
+Small Blind: Dunepa, chips: 100
+Big Blind: Wewigu, chips: 200
+Raises: Dunepa, chips: 300
+Folds: Wewigu
+Pot size: 700
+Wins: Dunepa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewigu
+Small Blind: Wewigu, chips: 100
+Big Blind: Dunepa, chips: 200
+Folds: Wewigu
+Pot size: 300
+Boasts: Dunepa, Js 4s
+Wins: Dunepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunepa
+Small Blind: Dunepa, chips: 100
+Big Blind: Wewigu, chips: 200
+Raises: Dunepa, chips: 300
+Folds: Wewigu
+Pot size: 700
+Wins: Dunepa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewigu
+Small Blind: Wewigu, chips: 100
+Big Blind: Dunepa, chips: 200
+Folds: Wewigu
+Pot size: 300
+Boasts: Dunepa, Kc 2h
+Wins: Dunepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunepa
+Small Blind: Dunepa, chips: 100
+Big Blind: Wewigu, chips: 200
+Calls: Dunepa
+DEBUG MESSAGE: INVALID ACTION FROM Wewigu (2 0)
+Folds: Wewigu
+Pot size: 400
+Wins: Dunepa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewigu
+Small Blind: Wewigu, chips: 100
+Big Blind: Dunepa, chips: 200
+Folds: Wewigu
+Pot size: 300
+Wins: Dunepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunepa
+Small Blind: Dunepa, chips: 100
+Big Blind: Wewigu, chips: 100
+Flop: 8c Kd 7d
+Turn: Th
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Wewigu, Ac 7h
+Combination: Wewigu, Pair ( 7h 7d Ac Kd Th )
+Shows: Dunepa, 5c 5h
+Combination: Dunepa, Pair ( 5c 5h Kd Th 8c )
+Wins: Wewigu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wewigu
+Small Blind: Wewigu, chips: 100
+Big Blind: Dunepa, chips: 200
+Folds: Wewigu
+Pot size: 300
+Boasts: Dunepa, 4c 6d
+Wins: Dunepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunepa
+Small Blind: Dunepa, chips: 100
+Big Blind: Wewigu, chips: 100
+Flop: Td Kh 6s
+Turn: 5h
+River: Ac
+Pot size: 200
+Showdown Reached
+Shows: Wewigu, 2d 6d
+Combination: Wewigu, Pair ( 6d 6s Ac Kh Td )
+Shows: Dunepa, As 3c
+Combination: Dunepa, Pair ( As Ac Kh Td 6s )
+Wins: Dunepa, chips: 200
+Quits: Wewigu, chips: 0
+Ranking: Dunepa, Place: 1, Score: 1000
+Reveal AI: Dunepa, AI: Random
+Ranking: Wewigu, Place: 2, Score: -1000
+Reveal AI: Wewigu, AI: AIMyBot1
+
+Player Stats for Dunepa, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Wewigu, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

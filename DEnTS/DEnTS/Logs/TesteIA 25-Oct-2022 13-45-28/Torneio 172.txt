@@ -1,0 +1,320 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Domem: Random
+Meva: AIMyBot1
+
+Joins: Domem, chips: 1000
+Joins: Meva, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Domem
+Small Blind: Domem, chips: 100
+Big Blind: Meva, chips: 200
+Calls: Domem
+DEBUG MESSAGE: INVALID ACTION FROM Meva (2 0)
+Folds: Meva
+Pot size: 400
+Wins: Domem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meva
+Small Blind: Meva, chips: 100
+Big Blind: Domem, chips: 200
+Folds: Meva
+Pot size: 300
+Boasts: Domem, 7d 2h
+Wins: Domem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Domem
+Small Blind: Domem, chips: 100
+Big Blind: Meva, chips: 200
+Raises: Domem, chips: 300
+Folds: Meva
+Pot size: 700
+Wins: Domem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meva
+Small Blind: Meva, chips: 100
+Big Blind: Domem, chips: 200
+Folds: Meva
+Pot size: 300
+Wins: Domem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Domem
+Small Blind: Domem, chips: 100
+Big Blind: Meva, chips: 200
+Calls: Domem
+DEBUG MESSAGE: INVALID ACTION FROM Meva (2 0)
+Folds: Meva
+Pot size: 400
+Wins: Domem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meva
+Small Blind: Meva, chips: 100
+Big Blind: Domem, chips: 200
+Folds: Meva
+Pot size: 300
+Wins: Domem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Domem
+Small Blind: Domem, chips: 100
+Big Blind: Meva, chips: 100
+Flop: 9s Ac 7c
+Turn: 5c
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Domem, 8c Td
+Combination: Domem, Pair ( 7c 7h Ac Td 9s )
+Shows: Meva, Jd Ah
+Combination: Meva, Two Pair ( Ah Ac 7c 7h Jd )
+Wins: Meva, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meva
+Small Blind: Meva, chips: 100
+Big Blind: Domem, chips: 200
+Folds: Meva
+Pot size: 300
+Wins: Domem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Domem
+Small Blind: Domem, chips: 100
+Big Blind: Meva, chips: 100
+Flop: 3c 7h 8c
+Turn: 3d
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Domem, 2c 6h
+Combination: Domem, Two Pair ( 8c 8h 3c 3d 7h )
+Shows: Meva, Ac 5d
+Combination: Meva, Two Pair ( 8c 8h 3c 3d Ac )
+Wins: Meva, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meva
+Small Blind: Meva, chips: 100
+Big Blind: Domem, chips: 200
+Folds: Meva
+Pot size: 300
+Boasts: Domem, 8d Jh
+Wins: Domem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Domem
+Small Blind: Domem, chips: 100
+Big Blind: Meva, chips: 100
+Flop: Ks Qc Qh
+Turn: Ad
+River: 6c
+Pot size: 200
+Showdown Reached
+Shows: Domem, Ts 3d
+Combination: Domem, Pair ( Qc Qh Ad Ks Ts )
+Shows: Meva, 7c 6h
+Combination: Meva, Two Pair ( Qc Qh 6h 6c Ad )
+Wins: Meva, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meva
+Small Blind: Meva, chips: 100
+Big Blind: Domem, chips: 200
+Folds: Meva
+Pot size: 300
+Boasts: Domem, 4c 4h
+Wins: Domem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Domem
+Small Blind: Domem, chips: 100
+Big Blind: Meva, chips: 100
+Flop: 7d Ts As
+Turn: 3d
+River: 8c
+Pot size: 200
+Showdown Reached
+Shows: Domem, 4h Ad
+Combination: Domem, Pair ( Ad As Ts 8c 7d )
+Shows: Meva, Qc Ks
+Combination: Meva, High Card ( As Ks Qc Ts 8c )
+Wins: Domem, chips: 200
+Quits: Meva, chips: 0
+Ranking: Domem, Place: 1, Score: 1000
+Reveal AI: Domem, AI: Random
+Ranking: Meva, Place: 2, Score: -1000
+Reveal AI: Meva, AI: AIMyBot1
+
+Player Stats for Domem, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.25
+
+
+Player Stats for Meva, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:45:41
+
+The game begins. The AI's of the players are: 
+Domem: Random
+Meva: AIMyBot1
+
+Joins: Domem, chips: 1000
+Joins: Meva, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Domem
+Small Blind: Domem, chips: 100
+Big Blind: Meva, chips: 200
+Calls: Domem
+DEBUG MESSAGE: INVALID ACTION FROM Meva (2 0)
+Folds: Meva
+Pot size: 400
+Wins: Domem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meva
+Small Blind: Meva, chips: 100
+Big Blind: Domem, chips: 200
+Folds: Meva
+Pot size: 300
+Boasts: Domem, 7d 2h
+Wins: Domem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Domem
+Small Blind: Domem, chips: 100
+Big Blind: Meva, chips: 200
+Raises: Domem, chips: 300
+Folds: Meva
+Pot size: 700
+Wins: Domem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meva
+Small Blind: Meva, chips: 100
+Big Blind: Domem, chips: 200
+Folds: Meva
+Pot size: 300
+Wins: Domem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Domem
+Small Blind: Domem, chips: 100
+Big Blind: Meva, chips: 200
+Calls: Domem
+DEBUG MESSAGE: INVALID ACTION FROM Meva (2 0)
+Folds: Meva
+Pot size: 400
+Wins: Domem, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meva
+Small Blind: Meva, chips: 100
+Big Blind: Domem, chips: 200
+Folds: Meva
+Pot size: 300
+Wins: Domem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Domem
+Small Blind: Domem, chips: 100
+Big Blind: Meva, chips: 100
+Flop: 9s Ac 7c
+Turn: 5c
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Domem, 8c Td
+Combination: Domem, Pair ( 7c 7h Ac Td 9s )
+Shows: Meva, Jd Ah
+Combination: Meva, Two Pair ( Ah Ac 7c 7h Jd )
+Wins: Meva, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meva
+Small Blind: Meva, chips: 100
+Big Blind: Domem, chips: 200
+Folds: Meva
+Pot size: 300
+Wins: Domem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Domem
+Small Blind: Domem, chips: 100
+Big Blind: Meva, chips: 100
+Flop: 3c 7h 8c
+Turn: 3d
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Domem, 2c 6h
+Combination: Domem, Two Pair ( 8c 8h 3c 3d 7h )
+Shows: Meva, Ac 5d
+Combination: Meva, Two Pair ( 8c 8h 3c 3d Ac )
+Wins: Meva, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meva
+Small Blind: Meva, chips: 100
+Big Blind: Domem, chips: 200
+Folds: Meva
+Pot size: 300
+Boasts: Domem, 8d Jh
+Wins: Domem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Domem
+Small Blind: Domem, chips: 100
+Big Blind: Meva, chips: 100
+Flop: Ks Qc Qh
+Turn: Ad
+River: 6c
+Pot size: 200
+Showdown Reached
+Shows: Domem, Ts 3d
+Combination: Domem, Pair ( Qc Qh Ad Ks Ts )
+Shows: Meva, 7c 6h
+Combination: Meva, Two Pair ( Qc Qh 6h 6c Ad )
+Wins: Meva, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meva
+Small Blind: Meva, chips: 100
+Big Blind: Domem, chips: 200
+Folds: Meva
+Pot size: 300
+Boasts: Domem, 4c 4h
+Wins: Domem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Domem
+Small Blind: Domem, chips: 100
+Big Blind: Meva, chips: 100
+Flop: 7d Ts As
+Turn: 3d
+River: 8c
+Pot size: 200
+Showdown Reached
+Shows: Domem, 4h Ad
+Combination: Domem, Pair ( Ad As Ts 8c 7d )
+Shows: Meva, Qc Ks
+Combination: Meva, High Card ( As Ks Qc Ts 8c )
+Wins: Domem, chips: 200
+Quits: Meva, chips: 0
+Ranking: Domem, Place: 1, Score: 1000
+Reveal AI: Domem, AI: Random
+Ranking: Meva, Place: 2, Score: -1000
+Reveal AI: Meva, AI: AIMyBot1
+
+Player Stats for Domem, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.25
+
+
+Player Stats for Meva, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

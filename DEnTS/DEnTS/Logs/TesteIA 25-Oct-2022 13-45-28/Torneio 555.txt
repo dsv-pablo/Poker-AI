@@ -1,0 +1,234 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Feko: AIMyBot1
+Virli: Random
+
+Joins: Feko, chips: 1000
+Joins: Virli, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virli
+Small Blind: Virli, chips: 100
+Big Blind: Feko, chips: 200
+Raises: Virli, chips: 800
+Folds: Feko
+Pot size: 1200
+Boasts: Virli, 6d 4c
+Wins: Virli, chips: 1200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feko
+Small Blind: Feko, chips: 100
+Big Blind: Virli, chips: 200
+Folds: Feko
+Pot size: 300
+Wins: Virli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virli
+Small Blind: Virli, chips: 100
+Big Blind: Feko, chips: 200
+Calls: Virli
+DEBUG MESSAGE: INVALID ACTION FROM Feko (2 0)
+Folds: Feko
+Pot size: 400
+Wins: Virli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feko
+Small Blind: Feko, chips: 100
+Big Blind: Virli, chips: 200
+Folds: Feko
+Pot size: 300
+Wins: Virli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virli
+Small Blind: Virli, chips: 100
+Big Blind: Feko, chips: 200
+Calls: Virli
+DEBUG MESSAGE: INVALID ACTION FROM Feko (2 0)
+Folds: Feko
+Pot size: 400
+Wins: Virli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feko
+Small Blind: Feko, chips: 100
+Big Blind: Virli, chips: 200
+Folds: Feko
+Pot size: 300
+Boasts: Virli, 7s Tc
+Wins: Virli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virli
+Small Blind: Virli, chips: 100
+Big Blind: Feko, chips: 100
+Flop: Ah Jc 8s
+Turn: 7h
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Feko, Qs Js
+Combination: Feko, Pair ( Js Jc Ah Qs 8s )
+Shows: Virli, 2h Ts
+Combination: Virli, High Card ( Ah Jc Ts 8s 7h )
+Wins: Feko, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feko
+Small Blind: Feko, chips: 100
+Big Blind: Virli, chips: 200
+Folds: Feko
+Pot size: 300
+Wins: Virli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virli
+Small Blind: Virli, chips: 100
+Big Blind: Feko, chips: 100
+Flop: 4c 9s 9d
+Turn: 9h
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Feko, 4s As
+Combination: Feko, Full House ( 9s 9d 9h 4s 4c )
+Shows: Virli, 5s Qh
+Combination: Virli, Full House ( 9s 9d 9h 5s 5d )
+Wins: Virli, chips: 200
+Quits: Feko, chips: 0
+Ranking: Virli, Place: 1, Score: 1000
+Reveal AI: Virli, AI: Random
+Ranking: Feko, Place: 2, Score: -1000
+Reveal AI: Feko, AI: AIMyBot1
+
+Player Stats for Feko, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Virli, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:06
+
+The game begins. The AI's of the players are: 
+Feko: AIMyBot1
+Virli: Random
+
+Joins: Feko, chips: 1000
+Joins: Virli, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virli
+Small Blind: Virli, chips: 100
+Big Blind: Feko, chips: 200
+Raises: Virli, chips: 800
+Folds: Feko
+Pot size: 1200
+Boasts: Virli, 6d 4c
+Wins: Virli, chips: 1200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feko
+Small Blind: Feko, chips: 100
+Big Blind: Virli, chips: 200
+Folds: Feko
+Pot size: 300
+Wins: Virli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virli
+Small Blind: Virli, chips: 100
+Big Blind: Feko, chips: 200
+Calls: Virli
+DEBUG MESSAGE: INVALID ACTION FROM Feko (2 0)
+Folds: Feko
+Pot size: 400
+Wins: Virli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feko
+Small Blind: Feko, chips: 100
+Big Blind: Virli, chips: 200
+Folds: Feko
+Pot size: 300
+Wins: Virli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virli
+Small Blind: Virli, chips: 100
+Big Blind: Feko, chips: 200
+Calls: Virli
+DEBUG MESSAGE: INVALID ACTION FROM Feko (2 0)
+Folds: Feko
+Pot size: 400
+Wins: Virli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feko
+Small Blind: Feko, chips: 100
+Big Blind: Virli, chips: 200
+Folds: Feko
+Pot size: 300
+Boasts: Virli, 7s Tc
+Wins: Virli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virli
+Small Blind: Virli, chips: 100
+Big Blind: Feko, chips: 100
+Flop: Ah Jc 8s
+Turn: 7h
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Feko, Qs Js
+Combination: Feko, Pair ( Js Jc Ah Qs 8s )
+Shows: Virli, 2h Ts
+Combination: Virli, High Card ( Ah Jc Ts 8s 7h )
+Wins: Feko, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feko
+Small Blind: Feko, chips: 100
+Big Blind: Virli, chips: 200
+Folds: Feko
+Pot size: 300
+Wins: Virli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Virli
+Small Blind: Virli, chips: 100
+Big Blind: Feko, chips: 100
+Flop: 4c 9s 9d
+Turn: 9h
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Feko, 4s As
+Combination: Feko, Full House ( 9s 9d 9h 4s 4c )
+Shows: Virli, 5s Qh
+Combination: Virli, Full House ( 9s 9d 9h 5s 5d )
+Wins: Virli, chips: 200
+Quits: Feko, chips: 0
+Ranking: Virli, Place: 1, Score: 1000
+Reveal AI: Virli, AI: Random
+Ranking: Feko, Place: 2, Score: -1000
+Reveal AI: Feko, AI: AIMyBot1
+
+Player Stats for Feko, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Virli, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

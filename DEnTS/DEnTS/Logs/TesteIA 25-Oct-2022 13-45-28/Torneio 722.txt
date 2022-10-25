@@ -1,0 +1,470 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Tuchek: AIMyBot1
+Deewriso: Random
+
+Joins: Tuchek, chips: 1000
+Joins: Deewriso, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Folds: Tuchek
+Pot size: 300
+Wins: Deewriso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 200
+Calls: Deewriso
+DEBUG MESSAGE: INVALID ACTION FROM Tuchek (2 0)
+Folds: Tuchek
+Pot size: 400
+Boasts: Deewriso, Jc 5c
+Wins: Deewriso, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Folds: Tuchek
+Pot size: 300
+Wins: Deewriso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 200
+Calls: Deewriso
+DEBUG MESSAGE: INVALID ACTION FROM Tuchek (2 0)
+Folds: Tuchek
+Pot size: 400
+Wins: Deewriso, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Folds: Tuchek
+Pot size: 300
+Boasts: Deewriso, 5c Kd
+Wins: Deewriso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 200
+Calls: Deewriso
+DEBUG MESSAGE: INVALID ACTION FROM Tuchek (2 0)
+Folds: Tuchek
+Pot size: 400
+Wins: Deewriso, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Flop: 3d 3s 5d
+Turn: 8d
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Tuchek, Kh 7h
+Combination: Tuchek, Two Pair ( 5d 5s 3d 3s Kh )
+Shows: Deewriso, Qc 9d
+Combination: Deewriso, Two Pair ( 5d 5s 3d 3s Qc )
+Wins: Tuchek, chips: 200
+Wins: Deewriso, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 200
+Flop: Qc 4c 7h
+Turn: 2h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Tuchek, Ts 9h
+Combination: Tuchek, High Card ( As Qc Ts 9h 7h )
+Shows: Deewriso, Qd 9s
+Combination: Deewriso, Pair ( Qd Qc As 9s 7h )
+Wins: Tuchek, chips: 100
+Wins: Deewriso, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Flop: Kh Tc Qh
+Turn: 2h
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Tuchek, Qc Ac
+Combination: Tuchek, Pair ( Qc Qh Ac Kh Tc )
+Shows: Deewriso, As 4h
+Combination: Deewriso, High Card ( As Kh Qh Tc 8s )
+Wins: Tuchek, chips: 200
+Wins: Deewriso, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 200
+Flop: 5s Tc 7h
+Turn: 8h
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Tuchek, Ad 2h
+Combination: Tuchek, Pair ( 2h 2d Ad Tc 8h )
+Shows: Deewriso, Jh 6s
+Combination: Deewriso, High Card ( Jh Tc 8h 7h 6s )
+Wins: Tuchek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Folds: Tuchek
+Pot size: 300
+Wins: Deewriso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 200
+Flop: 3d Js 5d
+Turn: 2c
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Tuchek, 6d 3h
+Combination: Tuchek, Two Pair ( 6d 6c 3h 3d Js )
+Shows: Deewriso, 8c Qc
+Combination: Deewriso, High Card ( Qc Js 8c 6c 5d )
+Wins: Tuchek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Folds: Tuchek
+Pot size: 300
+Wins: Deewriso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 200
+Flop: 5d 9s 3s
+Turn: Th
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Tuchek, 6c Ts
+Combination: Tuchek, Pair ( Ts Th 9s 6c 5d )
+Shows: Deewriso, 7h 3c
+Combination: Deewriso, Pair ( 3c 3s Th 9s 7h )
+Wins: Tuchek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Folds: Tuchek
+Pot size: 300
+Wins: Deewriso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 200
+Flop: 3s 9s 7c
+Turn: 7s
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Tuchek, Ah Td
+Combination: Tuchek, Pair ( 7c 7s Ah Td 9s )
+Shows: Deewriso, Ac 7d
+Combination: Deewriso, Three Of A Kind ( 7d 7c 7s Ac 9s )
+Wins: Tuchek, chips: 100
+Wins: Deewriso, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Flop: Kc 8s Ah
+Turn: 8c
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Tuchek, 9h 3d
+Combination: Tuchek, Pair ( 8s 8c Ah Kc Qh )
+Shows: Deewriso, 3c 9c
+Combination: Deewriso, Pair ( 8s 8c Ah Kc Qh )
+Wins: Tuchek, chips: 100
+Wins: Deewriso, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 100
+Flop: 8d 3d 2d
+Turn: 9s
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Tuchek, 6s 4h
+Combination: Tuchek, High Card ( Kc 9s 8d 6s 4h )
+Shows: Deewriso, Tc 8s
+Combination: Deewriso, Pair ( 8s 8d Kc Tc 9s )
+Wins: Deewriso, chips: 200
+Quits: Tuchek, chips: 0
+Ranking: Deewriso, Place: 1, Score: 1000
+Reveal AI: Deewriso, AI: Random
+Ranking: Tuchek, Place: 2, Score: -1000
+Reveal AI: Tuchek, AI: AIMyBot1
+
+Player Stats for Deewriso, AI: Random
+General: deals: 18, actions: 3, preflop actions: 3
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 15, showdown: 6, bluff: 9
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Tuchek, AI: AIMyBot1
+General: deals: 18, actions: 9, preflop actions: 9
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1600, lost: 2600, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Date: 2022/10/25 13:46:17
+
+The game begins. The AI's of the players are: 
+Tuchek: AIMyBot1
+Deewriso: Random
+
+Joins: Tuchek, chips: 1000
+Joins: Deewriso, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Folds: Tuchek
+Pot size: 300
+Wins: Deewriso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 200
+Calls: Deewriso
+DEBUG MESSAGE: INVALID ACTION FROM Tuchek (2 0)
+Folds: Tuchek
+Pot size: 400
+Boasts: Deewriso, Jc 5c
+Wins: Deewriso, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Folds: Tuchek
+Pot size: 300
+Wins: Deewriso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 200
+Calls: Deewriso
+DEBUG MESSAGE: INVALID ACTION FROM Tuchek (2 0)
+Folds: Tuchek
+Pot size: 400
+Wins: Deewriso, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Folds: Tuchek
+Pot size: 300
+Boasts: Deewriso, 5c Kd
+Wins: Deewriso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 200
+Calls: Deewriso
+DEBUG MESSAGE: INVALID ACTION FROM Tuchek (2 0)
+Folds: Tuchek
+Pot size: 400
+Wins: Deewriso, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Flop: 3d 3s 5d
+Turn: 8d
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Tuchek, Kh 7h
+Combination: Tuchek, Two Pair ( 5d 5s 3d 3s Kh )
+Shows: Deewriso, Qc 9d
+Combination: Deewriso, Two Pair ( 5d 5s 3d 3s Qc )
+Wins: Tuchek, chips: 200
+Wins: Deewriso, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 200
+Flop: Qc 4c 7h
+Turn: 2h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Tuchek, Ts 9h
+Combination: Tuchek, High Card ( As Qc Ts 9h 7h )
+Shows: Deewriso, Qd 9s
+Combination: Deewriso, Pair ( Qd Qc As 9s 7h )
+Wins: Tuchek, chips: 100
+Wins: Deewriso, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Flop: Kh Tc Qh
+Turn: 2h
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Tuchek, Qc Ac
+Combination: Tuchek, Pair ( Qc Qh Ac Kh Tc )
+Shows: Deewriso, As 4h
+Combination: Deewriso, High Card ( As Kh Qh Tc 8s )
+Wins: Tuchek, chips: 200
+Wins: Deewriso, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 200
+Flop: 5s Tc 7h
+Turn: 8h
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Tuchek, Ad 2h
+Combination: Tuchek, Pair ( 2h 2d Ad Tc 8h )
+Shows: Deewriso, Jh 6s
+Combination: Deewriso, High Card ( Jh Tc 8h 7h 6s )
+Wins: Tuchek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Folds: Tuchek
+Pot size: 300
+Wins: Deewriso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 200
+Flop: 3d Js 5d
+Turn: 2c
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Tuchek, 6d 3h
+Combination: Tuchek, Two Pair ( 6d 6c 3h 3d Js )
+Shows: Deewriso, 8c Qc
+Combination: Deewriso, High Card ( Qc Js 8c 6c 5d )
+Wins: Tuchek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Folds: Tuchek
+Pot size: 300
+Wins: Deewriso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 200
+Flop: 5d 9s 3s
+Turn: Th
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Tuchek, 6c Ts
+Combination: Tuchek, Pair ( Ts Th 9s 6c 5d )
+Shows: Deewriso, 7h 3c
+Combination: Deewriso, Pair ( 3c 3s Th 9s 7h )
+Wins: Tuchek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Folds: Tuchek
+Pot size: 300
+Wins: Deewriso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 200
+Flop: 3s 9s 7c
+Turn: 7s
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Tuchek, Ah Td
+Combination: Tuchek, Pair ( 7c 7s Ah Td 9s )
+Shows: Deewriso, Ac 7d
+Combination: Deewriso, Three Of A Kind ( 7d 7c 7s Ac 9s )
+Wins: Tuchek, chips: 100
+Wins: Deewriso, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuchek
+Small Blind: Tuchek, chips: 100
+Big Blind: Deewriso, chips: 200
+Flop: Kc 8s Ah
+Turn: 8c
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Tuchek, 9h 3d
+Combination: Tuchek, Pair ( 8s 8c Ah Kc Qh )
+Shows: Deewriso, 3c 9c
+Combination: Deewriso, Pair ( 8s 8c Ah Kc Qh )
+Wins: Tuchek, chips: 100
+Wins: Deewriso, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewriso
+Small Blind: Deewriso, chips: 100
+Big Blind: Tuchek, chips: 100
+Flop: 8d 3d 2d
+Turn: 9s
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Tuchek, 6s 4h
+Combination: Tuchek, High Card ( Kc 9s 8d 6s 4h )
+Shows: Deewriso, Tc 8s
+Combination: Deewriso, Pair ( 8s 8d Kc Tc 9s )
+Wins: Deewriso, chips: 200
+Quits: Tuchek, chips: 0
+Ranking: Deewriso, Place: 1, Score: 1000
+Reveal AI: Deewriso, AI: Random
+Ranking: Tuchek, Place: 2, Score: -1000
+Reveal AI: Tuchek, AI: AIMyBot1
+
+Player Stats for Deewriso, AI: Random
+General: deals: 18, actions: 3, preflop actions: 3
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 15, showdown: 6, bluff: 9
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Tuchek, AI: AIMyBot1
+General: deals: 18, actions: 9, preflop actions: 9
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1600, lost: 2600, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+

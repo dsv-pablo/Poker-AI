@@ -1,0 +1,470 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Veete: Random
+Hoehu: AIMyBot1
+
+Joins: Veete, chips: 1000
+Joins: Hoehu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Raises: Veete, chips: 300
+Folds: Hoehu
+Pot size: 700
+Wins: Veete, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Boasts: Veete, 6d 5c
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Folds: Veete
+Pot size: 300
+Boasts: Veete, 6c 5d
+Wins: Hoehu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Folds: Veete
+Pot size: 300
+Wins: Hoehu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Boasts: Veete, 3d 4s
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Folds: Veete
+Pot size: 300
+Boasts: Veete, 2h 3h
+Wins: Hoehu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Boasts: Veete, 5d 9c
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Raises: Veete, chips: 300
+Folds: Hoehu
+Pot size: 700
+Wins: Veete, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Boasts: Veete, 5s Ks
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Folds: Veete
+Pot size: 300
+Wins: Hoehu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Raises: Veete, chips: 300
+Calls: Hoehu
+Flop: 7h 3d 9d
+Turn: Kd
+River: Qh
+Pot size: 900
+Showdown Reached
+Shows: Veete, 6d 5c
+Combination: Veete, High Card ( Kd Qh 9d 7h 6d )
+Shows: Hoehu, 8d 7s
+Combination: Hoehu, Pair ( 7s 7h Kd Qh 9d )
+Wins: Veete, chips: 100
+Wins: Hoehu, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Boasts: Veete, 4h 6h
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Calls: Veete
+DEBUG MESSAGE: INVALID ACTION FROM Hoehu (2 0)
+Folds: Hoehu
+Pot size: 400
+Boasts: Veete, Kc As
+Wins: Veete, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Folds: Veete
+Pot size: 300
+Wins: Hoehu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Boasts: Veete, 8c 3c
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Calls: Veete
+DEBUG MESSAGE: INVALID ACTION FROM Hoehu (2 0)
+Folds: Hoehu
+Pot size: 400
+Boasts: Veete, 3h Jd
+Wins: Veete, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Boasts: Veete, Jh 5h
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 100
+Flop: Jh 2h Ts
+Turn: Qd
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Veete, 7d 9s
+Combination: Veete, High Card ( Qd Jh Ts 9s 7d )
+Shows: Hoehu, 4s Tc
+Combination: Hoehu, Two Pair ( Tc Ts 4s 4h Qd )
+Wins: Hoehu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 100
+Flop: 9d 2d Jd
+Turn: Td
+River: 8c
+Pot size: 200
+Showdown Reached
+Shows: Veete, Qh Kh
+Combination: Veete, Straight ( Kh Qh Jd Td 9d )
+Shows: Hoehu, 9h Ks
+Combination: Hoehu, Pair ( 9h 9d Ks Jd Td )
+Wins: Veete, chips: 200
+Quits: Hoehu, chips: 0
+Ranking: Veete, Place: 1, Score: 1000
+Reveal AI: Veete, AI: Random
+Ranking: Hoehu, Place: 2, Score: -1000
+Reveal AI: Hoehu, AI: AIMyBot1
+
+Player Stats for Hoehu, AI: AIMyBot1
+General: deals: 23, actions: 16, preflop actions: 16
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 7, showdown: 2, bluff: 5
+Chips: won: 2500, lost: 3600, bought: 1000, forced bets: 3300
+Pre-Flop Stats: VP$IP: 0.0434783, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Veete, AI: Random
+General: deals: 23, actions: 10, preflop actions: 10
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 17, showdown: 2, bluff: 15
+Chips: won: 5800, lost: 4800, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0.217391, PFR: 0.130435, 3Bet: 0.130435
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:35
+
+The game begins. The AI's of the players are: 
+Veete: Random
+Hoehu: AIMyBot1
+
+Joins: Veete, chips: 1000
+Joins: Hoehu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Raises: Veete, chips: 300
+Folds: Hoehu
+Pot size: 700
+Wins: Veete, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Boasts: Veete, 6d 5c
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Folds: Veete
+Pot size: 300
+Boasts: Veete, 6c 5d
+Wins: Hoehu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Folds: Veete
+Pot size: 300
+Wins: Hoehu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Boasts: Veete, 3d 4s
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Folds: Veete
+Pot size: 300
+Boasts: Veete, 2h 3h
+Wins: Hoehu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Boasts: Veete, 5d 9c
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Raises: Veete, chips: 300
+Folds: Hoehu
+Pot size: 700
+Wins: Veete, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Boasts: Veete, 5s Ks
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Folds: Veete
+Pot size: 300
+Wins: Hoehu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Raises: Veete, chips: 300
+Calls: Hoehu
+Flop: 7h 3d 9d
+Turn: Kd
+River: Qh
+Pot size: 900
+Showdown Reached
+Shows: Veete, 6d 5c
+Combination: Veete, High Card ( Kd Qh 9d 7h 6d )
+Shows: Hoehu, 8d 7s
+Combination: Hoehu, Pair ( 7s 7h Kd Qh 9d )
+Wins: Veete, chips: 100
+Wins: Hoehu, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Boasts: Veete, 4h 6h
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Calls: Veete
+DEBUG MESSAGE: INVALID ACTION FROM Hoehu (2 0)
+Folds: Hoehu
+Pot size: 400
+Boasts: Veete, Kc As
+Wins: Veete, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Folds: Veete
+Pot size: 300
+Wins: Hoehu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Boasts: Veete, 8c 3c
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 200
+Calls: Veete
+DEBUG MESSAGE: INVALID ACTION FROM Hoehu (2 0)
+Folds: Hoehu
+Pot size: 400
+Boasts: Veete, 3h Jd
+Wins: Veete, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Boasts: Veete, Jh 5h
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 100
+Flop: Jh 2h Ts
+Turn: Qd
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Veete, 7d 9s
+Combination: Veete, High Card ( Qd Jh Ts 9s 7d )
+Shows: Hoehu, 4s Tc
+Combination: Hoehu, Two Pair ( Tc Ts 4s 4h Qd )
+Wins: Hoehu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoehu
+Small Blind: Hoehu, chips: 100
+Big Blind: Veete, chips: 200
+Folds: Hoehu
+Pot size: 300
+Wins: Veete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veete
+Small Blind: Veete, chips: 100
+Big Blind: Hoehu, chips: 100
+Flop: 9d 2d Jd
+Turn: Td
+River: 8c
+Pot size: 200
+Showdown Reached
+Shows: Veete, Qh Kh
+Combination: Veete, Straight ( Kh Qh Jd Td 9d )
+Shows: Hoehu, 9h Ks
+Combination: Hoehu, Pair ( 9h 9d Ks Jd Td )
+Wins: Veete, chips: 200
+Quits: Hoehu, chips: 0
+Ranking: Veete, Place: 1, Score: 1000
+Reveal AI: Veete, AI: Random
+Ranking: Hoehu, Place: 2, Score: -1000
+Reveal AI: Hoehu, AI: AIMyBot1
+
+Player Stats for Hoehu, AI: AIMyBot1
+General: deals: 23, actions: 16, preflop actions: 16
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 7, showdown: 2, bluff: 5
+Chips: won: 2500, lost: 3600, bought: 1000, forced bets: 3300
+Pre-Flop Stats: VP$IP: 0.0434783, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Veete, AI: Random
+General: deals: 23, actions: 10, preflop actions: 10
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 17, showdown: 2, bluff: 15
+Chips: won: 5800, lost: 4800, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0.217391, PFR: 0.130435, 3Bet: 0.130435
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

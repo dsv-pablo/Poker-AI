@@ -1,0 +1,546 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gefo: Random
+Pupap: AIMyBot1
+
+Joins: Gefo, chips: 1000
+Joins: Pupap, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Boasts: Gefo, Ts 9d
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Folds: Gefo
+Pot size: 300
+Wins: Pupap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Boasts: Gefo, 6h Js
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Calls: Gefo
+DEBUG MESSAGE: INVALID ACTION FROM Pupap (2 0)
+Folds: Pupap
+Pot size: 400
+Boasts: Gefo, 9d 6s
+Wins: Gefo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Raises: Gefo, chips: 300
+Folds: Pupap
+Pot size: 700
+Wins: Gefo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Boasts: Gefo, 3h 2h
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Calls: Gefo
+DEBUG MESSAGE: INVALID ACTION FROM Pupap (2 0)
+Folds: Pupap
+Pot size: 400
+Wins: Gefo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Flop: 6s 8s 6d
+Turn: 8h
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Gefo, 4c 7d
+Combination: Gefo, Two Pair ( 8s 8h 6s 6d Td )
+Shows: Pupap, Qs Js
+Combination: Pupap, Two Pair ( 8s 8h 6s 6d Qs )
+Wins: Gefo, chips: 100
+Wins: Pupap, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Flop: 4c Qs Ah
+Turn: Qc
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Gefo, Tc 9c
+Combination: Gefo, Pair ( Qs Qc Ah Tc 9c )
+Shows: Pupap, Qh 5d
+Combination: Pupap, Three Of A Kind ( Qh Qs Qc Ah 7d )
+Wins: Pupap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Flop: As 7d Qd
+Turn: Qh
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Gefo, Td 2h
+Combination: Gefo, Pair ( Qd Qh As Td 8c )
+Shows: Pupap, Js 6d
+Combination: Pupap, Pair ( Qd Qh As Js 8c )
+Wins: Pupap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Boasts: Gefo, Jh Tc
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Flop: 9c Ad 4d
+Turn: Kh
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Gefo, 7h 3s
+Combination: Gefo, High Card ( Ad Kh 9c 7h 5s )
+Shows: Pupap, 2c 8s
+Combination: Pupap, High Card ( Ad Kh 9c 8s 5s )
+Wins: Pupap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Boasts: Gefo, Qh Ad
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Flop: Kh 4h 5s
+Turn: 3s
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Gefo, 8c 6h
+Combination: Gefo, High Card ( Kh Qc 8c 6h 5s )
+Shows: Pupap, 8d 5c
+Combination: Pupap, Pair ( 5c 5s Kh Qc 8d )
+Wins: Pupap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Boasts: Gefo, 4d Ts
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Flop: 5d Ad Qc
+Turn: 3d
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Gefo, 5s Tc
+Combination: Gefo, Two Pair ( Tc Td 5s 5d Ad )
+Shows: Pupap, 4d Ks
+Combination: Pupap, Flush ( Ad Td 5d 4d 3d )
+Wins: Pupap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Boasts: Gefo, Qc Ah
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Flop: 9d 9s 7c
+Turn: 9c
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Gefo, Kc As
+Combination: Gefo, Three Of A Kind ( 9d 9s 9c As Kc )
+Shows: Pupap, 5h Jd
+Combination: Pupap, Full House ( 9d 9s 9c 5h 5d )
+Wins: Pupap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Boasts: Gefo, 6d 9s
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Flop: 4c 5d As
+Turn: 6c
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Gefo, Td Jd
+Combination: Gefo, Pair ( Td Th As Jd 6c )
+Shows: Pupap, 7h 2s
+Combination: Pupap, High Card ( As Th 7h 6c 5d )
+Wins: Gefo, chips: 200
+Wins: Pupap, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Flop: Js Th Kh
+Turn: Kc
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Gefo, 9c 9h
+Combination: Gefo, Two Pair ( Kh Kc 9c 9h Js )
+Shows: Pupap, 7c 5d
+Combination: Pupap, Pair ( Kh Kc Js Th 8c )
+Wins: Gefo, chips: 300
+Quits: Pupap, chips: 0
+Ranking: Gefo, Place: 1, Score: 1000
+Reveal AI: Gefo, AI: Random
+Ranking: Pupap, Place: 2, Score: -1000
+Reveal AI: Pupap, AI: AIMyBot1
+
+Player Stats for Gefo, AI: Random
+General: deals: 23, actions: 4, preflop actions: 4
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 16, showdown: 3, bluff: 13
+Chips: won: 5100, lost: 4100, bought: 1000, forced bets: 3500
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.0434783, 3Bet: 0.0434783
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Pupap, AI: AIMyBot1
+General: deals: 23, actions: 13, preflop actions: 13
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 9, showdown: 8, bluff: 1
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Date: 2022/10/25 13:45:52
+
+The game begins. The AI's of the players are: 
+Gefo: Random
+Pupap: AIMyBot1
+
+Joins: Gefo, chips: 1000
+Joins: Pupap, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Boasts: Gefo, Ts 9d
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Folds: Gefo
+Pot size: 300
+Wins: Pupap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Boasts: Gefo, 6h Js
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Calls: Gefo
+DEBUG MESSAGE: INVALID ACTION FROM Pupap (2 0)
+Folds: Pupap
+Pot size: 400
+Boasts: Gefo, 9d 6s
+Wins: Gefo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Raises: Gefo, chips: 300
+Folds: Pupap
+Pot size: 700
+Wins: Gefo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Boasts: Gefo, 3h 2h
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Calls: Gefo
+DEBUG MESSAGE: INVALID ACTION FROM Pupap (2 0)
+Folds: Pupap
+Pot size: 400
+Wins: Gefo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Flop: 6s 8s 6d
+Turn: 8h
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Gefo, 4c 7d
+Combination: Gefo, Two Pair ( 8s 8h 6s 6d Td )
+Shows: Pupap, Qs Js
+Combination: Pupap, Two Pair ( 8s 8h 6s 6d Qs )
+Wins: Gefo, chips: 100
+Wins: Pupap, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Flop: 4c Qs Ah
+Turn: Qc
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Gefo, Tc 9c
+Combination: Gefo, Pair ( Qs Qc Ah Tc 9c )
+Shows: Pupap, Qh 5d
+Combination: Pupap, Three Of A Kind ( Qh Qs Qc Ah 7d )
+Wins: Pupap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Flop: As 7d Qd
+Turn: Qh
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Gefo, Td 2h
+Combination: Gefo, Pair ( Qd Qh As Td 8c )
+Shows: Pupap, Js 6d
+Combination: Pupap, Pair ( Qd Qh As Js 8c )
+Wins: Pupap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Boasts: Gefo, Jh Tc
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Flop: 9c Ad 4d
+Turn: Kh
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Gefo, 7h 3s
+Combination: Gefo, High Card ( Ad Kh 9c 7h 5s )
+Shows: Pupap, 2c 8s
+Combination: Pupap, High Card ( Ad Kh 9c 8s 5s )
+Wins: Pupap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Boasts: Gefo, Qh Ad
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Flop: Kh 4h 5s
+Turn: 3s
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Gefo, 8c 6h
+Combination: Gefo, High Card ( Kh Qc 8c 6h 5s )
+Shows: Pupap, 8d 5c
+Combination: Pupap, Pair ( 5c 5s Kh Qc 8d )
+Wins: Pupap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Boasts: Gefo, 4d Ts
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Flop: 5d Ad Qc
+Turn: 3d
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Gefo, 5s Tc
+Combination: Gefo, Two Pair ( Tc Td 5s 5d Ad )
+Shows: Pupap, 4d Ks
+Combination: Pupap, Flush ( Ad Td 5d 4d 3d )
+Wins: Pupap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Boasts: Gefo, Qc Ah
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Flop: 9d 9s 7c
+Turn: 9c
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Gefo, Kc As
+Combination: Gefo, Three Of A Kind ( 9d 9s 9c As Kc )
+Shows: Pupap, 5h Jd
+Combination: Pupap, Full House ( 9d 9s 9c 5h 5d )
+Wins: Pupap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Folds: Pupap
+Pot size: 300
+Boasts: Gefo, 6d 9s
+Wins: Gefo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gefo
+Small Blind: Gefo, chips: 100
+Big Blind: Pupap, chips: 200
+Flop: 4c 5d As
+Turn: 6c
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Gefo, Td Jd
+Combination: Gefo, Pair ( Td Th As Jd 6c )
+Shows: Pupap, 7h 2s
+Combination: Pupap, High Card ( As Th 7h 6c 5d )
+Wins: Gefo, chips: 200
+Wins: Pupap, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pupap
+Small Blind: Pupap, chips: 100
+Big Blind: Gefo, chips: 200
+Flop: Js Th Kh
+Turn: Kc
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Gefo, 9c 9h
+Combination: Gefo, Two Pair ( Kh Kc 9c 9h Js )
+Shows: Pupap, 7c 5d
+Combination: Pupap, Pair ( Kh Kc Js Th 8c )
+Wins: Gefo, chips: 300
+Quits: Pupap, chips: 0
+Ranking: Gefo, Place: 1, Score: 1000
+Reveal AI: Gefo, AI: Random
+Ranking: Pupap, Place: 2, Score: -1000
+Reveal AI: Pupap, AI: AIMyBot1
+
+Player Stats for Gefo, AI: Random
+General: deals: 23, actions: 4, preflop actions: 4
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 16, showdown: 3, bluff: 13
+Chips: won: 5100, lost: 4100, bought: 1000, forced bets: 3500
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.0434783, 3Bet: 0.0434783
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Pupap, AI: AIMyBot1
+General: deals: 23, actions: 13, preflop actions: 13
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 9, showdown: 8, bluff: 1
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+

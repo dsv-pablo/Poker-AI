@@ -1,0 +1,236 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Sureedeen: Random
+Ninhoechoe: AIMyBot1
+
+Joins: Sureedeen, chips: 1000
+Joins: Ninhoechoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sureedeen
+Small Blind: Sureedeen, chips: 100
+Big Blind: Ninhoechoe, chips: 200
+Calls: Sureedeen
+DEBUG MESSAGE: INVALID ACTION FROM Ninhoechoe (2 0)
+Folds: Ninhoechoe
+Pot size: 400
+Wins: Sureedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoechoe
+Small Blind: Ninhoechoe, chips: 100
+Big Blind: Sureedeen, chips: 200
+Folds: Ninhoechoe
+Pot size: 300
+Wins: Sureedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sureedeen
+Small Blind: Sureedeen, chips: 100
+Big Blind: Ninhoechoe, chips: 200
+Calls: Sureedeen
+DEBUG MESSAGE: INVALID ACTION FROM Ninhoechoe (2 0)
+Folds: Ninhoechoe
+Pot size: 400
+Boasts: Sureedeen, 3d 8s
+Wins: Sureedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoechoe
+Small Blind: Ninhoechoe, chips: 100
+Big Blind: Sureedeen, chips: 200
+Folds: Ninhoechoe
+Pot size: 300
+Wins: Sureedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sureedeen
+Small Blind: Sureedeen, chips: 100
+Big Blind: Ninhoechoe, chips: 200
+Raises: Sureedeen, chips: 300
+Folds: Ninhoechoe
+Pot size: 700
+Boasts: Sureedeen, 5c 4h
+Wins: Sureedeen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoechoe
+Small Blind: Ninhoechoe, chips: 100
+Big Blind: Sureedeen, chips: 200
+Folds: Ninhoechoe
+Pot size: 300
+Boasts: Sureedeen, Kh Ts
+Wins: Sureedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sureedeen
+Small Blind: Sureedeen, chips: 100
+Big Blind: Ninhoechoe, chips: 100
+Flop: 7s 6h Th
+Turn: 9c
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Sureedeen, Qh 5s
+Combination: Sureedeen, Pair ( Th Td Qh 9c 7s )
+Shows: Ninhoechoe, Tc 4s
+Combination: Ninhoechoe, Three Of A Kind ( Tc Th Td 9c 7s )
+Wins: Ninhoechoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoechoe
+Small Blind: Ninhoechoe, chips: 100
+Big Blind: Sureedeen, chips: 200
+Folds: Ninhoechoe
+Pot size: 300
+Wins: Sureedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sureedeen
+Small Blind: Sureedeen, chips: 100
+Big Blind: Ninhoechoe, chips: 100
+Flop: Ts Ah Kd
+Turn: Td
+River: 2h
+Pot size: 200
+Showdown Reached
+Shows: Sureedeen, Kh 2c
+Combination: Sureedeen, Two Pair ( Kh Kd Ts Td Ah )
+Shows: Ninhoechoe, 2s Jd
+Combination: Ninhoechoe, Two Pair ( Ts Td 2s 2h Ah )
+Wins: Sureedeen, chips: 200
+Quits: Ninhoechoe, chips: 0
+Ranking: Sureedeen, Place: 1, Score: 1000
+Reveal AI: Sureedeen, AI: Random
+Ranking: Ninhoechoe, Place: 2, Score: -1000
+Reveal AI: Ninhoechoe, AI: AIMyBot1
+
+Player Stats for Ninhoechoe, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Sureedeen, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:01
+
+The game begins. The AI's of the players are: 
+Sureedeen: Random
+Ninhoechoe: AIMyBot1
+
+Joins: Sureedeen, chips: 1000
+Joins: Ninhoechoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sureedeen
+Small Blind: Sureedeen, chips: 100
+Big Blind: Ninhoechoe, chips: 200
+Calls: Sureedeen
+DEBUG MESSAGE: INVALID ACTION FROM Ninhoechoe (2 0)
+Folds: Ninhoechoe
+Pot size: 400
+Wins: Sureedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoechoe
+Small Blind: Ninhoechoe, chips: 100
+Big Blind: Sureedeen, chips: 200
+Folds: Ninhoechoe
+Pot size: 300
+Wins: Sureedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sureedeen
+Small Blind: Sureedeen, chips: 100
+Big Blind: Ninhoechoe, chips: 200
+Calls: Sureedeen
+DEBUG MESSAGE: INVALID ACTION FROM Ninhoechoe (2 0)
+Folds: Ninhoechoe
+Pot size: 400
+Boasts: Sureedeen, 3d 8s
+Wins: Sureedeen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoechoe
+Small Blind: Ninhoechoe, chips: 100
+Big Blind: Sureedeen, chips: 200
+Folds: Ninhoechoe
+Pot size: 300
+Wins: Sureedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sureedeen
+Small Blind: Sureedeen, chips: 100
+Big Blind: Ninhoechoe, chips: 200
+Raises: Sureedeen, chips: 300
+Folds: Ninhoechoe
+Pot size: 700
+Boasts: Sureedeen, 5c 4h
+Wins: Sureedeen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoechoe
+Small Blind: Ninhoechoe, chips: 100
+Big Blind: Sureedeen, chips: 200
+Folds: Ninhoechoe
+Pot size: 300
+Boasts: Sureedeen, Kh Ts
+Wins: Sureedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sureedeen
+Small Blind: Sureedeen, chips: 100
+Big Blind: Ninhoechoe, chips: 100
+Flop: 7s 6h Th
+Turn: 9c
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Sureedeen, Qh 5s
+Combination: Sureedeen, Pair ( Th Td Qh 9c 7s )
+Shows: Ninhoechoe, Tc 4s
+Combination: Ninhoechoe, Three Of A Kind ( Tc Th Td 9c 7s )
+Wins: Ninhoechoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoechoe
+Small Blind: Ninhoechoe, chips: 100
+Big Blind: Sureedeen, chips: 200
+Folds: Ninhoechoe
+Pot size: 300
+Wins: Sureedeen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sureedeen
+Small Blind: Sureedeen, chips: 100
+Big Blind: Ninhoechoe, chips: 100
+Flop: Ts Ah Kd
+Turn: Td
+River: 2h
+Pot size: 200
+Showdown Reached
+Shows: Sureedeen, Kh 2c
+Combination: Sureedeen, Two Pair ( Kh Kd Ts Td Ah )
+Shows: Ninhoechoe, 2s Jd
+Combination: Ninhoechoe, Two Pair ( Ts Td 2s 2h Ah )
+Wins: Sureedeen, chips: 200
+Quits: Ninhoechoe, chips: 0
+Ranking: Sureedeen, Place: 1, Score: 1000
+Reveal AI: Sureedeen, AI: Random
+Ranking: Ninhoechoe, Place: 2, Score: -1000
+Reveal AI: Ninhoechoe, AI: AIMyBot1
+
+Player Stats for Ninhoechoe, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Sureedeen, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

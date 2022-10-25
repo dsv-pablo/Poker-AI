@@ -1,0 +1,224 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Ma: Random
+Deerlogol: AIMyBot1
+
+Joins: Ma, chips: 1000
+Joins: Deerlogol, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deerlogol
+Small Blind: Deerlogol, chips: 100
+Big Blind: Ma, chips: 200
+Folds: Deerlogol
+Pot size: 300
+Wins: Ma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Deerlogol, chips: 200
+Folds: Ma
+Pot size: 300
+Boasts: Ma, 2h Js
+Wins: Deerlogol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deerlogol
+Small Blind: Deerlogol, chips: 100
+Big Blind: Ma, chips: 200
+Folds: Deerlogol
+Pot size: 300
+Wins: Ma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Deerlogol, chips: 200
+Raises: Ma, chips: 300
+Folds: Deerlogol
+Pot size: 700
+Boasts: Ma, Tc 3c
+Wins: Ma, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deerlogol
+Small Blind: Deerlogol, chips: 100
+Big Blind: Ma, chips: 200
+Folds: Deerlogol
+Pot size: 300
+Wins: Ma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Deerlogol, chips: 200
+Calls: Ma
+DEBUG MESSAGE: INVALID ACTION FROM Deerlogol (2 0)
+Folds: Deerlogol
+Pot size: 400
+Wins: Ma, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deerlogol
+Small Blind: Deerlogol, chips: 100
+Big Blind: Ma, chips: 200
+Folds: Deerlogol
+Pot size: 300
+Boasts: Ma, 5s Kc
+Wins: Ma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Deerlogol, chips: 200
+Calls: Ma
+DEBUG MESSAGE: INVALID ACTION FROM Deerlogol (2 0)
+Folds: Deerlogol
+Pot size: 400
+Boasts: Ma, 2d 4s
+Wins: Ma, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deerlogol
+Small Blind: Deerlogol, chips: 100
+Big Blind: Ma, chips: 200
+Flop: 6h 5h Jc
+Turn: Ac
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Ma, 6c 3s
+Combination: Ma, Two Pair ( 6c 6h 5h 5c Ac )
+Shows: Deerlogol, Th 2c
+Combination: Deerlogol, Pair ( 5h 5c Ac Jc Th )
+Wins: Ma, chips: 300
+Quits: Deerlogol, chips: 0
+Ranking: Ma, Place: 1, Score: 1000
+Reveal AI: Ma, AI: Random
+Ranking: Deerlogol, Place: 2, Score: -1000
+Reveal AI: Deerlogol, AI: AIMyBot1
+
+Player Stats for Deerlogol, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Ma, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:33
+
+The game begins. The AI's of the players are: 
+Ma: Random
+Deerlogol: AIMyBot1
+
+Joins: Ma, chips: 1000
+Joins: Deerlogol, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deerlogol
+Small Blind: Deerlogol, chips: 100
+Big Blind: Ma, chips: 200
+Folds: Deerlogol
+Pot size: 300
+Wins: Ma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Deerlogol, chips: 200
+Folds: Ma
+Pot size: 300
+Boasts: Ma, 2h Js
+Wins: Deerlogol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deerlogol
+Small Blind: Deerlogol, chips: 100
+Big Blind: Ma, chips: 200
+Folds: Deerlogol
+Pot size: 300
+Wins: Ma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Deerlogol, chips: 200
+Raises: Ma, chips: 300
+Folds: Deerlogol
+Pot size: 700
+Boasts: Ma, Tc 3c
+Wins: Ma, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deerlogol
+Small Blind: Deerlogol, chips: 100
+Big Blind: Ma, chips: 200
+Folds: Deerlogol
+Pot size: 300
+Wins: Ma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Deerlogol, chips: 200
+Calls: Ma
+DEBUG MESSAGE: INVALID ACTION FROM Deerlogol (2 0)
+Folds: Deerlogol
+Pot size: 400
+Wins: Ma, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deerlogol
+Small Blind: Deerlogol, chips: 100
+Big Blind: Ma, chips: 200
+Folds: Deerlogol
+Pot size: 300
+Boasts: Ma, 5s Kc
+Wins: Ma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ma
+Small Blind: Ma, chips: 100
+Big Blind: Deerlogol, chips: 200
+Calls: Ma
+DEBUG MESSAGE: INVALID ACTION FROM Deerlogol (2 0)
+Folds: Deerlogol
+Pot size: 400
+Boasts: Ma, 2d 4s
+Wins: Ma, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deerlogol
+Small Blind: Deerlogol, chips: 100
+Big Blind: Ma, chips: 200
+Flop: 6h 5h Jc
+Turn: Ac
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Ma, 6c 3s
+Combination: Ma, Two Pair ( 6c 6h 5h 5c Ac )
+Shows: Deerlogol, Th 2c
+Combination: Deerlogol, Pair ( 5h 5c Ac Jc Th )
+Wins: Ma, chips: 300
+Quits: Deerlogol, chips: 0
+Ranking: Ma, Place: 1, Score: 1000
+Reveal AI: Ma, AI: Random
+Ranking: Deerlogol, Place: 2, Score: -1000
+Reveal AI: Deerlogol, AI: AIMyBot1
+
+Player Stats for Deerlogol, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Ma, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

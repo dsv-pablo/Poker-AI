@@ -1,0 +1,390 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Heete: Random
+Je: AIMyBot1
+
+Joins: Heete, chips: 1000
+Joins: Je, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Je, chips: 100
+Big Blind: Heete, chips: 200
+Folds: Je
+Pot size: 300
+Boasts: Heete, Ad 3c
+Wins: Heete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heete
+Small Blind: Heete, chips: 100
+Big Blind: Je, chips: 200
+Calls: Heete
+DEBUG MESSAGE: INVALID ACTION FROM Je (2 0)
+Folds: Je
+Pot size: 400
+Boasts: Heete, 8c Ah
+Wins: Heete, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Je, chips: 100
+Big Blind: Heete, chips: 200
+Folds: Je
+Pot size: 300
+Wins: Heete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heete
+Small Blind: Heete, chips: 100
+Big Blind: Je, chips: 200
+Calls: Heete
+DEBUG MESSAGE: INVALID ACTION FROM Je (2 0)
+Folds: Je
+Pot size: 400
+Boasts: Heete, Ts 5c
+Wins: Heete, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Je, chips: 100
+Big Blind: Heete, chips: 200
+Folds: Je
+Pot size: 300
+Wins: Heete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heete
+Small Blind: Heete, chips: 100
+Big Blind: Je, chips: 200
+Calls: Heete
+DEBUG MESSAGE: INVALID ACTION FROM Je (2 0)
+Folds: Je
+Pot size: 400
+Wins: Heete, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Je, chips: 100
+Big Blind: Heete, chips: 200
+Flop: 5c Js Ad
+Turn: 6s
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Heete, 3d Ks
+Combination: Heete, Pair ( 3d 3s Ad Ks Js )
+Shows: Je, As 4c
+Combination: Je, Pair ( As Ad Js 6s 5c )
+Wins: Heete, chips: 100
+Wins: Je, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heete
+Small Blind: Heete, chips: 100
+Big Blind: Je, chips: 200
+Flop: 3c 4h Kc
+Turn: Ts
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Heete, 8h Ks
+Combination: Heete, Pair ( Ks Kc As Ts 8h )
+Shows: Je, 5c 5d
+Combination: Je, Pair ( 5c 5d As Kc Ts )
+Wins: Heete, chips: 200
+Wins: Je, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Je, chips: 100
+Big Blind: Heete, chips: 200
+Flop: Jc 7s 9c
+Turn: 8h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Heete, Qd 8c
+Combination: Heete, Pair ( 8c 8h As Qd Jc )
+Shows: Je, Ks Jh
+Combination: Je, Pair ( Jh Jc As Ks 9c )
+Wins: Heete, chips: 100
+Wins: Je, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heete
+Small Blind: Heete, chips: 100
+Big Blind: Je, chips: 200
+Flop: 7c Qs 4s
+Turn: 2s
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Heete, 4d Ad
+Combination: Heete, Pair ( 4d 4s Ad Qs 7c )
+Shows: Je, 3s Jh
+Combination: Je, High Card ( Qs Jh 7c 6h 4s )
+Wins: Heete, chips: 200
+Wins: Je, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Je, chips: 100
+Big Blind: Heete, chips: 200
+Flop: Qs 5h 5d
+Turn: Ks
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Heete, 8c 7d
+Combination: Heete, Pair ( 5h 5d Ks Qs 8c )
+Shows: Je, 3s 8d
+Combination: Je, Pair ( 5h 5d Ks Qs 8d )
+Wins: Heete, chips: 200
+Wins: Je, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heete
+Small Blind: Heete, chips: 100
+Big Blind: Je, chips: 100
+Flop: Qs As 4c
+Turn: 8s
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Heete, 7s Td
+Combination: Heete, High Card ( As Qs Td 8s 7s )
+Shows: Je, 3h Ad
+Combination: Je, Two Pair ( Ad As 3h 3c Qs )
+Wins: Je, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Je, chips: 100
+Big Blind: Heete, chips: 200
+Folds: Je
+Pot size: 300
+Boasts: Heete, 7d Tc
+Wins: Heete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heete
+Small Blind: Heete, chips: 100
+Big Blind: Je, chips: 100
+Flop: 2h 2d As
+Turn: Kd
+River: 3d
+Pot size: 200
+Showdown Reached
+Shows: Heete, 9d 6d
+Combination: Heete, Flush ( Kd 9d 6d 3d 2d )
+Shows: Je, 5h 3c
+Combination: Je, Two Pair ( 3c 3d 2h 2d As )
+Wins: Heete, chips: 200
+Quits: Je, chips: 0
+Ranking: Heete, Place: 1, Score: 1000
+Reveal AI: Heete, AI: Random
+Ranking: Je, Place: 2, Score: -1000
+Reveal AI: Je, AI: AIMyBot1
+
+Player Stats for Heete, AI: Random
+General: deals: 14, actions: 3, preflop actions: 3
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 13, showdown: 6, bluff: 7
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Je, AI: AIMyBot1
+General: deals: 14, actions: 7, preflop actions: 7
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Date: 2022/10/25 13:45:51
+
+The game begins. The AI's of the players are: 
+Heete: Random
+Je: AIMyBot1
+
+Joins: Heete, chips: 1000
+Joins: Je, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Je, chips: 100
+Big Blind: Heete, chips: 200
+Folds: Je
+Pot size: 300
+Boasts: Heete, Ad 3c
+Wins: Heete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heete
+Small Blind: Heete, chips: 100
+Big Blind: Je, chips: 200
+Calls: Heete
+DEBUG MESSAGE: INVALID ACTION FROM Je (2 0)
+Folds: Je
+Pot size: 400
+Boasts: Heete, 8c Ah
+Wins: Heete, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Je, chips: 100
+Big Blind: Heete, chips: 200
+Folds: Je
+Pot size: 300
+Wins: Heete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heete
+Small Blind: Heete, chips: 100
+Big Blind: Je, chips: 200
+Calls: Heete
+DEBUG MESSAGE: INVALID ACTION FROM Je (2 0)
+Folds: Je
+Pot size: 400
+Boasts: Heete, Ts 5c
+Wins: Heete, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Je, chips: 100
+Big Blind: Heete, chips: 200
+Folds: Je
+Pot size: 300
+Wins: Heete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heete
+Small Blind: Heete, chips: 100
+Big Blind: Je, chips: 200
+Calls: Heete
+DEBUG MESSAGE: INVALID ACTION FROM Je (2 0)
+Folds: Je
+Pot size: 400
+Wins: Heete, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Je, chips: 100
+Big Blind: Heete, chips: 200
+Flop: 5c Js Ad
+Turn: 6s
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Heete, 3d Ks
+Combination: Heete, Pair ( 3d 3s Ad Ks Js )
+Shows: Je, As 4c
+Combination: Je, Pair ( As Ad Js 6s 5c )
+Wins: Heete, chips: 100
+Wins: Je, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heete
+Small Blind: Heete, chips: 100
+Big Blind: Je, chips: 200
+Flop: 3c 4h Kc
+Turn: Ts
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Heete, 8h Ks
+Combination: Heete, Pair ( Ks Kc As Ts 8h )
+Shows: Je, 5c 5d
+Combination: Je, Pair ( 5c 5d As Kc Ts )
+Wins: Heete, chips: 200
+Wins: Je, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Je, chips: 100
+Big Blind: Heete, chips: 200
+Flop: Jc 7s 9c
+Turn: 8h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Heete, Qd 8c
+Combination: Heete, Pair ( 8c 8h As Qd Jc )
+Shows: Je, Ks Jh
+Combination: Je, Pair ( Jh Jc As Ks 9c )
+Wins: Heete, chips: 100
+Wins: Je, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heete
+Small Blind: Heete, chips: 100
+Big Blind: Je, chips: 200
+Flop: 7c Qs 4s
+Turn: 2s
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Heete, 4d Ad
+Combination: Heete, Pair ( 4d 4s Ad Qs 7c )
+Shows: Je, 3s Jh
+Combination: Je, High Card ( Qs Jh 7c 6h 4s )
+Wins: Heete, chips: 200
+Wins: Je, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Je, chips: 100
+Big Blind: Heete, chips: 200
+Flop: Qs 5h 5d
+Turn: Ks
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Heete, 8c 7d
+Combination: Heete, Pair ( 5h 5d Ks Qs 8c )
+Shows: Je, 3s 8d
+Combination: Je, Pair ( 5h 5d Ks Qs 8d )
+Wins: Heete, chips: 200
+Wins: Je, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heete
+Small Blind: Heete, chips: 100
+Big Blind: Je, chips: 100
+Flop: Qs As 4c
+Turn: 8s
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Heete, 7s Td
+Combination: Heete, High Card ( As Qs Td 8s 7s )
+Shows: Je, 3h Ad
+Combination: Je, Two Pair ( Ad As 3h 3c Qs )
+Wins: Je, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Je, chips: 100
+Big Blind: Heete, chips: 200
+Folds: Je
+Pot size: 300
+Boasts: Heete, 7d Tc
+Wins: Heete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heete
+Small Blind: Heete, chips: 100
+Big Blind: Je, chips: 100
+Flop: 2h 2d As
+Turn: Kd
+River: 3d
+Pot size: 200
+Showdown Reached
+Shows: Heete, 9d 6d
+Combination: Heete, Flush ( Kd 9d 6d 3d 2d )
+Shows: Je, 5h 3c
+Combination: Je, Two Pair ( 3c 3d 2h 2d As )
+Wins: Heete, chips: 200
+Quits: Je, chips: 0
+Ranking: Heete, Place: 1, Score: 1000
+Reveal AI: Heete, AI: Random
+Ranking: Je, Place: 2, Score: -1000
+Reveal AI: Je, AI: AIMyBot1
+
+Player Stats for Heete, AI: Random
+General: deals: 14, actions: 3, preflop actions: 3
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 13, showdown: 6, bluff: 7
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Je, AI: AIMyBot1
+General: deals: 14, actions: 7, preflop actions: 7
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+

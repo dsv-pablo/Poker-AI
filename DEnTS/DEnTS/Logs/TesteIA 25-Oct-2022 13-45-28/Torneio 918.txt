@@ -1,0 +1,200 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Geekav: AIMyBot1
+Kuse: Random
+
+Joins: Geekav, chips: 1000
+Joins: Kuse, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuse
+Small Blind: Kuse, chips: 100
+Big Blind: Geekav, chips: 200
+Raises: Kuse, chips: 300
+Folds: Geekav
+Pot size: 700
+Boasts: Kuse, 4s 8s
+Wins: Kuse, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geekav
+Small Blind: Geekav, chips: 100
+Big Blind: Kuse, chips: 200
+Folds: Geekav
+Pot size: 300
+Boasts: Kuse, Ah 3c
+Wins: Kuse, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuse
+Small Blind: Kuse, chips: 100
+Big Blind: Geekav, chips: 200
+Calls: Kuse
+DEBUG MESSAGE: INVALID ACTION FROM Geekav (2 0)
+Folds: Geekav
+Pot size: 400
+Boasts: Kuse, 4d 3c
+Wins: Kuse, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geekav
+Small Blind: Geekav, chips: 100
+Big Blind: Kuse, chips: 200
+Folds: Geekav
+Pot size: 300
+Boasts: Kuse, Jh Jc
+Wins: Kuse, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuse
+Small Blind: Kuse, chips: 100
+Big Blind: Geekav, chips: 200
+Folds: Kuse
+Pot size: 300
+Boasts: Kuse, 2s Qh
+Wins: Geekav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geekav
+Small Blind: Geekav, chips: 100
+Big Blind: Kuse, chips: 200
+Folds: Geekav
+Pot size: 300
+Boasts: Kuse, 4c 6c
+Wins: Kuse, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuse
+Small Blind: Kuse, chips: 100
+Big Blind: Geekav, chips: 200
+Raises: Kuse, chips: 300
+Calls: Geekav
+Flop: As 8s 3d
+Turn: Ac
+River: 7c
+Pot size: 900
+Showdown Reached
+Shows: Geekav, 6c Kh
+Combination: Geekav, Pair ( As Ac Kh 8s 7c )
+Shows: Kuse, 9d 7d
+Combination: Kuse, Two Pair ( As Ac 7d 7c 9d )
+Wins: Kuse, chips: 900
+Quits: Geekav, chips: 0
+Ranking: Kuse, Place: 1, Score: 1000
+Reveal AI: Kuse, AI: Random
+Ranking: Geekav, Place: 2, Score: -1000
+Reveal AI: Geekav, AI: AIMyBot1
+
+Player Stats for Geekav, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1400, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Kuse, AI: Random
+General: deals: 7, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 1, bluff: 5
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:30
+
+The game begins. The AI's of the players are: 
+Geekav: AIMyBot1
+Kuse: Random
+
+Joins: Geekav, chips: 1000
+Joins: Kuse, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuse
+Small Blind: Kuse, chips: 100
+Big Blind: Geekav, chips: 200
+Raises: Kuse, chips: 300
+Folds: Geekav
+Pot size: 700
+Boasts: Kuse, 4s 8s
+Wins: Kuse, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geekav
+Small Blind: Geekav, chips: 100
+Big Blind: Kuse, chips: 200
+Folds: Geekav
+Pot size: 300
+Boasts: Kuse, Ah 3c
+Wins: Kuse, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuse
+Small Blind: Kuse, chips: 100
+Big Blind: Geekav, chips: 200
+Calls: Kuse
+DEBUG MESSAGE: INVALID ACTION FROM Geekav (2 0)
+Folds: Geekav
+Pot size: 400
+Boasts: Kuse, 4d 3c
+Wins: Kuse, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geekav
+Small Blind: Geekav, chips: 100
+Big Blind: Kuse, chips: 200
+Folds: Geekav
+Pot size: 300
+Boasts: Kuse, Jh Jc
+Wins: Kuse, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuse
+Small Blind: Kuse, chips: 100
+Big Blind: Geekav, chips: 200
+Folds: Kuse
+Pot size: 300
+Boasts: Kuse, 2s Qh
+Wins: Geekav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geekav
+Small Blind: Geekav, chips: 100
+Big Blind: Kuse, chips: 200
+Folds: Geekav
+Pot size: 300
+Boasts: Kuse, 4c 6c
+Wins: Kuse, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuse
+Small Blind: Kuse, chips: 100
+Big Blind: Geekav, chips: 200
+Raises: Kuse, chips: 300
+Calls: Geekav
+Flop: As 8s 3d
+Turn: Ac
+River: 7c
+Pot size: 900
+Showdown Reached
+Shows: Geekav, 6c Kh
+Combination: Geekav, Pair ( As Ac Kh 8s 7c )
+Shows: Kuse, 9d 7d
+Combination: Kuse, Two Pair ( As Ac 7d 7c 9d )
+Wins: Kuse, chips: 900
+Quits: Geekav, chips: 0
+Ranking: Kuse, Place: 1, Score: 1000
+Reveal AI: Kuse, AI: Random
+Ranking: Geekav, Place: 2, Score: -1000
+Reveal AI: Geekav, AI: AIMyBot1
+
+Player Stats for Geekav, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1400, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Kuse, AI: Random
+General: deals: 7, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 1, bluff: 5
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

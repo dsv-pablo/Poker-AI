@@ -1,0 +1,832 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Goeme: Random
+Rasik: AIMyBot1
+
+Joins: Goeme, chips: 1000
+Joins: Rasik, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Calls: Goeme
+DEBUG MESSAGE: INVALID ACTION FROM Rasik (2 0)
+Folds: Rasik
+Pot size: 400
+Boasts: Goeme, Td Kc
+Wins: Goeme, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Boasts: Goeme, Jc Kh
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Calls: Goeme
+DEBUG MESSAGE: INVALID ACTION FROM Rasik (2 0)
+Folds: Rasik
+Pot size: 400
+Boasts: Goeme, Th Jh
+Wins: Goeme, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Calls: Goeme
+DEBUG MESSAGE: INVALID ACTION FROM Rasik (2 0)
+Folds: Rasik
+Pot size: 400
+Wins: Goeme, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Flop: 9s 8h 9c
+Turn: Jd
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 2s 3c
+Combination: Goeme, Two Pair ( 9s 9c 8h 8c Jd )
+Shows: Rasik, 7h Kd
+Combination: Rasik, Two Pair ( 9s 9c 8h 8c Kd )
+Wins: Goeme, chips: 100
+Wins: Rasik, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 3h 2d Ac
+Turn: 4d
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 3s 2h
+Combination: Goeme, Two Pair ( 3s 3h 2h 2d Ac )
+Shows: Rasik, Jd Kh
+Combination: Rasik, High Card ( Ac Kh Jd 8c 4d )
+Wins: Goeme, chips: 200
+Wins: Rasik, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Flop: 8h Kc Tc
+Turn: 5s
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 3s 6c
+Combination: Goeme, High Card ( Kc Jd Tc 8h 6c )
+Shows: Rasik, Kd Ts
+Combination: Rasik, Two Pair ( Kd Kc Ts Tc Jd )
+Wins: Goeme, chips: 100
+Wins: Rasik, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 3h Qh Ah
+Turn: Tc
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 7c 8c
+Combination: Goeme, High Card ( Ah Qh Tc 8c 7c )
+Shows: Rasik, Jc 6h
+Combination: Rasik, Pair ( 6h 6d Ah Qh Jc )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 2s Qd Qh
+Turn: Th
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Goeme, Jh 7h
+Combination: Goeme, Pair ( Qd Qh Jh Th 7h )
+Shows: Rasik, Tc Ts
+Combination: Rasik, Full House ( Tc Ts Th Qd Qh )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Boasts: Goeme, 9c Qs
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: Qc Kc 5h
+Turn: 9s
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Goeme, Ad 5c
+Combination: Goeme, Pair ( 5c 5h Ad Kc Qc )
+Shows: Rasik, Kh 5d
+Combination: Rasik, Two Pair ( Kh Kc 5d 5h Qc )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: Ac 9h Tc
+Turn: 4h
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 2c Jc
+Combination: Goeme, Pair ( Tc Th Ac Jc 9h )
+Shows: Rasik, Td 7h
+Combination: Rasik, Three Of A Kind ( Td Tc Th Ac 9h )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Boasts: Goeme, Js Td
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: Kd 4h 8d
+Turn: 9d
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 6h Qh
+Combination: Goeme, High Card ( Ac Kd Qh 9d 8d )
+Shows: Rasik, Qc Qd
+Combination: Rasik, Pair ( Qc Qd Ac Kd 9d )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Boasts: Goeme, 5d Ah
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 6s Kh Ad
+Turn: 7d
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 3s Jc
+Combination: Goeme, High Card ( Ad Kh Jc Tc 7d )
+Shows: Rasik, Kd 3d
+Combination: Rasik, Pair ( Kd Kh Ad Tc 7d )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Boasts: Goeme, Th 9d
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 8h 9d 9h
+Turn: 7d
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 5s Kd
+Combination: Goeme, Pair ( 9d 9h Kd 8h 7d )
+Shows: Rasik, Ts Ah
+Combination: Rasik, Pair ( 9d 9h Ah Ts 8h )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 3h 4c 8h
+Turn: 4s
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 2c 2d
+Combination: Goeme, Two Pair ( 4c 4s 2c 2d Ts )
+Shows: Rasik, Jc Td
+Combination: Rasik, Two Pair ( Td Ts 4c 4s Jc )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 4d Qh Qs
+Turn: Qc
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 2c 7h
+Combination: Goeme, Three Of A Kind ( Qh Qs Qc 8s 7h )
+Shows: Rasik, 7d Jc
+Combination: Rasik, Three Of A Kind ( Qh Qs Qc Jc 8s )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: Ah Qs 9h
+Turn: 7d
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 3s 6d
+Combination: Goeme, Pair ( 9h 9s Ah Qs 7d )
+Shows: Rasik, 8d Qc
+Combination: Rasik, Two Pair ( Qc Qs 9h 9s Ah )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Boasts: Goeme, Jh Js
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 5c 9h 4s
+Turn: Tc
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Goeme, Js Ks
+Combination: Goeme, Pair ( 4s 4c Ks Js Tc )
+Shows: Rasik, 9d Qs
+Combination: Rasik, Two Pair ( 9d 9h 4s 4c Qs )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 7h 8d Qd
+Turn: Ah
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 5c 4c
+Combination: Goeme, Pair ( Qd Qc Ah 8d 7h )
+Shows: Rasik, Kd Qh
+Combination: Rasik, Three Of A Kind ( Qh Qd Qc Ah Kd )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Boasts: Goeme, 2s Ad
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: Ks 9d 2h
+Turn: 8c
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Goeme, Th Kh
+Combination: Goeme, Two Pair ( Kh Ks 2h 2d Th )
+Shows: Rasik, 3c 9h
+Combination: Rasik, Two Pair ( 9h 9d 2h 2d Ks )
+Wins: Goeme, chips: 200
+Wins: Rasik, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Flop: 5h 3s 6s
+Turn: Ad
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 2s 2d
+Combination: Goeme, Straight ( 6s 5h 4d 3s 2s )
+Shows: Rasik, Ks Jh
+Combination: Rasik, High Card ( Ad Ks Jh 6s 5h )
+Wins: Goeme, chips: 300
+Quits: Rasik, chips: 0
+Ranking: Goeme, Place: 1, Score: 1000
+Reveal AI: Goeme, AI: Random
+Ranking: Rasik, Place: 2, Score: -1000
+Reveal AI: Rasik, AI: AIMyBot1
+
+Player Stats for Goeme, AI: Random
+General: deals: 35, actions: 3, preflop actions: 3
+Rounds Seen: flops: 17, turns: 17, rivers: 17, showdowns: 17
+Wins: total: 23, showdown: 5, bluff: 18
+Chips: won: 6600, lost: 5600, bought: 1000, forced bets: 5300
+Pre-Flop Stats: VP$IP: 0.0857143, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.294118
+
+
+Player Stats for Rasik, AI: AIMyBot1
+General: deals: 35, actions: 18, preflop actions: 18
+Rounds Seen: flops: 17, turns: 17, rivers: 17, showdowns: 17
+Wins: total: 16, showdown: 16, bluff: 0
+Chips: won: 4200, lost: 5200, bought: 1000, forced bets: 5200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.941176
+
+
+Date: 2022/10/25 13:45:47
+
+The game begins. The AI's of the players are: 
+Goeme: Random
+Rasik: AIMyBot1
+
+Joins: Goeme, chips: 1000
+Joins: Rasik, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Calls: Goeme
+DEBUG MESSAGE: INVALID ACTION FROM Rasik (2 0)
+Folds: Rasik
+Pot size: 400
+Boasts: Goeme, Td Kc
+Wins: Goeme, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Boasts: Goeme, Jc Kh
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Calls: Goeme
+DEBUG MESSAGE: INVALID ACTION FROM Rasik (2 0)
+Folds: Rasik
+Pot size: 400
+Boasts: Goeme, Th Jh
+Wins: Goeme, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Calls: Goeme
+DEBUG MESSAGE: INVALID ACTION FROM Rasik (2 0)
+Folds: Rasik
+Pot size: 400
+Wins: Goeme, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Flop: 9s 8h 9c
+Turn: Jd
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 2s 3c
+Combination: Goeme, Two Pair ( 9s 9c 8h 8c Jd )
+Shows: Rasik, 7h Kd
+Combination: Rasik, Two Pair ( 9s 9c 8h 8c Kd )
+Wins: Goeme, chips: 100
+Wins: Rasik, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 3h 2d Ac
+Turn: 4d
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 3s 2h
+Combination: Goeme, Two Pair ( 3s 3h 2h 2d Ac )
+Shows: Rasik, Jd Kh
+Combination: Rasik, High Card ( Ac Kh Jd 8c 4d )
+Wins: Goeme, chips: 200
+Wins: Rasik, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Flop: 8h Kc Tc
+Turn: 5s
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 3s 6c
+Combination: Goeme, High Card ( Kc Jd Tc 8h 6c )
+Shows: Rasik, Kd Ts
+Combination: Rasik, Two Pair ( Kd Kc Ts Tc Jd )
+Wins: Goeme, chips: 100
+Wins: Rasik, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 3h Qh Ah
+Turn: Tc
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 7c 8c
+Combination: Goeme, High Card ( Ah Qh Tc 8c 7c )
+Shows: Rasik, Jc 6h
+Combination: Rasik, Pair ( 6h 6d Ah Qh Jc )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 2s Qd Qh
+Turn: Th
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Goeme, Jh 7h
+Combination: Goeme, Pair ( Qd Qh Jh Th 7h )
+Shows: Rasik, Tc Ts
+Combination: Rasik, Full House ( Tc Ts Th Qd Qh )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Boasts: Goeme, 9c Qs
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: Qc Kc 5h
+Turn: 9s
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Goeme, Ad 5c
+Combination: Goeme, Pair ( 5c 5h Ad Kc Qc )
+Shows: Rasik, Kh 5d
+Combination: Rasik, Two Pair ( Kh Kc 5d 5h Qc )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: Ac 9h Tc
+Turn: 4h
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 2c Jc
+Combination: Goeme, Pair ( Tc Th Ac Jc 9h )
+Shows: Rasik, Td 7h
+Combination: Rasik, Three Of A Kind ( Td Tc Th Ac 9h )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Boasts: Goeme, Js Td
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: Kd 4h 8d
+Turn: 9d
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 6h Qh
+Combination: Goeme, High Card ( Ac Kd Qh 9d 8d )
+Shows: Rasik, Qc Qd
+Combination: Rasik, Pair ( Qc Qd Ac Kd 9d )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Boasts: Goeme, 5d Ah
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 6s Kh Ad
+Turn: 7d
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 3s Jc
+Combination: Goeme, High Card ( Ad Kh Jc Tc 7d )
+Shows: Rasik, Kd 3d
+Combination: Rasik, Pair ( Kd Kh Ad Tc 7d )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Boasts: Goeme, Th 9d
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 8h 9d 9h
+Turn: 7d
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 5s Kd
+Combination: Goeme, Pair ( 9d 9h Kd 8h 7d )
+Shows: Rasik, Ts Ah
+Combination: Rasik, Pair ( 9d 9h Ah Ts 8h )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 3h 4c 8h
+Turn: 4s
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 2c 2d
+Combination: Goeme, Two Pair ( 4c 4s 2c 2d Ts )
+Shows: Rasik, Jc Td
+Combination: Rasik, Two Pair ( Td Ts 4c 4s Jc )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 4d Qh Qs
+Turn: Qc
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 2c 7h
+Combination: Goeme, Three Of A Kind ( Qh Qs Qc 8s 7h )
+Shows: Rasik, 7d Jc
+Combination: Rasik, Three Of A Kind ( Qh Qs Qc Jc 8s )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: Ah Qs 9h
+Turn: 7d
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 3s 6d
+Combination: Goeme, Pair ( 9h 9s Ah Qs 7d )
+Shows: Rasik, 8d Qc
+Combination: Rasik, Two Pair ( Qc Qs 9h 9s Ah )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Boasts: Goeme, Jh Js
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 5c 9h 4s
+Turn: Tc
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Goeme, Js Ks
+Combination: Goeme, Pair ( 4s 4c Ks Js Tc )
+Shows: Rasik, 9d Qs
+Combination: Rasik, Two Pair ( 9d 9h 4s 4c Qs )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: 7h 8d Qd
+Turn: Ah
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 5c 4c
+Combination: Goeme, Pair ( Qd Qc Ah 8d 7h )
+Shows: Rasik, Kd Qh
+Combination: Rasik, Three Of A Kind ( Qh Qd Qc Ah Kd )
+Wins: Rasik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Folds: Rasik
+Pot size: 300
+Boasts: Goeme, 2s Ad
+Wins: Goeme, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeme
+Small Blind: Goeme, chips: 100
+Big Blind: Rasik, chips: 200
+Flop: Ks 9d 2h
+Turn: 8c
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Goeme, Th Kh
+Combination: Goeme, Two Pair ( Kh Ks 2h 2d Th )
+Shows: Rasik, 3c 9h
+Combination: Rasik, Two Pair ( 9h 9d 2h 2d Ks )
+Wins: Goeme, chips: 200
+Wins: Rasik, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rasik
+Small Blind: Rasik, chips: 100
+Big Blind: Goeme, chips: 200
+Flop: 5h 3s 6s
+Turn: Ad
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Goeme, 2s 2d
+Combination: Goeme, Straight ( 6s 5h 4d 3s 2s )
+Shows: Rasik, Ks Jh
+Combination: Rasik, High Card ( Ad Ks Jh 6s 5h )
+Wins: Goeme, chips: 300
+Quits: Rasik, chips: 0
+Ranking: Goeme, Place: 1, Score: 1000
+Reveal AI: Goeme, AI: Random
+Ranking: Rasik, Place: 2, Score: -1000
+Reveal AI: Rasik, AI: AIMyBot1
+
+Player Stats for Goeme, AI: Random
+General: deals: 35, actions: 3, preflop actions: 3
+Rounds Seen: flops: 17, turns: 17, rivers: 17, showdowns: 17
+Wins: total: 23, showdown: 5, bluff: 18
+Chips: won: 6600, lost: 5600, bought: 1000, forced bets: 5300
+Pre-Flop Stats: VP$IP: 0.0857143, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.294118
+
+
+Player Stats for Rasik, AI: AIMyBot1
+General: deals: 35, actions: 18, preflop actions: 18
+Rounds Seen: flops: 17, turns: 17, rivers: 17, showdowns: 17
+Wins: total: 16, showdown: 16, bluff: 0
+Chips: won: 4200, lost: 5200, bought: 1000, forced bets: 5200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.941176
+
+

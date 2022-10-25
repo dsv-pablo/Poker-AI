@@ -1,0 +1,284 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Noweerloe: Random
+Metoerlet: AIMyBot1
+
+Joins: Noweerloe, chips: 1000
+Joins: Metoerlet, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noweerloe
+Small Blind: Noweerloe, chips: 100
+Big Blind: Metoerlet, chips: 200
+Raises: Noweerloe, chips: 300
+Folds: Metoerlet
+Pot size: 700
+Boasts: Noweerloe, Ts 2d
+Wins: Noweerloe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metoerlet
+Small Blind: Metoerlet, chips: 100
+Big Blind: Noweerloe, chips: 200
+Folds: Metoerlet
+Pot size: 300
+Boasts: Noweerloe, 5s 9d
+Wins: Noweerloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noweerloe
+Small Blind: Noweerloe, chips: 100
+Big Blind: Metoerlet, chips: 200
+Calls: Noweerloe
+DEBUG MESSAGE: INVALID ACTION FROM Metoerlet (2 0)
+Folds: Metoerlet
+Pot size: 400
+Boasts: Noweerloe, 2s 2d
+Wins: Noweerloe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metoerlet
+Small Blind: Metoerlet, chips: 100
+Big Blind: Noweerloe, chips: 200
+Folds: Metoerlet
+Pot size: 300
+Wins: Noweerloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noweerloe
+Small Blind: Noweerloe, chips: 100
+Big Blind: Metoerlet, chips: 200
+Calls: Noweerloe
+DEBUG MESSAGE: INVALID ACTION FROM Metoerlet (2 0)
+Folds: Metoerlet
+Pot size: 400
+Boasts: Noweerloe, 2s 2d
+Wins: Noweerloe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metoerlet
+Small Blind: Metoerlet, chips: 100
+Big Blind: Noweerloe, chips: 200
+Folds: Metoerlet
+Pot size: 300
+Wins: Noweerloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noweerloe
+Small Blind: Noweerloe, chips: 100
+Big Blind: Metoerlet, chips: 100
+Flop: Qd Qc 8h
+Turn: 8s
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Noweerloe, Ah 6h
+Combination: Noweerloe, Two Pair ( Qd Qc 8h 8s Ah )
+Shows: Metoerlet, Kh 8c
+Combination: Metoerlet, Full House ( 8c 8h 8s Qd Qc )
+Wins: Metoerlet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metoerlet
+Small Blind: Metoerlet, chips: 100
+Big Blind: Noweerloe, chips: 200
+Folds: Metoerlet
+Pot size: 300
+Boasts: Noweerloe, 3d 9h
+Wins: Noweerloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noweerloe
+Small Blind: Noweerloe, chips: 100
+Big Blind: Metoerlet, chips: 100
+Flop: Qs 3c 8c
+Turn: 3s
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Noweerloe, 5d 2h
+Combination: Noweerloe, Pair ( 3c 3s Qs Ts 8c )
+Shows: Metoerlet, 6d As
+Combination: Metoerlet, Pair ( 3c 3s As Qs Ts )
+Wins: Metoerlet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metoerlet
+Small Blind: Metoerlet, chips: 100
+Big Blind: Noweerloe, chips: 200
+Folds: Metoerlet
+Pot size: 300
+Boasts: Noweerloe, 3s As
+Wins: Noweerloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noweerloe
+Small Blind: Noweerloe, chips: 100
+Big Blind: Metoerlet, chips: 100
+Flop: Kc 5h 8d
+Turn: 2s
+River: 6s
+Pot size: 200
+Showdown Reached
+Shows: Noweerloe, 5s 2h
+Combination: Noweerloe, Two Pair ( 5s 5h 2h 2s Kc )
+Shows: Metoerlet, 8h Ts
+Combination: Metoerlet, Pair ( 8h 8d Kc Ts 6s )
+Wins: Noweerloe, chips: 200
+Quits: Metoerlet, chips: 0
+Ranking: Noweerloe, Place: 1, Score: 1000
+Reveal AI: Noweerloe, AI: Random
+Ranking: Metoerlet, Place: 2, Score: -1000
+Reveal AI: Metoerlet, AI: AIMyBot1
+
+Player Stats for Metoerlet, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Noweerloe, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Date: 2022/10/25 13:46:34
+
+The game begins. The AI's of the players are: 
+Noweerloe: Random
+Metoerlet: AIMyBot1
+
+Joins: Noweerloe, chips: 1000
+Joins: Metoerlet, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noweerloe
+Small Blind: Noweerloe, chips: 100
+Big Blind: Metoerlet, chips: 200
+Raises: Noweerloe, chips: 300
+Folds: Metoerlet
+Pot size: 700
+Boasts: Noweerloe, Ts 2d
+Wins: Noweerloe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metoerlet
+Small Blind: Metoerlet, chips: 100
+Big Blind: Noweerloe, chips: 200
+Folds: Metoerlet
+Pot size: 300
+Boasts: Noweerloe, 5s 9d
+Wins: Noweerloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noweerloe
+Small Blind: Noweerloe, chips: 100
+Big Blind: Metoerlet, chips: 200
+Calls: Noweerloe
+DEBUG MESSAGE: INVALID ACTION FROM Metoerlet (2 0)
+Folds: Metoerlet
+Pot size: 400
+Boasts: Noweerloe, 2s 2d
+Wins: Noweerloe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metoerlet
+Small Blind: Metoerlet, chips: 100
+Big Blind: Noweerloe, chips: 200
+Folds: Metoerlet
+Pot size: 300
+Wins: Noweerloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noweerloe
+Small Blind: Noweerloe, chips: 100
+Big Blind: Metoerlet, chips: 200
+Calls: Noweerloe
+DEBUG MESSAGE: INVALID ACTION FROM Metoerlet (2 0)
+Folds: Metoerlet
+Pot size: 400
+Boasts: Noweerloe, 2s 2d
+Wins: Noweerloe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metoerlet
+Small Blind: Metoerlet, chips: 100
+Big Blind: Noweerloe, chips: 200
+Folds: Metoerlet
+Pot size: 300
+Wins: Noweerloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noweerloe
+Small Blind: Noweerloe, chips: 100
+Big Blind: Metoerlet, chips: 100
+Flop: Qd Qc 8h
+Turn: 8s
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Noweerloe, Ah 6h
+Combination: Noweerloe, Two Pair ( Qd Qc 8h 8s Ah )
+Shows: Metoerlet, Kh 8c
+Combination: Metoerlet, Full House ( 8c 8h 8s Qd Qc )
+Wins: Metoerlet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metoerlet
+Small Blind: Metoerlet, chips: 100
+Big Blind: Noweerloe, chips: 200
+Folds: Metoerlet
+Pot size: 300
+Boasts: Noweerloe, 3d 9h
+Wins: Noweerloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noweerloe
+Small Blind: Noweerloe, chips: 100
+Big Blind: Metoerlet, chips: 100
+Flop: Qs 3c 8c
+Turn: 3s
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Noweerloe, 5d 2h
+Combination: Noweerloe, Pair ( 3c 3s Qs Ts 8c )
+Shows: Metoerlet, 6d As
+Combination: Metoerlet, Pair ( 3c 3s As Qs Ts )
+Wins: Metoerlet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metoerlet
+Small Blind: Metoerlet, chips: 100
+Big Blind: Noweerloe, chips: 200
+Folds: Metoerlet
+Pot size: 300
+Boasts: Noweerloe, 3s As
+Wins: Noweerloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noweerloe
+Small Blind: Noweerloe, chips: 100
+Big Blind: Metoerlet, chips: 100
+Flop: Kc 5h 8d
+Turn: 2s
+River: 6s
+Pot size: 200
+Showdown Reached
+Shows: Noweerloe, 5s 2h
+Combination: Noweerloe, Two Pair ( 5s 5h 2h 2s Kc )
+Shows: Metoerlet, 8h Ts
+Combination: Metoerlet, Pair ( 8h 8d Kc Ts 6s )
+Wins: Noweerloe, chips: 200
+Quits: Metoerlet, chips: 0
+Ranking: Noweerloe, Place: 1, Score: 1000
+Reveal AI: Noweerloe, AI: Random
+Ranking: Metoerlet, Place: 2, Score: -1000
+Reveal AI: Metoerlet, AI: AIMyBot1
+
+Player Stats for Metoerlet, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Noweerloe, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+

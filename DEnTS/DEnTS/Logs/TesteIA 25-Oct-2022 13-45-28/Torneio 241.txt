@@ -1,0 +1,280 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Tulupiv: Random
+Weechanhoe: AIMyBot1
+
+Joins: Tulupiv, chips: 1000
+Joins: Weechanhoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulupiv
+Small Blind: Tulupiv, chips: 100
+Big Blind: Weechanhoe, chips: 200
+Raises: Tulupiv, chips: 300
+Folds: Weechanhoe
+Pot size: 700
+Wins: Tulupiv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weechanhoe
+Small Blind: Weechanhoe, chips: 100
+Big Blind: Tulupiv, chips: 200
+Folds: Weechanhoe
+Pot size: 300
+Wins: Tulupiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulupiv
+Small Blind: Tulupiv, chips: 100
+Big Blind: Weechanhoe, chips: 200
+Raises: Tulupiv, chips: 300
+Folds: Weechanhoe
+Pot size: 700
+Wins: Tulupiv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weechanhoe
+Small Blind: Weechanhoe, chips: 100
+Big Blind: Tulupiv, chips: 200
+Folds: Weechanhoe
+Pot size: 300
+Boasts: Tulupiv, Jh Th
+Wins: Tulupiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulupiv
+Small Blind: Tulupiv, chips: 100
+Big Blind: Weechanhoe, chips: 200
+Calls: Tulupiv
+DEBUG MESSAGE: INVALID ACTION FROM Weechanhoe (2 0)
+Folds: Weechanhoe
+Pot size: 400
+Boasts: Tulupiv, 7c Qd
+Wins: Tulupiv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weechanhoe
+Small Blind: Weechanhoe, chips: 100
+Big Blind: Tulupiv, chips: 200
+Folds: Weechanhoe
+Pot size: 300
+Boasts: Tulupiv, Jc 8d
+Wins: Tulupiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulupiv
+Small Blind: Tulupiv, chips: 100
+Big Blind: Weechanhoe, chips: 100
+Flop: 5c Th Jd
+Turn: Qh
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Tulupiv, Td 4c
+Combination: Tulupiv, Pair ( Td Th Qh Jd 5c )
+Shows: Weechanhoe, As Jc
+Combination: Weechanhoe, Pair ( Jc Jd As Qh Th )
+Wins: Weechanhoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weechanhoe
+Small Blind: Weechanhoe, chips: 100
+Big Blind: Tulupiv, chips: 200
+Folds: Weechanhoe
+Pot size: 300
+Boasts: Tulupiv, 6c 8s
+Wins: Tulupiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulupiv
+Small Blind: Tulupiv, chips: 100
+Big Blind: Weechanhoe, chips: 100
+Flop: As 6h 9h
+Turn: Js
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Tulupiv, 6c 8s
+Combination: Tulupiv, Pair ( 6c 6h As Js 9h )
+Shows: Weechanhoe, 9c 5c
+Combination: Weechanhoe, Pair ( 9c 9h As Js 7c )
+Wins: Weechanhoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weechanhoe
+Small Blind: Weechanhoe, chips: 100
+Big Blind: Tulupiv, chips: 200
+Folds: Weechanhoe
+Pot size: 300
+Boasts: Tulupiv, 5d 8h
+Wins: Tulupiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulupiv
+Small Blind: Tulupiv, chips: 100
+Big Blind: Weechanhoe, chips: 100
+Flop: 5h Kh Ad
+Turn: 6c
+River: Js
+Pot size: 200
+Showdown Reached
+Shows: Tulupiv, Jd 3s
+Combination: Tulupiv, Pair ( Jd Js Ad Kh 6c )
+Shows: Weechanhoe, Ts 5s
+Combination: Weechanhoe, Pair ( 5s 5h Ad Kh Js )
+Wins: Tulupiv, chips: 200
+Quits: Weechanhoe, chips: 0
+Ranking: Tulupiv, Place: 1, Score: 1000
+Reveal AI: Tulupiv, AI: Random
+Ranking: Weechanhoe, Place: 2, Score: -1000
+Reveal AI: Weechanhoe, AI: AIMyBot1
+
+Player Stats for Tulupiv, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Weechanhoe, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:45
+
+The game begins. The AI's of the players are: 
+Tulupiv: Random
+Weechanhoe: AIMyBot1
+
+Joins: Tulupiv, chips: 1000
+Joins: Weechanhoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulupiv
+Small Blind: Tulupiv, chips: 100
+Big Blind: Weechanhoe, chips: 200
+Raises: Tulupiv, chips: 300
+Folds: Weechanhoe
+Pot size: 700
+Wins: Tulupiv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weechanhoe
+Small Blind: Weechanhoe, chips: 100
+Big Blind: Tulupiv, chips: 200
+Folds: Weechanhoe
+Pot size: 300
+Wins: Tulupiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulupiv
+Small Blind: Tulupiv, chips: 100
+Big Blind: Weechanhoe, chips: 200
+Raises: Tulupiv, chips: 300
+Folds: Weechanhoe
+Pot size: 700
+Wins: Tulupiv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weechanhoe
+Small Blind: Weechanhoe, chips: 100
+Big Blind: Tulupiv, chips: 200
+Folds: Weechanhoe
+Pot size: 300
+Boasts: Tulupiv, Jh Th
+Wins: Tulupiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulupiv
+Small Blind: Tulupiv, chips: 100
+Big Blind: Weechanhoe, chips: 200
+Calls: Tulupiv
+DEBUG MESSAGE: INVALID ACTION FROM Weechanhoe (2 0)
+Folds: Weechanhoe
+Pot size: 400
+Boasts: Tulupiv, 7c Qd
+Wins: Tulupiv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weechanhoe
+Small Blind: Weechanhoe, chips: 100
+Big Blind: Tulupiv, chips: 200
+Folds: Weechanhoe
+Pot size: 300
+Boasts: Tulupiv, Jc 8d
+Wins: Tulupiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulupiv
+Small Blind: Tulupiv, chips: 100
+Big Blind: Weechanhoe, chips: 100
+Flop: 5c Th Jd
+Turn: Qh
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Tulupiv, Td 4c
+Combination: Tulupiv, Pair ( Td Th Qh Jd 5c )
+Shows: Weechanhoe, As Jc
+Combination: Weechanhoe, Pair ( Jc Jd As Qh Th )
+Wins: Weechanhoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weechanhoe
+Small Blind: Weechanhoe, chips: 100
+Big Blind: Tulupiv, chips: 200
+Folds: Weechanhoe
+Pot size: 300
+Boasts: Tulupiv, 6c 8s
+Wins: Tulupiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulupiv
+Small Blind: Tulupiv, chips: 100
+Big Blind: Weechanhoe, chips: 100
+Flop: As 6h 9h
+Turn: Js
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Tulupiv, 6c 8s
+Combination: Tulupiv, Pair ( 6c 6h As Js 9h )
+Shows: Weechanhoe, 9c 5c
+Combination: Weechanhoe, Pair ( 9c 9h As Js 7c )
+Wins: Weechanhoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weechanhoe
+Small Blind: Weechanhoe, chips: 100
+Big Blind: Tulupiv, chips: 200
+Folds: Weechanhoe
+Pot size: 300
+Boasts: Tulupiv, 5d 8h
+Wins: Tulupiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulupiv
+Small Blind: Tulupiv, chips: 100
+Big Blind: Weechanhoe, chips: 100
+Flop: 5h Kh Ad
+Turn: 6c
+River: Js
+Pot size: 200
+Showdown Reached
+Shows: Tulupiv, Jd 3s
+Combination: Tulupiv, Pair ( Jd Js Ad Kh 6c )
+Shows: Weechanhoe, Ts 5s
+Combination: Weechanhoe, Pair ( 5s 5h Ad Kh Js )
+Wins: Tulupiv, chips: 200
+Quits: Weechanhoe, chips: 0
+Ranking: Tulupiv, Place: 1, Score: 1000
+Reveal AI: Tulupiv, AI: Random
+Ranking: Weechanhoe, Place: 2, Score: -1000
+Reveal AI: Weechanhoe, AI: AIMyBot1
+
+Player Stats for Tulupiv, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Weechanhoe, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

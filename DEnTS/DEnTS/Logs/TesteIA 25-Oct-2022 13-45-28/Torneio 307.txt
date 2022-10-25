@@ -1,0 +1,366 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Sorleep: Random
+Voemiroet: AIMyBot1
+
+Joins: Sorleep, chips: 1000
+Joins: Voemiroet, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Raises: Sorleep, chips: 300
+Folds: Voemiroet
+Pot size: 700
+Wins: Sorleep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Raises: Sorleep, chips: 300
+Folds: Voemiroet
+Pot size: 700
+Wins: Sorleep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Folds: Sorleep
+Pot size: 300
+Boasts: Sorleep, 5c As
+Wins: Voemiroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Folds: Sorleep
+Pot size: 300
+Wins: Voemiroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Boasts: Sorleep, 9s Jh
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Folds: Sorleep
+Pot size: 300
+Wins: Voemiroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Folds: Sorleep
+Pot size: 300
+Boasts: Sorleep, 8d 8h
+Wins: Voemiroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Boasts: Sorleep, 4h 6d
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Folds: Sorleep
+Pot size: 300
+Wins: Voemiroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Boasts: Sorleep, 2h As
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Folds: Sorleep
+Pot size: 300
+Wins: Voemiroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Raises: Sorleep, chips: 300
+Folds: Voemiroet
+Pot size: 700
+Boasts: Sorleep, 9h 9c
+Wins: Sorleep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Boasts: Sorleep, 2s Jc
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 100
+Flop: Ts Kh Tc
+Turn: 2d
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Sorleep, Qs 8d
+Combination: Sorleep, Pair ( Ts Tc As Kh Qs )
+Shows: Voemiroet, 4d 7c
+Combination: Voemiroet, Pair ( Ts Tc As Kh 7c )
+Wins: Sorleep, chips: 200
+Quits: Voemiroet, chips: 0
+Ranking: Sorleep, Place: 1, Score: 1000
+Reveal AI: Sorleep, AI: Random
+Ranking: Voemiroet, Place: 2, Score: -1000
+Reveal AI: Voemiroet, AI: AIMyBot1
+
+Player Stats for Sorleep, AI: Random
+General: deals: 19, actions: 9, preflop actions: 9
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 13, showdown: 1, bluff: 12
+Chips: won: 5000, lost: 4000, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0.157895, 3Bet: 0.157895
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Voemiroet, AI: AIMyBot1
+General: deals: 19, actions: 12, preflop actions: 12
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 0, bluff: 6
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:49
+
+The game begins. The AI's of the players are: 
+Sorleep: Random
+Voemiroet: AIMyBot1
+
+Joins: Sorleep, chips: 1000
+Joins: Voemiroet, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Raises: Sorleep, chips: 300
+Folds: Voemiroet
+Pot size: 700
+Wins: Sorleep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Raises: Sorleep, chips: 300
+Folds: Voemiroet
+Pot size: 700
+Wins: Sorleep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Folds: Sorleep
+Pot size: 300
+Boasts: Sorleep, 5c As
+Wins: Voemiroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Folds: Sorleep
+Pot size: 300
+Wins: Voemiroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Boasts: Sorleep, 9s Jh
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Folds: Sorleep
+Pot size: 300
+Wins: Voemiroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Folds: Sorleep
+Pot size: 300
+Boasts: Sorleep, 8d 8h
+Wins: Voemiroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Boasts: Sorleep, 4h 6d
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Folds: Sorleep
+Pot size: 300
+Wins: Voemiroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Boasts: Sorleep, 2h As
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Folds: Sorleep
+Pot size: 300
+Wins: Voemiroet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 200
+Raises: Sorleep, chips: 300
+Folds: Voemiroet
+Pot size: 700
+Boasts: Sorleep, 9h 9c
+Wins: Sorleep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voemiroet
+Small Blind: Voemiroet, chips: 100
+Big Blind: Sorleep, chips: 200
+Folds: Voemiroet
+Pot size: 300
+Boasts: Sorleep, 2s Jc
+Wins: Sorleep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sorleep
+Small Blind: Sorleep, chips: 100
+Big Blind: Voemiroet, chips: 100
+Flop: Ts Kh Tc
+Turn: 2d
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Sorleep, Qs 8d
+Combination: Sorleep, Pair ( Ts Tc As Kh Qs )
+Shows: Voemiroet, 4d 7c
+Combination: Voemiroet, Pair ( Ts Tc As Kh 7c )
+Wins: Sorleep, chips: 200
+Quits: Voemiroet, chips: 0
+Ranking: Sorleep, Place: 1, Score: 1000
+Reveal AI: Sorleep, AI: Random
+Ranking: Voemiroet, Place: 2, Score: -1000
+Reveal AI: Voemiroet, AI: AIMyBot1
+
+Player Stats for Sorleep, AI: Random
+General: deals: 19, actions: 9, preflop actions: 9
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 13, showdown: 1, bluff: 12
+Chips: won: 5000, lost: 4000, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0.157895, 3Bet: 0.157895
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Voemiroet, AI: AIMyBot1
+General: deals: 19, actions: 12, preflop actions: 12
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 0, bluff: 6
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

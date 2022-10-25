@@ -1,0 +1,326 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Veepa: Random
+Roelu: AIMyBot1
+
+Joins: Veepa, chips: 1000
+Joins: Roelu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roelu
+Small Blind: Roelu, chips: 100
+Big Blind: Veepa, chips: 200
+Folds: Roelu
+Pot size: 300
+Wins: Veepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veepa
+Small Blind: Veepa, chips: 100
+Big Blind: Roelu, chips: 200
+Folds: Veepa
+Pot size: 300
+Boasts: Veepa, Kd Qd
+Wins: Roelu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roelu
+Small Blind: Roelu, chips: 100
+Big Blind: Veepa, chips: 200
+Folds: Roelu
+Pot size: 300
+Wins: Veepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veepa
+Small Blind: Veepa, chips: 100
+Big Blind: Roelu, chips: 200
+Calls: Veepa
+DEBUG MESSAGE: INVALID ACTION FROM Roelu (2 0)
+Folds: Roelu
+Pot size: 400
+Boasts: Veepa, Kd 7h
+Wins: Veepa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roelu
+Small Blind: Roelu, chips: 100
+Big Blind: Veepa, chips: 200
+Folds: Roelu
+Pot size: 300
+Wins: Veepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veepa
+Small Blind: Veepa, chips: 100
+Big Blind: Roelu, chips: 200
+Calls: Veepa
+DEBUG MESSAGE: INVALID ACTION FROM Roelu (2 0)
+Folds: Roelu
+Pot size: 400
+Boasts: Veepa, As Ks
+Wins: Veepa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roelu
+Small Blind: Roelu, chips: 100
+Big Blind: Veepa, chips: 200
+Folds: Roelu
+Pot size: 300
+Wins: Veepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veepa
+Small Blind: Veepa, chips: 100
+Big Blind: Roelu, chips: 200
+Raises: Veepa, chips: 300
+Folds: Roelu
+Pot size: 700
+Boasts: Veepa, 7d Qc
+Wins: Veepa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roelu
+Small Blind: Roelu, chips: 100
+Big Blind: Veepa, chips: 200
+Flop: 9d 9h 5h
+Turn: 3c
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Veepa, Jh 4h
+Combination: Veepa, Three Of A Kind ( 9d 9h 9c Jh 5h )
+Shows: Roelu, Qd 7s
+Combination: Roelu, Three Of A Kind ( 9d 9h 9c Qd 7s )
+Wins: Veepa, chips: 100
+Wins: Roelu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veepa
+Small Blind: Veepa, chips: 100
+Big Blind: Roelu, chips: 200
+Flop: 8h 2h Qs
+Turn: Kh
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Veepa, 7d Js
+Combination: Veepa, High Card ( Kh Qs Js 8h 7d )
+Shows: Roelu, 9s 2c
+Combination: Roelu, Pair ( 2c 2h Kh Qs 9s )
+Wins: Roelu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roelu
+Small Blind: Roelu, chips: 100
+Big Blind: Veepa, chips: 200
+Folds: Roelu
+Pot size: 300
+Wins: Veepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veepa
+Small Blind: Veepa, chips: 100
+Big Blind: Roelu, chips: 200
+Flop: Jh Th Ad
+Turn: 2d
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Veepa, 4s 2s
+Combination: Veepa, Pair ( 2s 2d Ad Jh Th )
+Shows: Roelu, 9c 6d
+Combination: Roelu, High Card ( Ad Jh Th 9c 6d )
+Wins: Veepa, chips: 200
+Wins: Roelu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roelu
+Small Blind: Roelu, chips: 100
+Big Blind: Veepa, chips: 200
+Flop: 9c 5s 3d
+Turn: Qh
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Veepa, 7h 4h
+Combination: Veepa, Straight ( 7h 6s 5s 4h 3d )
+Shows: Roelu, 8s Ac
+Combination: Roelu, High Card ( Ac Qh 9c 8s 6s )
+Wins: Veepa, chips: 300
+Quits: Roelu, chips: 0
+Ranking: Veepa, Place: 1, Score: 1000
+Reveal AI: Veepa, AI: Random
+Ranking: Roelu, Place: 2, Score: -1000
+Reveal AI: Roelu, AI: AIMyBot1
+
+Player Stats for Roelu, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Veepa, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:45:30
+
+The game begins. The AI's of the players are: 
+Veepa: Random
+Roelu: AIMyBot1
+
+Joins: Veepa, chips: 1000
+Joins: Roelu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roelu
+Small Blind: Roelu, chips: 100
+Big Blind: Veepa, chips: 200
+Folds: Roelu
+Pot size: 300
+Wins: Veepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veepa
+Small Blind: Veepa, chips: 100
+Big Blind: Roelu, chips: 200
+Folds: Veepa
+Pot size: 300
+Boasts: Veepa, Kd Qd
+Wins: Roelu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roelu
+Small Blind: Roelu, chips: 100
+Big Blind: Veepa, chips: 200
+Folds: Roelu
+Pot size: 300
+Wins: Veepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veepa
+Small Blind: Veepa, chips: 100
+Big Blind: Roelu, chips: 200
+Calls: Veepa
+DEBUG MESSAGE: INVALID ACTION FROM Roelu (2 0)
+Folds: Roelu
+Pot size: 400
+Boasts: Veepa, Kd 7h
+Wins: Veepa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roelu
+Small Blind: Roelu, chips: 100
+Big Blind: Veepa, chips: 200
+Folds: Roelu
+Pot size: 300
+Wins: Veepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veepa
+Small Blind: Veepa, chips: 100
+Big Blind: Roelu, chips: 200
+Calls: Veepa
+DEBUG MESSAGE: INVALID ACTION FROM Roelu (2 0)
+Folds: Roelu
+Pot size: 400
+Boasts: Veepa, As Ks
+Wins: Veepa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roelu
+Small Blind: Roelu, chips: 100
+Big Blind: Veepa, chips: 200
+Folds: Roelu
+Pot size: 300
+Wins: Veepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veepa
+Small Blind: Veepa, chips: 100
+Big Blind: Roelu, chips: 200
+Raises: Veepa, chips: 300
+Folds: Roelu
+Pot size: 700
+Boasts: Veepa, 7d Qc
+Wins: Veepa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roelu
+Small Blind: Roelu, chips: 100
+Big Blind: Veepa, chips: 200
+Flop: 9d 9h 5h
+Turn: 3c
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Veepa, Jh 4h
+Combination: Veepa, Three Of A Kind ( 9d 9h 9c Jh 5h )
+Shows: Roelu, Qd 7s
+Combination: Roelu, Three Of A Kind ( 9d 9h 9c Qd 7s )
+Wins: Veepa, chips: 100
+Wins: Roelu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veepa
+Small Blind: Veepa, chips: 100
+Big Blind: Roelu, chips: 200
+Flop: 8h 2h Qs
+Turn: Kh
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Veepa, 7d Js
+Combination: Veepa, High Card ( Kh Qs Js 8h 7d )
+Shows: Roelu, 9s 2c
+Combination: Roelu, Pair ( 2c 2h Kh Qs 9s )
+Wins: Roelu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roelu
+Small Blind: Roelu, chips: 100
+Big Blind: Veepa, chips: 200
+Folds: Roelu
+Pot size: 300
+Wins: Veepa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veepa
+Small Blind: Veepa, chips: 100
+Big Blind: Roelu, chips: 200
+Flop: Jh Th Ad
+Turn: 2d
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Veepa, 4s 2s
+Combination: Veepa, Pair ( 2s 2d Ad Jh Th )
+Shows: Roelu, 9c 6d
+Combination: Roelu, High Card ( Ad Jh Th 9c 6d )
+Wins: Veepa, chips: 200
+Wins: Roelu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roelu
+Small Blind: Roelu, chips: 100
+Big Blind: Veepa, chips: 200
+Flop: 9c 5s 3d
+Turn: Qh
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Veepa, 7h 4h
+Combination: Veepa, Straight ( 7h 6s 5s 4h 3d )
+Shows: Roelu, 8s Ac
+Combination: Roelu, High Card ( Ac Qh 9c 8s 6s )
+Wins: Veepa, chips: 300
+Quits: Roelu, chips: 0
+Ranking: Veepa, Place: 1, Score: 1000
+Reveal AI: Veepa, AI: Random
+Ranking: Roelu, Place: 2, Score: -1000
+Reveal AI: Roelu, AI: AIMyBot1
+
+Player Stats for Roelu, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Veepa, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

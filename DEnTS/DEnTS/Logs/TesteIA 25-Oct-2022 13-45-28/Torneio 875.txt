@@ -1,0 +1,532 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Dadut: AIMyBot1
+Geeboeho: Random
+
+Joins: Dadut, chips: 1000
+Joins: Geeboeho, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Boasts: Geeboeho, Qd 7d
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Folds: Geeboeho
+Pot size: 300
+Wins: Dadut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Raises: Geeboeho, chips: 300
+Folds: Dadut
+Pot size: 700
+Wins: Geeboeho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Boasts: Geeboeho, 9d 2d
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Folds: Geeboeho
+Pot size: 300
+Boasts: Geeboeho, 9h 7c
+Wins: Dadut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Raises: Geeboeho, chips: 300
+Folds: Dadut
+Pot size: 700
+Wins: Geeboeho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Folds: Geeboeho
+Pot size: 300
+Boasts: Geeboeho, 5c 4c
+Wins: Dadut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Boasts: Geeboeho, 9d Jd
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Raises: Geeboeho, chips: 300
+Folds: Dadut
+Pot size: 700
+Boasts: Geeboeho, Ad Ts
+Wins: Geeboeho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Flop: 9s Qd 6c
+Turn: Ts
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Dadut, Js Qs
+Combination: Dadut, Pair ( Qs Qd Js Ts 9s )
+Shows: Geeboeho, 2d 5c
+Combination: Geeboeho, Pair ( 5c 5d Qd Ts 9s )
+Wins: Dadut, chips: 200
+Wins: Geeboeho, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Flop: Ah 4d Td
+Turn: As
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Dadut, Jh 4c
+Combination: Dadut, Two Pair ( Ah As 4c 4d Jh )
+Shows: Geeboeho, Qs 8c
+Combination: Geeboeho, Pair ( Ah As Qs Td 8c )
+Wins: Dadut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Boasts: Geeboeho, 4s 4c
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Flop: 9c 8d 4c
+Turn: Qs
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Dadut, 4d 8s
+Combination: Dadut, Two Pair ( 8s 8d 4d 4c Qs )
+Shows: Geeboeho, 6d Qd
+Combination: Geeboeho, Pair ( Qd Qs Jh 9c 8d )
+Wins: Dadut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Boasts: Geeboeho, Jd 4d
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Flop: 5h 4d 6d
+Turn: 9c
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Dadut, Qc 6h
+Combination: Dadut, Pair ( 6h 6d Qc 9c 5h )
+Shows: Geeboeho, 4s 3s
+Combination: Geeboeho, Straight ( 6d 5h 4s 3s 2h )
+Wins: Dadut, chips: 100
+Wins: Geeboeho, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Flop: Kh 6h Td
+Turn: 3s
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Dadut, 4c 6d
+Combination: Dadut, Pair ( 6d 6h Kh Td 5c )
+Shows: Geeboeho, Jd Qd
+Combination: Geeboeho, High Card ( Kh Qd Jd Td 6h )
+Wins: Dadut, chips: 200
+Wins: Geeboeho, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Flop: 9c Qh Jh
+Turn: Jc
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Dadut, Kh 5d
+Combination: Dadut, Two Pair ( Qh Qc Jh Jc Kh )
+Shows: Geeboeho, 6h Ts
+Combination: Geeboeho, Two Pair ( Qh Qc Jh Jc Ts )
+Wins: Dadut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Boasts: Geeboeho, Jd Jh
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Flop: Qc 5d 6s
+Turn: Jc
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Dadut, 7s Ac
+Combination: Dadut, High Card ( Ac Qc Jc 7s 6s )
+Shows: Geeboeho, Kh Qd
+Combination: Geeboeho, Pair ( Qd Qc Kh Jc 6s )
+Wins: Dadut, chips: 100
+Wins: Geeboeho, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Flop: 9h 5d 9s
+Turn: 8h
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Dadut, 2c 7h
+Combination: Dadut, Three Of A Kind ( 9h 9s 9c 8h 7h )
+Shows: Geeboeho, Ts Ks
+Combination: Geeboeho, Three Of A Kind ( 9h 9s 9c Ks Ts )
+Wins: Geeboeho, chips: 300
+Quits: Dadut, chips: 0
+Ranking: Geeboeho, Place: 1, Score: 1000
+Reveal AI: Geeboeho, AI: Random
+Ranking: Dadut, Place: 2, Score: -1000
+Reveal AI: Dadut, AI: AIMyBot1
+
+Player Stats for Dadut, AI: AIMyBot1
+General: deals: 23, actions: 12, preflop actions: 12
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 10, showdown: 7, bluff: 3
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Geeboeho, AI: Random
+General: deals: 23, actions: 6, preflop actions: 6
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 17, showdown: 5, bluff: 12
+Chips: won: 5700, lost: 4700, bought: 1000, forced bets: 3500
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.130435, 3Bet: 0.130435
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+
+Date: 2022/10/25 13:46:27
+
+The game begins. The AI's of the players are: 
+Dadut: AIMyBot1
+Geeboeho: Random
+
+Joins: Dadut, chips: 1000
+Joins: Geeboeho, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Boasts: Geeboeho, Qd 7d
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Folds: Geeboeho
+Pot size: 300
+Wins: Dadut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Raises: Geeboeho, chips: 300
+Folds: Dadut
+Pot size: 700
+Wins: Geeboeho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Boasts: Geeboeho, 9d 2d
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Folds: Geeboeho
+Pot size: 300
+Boasts: Geeboeho, 9h 7c
+Wins: Dadut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Raises: Geeboeho, chips: 300
+Folds: Dadut
+Pot size: 700
+Wins: Geeboeho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Folds: Geeboeho
+Pot size: 300
+Boasts: Geeboeho, 5c 4c
+Wins: Dadut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Boasts: Geeboeho, 9d Jd
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Raises: Geeboeho, chips: 300
+Folds: Dadut
+Pot size: 700
+Boasts: Geeboeho, Ad Ts
+Wins: Geeboeho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Flop: 9s Qd 6c
+Turn: Ts
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Dadut, Js Qs
+Combination: Dadut, Pair ( Qs Qd Js Ts 9s )
+Shows: Geeboeho, 2d 5c
+Combination: Geeboeho, Pair ( 5c 5d Qd Ts 9s )
+Wins: Dadut, chips: 200
+Wins: Geeboeho, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Flop: Ah 4d Td
+Turn: As
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Dadut, Jh 4c
+Combination: Dadut, Two Pair ( Ah As 4c 4d Jh )
+Shows: Geeboeho, Qs 8c
+Combination: Geeboeho, Pair ( Ah As Qs Td 8c )
+Wins: Dadut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Boasts: Geeboeho, 4s 4c
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Flop: 9c 8d 4c
+Turn: Qs
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Dadut, 4d 8s
+Combination: Dadut, Two Pair ( 8s 8d 4d 4c Qs )
+Shows: Geeboeho, 6d Qd
+Combination: Geeboeho, Pair ( Qd Qs Jh 9c 8d )
+Wins: Dadut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Boasts: Geeboeho, Jd 4d
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Flop: 5h 4d 6d
+Turn: 9c
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Dadut, Qc 6h
+Combination: Dadut, Pair ( 6h 6d Qc 9c 5h )
+Shows: Geeboeho, 4s 3s
+Combination: Geeboeho, Straight ( 6d 5h 4s 3s 2h )
+Wins: Dadut, chips: 100
+Wins: Geeboeho, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Flop: Kh 6h Td
+Turn: 3s
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Dadut, 4c 6d
+Combination: Dadut, Pair ( 6d 6h Kh Td 5c )
+Shows: Geeboeho, Jd Qd
+Combination: Geeboeho, High Card ( Kh Qd Jd Td 6h )
+Wins: Dadut, chips: 200
+Wins: Geeboeho, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Flop: 9c Qh Jh
+Turn: Jc
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Dadut, Kh 5d
+Combination: Dadut, Two Pair ( Qh Qc Jh Jc Kh )
+Shows: Geeboeho, 6h Ts
+Combination: Geeboeho, Two Pair ( Qh Qc Jh Jc Ts )
+Wins: Dadut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Folds: Dadut
+Pot size: 300
+Boasts: Geeboeho, Jd Jh
+Wins: Geeboeho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geeboeho
+Small Blind: Geeboeho, chips: 100
+Big Blind: Dadut, chips: 200
+Flop: Qc 5d 6s
+Turn: Jc
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Dadut, 7s Ac
+Combination: Dadut, High Card ( Ac Qc Jc 7s 6s )
+Shows: Geeboeho, Kh Qd
+Combination: Geeboeho, Pair ( Qd Qc Kh Jc 6s )
+Wins: Dadut, chips: 100
+Wins: Geeboeho, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadut
+Small Blind: Dadut, chips: 100
+Big Blind: Geeboeho, chips: 200
+Flop: 9h 5d 9s
+Turn: 8h
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Dadut, 2c 7h
+Combination: Dadut, Three Of A Kind ( 9h 9s 9c 8h 7h )
+Shows: Geeboeho, Ts Ks
+Combination: Geeboeho, Three Of A Kind ( 9h 9s 9c Ks Ts )
+Wins: Geeboeho, chips: 300
+Quits: Dadut, chips: 0
+Ranking: Geeboeho, Place: 1, Score: 1000
+Reveal AI: Geeboeho, AI: Random
+Ranking: Dadut, Place: 2, Score: -1000
+Reveal AI: Dadut, AI: AIMyBot1
+
+Player Stats for Dadut, AI: AIMyBot1
+General: deals: 23, actions: 12, preflop actions: 12
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 10, showdown: 7, bluff: 3
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Geeboeho, AI: Random
+General: deals: 23, actions: 6, preflop actions: 6
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 17, showdown: 5, bluff: 12
+Chips: won: 5700, lost: 4700, bought: 1000, forced bets: 3500
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.130435, 3Bet: 0.130435
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+

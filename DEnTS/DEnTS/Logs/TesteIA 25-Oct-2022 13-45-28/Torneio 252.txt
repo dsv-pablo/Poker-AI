@@ -1,0 +1,222 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Tola: AIMyBot1
+Punhe: Random
+
+Joins: Tola, chips: 1000
+Joins: Punhe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tola
+Small Blind: Tola, chips: 100
+Big Blind: Punhe, chips: 200
+Folds: Tola
+Pot size: 300
+Boasts: Punhe, 6c 5d
+Wins: Punhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punhe
+Small Blind: Punhe, chips: 100
+Big Blind: Tola, chips: 200
+Calls: Punhe
+DEBUG MESSAGE: INVALID ACTION FROM Tola (2 0)
+Folds: Tola
+Pot size: 400
+Wins: Punhe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tola
+Small Blind: Tola, chips: 100
+Big Blind: Punhe, chips: 200
+Folds: Tola
+Pot size: 300
+Wins: Punhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punhe
+Small Blind: Punhe, chips: 100
+Big Blind: Tola, chips: 200
+Raises: Punhe, chips: 300
+Folds: Tola
+Pot size: 700
+Boasts: Punhe, Td 4s
+Wins: Punhe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tola
+Small Blind: Tola, chips: 100
+Big Blind: Punhe, chips: 200
+Folds: Tola
+Pot size: 300
+Wins: Punhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punhe
+Small Blind: Punhe, chips: 100
+Big Blind: Tola, chips: 200
+Folds: Punhe
+Pot size: 300
+Wins: Tola, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tola
+Small Blind: Tola, chips: 100
+Big Blind: Punhe, chips: 200
+Folds: Tola
+Pot size: 300
+Boasts: Punhe, 2c Qd
+Wins: Punhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punhe
+Small Blind: Punhe, chips: 100
+Big Blind: Tola, chips: 200
+Raises: Punhe, chips: 300
+Folds: Tola
+Pot size: 700
+Boasts: Punhe, Td Ac
+Wins: Punhe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tola
+Small Blind: Tola, chips: 100
+Big Blind: Punhe, chips: 200
+Flop: 8h Th 5d
+Turn: 7d
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Tola, 6c Jh
+Combination: Tola, High Card ( Kh Jh Th 8h 7d )
+Shows: Punhe, Qd 9s
+Combination: Punhe, High Card ( Kh Qd Th 9s 8h )
+Wins: Punhe, chips: 300
+Quits: Tola, chips: 0
+Ranking: Punhe, Place: 1, Score: 1000
+Reveal AI: Punhe, AI: Random
+Ranking: Tola, Place: 2, Score: -1000
+Reveal AI: Tola, AI: AIMyBot1
+
+Player Stats for Punhe, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Tola, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:46
+
+The game begins. The AI's of the players are: 
+Tola: AIMyBot1
+Punhe: Random
+
+Joins: Tola, chips: 1000
+Joins: Punhe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tola
+Small Blind: Tola, chips: 100
+Big Blind: Punhe, chips: 200
+Folds: Tola
+Pot size: 300
+Boasts: Punhe, 6c 5d
+Wins: Punhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punhe
+Small Blind: Punhe, chips: 100
+Big Blind: Tola, chips: 200
+Calls: Punhe
+DEBUG MESSAGE: INVALID ACTION FROM Tola (2 0)
+Folds: Tola
+Pot size: 400
+Wins: Punhe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tola
+Small Blind: Tola, chips: 100
+Big Blind: Punhe, chips: 200
+Folds: Tola
+Pot size: 300
+Wins: Punhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punhe
+Small Blind: Punhe, chips: 100
+Big Blind: Tola, chips: 200
+Raises: Punhe, chips: 300
+Folds: Tola
+Pot size: 700
+Boasts: Punhe, Td 4s
+Wins: Punhe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tola
+Small Blind: Tola, chips: 100
+Big Blind: Punhe, chips: 200
+Folds: Tola
+Pot size: 300
+Wins: Punhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punhe
+Small Blind: Punhe, chips: 100
+Big Blind: Tola, chips: 200
+Folds: Punhe
+Pot size: 300
+Wins: Tola, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tola
+Small Blind: Tola, chips: 100
+Big Blind: Punhe, chips: 200
+Folds: Tola
+Pot size: 300
+Boasts: Punhe, 2c Qd
+Wins: Punhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Punhe
+Small Blind: Punhe, chips: 100
+Big Blind: Tola, chips: 200
+Raises: Punhe, chips: 300
+Folds: Tola
+Pot size: 700
+Boasts: Punhe, Td Ac
+Wins: Punhe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tola
+Small Blind: Tola, chips: 100
+Big Blind: Punhe, chips: 200
+Flop: 8h Th 5d
+Turn: 7d
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Tola, 6c Jh
+Combination: Tola, High Card ( Kh Jh Th 8h 7d )
+Shows: Punhe, Qd 9s
+Combination: Punhe, High Card ( Kh Qd Th 9s 8h )
+Wins: Punhe, chips: 300
+Quits: Tola, chips: 0
+Ranking: Punhe, Place: 1, Score: 1000
+Reveal AI: Punhe, AI: Random
+Ranking: Tola, Place: 2, Score: -1000
+Reveal AI: Tola, AI: AIMyBot1
+
+Player Stats for Punhe, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Tola, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

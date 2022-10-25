@@ -1,0 +1,224 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hoelo: AIMyBot1
+Naka: Random
+
+Joins: Hoelo, chips: 1000
+Joins: Naka, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naka
+Small Blind: Naka, chips: 100
+Big Blind: Hoelo, chips: 200
+Raises: Naka, chips: 300
+Folds: Hoelo
+Pot size: 700
+Boasts: Naka, Ac 3d
+Wins: Naka, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoelo
+Small Blind: Hoelo, chips: 100
+Big Blind: Naka, chips: 200
+Folds: Hoelo
+Pot size: 300
+Boasts: Naka, 5c Jh
+Wins: Naka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naka
+Small Blind: Naka, chips: 100
+Big Blind: Hoelo, chips: 200
+Calls: Naka
+DEBUG MESSAGE: INVALID ACTION FROM Hoelo (2 0)
+Folds: Hoelo
+Pot size: 400
+Wins: Naka, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoelo
+Small Blind: Hoelo, chips: 100
+Big Blind: Naka, chips: 200
+Folds: Hoelo
+Pot size: 300
+Wins: Naka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naka
+Small Blind: Naka, chips: 100
+Big Blind: Hoelo, chips: 200
+Folds: Naka
+Pot size: 300
+Wins: Hoelo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoelo
+Small Blind: Hoelo, chips: 100
+Big Blind: Naka, chips: 200
+Folds: Hoelo
+Pot size: 300
+Wins: Naka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naka
+Small Blind: Naka, chips: 100
+Big Blind: Hoelo, chips: 200
+Calls: Naka
+DEBUG MESSAGE: INVALID ACTION FROM Hoelo (2 0)
+Folds: Hoelo
+Pot size: 400
+Boasts: Naka, Td 3h
+Wins: Naka, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoelo
+Small Blind: Hoelo, chips: 100
+Big Blind: Naka, chips: 200
+Folds: Hoelo
+Pot size: 300
+Boasts: Naka, 9s Ts
+Wins: Naka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naka
+Small Blind: Naka, chips: 100
+Big Blind: Hoelo, chips: 100
+Flop: 7s 9s 4d
+Turn: 5s
+River: 6h
+Pot size: 200
+Showdown Reached
+Shows: Hoelo, Js 7c
+Combination: Hoelo, Pair ( 7c 7s Js 9s 6h )
+Shows: Naka, 9c 7d
+Combination: Naka, Two Pair ( 9c 9s 7d 7s 6h )
+Wins: Naka, chips: 200
+Quits: Hoelo, chips: 0
+Ranking: Naka, Place: 1, Score: 1000
+Reveal AI: Naka, AI: Random
+Ranking: Hoelo, Place: 2, Score: -1000
+Reveal AI: Hoelo, AI: AIMyBot1
+
+Player Stats for Hoelo, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Naka, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:01
+
+The game begins. The AI's of the players are: 
+Hoelo: AIMyBot1
+Naka: Random
+
+Joins: Hoelo, chips: 1000
+Joins: Naka, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naka
+Small Blind: Naka, chips: 100
+Big Blind: Hoelo, chips: 200
+Raises: Naka, chips: 300
+Folds: Hoelo
+Pot size: 700
+Boasts: Naka, Ac 3d
+Wins: Naka, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoelo
+Small Blind: Hoelo, chips: 100
+Big Blind: Naka, chips: 200
+Folds: Hoelo
+Pot size: 300
+Boasts: Naka, 5c Jh
+Wins: Naka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naka
+Small Blind: Naka, chips: 100
+Big Blind: Hoelo, chips: 200
+Calls: Naka
+DEBUG MESSAGE: INVALID ACTION FROM Hoelo (2 0)
+Folds: Hoelo
+Pot size: 400
+Wins: Naka, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoelo
+Small Blind: Hoelo, chips: 100
+Big Blind: Naka, chips: 200
+Folds: Hoelo
+Pot size: 300
+Wins: Naka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naka
+Small Blind: Naka, chips: 100
+Big Blind: Hoelo, chips: 200
+Folds: Naka
+Pot size: 300
+Wins: Hoelo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoelo
+Small Blind: Hoelo, chips: 100
+Big Blind: Naka, chips: 200
+Folds: Hoelo
+Pot size: 300
+Wins: Naka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naka
+Small Blind: Naka, chips: 100
+Big Blind: Hoelo, chips: 200
+Calls: Naka
+DEBUG MESSAGE: INVALID ACTION FROM Hoelo (2 0)
+Folds: Hoelo
+Pot size: 400
+Boasts: Naka, Td 3h
+Wins: Naka, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoelo
+Small Blind: Hoelo, chips: 100
+Big Blind: Naka, chips: 200
+Folds: Hoelo
+Pot size: 300
+Boasts: Naka, 9s Ts
+Wins: Naka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naka
+Small Blind: Naka, chips: 100
+Big Blind: Hoelo, chips: 100
+Flop: 7s 9s 4d
+Turn: 5s
+River: 6h
+Pot size: 200
+Showdown Reached
+Shows: Hoelo, Js 7c
+Combination: Hoelo, Pair ( 7c 7s Js 9s 6h )
+Shows: Naka, 9c 7d
+Combination: Naka, Two Pair ( 9c 9s 7d 7s 6h )
+Wins: Naka, chips: 200
+Quits: Hoelo, chips: 0
+Ranking: Naka, Place: 1, Score: 1000
+Reveal AI: Naka, AI: Random
+Ranking: Hoelo, Place: 2, Score: -1000
+Reveal AI: Hoelo, AI: AIMyBot1
+
+Player Stats for Hoelo, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Naka, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

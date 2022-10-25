@@ -1,0 +1,368 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Chebeet: Random
+Jee: AIMyBot1
+
+Joins: Chebeet, chips: 1000
+Joins: Jee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebeet
+Small Blind: Chebeet, chips: 100
+Big Blind: Jee, chips: 200
+Calls: Chebeet
+DEBUG MESSAGE: INVALID ACTION FROM Jee (2 0)
+Folds: Jee
+Pot size: 400
+Boasts: Chebeet, 4c Ah
+Wins: Chebeet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Chebeet, chips: 200
+Folds: Jee
+Pot size: 300
+Wins: Chebeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebeet
+Small Blind: Chebeet, chips: 100
+Big Blind: Jee, chips: 200
+Raises: Chebeet, chips: 300
+Folds: Jee
+Pot size: 700
+Boasts: Chebeet, 8c 7h
+Wins: Chebeet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Chebeet, chips: 200
+Folds: Jee
+Pot size: 300
+Wins: Chebeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebeet
+Small Blind: Chebeet, chips: 100
+Big Blind: Jee, chips: 200
+Calls: Chebeet
+DEBUG MESSAGE: INVALID ACTION FROM Jee (2 0)
+Folds: Jee
+Pot size: 400
+Wins: Chebeet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Chebeet, chips: 200
+Folds: Jee
+Pot size: 300
+Wins: Chebeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebeet
+Small Blind: Chebeet, chips: 100
+Big Blind: Jee, chips: 100
+Flop: 4c 9s Ks
+Turn: Js
+River: Qd
+Pot size: 200
+Showdown Reached
+Shows: Chebeet, 5c Jc
+Combination: Chebeet, Pair ( Jc Js Ks Qd 9s )
+Shows: Jee, 3c Tc
+Combination: Jee, Straight ( Ks Qd Js Tc 9s )
+Wins: Jee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Chebeet, chips: 200
+Folds: Jee
+Pot size: 300
+Boasts: Chebeet, 5c Qc
+Wins: Chebeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebeet
+Small Blind: Chebeet, chips: 100
+Big Blind: Jee, chips: 100
+Flop: As 8h 8s
+Turn: Js
+River: 9c
+Pot size: 200
+Showdown Reached
+Shows: Chebeet, 5h Qd
+Combination: Chebeet, Pair ( 8h 8s As Qd Js )
+Shows: Jee, Ad 4s
+Combination: Jee, Two Pair ( Ad As 8h 8s Js )
+Wins: Jee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Chebeet, chips: 200
+Folds: Jee
+Pot size: 300
+Boasts: Chebeet, Kd 4c
+Wins: Chebeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebeet
+Small Blind: Chebeet, chips: 100
+Big Blind: Jee, chips: 100
+Flop: 8h Jc 3d
+Turn: Ah
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Chebeet, Qc Kc
+Combination: Chebeet, High Card ( Ah Kc Qc Jc 8h )
+Shows: Jee, 5c 7c
+Combination: Jee, Pair ( 5c 5h Ah Jc 8h )
+Wins: Jee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Chebeet, chips: 200
+Folds: Jee
+Pot size: 300
+Boasts: Chebeet, 7d Jc
+Wins: Chebeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebeet
+Small Blind: Chebeet, chips: 100
+Big Blind: Jee, chips: 100
+Flop: 2h Ac 8d
+Turn: 4d
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Chebeet, Tc 5c
+Combination: Chebeet, High Card ( Ac Tc 8d 7d 5c )
+Shows: Jee, 3h 5h
+Combination: Jee, Straight ( 5h 4d 3h 2h Ac )
+Wins: Jee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Chebeet, chips: 200
+Folds: Jee
+Pot size: 300
+Boasts: Chebeet, 5h 4s
+Wins: Chebeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebeet
+Small Blind: Chebeet, chips: 100
+Big Blind: Jee, chips: 100
+Flop: 2d 9d 6c
+Turn: 2s
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Chebeet, 9c Kh
+Combination: Chebeet, Two Pair ( Kh Kc 9c 9d 6c )
+Shows: Jee, 5s 3h
+Combination: Jee, Pair ( 2d 2s Kc 9d 6c )
+Wins: Chebeet, chips: 200
+Quits: Jee, chips: 0
+Ranking: Chebeet, Place: 1, Score: 1000
+Reveal AI: Chebeet, AI: Random
+Ranking: Jee, Place: 2, Score: -1000
+Reveal AI: Jee, AI: AIMyBot1
+
+Player Stats for Chebeet, AI: Random
+General: deals: 15, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.2
+
+
+Player Stats for Jee, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Date: 2022/10/25 13:46:27
+
+The game begins. The AI's of the players are: 
+Chebeet: Random
+Jee: AIMyBot1
+
+Joins: Chebeet, chips: 1000
+Joins: Jee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebeet
+Small Blind: Chebeet, chips: 100
+Big Blind: Jee, chips: 200
+Calls: Chebeet
+DEBUG MESSAGE: INVALID ACTION FROM Jee (2 0)
+Folds: Jee
+Pot size: 400
+Boasts: Chebeet, 4c Ah
+Wins: Chebeet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Chebeet, chips: 200
+Folds: Jee
+Pot size: 300
+Wins: Chebeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebeet
+Small Blind: Chebeet, chips: 100
+Big Blind: Jee, chips: 200
+Raises: Chebeet, chips: 300
+Folds: Jee
+Pot size: 700
+Boasts: Chebeet, 8c 7h
+Wins: Chebeet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Chebeet, chips: 200
+Folds: Jee
+Pot size: 300
+Wins: Chebeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebeet
+Small Blind: Chebeet, chips: 100
+Big Blind: Jee, chips: 200
+Calls: Chebeet
+DEBUG MESSAGE: INVALID ACTION FROM Jee (2 0)
+Folds: Jee
+Pot size: 400
+Wins: Chebeet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Chebeet, chips: 200
+Folds: Jee
+Pot size: 300
+Wins: Chebeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebeet
+Small Blind: Chebeet, chips: 100
+Big Blind: Jee, chips: 100
+Flop: 4c 9s Ks
+Turn: Js
+River: Qd
+Pot size: 200
+Showdown Reached
+Shows: Chebeet, 5c Jc
+Combination: Chebeet, Pair ( Jc Js Ks Qd 9s )
+Shows: Jee, 3c Tc
+Combination: Jee, Straight ( Ks Qd Js Tc 9s )
+Wins: Jee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Chebeet, chips: 200
+Folds: Jee
+Pot size: 300
+Boasts: Chebeet, 5c Qc
+Wins: Chebeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebeet
+Small Blind: Chebeet, chips: 100
+Big Blind: Jee, chips: 100
+Flop: As 8h 8s
+Turn: Js
+River: 9c
+Pot size: 200
+Showdown Reached
+Shows: Chebeet, 5h Qd
+Combination: Chebeet, Pair ( 8h 8s As Qd Js )
+Shows: Jee, Ad 4s
+Combination: Jee, Two Pair ( Ad As 8h 8s Js )
+Wins: Jee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Chebeet, chips: 200
+Folds: Jee
+Pot size: 300
+Boasts: Chebeet, Kd 4c
+Wins: Chebeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebeet
+Small Blind: Chebeet, chips: 100
+Big Blind: Jee, chips: 100
+Flop: 8h Jc 3d
+Turn: Ah
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Chebeet, Qc Kc
+Combination: Chebeet, High Card ( Ah Kc Qc Jc 8h )
+Shows: Jee, 5c 7c
+Combination: Jee, Pair ( 5c 5h Ah Jc 8h )
+Wins: Jee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Chebeet, chips: 200
+Folds: Jee
+Pot size: 300
+Boasts: Chebeet, 7d Jc
+Wins: Chebeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebeet
+Small Blind: Chebeet, chips: 100
+Big Blind: Jee, chips: 100
+Flop: 2h Ac 8d
+Turn: 4d
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Chebeet, Tc 5c
+Combination: Chebeet, High Card ( Ac Tc 8d 7d 5c )
+Shows: Jee, 3h 5h
+Combination: Jee, Straight ( 5h 4d 3h 2h Ac )
+Wins: Jee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jee
+Small Blind: Jee, chips: 100
+Big Blind: Chebeet, chips: 200
+Folds: Jee
+Pot size: 300
+Boasts: Chebeet, 5h 4s
+Wins: Chebeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chebeet
+Small Blind: Chebeet, chips: 100
+Big Blind: Jee, chips: 100
+Flop: 2d 9d 6c
+Turn: 2s
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Chebeet, 9c Kh
+Combination: Chebeet, Two Pair ( Kh Kc 9c 9d 6c )
+Shows: Jee, 5s 3h
+Combination: Jee, Pair ( 2d 2s Kc 9d 6c )
+Wins: Chebeet, chips: 200
+Quits: Jee, chips: 0
+Ranking: Chebeet, Place: 1, Score: 1000
+Reveal AI: Chebeet, AI: Random
+Ranking: Jee, Place: 2, Score: -1000
+Reveal AI: Jee, AI: AIMyBot1
+
+Player Stats for Chebeet, AI: Random
+General: deals: 15, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.2
+
+
+Player Stats for Jee, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+

@@ -1,0 +1,564 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jowu: AIMyBot1
+Jeema: Random
+
+Joins: Jowu, chips: 1000
+Joins: Jeema, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 200
+Folds: Jeema
+Pot size: 300
+Boasts: Jeema, 4d 8c
+Wins: Jowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, 3c 3s
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 200
+Folds: Jeema
+Pot size: 300
+Boasts: Jeema, 7h Jc
+Wins: Jowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, 4h 9s
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 200
+Raises: Jeema, chips: 300
+Folds: Jowu
+Pot size: 700
+Wins: Jeema, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, 5h Jc
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 200
+Calls: Jeema
+DEBUG MESSAGE: INVALID ACTION FROM Jowu (2 0)
+Folds: Jowu
+Pot size: 400
+Wins: Jeema, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 200
+Calls: Jeema
+DEBUG MESSAGE: INVALID ACTION FROM Jowu (2 0)
+Folds: Jowu
+Pot size: 400
+Boasts: Jeema, Ah 7h
+Wins: Jeema, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, 2c Js
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 100
+Flop: Qc Ac 3c
+Turn: 3h
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Jowu, 8h Qs
+Combination: Jowu, Two Pair ( Qs Qc 3c 3h Ac )
+Shows: Jeema, 9c Kd
+Combination: Jeema, Two Pair ( 9c 9h 3c 3h Ac )
+Wins: Jowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, Ac Ks
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 100
+Flop: 3d 4d Ac
+Turn: Ah
+River: 5c
+Pot size: 200
+Showdown Reached
+Shows: Jowu, Qc 5s
+Combination: Jowu, Two Pair ( Ac Ah 5s 5c Qc )
+Shows: Jeema, Qd Kd
+Combination: Jeema, Pair ( Ac Ah Kd Qd 5c )
+Wins: Jowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, 2c 7c
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 100
+Flop: Tc 4h 7s
+Turn: Ac
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Jowu, 2d 2h
+Combination: Jowu, Two Pair ( 7s 7d 2d 2h Ac )
+Shows: Jeema, 2c Js
+Combination: Jeema, Pair ( 7s 7d Ac Js Tc )
+Wins: Jowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, 5s Qh
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 100
+Flop: Ah 6s 8d
+Turn: 2s
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Jowu, Tc 8s
+Combination: Jowu, Two Pair ( Ah Ad 8s 8d Tc )
+Shows: Jeema, 2d 6d
+Combination: Jeema, Two Pair ( Ah Ad 6d 6s 8d )
+Wins: Jowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 100
+Flop: 3c 7h As
+Turn: Qd
+River: 2s
+Pot size: 200
+Showdown Reached
+Shows: Jowu, 3d 6h
+Combination: Jowu, Pair ( 3d 3c As Qd 7h )
+Shows: Jeema, Jh Th
+Combination: Jeema, High Card ( As Qd Jh Th 7h )
+Wins: Jowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, 2s 4c
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 100
+Flop: 8d Kh Jh
+Turn: 5h
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Jowu, Js 2h
+Combination: Jowu, Flush ( Kh Jh 9h 5h 2h )
+Shows: Jeema, 9c 4s
+Combination: Jeema, Pair ( 9c 9h Kh Jh 8d )
+Wins: Jowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, Qs Td
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 100
+Flop: 5s 6h 2h
+Turn: 7h
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Jowu, Ks 8h
+Combination: Jowu, Flush ( 8h 7h 6h 5h 2h )
+Shows: Jeema, 4h 2d
+Combination: Jeema, Flush ( 7h 6h 5h 4h 2h )
+Wins: Jowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, Jd 9s
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 100
+Flop: Kh Ac 2c
+Turn: 2s
+River: 6c
+Pot size: 200
+Showdown Reached
+Shows: Jowu, 7s 4c
+Combination: Jowu, Pair ( 2c 2s Ac Kh 7s )
+Shows: Jeema, 9d 4h
+Combination: Jeema, Pair ( 2c 2s Ac Kh 9d )
+Wins: Jeema, chips: 200
+Quits: Jowu, chips: 0
+Ranking: Jeema, Place: 1, Score: 1000
+Reveal AI: Jeema, AI: Random
+Ranking: Jowu, Place: 2, Score: -1000
+Reveal AI: Jowu, AI: AIMyBot1
+
+Player Stats for Jeema, AI: Random
+General: deals: 25, actions: 5, preflop actions: 5
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 16, showdown: 1, bluff: 15
+Chips: won: 5300, lost: 4300, bought: 1000, forced bets: 3700
+Pre-Flop Stats: VP$IP: 0.12, PFR: 0.04, 3Bet: 0.04
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.125
+
+
+Player Stats for Jowu, AI: AIMyBot1
+General: deals: 25, actions: 15, preflop actions: 15
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 9, showdown: 7, bluff: 2
+Chips: won: 2000, lost: 3000, bought: 1000, forced bets: 3000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Date: 2022/10/25 13:46:20
+
+The game begins. The AI's of the players are: 
+Jowu: AIMyBot1
+Jeema: Random
+
+Joins: Jowu, chips: 1000
+Joins: Jeema, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 200
+Folds: Jeema
+Pot size: 300
+Boasts: Jeema, 4d 8c
+Wins: Jowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, 3c 3s
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 200
+Folds: Jeema
+Pot size: 300
+Boasts: Jeema, 7h Jc
+Wins: Jowu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, 4h 9s
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 200
+Raises: Jeema, chips: 300
+Folds: Jowu
+Pot size: 700
+Wins: Jeema, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, 5h Jc
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 200
+Calls: Jeema
+DEBUG MESSAGE: INVALID ACTION FROM Jowu (2 0)
+Folds: Jowu
+Pot size: 400
+Wins: Jeema, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 200
+Calls: Jeema
+DEBUG MESSAGE: INVALID ACTION FROM Jowu (2 0)
+Folds: Jowu
+Pot size: 400
+Boasts: Jeema, Ah 7h
+Wins: Jeema, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, 2c Js
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 100
+Flop: Qc Ac 3c
+Turn: 3h
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Jowu, 8h Qs
+Combination: Jowu, Two Pair ( Qs Qc 3c 3h Ac )
+Shows: Jeema, 9c Kd
+Combination: Jeema, Two Pair ( 9c 9h 3c 3h Ac )
+Wins: Jowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, Ac Ks
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 100
+Flop: 3d 4d Ac
+Turn: Ah
+River: 5c
+Pot size: 200
+Showdown Reached
+Shows: Jowu, Qc 5s
+Combination: Jowu, Two Pair ( Ac Ah 5s 5c Qc )
+Shows: Jeema, Qd Kd
+Combination: Jeema, Pair ( Ac Ah Kd Qd 5c )
+Wins: Jowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, 2c 7c
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 100
+Flop: Tc 4h 7s
+Turn: Ac
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Jowu, 2d 2h
+Combination: Jowu, Two Pair ( 7s 7d 2d 2h Ac )
+Shows: Jeema, 2c Js
+Combination: Jeema, Pair ( 7s 7d Ac Js Tc )
+Wins: Jowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, 5s Qh
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 100
+Flop: Ah 6s 8d
+Turn: 2s
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Jowu, Tc 8s
+Combination: Jowu, Two Pair ( Ah Ad 8s 8d Tc )
+Shows: Jeema, 2d 6d
+Combination: Jeema, Two Pair ( Ah Ad 6d 6s 8d )
+Wins: Jowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 100
+Flop: 3c 7h As
+Turn: Qd
+River: 2s
+Pot size: 200
+Showdown Reached
+Shows: Jowu, 3d 6h
+Combination: Jowu, Pair ( 3d 3c As Qd 7h )
+Shows: Jeema, Jh Th
+Combination: Jeema, High Card ( As Qd Jh Th 7h )
+Wins: Jowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, 2s 4c
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 100
+Flop: 8d Kh Jh
+Turn: 5h
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Jowu, Js 2h
+Combination: Jowu, Flush ( Kh Jh 9h 5h 2h )
+Shows: Jeema, 9c 4s
+Combination: Jeema, Pair ( 9c 9h Kh Jh 8d )
+Wins: Jowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, Qs Td
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 100
+Flop: 5s 6h 2h
+Turn: 7h
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Jowu, Ks 8h
+Combination: Jowu, Flush ( 8h 7h 6h 5h 2h )
+Shows: Jeema, 4h 2d
+Combination: Jeema, Flush ( 7h 6h 5h 4h 2h )
+Wins: Jowu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowu
+Small Blind: Jowu, chips: 100
+Big Blind: Jeema, chips: 200
+Folds: Jowu
+Pot size: 300
+Boasts: Jeema, Jd 9s
+Wins: Jeema, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeema
+Small Blind: Jeema, chips: 100
+Big Blind: Jowu, chips: 100
+Flop: Kh Ac 2c
+Turn: 2s
+River: 6c
+Pot size: 200
+Showdown Reached
+Shows: Jowu, 7s 4c
+Combination: Jowu, Pair ( 2c 2s Ac Kh 7s )
+Shows: Jeema, 9d 4h
+Combination: Jeema, Pair ( 2c 2s Ac Kh 9d )
+Wins: Jeema, chips: 200
+Quits: Jowu, chips: 0
+Ranking: Jeema, Place: 1, Score: 1000
+Reveal AI: Jeema, AI: Random
+Ranking: Jowu, Place: 2, Score: -1000
+Reveal AI: Jowu, AI: AIMyBot1
+
+Player Stats for Jeema, AI: Random
+General: deals: 25, actions: 5, preflop actions: 5
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 16, showdown: 1, bluff: 15
+Chips: won: 5300, lost: 4300, bought: 1000, forced bets: 3700
+Pre-Flop Stats: VP$IP: 0.12, PFR: 0.04, 3Bet: 0.04
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.125
+
+
+Player Stats for Jowu, AI: AIMyBot1
+General: deals: 25, actions: 15, preflop actions: 15
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 9, showdown: 7, bluff: 2
+Chips: won: 2000, lost: 3000, bought: 1000, forced bets: 3000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+

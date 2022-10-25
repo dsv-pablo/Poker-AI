@@ -1,0 +1,260 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Foeli: Random
+Heelevee: AIMyBot1
+
+Joins: Foeli, chips: 1000
+Joins: Heelevee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foeli
+Small Blind: Foeli, chips: 100
+Big Blind: Heelevee, chips: 200
+Folds: Foeli
+Pot size: 300
+Wins: Heelevee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heelevee
+Small Blind: Heelevee, chips: 100
+Big Blind: Foeli, chips: 200
+Folds: Heelevee
+Pot size: 300
+Boasts: Foeli, 8c 4c
+Wins: Foeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foeli
+Small Blind: Foeli, chips: 100
+Big Blind: Heelevee, chips: 200
+Raises: Foeli, chips: 300
+Folds: Heelevee
+Pot size: 700
+Wins: Foeli, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heelevee
+Small Blind: Heelevee, chips: 100
+Big Blind: Foeli, chips: 200
+Folds: Heelevee
+Pot size: 300
+Wins: Foeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foeli
+Small Blind: Foeli, chips: 100
+Big Blind: Heelevee, chips: 200
+Raises: Foeli, chips: 300
+Folds: Heelevee
+Pot size: 700
+Wins: Foeli, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heelevee
+Small Blind: Heelevee, chips: 100
+Big Blind: Foeli, chips: 200
+Folds: Heelevee
+Pot size: 300
+Boasts: Foeli, 9d 5h
+Wins: Foeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foeli
+Small Blind: Foeli, chips: 100
+Big Blind: Heelevee, chips: 200
+Calls: Foeli
+DEBUG MESSAGE: INVALID ACTION FROM Heelevee (2 0)
+Folds: Heelevee
+Pot size: 400
+Wins: Foeli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heelevee
+Small Blind: Heelevee, chips: 100
+Big Blind: Foeli, chips: 200
+Folds: Heelevee
+Pot size: 300
+Wins: Foeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foeli
+Small Blind: Foeli, chips: 100
+Big Blind: Heelevee, chips: 100
+Flop: Ts Qd Ac
+Turn: Td
+River: 8c
+Pot size: 200
+Showdown Reached
+Shows: Foeli, 9h 6d
+Combination: Foeli, Pair ( Ts Td Ac Qd 9h )
+Shows: Heelevee, Th 4h
+Combination: Heelevee, Three Of A Kind ( Th Ts Td Ac Qd )
+Wins: Heelevee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heelevee
+Small Blind: Heelevee, chips: 100
+Big Blind: Foeli, chips: 200
+Folds: Heelevee
+Pot size: 300
+Wins: Foeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foeli
+Small Blind: Foeli, chips: 100
+Big Blind: Heelevee, chips: 100
+Flop: 9h 8h 8c
+Turn: 2d
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Foeli, Ah Jh
+Combination: Foeli, Flush ( Ah Jh 9h 8h 7h )
+Shows: Heelevee, 4d 3c
+Combination: Heelevee, Pair ( 8h 8c 9h 7h 4d )
+Wins: Foeli, chips: 200
+Quits: Heelevee, chips: 0
+Ranking: Foeli, Place: 1, Score: 1000
+Reveal AI: Foeli, AI: Random
+Ranking: Heelevee, Place: 2, Score: -1000
+Reveal AI: Heelevee, AI: AIMyBot1
+
+Player Stats for Foeli, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Heelevee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:11
+
+The game begins. The AI's of the players are: 
+Foeli: Random
+Heelevee: AIMyBot1
+
+Joins: Foeli, chips: 1000
+Joins: Heelevee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foeli
+Small Blind: Foeli, chips: 100
+Big Blind: Heelevee, chips: 200
+Folds: Foeli
+Pot size: 300
+Wins: Heelevee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heelevee
+Small Blind: Heelevee, chips: 100
+Big Blind: Foeli, chips: 200
+Folds: Heelevee
+Pot size: 300
+Boasts: Foeli, 8c 4c
+Wins: Foeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foeli
+Small Blind: Foeli, chips: 100
+Big Blind: Heelevee, chips: 200
+Raises: Foeli, chips: 300
+Folds: Heelevee
+Pot size: 700
+Wins: Foeli, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heelevee
+Small Blind: Heelevee, chips: 100
+Big Blind: Foeli, chips: 200
+Folds: Heelevee
+Pot size: 300
+Wins: Foeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foeli
+Small Blind: Foeli, chips: 100
+Big Blind: Heelevee, chips: 200
+Raises: Foeli, chips: 300
+Folds: Heelevee
+Pot size: 700
+Wins: Foeli, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heelevee
+Small Blind: Heelevee, chips: 100
+Big Blind: Foeli, chips: 200
+Folds: Heelevee
+Pot size: 300
+Boasts: Foeli, 9d 5h
+Wins: Foeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foeli
+Small Blind: Foeli, chips: 100
+Big Blind: Heelevee, chips: 200
+Calls: Foeli
+DEBUG MESSAGE: INVALID ACTION FROM Heelevee (2 0)
+Folds: Heelevee
+Pot size: 400
+Wins: Foeli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heelevee
+Small Blind: Heelevee, chips: 100
+Big Blind: Foeli, chips: 200
+Folds: Heelevee
+Pot size: 300
+Wins: Foeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foeli
+Small Blind: Foeli, chips: 100
+Big Blind: Heelevee, chips: 100
+Flop: Ts Qd Ac
+Turn: Td
+River: 8c
+Pot size: 200
+Showdown Reached
+Shows: Foeli, 9h 6d
+Combination: Foeli, Pair ( Ts Td Ac Qd 9h )
+Shows: Heelevee, Th 4h
+Combination: Heelevee, Three Of A Kind ( Th Ts Td Ac Qd )
+Wins: Heelevee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heelevee
+Small Blind: Heelevee, chips: 100
+Big Blind: Foeli, chips: 200
+Folds: Heelevee
+Pot size: 300
+Wins: Foeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foeli
+Small Blind: Foeli, chips: 100
+Big Blind: Heelevee, chips: 100
+Flop: 9h 8h 8c
+Turn: 2d
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Foeli, Ah Jh
+Combination: Foeli, Flush ( Ah Jh 9h 8h 7h )
+Shows: Heelevee, 4d 3c
+Combination: Heelevee, Pair ( 8h 8c 9h 7h 4d )
+Wins: Foeli, chips: 200
+Quits: Heelevee, chips: 0
+Ranking: Foeli, Place: 1, Score: 1000
+Reveal AI: Foeli, AI: Random
+Ranking: Heelevee, Place: 2, Score: -1000
+Reveal AI: Heelevee, AI: AIMyBot1
+
+Player Stats for Foeli, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Heelevee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

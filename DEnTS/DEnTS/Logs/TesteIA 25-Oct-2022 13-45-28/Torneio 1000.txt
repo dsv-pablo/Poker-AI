@@ -1,0 +1,488 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Fosik: Random
+Luden: AIMyBot1
+
+Joins: Fosik, chips: 1000
+Joins: Luden, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Folds: Luden
+Pot size: 300
+Boasts: Fosik, As Kd
+Wins: Fosik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Raises: Fosik, chips: 300
+Folds: Luden
+Pot size: 700
+Wins: Fosik, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Folds: Luden
+Pot size: 300
+Boasts: Fosik, Jc 9c
+Wins: Fosik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Calls: Fosik
+DEBUG MESSAGE: INVALID ACTION FROM Luden (2 0)
+Folds: Luden
+Pot size: 400
+Boasts: Fosik, 7s Qh
+Wins: Fosik, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Folds: Luden
+Pot size: 300
+Boasts: Fosik, Ac Qs
+Wins: Fosik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Raises: Fosik, chips: 300
+Folds: Luden
+Pot size: 700
+Boasts: Fosik, 4c 3s
+Wins: Fosik, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Flop: Qd Th 3h
+Turn: 6c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Fosik, 9d Ks
+Combination: Fosik, High Card ( Ks Qd Th 9d 8d )
+Shows: Luden, 3c Qs
+Combination: Luden, Two Pair ( Qs Qd 3c 3h Th )
+Wins: Fosik, chips: 100
+Wins: Luden, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Flop: 8d 3c Kd
+Turn: Th
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Fosik, As 9d
+Combination: Fosik, High Card ( As Kd Th 9d 8d )
+Shows: Luden, 3h 2c
+Combination: Luden, Pair ( 3h 3c Kd Th 8d )
+Wins: Luden, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Folds: Luden
+Pot size: 300
+Boasts: Fosik, Qd 6h
+Wins: Fosik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Flop: 9c 7h 4s
+Turn: Jc
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Fosik, 7s Qh
+Combination: Fosik, Pair ( 7s 7h Qh Jc Td )
+Shows: Luden, 2s 5h
+Combination: Luden, High Card ( Jc Td 9c 7h 5h )
+Wins: Fosik, chips: 200
+Wins: Luden, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Flop: 7d 9h Ah
+Turn: 9d
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Fosik, Jd Td
+Combination: Fosik, Two Pair ( Td Tc 9h 9d Ah )
+Shows: Luden, 8d 6d
+Combination: Luden, Straight ( Tc 9h 8d 7d 6d )
+Wins: Fosik, chips: 100
+Wins: Luden, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Flop: Js 5d 5h
+Turn: 4c
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Fosik, Ac 6s
+Combination: Fosik, Two Pair ( 5d 5h 4c 4s Ac )
+Shows: Luden, Jh 8h
+Combination: Luden, Two Pair ( Jh Js 5d 5h 8h )
+Wins: Luden, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Folds: Luden
+Pot size: 300
+Boasts: Fosik, 4s 9s
+Wins: Fosik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Flop: Qh 3h 8s
+Turn: Qc
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Fosik, 4c 7d
+Combination: Fosik, Two Pair ( Qh Qc 3h 3d 8s )
+Shows: Luden, 9c 6h
+Combination: Luden, Two Pair ( Qh Qc 3h 3d 9c )
+Wins: Luden, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Folds: Luden
+Pot size: 300
+Wins: Fosik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Flop: 4s 2s Js
+Turn: 3c
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Fosik, Kh 3s
+Combination: Fosik, Pair ( 3s 3c Kh Js 7d )
+Shows: Luden, 8c Jh
+Combination: Luden, Pair ( Jh Js 8c 7d 4s )
+Wins: Luden, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Folds: Luden
+Pot size: 300
+Wins: Fosik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Flop: Th Ah 6h
+Turn: Kc
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Fosik, Ac Ts
+Combination: Fosik, Two Pair ( Ac Ah Ts Th Kc )
+Shows: Luden, 2s 9s
+Combination: Luden, High Card ( Ah Kc Jd Th 9s )
+Wins: Fosik, chips: 200
+Wins: Luden, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Flop: Ah Kh 2h
+Turn: 9c
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Fosik, 4s 5h
+Combination: Fosik, Pair ( 4s 4c Ah Kh 9c )
+Shows: Luden, 3h 7s
+Combination: Luden, High Card ( Ah Kh 9c 7s 4c )
+Wins: Fosik, chips: 300
+Quits: Luden, chips: 0
+Ranking: Fosik, Place: 1, Score: 1000
+Reveal AI: Fosik, AI: Random
+Ranking: Luden, Place: 2, Score: -1000
+Reveal AI: Luden, AI: AIMyBot1
+
+Player Stats for Fosik, AI: Random
+General: deals: 19, actions: 3, preflop actions: 3
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 15, showdown: 5, bluff: 10
+Chips: won: 4800, lost: 3800, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0.105263, 3Bet: 0.105263
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.555556
+
+
+Player Stats for Luden, AI: AIMyBot1
+General: deals: 19, actions: 10, preflop actions: 10
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Date: 2022/10/25 13:46:34
+
+The game begins. The AI's of the players are: 
+Fosik: Random
+Luden: AIMyBot1
+
+Joins: Fosik, chips: 1000
+Joins: Luden, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Folds: Luden
+Pot size: 300
+Boasts: Fosik, As Kd
+Wins: Fosik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Raises: Fosik, chips: 300
+Folds: Luden
+Pot size: 700
+Wins: Fosik, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Folds: Luden
+Pot size: 300
+Boasts: Fosik, Jc 9c
+Wins: Fosik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Calls: Fosik
+DEBUG MESSAGE: INVALID ACTION FROM Luden (2 0)
+Folds: Luden
+Pot size: 400
+Boasts: Fosik, 7s Qh
+Wins: Fosik, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Folds: Luden
+Pot size: 300
+Boasts: Fosik, Ac Qs
+Wins: Fosik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Raises: Fosik, chips: 300
+Folds: Luden
+Pot size: 700
+Boasts: Fosik, 4c 3s
+Wins: Fosik, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Flop: Qd Th 3h
+Turn: 6c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Fosik, 9d Ks
+Combination: Fosik, High Card ( Ks Qd Th 9d 8d )
+Shows: Luden, 3c Qs
+Combination: Luden, Two Pair ( Qs Qd 3c 3h Th )
+Wins: Fosik, chips: 100
+Wins: Luden, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Flop: 8d 3c Kd
+Turn: Th
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Fosik, As 9d
+Combination: Fosik, High Card ( As Kd Th 9d 8d )
+Shows: Luden, 3h 2c
+Combination: Luden, Pair ( 3h 3c Kd Th 8d )
+Wins: Luden, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Folds: Luden
+Pot size: 300
+Boasts: Fosik, Qd 6h
+Wins: Fosik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Flop: 9c 7h 4s
+Turn: Jc
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Fosik, 7s Qh
+Combination: Fosik, Pair ( 7s 7h Qh Jc Td )
+Shows: Luden, 2s 5h
+Combination: Luden, High Card ( Jc Td 9c 7h 5h )
+Wins: Fosik, chips: 200
+Wins: Luden, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Flop: 7d 9h Ah
+Turn: 9d
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Fosik, Jd Td
+Combination: Fosik, Two Pair ( Td Tc 9h 9d Ah )
+Shows: Luden, 8d 6d
+Combination: Luden, Straight ( Tc 9h 8d 7d 6d )
+Wins: Fosik, chips: 100
+Wins: Luden, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Flop: Js 5d 5h
+Turn: 4c
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Fosik, Ac 6s
+Combination: Fosik, Two Pair ( 5d 5h 4c 4s Ac )
+Shows: Luden, Jh 8h
+Combination: Luden, Two Pair ( Jh Js 5d 5h 8h )
+Wins: Luden, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Folds: Luden
+Pot size: 300
+Boasts: Fosik, 4s 9s
+Wins: Fosik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Flop: Qh 3h 8s
+Turn: Qc
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Fosik, 4c 7d
+Combination: Fosik, Two Pair ( Qh Qc 3h 3d 8s )
+Shows: Luden, 9c 6h
+Combination: Luden, Two Pair ( Qh Qc 3h 3d 9c )
+Wins: Luden, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Folds: Luden
+Pot size: 300
+Wins: Fosik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Flop: 4s 2s Js
+Turn: 3c
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Fosik, Kh 3s
+Combination: Fosik, Pair ( 3s 3c Kh Js 7d )
+Shows: Luden, 8c Jh
+Combination: Luden, Pair ( Jh Js 8c 7d 4s )
+Wins: Luden, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Folds: Luden
+Pot size: 300
+Wins: Fosik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fosik
+Small Blind: Fosik, chips: 100
+Big Blind: Luden, chips: 200
+Flop: Th Ah 6h
+Turn: Kc
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Fosik, Ac Ts
+Combination: Fosik, Two Pair ( Ac Ah Ts Th Kc )
+Shows: Luden, 2s 9s
+Combination: Luden, High Card ( Ah Kc Jd Th 9s )
+Wins: Fosik, chips: 200
+Wins: Luden, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luden
+Small Blind: Luden, chips: 100
+Big Blind: Fosik, chips: 200
+Flop: Ah Kh 2h
+Turn: 9c
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Fosik, 4s 5h
+Combination: Fosik, Pair ( 4s 4c Ah Kh 9c )
+Shows: Luden, 3h 7s
+Combination: Luden, High Card ( Ah Kh 9c 7s 4c )
+Wins: Fosik, chips: 300
+Quits: Luden, chips: 0
+Ranking: Fosik, Place: 1, Score: 1000
+Reveal AI: Fosik, AI: Random
+Ranking: Luden, Place: 2, Score: -1000
+Reveal AI: Luden, AI: AIMyBot1
+
+Player Stats for Fosik, AI: Random
+General: deals: 19, actions: 3, preflop actions: 3
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 15, showdown: 5, bluff: 10
+Chips: won: 4800, lost: 3800, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0.105263, 3Bet: 0.105263
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.555556
+
+
+Player Stats for Luden, AI: AIMyBot1
+General: deals: 19, actions: 10, preflop actions: 10
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+

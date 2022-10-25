@@ -1,0 +1,648 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Kofee: AIMyBot1
+Minet: Random
+
+Joins: Kofee, chips: 1000
+Joins: Minet, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Folds: Kofee
+Pot size: 300
+Wins: Minet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Raises: Minet, chips: 300
+Folds: Kofee
+Pot size: 700
+Boasts: Minet, Ad Jd
+Wins: Minet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Folds: Kofee
+Pot size: 300
+Wins: Minet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Raises: Minet, chips: 300
+Folds: Kofee
+Pot size: 700
+Wins: Minet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Folds: Kofee
+Pot size: 300
+Boasts: Minet, 4s Kd
+Wins: Minet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Raises: Minet, chips: 300
+Folds: Kofee
+Pot size: 700
+Boasts: Minet, 2d 6d
+Wins: Minet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Flop: Kc 3h Qc
+Turn: Td
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Kofee, Ks 8h
+Combination: Kofee, Two Pair ( Ks Kc 3h 3d Qc )
+Shows: Minet, 2d 2h
+Combination: Minet, Two Pair ( 3h 3d 2d 2h Kc )
+Wins: Kofee, chips: 200
+Wins: Minet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: 6s Kh Jc
+Turn: 9s
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 7h Ac
+Combination: Kofee, High Card ( Ac Kh Jc 9s 7h )
+Shows: Minet, 3c Kd
+Combination: Minet, Pair ( Kd Kh Jc 9s 6s )
+Wins: Kofee, chips: 100
+Wins: Minet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Flop: 3h 7h Ts
+Turn: 3d
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 2s 7s
+Combination: Kofee, Two Pair ( 7s 7h 3h 3d Ac )
+Shows: Minet, 6d 8d
+Combination: Minet, Pair ( 3h 3d Ac Ts 8d )
+Wins: Kofee, chips: 200
+Wins: Minet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: 9h Td 6d
+Turn: Jc
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 8d Kd
+Combination: Kofee, Pair ( 6d 6h Kd Jc Td )
+Shows: Minet, 7h 2h
+Combination: Minet, Pair ( 6d 6h Jc Td 9h )
+Wins: Kofee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Folds: Kofee
+Pot size: 300
+Boasts: Minet, 9s 6h
+Wins: Minet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: Ah 7c Ac
+Turn: Qh
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 4c 4s
+Combination: Kofee, Two Pair ( Ah Ac 4c 4s Qh )
+Shows: Minet, Kc 9s
+Combination: Minet, Pair ( Ah Ac Kc Qh 9s )
+Wins: Kofee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Folds: Kofee
+Pot size: 300
+Boasts: Minet, Qc 3c
+Wins: Minet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: 4s As 8h
+Turn: Ad
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Kofee, Ah Ac
+Combination: Kofee, Four Of A Kind ( Ah Ac As Ad Th )
+Shows: Minet, 5h Tc
+Combination: Minet, Two Pair ( As Ad Tc Th 8h )
+Wins: Kofee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Folds: Kofee
+Pot size: 300
+Boasts: Minet, Qh Jh
+Wins: Minet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: 6c Th 6s
+Turn: Qs
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 2d 3h
+Combination: Kofee, Two Pair ( 6c 6s 3h 3s Qs )
+Shows: Minet, 7d Ad
+Combination: Minet, Pair ( 6c 6s Ad Qs Th )
+Wins: Kofee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Folds: Kofee
+Pot size: 300
+Wins: Minet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: Ks Tc Jc
+Turn: 9h
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 2d 7c
+Combination: Kofee, High Card ( Ah Ks Jc Tc 9h )
+Shows: Minet, 9s 6d
+Combination: Minet, Pair ( 9s 9h Ah Ks Jc )
+Wins: Kofee, chips: 100
+Wins: Minet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Flop: 7c 3d Th
+Turn: 7h
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 7d 4d
+Combination: Kofee, Full House ( 7d 7c 7h Th Tc )
+Shows: Minet, 9d 3h
+Combination: Minet, Two Pair ( Th Tc 7c 7h 9d )
+Wins: Kofee, chips: 200
+Wins: Minet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: 7h Qd 2s
+Turn: 5d
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Kofee, Th Ac
+Combination: Kofee, High Card ( Ac Qd Th 9h 7h )
+Shows: Minet, Ts Td
+Combination: Minet, Pair ( Ts Td Qd 9h 7h )
+Wins: Kofee, chips: 100
+Wins: Minet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Flop: As 8h 9c
+Turn: 6s
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 6d Jc
+Combination: Kofee, Pair ( 6d 6s As Jc 9c )
+Shows: Minet, Ks 2d
+Combination: Minet, High Card ( As Ks 9c 8h 6s )
+Wins: Kofee, chips: 200
+Wins: Minet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: 6h Qc 9s
+Turn: Qs
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 7c 7d
+Combination: Kofee, Two Pair ( Qc Qs 7c 7d 9s )
+Shows: Minet, 2h 4d
+Combination: Minet, Pair ( Qc Qs 9s 6h 4d )
+Wins: Kofee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Folds: Kofee
+Pot size: 300
+Boasts: Minet, 8s 5s
+Wins: Minet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: 8c 4s Ac
+Turn: 8h
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 2h Td
+Combination: Kofee, Pair ( 8c 8h Ac Qc Td )
+Shows: Minet, Kh Ad
+Combination: Minet, Two Pair ( Ad Ac 8c 8h Kh )
+Wins: Kofee, chips: 100
+Wins: Minet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Flop: 3d Tc 8c
+Turn: 2c
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Kofee, Qd 7s
+Combination: Kofee, High Card ( Qd Jd Tc 8c 7s )
+Shows: Minet, Ah 3s
+Combination: Minet, Pair ( 3s 3d Ah Jd Tc )
+Wins: Minet, chips: 300
+Quits: Kofee, chips: 0
+Ranking: Minet, Place: 1, Score: 1000
+Reveal AI: Minet, AI: Random
+Ranking: Kofee, Place: 2, Score: -1000
+Reveal AI: Kofee, AI: AIMyBot1
+
+Player Stats for Kofee, AI: AIMyBot1
+General: deals: 25, actions: 11, preflop actions: 11
+Rounds Seen: flops: 14, turns: 14, rivers: 14, showdowns: 14
+Wins: total: 13, showdown: 13, bluff: 0
+Chips: won: 2700, lost: 3700, bought: 1000, forced bets: 3700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.928571
+
+
+Player Stats for Minet, AI: Random
+General: deals: 25, actions: 3, preflop actions: 3
+Rounds Seen: flops: 14, turns: 14, rivers: 14, showdowns: 14
+Wins: total: 20, showdown: 9, bluff: 11
+Chips: won: 6000, lost: 5000, bought: 1000, forced bets: 3800
+Pre-Flop Stats: VP$IP: 0.12, PFR: 0.12, 3Bet: 0.12
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.642857
+
+
+Date: 2022/10/25 13:45:56
+
+The game begins. The AI's of the players are: 
+Kofee: AIMyBot1
+Minet: Random
+
+Joins: Kofee, chips: 1000
+Joins: Minet, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Folds: Kofee
+Pot size: 300
+Wins: Minet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Raises: Minet, chips: 300
+Folds: Kofee
+Pot size: 700
+Boasts: Minet, Ad Jd
+Wins: Minet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Folds: Kofee
+Pot size: 300
+Wins: Minet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Raises: Minet, chips: 300
+Folds: Kofee
+Pot size: 700
+Wins: Minet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Folds: Kofee
+Pot size: 300
+Boasts: Minet, 4s Kd
+Wins: Minet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Raises: Minet, chips: 300
+Folds: Kofee
+Pot size: 700
+Boasts: Minet, 2d 6d
+Wins: Minet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Flop: Kc 3h Qc
+Turn: Td
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Kofee, Ks 8h
+Combination: Kofee, Two Pair ( Ks Kc 3h 3d Qc )
+Shows: Minet, 2d 2h
+Combination: Minet, Two Pair ( 3h 3d 2d 2h Kc )
+Wins: Kofee, chips: 200
+Wins: Minet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: 6s Kh Jc
+Turn: 9s
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 7h Ac
+Combination: Kofee, High Card ( Ac Kh Jc 9s 7h )
+Shows: Minet, 3c Kd
+Combination: Minet, Pair ( Kd Kh Jc 9s 6s )
+Wins: Kofee, chips: 100
+Wins: Minet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Flop: 3h 7h Ts
+Turn: 3d
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 2s 7s
+Combination: Kofee, Two Pair ( 7s 7h 3h 3d Ac )
+Shows: Minet, 6d 8d
+Combination: Minet, Pair ( 3h 3d Ac Ts 8d )
+Wins: Kofee, chips: 200
+Wins: Minet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: 9h Td 6d
+Turn: Jc
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 8d Kd
+Combination: Kofee, Pair ( 6d 6h Kd Jc Td )
+Shows: Minet, 7h 2h
+Combination: Minet, Pair ( 6d 6h Jc Td 9h )
+Wins: Kofee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Folds: Kofee
+Pot size: 300
+Boasts: Minet, 9s 6h
+Wins: Minet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: Ah 7c Ac
+Turn: Qh
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 4c 4s
+Combination: Kofee, Two Pair ( Ah Ac 4c 4s Qh )
+Shows: Minet, Kc 9s
+Combination: Minet, Pair ( Ah Ac Kc Qh 9s )
+Wins: Kofee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Folds: Kofee
+Pot size: 300
+Boasts: Minet, Qc 3c
+Wins: Minet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: 4s As 8h
+Turn: Ad
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Kofee, Ah Ac
+Combination: Kofee, Four Of A Kind ( Ah Ac As Ad Th )
+Shows: Minet, 5h Tc
+Combination: Minet, Two Pair ( As Ad Tc Th 8h )
+Wins: Kofee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Folds: Kofee
+Pot size: 300
+Boasts: Minet, Qh Jh
+Wins: Minet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: 6c Th 6s
+Turn: Qs
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 2d 3h
+Combination: Kofee, Two Pair ( 6c 6s 3h 3s Qs )
+Shows: Minet, 7d Ad
+Combination: Minet, Pair ( 6c 6s Ad Qs Th )
+Wins: Kofee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Folds: Kofee
+Pot size: 300
+Wins: Minet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: Ks Tc Jc
+Turn: 9h
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 2d 7c
+Combination: Kofee, High Card ( Ah Ks Jc Tc 9h )
+Shows: Minet, 9s 6d
+Combination: Minet, Pair ( 9s 9h Ah Ks Jc )
+Wins: Kofee, chips: 100
+Wins: Minet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Flop: 7c 3d Th
+Turn: 7h
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 7d 4d
+Combination: Kofee, Full House ( 7d 7c 7h Th Tc )
+Shows: Minet, 9d 3h
+Combination: Minet, Two Pair ( Th Tc 7c 7h 9d )
+Wins: Kofee, chips: 200
+Wins: Minet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: 7h Qd 2s
+Turn: 5d
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Kofee, Th Ac
+Combination: Kofee, High Card ( Ac Qd Th 9h 7h )
+Shows: Minet, Ts Td
+Combination: Minet, Pair ( Ts Td Qd 9h 7h )
+Wins: Kofee, chips: 100
+Wins: Minet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Flop: As 8h 9c
+Turn: 6s
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 6d Jc
+Combination: Kofee, Pair ( 6d 6s As Jc 9c )
+Shows: Minet, Ks 2d
+Combination: Minet, High Card ( As Ks 9c 8h 6s )
+Wins: Kofee, chips: 200
+Wins: Minet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: 6h Qc 9s
+Turn: Qs
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 7c 7d
+Combination: Kofee, Two Pair ( Qc Qs 7c 7d 9s )
+Shows: Minet, 2h 4d
+Combination: Minet, Pair ( Qc Qs 9s 6h 4d )
+Wins: Kofee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Folds: Kofee
+Pot size: 300
+Boasts: Minet, 8s 5s
+Wins: Minet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Minet
+Small Blind: Minet, chips: 100
+Big Blind: Kofee, chips: 200
+Flop: 8c 4s Ac
+Turn: 8h
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Kofee, 2h Td
+Combination: Kofee, Pair ( 8c 8h Ac Qc Td )
+Shows: Minet, Kh Ad
+Combination: Minet, Two Pair ( Ad Ac 8c 8h Kh )
+Wins: Kofee, chips: 100
+Wins: Minet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kofee
+Small Blind: Kofee, chips: 100
+Big Blind: Minet, chips: 200
+Flop: 3d Tc 8c
+Turn: 2c
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Kofee, Qd 7s
+Combination: Kofee, High Card ( Qd Jd Tc 8c 7s )
+Shows: Minet, Ah 3s
+Combination: Minet, Pair ( 3s 3d Ah Jd Tc )
+Wins: Minet, chips: 300
+Quits: Kofee, chips: 0
+Ranking: Minet, Place: 1, Score: 1000
+Reveal AI: Minet, AI: Random
+Ranking: Kofee, Place: 2, Score: -1000
+Reveal AI: Kofee, AI: AIMyBot1
+
+Player Stats for Kofee, AI: AIMyBot1
+General: deals: 25, actions: 11, preflop actions: 11
+Rounds Seen: flops: 14, turns: 14, rivers: 14, showdowns: 14
+Wins: total: 13, showdown: 13, bluff: 0
+Chips: won: 2700, lost: 3700, bought: 1000, forced bets: 3700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.928571
+
+
+Player Stats for Minet, AI: Random
+General: deals: 25, actions: 3, preflop actions: 3
+Rounds Seen: flops: 14, turns: 14, rivers: 14, showdowns: 14
+Wins: total: 20, showdown: 9, bluff: 11
+Chips: won: 6000, lost: 5000, bought: 1000, forced bets: 3800
+Pre-Flop Stats: VP$IP: 0.12, PFR: 0.12, 3Bet: 0.12
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.642857
+
+

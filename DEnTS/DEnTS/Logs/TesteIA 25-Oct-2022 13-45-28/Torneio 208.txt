@@ -1,0 +1,330 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Vapee: AIMyBot1
+Dovetry: Random
+
+Joins: Vapee, chips: 1000
+Joins: Dovetry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vapee
+Small Blind: Vapee, chips: 100
+Big Blind: Dovetry, chips: 200
+Folds: Vapee
+Pot size: 300
+Wins: Dovetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dovetry
+Small Blind: Dovetry, chips: 100
+Big Blind: Vapee, chips: 200
+Raises: Dovetry, chips: 300
+Folds: Vapee
+Pot size: 700
+Wins: Dovetry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vapee
+Small Blind: Vapee, chips: 100
+Big Blind: Dovetry, chips: 200
+Folds: Vapee
+Pot size: 300
+Boasts: Dovetry, Ks As
+Wins: Dovetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dovetry
+Small Blind: Dovetry, chips: 100
+Big Blind: Vapee, chips: 200
+Calls: Dovetry
+DEBUG MESSAGE: INVALID ACTION FROM Vapee (2 0)
+Folds: Vapee
+Pot size: 400
+Wins: Dovetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vapee
+Small Blind: Vapee, chips: 100
+Big Blind: Dovetry, chips: 200
+Folds: Vapee
+Pot size: 300
+Boasts: Dovetry, 7s Th
+Wins: Dovetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dovetry
+Small Blind: Dovetry, chips: 100
+Big Blind: Vapee, chips: 200
+Folds: Dovetry
+Pot size: 300
+Boasts: Dovetry, 9s Ks
+Wins: Vapee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vapee
+Small Blind: Vapee, chips: 100
+Big Blind: Dovetry, chips: 200
+Folds: Vapee
+Pot size: 300
+Boasts: Dovetry, 4s 6s
+Wins: Dovetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dovetry
+Small Blind: Dovetry, chips: 100
+Big Blind: Vapee, chips: 200
+Calls: Dovetry
+DEBUG MESSAGE: INVALID ACTION FROM Vapee (2 0)
+Folds: Vapee
+Pot size: 400
+Boasts: Dovetry, 4d Kd
+Wins: Dovetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vapee
+Small Blind: Vapee, chips: 100
+Big Blind: Dovetry, chips: 200
+Flop: Ac Th 5s
+Turn: 9d
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Vapee, 5d 8c
+Combination: Vapee, Pair ( 5d 5s Ac Th 9d )
+Shows: Dovetry, 3h 8h
+Combination: Dovetry, High Card ( Ac Th 9d 8h 5s )
+Wins: Vapee, chips: 200
+Wins: Dovetry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dovetry
+Small Blind: Dovetry, chips: 100
+Big Blind: Vapee, chips: 200
+Flop: 5s Qc 3c
+Turn: Ks
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Vapee, 4d Kc
+Combination: Vapee, Pair ( Kc Ks Qc Th 5s )
+Shows: Dovetry, Jc 2h
+Combination: Dovetry, High Card ( Ks Qc Jc Th 5s )
+Wins: Vapee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vapee
+Small Blind: Vapee, chips: 100
+Big Blind: Dovetry, chips: 200
+Folds: Vapee
+Pot size: 300
+Boasts: Dovetry, Kc 5c
+Wins: Dovetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dovetry
+Small Blind: Dovetry, chips: 100
+Big Blind: Vapee, chips: 200
+Flop: Ts 2h 6d
+Turn: 9c
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Vapee, Js 2c
+Combination: Vapee, Pair ( 2c 2h Js Ts 9c )
+Shows: Dovetry, 9h 9d
+Combination: Dovetry, Three Of A Kind ( 9h 9d 9c Ts 6d )
+Wins: Vapee, chips: 100
+Wins: Dovetry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vapee
+Small Blind: Vapee, chips: 100
+Big Blind: Dovetry, chips: 200
+Flop: Qd 9h 3h
+Turn: 5h
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Vapee, 6s 9d
+Combination: Vapee, Two Pair ( 9d 9h 3h 3d Qd )
+Shows: Dovetry, 4h 8h
+Combination: Dovetry, Flush ( 9h 8h 5h 4h 3h )
+Wins: Dovetry, chips: 300
+Quits: Vapee, chips: 0
+Ranking: Dovetry, Place: 1, Score: 1000
+Reveal AI: Dovetry, AI: Random
+Ranking: Vapee, Place: 2, Score: -1000
+Reveal AI: Vapee, AI: AIMyBot1
+
+Player Stats for Dovetry, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Vapee, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:45:43
+
+The game begins. The AI's of the players are: 
+Vapee: AIMyBot1
+Dovetry: Random
+
+Joins: Vapee, chips: 1000
+Joins: Dovetry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vapee
+Small Blind: Vapee, chips: 100
+Big Blind: Dovetry, chips: 200
+Folds: Vapee
+Pot size: 300
+Wins: Dovetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dovetry
+Small Blind: Dovetry, chips: 100
+Big Blind: Vapee, chips: 200
+Raises: Dovetry, chips: 300
+Folds: Vapee
+Pot size: 700
+Wins: Dovetry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vapee
+Small Blind: Vapee, chips: 100
+Big Blind: Dovetry, chips: 200
+Folds: Vapee
+Pot size: 300
+Boasts: Dovetry, Ks As
+Wins: Dovetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dovetry
+Small Blind: Dovetry, chips: 100
+Big Blind: Vapee, chips: 200
+Calls: Dovetry
+DEBUG MESSAGE: INVALID ACTION FROM Vapee (2 0)
+Folds: Vapee
+Pot size: 400
+Wins: Dovetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vapee
+Small Blind: Vapee, chips: 100
+Big Blind: Dovetry, chips: 200
+Folds: Vapee
+Pot size: 300
+Boasts: Dovetry, 7s Th
+Wins: Dovetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dovetry
+Small Blind: Dovetry, chips: 100
+Big Blind: Vapee, chips: 200
+Folds: Dovetry
+Pot size: 300
+Boasts: Dovetry, 9s Ks
+Wins: Vapee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vapee
+Small Blind: Vapee, chips: 100
+Big Blind: Dovetry, chips: 200
+Folds: Vapee
+Pot size: 300
+Boasts: Dovetry, 4s 6s
+Wins: Dovetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dovetry
+Small Blind: Dovetry, chips: 100
+Big Blind: Vapee, chips: 200
+Calls: Dovetry
+DEBUG MESSAGE: INVALID ACTION FROM Vapee (2 0)
+Folds: Vapee
+Pot size: 400
+Boasts: Dovetry, 4d Kd
+Wins: Dovetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vapee
+Small Blind: Vapee, chips: 100
+Big Blind: Dovetry, chips: 200
+Flop: Ac Th 5s
+Turn: 9d
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Vapee, 5d 8c
+Combination: Vapee, Pair ( 5d 5s Ac Th 9d )
+Shows: Dovetry, 3h 8h
+Combination: Dovetry, High Card ( Ac Th 9d 8h 5s )
+Wins: Vapee, chips: 200
+Wins: Dovetry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dovetry
+Small Blind: Dovetry, chips: 100
+Big Blind: Vapee, chips: 200
+Flop: 5s Qc 3c
+Turn: Ks
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Vapee, 4d Kc
+Combination: Vapee, Pair ( Kc Ks Qc Th 5s )
+Shows: Dovetry, Jc 2h
+Combination: Dovetry, High Card ( Ks Qc Jc Th 5s )
+Wins: Vapee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vapee
+Small Blind: Vapee, chips: 100
+Big Blind: Dovetry, chips: 200
+Folds: Vapee
+Pot size: 300
+Boasts: Dovetry, Kc 5c
+Wins: Dovetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dovetry
+Small Blind: Dovetry, chips: 100
+Big Blind: Vapee, chips: 200
+Flop: Ts 2h 6d
+Turn: 9c
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Vapee, Js 2c
+Combination: Vapee, Pair ( 2c 2h Js Ts 9c )
+Shows: Dovetry, 9h 9d
+Combination: Dovetry, Three Of A Kind ( 9h 9d 9c Ts 6d )
+Wins: Vapee, chips: 100
+Wins: Dovetry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vapee
+Small Blind: Vapee, chips: 100
+Big Blind: Dovetry, chips: 200
+Flop: Qd 9h 3h
+Turn: 5h
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Vapee, 6s 9d
+Combination: Vapee, Two Pair ( 9d 9h 3h 3d Qd )
+Shows: Dovetry, 4h 8h
+Combination: Dovetry, Flush ( 9h 8h 5h 4h 3h )
+Wins: Dovetry, chips: 300
+Quits: Vapee, chips: 0
+Ranking: Dovetry, Place: 1, Score: 1000
+Reveal AI: Dovetry, AI: Random
+Ranking: Vapee, Place: 2, Score: -1000
+Reveal AI: Vapee, AI: AIMyBot1
+
+Player Stats for Dovetry, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Vapee, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

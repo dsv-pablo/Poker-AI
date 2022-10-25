@@ -1,0 +1,248 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Huka: AIMyBot1
+Gudohi: Random
+
+Joins: Huka, chips: 1000
+Joins: Gudohi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huka
+Small Blind: Huka, chips: 100
+Big Blind: Gudohi, chips: 200
+Folds: Huka
+Pot size: 300
+Wins: Gudohi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gudohi
+Small Blind: Gudohi, chips: 100
+Big Blind: Huka, chips: 200
+Raises: Gudohi, chips: 300
+Folds: Huka
+Pot size: 700
+Boasts: Gudohi, 4c 8s
+Wins: Gudohi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huka
+Small Blind: Huka, chips: 100
+Big Blind: Gudohi, chips: 200
+Folds: Huka
+Pot size: 300
+Wins: Gudohi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gudohi
+Small Blind: Gudohi, chips: 100
+Big Blind: Huka, chips: 200
+Folds: Gudohi
+Pot size: 300
+Wins: Huka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huka
+Small Blind: Huka, chips: 100
+Big Blind: Gudohi, chips: 200
+Folds: Huka
+Pot size: 300
+Wins: Gudohi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gudohi
+Small Blind: Gudohi, chips: 100
+Big Blind: Huka, chips: 200
+Folds: Gudohi
+Pot size: 300
+Wins: Huka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huka
+Small Blind: Huka, chips: 100
+Big Blind: Gudohi, chips: 200
+Folds: Huka
+Pot size: 300
+Boasts: Gudohi, Ks Ts
+Wins: Gudohi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gudohi
+Small Blind: Gudohi, chips: 100
+Big Blind: Huka, chips: 200
+Calls: Gudohi
+DEBUG MESSAGE: INVALID ACTION FROM Huka (2 0)
+Folds: Huka
+Pot size: 400
+Wins: Gudohi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huka
+Small Blind: Huka, chips: 100
+Big Blind: Gudohi, chips: 200
+Folds: Huka
+Pot size: 300
+Boasts: Gudohi, 7d Ad
+Wins: Gudohi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gudohi
+Small Blind: Gudohi, chips: 100
+Big Blind: Huka, chips: 200
+Raises: Gudohi, chips: 300
+Folds: Huka
+Pot size: 700
+Wins: Gudohi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huka
+Small Blind: Huka, chips: 100
+Big Blind: Gudohi, chips: 200
+Flop: Ts 4c 5d
+Turn: 5c
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Huka, Js 8s
+Combination: Huka, Two Pair ( 5d 5c 4c 4s Js )
+Shows: Gudohi, 4h 6c
+Combination: Gudohi, Full House ( 4h 4c 4s 5d 5c )
+Wins: Gudohi, chips: 300
+Quits: Huka, chips: 0
+Ranking: Gudohi, Place: 1, Score: 1000
+Reveal AI: Gudohi, AI: Random
+Ranking: Huka, Place: 2, Score: -1000
+Reveal AI: Huka, AI: AIMyBot1
+
+Player Stats for Gudohi, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Huka, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:39
+
+The game begins. The AI's of the players are: 
+Huka: AIMyBot1
+Gudohi: Random
+
+Joins: Huka, chips: 1000
+Joins: Gudohi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huka
+Small Blind: Huka, chips: 100
+Big Blind: Gudohi, chips: 200
+Folds: Huka
+Pot size: 300
+Wins: Gudohi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gudohi
+Small Blind: Gudohi, chips: 100
+Big Blind: Huka, chips: 200
+Raises: Gudohi, chips: 300
+Folds: Huka
+Pot size: 700
+Boasts: Gudohi, 4c 8s
+Wins: Gudohi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huka
+Small Blind: Huka, chips: 100
+Big Blind: Gudohi, chips: 200
+Folds: Huka
+Pot size: 300
+Wins: Gudohi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gudohi
+Small Blind: Gudohi, chips: 100
+Big Blind: Huka, chips: 200
+Folds: Gudohi
+Pot size: 300
+Wins: Huka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huka
+Small Blind: Huka, chips: 100
+Big Blind: Gudohi, chips: 200
+Folds: Huka
+Pot size: 300
+Wins: Gudohi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gudohi
+Small Blind: Gudohi, chips: 100
+Big Blind: Huka, chips: 200
+Folds: Gudohi
+Pot size: 300
+Wins: Huka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huka
+Small Blind: Huka, chips: 100
+Big Blind: Gudohi, chips: 200
+Folds: Huka
+Pot size: 300
+Boasts: Gudohi, Ks Ts
+Wins: Gudohi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gudohi
+Small Blind: Gudohi, chips: 100
+Big Blind: Huka, chips: 200
+Calls: Gudohi
+DEBUG MESSAGE: INVALID ACTION FROM Huka (2 0)
+Folds: Huka
+Pot size: 400
+Wins: Gudohi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huka
+Small Blind: Huka, chips: 100
+Big Blind: Gudohi, chips: 200
+Folds: Huka
+Pot size: 300
+Boasts: Gudohi, 7d Ad
+Wins: Gudohi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gudohi
+Small Blind: Gudohi, chips: 100
+Big Blind: Huka, chips: 200
+Raises: Gudohi, chips: 300
+Folds: Huka
+Pot size: 700
+Wins: Gudohi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huka
+Small Blind: Huka, chips: 100
+Big Blind: Gudohi, chips: 200
+Flop: Ts 4c 5d
+Turn: 5c
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Huka, Js 8s
+Combination: Huka, Two Pair ( 5d 5c 4c 4s Js )
+Shows: Gudohi, 4h 6c
+Combination: Gudohi, Full House ( 4h 4c 4s 5d 5c )
+Wins: Gudohi, chips: 300
+Quits: Huka, chips: 0
+Ranking: Gudohi, Place: 1, Score: 1000
+Reveal AI: Gudohi, AI: Random
+Ranking: Huka, Place: 2, Score: -1000
+Reveal AI: Huka, AI: AIMyBot1
+
+Player Stats for Gudohi, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Huka, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

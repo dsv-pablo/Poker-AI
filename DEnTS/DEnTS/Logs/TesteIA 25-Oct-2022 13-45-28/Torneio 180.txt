@@ -1,0 +1,328 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Va: AIMyBot1
+He: Random
+
+Joins: Va, chips: 1000
+Joins: He, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Va
+Small Blind: Va, chips: 100
+Big Blind: He, chips: 200
+Folds: Va
+Pot size: 300
+Wins: He, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Va, chips: 200
+Calls: He
+DEBUG MESSAGE: INVALID ACTION FROM Va (2 0)
+Folds: Va
+Pot size: 400
+Boasts: He, Kc 5c
+Wins: He, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Va
+Small Blind: Va, chips: 100
+Big Blind: He, chips: 200
+Folds: Va
+Pot size: 300
+Boasts: He, Kd Jh
+Wins: He, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Va, chips: 200
+Raises: He, chips: 300
+Folds: Va
+Pot size: 700
+Boasts: He, 4c Kd
+Wins: He, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Va
+Small Blind: Va, chips: 100
+Big Blind: He, chips: 200
+Folds: Va
+Pot size: 300
+Wins: He, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Va, chips: 200
+Folds: He
+Pot size: 300
+Boasts: He, Qh 3c
+Wins: Va, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Va
+Small Blind: Va, chips: 100
+Big Blind: He, chips: 200
+Folds: Va
+Pot size: 300
+Boasts: He, 5d 4h
+Wins: He, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Va, chips: 200
+Calls: He
+DEBUG MESSAGE: INVALID ACTION FROM Va (2 0)
+Folds: Va
+Pot size: 400
+Wins: He, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Va
+Small Blind: Va, chips: 100
+Big Blind: He, chips: 200
+Flop: Jh 3d 6c
+Turn: Ah
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Va, 9h 3h
+Combination: Va, Pair ( 3h 3d Ah Jh 9h )
+Shows: He, 7d Qc
+Combination: He, High Card ( Ah Qc Jh 7d 6c )
+Wins: Va, chips: 200
+Wins: He, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Va, chips: 200
+Flop: 6h 2h Qc
+Turn: Qd
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Va, 8d Ah
+Combination: Va, Pair ( Qc Qd Ah 8d 6h )
+Shows: He, Ks 9d
+Combination: He, Pair ( Qc Qd Ks 9d 6h )
+Wins: Va, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Va
+Small Blind: Va, chips: 100
+Big Blind: He, chips: 200
+Folds: Va
+Pot size: 300
+Wins: He, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Va, chips: 200
+Flop: 3c Ks 6h
+Turn: 6c
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Va, Ac 3s
+Combination: Va, Two Pair ( 6h 6c 3s 3c Ac )
+Shows: He, Kc Jc
+Combination: He, Two Pair ( Kc Ks 6h 6c Jc )
+Wins: Va, chips: 100
+Wins: He, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Va
+Small Blind: Va, chips: 100
+Big Blind: He, chips: 200
+Flop: 4s As Kh
+Turn: Jh
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Va, 2d 3s
+Combination: Va, Pair ( As Ac Kh Jh 4s )
+Shows: He, 6h 7s
+Combination: He, Pair ( As Ac Kh Jh 7s )
+Wins: He, chips: 300
+Quits: Va, chips: 0
+Ranking: He, Place: 1, Score: 1000
+Reveal AI: He, AI: Random
+Ranking: Va, Place: 2, Score: -1000
+Reveal AI: Va, AI: AIMyBot1
+
+Player Stats for He, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Va, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:45:41
+
+The game begins. The AI's of the players are: 
+Va: AIMyBot1
+He: Random
+
+Joins: Va, chips: 1000
+Joins: He, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Va
+Small Blind: Va, chips: 100
+Big Blind: He, chips: 200
+Folds: Va
+Pot size: 300
+Wins: He, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Va, chips: 200
+Calls: He
+DEBUG MESSAGE: INVALID ACTION FROM Va (2 0)
+Folds: Va
+Pot size: 400
+Boasts: He, Kc 5c
+Wins: He, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Va
+Small Blind: Va, chips: 100
+Big Blind: He, chips: 200
+Folds: Va
+Pot size: 300
+Boasts: He, Kd Jh
+Wins: He, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Va, chips: 200
+Raises: He, chips: 300
+Folds: Va
+Pot size: 700
+Boasts: He, 4c Kd
+Wins: He, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Va
+Small Blind: Va, chips: 100
+Big Blind: He, chips: 200
+Folds: Va
+Pot size: 300
+Wins: He, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Va, chips: 200
+Folds: He
+Pot size: 300
+Boasts: He, Qh 3c
+Wins: Va, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Va
+Small Blind: Va, chips: 100
+Big Blind: He, chips: 200
+Folds: Va
+Pot size: 300
+Boasts: He, 5d 4h
+Wins: He, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Va, chips: 200
+Calls: He
+DEBUG MESSAGE: INVALID ACTION FROM Va (2 0)
+Folds: Va
+Pot size: 400
+Wins: He, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Va
+Small Blind: Va, chips: 100
+Big Blind: He, chips: 200
+Flop: Jh 3d 6c
+Turn: Ah
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Va, 9h 3h
+Combination: Va, Pair ( 3h 3d Ah Jh 9h )
+Shows: He, 7d Qc
+Combination: He, High Card ( Ah Qc Jh 7d 6c )
+Wins: Va, chips: 200
+Wins: He, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Va, chips: 200
+Flop: 6h 2h Qc
+Turn: Qd
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Va, 8d Ah
+Combination: Va, Pair ( Qc Qd Ah 8d 6h )
+Shows: He, Ks 9d
+Combination: He, Pair ( Qc Qd Ks 9d 6h )
+Wins: Va, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Va
+Small Blind: Va, chips: 100
+Big Blind: He, chips: 200
+Folds: Va
+Pot size: 300
+Wins: He, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: He
+Small Blind: He, chips: 100
+Big Blind: Va, chips: 200
+Flop: 3c Ks 6h
+Turn: 6c
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Va, Ac 3s
+Combination: Va, Two Pair ( 6h 6c 3s 3c Ac )
+Shows: He, Kc Jc
+Combination: He, Two Pair ( Kc Ks 6h 6c Jc )
+Wins: Va, chips: 100
+Wins: He, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Va
+Small Blind: Va, chips: 100
+Big Blind: He, chips: 200
+Flop: 4s As Kh
+Turn: Jh
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Va, 2d 3s
+Combination: Va, Pair ( As Ac Kh Jh 4s )
+Shows: He, 6h 7s
+Combination: He, Pair ( As Ac Kh Jh 7s )
+Wins: He, chips: 300
+Quits: Va, chips: 0
+Ranking: He, Place: 1, Score: 1000
+Reveal AI: He, AI: Random
+Ranking: Va, Place: 2, Score: -1000
+Reveal AI: Va, AI: AIMyBot1
+
+Player Stats for He, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Va, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

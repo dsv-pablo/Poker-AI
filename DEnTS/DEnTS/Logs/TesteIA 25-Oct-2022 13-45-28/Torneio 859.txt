@@ -1,0 +1,304 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Vuniwa: AIMyBot1
+Gorleedoel: Random
+
+Joins: Vuniwa, chips: 1000
+Joins: Gorleedoel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorleedoel
+Small Blind: Gorleedoel, chips: 100
+Big Blind: Vuniwa, chips: 200
+Folds: Gorleedoel
+Pot size: 300
+Boasts: Gorleedoel, 8c Kh
+Wins: Vuniwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuniwa
+Small Blind: Vuniwa, chips: 100
+Big Blind: Gorleedoel, chips: 200
+Folds: Vuniwa
+Pot size: 300
+Wins: Gorleedoel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorleedoel
+Small Blind: Gorleedoel, chips: 100
+Big Blind: Vuniwa, chips: 200
+Raises: Gorleedoel, chips: 300
+Folds: Vuniwa
+Pot size: 700
+Wins: Gorleedoel, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuniwa
+Small Blind: Vuniwa, chips: 100
+Big Blind: Gorleedoel, chips: 200
+Folds: Vuniwa
+Pot size: 300
+Wins: Gorleedoel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorleedoel
+Small Blind: Gorleedoel, chips: 100
+Big Blind: Vuniwa, chips: 200
+Calls: Gorleedoel
+DEBUG MESSAGE: INVALID ACTION FROM Vuniwa (2 0)
+Folds: Vuniwa
+Pot size: 400
+Wins: Gorleedoel, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuniwa
+Small Blind: Vuniwa, chips: 100
+Big Blind: Gorleedoel, chips: 200
+Folds: Vuniwa
+Pot size: 300
+Boasts: Gorleedoel, 6s 8c
+Wins: Gorleedoel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorleedoel
+Small Blind: Gorleedoel, chips: 100
+Big Blind: Vuniwa, chips: 200
+Raises: Gorleedoel, chips: 300
+Folds: Vuniwa
+Pot size: 700
+Wins: Gorleedoel, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuniwa
+Small Blind: Vuniwa, chips: 100
+Big Blind: Gorleedoel, chips: 200
+Folds: Vuniwa
+Pot size: 300
+Boasts: Gorleedoel, Js Tc
+Wins: Gorleedoel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorleedoel
+Small Blind: Gorleedoel, chips: 100
+Big Blind: Vuniwa, chips: 100
+Flop: 2s Qh 9h
+Turn: 6h
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Vuniwa, Ad 8c
+Combination: Vuniwa, Pair ( 2s 2d Ad Qh 9h )
+Shows: Gorleedoel, Js 4c
+Combination: Gorleedoel, Pair ( 2s 2d Qh Js 9h )
+Wins: Vuniwa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuniwa
+Small Blind: Vuniwa, chips: 100
+Big Blind: Gorleedoel, chips: 200
+Folds: Vuniwa
+Pot size: 300
+Wins: Gorleedoel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorleedoel
+Small Blind: Gorleedoel, chips: 100
+Big Blind: Vuniwa, chips: 100
+Flop: 6d Ks 8d
+Turn: 9h
+River: Kd
+Pot size: 200
+Showdown Reached
+Shows: Vuniwa, 5h Ah
+Combination: Vuniwa, Pair ( Ks Kd Ah 9h 8d )
+Shows: Gorleedoel, Jh 2s
+Combination: Gorleedoel, Pair ( Ks Kd Jh 9h 8d )
+Wins: Vuniwa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuniwa
+Small Blind: Vuniwa, chips: 100
+Big Blind: Gorleedoel, chips: 200
+Folds: Vuniwa
+Pot size: 300
+Wins: Gorleedoel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorleedoel
+Small Blind: Gorleedoel, chips: 100
+Big Blind: Vuniwa, chips: 100
+Flop: 8s 8d Qs
+Turn: Th
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Vuniwa, 5d 5s
+Combination: Vuniwa, Two Pair ( 8s 8d 5d 5s Qs )
+Shows: Gorleedoel, Jc Ts
+Combination: Gorleedoel, Two Pair ( Jc Jh Ts Th Qs )
+Wins: Gorleedoel, chips: 200
+Quits: Vuniwa, chips: 0
+Ranking: Gorleedoel, Place: 1, Score: 1000
+Reveal AI: Gorleedoel, AI: Random
+Ranking: Vuniwa, Place: 2, Score: -1000
+Reveal AI: Vuniwa, AI: AIMyBot1
+
+Player Stats for Gorleedoel, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Vuniwa, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:26
+
+The game begins. The AI's of the players are: 
+Vuniwa: AIMyBot1
+Gorleedoel: Random
+
+Joins: Vuniwa, chips: 1000
+Joins: Gorleedoel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorleedoel
+Small Blind: Gorleedoel, chips: 100
+Big Blind: Vuniwa, chips: 200
+Folds: Gorleedoel
+Pot size: 300
+Boasts: Gorleedoel, 8c Kh
+Wins: Vuniwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuniwa
+Small Blind: Vuniwa, chips: 100
+Big Blind: Gorleedoel, chips: 200
+Folds: Vuniwa
+Pot size: 300
+Wins: Gorleedoel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorleedoel
+Small Blind: Gorleedoel, chips: 100
+Big Blind: Vuniwa, chips: 200
+Raises: Gorleedoel, chips: 300
+Folds: Vuniwa
+Pot size: 700
+Wins: Gorleedoel, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuniwa
+Small Blind: Vuniwa, chips: 100
+Big Blind: Gorleedoel, chips: 200
+Folds: Vuniwa
+Pot size: 300
+Wins: Gorleedoel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorleedoel
+Small Blind: Gorleedoel, chips: 100
+Big Blind: Vuniwa, chips: 200
+Calls: Gorleedoel
+DEBUG MESSAGE: INVALID ACTION FROM Vuniwa (2 0)
+Folds: Vuniwa
+Pot size: 400
+Wins: Gorleedoel, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuniwa
+Small Blind: Vuniwa, chips: 100
+Big Blind: Gorleedoel, chips: 200
+Folds: Vuniwa
+Pot size: 300
+Boasts: Gorleedoel, 6s 8c
+Wins: Gorleedoel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorleedoel
+Small Blind: Gorleedoel, chips: 100
+Big Blind: Vuniwa, chips: 200
+Raises: Gorleedoel, chips: 300
+Folds: Vuniwa
+Pot size: 700
+Wins: Gorleedoel, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuniwa
+Small Blind: Vuniwa, chips: 100
+Big Blind: Gorleedoel, chips: 200
+Folds: Vuniwa
+Pot size: 300
+Boasts: Gorleedoel, Js Tc
+Wins: Gorleedoel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorleedoel
+Small Blind: Gorleedoel, chips: 100
+Big Blind: Vuniwa, chips: 100
+Flop: 2s Qh 9h
+Turn: 6h
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Vuniwa, Ad 8c
+Combination: Vuniwa, Pair ( 2s 2d Ad Qh 9h )
+Shows: Gorleedoel, Js 4c
+Combination: Gorleedoel, Pair ( 2s 2d Qh Js 9h )
+Wins: Vuniwa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuniwa
+Small Blind: Vuniwa, chips: 100
+Big Blind: Gorleedoel, chips: 200
+Folds: Vuniwa
+Pot size: 300
+Wins: Gorleedoel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorleedoel
+Small Blind: Gorleedoel, chips: 100
+Big Blind: Vuniwa, chips: 100
+Flop: 6d Ks 8d
+Turn: 9h
+River: Kd
+Pot size: 200
+Showdown Reached
+Shows: Vuniwa, 5h Ah
+Combination: Vuniwa, Pair ( Ks Kd Ah 9h 8d )
+Shows: Gorleedoel, Jh 2s
+Combination: Gorleedoel, Pair ( Ks Kd Jh 9h 8d )
+Wins: Vuniwa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuniwa
+Small Blind: Vuniwa, chips: 100
+Big Blind: Gorleedoel, chips: 200
+Folds: Vuniwa
+Pot size: 300
+Wins: Gorleedoel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorleedoel
+Small Blind: Gorleedoel, chips: 100
+Big Blind: Vuniwa, chips: 100
+Flop: 8s 8d Qs
+Turn: Th
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Vuniwa, 5d 5s
+Combination: Vuniwa, Two Pair ( 8s 8d 5d 5s Qs )
+Shows: Gorleedoel, Jc Ts
+Combination: Gorleedoel, Two Pair ( Jc Jh Ts Th Qs )
+Wins: Gorleedoel, chips: 200
+Quits: Vuniwa, chips: 0
+Ranking: Gorleedoel, Place: 1, Score: 1000
+Reveal AI: Gorleedoel, AI: Random
+Ranking: Vuniwa, Place: 2, Score: -1000
+Reveal AI: Vuniwa, AI: AIMyBot1
+
+Player Stats for Gorleedoel, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Vuniwa, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

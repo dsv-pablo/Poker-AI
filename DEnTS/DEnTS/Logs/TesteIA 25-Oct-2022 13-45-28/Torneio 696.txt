@@ -1,0 +1,728 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hura: AIMyBot1
+Choekul: Random
+
+Joins: Hura, chips: 1000
+Joins: Choekul, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Folds: Hura
+Pot size: 300
+Boasts: Choekul, Td 4d
+Wins: Choekul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Calls: Choekul
+DEBUG MESSAGE: INVALID ACTION FROM Hura (2 0)
+Folds: Hura
+Pot size: 400
+Wins: Choekul, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Folds: Hura
+Pot size: 300
+Wins: Choekul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Calls: Choekul
+DEBUG MESSAGE: INVALID ACTION FROM Hura (2 0)
+Folds: Hura
+Pot size: 400
+Wins: Choekul, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Folds: Hura
+Pot size: 300
+Boasts: Choekul, 6c 9d
+Wins: Choekul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Calls: Choekul
+DEBUG MESSAGE: INVALID ACTION FROM Hura (2 0)
+Folds: Hura
+Pot size: 400
+Boasts: Choekul, Tc 3s
+Wins: Choekul, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Flop: 6c Qd Js
+Turn: 8c
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Hura, Jd 2h
+Combination: Hura, Pair ( Jd Js Qd 8c 6c )
+Shows: Choekul, Kd Ac
+Combination: Choekul, High Card ( Ac Kd Qd Js 8c )
+Wins: Hura, chips: 200
+Wins: Choekul, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: 7h 3h 8s
+Turn: Th
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Hura, Qh 6d
+Combination: Hura, Pair ( 3h 3c Qh Th 8s )
+Shows: Choekul, 5s Tc
+Combination: Choekul, Two Pair ( Tc Th 3h 3c 8s )
+Wins: Hura, chips: 100
+Wins: Choekul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Flop: 8c Kd 6h
+Turn: 5s
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Hura, As 8h
+Combination: Hura, Pair ( 8h 8c As Kd 6h )
+Shows: Choekul, 2h 7h
+Combination: Choekul, High Card ( Kd 8c 7h 6h 5s )
+Wins: Hura, chips: 200
+Wins: Choekul, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: Ad 2c 8c
+Turn: 9d
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Hura, 7c Jd
+Combination: Hura, High Card ( Ad Qc Jd 9d 8c )
+Shows: Choekul, 4d 6d
+Combination: Choekul, High Card ( Ad Qc 9d 8c 6d )
+Wins: Hura, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Folds: Hura
+Pot size: 300
+Boasts: Choekul, 9c 4s
+Wins: Choekul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: 9h 6h Ks
+Turn: 5d
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Hura, Js 3d
+Combination: Hura, High Card ( Ks Js 9h 6h 5d )
+Shows: Choekul, Qc Qs
+Combination: Choekul, Pair ( Qc Qs Ks 9h 6h )
+Wins: Hura, chips: 100
+Wins: Choekul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Flop: Kh Jc 6c
+Turn: Qd
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Hura, Kc Jd
+Combination: Hura, Two Pair ( Kc Kh Jd Jc Qd )
+Shows: Choekul, As 9s
+Combination: Choekul, High Card ( As Kh Qd Jc 9s )
+Wins: Hura, chips: 200
+Wins: Choekul, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: 2c 8c Kd
+Turn: 3s
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Hura, 9c Td
+Combination: Hura, Pair ( 3s 3d Kd Td 9c )
+Shows: Choekul, 9h 6d
+Combination: Choekul, Pair ( 3s 3d Kd 9h 8c )
+Wins: Hura, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Folds: Hura
+Pot size: 300
+Wins: Choekul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: Qd 7c 8c
+Turn: 5h
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Hura, 4s 2c
+Combination: Hura, Pair ( 7c 7h Qd 8c 5h )
+Shows: Choekul, 9s 3c
+Combination: Choekul, Pair ( 7c 7h Qd 9s 8c )
+Wins: Hura, chips: 100
+Wins: Choekul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Flop: 6h 6c Jc
+Turn: 3h
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Hura, Ac Jd
+Combination: Hura, Two Pair ( Jd Jc 6h 6c Ac )
+Shows: Choekul, Ts 7s
+Combination: Choekul, Pair ( 6h 6c Jc Ts 7s )
+Wins: Hura, chips: 200
+Wins: Choekul, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: 5h 4d Kh
+Turn: 2c
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Hura, 7d Qd
+Combination: Hura, Pair ( 4d 4h Kh Qd 7d )
+Shows: Choekul, 6d 2s
+Combination: Choekul, Two Pair ( 4d 4h 2s 2c Kh )
+Wins: Hura, chips: 100
+Wins: Choekul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Flop: 8s 2h 5s
+Turn: 8d
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Hura, 3d 2c
+Combination: Hura, Two Pair ( 8s 8d 2c 2h Kc )
+Shows: Choekul, 7c 4c
+Combination: Choekul, Pair ( 8s 8d Kc 7c 5s )
+Wins: Hura, chips: 200
+Wins: Choekul, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: 6h 4h Jh
+Turn: 2d
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Hura, Qd 9h
+Combination: Hura, Pair ( 9h 9c Qd Jh 6h )
+Shows: Choekul, Ks Jd
+Combination: Choekul, Pair ( Jd Jh Ks 9c 6h )
+Wins: Hura, chips: 100
+Wins: Choekul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Flop: 4h 3h 7s
+Turn: 6d
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Hura, 6h 7d
+Combination: Hura, Two Pair ( 7d 7s 6h 6d Ks )
+Shows: Choekul, 3s Tc
+Combination: Choekul, Pair ( 3s 3h Ks Tc 7s )
+Wins: Hura, chips: 200
+Wins: Choekul, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: 7s 9c 4h
+Turn: 6s
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Hura, 3h 3c
+Combination: Hura, Pair ( 3h 3c Qd 9c 7s )
+Shows: Choekul, Jh 8c
+Combination: Choekul, High Card ( Qd Jh 9c 8c 7s )
+Wins: Hura, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Folds: Hura
+Pot size: 300
+Wins: Choekul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: 3c 5d 6c
+Turn: 8d
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Hura, 9h 8s
+Combination: Hura, Two Pair ( 8s 8d 6c 6d 9h )
+Shows: Choekul, As 5h
+Combination: Choekul, Two Pair ( 6c 6d 5h 5d As )
+Wins: Hura, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Folds: Hura
+Pot size: 300
+Boasts: Choekul, 3h 4c
+Wins: Choekul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: 9s 3d Qd
+Turn: 5s
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Hura, Ts 7d
+Combination: Hura, Pair ( 9s 9d Qd Ts 7d )
+Shows: Choekul, 5h 4h
+Combination: Choekul, Two Pair ( 9s 9d 5h 5s Qd )
+Wins: Hura, chips: 100
+Wins: Choekul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Flop: Ks Tc 2c
+Turn: 3d
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Hura, 6c 7h
+Combination: Hura, Pair ( 2c 2h Ks Tc 7h )
+Shows: Choekul, Ts Kd
+Combination: Choekul, Two Pair ( Kd Ks Ts Tc 3d )
+Wins: Choekul, chips: 300
+Quits: Hura, chips: 0
+Ranking: Choekul, Place: 1, Score: 1000
+Reveal AI: Choekul, AI: Random
+Ranking: Hura, Place: 2, Score: -1000
+Reveal AI: Hura, AI: AIMyBot1
+
+Player Stats for Choekul, AI: Random
+General: deals: 27, actions: 3, preflop actions: 3
+Rounds Seen: flops: 17, turns: 17, rivers: 17, showdowns: 17
+Wins: total: 23, showdown: 13, bluff: 10
+Chips: won: 5400, lost: 4400, bought: 1000, forced bets: 4100
+Pre-Flop Stats: VP$IP: 0.111111, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.764706
+
+
+Player Stats for Hura, AI: AIMyBot1
+General: deals: 27, actions: 10, preflop actions: 10
+Rounds Seen: flops: 17, turns: 17, rivers: 17, showdowns: 17
+Wins: total: 16, showdown: 16, bluff: 0
+Chips: won: 3000, lost: 4000, bought: 1000, forced bets: 4000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.941176
+
+
+Date: 2022/10/25 13:46:16
+
+The game begins. The AI's of the players are: 
+Hura: AIMyBot1
+Choekul: Random
+
+Joins: Hura, chips: 1000
+Joins: Choekul, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Folds: Hura
+Pot size: 300
+Boasts: Choekul, Td 4d
+Wins: Choekul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Calls: Choekul
+DEBUG MESSAGE: INVALID ACTION FROM Hura (2 0)
+Folds: Hura
+Pot size: 400
+Wins: Choekul, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Folds: Hura
+Pot size: 300
+Wins: Choekul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Calls: Choekul
+DEBUG MESSAGE: INVALID ACTION FROM Hura (2 0)
+Folds: Hura
+Pot size: 400
+Wins: Choekul, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Folds: Hura
+Pot size: 300
+Boasts: Choekul, 6c 9d
+Wins: Choekul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Calls: Choekul
+DEBUG MESSAGE: INVALID ACTION FROM Hura (2 0)
+Folds: Hura
+Pot size: 400
+Boasts: Choekul, Tc 3s
+Wins: Choekul, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Flop: 6c Qd Js
+Turn: 8c
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Hura, Jd 2h
+Combination: Hura, Pair ( Jd Js Qd 8c 6c )
+Shows: Choekul, Kd Ac
+Combination: Choekul, High Card ( Ac Kd Qd Js 8c )
+Wins: Hura, chips: 200
+Wins: Choekul, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: 7h 3h 8s
+Turn: Th
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Hura, Qh 6d
+Combination: Hura, Pair ( 3h 3c Qh Th 8s )
+Shows: Choekul, 5s Tc
+Combination: Choekul, Two Pair ( Tc Th 3h 3c 8s )
+Wins: Hura, chips: 100
+Wins: Choekul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Flop: 8c Kd 6h
+Turn: 5s
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Hura, As 8h
+Combination: Hura, Pair ( 8h 8c As Kd 6h )
+Shows: Choekul, 2h 7h
+Combination: Choekul, High Card ( Kd 8c 7h 6h 5s )
+Wins: Hura, chips: 200
+Wins: Choekul, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: Ad 2c 8c
+Turn: 9d
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Hura, 7c Jd
+Combination: Hura, High Card ( Ad Qc Jd 9d 8c )
+Shows: Choekul, 4d 6d
+Combination: Choekul, High Card ( Ad Qc 9d 8c 6d )
+Wins: Hura, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Folds: Hura
+Pot size: 300
+Boasts: Choekul, 9c 4s
+Wins: Choekul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: 9h 6h Ks
+Turn: 5d
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Hura, Js 3d
+Combination: Hura, High Card ( Ks Js 9h 6h 5d )
+Shows: Choekul, Qc Qs
+Combination: Choekul, Pair ( Qc Qs Ks 9h 6h )
+Wins: Hura, chips: 100
+Wins: Choekul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Flop: Kh Jc 6c
+Turn: Qd
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Hura, Kc Jd
+Combination: Hura, Two Pair ( Kc Kh Jd Jc Qd )
+Shows: Choekul, As 9s
+Combination: Choekul, High Card ( As Kh Qd Jc 9s )
+Wins: Hura, chips: 200
+Wins: Choekul, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: 2c 8c Kd
+Turn: 3s
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Hura, 9c Td
+Combination: Hura, Pair ( 3s 3d Kd Td 9c )
+Shows: Choekul, 9h 6d
+Combination: Choekul, Pair ( 3s 3d Kd 9h 8c )
+Wins: Hura, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Folds: Hura
+Pot size: 300
+Wins: Choekul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: Qd 7c 8c
+Turn: 5h
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Hura, 4s 2c
+Combination: Hura, Pair ( 7c 7h Qd 8c 5h )
+Shows: Choekul, 9s 3c
+Combination: Choekul, Pair ( 7c 7h Qd 9s 8c )
+Wins: Hura, chips: 100
+Wins: Choekul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Flop: 6h 6c Jc
+Turn: 3h
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Hura, Ac Jd
+Combination: Hura, Two Pair ( Jd Jc 6h 6c Ac )
+Shows: Choekul, Ts 7s
+Combination: Choekul, Pair ( 6h 6c Jc Ts 7s )
+Wins: Hura, chips: 200
+Wins: Choekul, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: 5h 4d Kh
+Turn: 2c
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Hura, 7d Qd
+Combination: Hura, Pair ( 4d 4h Kh Qd 7d )
+Shows: Choekul, 6d 2s
+Combination: Choekul, Two Pair ( 4d 4h 2s 2c Kh )
+Wins: Hura, chips: 100
+Wins: Choekul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Flop: 8s 2h 5s
+Turn: 8d
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Hura, 3d 2c
+Combination: Hura, Two Pair ( 8s 8d 2c 2h Kc )
+Shows: Choekul, 7c 4c
+Combination: Choekul, Pair ( 8s 8d Kc 7c 5s )
+Wins: Hura, chips: 200
+Wins: Choekul, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: 6h 4h Jh
+Turn: 2d
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Hura, Qd 9h
+Combination: Hura, Pair ( 9h 9c Qd Jh 6h )
+Shows: Choekul, Ks Jd
+Combination: Choekul, Pair ( Jd Jh Ks 9c 6h )
+Wins: Hura, chips: 100
+Wins: Choekul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Flop: 4h 3h 7s
+Turn: 6d
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Hura, 6h 7d
+Combination: Hura, Two Pair ( 7d 7s 6h 6d Ks )
+Shows: Choekul, 3s Tc
+Combination: Choekul, Pair ( 3s 3h Ks Tc 7s )
+Wins: Hura, chips: 200
+Wins: Choekul, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: 7s 9c 4h
+Turn: 6s
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Hura, 3h 3c
+Combination: Hura, Pair ( 3h 3c Qd 9c 7s )
+Shows: Choekul, Jh 8c
+Combination: Choekul, High Card ( Qd Jh 9c 8c 7s )
+Wins: Hura, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Folds: Hura
+Pot size: 300
+Wins: Choekul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: 3c 5d 6c
+Turn: 8d
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Hura, 9h 8s
+Combination: Hura, Two Pair ( 8s 8d 6c 6d 9h )
+Shows: Choekul, As 5h
+Combination: Choekul, Two Pair ( 6c 6d 5h 5d As )
+Wins: Hura, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Folds: Hura
+Pot size: 300
+Boasts: Choekul, 3h 4c
+Wins: Choekul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choekul
+Small Blind: Choekul, chips: 100
+Big Blind: Hura, chips: 200
+Flop: 9s 3d Qd
+Turn: 5s
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Hura, Ts 7d
+Combination: Hura, Pair ( 9s 9d Qd Ts 7d )
+Shows: Choekul, 5h 4h
+Combination: Choekul, Two Pair ( 9s 9d 5h 5s Qd )
+Wins: Hura, chips: 100
+Wins: Choekul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hura
+Small Blind: Hura, chips: 100
+Big Blind: Choekul, chips: 200
+Flop: Ks Tc 2c
+Turn: 3d
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Hura, 6c 7h
+Combination: Hura, Pair ( 2c 2h Ks Tc 7h )
+Shows: Choekul, Ts Kd
+Combination: Choekul, Two Pair ( Kd Ks Ts Tc 3d )
+Wins: Choekul, chips: 300
+Quits: Hura, chips: 0
+Ranking: Choekul, Place: 1, Score: 1000
+Reveal AI: Choekul, AI: Random
+Ranking: Hura, Place: 2, Score: -1000
+Reveal AI: Hura, AI: AIMyBot1
+
+Player Stats for Choekul, AI: Random
+General: deals: 27, actions: 3, preflop actions: 3
+Rounds Seen: flops: 17, turns: 17, rivers: 17, showdowns: 17
+Wins: total: 23, showdown: 13, bluff: 10
+Chips: won: 5400, lost: 4400, bought: 1000, forced bets: 4100
+Pre-Flop Stats: VP$IP: 0.111111, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.764706
+
+
+Player Stats for Hura, AI: AIMyBot1
+General: deals: 27, actions: 10, preflop actions: 10
+Rounds Seen: flops: 17, turns: 17, rivers: 17, showdowns: 17
+Wins: total: 16, showdown: 16, bluff: 0
+Chips: won: 3000, lost: 4000, bought: 1000, forced bets: 4000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.941176
+
+

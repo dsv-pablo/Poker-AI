@@ -1,0 +1,252 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gorlum: Random
+Kerluchoe: AIMyBot1
+
+Joins: Gorlum, chips: 1000
+Joins: Kerluchoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kerluchoe
+Small Blind: Kerluchoe, chips: 100
+Big Blind: Gorlum, chips: 200
+Folds: Kerluchoe
+Pot size: 300
+Wins: Gorlum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorlum
+Small Blind: Gorlum, chips: 100
+Big Blind: Kerluchoe, chips: 200
+Raises: Gorlum, chips: 300
+Folds: Kerluchoe
+Pot size: 700
+Boasts: Gorlum, 7c 7h
+Wins: Gorlum, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kerluchoe
+Small Blind: Kerluchoe, chips: 100
+Big Blind: Gorlum, chips: 200
+Folds: Kerluchoe
+Pot size: 300
+Wins: Gorlum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorlum
+Small Blind: Gorlum, chips: 100
+Big Blind: Kerluchoe, chips: 200
+Raises: Gorlum, chips: 300
+Folds: Kerluchoe
+Pot size: 700
+Boasts: Gorlum, 2s 8h
+Wins: Gorlum, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kerluchoe
+Small Blind: Kerluchoe, chips: 100
+Big Blind: Gorlum, chips: 200
+Folds: Kerluchoe
+Pot size: 300
+Boasts: Gorlum, 7h 2d
+Wins: Gorlum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorlum
+Small Blind: Gorlum, chips: 100
+Big Blind: Kerluchoe, chips: 200
+Raises: Gorlum, chips: 300
+Calls: Kerluchoe
+Flop: 3d As Kc
+Turn: 2h
+River: 2s
+Pot size: 800
+Showdown Reached
+Shows: Gorlum, Ts Ks
+Combination: Gorlum, Two Pair ( Ks Kc 2h 2s As )
+Shows: Kerluchoe, Kd Th
+Combination: Kerluchoe, Two Pair ( Kd Kc 2h 2s As )
+Wins: Gorlum, chips: 500
+Wins: Kerluchoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kerluchoe
+Small Blind: Kerluchoe, chips: 100
+Big Blind: Gorlum, chips: 200
+Folds: Kerluchoe
+Pot size: 300
+Wins: Gorlum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorlum
+Small Blind: Gorlum, chips: 100
+Big Blind: Kerluchoe, chips: 200
+Flop: Js 7s Qd
+Turn: Th
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Gorlum, Qc 6h
+Combination: Gorlum, Pair ( Qc Qd Js Th 7s )
+Shows: Kerluchoe, 7d 4h
+Combination: Kerluchoe, Pair ( 7d 7s Qd Js Th )
+Wins: Gorlum, chips: 200
+Wins: Kerluchoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kerluchoe
+Small Blind: Kerluchoe, chips: 100
+Big Blind: Gorlum, chips: 200
+Flop: 5h 9d Ah
+Turn: Qc
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Gorlum, 9s 9h
+Combination: Gorlum, Full House ( 9s 9h 9d 5h 5c )
+Shows: Kerluchoe, Kd Tc
+Combination: Kerluchoe, Pair ( 5h 5c Ah Kd Qc )
+Wins: Gorlum, chips: 300
+Quits: Kerluchoe, chips: 0
+Ranking: Gorlum, Place: 1, Score: 1000
+Reveal AI: Gorlum, AI: Random
+Ranking: Kerluchoe, Place: 2, Score: -1000
+Reveal AI: Kerluchoe, AI: AIMyBot1
+
+Player Stats for Gorlum, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Kerluchoe, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.111111, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:33
+
+The game begins. The AI's of the players are: 
+Gorlum: Random
+Kerluchoe: AIMyBot1
+
+Joins: Gorlum, chips: 1000
+Joins: Kerluchoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kerluchoe
+Small Blind: Kerluchoe, chips: 100
+Big Blind: Gorlum, chips: 200
+Folds: Kerluchoe
+Pot size: 300
+Wins: Gorlum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorlum
+Small Blind: Gorlum, chips: 100
+Big Blind: Kerluchoe, chips: 200
+Raises: Gorlum, chips: 300
+Folds: Kerluchoe
+Pot size: 700
+Boasts: Gorlum, 7c 7h
+Wins: Gorlum, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kerluchoe
+Small Blind: Kerluchoe, chips: 100
+Big Blind: Gorlum, chips: 200
+Folds: Kerluchoe
+Pot size: 300
+Wins: Gorlum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorlum
+Small Blind: Gorlum, chips: 100
+Big Blind: Kerluchoe, chips: 200
+Raises: Gorlum, chips: 300
+Folds: Kerluchoe
+Pot size: 700
+Boasts: Gorlum, 2s 8h
+Wins: Gorlum, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kerluchoe
+Small Blind: Kerluchoe, chips: 100
+Big Blind: Gorlum, chips: 200
+Folds: Kerluchoe
+Pot size: 300
+Boasts: Gorlum, 7h 2d
+Wins: Gorlum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorlum
+Small Blind: Gorlum, chips: 100
+Big Blind: Kerluchoe, chips: 200
+Raises: Gorlum, chips: 300
+Calls: Kerluchoe
+Flop: 3d As Kc
+Turn: 2h
+River: 2s
+Pot size: 800
+Showdown Reached
+Shows: Gorlum, Ts Ks
+Combination: Gorlum, Two Pair ( Ks Kc 2h 2s As )
+Shows: Kerluchoe, Kd Th
+Combination: Kerluchoe, Two Pair ( Kd Kc 2h 2s As )
+Wins: Gorlum, chips: 500
+Wins: Kerluchoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kerluchoe
+Small Blind: Kerluchoe, chips: 100
+Big Blind: Gorlum, chips: 200
+Folds: Kerluchoe
+Pot size: 300
+Wins: Gorlum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gorlum
+Small Blind: Gorlum, chips: 100
+Big Blind: Kerluchoe, chips: 200
+Flop: Js 7s Qd
+Turn: Th
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Gorlum, Qc 6h
+Combination: Gorlum, Pair ( Qc Qd Js Th 7s )
+Shows: Kerluchoe, 7d 4h
+Combination: Kerluchoe, Pair ( 7d 7s Qd Js Th )
+Wins: Gorlum, chips: 200
+Wins: Kerluchoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kerluchoe
+Small Blind: Kerluchoe, chips: 100
+Big Blind: Gorlum, chips: 200
+Flop: 5h 9d Ah
+Turn: Qc
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Gorlum, 9s 9h
+Combination: Gorlum, Full House ( 9s 9h 9d 5h 5c )
+Shows: Kerluchoe, Kd Tc
+Combination: Kerluchoe, Pair ( 5h 5c Ah Kd Qc )
+Wins: Gorlum, chips: 300
+Quits: Kerluchoe, chips: 0
+Ranking: Gorlum, Place: 1, Score: 1000
+Reveal AI: Gorlum, AI: Random
+Ranking: Kerluchoe, Place: 2, Score: -1000
+Reveal AI: Kerluchoe, AI: AIMyBot1
+
+Player Stats for Gorlum, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Kerluchoe, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.111111, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

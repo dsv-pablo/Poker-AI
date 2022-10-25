@@ -1,0 +1,256 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Dematry: Random
+Di: AIMyBot1
+
+Joins: Dematry, chips: 1000
+Joins: Di, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Dematry, chips: 200
+Folds: Di
+Pot size: 300
+Boasts: Dematry, 3d 8s
+Wins: Dematry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dematry
+Small Blind: Dematry, chips: 100
+Big Blind: Di, chips: 200
+Calls: Dematry
+DEBUG MESSAGE: INVALID ACTION FROM Di (2 0)
+Folds: Di
+Pot size: 400
+Boasts: Dematry, 9c 9h
+Wins: Dematry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Dematry, chips: 200
+Folds: Di
+Pot size: 300
+Wins: Dematry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dematry
+Small Blind: Dematry, chips: 100
+Big Blind: Di, chips: 200
+Folds: Dematry
+Pot size: 300
+Boasts: Dematry, 6s 3d
+Wins: Di, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Dematry, chips: 200
+Folds: Di
+Pot size: 300
+Boasts: Dematry, 7d Ad
+Wins: Dematry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dematry
+Small Blind: Dematry, chips: 100
+Big Blind: Di, chips: 200
+Calls: Dematry
+DEBUG MESSAGE: INVALID ACTION FROM Di (2 0)
+Folds: Di
+Pot size: 400
+Wins: Dematry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Dematry, chips: 200
+Folds: Di
+Pot size: 300
+Boasts: Dematry, 8d 9h
+Wins: Dematry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dematry
+Small Blind: Dematry, chips: 100
+Big Blind: Di, chips: 200
+Folds: Dematry
+Pot size: 300
+Wins: Di, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Dematry, chips: 200
+Folds: Di
+Pot size: 300
+Wins: Dematry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dematry
+Small Blind: Dematry, chips: 100
+Big Blind: Di, chips: 200
+Raises: Dematry, chips: 300
+Folds: Di
+Pot size: 700
+Boasts: Dematry, 4s Ac
+Wins: Dematry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Dematry, chips: 200
+Flop: 5h 6h 7c
+Turn: 9d
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Dematry, 6s 5c
+Combination: Dematry, Two Pair ( 6s 6h 5c 5h Td )
+Shows: Di, 2c 7d
+Combination: Di, Pair ( 7d 7c Td 9d 6h )
+Wins: Dematry, chips: 300
+Quits: Di, chips: 0
+Ranking: Dematry, Place: 1, Score: 1000
+Reveal AI: Dematry, AI: Random
+Ranking: Di, Place: 2, Score: -1000
+Reveal AI: Di, AI: AIMyBot1
+
+Player Stats for Dematry, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Di, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:41
+
+The game begins. The AI's of the players are: 
+Dematry: Random
+Di: AIMyBot1
+
+Joins: Dematry, chips: 1000
+Joins: Di, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Dematry, chips: 200
+Folds: Di
+Pot size: 300
+Boasts: Dematry, 3d 8s
+Wins: Dematry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dematry
+Small Blind: Dematry, chips: 100
+Big Blind: Di, chips: 200
+Calls: Dematry
+DEBUG MESSAGE: INVALID ACTION FROM Di (2 0)
+Folds: Di
+Pot size: 400
+Boasts: Dematry, 9c 9h
+Wins: Dematry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Dematry, chips: 200
+Folds: Di
+Pot size: 300
+Wins: Dematry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dematry
+Small Blind: Dematry, chips: 100
+Big Blind: Di, chips: 200
+Folds: Dematry
+Pot size: 300
+Boasts: Dematry, 6s 3d
+Wins: Di, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Dematry, chips: 200
+Folds: Di
+Pot size: 300
+Boasts: Dematry, 7d Ad
+Wins: Dematry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dematry
+Small Blind: Dematry, chips: 100
+Big Blind: Di, chips: 200
+Calls: Dematry
+DEBUG MESSAGE: INVALID ACTION FROM Di (2 0)
+Folds: Di
+Pot size: 400
+Wins: Dematry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Dematry, chips: 200
+Folds: Di
+Pot size: 300
+Boasts: Dematry, 8d 9h
+Wins: Dematry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dematry
+Small Blind: Dematry, chips: 100
+Big Blind: Di, chips: 200
+Folds: Dematry
+Pot size: 300
+Wins: Di, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Dematry, chips: 200
+Folds: Di
+Pot size: 300
+Wins: Dematry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dematry
+Small Blind: Dematry, chips: 100
+Big Blind: Di, chips: 200
+Raises: Dematry, chips: 300
+Folds: Di
+Pot size: 700
+Boasts: Dematry, 4s Ac
+Wins: Dematry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Di
+Small Blind: Di, chips: 100
+Big Blind: Dematry, chips: 200
+Flop: 5h 6h 7c
+Turn: 9d
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Dematry, 6s 5c
+Combination: Dematry, Two Pair ( 6s 6h 5c 5h Td )
+Shows: Di, 2c 7d
+Combination: Di, Pair ( 7d 7c Td 9d 6h )
+Wins: Dematry, chips: 300
+Quits: Di, chips: 0
+Ranking: Dematry, Place: 1, Score: 1000
+Reveal AI: Dematry, AI: Random
+Ranking: Di, Place: 2, Score: -1000
+Reveal AI: Di, AI: AIMyBot1
+
+Player Stats for Dematry, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Di, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

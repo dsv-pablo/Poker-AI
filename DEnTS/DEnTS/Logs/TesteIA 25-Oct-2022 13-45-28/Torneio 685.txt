@@ -1,0 +1,444 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pobe: AIMyBot1
+Chepo: Random
+
+Joins: Pobe, chips: 1000
+Joins: Chepo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Folds: Pobe
+Pot size: 300
+Wins: Chepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chepo
+Small Blind: Chepo, chips: 100
+Big Blind: Pobe, chips: 200
+Raises: Chepo, chips: 300
+Folds: Pobe
+Pot size: 700
+Boasts: Chepo, Jc Jh
+Wins: Chepo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Folds: Pobe
+Pot size: 300
+Wins: Chepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chepo
+Small Blind: Chepo, chips: 100
+Big Blind: Pobe, chips: 200
+Calls: Chepo
+DEBUG MESSAGE: INVALID ACTION FROM Pobe (2 0)
+Folds: Pobe
+Pot size: 400
+Boasts: Chepo, 4h Kd
+Wins: Chepo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Folds: Pobe
+Pot size: 300
+Wins: Chepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chepo
+Small Blind: Chepo, chips: 100
+Big Blind: Pobe, chips: 200
+Folds: Chepo
+Pot size: 300
+Wins: Pobe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Folds: Pobe
+Pot size: 300
+Boasts: Chepo, Kh 2d
+Wins: Chepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chepo
+Small Blind: Chepo, chips: 100
+Big Blind: Pobe, chips: 200
+Calls: Chepo
+DEBUG MESSAGE: INVALID ACTION FROM Pobe (2 0)
+Folds: Pobe
+Pot size: 400
+Wins: Chepo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Flop: 3d 6s Ah
+Turn: 4h
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Pobe, Ad 5d
+Combination: Pobe, Two Pair ( Ad Ah 6s 6h 5d )
+Shows: Chepo, As 2s
+Combination: Chepo, Two Pair ( As Ah 6s 6h 4h )
+Wins: Pobe, chips: 200
+Wins: Chepo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chepo
+Small Blind: Chepo, chips: 100
+Big Blind: Pobe, chips: 200
+Flop: 6s Ah 6c
+Turn: 9s
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Pobe, 9d 3s
+Combination: Pobe, Two Pair ( 9d 9s 6s 6c Ah )
+Shows: Chepo, 7h 2s
+Combination: Chepo, Pair ( 6s 6c Ah 9s 8s )
+Wins: Pobe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Folds: Pobe
+Pot size: 300
+Wins: Chepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chepo
+Small Blind: Chepo, chips: 100
+Big Blind: Pobe, chips: 200
+Flop: 6c 5h Jh
+Turn: 4d
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Pobe, Jc Ac
+Combination: Pobe, Two Pair ( Jc Jh 5h 5c Ac )
+Shows: Chepo, 3h 7c
+Combination: Chepo, Straight ( 7c 6c 5h 4d 3h )
+Wins: Pobe, chips: 100
+Wins: Chepo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Flop: 9c 7c Js
+Turn: 4h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Pobe, 8s Qh
+Combination: Pobe, High Card ( Ac Qh Js 9c 8s )
+Shows: Chepo, 3s 2c
+Combination: Chepo, High Card ( Ac Js 9c 7c 4h )
+Wins: Pobe, chips: 200
+Wins: Chepo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chepo
+Small Blind: Chepo, chips: 100
+Big Blind: Pobe, chips: 200
+Flop: Qd Kd 6d
+Turn: 8c
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Pobe, 9d 3c
+Combination: Pobe, High Card ( Kd Qd Th 9d 8c )
+Shows: Chepo, Qc Kc
+Combination: Chepo, Two Pair ( Kc Kd Qc Qd Th )
+Wins: Pobe, chips: 100
+Wins: Chepo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Flop: Jc Qh Th
+Turn: 7d
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Pobe, 7h 9h
+Combination: Pobe, Pair ( 7h 7d Qh Jc Th )
+Shows: Chepo, 8s Kd
+Combination: Chepo, High Card ( Kd Qh Jc Th 8s )
+Wins: Pobe, chips: 200
+Wins: Chepo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chepo
+Small Blind: Chepo, chips: 100
+Big Blind: Pobe, chips: 200
+Flop: Qc 5c Jc
+Turn: 2c
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Pobe, Jd Qs
+Combination: Pobe, Flush ( Qc Jc 5c 3c 2c )
+Shows: Chepo, Kc 4d
+Combination: Chepo, Flush ( Kc Qc Jc 5c 3c )
+Wins: Pobe, chips: 100
+Wins: Chepo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Flop: 3s 3c 7d
+Turn: 5h
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Pobe, 6h Qc
+Combination: Pobe, Pair ( 3s 3c Qc Td 7d )
+Shows: Chepo, Qh 8d
+Combination: Chepo, Pair ( 3s 3c Qh Td 8d )
+Wins: Chepo, chips: 300
+Quits: Pobe, chips: 0
+Ranking: Chepo, Place: 1, Score: 1000
+Reveal AI: Chepo, AI: Random
+Ranking: Pobe, Place: 2, Score: -1000
+Reveal AI: Pobe, AI: AIMyBot1
+
+Player Stats for Chepo, AI: Random
+General: deals: 17, actions: 4, preflop actions: 4
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 15, showdown: 7, bluff: 8
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Pobe, AI: AIMyBot1
+General: deals: 17, actions: 8, preflop actions: 8
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 8, showdown: 7, bluff: 1
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Date: 2022/10/25 13:46:15
+
+The game begins. The AI's of the players are: 
+Pobe: AIMyBot1
+Chepo: Random
+
+Joins: Pobe, chips: 1000
+Joins: Chepo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Folds: Pobe
+Pot size: 300
+Wins: Chepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chepo
+Small Blind: Chepo, chips: 100
+Big Blind: Pobe, chips: 200
+Raises: Chepo, chips: 300
+Folds: Pobe
+Pot size: 700
+Boasts: Chepo, Jc Jh
+Wins: Chepo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Folds: Pobe
+Pot size: 300
+Wins: Chepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chepo
+Small Blind: Chepo, chips: 100
+Big Blind: Pobe, chips: 200
+Calls: Chepo
+DEBUG MESSAGE: INVALID ACTION FROM Pobe (2 0)
+Folds: Pobe
+Pot size: 400
+Boasts: Chepo, 4h Kd
+Wins: Chepo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Folds: Pobe
+Pot size: 300
+Wins: Chepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chepo
+Small Blind: Chepo, chips: 100
+Big Blind: Pobe, chips: 200
+Folds: Chepo
+Pot size: 300
+Wins: Pobe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Folds: Pobe
+Pot size: 300
+Boasts: Chepo, Kh 2d
+Wins: Chepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chepo
+Small Blind: Chepo, chips: 100
+Big Blind: Pobe, chips: 200
+Calls: Chepo
+DEBUG MESSAGE: INVALID ACTION FROM Pobe (2 0)
+Folds: Pobe
+Pot size: 400
+Wins: Chepo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Flop: 3d 6s Ah
+Turn: 4h
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Pobe, Ad 5d
+Combination: Pobe, Two Pair ( Ad Ah 6s 6h 5d )
+Shows: Chepo, As 2s
+Combination: Chepo, Two Pair ( As Ah 6s 6h 4h )
+Wins: Pobe, chips: 200
+Wins: Chepo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chepo
+Small Blind: Chepo, chips: 100
+Big Blind: Pobe, chips: 200
+Flop: 6s Ah 6c
+Turn: 9s
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Pobe, 9d 3s
+Combination: Pobe, Two Pair ( 9d 9s 6s 6c Ah )
+Shows: Chepo, 7h 2s
+Combination: Chepo, Pair ( 6s 6c Ah 9s 8s )
+Wins: Pobe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Folds: Pobe
+Pot size: 300
+Wins: Chepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chepo
+Small Blind: Chepo, chips: 100
+Big Blind: Pobe, chips: 200
+Flop: 6c 5h Jh
+Turn: 4d
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Pobe, Jc Ac
+Combination: Pobe, Two Pair ( Jc Jh 5h 5c Ac )
+Shows: Chepo, 3h 7c
+Combination: Chepo, Straight ( 7c 6c 5h 4d 3h )
+Wins: Pobe, chips: 100
+Wins: Chepo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Flop: 9c 7c Js
+Turn: 4h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Pobe, 8s Qh
+Combination: Pobe, High Card ( Ac Qh Js 9c 8s )
+Shows: Chepo, 3s 2c
+Combination: Chepo, High Card ( Ac Js 9c 7c 4h )
+Wins: Pobe, chips: 200
+Wins: Chepo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chepo
+Small Blind: Chepo, chips: 100
+Big Blind: Pobe, chips: 200
+Flop: Qd Kd 6d
+Turn: 8c
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Pobe, 9d 3c
+Combination: Pobe, High Card ( Kd Qd Th 9d 8c )
+Shows: Chepo, Qc Kc
+Combination: Chepo, Two Pair ( Kc Kd Qc Qd Th )
+Wins: Pobe, chips: 100
+Wins: Chepo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Flop: Jc Qh Th
+Turn: 7d
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Pobe, 7h 9h
+Combination: Pobe, Pair ( 7h 7d Qh Jc Th )
+Shows: Chepo, 8s Kd
+Combination: Chepo, High Card ( Kd Qh Jc Th 8s )
+Wins: Pobe, chips: 200
+Wins: Chepo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chepo
+Small Blind: Chepo, chips: 100
+Big Blind: Pobe, chips: 200
+Flop: Qc 5c Jc
+Turn: 2c
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Pobe, Jd Qs
+Combination: Pobe, Flush ( Qc Jc 5c 3c 2c )
+Shows: Chepo, Kc 4d
+Combination: Chepo, Flush ( Kc Qc Jc 5c 3c )
+Wins: Pobe, chips: 100
+Wins: Chepo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pobe
+Small Blind: Pobe, chips: 100
+Big Blind: Chepo, chips: 200
+Flop: 3s 3c 7d
+Turn: 5h
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Pobe, 6h Qc
+Combination: Pobe, Pair ( 3s 3c Qc Td 7d )
+Shows: Chepo, Qh 8d
+Combination: Chepo, Pair ( 3s 3c Qh Td 8d )
+Wins: Chepo, chips: 300
+Quits: Pobe, chips: 0
+Ranking: Chepo, Place: 1, Score: 1000
+Reveal AI: Chepo, AI: Random
+Ranking: Pobe, Place: 2, Score: -1000
+Reveal AI: Pobe, AI: AIMyBot1
+
+Player Stats for Chepo, AI: Random
+General: deals: 17, actions: 4, preflop actions: 4
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 15, showdown: 7, bluff: 8
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Pobe, AI: AIMyBot1
+General: deals: 17, actions: 8, preflop actions: 8
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 8, showdown: 7, bluff: 1
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+

@@ -1,0 +1,310 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Lohuwu: AIMyBot1
+Geegodu: Random
+
+Joins: Lohuwu, chips: 1000
+Joins: Geegodu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geegodu
+Small Blind: Geegodu, chips: 100
+Big Blind: Lohuwu, chips: 200
+Calls: Geegodu
+DEBUG MESSAGE: INVALID ACTION FROM Lohuwu (2 0)
+Folds: Lohuwu
+Pot size: 400
+Boasts: Geegodu, 2h 8d
+Wins: Geegodu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lohuwu
+Small Blind: Lohuwu, chips: 100
+Big Blind: Geegodu, chips: 200
+Folds: Lohuwu
+Pot size: 300
+Boasts: Geegodu, 4h 8h
+Wins: Geegodu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geegodu
+Small Blind: Geegodu, chips: 100
+Big Blind: Lohuwu, chips: 200
+Folds: Geegodu
+Pot size: 300
+Wins: Lohuwu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lohuwu
+Small Blind: Lohuwu, chips: 100
+Big Blind: Geegodu, chips: 200
+Folds: Lohuwu
+Pot size: 300
+Wins: Geegodu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geegodu
+Small Blind: Geegodu, chips: 100
+Big Blind: Lohuwu, chips: 200
+Calls: Geegodu
+DEBUG MESSAGE: INVALID ACTION FROM Lohuwu (2 0)
+Folds: Lohuwu
+Pot size: 400
+Wins: Geegodu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lohuwu
+Small Blind: Lohuwu, chips: 100
+Big Blind: Geegodu, chips: 200
+Folds: Lohuwu
+Pot size: 300
+Boasts: Geegodu, Js 2h
+Wins: Geegodu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geegodu
+Small Blind: Geegodu, chips: 100
+Big Blind: Lohuwu, chips: 200
+Raises: Geegodu, chips: 300
+Folds: Lohuwu
+Pot size: 700
+Wins: Geegodu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lohuwu
+Small Blind: Lohuwu, chips: 100
+Big Blind: Geegodu, chips: 200
+Folds: Lohuwu
+Pot size: 300
+Wins: Geegodu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geegodu
+Small Blind: Geegodu, chips: 100
+Big Blind: Lohuwu, chips: 100
+Flop: Jh 9c 2s
+Turn: Qs
+River: 6s
+Pot size: 200
+Showdown Reached
+Shows: Lohuwu, Ad 4c
+Combination: Lohuwu, High Card ( Ad Qs Jh 9c 6s )
+Shows: Geegodu, Tc 3d
+Combination: Geegodu, High Card ( Qs Jh Tc 9c 6s )
+Wins: Lohuwu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lohuwu
+Small Blind: Lohuwu, chips: 100
+Big Blind: Geegodu, chips: 200
+Folds: Lohuwu
+Pot size: 300
+Boasts: Geegodu, 8c 8s
+Wins: Geegodu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geegodu
+Small Blind: Geegodu, chips: 100
+Big Blind: Lohuwu, chips: 100
+Flop: 2c 4s 9h
+Turn: Th
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Lohuwu, 6c As
+Combination: Lohuwu, High Card ( As Th 9h 6c 5h )
+Shows: Geegodu, 3s 7d
+Combination: Geegodu, High Card ( Th 9h 7d 5h 4s )
+Wins: Lohuwu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lohuwu
+Small Blind: Lohuwu, chips: 100
+Big Blind: Geegodu, chips: 200
+Folds: Lohuwu
+Pot size: 300
+Boasts: Geegodu, Kh 2h
+Wins: Geegodu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geegodu
+Small Blind: Geegodu, chips: 100
+Big Blind: Lohuwu, chips: 100
+Flop: 4d Jc 9s
+Turn: Ac
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Lohuwu, 6c 9d
+Combination: Lohuwu, Pair ( 9d 9s Ac Jc Tc )
+Shows: Geegodu, 2s As
+Combination: Geegodu, Pair ( As Ac Jc Tc 9s )
+Wins: Geegodu, chips: 200
+Quits: Lohuwu, chips: 0
+Ranking: Geegodu, Place: 1, Score: 1000
+Reveal AI: Geegodu, AI: Random
+Ranking: Lohuwu, Place: 2, Score: -1000
+Reveal AI: Lohuwu, AI: AIMyBot1
+
+Player Stats for Geegodu, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Lohuwu, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:53
+
+The game begins. The AI's of the players are: 
+Lohuwu: AIMyBot1
+Geegodu: Random
+
+Joins: Lohuwu, chips: 1000
+Joins: Geegodu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geegodu
+Small Blind: Geegodu, chips: 100
+Big Blind: Lohuwu, chips: 200
+Calls: Geegodu
+DEBUG MESSAGE: INVALID ACTION FROM Lohuwu (2 0)
+Folds: Lohuwu
+Pot size: 400
+Boasts: Geegodu, 2h 8d
+Wins: Geegodu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lohuwu
+Small Blind: Lohuwu, chips: 100
+Big Blind: Geegodu, chips: 200
+Folds: Lohuwu
+Pot size: 300
+Boasts: Geegodu, 4h 8h
+Wins: Geegodu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geegodu
+Small Blind: Geegodu, chips: 100
+Big Blind: Lohuwu, chips: 200
+Folds: Geegodu
+Pot size: 300
+Wins: Lohuwu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lohuwu
+Small Blind: Lohuwu, chips: 100
+Big Blind: Geegodu, chips: 200
+Folds: Lohuwu
+Pot size: 300
+Wins: Geegodu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geegodu
+Small Blind: Geegodu, chips: 100
+Big Blind: Lohuwu, chips: 200
+Calls: Geegodu
+DEBUG MESSAGE: INVALID ACTION FROM Lohuwu (2 0)
+Folds: Lohuwu
+Pot size: 400
+Wins: Geegodu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lohuwu
+Small Blind: Lohuwu, chips: 100
+Big Blind: Geegodu, chips: 200
+Folds: Lohuwu
+Pot size: 300
+Boasts: Geegodu, Js 2h
+Wins: Geegodu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geegodu
+Small Blind: Geegodu, chips: 100
+Big Blind: Lohuwu, chips: 200
+Raises: Geegodu, chips: 300
+Folds: Lohuwu
+Pot size: 700
+Wins: Geegodu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lohuwu
+Small Blind: Lohuwu, chips: 100
+Big Blind: Geegodu, chips: 200
+Folds: Lohuwu
+Pot size: 300
+Wins: Geegodu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geegodu
+Small Blind: Geegodu, chips: 100
+Big Blind: Lohuwu, chips: 100
+Flop: Jh 9c 2s
+Turn: Qs
+River: 6s
+Pot size: 200
+Showdown Reached
+Shows: Lohuwu, Ad 4c
+Combination: Lohuwu, High Card ( Ad Qs Jh 9c 6s )
+Shows: Geegodu, Tc 3d
+Combination: Geegodu, High Card ( Qs Jh Tc 9c 6s )
+Wins: Lohuwu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lohuwu
+Small Blind: Lohuwu, chips: 100
+Big Blind: Geegodu, chips: 200
+Folds: Lohuwu
+Pot size: 300
+Boasts: Geegodu, 8c 8s
+Wins: Geegodu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geegodu
+Small Blind: Geegodu, chips: 100
+Big Blind: Lohuwu, chips: 100
+Flop: 2c 4s 9h
+Turn: Th
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Lohuwu, 6c As
+Combination: Lohuwu, High Card ( As Th 9h 6c 5h )
+Shows: Geegodu, 3s 7d
+Combination: Geegodu, High Card ( Th 9h 7d 5h 4s )
+Wins: Lohuwu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lohuwu
+Small Blind: Lohuwu, chips: 100
+Big Blind: Geegodu, chips: 200
+Folds: Lohuwu
+Pot size: 300
+Boasts: Geegodu, Kh 2h
+Wins: Geegodu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geegodu
+Small Blind: Geegodu, chips: 100
+Big Blind: Lohuwu, chips: 100
+Flop: 4d Jc 9s
+Turn: Ac
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Lohuwu, 6c 9d
+Combination: Lohuwu, Pair ( 9d 9s Ac Jc Tc )
+Shows: Geegodu, 2s As
+Combination: Geegodu, Pair ( As Ac Jc Tc 9s )
+Wins: Geegodu, chips: 200
+Quits: Lohuwu, chips: 0
+Ranking: Geegodu, Place: 1, Score: 1000
+Reveal AI: Geegodu, AI: Random
+Ranking: Lohuwu, Place: 2, Score: -1000
+Reveal AI: Lohuwu, AI: AIMyBot1
+
+Player Stats for Geegodu, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Lohuwu, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

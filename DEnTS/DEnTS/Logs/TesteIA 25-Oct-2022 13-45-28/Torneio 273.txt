@@ -1,0 +1,196 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Koenha: Random
+Seetiwee: AIMyBot1
+
+Joins: Koenha, chips: 1000
+Joins: Seetiwee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seetiwee
+Small Blind: Seetiwee, chips: 100
+Big Blind: Koenha, chips: 200
+Folds: Seetiwee
+Pot size: 300
+Boasts: Koenha, Ts Kh
+Wins: Koenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenha
+Small Blind: Koenha, chips: 100
+Big Blind: Seetiwee, chips: 200
+Calls: Koenha
+DEBUG MESSAGE: INVALID ACTION FROM Seetiwee (2 0)
+Folds: Seetiwee
+Pot size: 400
+Boasts: Koenha, 3s 6s
+Wins: Koenha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seetiwee
+Small Blind: Seetiwee, chips: 100
+Big Blind: Koenha, chips: 200
+Folds: Seetiwee
+Pot size: 300
+Boasts: Koenha, 8h Jh
+Wins: Koenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenha
+Small Blind: Koenha, chips: 100
+Big Blind: Seetiwee, chips: 200
+Raises: Koenha, chips: 300
+Folds: Seetiwee
+Pot size: 700
+Boasts: Koenha, 5s 6h
+Wins: Koenha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seetiwee
+Small Blind: Seetiwee, chips: 100
+Big Blind: Koenha, chips: 200
+Folds: Seetiwee
+Pot size: 300
+Wins: Koenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenha
+Small Blind: Koenha, chips: 100
+Big Blind: Seetiwee, chips: 200
+Calls: Koenha
+DEBUG MESSAGE: INVALID ACTION FROM Seetiwee (2 0)
+Folds: Seetiwee
+Pot size: 400
+Wins: Koenha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seetiwee
+Small Blind: Seetiwee, chips: 100
+Big Blind: Koenha, chips: 200
+Flop: Ks 9c 4s
+Turn: 2s
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Koenha, Qs 6s
+Combination: Koenha, Flush ( Ks Qs 6s 4s 2s )
+Shows: Seetiwee, Qh Ac
+Combination: Seetiwee, High Card ( Ac Ks Qh 9c 8c )
+Wins: Koenha, chips: 300
+Quits: Seetiwee, chips: 0
+Ranking: Koenha, Place: 1, Score: 1000
+Reveal AI: Koenha, AI: Random
+Ranking: Seetiwee, Place: 2, Score: -1000
+Reveal AI: Seetiwee, AI: AIMyBot1
+
+Player Stats for Koenha, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Seetiwee, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:47
+
+The game begins. The AI's of the players are: 
+Koenha: Random
+Seetiwee: AIMyBot1
+
+Joins: Koenha, chips: 1000
+Joins: Seetiwee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seetiwee
+Small Blind: Seetiwee, chips: 100
+Big Blind: Koenha, chips: 200
+Folds: Seetiwee
+Pot size: 300
+Boasts: Koenha, Ts Kh
+Wins: Koenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenha
+Small Blind: Koenha, chips: 100
+Big Blind: Seetiwee, chips: 200
+Calls: Koenha
+DEBUG MESSAGE: INVALID ACTION FROM Seetiwee (2 0)
+Folds: Seetiwee
+Pot size: 400
+Boasts: Koenha, 3s 6s
+Wins: Koenha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seetiwee
+Small Blind: Seetiwee, chips: 100
+Big Blind: Koenha, chips: 200
+Folds: Seetiwee
+Pot size: 300
+Boasts: Koenha, 8h Jh
+Wins: Koenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenha
+Small Blind: Koenha, chips: 100
+Big Blind: Seetiwee, chips: 200
+Raises: Koenha, chips: 300
+Folds: Seetiwee
+Pot size: 700
+Boasts: Koenha, 5s 6h
+Wins: Koenha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seetiwee
+Small Blind: Seetiwee, chips: 100
+Big Blind: Koenha, chips: 200
+Folds: Seetiwee
+Pot size: 300
+Wins: Koenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koenha
+Small Blind: Koenha, chips: 100
+Big Blind: Seetiwee, chips: 200
+Calls: Koenha
+DEBUG MESSAGE: INVALID ACTION FROM Seetiwee (2 0)
+Folds: Seetiwee
+Pot size: 400
+Wins: Koenha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seetiwee
+Small Blind: Seetiwee, chips: 100
+Big Blind: Koenha, chips: 200
+Flop: Ks 9c 4s
+Turn: 2s
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Koenha, Qs 6s
+Combination: Koenha, Flush ( Ks Qs 6s 4s 2s )
+Shows: Seetiwee, Qh Ac
+Combination: Seetiwee, High Card ( Ac Ks Qh 9c 8c )
+Wins: Koenha, chips: 300
+Quits: Seetiwee, chips: 0
+Ranking: Koenha, Place: 1, Score: 1000
+Reveal AI: Koenha, AI: Random
+Ranking: Seetiwee, Place: 2, Score: -1000
+Reveal AI: Seetiwee, AI: AIMyBot1
+
+Player Stats for Koenha, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Seetiwee, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

@@ -1,0 +1,194 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jotesir: AIMyBot1
+Foemu: Random
+
+Joins: Jotesir, chips: 1000
+Joins: Foemu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemu
+Small Blind: Foemu, chips: 100
+Big Blind: Jotesir, chips: 200
+Folds: Foemu
+Pot size: 300
+Wins: Jotesir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jotesir
+Small Blind: Jotesir, chips: 100
+Big Blind: Foemu, chips: 200
+Folds: Jotesir
+Pot size: 300
+Boasts: Foemu, 3s As
+Wins: Foemu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemu
+Small Blind: Foemu, chips: 100
+Big Blind: Jotesir, chips: 200
+Raises: Foemu, chips: 300
+Folds: Jotesir
+Pot size: 700
+Wins: Foemu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jotesir
+Small Blind: Jotesir, chips: 100
+Big Blind: Foemu, chips: 200
+Folds: Jotesir
+Pot size: 300
+Boasts: Foemu, 8d Ts
+Wins: Foemu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemu
+Small Blind: Foemu, chips: 100
+Big Blind: Jotesir, chips: 200
+Calls: Foemu
+DEBUG MESSAGE: INVALID ACTION FROM Jotesir (2 0)
+Folds: Jotesir
+Pot size: 400
+Wins: Foemu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jotesir
+Small Blind: Jotesir, chips: 100
+Big Blind: Foemu, chips: 200
+Folds: Jotesir
+Pot size: 300
+Boasts: Foemu, Tc Td
+Wins: Foemu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemu
+Small Blind: Foemu, chips: 100
+Big Blind: Jotesir, chips: 200
+Raises: Foemu, chips: 300
+Calls: Jotesir
+Flop: 4s Th 2s
+Turn: 9d
+River: 8h
+Pot size: 900
+Showdown Reached
+Shows: Jotesir, 7c Qh
+Combination: Jotesir, High Card ( Qh Th 9d 8h 7c )
+Shows: Foemu, 8d 4h
+Combination: Foemu, Two Pair ( 8d 8h 4h 4s Th )
+Wins: Foemu, chips: 900
+Quits: Jotesir, chips: 0
+Ranking: Foemu, Place: 1, Score: 1000
+Reveal AI: Foemu, AI: Random
+Ranking: Jotesir, Place: 2, Score: -1000
+Reveal AI: Jotesir, AI: AIMyBot1
+
+Player Stats for Foemu, AI: Random
+General: deals: 7, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 1, bluff: 5
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Jotesir, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1400, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:39
+
+The game begins. The AI's of the players are: 
+Jotesir: AIMyBot1
+Foemu: Random
+
+Joins: Jotesir, chips: 1000
+Joins: Foemu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemu
+Small Blind: Foemu, chips: 100
+Big Blind: Jotesir, chips: 200
+Folds: Foemu
+Pot size: 300
+Wins: Jotesir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jotesir
+Small Blind: Jotesir, chips: 100
+Big Blind: Foemu, chips: 200
+Folds: Jotesir
+Pot size: 300
+Boasts: Foemu, 3s As
+Wins: Foemu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemu
+Small Blind: Foemu, chips: 100
+Big Blind: Jotesir, chips: 200
+Raises: Foemu, chips: 300
+Folds: Jotesir
+Pot size: 700
+Wins: Foemu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jotesir
+Small Blind: Jotesir, chips: 100
+Big Blind: Foemu, chips: 200
+Folds: Jotesir
+Pot size: 300
+Boasts: Foemu, 8d Ts
+Wins: Foemu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemu
+Small Blind: Foemu, chips: 100
+Big Blind: Jotesir, chips: 200
+Calls: Foemu
+DEBUG MESSAGE: INVALID ACTION FROM Jotesir (2 0)
+Folds: Jotesir
+Pot size: 400
+Wins: Foemu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jotesir
+Small Blind: Jotesir, chips: 100
+Big Blind: Foemu, chips: 200
+Folds: Jotesir
+Pot size: 300
+Boasts: Foemu, Tc Td
+Wins: Foemu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemu
+Small Blind: Foemu, chips: 100
+Big Blind: Jotesir, chips: 200
+Raises: Foemu, chips: 300
+Calls: Jotesir
+Flop: 4s Th 2s
+Turn: 9d
+River: 8h
+Pot size: 900
+Showdown Reached
+Shows: Jotesir, 7c Qh
+Combination: Jotesir, High Card ( Qh Th 9d 8h 7c )
+Shows: Foemu, 8d 4h
+Combination: Foemu, Two Pair ( 8d 8h 4h 4s Th )
+Wins: Foemu, chips: 900
+Quits: Jotesir, chips: 0
+Ranking: Foemu, Place: 1, Score: 1000
+Reveal AI: Foemu, AI: Random
+Ranking: Jotesir, Place: 2, Score: -1000
+Reveal AI: Jotesir, AI: AIMyBot1
+
+Player Stats for Foemu, AI: Random
+General: deals: 7, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 1, bluff: 5
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Jotesir, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1400, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

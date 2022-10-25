@@ -1,0 +1,232 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Mu: AIMyBot1
+Sofoettee: Random
+
+Joins: Mu, chips: 1000
+Joins: Sofoettee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sofoettee
+Small Blind: Sofoettee, chips: 100
+Big Blind: Mu, chips: 200
+Raises: Sofoettee, chips: 300
+Folds: Mu
+Pot size: 700
+Wins: Sofoettee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mu
+Small Blind: Mu, chips: 100
+Big Blind: Sofoettee, chips: 200
+Folds: Mu
+Pot size: 300
+Wins: Sofoettee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sofoettee
+Small Blind: Sofoettee, chips: 100
+Big Blind: Mu, chips: 200
+Raises: Sofoettee, chips: 300
+Folds: Mu
+Pot size: 700
+Boasts: Sofoettee, 2d Ks
+Wins: Sofoettee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mu
+Small Blind: Mu, chips: 100
+Big Blind: Sofoettee, chips: 200
+Folds: Mu
+Pot size: 300
+Wins: Sofoettee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sofoettee
+Small Blind: Sofoettee, chips: 100
+Big Blind: Mu, chips: 200
+Calls: Sofoettee
+DEBUG MESSAGE: INVALID ACTION FROM Mu (2 0)
+Folds: Mu
+Pot size: 400
+Wins: Sofoettee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mu
+Small Blind: Mu, chips: 100
+Big Blind: Sofoettee, chips: 200
+Folds: Mu
+Pot size: 300
+Wins: Sofoettee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sofoettee
+Small Blind: Sofoettee, chips: 100
+Big Blind: Mu, chips: 100
+Flop: 4d Jc 5s
+Turn: 6h
+River: 2s
+Pot size: 200
+Showdown Reached
+Shows: Mu, 2c 5c
+Combination: Mu, Two Pair ( 5c 5s 2c 2s Jc )
+Shows: Sofoettee, Kc 7c
+Combination: Sofoettee, High Card ( Kc Jc 7c 6h 5s )
+Wins: Mu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mu
+Small Blind: Mu, chips: 100
+Big Blind: Sofoettee, chips: 200
+Folds: Mu
+Pot size: 300
+Boasts: Sofoettee, Jc 5d
+Wins: Sofoettee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sofoettee
+Small Blind: Sofoettee, chips: 100
+Big Blind: Mu, chips: 100
+Flop: 8c 4s 7d
+Turn: Ac
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Mu, 8s Qh
+Combination: Mu, Pair ( 8s 8c Ac Qh Ts )
+Shows: Sofoettee, Ad 9h
+Combination: Sofoettee, Pair ( Ad Ac Ts 9h 8c )
+Wins: Sofoettee, chips: 200
+Quits: Mu, chips: 0
+Ranking: Sofoettee, Place: 1, Score: 1000
+Reveal AI: Sofoettee, AI: Random
+Ranking: Mu, Place: 2, Score: -1000
+Reveal AI: Mu, AI: AIMyBot1
+
+Player Stats for Mu, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Sofoettee, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:27
+
+The game begins. The AI's of the players are: 
+Mu: AIMyBot1
+Sofoettee: Random
+
+Joins: Mu, chips: 1000
+Joins: Sofoettee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sofoettee
+Small Blind: Sofoettee, chips: 100
+Big Blind: Mu, chips: 200
+Raises: Sofoettee, chips: 300
+Folds: Mu
+Pot size: 700
+Wins: Sofoettee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mu
+Small Blind: Mu, chips: 100
+Big Blind: Sofoettee, chips: 200
+Folds: Mu
+Pot size: 300
+Wins: Sofoettee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sofoettee
+Small Blind: Sofoettee, chips: 100
+Big Blind: Mu, chips: 200
+Raises: Sofoettee, chips: 300
+Folds: Mu
+Pot size: 700
+Boasts: Sofoettee, 2d Ks
+Wins: Sofoettee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mu
+Small Blind: Mu, chips: 100
+Big Blind: Sofoettee, chips: 200
+Folds: Mu
+Pot size: 300
+Wins: Sofoettee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sofoettee
+Small Blind: Sofoettee, chips: 100
+Big Blind: Mu, chips: 200
+Calls: Sofoettee
+DEBUG MESSAGE: INVALID ACTION FROM Mu (2 0)
+Folds: Mu
+Pot size: 400
+Wins: Sofoettee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mu
+Small Blind: Mu, chips: 100
+Big Blind: Sofoettee, chips: 200
+Folds: Mu
+Pot size: 300
+Wins: Sofoettee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sofoettee
+Small Blind: Sofoettee, chips: 100
+Big Blind: Mu, chips: 100
+Flop: 4d Jc 5s
+Turn: 6h
+River: 2s
+Pot size: 200
+Showdown Reached
+Shows: Mu, 2c 5c
+Combination: Mu, Two Pair ( 5c 5s 2c 2s Jc )
+Shows: Sofoettee, Kc 7c
+Combination: Sofoettee, High Card ( Kc Jc 7c 6h 5s )
+Wins: Mu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mu
+Small Blind: Mu, chips: 100
+Big Blind: Sofoettee, chips: 200
+Folds: Mu
+Pot size: 300
+Boasts: Sofoettee, Jc 5d
+Wins: Sofoettee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sofoettee
+Small Blind: Sofoettee, chips: 100
+Big Blind: Mu, chips: 100
+Flop: 8c 4s 7d
+Turn: Ac
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Mu, 8s Qh
+Combination: Mu, Pair ( 8s 8c Ac Qh Ts )
+Shows: Sofoettee, Ad 9h
+Combination: Sofoettee, Pair ( Ad Ac Ts 9h 8c )
+Wins: Sofoettee, chips: 200
+Quits: Mu, chips: 0
+Ranking: Sofoettee, Place: 1, Score: 1000
+Reveal AI: Sofoettee, AI: Random
+Ranking: Mu, Place: 2, Score: -1000
+Reveal AI: Mu, AI: AIMyBot1
+
+Player Stats for Mu, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Sofoettee, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

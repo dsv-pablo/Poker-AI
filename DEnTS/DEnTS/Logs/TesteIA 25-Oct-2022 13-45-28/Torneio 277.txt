@@ -1,0 +1,264 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Metturlan: Random
+Titi: AIMyBot1
+
+Joins: Metturlan, chips: 1000
+Joins: Titi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metturlan
+Small Blind: Metturlan, chips: 100
+Big Blind: Titi, chips: 200
+Folds: Metturlan
+Pot size: 300
+Wins: Titi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titi
+Small Blind: Titi, chips: 100
+Big Blind: Metturlan, chips: 200
+Folds: Titi
+Pot size: 300
+Wins: Metturlan, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metturlan
+Small Blind: Metturlan, chips: 100
+Big Blind: Titi, chips: 200
+Raises: Metturlan, chips: 300
+Folds: Titi
+Pot size: 700
+Wins: Metturlan, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titi
+Small Blind: Titi, chips: 100
+Big Blind: Metturlan, chips: 200
+Folds: Titi
+Pot size: 300
+Wins: Metturlan, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metturlan
+Small Blind: Metturlan, chips: 100
+Big Blind: Titi, chips: 200
+Calls: Metturlan
+DEBUG MESSAGE: INVALID ACTION FROM Titi (2 0)
+Folds: Titi
+Pot size: 400
+Boasts: Metturlan, Ad Qd
+Wins: Metturlan, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titi
+Small Blind: Titi, chips: 100
+Big Blind: Metturlan, chips: 200
+Folds: Titi
+Pot size: 300
+Boasts: Metturlan, Kh 7h
+Wins: Metturlan, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metturlan
+Small Blind: Metturlan, chips: 100
+Big Blind: Titi, chips: 200
+Raises: Metturlan, chips: 300
+Folds: Titi
+Pot size: 700
+Boasts: Metturlan, 7s 3h
+Wins: Metturlan, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titi
+Small Blind: Titi, chips: 100
+Big Blind: Metturlan, chips: 200
+Folds: Titi
+Pot size: 300
+Boasts: Metturlan, Jd 6h
+Wins: Metturlan, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metturlan
+Small Blind: Metturlan, chips: 100
+Big Blind: Titi, chips: 100
+Flop: 2c 3c 5s
+Turn: 8h
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Metturlan, 6c Ts
+Combination: Metturlan, Pair ( 3c 3s Ts 8h 6c )
+Shows: Titi, 4c 3h
+Combination: Titi, Three Of A Kind ( 3h 3c 3s 8h 5s )
+Wins: Titi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titi
+Small Blind: Titi, chips: 100
+Big Blind: Metturlan, chips: 200
+Folds: Titi
+Pot size: 300
+Wins: Metturlan, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metturlan
+Small Blind: Metturlan, chips: 100
+Big Blind: Titi, chips: 100
+Flop: 7s 8d 5d
+Turn: Qh
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Metturlan, 4h 6d
+Combination: Metturlan, Straight ( 9d 8d 7s 6d 5d )
+Shows: Titi, 8c As
+Combination: Titi, Pair ( 8c 8d As Qh 9d )
+Wins: Metturlan, chips: 200
+Quits: Titi, chips: 0
+Ranking: Metturlan, Place: 1, Score: 1000
+Reveal AI: Metturlan, AI: Random
+Ranking: Titi, Place: 2, Score: -1000
+Reveal AI: Titi, AI: AIMyBot1
+
+Player Stats for Metturlan, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Titi, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:47
+
+The game begins. The AI's of the players are: 
+Metturlan: Random
+Titi: AIMyBot1
+
+Joins: Metturlan, chips: 1000
+Joins: Titi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metturlan
+Small Blind: Metturlan, chips: 100
+Big Blind: Titi, chips: 200
+Folds: Metturlan
+Pot size: 300
+Wins: Titi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titi
+Small Blind: Titi, chips: 100
+Big Blind: Metturlan, chips: 200
+Folds: Titi
+Pot size: 300
+Wins: Metturlan, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metturlan
+Small Blind: Metturlan, chips: 100
+Big Blind: Titi, chips: 200
+Raises: Metturlan, chips: 300
+Folds: Titi
+Pot size: 700
+Wins: Metturlan, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titi
+Small Blind: Titi, chips: 100
+Big Blind: Metturlan, chips: 200
+Folds: Titi
+Pot size: 300
+Wins: Metturlan, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metturlan
+Small Blind: Metturlan, chips: 100
+Big Blind: Titi, chips: 200
+Calls: Metturlan
+DEBUG MESSAGE: INVALID ACTION FROM Titi (2 0)
+Folds: Titi
+Pot size: 400
+Boasts: Metturlan, Ad Qd
+Wins: Metturlan, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titi
+Small Blind: Titi, chips: 100
+Big Blind: Metturlan, chips: 200
+Folds: Titi
+Pot size: 300
+Boasts: Metturlan, Kh 7h
+Wins: Metturlan, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metturlan
+Small Blind: Metturlan, chips: 100
+Big Blind: Titi, chips: 200
+Raises: Metturlan, chips: 300
+Folds: Titi
+Pot size: 700
+Boasts: Metturlan, 7s 3h
+Wins: Metturlan, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titi
+Small Blind: Titi, chips: 100
+Big Blind: Metturlan, chips: 200
+Folds: Titi
+Pot size: 300
+Boasts: Metturlan, Jd 6h
+Wins: Metturlan, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metturlan
+Small Blind: Metturlan, chips: 100
+Big Blind: Titi, chips: 100
+Flop: 2c 3c 5s
+Turn: 8h
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Metturlan, 6c Ts
+Combination: Metturlan, Pair ( 3c 3s Ts 8h 6c )
+Shows: Titi, 4c 3h
+Combination: Titi, Three Of A Kind ( 3h 3c 3s 8h 5s )
+Wins: Titi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titi
+Small Blind: Titi, chips: 100
+Big Blind: Metturlan, chips: 200
+Folds: Titi
+Pot size: 300
+Wins: Metturlan, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Metturlan
+Small Blind: Metturlan, chips: 100
+Big Blind: Titi, chips: 100
+Flop: 7s 8d 5d
+Turn: Qh
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Metturlan, 4h 6d
+Combination: Metturlan, Straight ( 9d 8d 7s 6d 5d )
+Shows: Titi, 8c As
+Combination: Titi, Pair ( 8c 8d As Qh 9d )
+Wins: Metturlan, chips: 200
+Quits: Titi, chips: 0
+Ranking: Metturlan, Place: 1, Score: 1000
+Reveal AI: Metturlan, AI: Random
+Ranking: Titi, Place: 2, Score: -1000
+Reveal AI: Titi, AI: AIMyBot1
+
+Player Stats for Metturlan, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Titi, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

@@ -1,0 +1,290 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Chedoefi: AIMyBot1
+Logotry: Random
+
+Joins: Chedoefi, chips: 1000
+Joins: Logotry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chedoefi
+Small Blind: Chedoefi, chips: 100
+Big Blind: Logotry, chips: 200
+Folds: Chedoefi
+Pot size: 300
+Boasts: Logotry, 9c 6s
+Wins: Logotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Logotry
+Small Blind: Logotry, chips: 100
+Big Blind: Chedoefi, chips: 200
+Raises: Logotry, chips: 300
+Folds: Chedoefi
+Pot size: 700
+Wins: Logotry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chedoefi
+Small Blind: Chedoefi, chips: 100
+Big Blind: Logotry, chips: 200
+Folds: Chedoefi
+Pot size: 300
+Boasts: Logotry, 2c Jd
+Wins: Logotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Logotry
+Small Blind: Logotry, chips: 100
+Big Blind: Chedoefi, chips: 200
+Calls: Logotry
+DEBUG MESSAGE: INVALID ACTION FROM Chedoefi (2 0)
+Folds: Chedoefi
+Pot size: 400
+Boasts: Logotry, 4c 4s
+Wins: Logotry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chedoefi
+Small Blind: Chedoefi, chips: 100
+Big Blind: Logotry, chips: 200
+Folds: Chedoefi
+Pot size: 300
+Boasts: Logotry, 7c 2d
+Wins: Logotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Logotry
+Small Blind: Logotry, chips: 100
+Big Blind: Chedoefi, chips: 200
+Raises: Logotry, chips: 300
+Calls: Chedoefi
+Flop: 4h As 4d
+Turn: Jh
+River: Tc
+Pot size: 800
+Showdown Reached
+Shows: Chedoefi, Jc 7s
+Combination: Chedoefi, Two Pair ( Jc Jh 4h 4d As )
+Shows: Logotry, 7d Qh
+Combination: Logotry, Pair ( 4h 4d As Qh Jh )
+Wins: Chedoefi, chips: 600
+Wins: Logotry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chedoefi
+Small Blind: Chedoefi, chips: 100
+Big Blind: Logotry, chips: 200
+Folds: Chedoefi
+Pot size: 300
+Wins: Logotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Logotry
+Small Blind: Logotry, chips: 100
+Big Blind: Chedoefi, chips: 200
+Calls: Logotry
+DEBUG MESSAGE: INVALID ACTION FROM Chedoefi (2 0)
+Folds: Chedoefi
+Pot size: 400
+Boasts: Logotry, 2d Jc
+Wins: Logotry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chedoefi
+Small Blind: Chedoefi, chips: 100
+Big Blind: Logotry, chips: 200
+Folds: Chedoefi
+Pot size: 300
+Wins: Logotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Logotry
+Small Blind: Logotry, chips: 100
+Big Blind: Chedoefi, chips: 200
+Flop: 5h 4h 4s
+Turn: 4c
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Chedoefi, 7s Ah
+Combination: Chedoefi, Three Of A Kind ( 4h 4s 4c Ah 7s )
+Shows: Logotry, 6c 5s
+Combination: Logotry, Full House ( 4h 4s 4c 5s 5h )
+Wins: Chedoefi, chips: 100
+Wins: Logotry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chedoefi
+Small Blind: Chedoefi, chips: 100
+Big Blind: Logotry, chips: 200
+Flop: Qc 2d 9h
+Turn: Qh
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Chedoefi, 7h Td
+Combination: Chedoefi, Pair ( Qc Qh Td 9h 7h )
+Shows: Logotry, Kh Qs
+Combination: Logotry, Three Of A Kind ( Qs Qc Qh Kh 9h )
+Wins: Logotry, chips: 300
+Quits: Chedoefi, chips: 0
+Ranking: Logotry, Place: 1, Score: 1000
+Reveal AI: Logotry, AI: Random
+Ranking: Chedoefi, Place: 2, Score: -1000
+Reveal AI: Chedoefi, AI: AIMyBot1
+
+Player Stats for Chedoefi, AI: AIMyBot1
+General: deals: 11, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 700, lost: 1900, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.0909091, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Logotry, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3700, lost: 2700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.363636, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:49
+
+The game begins. The AI's of the players are: 
+Chedoefi: AIMyBot1
+Logotry: Random
+
+Joins: Chedoefi, chips: 1000
+Joins: Logotry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chedoefi
+Small Blind: Chedoefi, chips: 100
+Big Blind: Logotry, chips: 200
+Folds: Chedoefi
+Pot size: 300
+Boasts: Logotry, 9c 6s
+Wins: Logotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Logotry
+Small Blind: Logotry, chips: 100
+Big Blind: Chedoefi, chips: 200
+Raises: Logotry, chips: 300
+Folds: Chedoefi
+Pot size: 700
+Wins: Logotry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chedoefi
+Small Blind: Chedoefi, chips: 100
+Big Blind: Logotry, chips: 200
+Folds: Chedoefi
+Pot size: 300
+Boasts: Logotry, 2c Jd
+Wins: Logotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Logotry
+Small Blind: Logotry, chips: 100
+Big Blind: Chedoefi, chips: 200
+Calls: Logotry
+DEBUG MESSAGE: INVALID ACTION FROM Chedoefi (2 0)
+Folds: Chedoefi
+Pot size: 400
+Boasts: Logotry, 4c 4s
+Wins: Logotry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chedoefi
+Small Blind: Chedoefi, chips: 100
+Big Blind: Logotry, chips: 200
+Folds: Chedoefi
+Pot size: 300
+Boasts: Logotry, 7c 2d
+Wins: Logotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Logotry
+Small Blind: Logotry, chips: 100
+Big Blind: Chedoefi, chips: 200
+Raises: Logotry, chips: 300
+Calls: Chedoefi
+Flop: 4h As 4d
+Turn: Jh
+River: Tc
+Pot size: 800
+Showdown Reached
+Shows: Chedoefi, Jc 7s
+Combination: Chedoefi, Two Pair ( Jc Jh 4h 4d As )
+Shows: Logotry, 7d Qh
+Combination: Logotry, Pair ( 4h 4d As Qh Jh )
+Wins: Chedoefi, chips: 600
+Wins: Logotry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chedoefi
+Small Blind: Chedoefi, chips: 100
+Big Blind: Logotry, chips: 200
+Folds: Chedoefi
+Pot size: 300
+Wins: Logotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Logotry
+Small Blind: Logotry, chips: 100
+Big Blind: Chedoefi, chips: 200
+Calls: Logotry
+DEBUG MESSAGE: INVALID ACTION FROM Chedoefi (2 0)
+Folds: Chedoefi
+Pot size: 400
+Boasts: Logotry, 2d Jc
+Wins: Logotry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chedoefi
+Small Blind: Chedoefi, chips: 100
+Big Blind: Logotry, chips: 200
+Folds: Chedoefi
+Pot size: 300
+Wins: Logotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Logotry
+Small Blind: Logotry, chips: 100
+Big Blind: Chedoefi, chips: 200
+Flop: 5h 4h 4s
+Turn: 4c
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Chedoefi, 7s Ah
+Combination: Chedoefi, Three Of A Kind ( 4h 4s 4c Ah 7s )
+Shows: Logotry, 6c 5s
+Combination: Logotry, Full House ( 4h 4s 4c 5s 5h )
+Wins: Chedoefi, chips: 100
+Wins: Logotry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chedoefi
+Small Blind: Chedoefi, chips: 100
+Big Blind: Logotry, chips: 200
+Flop: Qc 2d 9h
+Turn: Qh
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Chedoefi, 7h Td
+Combination: Chedoefi, Pair ( Qc Qh Td 9h 7h )
+Shows: Logotry, Kh Qs
+Combination: Logotry, Three Of A Kind ( Qs Qc Qh Kh 9h )
+Wins: Logotry, chips: 300
+Quits: Chedoefi, chips: 0
+Ranking: Logotry, Place: 1, Score: 1000
+Reveal AI: Logotry, AI: Random
+Ranking: Chedoefi, Place: 2, Score: -1000
+Reveal AI: Chedoefi, AI: AIMyBot1
+
+Player Stats for Chedoefi, AI: AIMyBot1
+General: deals: 11, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 700, lost: 1900, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.0909091, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Logotry, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3700, lost: 2700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.363636, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

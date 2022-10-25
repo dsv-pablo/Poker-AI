@@ -1,0 +1,200 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Leettat: AIMyBot1
+Basokom: Random
+
+Joins: Leettat, chips: 1000
+Joins: Basokom, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettat
+Small Blind: Leettat, chips: 100
+Big Blind: Basokom, chips: 200
+Folds: Leettat
+Pot size: 300
+Wins: Basokom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Basokom
+Small Blind: Basokom, chips: 100
+Big Blind: Leettat, chips: 200
+Calls: Basokom
+DEBUG MESSAGE: INVALID ACTION FROM Leettat (2 0)
+Folds: Leettat
+Pot size: 400
+Boasts: Basokom, 9s Ts
+Wins: Basokom, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettat
+Small Blind: Leettat, chips: 100
+Big Blind: Basokom, chips: 200
+Folds: Leettat
+Pot size: 300
+Boasts: Basokom, 2h 5d
+Wins: Basokom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Basokom
+Small Blind: Basokom, chips: 100
+Big Blind: Leettat, chips: 200
+Calls: Basokom
+DEBUG MESSAGE: INVALID ACTION FROM Leettat (2 0)
+Folds: Leettat
+Pot size: 400
+Boasts: Basokom, 4d 9c
+Wins: Basokom, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettat
+Small Blind: Leettat, chips: 100
+Big Blind: Basokom, chips: 200
+Folds: Leettat
+Pot size: 300
+Boasts: Basokom, Kd 2s
+Wins: Basokom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Basokom
+Small Blind: Basokom, chips: 100
+Big Blind: Leettat, chips: 200
+Calls: Basokom
+DEBUG MESSAGE: INVALID ACTION FROM Leettat (2 0)
+Folds: Leettat
+Pot size: 400
+Boasts: Basokom, Kc 4c
+Wins: Basokom, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettat
+Small Blind: Leettat, chips: 100
+Big Blind: Basokom, chips: 200
+Flop: 7h 6s 2h
+Turn: 2c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Leettat, 3s 6d
+Combination: Leettat, Two Pair ( 6d 6s 2h 2c 8d )
+Shows: Basokom, 7c Kd
+Combination: Basokom, Two Pair ( 7c 7h 2h 2c Kd )
+Wins: Basokom, chips: 300
+Quits: Leettat, chips: 0
+Ranking: Basokom, Place: 1, Score: 1000
+Reveal AI: Basokom, AI: Random
+Ranking: Leettat, Place: 2, Score: -1000
+Reveal AI: Leettat, AI: AIMyBot1
+
+Player Stats for Basokom, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2400, lost: 1400, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Leettat, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:11
+
+The game begins. The AI's of the players are: 
+Leettat: AIMyBot1
+Basokom: Random
+
+Joins: Leettat, chips: 1000
+Joins: Basokom, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettat
+Small Blind: Leettat, chips: 100
+Big Blind: Basokom, chips: 200
+Folds: Leettat
+Pot size: 300
+Wins: Basokom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Basokom
+Small Blind: Basokom, chips: 100
+Big Blind: Leettat, chips: 200
+Calls: Basokom
+DEBUG MESSAGE: INVALID ACTION FROM Leettat (2 0)
+Folds: Leettat
+Pot size: 400
+Boasts: Basokom, 9s Ts
+Wins: Basokom, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettat
+Small Blind: Leettat, chips: 100
+Big Blind: Basokom, chips: 200
+Folds: Leettat
+Pot size: 300
+Boasts: Basokom, 2h 5d
+Wins: Basokom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Basokom
+Small Blind: Basokom, chips: 100
+Big Blind: Leettat, chips: 200
+Calls: Basokom
+DEBUG MESSAGE: INVALID ACTION FROM Leettat (2 0)
+Folds: Leettat
+Pot size: 400
+Boasts: Basokom, 4d 9c
+Wins: Basokom, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettat
+Small Blind: Leettat, chips: 100
+Big Blind: Basokom, chips: 200
+Folds: Leettat
+Pot size: 300
+Boasts: Basokom, Kd 2s
+Wins: Basokom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Basokom
+Small Blind: Basokom, chips: 100
+Big Blind: Leettat, chips: 200
+Calls: Basokom
+DEBUG MESSAGE: INVALID ACTION FROM Leettat (2 0)
+Folds: Leettat
+Pot size: 400
+Boasts: Basokom, Kc 4c
+Wins: Basokom, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettat
+Small Blind: Leettat, chips: 100
+Big Blind: Basokom, chips: 200
+Flop: 7h 6s 2h
+Turn: 2c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Leettat, 3s 6d
+Combination: Leettat, Two Pair ( 6d 6s 2h 2c 8d )
+Shows: Basokom, 7c Kd
+Combination: Basokom, Two Pair ( 7c 7h 2h 2c Kd )
+Wins: Basokom, chips: 300
+Quits: Leettat, chips: 0
+Ranking: Basokom, Place: 1, Score: 1000
+Reveal AI: Basokom, AI: Random
+Ranking: Leettat, Place: 2, Score: -1000
+Reveal AI: Leettat, AI: AIMyBot1
+
+Player Stats for Basokom, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2400, lost: 1400, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Leettat, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

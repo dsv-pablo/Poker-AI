@@ -1,0 +1,1128 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Mirlep: AIMyBot2
+Nemanny: AIMyBot3
+Gudoeber: AIMyBot7
+Chuttoen: AIMyBot5
+Wochupe: AIMyBot1
+Veedofe: AIMyBot4
+Biwrutto: AIMyBot6
+
+Joins: Mirlep, chips: 1000
+Joins: Nemanny, chips: 1000
+Joins: Gudoeber, chips: 1000
+Joins: Chuttoen, chips: 1000
+Joins: Wochupe, chips: 1000
+Joins: Veedofe, chips: 1000
+Joins: Biwrutto, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wochupe
+Small Blind: Veedofe, chips: 100
+Big Blind: Biwrutto, chips: 200
+Calls: Mirlep
+Folds: Nemanny
+Folds: Gudoeber
+Calls: Chuttoen
+Calls: Wochupe
+Folds: Veedofe
+Checks: Biwrutto
+Flop: 8c Kh 4c
+Checks: Biwrutto
+Raises: Mirlep, chips: 334
+Calls: Chuttoen
+Folds: Wochupe
+Folds: Biwrutto
+Turn: 9s
+Raises: Mirlep, chips: 334
+Calls: Chuttoen
+River: 5d
+Raises: Mirlep, chips: 132
+Folds: Chuttoen
+Pot size: 2368
+Wins: Mirlep, chips: 2368
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Biwrutto, chips: 100
+Big Blind: Mirlep, chips: 200
+Folds: Nemanny
+Folds: Gudoeber
+Calls: Chuttoen
+Calls: Wochupe
+Folds: Veedofe
+Folds: Biwrutto
+Raises: Mirlep, chips: 334
+Folds: Wochupe
+Flop: 2d Kd 6d
+Turn: Kc
+River: 9d
+Pot size: 966
+Showdown Reached
+Shows: Mirlep, Qc Kh
+Combination: Mirlep, Three Of A Kind ( Kh Kd Kc Qc 9d )
+Shows: Chuttoen, 5d 8d
+Combination: Chuttoen, Flush ( Kd 9d 8d 6d 5d )
+Wins: Mirlep, chips: 470
+Wins: Chuttoen, chips: 496
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Biwrutto
+Small Blind: Mirlep, chips: 100
+Big Blind: Nemanny, chips: 200
+Folds: Gudoeber
+Calls: Chuttoen
+Calls: Wochupe
+Folds: Veedofe
+Folds: Biwrutto
+Raises: Mirlep, chips: 234
+Folds: Nemanny
+Calls: Chuttoen
+Calls: Wochupe
+Flop: Tc Jd 7s
+Raises: Mirlep, chips: 334
+Calls: Chuttoen
+Folds: Wochupe
+Turn: 5h
+River: Qc
+Pot size: 1898
+Showdown Reached
+Shows: Mirlep, As 9h
+Combination: Mirlep, High Card ( As Qc Jd Tc 9h )
+Shows: Chuttoen, Ah Td
+Combination: Chuttoen, Pair ( Td Tc Ah Qc Jd )
+Wins: Mirlep, chips: 272
+Wins: Chuttoen, chips: 1626
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Nemanny, chips: 100
+Big Blind: Gudoeber, chips: 200
+Calls: Chuttoen
+Calls: Wochupe
+Folds: Veedofe
+Folds: Biwrutto
+Calls: Mirlep
+Folds: Nemanny
+DEBUG MESSAGE: INVALID ACTION FROM Gudoeber (2 0)
+Folds: Gudoeber
+Flop: 9s 7h 3d
+Checks: Chuttoen
+Raises: Mirlep, chips: 334
+Calls: Chuttoen
+Turn: Kc
+Checks: Chuttoen
+Raises: Mirlep, chips: 334
+Calls: Chuttoen
+River: Jh
+Checks: Chuttoen
+Raises: Mirlep, chips: 334
+Folds: Chuttoen
+Pot size: 2536
+Showdown Reached
+Shows: Mirlep, Qh 7s
+Combination: Mirlep, Pair ( 7s 7h Kc Qh Jh )
+Shows: Wochupe, 2d As
+Combination: Wochupe, High Card ( As Kc Jh 9s 7h )
+Wins: Mirlep, chips: 2536
+Quits: Wochupe, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemanny
+Small Blind: Gudoeber, chips: 100
+Big Blind: Chuttoen, chips: 200
+Folds: Veedofe
+Folds: Biwrutto
+Calls: Mirlep
+Folds: Nemanny
+Folds: Gudoeber
+Checks: Chuttoen
+Flop: 7c Qh Qs
+Checks: Chuttoen
+Raises: Mirlep, chips: 334
+Calls: Chuttoen
+Turn: Kd
+Checks: Chuttoen
+Raises: Mirlep, chips: 334
+Calls: Chuttoen
+River: Jh
+Pot size: 1726
+Showdown Reached
+Shows: Mirlep, Th 4s
+Combination: Mirlep, Pair ( Qh Qs Kd Jh Th )
+Shows: Chuttoen, 2s 8c
+Combination: Chuttoen, Pair ( Qh Qs Kd Jh 8c )
+Wins: Mirlep, chips: 1726
+Quits: Chuttoen, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gudoeber
+Small Blind: Veedofe, chips: 100
+Big Blind: Biwrutto, chips: 200
+Calls: Mirlep
+Folds: Nemanny
+Folds: Gudoeber
+Folds: Veedofe
+Checks: Biwrutto
+Flop: 9c Kh Kd
+Checks: Biwrutto
+Raises: Mirlep, chips: 334
+Folds: Biwrutto
+Pot size: 834
+Wins: Mirlep, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Biwrutto, chips: 100
+Big Blind: Mirlep, chips: 200
+Folds: Nemanny
+Folds: Gudoeber
+Folds: Veedofe
+Folds: Biwrutto
+Pot size: 300
+Wins: Mirlep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Biwrutto
+Small Blind: Mirlep, chips: 100
+Big Blind: Nemanny, chips: 200
+Folds: Gudoeber
+Folds: Veedofe
+Folds: Biwrutto
+Raises: Mirlep, chips: 234
+Folds: Nemanny
+Pot size: 634
+Wins: Mirlep, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Nemanny, chips: 100
+Big Blind: Gudoeber, chips: 200
+Folds: Veedofe
+Folds: Biwrutto
+Calls: Mirlep
+Folds: Nemanny
+DEBUG MESSAGE: INVALID ACTION FROM Gudoeber (2 0)
+Folds: Gudoeber
+Pot size: 500
+Wins: Mirlep, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemanny
+Small Blind: Gudoeber, chips: 100
+Big Blind: Veedofe, chips: 200
+Folds: Biwrutto
+Calls: Mirlep
+Folds: Nemanny
+Folds: Gudoeber
+Checks: Veedofe
+Flop: 7h Ad 3d
+Checks: Veedofe
+Raises: Mirlep, chips: 334
+Folds: Veedofe
+Pot size: 834
+Wins: Mirlep, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gudoeber
+Small Blind: Veedofe, chips: 100
+Big Blind: Biwrutto, chips: 200
+Calls: Mirlep
+Folds: Nemanny
+Folds: Gudoeber
+Folds: Veedofe
+Checks: Biwrutto
+Flop: 9d 5d 9c
+Checks: Biwrutto
+Raises: Mirlep, chips: 334
+Folds: Biwrutto
+Pot size: 834
+Wins: Mirlep, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Biwrutto, chips: 100
+Big Blind: Mirlep, chips: 200
+Folds: Nemanny
+Folds: Gudoeber
+Folds: Veedofe
+Folds: Biwrutto
+Pot size: 300
+Wins: Mirlep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Biwrutto
+Small Blind: Mirlep, chips: 100
+Big Blind: Nemanny, chips: 200
+Folds: Gudoeber
+Folds: Veedofe
+Folds: Biwrutto
+Raises: Mirlep, chips: 234
+Folds: Nemanny
+Pot size: 634
+Wins: Mirlep, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Nemanny, chips: 100
+Big Blind: Gudoeber, chips: 200
+Raises: Veedofe, chips: 300
+Folds: Biwrutto
+Folds: Mirlep
+Folds: Nemanny
+Folds: Gudoeber
+Pot size: 800
+Wins: Veedofe, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemanny
+Small Blind: Gudoeber, chips: 100
+Big Blind: Veedofe, chips: 200
+Folds: Biwrutto
+Calls: Mirlep
+Folds: Nemanny
+Folds: Gudoeber
+Checks: Veedofe
+Flop: 3c 6d Th
+Checks: Veedofe
+Raises: Mirlep, chips: 334
+Folds: Veedofe
+Pot size: 834
+Wins: Mirlep, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gudoeber
+Small Blind: Veedofe, chips: 100
+Big Blind: Biwrutto, chips: 100
+Raises: Mirlep, chips: 234
+Folds: Nemanny
+Folds: Gudoeber
+Folds: Veedofe
+Flop: Th 4d Ah
+Turn: 8h
+River: 6c
+Pot size: 534
+Showdown Reached
+Shows: Mirlep, As 6s
+Combination: Mirlep, Two Pair ( As Ah 6s 6c Th )
+Shows: Biwrutto, 4s 3h
+Combination: Biwrutto, Pair ( 4s 4d Ah Th 8h )
+Wins: Mirlep, chips: 534
+Quits: Biwrutto, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Mirlep, chips: 100
+Big Blind: Nemanny, chips: 100
+Folds: Gudoeber
+Folds: Veedofe
+Raises: Mirlep, chips: 334
+Flop: Ad Qh As
+Turn: 4c
+River: 9s
+Pot size: 534
+Showdown Reached
+Shows: Mirlep, Ks 3s
+Combination: Mirlep, Pair ( Ad As Ks Qh 9s )
+Shows: Nemanny, Js Td
+Combination: Nemanny, Pair ( Ad As Qh Js Td )
+Wins: Mirlep, chips: 534
+Quits: Nemanny, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Gudoeber, chips: 100
+Big Blind: Veedofe, chips: 200
+Calls: Mirlep
+Checks: Veedofe
+Flop: Ks 3h 6h
+Checks: Veedofe
+Raises: Mirlep, chips: 334
+Folds: Veedofe
+Turn: Td
+River: 3s
+Pot size: 834
+Showdown Reached
+Shows: Mirlep, 4h 6c
+Combination: Mirlep, Two Pair ( 6c 6h 3h 3s Ks )
+Shows: Gudoeber, 4s Jd
+Combination: Gudoeber, Pair ( 3h 3s Ks Jd Td )
+Wins: Mirlep, chips: 834
+Quits: Gudoeber, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Veedofe, chips: 100
+Big Blind: Mirlep, chips: 200
+Folds: Veedofe
+Pot size: 300
+Wins: Mirlep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Mirlep, chips: 100
+Big Blind: Veedofe, chips: 200
+Flop: Td 8h 9c
+Turn: 6h
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Mirlep, 3s Jc
+Combination: Mirlep, High Card ( Jc Td 9c 8h 6h )
+Shows: Veedofe, Ah 8c
+Combination: Veedofe, Pair ( 8c 8h Ah Td 9c )
+Wins: Veedofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Veedofe, chips: 100
+Big Blind: Mirlep, chips: 200
+Folds: Veedofe
+Pot size: 300
+Wins: Mirlep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Mirlep, chips: 100
+Big Blind: Veedofe, chips: 200
+Flop: 4d Ah Qh
+Turn: Qc
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Mirlep, 6c 8h
+Combination: Mirlep, Pair ( Qh Qc Ah 9h 8h )
+Shows: Veedofe, 7h Kd
+Combination: Veedofe, Pair ( Qh Qc Ah Kd 9h )
+Wins: Veedofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Veedofe, chips: 100
+Big Blind: Mirlep, chips: 200
+Folds: Veedofe
+Pot size: 300
+Wins: Mirlep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Mirlep, chips: 100
+Big Blind: Veedofe, chips: 200
+Flop: 6c Ks Qd
+Turn: Qh
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Mirlep, Kd Js
+Combination: Mirlep, Two Pair ( Kd Ks Qd Qh Js )
+Shows: Veedofe, 4d 7h
+Combination: Veedofe, Two Pair ( Qd Qh 7h 7s Ks )
+Wins: Mirlep, chips: 200
+Wins: Veedofe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Veedofe, chips: 100
+Big Blind: Mirlep, chips: 200
+Flop: 8s Tc 3d
+Turn: Qd
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Mirlep, Kc 7c
+Combination: Mirlep, High Card ( As Kc Qd Tc 8s )
+Shows: Veedofe, 8c 5s
+Combination: Veedofe, Pair ( 8c 8s As Qd Tc )
+Wins: Mirlep, chips: 100
+Wins: Veedofe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Mirlep, chips: 100
+Big Blind: Veedofe, chips: 200
+Flop: 9d Ah 5s
+Turn: Tc
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Mirlep, 8d 3d
+Combination: Mirlep, High Card ( Ah Jd Tc 9d 8d )
+Shows: Veedofe, 5c 3s
+Combination: Veedofe, Pair ( 5c 5s Ah Jd Tc )
+Wins: Veedofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Veedofe, chips: 100
+Big Blind: Mirlep, chips: 200
+Folds: Veedofe
+Pot size: 300
+Wins: Mirlep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Mirlep, chips: 100
+Big Blind: Veedofe, chips: 200
+Flop: 9c Th 3c
+Turn: Jd
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Mirlep, Ks 4d
+Combination: Mirlep, High Card ( Ks Jd Th 9c 7c )
+Shows: Veedofe, 6h 8d
+Combination: Veedofe, Straight ( Jd Th 9c 8d 7c )
+Wins: Veedofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Veedofe, chips: 100
+Big Blind: Mirlep, chips: 200
+Folds: Veedofe
+Pot size: 300
+Wins: Mirlep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Mirlep, chips: 100
+Big Blind: Veedofe, chips: 200
+Flop: Td 7c 7d
+Turn: 4d
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Mirlep, Ad 4s
+Combination: Mirlep, Two Pair ( 7c 7d 4s 4d Ad )
+Shows: Veedofe, 3c 4h
+Combination: Veedofe, Two Pair ( 7c 7d 4h 4d Qc )
+Wins: Mirlep, chips: 200
+Wins: Veedofe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Veedofe, chips: 100
+Big Blind: Mirlep, chips: 200
+Flop: 8c 7h 4h
+Turn: 2s
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Mirlep, 9s Ks
+Combination: Mirlep, High Card ( Ks 9s 8c 7h 6h )
+Shows: Veedofe, Qs Th
+Combination: Veedofe, High Card ( Qs Th 8c 7h 6h )
+Wins: Mirlep, chips: 300
+Quits: Veedofe, chips: 0
+Ranking: Mirlep, Place: 1, Score: 6000
+Reveal AI: Mirlep, AI: AIMyBot2
+Ranking: Veedofe, Place: 2, Score: -1000
+Reveal AI: Veedofe, AI: AIMyBot4
+Ranking: Gudoeber, Place: 3, Score: -1000
+Reveal AI: Gudoeber, AI: AIMyBot7
+Ranking: Nemanny, Place: 4, Score: -1000
+Reveal AI: Nemanny, AI: AIMyBot3
+Ranking: Biwrutto, Place: 5, Score: -1000
+Reveal AI: Biwrutto, AI: AIMyBot6
+Ranking: Chuttoen, Place: 6, Score: -1000
+Reveal AI: Chuttoen, AI: AIMyBot5
+Ranking: Wochupe, Place: 7, Score: -1000
+Reveal AI: Wochupe, AI: AIMyBot1
+
+Player Stats for Biwrutto, AI: AIMyBot6
+General: deals: 16, actions: 21, preflop actions: 15
+Rounds Seen: flops: 14, turns: 11, rivers: 11, showdowns: 11
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.785714, WSDW: 0
+
+
+Player Stats for Chuttoen, AI: AIMyBot5
+General: deals: 5, actions: 20, preflop actions: 6
+Rounds Seen: flops: 20, turns: 16, rivers: 16, showdowns: 14
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 2122, lost: 3572, bought: 1000, forced bets: 200
+Pre-Flop Stats: VP$IP: 0.8, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.7, WSDW: 0.142857
+
+
+Player Stats for Gudoeber, AI: AIMyBot7
+General: deals: 18, actions: 17, preflop actions: 17
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Mirlep, AI: AIMyBot2
+General: deals: 31, actions: 30, preflop actions: 16
+Rounds Seen: flops: 20, turns: 16, rivers: 16, showdowns: 15
+Wins: total: 26, showdown: 11, bluff: 15
+Chips: won: 17278, lost: 11278, bought: 1000, forced bets: 3000
+Pre-Flop Stats: VP$IP: 0.483871, PFR: 0.193548, 3Bet: 0.129032
+Post-Flop Stats: AF: 1.#INF, WSD: 0.75, WSDW: 0.733333
+
+
+Player Stats for Nemanny, AI: AIMyBot3
+General: deals: 17, actions: 16, preflop actions: 16
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Veedofe, AI: AIMyBot4
+General: deals: 31, actions: 29, preflop actions: 23
+Rounds Seen: flops: 11, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 8, showdown: 7, bluff: 1
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.0322581, PFR: 0.0322581, 3Bet: 0.0322581
+Post-Flop Stats: AF: -1.#IND, WSD: 0.727273, WSDW: 0.875
+
+
+Player Stats for Wochupe, AI: AIMyBot1
+General: deals: 4, actions: 8, preflop actions: 6
+Rounds Seen: flops: 19, turns: 13, rivers: 13, showdowns: 13
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1034, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.684211, WSDW: 0
+
+
+Date: 2018/06/12 16:33:47
+
+The game begins. The AI's of the players are: 
+Mirlep: AIMyBot2
+Nemanny: AIMyBot3
+Gudoeber: AIMyBot7
+Chuttoen: AIMyBot5
+Wochupe: AIMyBot1
+Veedofe: AIMyBot4
+Biwrutto: AIMyBot6
+
+Joins: Mirlep, chips: 1000
+Joins: Nemanny, chips: 1000
+Joins: Gudoeber, chips: 1000
+Joins: Chuttoen, chips: 1000
+Joins: Wochupe, chips: 1000
+Joins: Veedofe, chips: 1000
+Joins: Biwrutto, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wochupe
+Small Blind: Veedofe, chips: 100
+Big Blind: Biwrutto, chips: 200
+Calls: Mirlep
+Folds: Nemanny
+Folds: Gudoeber
+Calls: Chuttoen
+Calls: Wochupe
+Folds: Veedofe
+Checks: Biwrutto
+Flop: 8c Kh 4c
+Checks: Biwrutto
+Raises: Mirlep, chips: 334
+Calls: Chuttoen
+Folds: Wochupe
+Folds: Biwrutto
+Turn: 9s
+Raises: Mirlep, chips: 334
+Calls: Chuttoen
+River: 5d
+Raises: Mirlep, chips: 132
+Folds: Chuttoen
+Pot size: 2368
+Wins: Mirlep, chips: 2368
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Biwrutto, chips: 100
+Big Blind: Mirlep, chips: 200
+Folds: Nemanny
+Folds: Gudoeber
+Calls: Chuttoen
+Calls: Wochupe
+Folds: Veedofe
+Folds: Biwrutto
+Raises: Mirlep, chips: 334
+Folds: Wochupe
+Flop: 2d Kd 6d
+Turn: Kc
+River: 9d
+Pot size: 966
+Showdown Reached
+Shows: Mirlep, Qc Kh
+Combination: Mirlep, Three Of A Kind ( Kh Kd Kc Qc 9d )
+Shows: Chuttoen, 5d 8d
+Combination: Chuttoen, Flush ( Kd 9d 8d 6d 5d )
+Wins: Mirlep, chips: 470
+Wins: Chuttoen, chips: 496
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Biwrutto
+Small Blind: Mirlep, chips: 100
+Big Blind: Nemanny, chips: 200
+Folds: Gudoeber
+Calls: Chuttoen
+Calls: Wochupe
+Folds: Veedofe
+Folds: Biwrutto
+Raises: Mirlep, chips: 234
+Folds: Nemanny
+Calls: Chuttoen
+Calls: Wochupe
+Flop: Tc Jd 7s
+Raises: Mirlep, chips: 334
+Calls: Chuttoen
+Folds: Wochupe
+Turn: 5h
+River: Qc
+Pot size: 1898
+Showdown Reached
+Shows: Mirlep, As 9h
+Combination: Mirlep, High Card ( As Qc Jd Tc 9h )
+Shows: Chuttoen, Ah Td
+Combination: Chuttoen, Pair ( Td Tc Ah Qc Jd )
+Wins: Mirlep, chips: 272
+Wins: Chuttoen, chips: 1626
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Nemanny, chips: 100
+Big Blind: Gudoeber, chips: 200
+Calls: Chuttoen
+Calls: Wochupe
+Folds: Veedofe
+Folds: Biwrutto
+Calls: Mirlep
+Folds: Nemanny
+DEBUG MESSAGE: INVALID ACTION FROM Gudoeber (2 0)
+Folds: Gudoeber
+Flop: 9s 7h 3d
+Checks: Chuttoen
+Raises: Mirlep, chips: 334
+Calls: Chuttoen
+Turn: Kc
+Checks: Chuttoen
+Raises: Mirlep, chips: 334
+Calls: Chuttoen
+River: Jh
+Checks: Chuttoen
+Raises: Mirlep, chips: 334
+Folds: Chuttoen
+Pot size: 2536
+Showdown Reached
+Shows: Mirlep, Qh 7s
+Combination: Mirlep, Pair ( 7s 7h Kc Qh Jh )
+Shows: Wochupe, 2d As
+Combination: Wochupe, High Card ( As Kc Jh 9s 7h )
+Wins: Mirlep, chips: 2536
+Quits: Wochupe, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemanny
+Small Blind: Gudoeber, chips: 100
+Big Blind: Chuttoen, chips: 200
+Folds: Veedofe
+Folds: Biwrutto
+Calls: Mirlep
+Folds: Nemanny
+Folds: Gudoeber
+Checks: Chuttoen
+Flop: 7c Qh Qs
+Checks: Chuttoen
+Raises: Mirlep, chips: 334
+Calls: Chuttoen
+Turn: Kd
+Checks: Chuttoen
+Raises: Mirlep, chips: 334
+Calls: Chuttoen
+River: Jh
+Pot size: 1726
+Showdown Reached
+Shows: Mirlep, Th 4s
+Combination: Mirlep, Pair ( Qh Qs Kd Jh Th )
+Shows: Chuttoen, 2s 8c
+Combination: Chuttoen, Pair ( Qh Qs Kd Jh 8c )
+Wins: Mirlep, chips: 1726
+Quits: Chuttoen, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gudoeber
+Small Blind: Veedofe, chips: 100
+Big Blind: Biwrutto, chips: 200
+Calls: Mirlep
+Folds: Nemanny
+Folds: Gudoeber
+Folds: Veedofe
+Checks: Biwrutto
+Flop: 9c Kh Kd
+Checks: Biwrutto
+Raises: Mirlep, chips: 334
+Folds: Biwrutto
+Pot size: 834
+Wins: Mirlep, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Biwrutto, chips: 100
+Big Blind: Mirlep, chips: 200
+Folds: Nemanny
+Folds: Gudoeber
+Folds: Veedofe
+Folds: Biwrutto
+Pot size: 300
+Wins: Mirlep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Biwrutto
+Small Blind: Mirlep, chips: 100
+Big Blind: Nemanny, chips: 200
+Folds: Gudoeber
+Folds: Veedofe
+Folds: Biwrutto
+Raises: Mirlep, chips: 234
+Folds: Nemanny
+Pot size: 634
+Wins: Mirlep, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Nemanny, chips: 100
+Big Blind: Gudoeber, chips: 200
+Folds: Veedofe
+Folds: Biwrutto
+Calls: Mirlep
+Folds: Nemanny
+DEBUG MESSAGE: INVALID ACTION FROM Gudoeber (2 0)
+Folds: Gudoeber
+Pot size: 500
+Wins: Mirlep, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemanny
+Small Blind: Gudoeber, chips: 100
+Big Blind: Veedofe, chips: 200
+Folds: Biwrutto
+Calls: Mirlep
+Folds: Nemanny
+Folds: Gudoeber
+Checks: Veedofe
+Flop: 7h Ad 3d
+Checks: Veedofe
+Raises: Mirlep, chips: 334
+Folds: Veedofe
+Pot size: 834
+Wins: Mirlep, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gudoeber
+Small Blind: Veedofe, chips: 100
+Big Blind: Biwrutto, chips: 200
+Calls: Mirlep
+Folds: Nemanny
+Folds: Gudoeber
+Folds: Veedofe
+Checks: Biwrutto
+Flop: 9d 5d 9c
+Checks: Biwrutto
+Raises: Mirlep, chips: 334
+Folds: Biwrutto
+Pot size: 834
+Wins: Mirlep, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Biwrutto, chips: 100
+Big Blind: Mirlep, chips: 200
+Folds: Nemanny
+Folds: Gudoeber
+Folds: Veedofe
+Folds: Biwrutto
+Pot size: 300
+Wins: Mirlep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Biwrutto
+Small Blind: Mirlep, chips: 100
+Big Blind: Nemanny, chips: 200
+Folds: Gudoeber
+Folds: Veedofe
+Folds: Biwrutto
+Raises: Mirlep, chips: 234
+Folds: Nemanny
+Pot size: 634
+Wins: Mirlep, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Nemanny, chips: 100
+Big Blind: Gudoeber, chips: 200
+Raises: Veedofe, chips: 300
+Folds: Biwrutto
+Folds: Mirlep
+Folds: Nemanny
+Folds: Gudoeber
+Pot size: 800
+Wins: Veedofe, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemanny
+Small Blind: Gudoeber, chips: 100
+Big Blind: Veedofe, chips: 200
+Folds: Biwrutto
+Calls: Mirlep
+Folds: Nemanny
+Folds: Gudoeber
+Checks: Veedofe
+Flop: 3c 6d Th
+Checks: Veedofe
+Raises: Mirlep, chips: 334
+Folds: Veedofe
+Pot size: 834
+Wins: Mirlep, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gudoeber
+Small Blind: Veedofe, chips: 100
+Big Blind: Biwrutto, chips: 100
+Raises: Mirlep, chips: 234
+Folds: Nemanny
+Folds: Gudoeber
+Folds: Veedofe
+Flop: Th 4d Ah
+Turn: 8h
+River: 6c
+Pot size: 534
+Showdown Reached
+Shows: Mirlep, As 6s
+Combination: Mirlep, Two Pair ( As Ah 6s 6c Th )
+Shows: Biwrutto, 4s 3h
+Combination: Biwrutto, Pair ( 4s 4d Ah Th 8h )
+Wins: Mirlep, chips: 534
+Quits: Biwrutto, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Mirlep, chips: 100
+Big Blind: Nemanny, chips: 100
+Folds: Gudoeber
+Folds: Veedofe
+Raises: Mirlep, chips: 334
+Flop: Ad Qh As
+Turn: 4c
+River: 9s
+Pot size: 534
+Showdown Reached
+Shows: Mirlep, Ks 3s
+Combination: Mirlep, Pair ( Ad As Ks Qh 9s )
+Shows: Nemanny, Js Td
+Combination: Nemanny, Pair ( Ad As Qh Js Td )
+Wins: Mirlep, chips: 534
+Quits: Nemanny, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Gudoeber, chips: 100
+Big Blind: Veedofe, chips: 200
+Calls: Mirlep
+Checks: Veedofe
+Flop: Ks 3h 6h
+Checks: Veedofe
+Raises: Mirlep, chips: 334
+Folds: Veedofe
+Turn: Td
+River: 3s
+Pot size: 834
+Showdown Reached
+Shows: Mirlep, 4h 6c
+Combination: Mirlep, Two Pair ( 6c 6h 3h 3s Ks )
+Shows: Gudoeber, 4s Jd
+Combination: Gudoeber, Pair ( 3h 3s Ks Jd Td )
+Wins: Mirlep, chips: 834
+Quits: Gudoeber, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Veedofe, chips: 100
+Big Blind: Mirlep, chips: 200
+Folds: Veedofe
+Pot size: 300
+Wins: Mirlep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Mirlep, chips: 100
+Big Blind: Veedofe, chips: 200
+Flop: Td 8h 9c
+Turn: 6h
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Mirlep, 3s Jc
+Combination: Mirlep, High Card ( Jc Td 9c 8h 6h )
+Shows: Veedofe, Ah 8c
+Combination: Veedofe, Pair ( 8c 8h Ah Td 9c )
+Wins: Veedofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Veedofe, chips: 100
+Big Blind: Mirlep, chips: 200
+Folds: Veedofe
+Pot size: 300
+Wins: Mirlep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Mirlep, chips: 100
+Big Blind: Veedofe, chips: 200
+Flop: 4d Ah Qh
+Turn: Qc
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Mirlep, 6c 8h
+Combination: Mirlep, Pair ( Qh Qc Ah 9h 8h )
+Shows: Veedofe, 7h Kd
+Combination: Veedofe, Pair ( Qh Qc Ah Kd 9h )
+Wins: Veedofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Veedofe, chips: 100
+Big Blind: Mirlep, chips: 200
+Folds: Veedofe
+Pot size: 300
+Wins: Mirlep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Mirlep, chips: 100
+Big Blind: Veedofe, chips: 200
+Flop: 6c Ks Qd
+Turn: Qh
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Mirlep, Kd Js
+Combination: Mirlep, Two Pair ( Kd Ks Qd Qh Js )
+Shows: Veedofe, 4d 7h
+Combination: Veedofe, Two Pair ( Qd Qh 7h 7s Ks )
+Wins: Mirlep, chips: 200
+Wins: Veedofe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Veedofe, chips: 100
+Big Blind: Mirlep, chips: 200
+Flop: 8s Tc 3d
+Turn: Qd
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Mirlep, Kc 7c
+Combination: Mirlep, High Card ( As Kc Qd Tc 8s )
+Shows: Veedofe, 8c 5s
+Combination: Veedofe, Pair ( 8c 8s As Qd Tc )
+Wins: Mirlep, chips: 100
+Wins: Veedofe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Mirlep, chips: 100
+Big Blind: Veedofe, chips: 200
+Flop: 9d Ah 5s
+Turn: Tc
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Mirlep, 8d 3d
+Combination: Mirlep, High Card ( Ah Jd Tc 9d 8d )
+Shows: Veedofe, 5c 3s
+Combination: Veedofe, Pair ( 5c 5s Ah Jd Tc )
+Wins: Veedofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Veedofe, chips: 100
+Big Blind: Mirlep, chips: 200
+Folds: Veedofe
+Pot size: 300
+Wins: Mirlep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Mirlep, chips: 100
+Big Blind: Veedofe, chips: 200
+Flop: 9c Th 3c
+Turn: Jd
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Mirlep, Ks 4d
+Combination: Mirlep, High Card ( Ks Jd Th 9c 7c )
+Shows: Veedofe, 6h 8d
+Combination: Veedofe, Straight ( Jd Th 9c 8d 7c )
+Wins: Veedofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Veedofe, chips: 100
+Big Blind: Mirlep, chips: 200
+Folds: Veedofe
+Pot size: 300
+Wins: Mirlep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mirlep
+Small Blind: Mirlep, chips: 100
+Big Blind: Veedofe, chips: 200
+Flop: Td 7c 7d
+Turn: 4d
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Mirlep, Ad 4s
+Combination: Mirlep, Two Pair ( 7c 7d 4s 4d Ad )
+Shows: Veedofe, 3c 4h
+Combination: Veedofe, Two Pair ( 7c 7d 4h 4d Qc )
+Wins: Mirlep, chips: 200
+Wins: Veedofe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedofe
+Small Blind: Veedofe, chips: 100
+Big Blind: Mirlep, chips: 200
+Flop: 8c 7h 4h
+Turn: 2s
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Mirlep, 9s Ks
+Combination: Mirlep, High Card ( Ks 9s 8c 7h 6h )
+Shows: Veedofe, Qs Th
+Combination: Veedofe, High Card ( Qs Th 8c 7h 6h )
+Wins: Mirlep, chips: 300
+Quits: Veedofe, chips: 0
+Ranking: Mirlep, Place: 1, Score: 6000
+Reveal AI: Mirlep, AI: AIMyBot2
+Ranking: Veedofe, Place: 2, Score: -1000
+Reveal AI: Veedofe, AI: AIMyBot4
+Ranking: Gudoeber, Place: 3, Score: -1000
+Reveal AI: Gudoeber, AI: AIMyBot7
+Ranking: Nemanny, Place: 4, Score: -1000
+Reveal AI: Nemanny, AI: AIMyBot3
+Ranking: Biwrutto, Place: 5, Score: -1000
+Reveal AI: Biwrutto, AI: AIMyBot6
+Ranking: Chuttoen, Place: 6, Score: -1000
+Reveal AI: Chuttoen, AI: AIMyBot5
+Ranking: Wochupe, Place: 7, Score: -1000
+Reveal AI: Wochupe, AI: AIMyBot1
+
+Player Stats for Biwrutto, AI: AIMyBot6
+General: deals: 16, actions: 21, preflop actions: 15
+Rounds Seen: flops: 14, turns: 11, rivers: 11, showdowns: 11
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.785714, WSDW: 0
+
+
+Player Stats for Chuttoen, AI: AIMyBot5
+General: deals: 5, actions: 20, preflop actions: 6
+Rounds Seen: flops: 20, turns: 16, rivers: 16, showdowns: 14
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 2122, lost: 3572, bought: 1000, forced bets: 200
+Pre-Flop Stats: VP$IP: 0.8, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.7, WSDW: 0.142857
+
+
+Player Stats for Gudoeber, AI: AIMyBot7
+General: deals: 18, actions: 17, preflop actions: 17
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Mirlep, AI: AIMyBot2
+General: deals: 31, actions: 30, preflop actions: 16
+Rounds Seen: flops: 20, turns: 16, rivers: 16, showdowns: 15
+Wins: total: 26, showdown: 11, bluff: 15
+Chips: won: 17278, lost: 11278, bought: 1000, forced bets: 3000
+Pre-Flop Stats: VP$IP: 0.483871, PFR: 0.193548, 3Bet: 0.129032
+Post-Flop Stats: AF: 1.#INF, WSD: 0.75, WSDW: 0.733333
+
+
+Player Stats for Nemanny, AI: AIMyBot3
+General: deals: 17, actions: 16, preflop actions: 16
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Veedofe, AI: AIMyBot4
+General: deals: 31, actions: 29, preflop actions: 23
+Rounds Seen: flops: 11, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 8, showdown: 7, bluff: 1
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.0322581, PFR: 0.0322581, 3Bet: 0.0322581
+Post-Flop Stats: AF: -1.#IND, WSD: 0.727273, WSDW: 0.875
+
+
+Player Stats for Wochupe, AI: AIMyBot1
+General: deals: 4, actions: 8, preflop actions: 6
+Rounds Seen: flops: 19, turns: 13, rivers: 13, showdowns: 13
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1034, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.684211, WSDW: 0
+
+

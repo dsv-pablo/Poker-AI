@@ -1,0 +1,162 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Peebee: Random
+Noesuree: AIMyBot1
+
+Joins: Peebee, chips: 1000
+Joins: Noesuree, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebee
+Small Blind: Peebee, chips: 100
+Big Blind: Noesuree, chips: 200
+Calls: Peebee
+DEBUG MESSAGE: INVALID ACTION FROM Noesuree (2 0)
+Folds: Noesuree
+Pot size: 400
+Boasts: Peebee, 3s Qh
+Wins: Peebee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noesuree
+Small Blind: Noesuree, chips: 100
+Big Blind: Peebee, chips: 200
+Folds: Noesuree
+Pot size: 300
+Wins: Peebee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebee
+Small Blind: Peebee, chips: 100
+Big Blind: Noesuree, chips: 200
+Raises: Peebee, chips: 300
+Folds: Noesuree
+Pot size: 700
+Wins: Peebee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noesuree
+Small Blind: Noesuree, chips: 100
+Big Blind: Peebee, chips: 200
+Folds: Noesuree
+Pot size: 300
+Wins: Peebee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebee
+Small Blind: Peebee, chips: 100
+Big Blind: Noesuree, chips: 200
+Raises: Peebee, chips: 300
+Calls: Noesuree
+Flop: 2d Qs 7c
+Turn: Ad
+River: Qc
+Pot size: 900
+Showdown Reached
+Shows: Peebee, 3c Qd
+Combination: Peebee, Three Of A Kind ( Qd Qs Qc Ad 7c )
+Shows: Noesuree, 7d Ks
+Combination: Noesuree, Two Pair ( Qs Qc 7d 7c Ad )
+Wins: Peebee, chips: 900
+Quits: Noesuree, chips: 0
+Ranking: Peebee, Place: 1, Score: 1000
+Reveal AI: Peebee, AI: Random
+Ranking: Noesuree, Place: 2, Score: -1000
+Reveal AI: Noesuree, AI: AIMyBot1
+
+Player Stats for Noesuree, AI: AIMyBot1
+General: deals: 5, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1100, bought: 1000, forced bets: 800
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Peebee, AI: Random
+General: deals: 5, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 5, showdown: 1, bluff: 4
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 700
+Pre-Flop Stats: VP$IP: 0.6, PFR: 0.4, 3Bet: 0.4
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:37
+
+The game begins. The AI's of the players are: 
+Peebee: Random
+Noesuree: AIMyBot1
+
+Joins: Peebee, chips: 1000
+Joins: Noesuree, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebee
+Small Blind: Peebee, chips: 100
+Big Blind: Noesuree, chips: 200
+Calls: Peebee
+DEBUG MESSAGE: INVALID ACTION FROM Noesuree (2 0)
+Folds: Noesuree
+Pot size: 400
+Boasts: Peebee, 3s Qh
+Wins: Peebee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noesuree
+Small Blind: Noesuree, chips: 100
+Big Blind: Peebee, chips: 200
+Folds: Noesuree
+Pot size: 300
+Wins: Peebee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebee
+Small Blind: Peebee, chips: 100
+Big Blind: Noesuree, chips: 200
+Raises: Peebee, chips: 300
+Folds: Noesuree
+Pot size: 700
+Wins: Peebee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noesuree
+Small Blind: Noesuree, chips: 100
+Big Blind: Peebee, chips: 200
+Folds: Noesuree
+Pot size: 300
+Wins: Peebee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebee
+Small Blind: Peebee, chips: 100
+Big Blind: Noesuree, chips: 200
+Raises: Peebee, chips: 300
+Calls: Noesuree
+Flop: 2d Qs 7c
+Turn: Ad
+River: Qc
+Pot size: 900
+Showdown Reached
+Shows: Peebee, 3c Qd
+Combination: Peebee, Three Of A Kind ( Qd Qs Qc Ad 7c )
+Shows: Noesuree, 7d Ks
+Combination: Noesuree, Two Pair ( Qs Qc 7d 7c Ad )
+Wins: Peebee, chips: 900
+Quits: Noesuree, chips: 0
+Ranking: Peebee, Place: 1, Score: 1000
+Reveal AI: Peebee, AI: Random
+Ranking: Noesuree, Place: 2, Score: -1000
+Reveal AI: Noesuree, AI: AIMyBot1
+
+Player Stats for Noesuree, AI: AIMyBot1
+General: deals: 5, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1100, bought: 1000, forced bets: 800
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Peebee, AI: Random
+General: deals: 5, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 5, showdown: 1, bluff: 4
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 700
+Pre-Flop Stats: VP$IP: 0.6, PFR: 0.4, 3Bet: 0.4
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

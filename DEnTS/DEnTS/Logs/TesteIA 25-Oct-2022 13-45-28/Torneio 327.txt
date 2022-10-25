@@ -1,0 +1,410 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Roekoepu: AIMyBot1
+Hoettoe: Random
+
+Joins: Roekoepu, chips: 1000
+Joins: Hoettoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 200
+Folds: Hoettoe
+Pot size: 300
+Boasts: Hoettoe, Qc 9s
+Wins: Roekoepu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 200
+Calls: Hoettoe
+DEBUG MESSAGE: INVALID ACTION FROM Roekoepu (2 0)
+Folds: Roekoepu
+Pot size: 400
+Wins: Hoettoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Boasts: Hoettoe, 7s Qs
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 200
+Folds: Hoettoe
+Pot size: 300
+Wins: Roekoepu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 200
+Folds: Hoettoe
+Pot size: 300
+Boasts: Hoettoe, 2c Qs
+Wins: Roekoepu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Boasts: Hoettoe, 8c 3d
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 200
+Calls: Hoettoe
+DEBUG MESSAGE: INVALID ACTION FROM Roekoepu (2 0)
+Folds: Roekoepu
+Pot size: 400
+Boasts: Hoettoe, 7d 7c
+Wins: Hoettoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 200
+Raises: Hoettoe, chips: 300
+Calls: Roekoepu
+Flop: 4c Js 3h
+Turn: 8d
+River: 3s
+Pot size: 900
+Showdown Reached
+Shows: Roekoepu, 3d Jh
+Combination: Roekoepu, Full House ( 3d 3h 3s Jh Js )
+Shows: Hoettoe, Td 4s
+Combination: Hoettoe, Two Pair ( 4s 4c 3h 3s Js )
+Wins: Roekoepu, chips: 800
+Wins: Hoettoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Boasts: Hoettoe, Qd Td
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 200
+Raises: Hoettoe, chips: 300
+Folds: Roekoepu
+Pot size: 700
+Wins: Hoettoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 200
+Calls: Hoettoe
+DEBUG MESSAGE: INVALID ACTION FROM Roekoepu (2 0)
+Folds: Roekoepu
+Pot size: 400
+Wins: Hoettoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Boasts: Hoettoe, 2s 4s
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 100
+Flop: 7h 9c 7c
+Turn: 5h
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Roekoepu, 4h Jh
+Combination: Roekoepu, Three Of A Kind ( 7h 7c 7d Jh 9c )
+Shows: Hoettoe, Tc 4c
+Combination: Hoettoe, Three Of A Kind ( 7h 7c 7d Tc 9c )
+Wins: Roekoepu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Boasts: Hoettoe, Qs 5s
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 100
+Flop: 7s 2d 7h
+Turn: Qd
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Roekoepu, Jd 8d
+Combination: Roekoepu, Pair ( 7s 7h Kh Qd Jd )
+Shows: Hoettoe, 8s 2c
+Combination: Hoettoe, Two Pair ( 7s 7h 2c 2d Kh )
+Wins: Hoettoe, chips: 200
+Quits: Roekoepu, chips: 0
+Ranking: Hoettoe, Place: 1, Score: 1000
+Reveal AI: Hoettoe, AI: Random
+Ranking: Roekoepu, Place: 2, Score: -1000
+Reveal AI: Roekoepu, AI: AIMyBot1
+
+Player Stats for Hoettoe, AI: Random
+General: deals: 19, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 15, showdown: 2, bluff: 13
+Chips: won: 4900, lost: 3900, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.263158, PFR: 0.105263, 3Bet: 0.105263
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Roekoepu, AI: AIMyBot1
+General: deals: 19, actions: 14, preflop actions: 14
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1900, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.0526316, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:50
+
+The game begins. The AI's of the players are: 
+Roekoepu: AIMyBot1
+Hoettoe: Random
+
+Joins: Roekoepu, chips: 1000
+Joins: Hoettoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 200
+Folds: Hoettoe
+Pot size: 300
+Boasts: Hoettoe, Qc 9s
+Wins: Roekoepu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 200
+Calls: Hoettoe
+DEBUG MESSAGE: INVALID ACTION FROM Roekoepu (2 0)
+Folds: Roekoepu
+Pot size: 400
+Wins: Hoettoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Boasts: Hoettoe, 7s Qs
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 200
+Folds: Hoettoe
+Pot size: 300
+Wins: Roekoepu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 200
+Folds: Hoettoe
+Pot size: 300
+Boasts: Hoettoe, 2c Qs
+Wins: Roekoepu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Boasts: Hoettoe, 8c 3d
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 200
+Calls: Hoettoe
+DEBUG MESSAGE: INVALID ACTION FROM Roekoepu (2 0)
+Folds: Roekoepu
+Pot size: 400
+Boasts: Hoettoe, 7d 7c
+Wins: Hoettoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 200
+Raises: Hoettoe, chips: 300
+Calls: Roekoepu
+Flop: 4c Js 3h
+Turn: 8d
+River: 3s
+Pot size: 900
+Showdown Reached
+Shows: Roekoepu, 3d Jh
+Combination: Roekoepu, Full House ( 3d 3h 3s Jh Js )
+Shows: Hoettoe, Td 4s
+Combination: Hoettoe, Two Pair ( 4s 4c 3h 3s Js )
+Wins: Roekoepu, chips: 800
+Wins: Hoettoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Boasts: Hoettoe, Qd Td
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 200
+Raises: Hoettoe, chips: 300
+Folds: Roekoepu
+Pot size: 700
+Wins: Hoettoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 200
+Calls: Hoettoe
+DEBUG MESSAGE: INVALID ACTION FROM Roekoepu (2 0)
+Folds: Roekoepu
+Pot size: 400
+Wins: Hoettoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Boasts: Hoettoe, 2s 4s
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 100
+Flop: 7h 9c 7c
+Turn: 5h
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Roekoepu, 4h Jh
+Combination: Roekoepu, Three Of A Kind ( 7h 7c 7d Jh 9c )
+Shows: Hoettoe, Tc 4c
+Combination: Hoettoe, Three Of A Kind ( 7h 7c 7d Tc 9c )
+Wins: Roekoepu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roekoepu
+Small Blind: Roekoepu, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Roekoepu
+Pot size: 300
+Boasts: Hoettoe, Qs 5s
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Roekoepu, chips: 100
+Flop: 7s 2d 7h
+Turn: Qd
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Roekoepu, Jd 8d
+Combination: Roekoepu, Pair ( 7s 7h Kh Qd Jd )
+Shows: Hoettoe, 8s 2c
+Combination: Hoettoe, Two Pair ( 7s 7h 2c 2d Kh )
+Wins: Hoettoe, chips: 200
+Quits: Roekoepu, chips: 0
+Ranking: Hoettoe, Place: 1, Score: 1000
+Reveal AI: Hoettoe, AI: Random
+Ranking: Roekoepu, Place: 2, Score: -1000
+Reveal AI: Roekoepu, AI: AIMyBot1
+
+Player Stats for Hoettoe, AI: Random
+General: deals: 19, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 15, showdown: 2, bluff: 13
+Chips: won: 4900, lost: 3900, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.263158, PFR: 0.105263, 3Bet: 0.105263
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Roekoepu, AI: AIMyBot1
+General: deals: 19, actions: 14, preflop actions: 14
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1900, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.0526316, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

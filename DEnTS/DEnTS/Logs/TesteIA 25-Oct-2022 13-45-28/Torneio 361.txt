@@ -1,0 +1,282 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Harluv: Random
+Panup: AIMyBot1
+
+Joins: Harluv, chips: 1000
+Joins: Panup, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panup
+Small Blind: Panup, chips: 100
+Big Blind: Harluv, chips: 200
+Folds: Panup
+Pot size: 300
+Boasts: Harluv, 3d Qc
+Wins: Harluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harluv
+Small Blind: Harluv, chips: 100
+Big Blind: Panup, chips: 200
+Folds: Harluv
+Pot size: 300
+Boasts: Harluv, 4d Ts
+Wins: Panup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panup
+Small Blind: Panup, chips: 100
+Big Blind: Harluv, chips: 200
+Folds: Panup
+Pot size: 300
+Wins: Harluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harluv
+Small Blind: Harluv, chips: 100
+Big Blind: Panup, chips: 200
+Calls: Harluv
+DEBUG MESSAGE: INVALID ACTION FROM Panup (2 0)
+Folds: Panup
+Pot size: 400
+Wins: Harluv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panup
+Small Blind: Panup, chips: 100
+Big Blind: Harluv, chips: 200
+Folds: Panup
+Pot size: 300
+Boasts: Harluv, 4s 4c
+Wins: Harluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harluv
+Small Blind: Harluv, chips: 100
+Big Blind: Panup, chips: 200
+Calls: Harluv
+DEBUG MESSAGE: INVALID ACTION FROM Panup (2 0)
+Folds: Panup
+Pot size: 400
+Wins: Harluv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panup
+Small Blind: Panup, chips: 100
+Big Blind: Harluv, chips: 200
+Folds: Panup
+Pot size: 300
+Wins: Harluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harluv
+Small Blind: Harluv, chips: 100
+Big Blind: Panup, chips: 200
+Raises: Harluv, chips: 300
+Folds: Panup
+Pot size: 700
+Wins: Harluv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panup
+Small Blind: Panup, chips: 100
+Big Blind: Harluv, chips: 200
+Flop: 8d Ad 9d
+Turn: Td
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Harluv, 8s 6c
+Combination: Harluv, Pair ( 8s 8d Ad Qc Td )
+Shows: Panup, 2s Th
+Combination: Panup, Pair ( Th Td Ad Qc 9d )
+Wins: Harluv, chips: 100
+Wins: Panup, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harluv
+Small Blind: Harluv, chips: 100
+Big Blind: Panup, chips: 200
+Flop: 3s 7h 2s
+Turn: Ks
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Harluv, Kc 9h
+Combination: Harluv, Pair ( Kc Ks 9h 8d 7h )
+Shows: Panup, 6s 7d
+Combination: Panup, Pair ( 7d 7h Ks 8d 6s )
+Wins: Harluv, chips: 200
+Wins: Panup, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panup
+Small Blind: Panup, chips: 100
+Big Blind: Harluv, chips: 200
+Flop: 8s Kh 3h
+Turn: 4c
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Harluv, 3d Th
+Combination: Harluv, Pair ( 3d 3h Kh Th 8s )
+Shows: Panup, 7h Td
+Combination: Panup, High Card ( Kh Td 8s 7h 5s )
+Wins: Harluv, chips: 300
+Quits: Panup, chips: 0
+Ranking: Harluv, Place: 1, Score: 1000
+Reveal AI: Harluv, AI: Random
+Ranking: Panup, Place: 2, Score: -1000
+Reveal AI: Panup, AI: AIMyBot1
+
+Player Stats for Harluv, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Panup, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:53
+
+The game begins. The AI's of the players are: 
+Harluv: Random
+Panup: AIMyBot1
+
+Joins: Harluv, chips: 1000
+Joins: Panup, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panup
+Small Blind: Panup, chips: 100
+Big Blind: Harluv, chips: 200
+Folds: Panup
+Pot size: 300
+Boasts: Harluv, 3d Qc
+Wins: Harluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harluv
+Small Blind: Harluv, chips: 100
+Big Blind: Panup, chips: 200
+Folds: Harluv
+Pot size: 300
+Boasts: Harluv, 4d Ts
+Wins: Panup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panup
+Small Blind: Panup, chips: 100
+Big Blind: Harluv, chips: 200
+Folds: Panup
+Pot size: 300
+Wins: Harluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harluv
+Small Blind: Harluv, chips: 100
+Big Blind: Panup, chips: 200
+Calls: Harluv
+DEBUG MESSAGE: INVALID ACTION FROM Panup (2 0)
+Folds: Panup
+Pot size: 400
+Wins: Harluv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panup
+Small Blind: Panup, chips: 100
+Big Blind: Harluv, chips: 200
+Folds: Panup
+Pot size: 300
+Boasts: Harluv, 4s 4c
+Wins: Harluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harluv
+Small Blind: Harluv, chips: 100
+Big Blind: Panup, chips: 200
+Calls: Harluv
+DEBUG MESSAGE: INVALID ACTION FROM Panup (2 0)
+Folds: Panup
+Pot size: 400
+Wins: Harluv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panup
+Small Blind: Panup, chips: 100
+Big Blind: Harluv, chips: 200
+Folds: Panup
+Pot size: 300
+Wins: Harluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harluv
+Small Blind: Harluv, chips: 100
+Big Blind: Panup, chips: 200
+Raises: Harluv, chips: 300
+Folds: Panup
+Pot size: 700
+Wins: Harluv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panup
+Small Blind: Panup, chips: 100
+Big Blind: Harluv, chips: 200
+Flop: 8d Ad 9d
+Turn: Td
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Harluv, 8s 6c
+Combination: Harluv, Pair ( 8s 8d Ad Qc Td )
+Shows: Panup, 2s Th
+Combination: Panup, Pair ( Th Td Ad Qc 9d )
+Wins: Harluv, chips: 100
+Wins: Panup, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harluv
+Small Blind: Harluv, chips: 100
+Big Blind: Panup, chips: 200
+Flop: 3s 7h 2s
+Turn: Ks
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Harluv, Kc 9h
+Combination: Harluv, Pair ( Kc Ks 9h 8d 7h )
+Shows: Panup, 6s 7d
+Combination: Panup, Pair ( 7d 7h Ks 8d 6s )
+Wins: Harluv, chips: 200
+Wins: Panup, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panup
+Small Blind: Panup, chips: 100
+Big Blind: Harluv, chips: 200
+Flop: 8s Kh 3h
+Turn: 4c
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Harluv, 3d Th
+Combination: Harluv, Pair ( 3d 3h Kh Th 8s )
+Shows: Panup, 7h Td
+Combination: Panup, High Card ( Kh Td 8s 7h 5s )
+Wins: Harluv, chips: 300
+Quits: Panup, chips: 0
+Ranking: Harluv, Place: 1, Score: 1000
+Reveal AI: Harluv, AI: Random
+Ranking: Panup, Place: 2, Score: -1000
+Reveal AI: Panup, AI: AIMyBot1
+
+Player Stats for Harluv, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Panup, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

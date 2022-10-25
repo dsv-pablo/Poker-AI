@@ -1,0 +1,230 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pimoe: AIMyBot1
+Chachoe: Random
+
+Joins: Pimoe, chips: 1000
+Joins: Chachoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chachoe
+Small Blind: Chachoe, chips: 100
+Big Blind: Pimoe, chips: 200
+Calls: Chachoe
+DEBUG MESSAGE: INVALID ACTION FROM Pimoe (2 0)
+Folds: Pimoe
+Pot size: 400
+Boasts: Chachoe, 5s Td
+Wins: Chachoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimoe
+Small Blind: Pimoe, chips: 100
+Big Blind: Chachoe, chips: 200
+Folds: Pimoe
+Pot size: 300
+Boasts: Chachoe, Ah 5s
+Wins: Chachoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chachoe
+Small Blind: Chachoe, chips: 100
+Big Blind: Pimoe, chips: 200
+Calls: Chachoe
+DEBUG MESSAGE: INVALID ACTION FROM Pimoe (2 0)
+Folds: Pimoe
+Pot size: 400
+Boasts: Chachoe, Jh 4h
+Wins: Chachoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimoe
+Small Blind: Pimoe, chips: 100
+Big Blind: Chachoe, chips: 200
+Folds: Pimoe
+Pot size: 300
+Boasts: Chachoe, 2d 6s
+Wins: Chachoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chachoe
+Small Blind: Chachoe, chips: 100
+Big Blind: Pimoe, chips: 200
+Folds: Chachoe
+Pot size: 300
+Boasts: Chachoe, 7h Tc
+Wins: Pimoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimoe
+Small Blind: Pimoe, chips: 100
+Big Blind: Chachoe, chips: 200
+Folds: Pimoe
+Pot size: 300
+Wins: Chachoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chachoe
+Small Blind: Chachoe, chips: 100
+Big Blind: Pimoe, chips: 200
+Calls: Chachoe
+DEBUG MESSAGE: INVALID ACTION FROM Pimoe (2 0)
+Folds: Pimoe
+Pot size: 400
+Boasts: Chachoe, 7s 7h
+Wins: Chachoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimoe
+Small Blind: Pimoe, chips: 100
+Big Blind: Chachoe, chips: 200
+Folds: Pimoe
+Pot size: 300
+Wins: Chachoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chachoe
+Small Blind: Chachoe, chips: 100
+Big Blind: Pimoe, chips: 100
+Flop: 6h 2d Ad
+Turn: 4s
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Pimoe, 8d Th
+Combination: Pimoe, High Card ( Ad Th 8d 7d 6h )
+Shows: Chachoe, 4d 8s
+Combination: Chachoe, Pair ( 4d 4s Ad 8s 7d )
+Wins: Chachoe, chips: 200
+Quits: Pimoe, chips: 0
+Ranking: Chachoe, Place: 1, Score: 1000
+Reveal AI: Chachoe, AI: Random
+Ranking: Pimoe, Place: 2, Score: -1000
+Reveal AI: Pimoe, AI: AIMyBot1
+
+Player Stats for Chachoe, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Pimoe, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:29
+
+The game begins. The AI's of the players are: 
+Pimoe: AIMyBot1
+Chachoe: Random
+
+Joins: Pimoe, chips: 1000
+Joins: Chachoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chachoe
+Small Blind: Chachoe, chips: 100
+Big Blind: Pimoe, chips: 200
+Calls: Chachoe
+DEBUG MESSAGE: INVALID ACTION FROM Pimoe (2 0)
+Folds: Pimoe
+Pot size: 400
+Boasts: Chachoe, 5s Td
+Wins: Chachoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimoe
+Small Blind: Pimoe, chips: 100
+Big Blind: Chachoe, chips: 200
+Folds: Pimoe
+Pot size: 300
+Boasts: Chachoe, Ah 5s
+Wins: Chachoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chachoe
+Small Blind: Chachoe, chips: 100
+Big Blind: Pimoe, chips: 200
+Calls: Chachoe
+DEBUG MESSAGE: INVALID ACTION FROM Pimoe (2 0)
+Folds: Pimoe
+Pot size: 400
+Boasts: Chachoe, Jh 4h
+Wins: Chachoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimoe
+Small Blind: Pimoe, chips: 100
+Big Blind: Chachoe, chips: 200
+Folds: Pimoe
+Pot size: 300
+Boasts: Chachoe, 2d 6s
+Wins: Chachoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chachoe
+Small Blind: Chachoe, chips: 100
+Big Blind: Pimoe, chips: 200
+Folds: Chachoe
+Pot size: 300
+Boasts: Chachoe, 7h Tc
+Wins: Pimoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimoe
+Small Blind: Pimoe, chips: 100
+Big Blind: Chachoe, chips: 200
+Folds: Pimoe
+Pot size: 300
+Wins: Chachoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chachoe
+Small Blind: Chachoe, chips: 100
+Big Blind: Pimoe, chips: 200
+Calls: Chachoe
+DEBUG MESSAGE: INVALID ACTION FROM Pimoe (2 0)
+Folds: Pimoe
+Pot size: 400
+Boasts: Chachoe, 7s 7h
+Wins: Chachoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimoe
+Small Blind: Pimoe, chips: 100
+Big Blind: Chachoe, chips: 200
+Folds: Pimoe
+Pot size: 300
+Wins: Chachoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chachoe
+Small Blind: Chachoe, chips: 100
+Big Blind: Pimoe, chips: 100
+Flop: 6h 2d Ad
+Turn: 4s
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Pimoe, 8d Th
+Combination: Pimoe, High Card ( Ad Th 8d 7d 6h )
+Shows: Chachoe, 4d 8s
+Combination: Chachoe, Pair ( 4d 4s Ad 8s 7d )
+Wins: Chachoe, chips: 200
+Quits: Pimoe, chips: 0
+Ranking: Chachoe, Place: 1, Score: 1000
+Reveal AI: Chachoe, AI: Random
+Ranking: Pimoe, Place: 2, Score: -1000
+Reveal AI: Pimoe, AI: AIMyBot1
+
+Player Stats for Chachoe, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Pimoe, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

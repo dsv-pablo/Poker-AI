@@ -1,0 +1,194 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Charotry: AIMyBot1
+Chowuditry: Random
+
+Joins: Charotry, chips: 1000
+Joins: Chowuditry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charotry
+Small Blind: Charotry, chips: 100
+Big Blind: Chowuditry, chips: 200
+Folds: Charotry
+Pot size: 300
+Boasts: Chowuditry, As 2s
+Wins: Chowuditry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chowuditry
+Small Blind: Chowuditry, chips: 100
+Big Blind: Charotry, chips: 200
+Calls: Chowuditry
+DEBUG MESSAGE: INVALID ACTION FROM Charotry (2 0)
+Folds: Charotry
+Pot size: 400
+Boasts: Chowuditry, Ks Kd
+Wins: Chowuditry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charotry
+Small Blind: Charotry, chips: 100
+Big Blind: Chowuditry, chips: 200
+Folds: Charotry
+Pot size: 300
+Wins: Chowuditry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chowuditry
+Small Blind: Chowuditry, chips: 100
+Big Blind: Charotry, chips: 200
+Calls: Chowuditry
+DEBUG MESSAGE: INVALID ACTION FROM Charotry (2 0)
+Folds: Charotry
+Pot size: 400
+Wins: Chowuditry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charotry
+Small Blind: Charotry, chips: 100
+Big Blind: Chowuditry, chips: 200
+Folds: Charotry
+Pot size: 300
+Wins: Chowuditry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chowuditry
+Small Blind: Chowuditry, chips: 100
+Big Blind: Charotry, chips: 200
+Calls: Chowuditry
+DEBUG MESSAGE: INVALID ACTION FROM Charotry (2 0)
+Folds: Charotry
+Pot size: 400
+Wins: Chowuditry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charotry
+Small Blind: Charotry, chips: 100
+Big Blind: Chowuditry, chips: 200
+Flop: 5d Jc 6c
+Turn: Tc
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Charotry, Kc 2h
+Combination: Charotry, Pair ( 5d 5h Kc Jc Tc )
+Shows: Chowuditry, Ks Td
+Combination: Chowuditry, Two Pair ( Td Tc 5d 5h Ks )
+Wins: Chowuditry, chips: 300
+Quits: Charotry, chips: 0
+Ranking: Chowuditry, Place: 1, Score: 1000
+Reveal AI: Chowuditry, AI: Random
+Ranking: Charotry, Place: 2, Score: -1000
+Reveal AI: Charotry, AI: AIMyBot1
+
+Player Stats for Charotry, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Chowuditry, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2400, lost: 1400, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:29
+
+The game begins. The AI's of the players are: 
+Charotry: AIMyBot1
+Chowuditry: Random
+
+Joins: Charotry, chips: 1000
+Joins: Chowuditry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charotry
+Small Blind: Charotry, chips: 100
+Big Blind: Chowuditry, chips: 200
+Folds: Charotry
+Pot size: 300
+Boasts: Chowuditry, As 2s
+Wins: Chowuditry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chowuditry
+Small Blind: Chowuditry, chips: 100
+Big Blind: Charotry, chips: 200
+Calls: Chowuditry
+DEBUG MESSAGE: INVALID ACTION FROM Charotry (2 0)
+Folds: Charotry
+Pot size: 400
+Boasts: Chowuditry, Ks Kd
+Wins: Chowuditry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charotry
+Small Blind: Charotry, chips: 100
+Big Blind: Chowuditry, chips: 200
+Folds: Charotry
+Pot size: 300
+Wins: Chowuditry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chowuditry
+Small Blind: Chowuditry, chips: 100
+Big Blind: Charotry, chips: 200
+Calls: Chowuditry
+DEBUG MESSAGE: INVALID ACTION FROM Charotry (2 0)
+Folds: Charotry
+Pot size: 400
+Wins: Chowuditry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charotry
+Small Blind: Charotry, chips: 100
+Big Blind: Chowuditry, chips: 200
+Folds: Charotry
+Pot size: 300
+Wins: Chowuditry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chowuditry
+Small Blind: Chowuditry, chips: 100
+Big Blind: Charotry, chips: 200
+Calls: Chowuditry
+DEBUG MESSAGE: INVALID ACTION FROM Charotry (2 0)
+Folds: Charotry
+Pot size: 400
+Wins: Chowuditry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charotry
+Small Blind: Charotry, chips: 100
+Big Blind: Chowuditry, chips: 200
+Flop: 5d Jc 6c
+Turn: Tc
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Charotry, Kc 2h
+Combination: Charotry, Pair ( 5d 5h Kc Jc Tc )
+Shows: Chowuditry, Ks Td
+Combination: Chowuditry, Two Pair ( Td Tc 5d 5h Ks )
+Wins: Chowuditry, chips: 300
+Quits: Charotry, chips: 0
+Ranking: Chowuditry, Place: 1, Score: 1000
+Reveal AI: Chowuditry, AI: Random
+Ranking: Charotry, Place: 2, Score: -1000
+Reveal AI: Charotry, AI: AIMyBot1
+
+Player Stats for Charotry, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Chowuditry, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2400, lost: 1400, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

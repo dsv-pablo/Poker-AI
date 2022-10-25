@@ -1,0 +1,350 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+See: Random
+Weewretim: AIMyBot1
+
+Joins: See, chips: 1000
+Joins: Weewretim, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewretim
+Small Blind: Weewretim, chips: 100
+Big Blind: See, chips: 200
+Folds: Weewretim
+Pot size: 300
+Wins: See, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: See
+Small Blind: See, chips: 100
+Big Blind: Weewretim, chips: 200
+Raises: See, chips: 300
+Folds: Weewretim
+Pot size: 700
+Wins: See, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewretim
+Small Blind: Weewretim, chips: 100
+Big Blind: See, chips: 200
+Folds: Weewretim
+Pot size: 300
+Boasts: See, 2h 8c
+Wins: See, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: See
+Small Blind: See, chips: 100
+Big Blind: Weewretim, chips: 200
+Folds: See
+Pot size: 300
+Wins: Weewretim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewretim
+Small Blind: Weewretim, chips: 100
+Big Blind: See, chips: 200
+Folds: Weewretim
+Pot size: 300
+Wins: See, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: See
+Small Blind: See, chips: 100
+Big Blind: Weewretim, chips: 200
+Calls: See
+DEBUG MESSAGE: INVALID ACTION FROM Weewretim (2 0)
+Folds: Weewretim
+Pot size: 400
+Wins: See, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewretim
+Small Blind: Weewretim, chips: 100
+Big Blind: See, chips: 200
+Folds: Weewretim
+Pot size: 300
+Boasts: See, 3d 2s
+Wins: See, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: See
+Small Blind: See, chips: 100
+Big Blind: Weewretim, chips: 200
+Folds: See
+Pot size: 300
+Wins: Weewretim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewretim
+Small Blind: Weewretim, chips: 100
+Big Blind: See, chips: 200
+Folds: Weewretim
+Pot size: 300
+Wins: See, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: See
+Small Blind: See, chips: 100
+Big Blind: Weewretim, chips: 200
+Calls: See
+DEBUG MESSAGE: INVALID ACTION FROM Weewretim (2 0)
+Folds: Weewretim
+Pot size: 400
+Wins: See, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewretim
+Small Blind: Weewretim, chips: 100
+Big Blind: See, chips: 200
+Flop: 5s Qs 7h
+Turn: Ts
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: See, Ac 5c
+Combination: See, Pair ( 5c 5s Ac Qs Ts )
+Shows: Weewretim, 7s 5h
+Combination: Weewretim, Two Pair ( 7s 7h 5h 5s Qs )
+Wins: See, chips: 100
+Wins: Weewretim, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: See
+Small Blind: See, chips: 100
+Big Blind: Weewretim, chips: 200
+Flop: Qh 4h Tc
+Turn: 9h
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: See, 2c 8d
+Combination: See, High Card ( Kd Qh Tc 9h 8d )
+Shows: Weewretim, 8s Th
+Combination: Weewretim, Pair ( Th Tc Kd Qh 9h )
+Wins: Weewretim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewretim
+Small Blind: Weewretim, chips: 100
+Big Blind: See, chips: 200
+Folds: Weewretim
+Pot size: 300
+Wins: See, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: See
+Small Blind: See, chips: 100
+Big Blind: Weewretim, chips: 200
+Flop: 8c Tc 3h
+Turn: Qd
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: See, Js 3s
+Combination: See, Pair ( 3s 3h Qd Js Tc )
+Shows: Weewretim, Jd Kh
+Combination: Weewretim, High Card ( Kh Qd Jd Tc 8c )
+Wins: See, chips: 200
+Wins: Weewretim, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewretim
+Small Blind: Weewretim, chips: 100
+Big Blind: See, chips: 200
+Flop: Qs 6d Kc
+Turn: 9s
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: See, 3h 3d
+Combination: See, Two Pair ( 6d 6c 3h 3d Kc )
+Shows: Weewretim, 8c Jh
+Combination: Weewretim, Pair ( 6d 6c Kc Qs Jh )
+Wins: See, chips: 300
+Quits: Weewretim, chips: 0
+Ranking: See, Place: 1, Score: 1000
+Reveal AI: See, AI: Random
+Ranking: Weewretim, Place: 2, Score: -1000
+Reveal AI: Weewretim, AI: AIMyBot1
+
+Player Stats for See, AI: Random
+General: deals: 15, actions: 5, preflop actions: 5
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Weewretim, AI: AIMyBot1
+General: deals: 15, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 5, showdown: 3, bluff: 2
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:05
+
+The game begins. The AI's of the players are: 
+See: Random
+Weewretim: AIMyBot1
+
+Joins: See, chips: 1000
+Joins: Weewretim, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewretim
+Small Blind: Weewretim, chips: 100
+Big Blind: See, chips: 200
+Folds: Weewretim
+Pot size: 300
+Wins: See, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: See
+Small Blind: See, chips: 100
+Big Blind: Weewretim, chips: 200
+Raises: See, chips: 300
+Folds: Weewretim
+Pot size: 700
+Wins: See, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewretim
+Small Blind: Weewretim, chips: 100
+Big Blind: See, chips: 200
+Folds: Weewretim
+Pot size: 300
+Boasts: See, 2h 8c
+Wins: See, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: See
+Small Blind: See, chips: 100
+Big Blind: Weewretim, chips: 200
+Folds: See
+Pot size: 300
+Wins: Weewretim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewretim
+Small Blind: Weewretim, chips: 100
+Big Blind: See, chips: 200
+Folds: Weewretim
+Pot size: 300
+Wins: See, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: See
+Small Blind: See, chips: 100
+Big Blind: Weewretim, chips: 200
+Calls: See
+DEBUG MESSAGE: INVALID ACTION FROM Weewretim (2 0)
+Folds: Weewretim
+Pot size: 400
+Wins: See, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewretim
+Small Blind: Weewretim, chips: 100
+Big Blind: See, chips: 200
+Folds: Weewretim
+Pot size: 300
+Boasts: See, 3d 2s
+Wins: See, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: See
+Small Blind: See, chips: 100
+Big Blind: Weewretim, chips: 200
+Folds: See
+Pot size: 300
+Wins: Weewretim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewretim
+Small Blind: Weewretim, chips: 100
+Big Blind: See, chips: 200
+Folds: Weewretim
+Pot size: 300
+Wins: See, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: See
+Small Blind: See, chips: 100
+Big Blind: Weewretim, chips: 200
+Calls: See
+DEBUG MESSAGE: INVALID ACTION FROM Weewretim (2 0)
+Folds: Weewretim
+Pot size: 400
+Wins: See, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewretim
+Small Blind: Weewretim, chips: 100
+Big Blind: See, chips: 200
+Flop: 5s Qs 7h
+Turn: Ts
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: See, Ac 5c
+Combination: See, Pair ( 5c 5s Ac Qs Ts )
+Shows: Weewretim, 7s 5h
+Combination: Weewretim, Two Pair ( 7s 7h 5h 5s Qs )
+Wins: See, chips: 100
+Wins: Weewretim, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: See
+Small Blind: See, chips: 100
+Big Blind: Weewretim, chips: 200
+Flop: Qh 4h Tc
+Turn: 9h
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: See, 2c 8d
+Combination: See, High Card ( Kd Qh Tc 9h 8d )
+Shows: Weewretim, 8s Th
+Combination: Weewretim, Pair ( Th Tc Kd Qh 9h )
+Wins: Weewretim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewretim
+Small Blind: Weewretim, chips: 100
+Big Blind: See, chips: 200
+Folds: Weewretim
+Pot size: 300
+Wins: See, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: See
+Small Blind: See, chips: 100
+Big Blind: Weewretim, chips: 200
+Flop: 8c Tc 3h
+Turn: Qd
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: See, Js 3s
+Combination: See, Pair ( 3s 3h Qd Js Tc )
+Shows: Weewretim, Jd Kh
+Combination: Weewretim, High Card ( Kh Qd Jd Tc 8c )
+Wins: See, chips: 200
+Wins: Weewretim, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewretim
+Small Blind: Weewretim, chips: 100
+Big Blind: See, chips: 200
+Flop: Qs 6d Kc
+Turn: 9s
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: See, 3h 3d
+Combination: See, Two Pair ( 6d 6c 3h 3d Kc )
+Shows: Weewretim, 8c Jh
+Combination: Weewretim, Pair ( 6d 6c Kc Qs Jh )
+Wins: See, chips: 300
+Quits: Weewretim, chips: 0
+Ranking: See, Place: 1, Score: 1000
+Reveal AI: See, AI: Random
+Ranking: Weewretim, Place: 2, Score: -1000
+Reveal AI: Weewretim, AI: AIMyBot1
+
+Player Stats for See, AI: Random
+General: deals: 15, actions: 5, preflop actions: 5
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Weewretim, AI: AIMyBot1
+General: deals: 15, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 5, showdown: 3, bluff: 2
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

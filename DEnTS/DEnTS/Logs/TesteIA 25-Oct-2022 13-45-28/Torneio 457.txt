@@ -1,0 +1,180 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Loto: AIMyBot1
+Gile: Random
+
+Joins: Loto, chips: 1000
+Joins: Gile, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loto
+Small Blind: Loto, chips: 100
+Big Blind: Gile, chips: 200
+Folds: Loto
+Pot size: 300
+Wins: Gile, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gile
+Small Blind: Gile, chips: 100
+Big Blind: Loto, chips: 200
+Calls: Gile
+DEBUG MESSAGE: INVALID ACTION FROM Loto (2 0)
+Folds: Loto
+Pot size: 400
+Boasts: Gile, Kh 4c
+Wins: Gile, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loto
+Small Blind: Loto, chips: 100
+Big Blind: Gile, chips: 200
+Folds: Loto
+Pot size: 300
+Wins: Gile, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gile
+Small Blind: Gile, chips: 100
+Big Blind: Loto, chips: 200
+Raises: Gile, chips: 300
+Folds: Loto
+Pot size: 700
+Boasts: Gile, 2h Ac
+Wins: Gile, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loto
+Small Blind: Loto, chips: 100
+Big Blind: Gile, chips: 200
+Folds: Loto
+Pot size: 300
+Boasts: Gile, Qs Qh
+Wins: Gile, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gile
+Small Blind: Gile, chips: 100
+Big Blind: Loto, chips: 200
+Raises: Gile, chips: 300
+Calls: Loto
+Flop: 8s 2s 2h
+Turn: 6c
+River: 5s
+Pot size: 800
+Showdown Reached
+Shows: Loto, Tc 7s
+Combination: Loto, Pair ( 2s 2h Tc 8s 7s )
+Shows: Gile, Jh 6d
+Combination: Gile, Two Pair ( 6d 6c 2s 2h Jh )
+Wins: Gile, chips: 800
+Quits: Loto, chips: 0
+Ranking: Gile, Place: 1, Score: 1000
+Reveal AI: Gile, AI: Random
+Ranking: Loto, Place: 2, Score: -1000
+Reveal AI: Loto, AI: AIMyBot1
+
+Player Stats for Gile, AI: Random
+General: deals: 6, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 1, bluff: 5
+Chips: won: 2800, lost: 1800, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Loto, AI: AIMyBot1
+General: deals: 6, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1200, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:00
+
+The game begins. The AI's of the players are: 
+Loto: AIMyBot1
+Gile: Random
+
+Joins: Loto, chips: 1000
+Joins: Gile, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loto
+Small Blind: Loto, chips: 100
+Big Blind: Gile, chips: 200
+Folds: Loto
+Pot size: 300
+Wins: Gile, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gile
+Small Blind: Gile, chips: 100
+Big Blind: Loto, chips: 200
+Calls: Gile
+DEBUG MESSAGE: INVALID ACTION FROM Loto (2 0)
+Folds: Loto
+Pot size: 400
+Boasts: Gile, Kh 4c
+Wins: Gile, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loto
+Small Blind: Loto, chips: 100
+Big Blind: Gile, chips: 200
+Folds: Loto
+Pot size: 300
+Wins: Gile, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gile
+Small Blind: Gile, chips: 100
+Big Blind: Loto, chips: 200
+Raises: Gile, chips: 300
+Folds: Loto
+Pot size: 700
+Boasts: Gile, 2h Ac
+Wins: Gile, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loto
+Small Blind: Loto, chips: 100
+Big Blind: Gile, chips: 200
+Folds: Loto
+Pot size: 300
+Boasts: Gile, Qs Qh
+Wins: Gile, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gile
+Small Blind: Gile, chips: 100
+Big Blind: Loto, chips: 200
+Raises: Gile, chips: 300
+Calls: Loto
+Flop: 8s 2s 2h
+Turn: 6c
+River: 5s
+Pot size: 800
+Showdown Reached
+Shows: Loto, Tc 7s
+Combination: Loto, Pair ( 2s 2h Tc 8s 7s )
+Shows: Gile, Jh 6d
+Combination: Gile, Two Pair ( 6d 6c 2s 2h Jh )
+Wins: Gile, chips: 800
+Quits: Loto, chips: 0
+Ranking: Gile, Place: 1, Score: 1000
+Reveal AI: Gile, AI: Random
+Ranking: Loto, Place: 2, Score: -1000
+Reveal AI: Loto, AI: AIMyBot1
+
+Player Stats for Gile, AI: Random
+General: deals: 6, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 1, bluff: 5
+Chips: won: 2800, lost: 1800, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Loto, AI: AIMyBot1
+General: deals: 6, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1200, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

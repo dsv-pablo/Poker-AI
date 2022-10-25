@@ -1,0 +1,618 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jigo: Random
+Gocha: AIMyBot1
+
+Joins: Jigo, chips: 1000
+Joins: Gocha, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Folds: Gocha
+Pot size: 300
+Wins: Jigo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Folds: Jigo
+Pot size: 300
+Wins: Gocha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Folds: Gocha
+Pot size: 300
+Wins: Jigo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Folds: Jigo
+Pot size: 300
+Wins: Gocha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Folds: Gocha
+Pot size: 300
+Boasts: Jigo, 5h 7s
+Wins: Jigo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Raises: Jigo, chips: 300
+Folds: Gocha
+Pot size: 700
+Boasts: Jigo, 6h 2h
+Wins: Jigo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Folds: Gocha
+Pot size: 300
+Wins: Jigo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Calls: Jigo
+DEBUG MESSAGE: INVALID ACTION FROM Gocha (2 0)
+Folds: Gocha
+Pot size: 400
+Boasts: Jigo, 3h Jc
+Wins: Jigo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Folds: Gocha
+Pot size: 300
+Wins: Jigo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Calls: Jigo
+DEBUG MESSAGE: INVALID ACTION FROM Gocha (2 0)
+Folds: Gocha
+Pot size: 400
+Wins: Jigo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Flop: Td 2d 9h
+Turn: 7s
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Jigo, 3h 4h
+Combination: Jigo, Pair ( 2d 2c Td 9h 7s )
+Shows: Gocha, 9s 8d
+Combination: Gocha, Two Pair ( 9s 9h 2d 2c Td )
+Wins: Jigo, chips: 100
+Wins: Gocha, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Flop: 6c 2s Qh
+Turn: 6h
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Jigo, As Td
+Combination: Jigo, Pair ( 6c 6h As Qh Td )
+Shows: Gocha, 8c 7d
+Combination: Gocha, Pair ( 6c 6h Qh 8c 7d )
+Wins: Jigo, chips: 200
+Wins: Gocha, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Flop: 3h 2c 2h
+Turn: 8c
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Jigo, 5h Td
+Combination: Jigo, Pair ( 2c 2h Td 8c 5h )
+Shows: Gocha, 6c 2s
+Combination: Gocha, Three Of A Kind ( 2s 2c 2h 8c 6c )
+Wins: Jigo, chips: 100
+Wins: Gocha, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Flop: Ks 6c 9s
+Turn: 7s
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Jigo, 9h 8c
+Combination: Jigo, Three Of A Kind ( 9h 9s 9c Ks 8c )
+Shows: Gocha, Th 7c
+Combination: Gocha, Two Pair ( 9s 9c 7c 7s Ks )
+Wins: Jigo, chips: 200
+Wins: Gocha, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Flop: 2s 8c 8h
+Turn: Kc
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Jigo, 6c Jc
+Combination: Jigo, Pair ( 8c 8h Ah Kc Jc )
+Shows: Gocha, 9d Ks
+Combination: Gocha, Two Pair ( Ks Kc 8c 8h Ah )
+Wins: Jigo, chips: 100
+Wins: Gocha, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Flop: 2h Ts 2d
+Turn: 9d
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Jigo, Kd Qc
+Combination: Jigo, Pair ( 2h 2d Kd Qc Ts )
+Shows: Gocha, 3c Qs
+Combination: Gocha, Pair ( 2h 2d Qs Ts 9d )
+Wins: Jigo, chips: 200
+Wins: Gocha, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Flop: 9c Ad Qs
+Turn: Jh
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Jigo, Js 5s
+Combination: Jigo, Pair ( Js Jh Ad Qs 9c )
+Shows: Gocha, Ac 4s
+Combination: Gocha, Pair ( Ac Ad Qs Jh 9c )
+Wins: Jigo, chips: 100
+Wins: Gocha, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Flop: 6s 9d 3s
+Turn: Js
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Jigo, 4h 8h
+Combination: Jigo, High Card ( Ad Js 9d 8h 6s )
+Shows: Gocha, 9c 8s
+Combination: Gocha, Pair ( 9c 9d Ad Js 8s )
+Wins: Gocha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Folds: Gocha
+Pot size: 300
+Boasts: Jigo, Ad 7h
+Wins: Jigo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Flop: Qs Th 7h
+Turn: 9d
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Jigo, 7c 3h
+Combination: Jigo, Pair ( 7c 7h Qs Th 9d )
+Shows: Gocha, 7s 5d
+Combination: Gocha, Two Pair ( 7s 7h 5d 5s Qs )
+Wins: Gocha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Folds: Gocha
+Pot size: 300
+Wins: Jigo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Flop: Tc Kc Kh
+Turn: Js
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Jigo, Kd 2s
+Combination: Jigo, Three Of A Kind ( Kd Kc Kh Js Tc )
+Shows: Gocha, 8h Qh
+Combination: Gocha, Straight ( Kc Qh Js Tc 9s )
+Wins: Gocha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Folds: Gocha
+Pot size: 300
+Wins: Jigo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Flop: 4c 5d 6d
+Turn: 6s
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Jigo, Ks Jc
+Combination: Jigo, Two Pair ( Jc Jh 6d 6s Ks )
+Shows: Gocha, 8c Jd
+Combination: Gocha, Two Pair ( Jd Jh 6d 6s 8c )
+Wins: Jigo, chips: 200
+Wins: Gocha, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Flop: Ad 3d 7d
+Turn: 5c
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Jigo, 4d 7c
+Combination: Jigo, Straight ( 7c 6h 5c 4d 3d )
+Shows: Gocha, Tc 5s
+Combination: Gocha, Pair ( 5s 5c Ad Tc 7d )
+Wins: Jigo, chips: 300
+Quits: Gocha, chips: 0
+Ranking: Jigo, Place: 1, Score: 1000
+Reveal AI: Jigo, AI: Random
+Ranking: Gocha, Place: 2, Score: -1000
+Reveal AI: Gocha, AI: AIMyBot1
+
+Player Stats for Gocha, AI: AIMyBot1
+General: deals: 25, actions: 11, preflop actions: 11
+Rounds Seen: flops: 12, turns: 12, rivers: 12, showdowns: 12
+Wins: total: 13, showdown: 11, bluff: 2
+Chips: won: 2700, lost: 3700, bought: 1000, forced bets: 3700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.916667
+
+
+Player Stats for Jigo, AI: Random
+General: deals: 25, actions: 5, preflop actions: 5
+Rounds Seen: flops: 12, turns: 12, rivers: 12, showdowns: 12
+Wins: total: 20, showdown: 9, bluff: 11
+Chips: won: 5400, lost: 4400, bought: 1000, forced bets: 3800
+Pre-Flop Stats: VP$IP: 0.12, PFR: 0.04, 3Bet: 0.04
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:45:57
+
+The game begins. The AI's of the players are: 
+Jigo: Random
+Gocha: AIMyBot1
+
+Joins: Jigo, chips: 1000
+Joins: Gocha, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Folds: Gocha
+Pot size: 300
+Wins: Jigo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Folds: Jigo
+Pot size: 300
+Wins: Gocha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Folds: Gocha
+Pot size: 300
+Wins: Jigo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Folds: Jigo
+Pot size: 300
+Wins: Gocha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Folds: Gocha
+Pot size: 300
+Boasts: Jigo, 5h 7s
+Wins: Jigo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Raises: Jigo, chips: 300
+Folds: Gocha
+Pot size: 700
+Boasts: Jigo, 6h 2h
+Wins: Jigo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Folds: Gocha
+Pot size: 300
+Wins: Jigo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Calls: Jigo
+DEBUG MESSAGE: INVALID ACTION FROM Gocha (2 0)
+Folds: Gocha
+Pot size: 400
+Boasts: Jigo, 3h Jc
+Wins: Jigo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Folds: Gocha
+Pot size: 300
+Wins: Jigo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Calls: Jigo
+DEBUG MESSAGE: INVALID ACTION FROM Gocha (2 0)
+Folds: Gocha
+Pot size: 400
+Wins: Jigo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Flop: Td 2d 9h
+Turn: 7s
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Jigo, 3h 4h
+Combination: Jigo, Pair ( 2d 2c Td 9h 7s )
+Shows: Gocha, 9s 8d
+Combination: Gocha, Two Pair ( 9s 9h 2d 2c Td )
+Wins: Jigo, chips: 100
+Wins: Gocha, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Flop: 6c 2s Qh
+Turn: 6h
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Jigo, As Td
+Combination: Jigo, Pair ( 6c 6h As Qh Td )
+Shows: Gocha, 8c 7d
+Combination: Gocha, Pair ( 6c 6h Qh 8c 7d )
+Wins: Jigo, chips: 200
+Wins: Gocha, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Flop: 3h 2c 2h
+Turn: 8c
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Jigo, 5h Td
+Combination: Jigo, Pair ( 2c 2h Td 8c 5h )
+Shows: Gocha, 6c 2s
+Combination: Gocha, Three Of A Kind ( 2s 2c 2h 8c 6c )
+Wins: Jigo, chips: 100
+Wins: Gocha, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Flop: Ks 6c 9s
+Turn: 7s
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Jigo, 9h 8c
+Combination: Jigo, Three Of A Kind ( 9h 9s 9c Ks 8c )
+Shows: Gocha, Th 7c
+Combination: Gocha, Two Pair ( 9s 9c 7c 7s Ks )
+Wins: Jigo, chips: 200
+Wins: Gocha, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Flop: 2s 8c 8h
+Turn: Kc
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Jigo, 6c Jc
+Combination: Jigo, Pair ( 8c 8h Ah Kc Jc )
+Shows: Gocha, 9d Ks
+Combination: Gocha, Two Pair ( Ks Kc 8c 8h Ah )
+Wins: Jigo, chips: 100
+Wins: Gocha, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Flop: 2h Ts 2d
+Turn: 9d
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Jigo, Kd Qc
+Combination: Jigo, Pair ( 2h 2d Kd Qc Ts )
+Shows: Gocha, 3c Qs
+Combination: Gocha, Pair ( 2h 2d Qs Ts 9d )
+Wins: Jigo, chips: 200
+Wins: Gocha, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Flop: 9c Ad Qs
+Turn: Jh
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Jigo, Js 5s
+Combination: Jigo, Pair ( Js Jh Ad Qs 9c )
+Shows: Gocha, Ac 4s
+Combination: Gocha, Pair ( Ac Ad Qs Jh 9c )
+Wins: Jigo, chips: 100
+Wins: Gocha, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Flop: 6s 9d 3s
+Turn: Js
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Jigo, 4h 8h
+Combination: Jigo, High Card ( Ad Js 9d 8h 6s )
+Shows: Gocha, 9c 8s
+Combination: Gocha, Pair ( 9c 9d Ad Js 8s )
+Wins: Gocha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Folds: Gocha
+Pot size: 300
+Boasts: Jigo, Ad 7h
+Wins: Jigo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Flop: Qs Th 7h
+Turn: 9d
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Jigo, 7c 3h
+Combination: Jigo, Pair ( 7c 7h Qs Th 9d )
+Shows: Gocha, 7s 5d
+Combination: Gocha, Two Pair ( 7s 7h 5d 5s Qs )
+Wins: Gocha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Folds: Gocha
+Pot size: 300
+Wins: Jigo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Flop: Tc Kc Kh
+Turn: Js
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Jigo, Kd 2s
+Combination: Jigo, Three Of A Kind ( Kd Kc Kh Js Tc )
+Shows: Gocha, 8h Qh
+Combination: Gocha, Straight ( Kc Qh Js Tc 9s )
+Wins: Gocha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Folds: Gocha
+Pot size: 300
+Wins: Jigo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigo
+Small Blind: Jigo, chips: 100
+Big Blind: Gocha, chips: 200
+Flop: 4c 5d 6d
+Turn: 6s
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Jigo, Ks Jc
+Combination: Jigo, Two Pair ( Jc Jh 6d 6s Ks )
+Shows: Gocha, 8c Jd
+Combination: Gocha, Two Pair ( Jd Jh 6d 6s 8c )
+Wins: Jigo, chips: 200
+Wins: Gocha, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gocha
+Small Blind: Gocha, chips: 100
+Big Blind: Jigo, chips: 200
+Flop: Ad 3d 7d
+Turn: 5c
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Jigo, 4d 7c
+Combination: Jigo, Straight ( 7c 6h 5c 4d 3d )
+Shows: Gocha, Tc 5s
+Combination: Gocha, Pair ( 5s 5c Ad Tc 7d )
+Wins: Jigo, chips: 300
+Quits: Gocha, chips: 0
+Ranking: Jigo, Place: 1, Score: 1000
+Reveal AI: Jigo, AI: Random
+Ranking: Gocha, Place: 2, Score: -1000
+Reveal AI: Gocha, AI: AIMyBot1
+
+Player Stats for Gocha, AI: AIMyBot1
+General: deals: 25, actions: 11, preflop actions: 11
+Rounds Seen: flops: 12, turns: 12, rivers: 12, showdowns: 12
+Wins: total: 13, showdown: 11, bluff: 2
+Chips: won: 2700, lost: 3700, bought: 1000, forced bets: 3700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.916667
+
+
+Player Stats for Jigo, AI: Random
+General: deals: 25, actions: 5, preflop actions: 5
+Rounds Seen: flops: 12, turns: 12, rivers: 12, showdowns: 12
+Wins: total: 20, showdown: 9, bluff: 11
+Chips: won: 5400, lost: 4400, bought: 1000, forced bets: 3800
+Pre-Flop Stats: VP$IP: 0.12, PFR: 0.04, 3Bet: 0.04
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

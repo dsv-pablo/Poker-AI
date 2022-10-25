@@ -1,0 +1,270 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Havi: AIMyBot1
+Vunhudi: Random
+
+Joins: Havi, chips: 1000
+Joins: Vunhudi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vunhudi
+Small Blind: Vunhudi, chips: 100
+Big Blind: Havi, chips: 200
+Calls: Vunhudi
+DEBUG MESSAGE: INVALID ACTION FROM Havi (2 0)
+Folds: Havi
+Pot size: 400
+Boasts: Vunhudi, 2h 5s
+Wins: Vunhudi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Havi
+Small Blind: Havi, chips: 100
+Big Blind: Vunhudi, chips: 200
+Folds: Havi
+Pot size: 300
+Boasts: Vunhudi, 7d Qs
+Wins: Vunhudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vunhudi
+Small Blind: Vunhudi, chips: 100
+Big Blind: Havi, chips: 200
+Folds: Vunhudi
+Pot size: 300
+Boasts: Vunhudi, 3s Ks
+Wins: Havi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Havi
+Small Blind: Havi, chips: 100
+Big Blind: Vunhudi, chips: 200
+Folds: Havi
+Pot size: 300
+Wins: Vunhudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vunhudi
+Small Blind: Vunhudi, chips: 100
+Big Blind: Havi, chips: 200
+Calls: Vunhudi
+DEBUG MESSAGE: INVALID ACTION FROM Havi (2 0)
+Folds: Havi
+Pot size: 400
+Wins: Vunhudi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Havi
+Small Blind: Havi, chips: 100
+Big Blind: Vunhudi, chips: 200
+Folds: Havi
+Pot size: 300
+Wins: Vunhudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vunhudi
+Small Blind: Vunhudi, chips: 100
+Big Blind: Havi, chips: 200
+Calls: Vunhudi
+DEBUG MESSAGE: INVALID ACTION FROM Havi (2 0)
+Folds: Havi
+Pot size: 400
+Boasts: Vunhudi, Ad 7s
+Wins: Vunhudi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Havi
+Small Blind: Havi, chips: 100
+Big Blind: Vunhudi, chips: 200
+Folds: Havi
+Pot size: 300
+Wins: Vunhudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vunhudi
+Small Blind: Vunhudi, chips: 100
+Big Blind: Havi, chips: 100
+Flop: 7c 6c 9c
+Turn: 2h
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Havi, 3h Ts
+Combination: Havi, Straight ( Ts 9c 8s 7c 6c )
+Shows: Vunhudi, 7h Kd
+Combination: Vunhudi, Pair ( 7h 7c Kd 9c 8s )
+Wins: Havi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Havi
+Small Blind: Havi, chips: 100
+Big Blind: Vunhudi, chips: 200
+Folds: Havi
+Pot size: 300
+Boasts: Vunhudi, Th Ad
+Wins: Vunhudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vunhudi
+Small Blind: Vunhudi, chips: 100
+Big Blind: Havi, chips: 100
+Flop: Kd 7s 6h
+Turn: Jd
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Havi, As 9s
+Combination: Havi, High Card ( As Kd Jd 9s 7s )
+Shows: Vunhudi, Qd Kh
+Combination: Vunhudi, Pair ( Kh Kd Qd Jd 7s )
+Wins: Vunhudi, chips: 200
+Quits: Havi, chips: 0
+Ranking: Vunhudi, Place: 1, Score: 1000
+Reveal AI: Vunhudi, AI: Random
+Ranking: Havi, Place: 2, Score: -1000
+Reveal AI: Havi, AI: AIMyBot1
+
+Player Stats for Havi, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Vunhudi, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:05
+
+The game begins. The AI's of the players are: 
+Havi: AIMyBot1
+Vunhudi: Random
+
+Joins: Havi, chips: 1000
+Joins: Vunhudi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vunhudi
+Small Blind: Vunhudi, chips: 100
+Big Blind: Havi, chips: 200
+Calls: Vunhudi
+DEBUG MESSAGE: INVALID ACTION FROM Havi (2 0)
+Folds: Havi
+Pot size: 400
+Boasts: Vunhudi, 2h 5s
+Wins: Vunhudi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Havi
+Small Blind: Havi, chips: 100
+Big Blind: Vunhudi, chips: 200
+Folds: Havi
+Pot size: 300
+Boasts: Vunhudi, 7d Qs
+Wins: Vunhudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vunhudi
+Small Blind: Vunhudi, chips: 100
+Big Blind: Havi, chips: 200
+Folds: Vunhudi
+Pot size: 300
+Boasts: Vunhudi, 3s Ks
+Wins: Havi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Havi
+Small Blind: Havi, chips: 100
+Big Blind: Vunhudi, chips: 200
+Folds: Havi
+Pot size: 300
+Wins: Vunhudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vunhudi
+Small Blind: Vunhudi, chips: 100
+Big Blind: Havi, chips: 200
+Calls: Vunhudi
+DEBUG MESSAGE: INVALID ACTION FROM Havi (2 0)
+Folds: Havi
+Pot size: 400
+Wins: Vunhudi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Havi
+Small Blind: Havi, chips: 100
+Big Blind: Vunhudi, chips: 200
+Folds: Havi
+Pot size: 300
+Wins: Vunhudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vunhudi
+Small Blind: Vunhudi, chips: 100
+Big Blind: Havi, chips: 200
+Calls: Vunhudi
+DEBUG MESSAGE: INVALID ACTION FROM Havi (2 0)
+Folds: Havi
+Pot size: 400
+Boasts: Vunhudi, Ad 7s
+Wins: Vunhudi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Havi
+Small Blind: Havi, chips: 100
+Big Blind: Vunhudi, chips: 200
+Folds: Havi
+Pot size: 300
+Wins: Vunhudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vunhudi
+Small Blind: Vunhudi, chips: 100
+Big Blind: Havi, chips: 100
+Flop: 7c 6c 9c
+Turn: 2h
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Havi, 3h Ts
+Combination: Havi, Straight ( Ts 9c 8s 7c 6c )
+Shows: Vunhudi, 7h Kd
+Combination: Vunhudi, Pair ( 7h 7c Kd 9c 8s )
+Wins: Havi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Havi
+Small Blind: Havi, chips: 100
+Big Blind: Vunhudi, chips: 200
+Folds: Havi
+Pot size: 300
+Boasts: Vunhudi, Th Ad
+Wins: Vunhudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vunhudi
+Small Blind: Vunhudi, chips: 100
+Big Blind: Havi, chips: 100
+Flop: Kd 7s 6h
+Turn: Jd
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Havi, As 9s
+Combination: Havi, High Card ( As Kd Jd 9s 7s )
+Shows: Vunhudi, Qd Kh
+Combination: Vunhudi, Pair ( Kh Kd Qd Jd 7s )
+Wins: Vunhudi, chips: 200
+Quits: Havi, chips: 0
+Ranking: Vunhudi, Place: 1, Score: 1000
+Reveal AI: Vunhudi, AI: Random
+Ranking: Havi, Place: 2, Score: -1000
+Reveal AI: Havi, AI: AIMyBot1
+
+Player Stats for Havi, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Vunhudi, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

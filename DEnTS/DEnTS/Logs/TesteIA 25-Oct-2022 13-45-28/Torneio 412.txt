@@ -1,0 +1,226 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Siku: Random
+Goerlono: AIMyBot1
+
+Joins: Siku, chips: 1000
+Joins: Goerlono, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siku
+Small Blind: Siku, chips: 100
+Big Blind: Goerlono, chips: 200
+Folds: Siku
+Pot size: 300
+Wins: Goerlono, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlono
+Small Blind: Goerlono, chips: 100
+Big Blind: Siku, chips: 200
+Folds: Goerlono
+Pot size: 300
+Boasts: Siku, 2s 3s
+Wins: Siku, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siku
+Small Blind: Siku, chips: 100
+Big Blind: Goerlono, chips: 200
+Calls: Siku
+DEBUG MESSAGE: INVALID ACTION FROM Goerlono (2 0)
+Folds: Goerlono
+Pot size: 400
+Wins: Siku, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlono
+Small Blind: Goerlono, chips: 100
+Big Blind: Siku, chips: 200
+Folds: Goerlono
+Pot size: 300
+Wins: Siku, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siku
+Small Blind: Siku, chips: 100
+Big Blind: Goerlono, chips: 200
+Calls: Siku
+DEBUG MESSAGE: INVALID ACTION FROM Goerlono (2 0)
+Folds: Goerlono
+Pot size: 400
+Boasts: Siku, 9h 6d
+Wins: Siku, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlono
+Small Blind: Goerlono, chips: 100
+Big Blind: Siku, chips: 200
+Folds: Goerlono
+Pot size: 300
+Wins: Siku, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siku
+Small Blind: Siku, chips: 100
+Big Blind: Goerlono, chips: 200
+Calls: Siku
+DEBUG MESSAGE: INVALID ACTION FROM Goerlono (2 0)
+Folds: Goerlono
+Pot size: 400
+Boasts: Siku, 6s Kd
+Wins: Siku, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlono
+Small Blind: Goerlono, chips: 100
+Big Blind: Siku, chips: 200
+Folds: Goerlono
+Pot size: 300
+Boasts: Siku, Jh 3d
+Wins: Siku, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siku
+Small Blind: Siku, chips: 100
+Big Blind: Goerlono, chips: 100
+Flop: Kh Tc 8d
+Turn: 2d
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Siku, Qs 5h
+Combination: Siku, High Card ( Kh Qs Jc Tc 8d )
+Shows: Goerlono, 4h 3s
+Combination: Goerlono, High Card ( Kh Jc Tc 8d 4h )
+Wins: Siku, chips: 200
+Quits: Goerlono, chips: 0
+Ranking: Siku, Place: 1, Score: 1000
+Reveal AI: Siku, AI: Random
+Ranking: Goerlono, Place: 2, Score: -1000
+Reveal AI: Goerlono, AI: AIMyBot1
+
+Player Stats for Goerlono, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Siku, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:56
+
+The game begins. The AI's of the players are: 
+Siku: Random
+Goerlono: AIMyBot1
+
+Joins: Siku, chips: 1000
+Joins: Goerlono, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siku
+Small Blind: Siku, chips: 100
+Big Blind: Goerlono, chips: 200
+Folds: Siku
+Pot size: 300
+Wins: Goerlono, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlono
+Small Blind: Goerlono, chips: 100
+Big Blind: Siku, chips: 200
+Folds: Goerlono
+Pot size: 300
+Boasts: Siku, 2s 3s
+Wins: Siku, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siku
+Small Blind: Siku, chips: 100
+Big Blind: Goerlono, chips: 200
+Calls: Siku
+DEBUG MESSAGE: INVALID ACTION FROM Goerlono (2 0)
+Folds: Goerlono
+Pot size: 400
+Wins: Siku, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlono
+Small Blind: Goerlono, chips: 100
+Big Blind: Siku, chips: 200
+Folds: Goerlono
+Pot size: 300
+Wins: Siku, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siku
+Small Blind: Siku, chips: 100
+Big Blind: Goerlono, chips: 200
+Calls: Siku
+DEBUG MESSAGE: INVALID ACTION FROM Goerlono (2 0)
+Folds: Goerlono
+Pot size: 400
+Boasts: Siku, 9h 6d
+Wins: Siku, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlono
+Small Blind: Goerlono, chips: 100
+Big Blind: Siku, chips: 200
+Folds: Goerlono
+Pot size: 300
+Wins: Siku, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siku
+Small Blind: Siku, chips: 100
+Big Blind: Goerlono, chips: 200
+Calls: Siku
+DEBUG MESSAGE: INVALID ACTION FROM Goerlono (2 0)
+Folds: Goerlono
+Pot size: 400
+Boasts: Siku, 6s Kd
+Wins: Siku, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlono
+Small Blind: Goerlono, chips: 100
+Big Blind: Siku, chips: 200
+Folds: Goerlono
+Pot size: 300
+Boasts: Siku, Jh 3d
+Wins: Siku, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siku
+Small Blind: Siku, chips: 100
+Big Blind: Goerlono, chips: 100
+Flop: Kh Tc 8d
+Turn: 2d
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Siku, Qs 5h
+Combination: Siku, High Card ( Kh Qs Jc Tc 8d )
+Shows: Goerlono, 4h 3s
+Combination: Goerlono, High Card ( Kh Jc Tc 8d 4h )
+Wins: Siku, chips: 200
+Quits: Goerlono, chips: 0
+Ranking: Siku, Place: 1, Score: 1000
+Reveal AI: Siku, AI: Random
+Ranking: Goerlono, Place: 2, Score: -1000
+Reveal AI: Goerlono, AI: AIMyBot1
+
+Player Stats for Goerlono, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Siku, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

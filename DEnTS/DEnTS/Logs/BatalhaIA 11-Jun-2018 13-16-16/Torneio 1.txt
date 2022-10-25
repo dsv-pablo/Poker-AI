@@ -1,0 +1,46 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wevewru: AIMyBot6
+Seeso: AIMyBot3
+Dilif: AIMyBot7
+Na: AIMyBot5
+Rereenny: AIMyBot1
+Fisee: AIMyBot2
+Be: AIMyBot4
+
+Joins: Wevewru, chips: 100000
+Joins: Seeso, chips: 100000
+Joins: Dilif, chips: 100000
+Joins: Na, chips: 100000
+Joins: Rereenny, chips: 100000
+Joins: Fisee, chips: 100000
+Joins: Be, chips: 100000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rereenny
+Small Blind: Fisee, chips: 100
+Big Blind: Be, chips: 200
+Date: 2018/06/11 13:16:17
+
+The game begins. The AI's of the players are: 
+Wevewru: AIMyBot6
+Seeso: AIMyBot3
+Dilif: AIMyBot7
+Na: AIMyBot5
+Rereenny: AIMyBot1
+Fisee: AIMyBot2
+Be: AIMyBot4
+
+Joins: Wevewru, chips: 100000
+Joins: Seeso, chips: 100000
+Joins: Dilif, chips: 100000
+Joins: Na, chips: 100000
+Joins: Rereenny, chips: 100000
+Joins: Fisee, chips: 100000
+Joins: Be, chips: 100000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rereenny
+Small Blind: Fisee, chips: 100
+Big Blind: Be, chips: 200

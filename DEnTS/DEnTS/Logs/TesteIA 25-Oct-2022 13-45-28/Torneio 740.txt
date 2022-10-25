@@ -1,0 +1,344 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Peheeda: Random
+Beenittep: AIMyBot1
+
+Joins: Peheeda, chips: 1000
+Joins: Beenittep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beenittep
+Small Blind: Beenittep, chips: 100
+Big Blind: Peheeda, chips: 200
+Folds: Beenittep
+Pot size: 300
+Boasts: Peheeda, Ah 7d
+Wins: Peheeda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peheeda
+Small Blind: Peheeda, chips: 100
+Big Blind: Beenittep, chips: 200
+Folds: Peheeda
+Pot size: 300
+Wins: Beenittep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beenittep
+Small Blind: Beenittep, chips: 100
+Big Blind: Peheeda, chips: 200
+Folds: Beenittep
+Pot size: 300
+Wins: Peheeda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peheeda
+Small Blind: Peheeda, chips: 100
+Big Blind: Beenittep, chips: 200
+Calls: Peheeda
+DEBUG MESSAGE: INVALID ACTION FROM Beenittep (2 0)
+Folds: Beenittep
+Pot size: 400
+Wins: Peheeda, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beenittep
+Small Blind: Beenittep, chips: 100
+Big Blind: Peheeda, chips: 200
+Folds: Beenittep
+Pot size: 300
+Wins: Peheeda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peheeda
+Small Blind: Peheeda, chips: 100
+Big Blind: Beenittep, chips: 200
+Calls: Peheeda
+DEBUG MESSAGE: INVALID ACTION FROM Beenittep (2 0)
+Folds: Beenittep
+Pot size: 400
+Boasts: Peheeda, 9c 2h
+Wins: Peheeda, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beenittep
+Small Blind: Beenittep, chips: 100
+Big Blind: Peheeda, chips: 200
+Folds: Beenittep
+Pot size: 300
+Boasts: Peheeda, 4d Th
+Wins: Peheeda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peheeda
+Small Blind: Peheeda, chips: 100
+Big Blind: Beenittep, chips: 200
+Calls: Peheeda
+DEBUG MESSAGE: INVALID ACTION FROM Beenittep (2 0)
+Folds: Beenittep
+Pot size: 400
+Wins: Peheeda, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beenittep
+Small Blind: Beenittep, chips: 100
+Big Blind: Peheeda, chips: 200
+Flop: Qh 9s Td
+Turn: Qd
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Peheeda, 2s 9h
+Combination: Peheeda, Two Pair ( Qh Qd Td Ts 9h )
+Shows: Beenittep, Th Tc
+Combination: Beenittep, Four Of A Kind ( Th Tc Td Ts Qh )
+Wins: Peheeda, chips: 100
+Wins: Beenittep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peheeda
+Small Blind: Peheeda, chips: 100
+Big Blind: Beenittep, chips: 200
+Flop: 7d 4d 4c
+Turn: 5h
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Peheeda, Td 8h
+Combination: Peheeda, Two Pair ( Td Tc 4d 4c 8h )
+Shows: Beenittep, Ac 9s
+Combination: Beenittep, Pair ( 4d 4c Ac Tc 9s )
+Wins: Peheeda, chips: 200
+Wins: Beenittep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beenittep
+Small Blind: Beenittep, chips: 100
+Big Blind: Peheeda, chips: 200
+Flop: Jd 8s 7d
+Turn: 4s
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Peheeda, Td Kh
+Combination: Peheeda, High Card ( Kh Jd Td 8s 7d )
+Shows: Beenittep, 7h 5s
+Combination: Beenittep, Pair ( 7h 7d Jd 8s 5s )
+Wins: Peheeda, chips: 100
+Wins: Beenittep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peheeda
+Small Blind: Peheeda, chips: 100
+Big Blind: Beenittep, chips: 200
+Flop: Js Qc 3c
+Turn: Qh
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Peheeda, 8s Ah
+Combination: Peheeda, Pair ( Qc Qh Ah Js 9c )
+Shows: Beenittep, 5s 6s
+Combination: Beenittep, Pair ( Qc Qh Js 9c 6s )
+Wins: Peheeda, chips: 200
+Wins: Beenittep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beenittep
+Small Blind: Beenittep, chips: 100
+Big Blind: Peheeda, chips: 200
+Flop: 8d Qh 8c
+Turn: 5s
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Peheeda, 9c Qs
+Combination: Peheeda, Two Pair ( Qs Qh 9c 9h 8d )
+Shows: Beenittep, 4h Ks
+Combination: Beenittep, Pair ( 8d 8c Ks Qh 9h )
+Wins: Peheeda, chips: 300
+Quits: Beenittep, chips: 0
+Ranking: Peheeda, Place: 1, Score: 1000
+Reveal AI: Peheeda, AI: Random
+Ranking: Beenittep, Place: 2, Score: -1000
+Reveal AI: Beenittep, AI: AIMyBot1
+
+Player Stats for Beenittep, AI: AIMyBot1
+General: deals: 13, actions: 7, preflop actions: 7
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Peheeda, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 5, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:18
+
+The game begins. The AI's of the players are: 
+Peheeda: Random
+Beenittep: AIMyBot1
+
+Joins: Peheeda, chips: 1000
+Joins: Beenittep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beenittep
+Small Blind: Beenittep, chips: 100
+Big Blind: Peheeda, chips: 200
+Folds: Beenittep
+Pot size: 300
+Boasts: Peheeda, Ah 7d
+Wins: Peheeda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peheeda
+Small Blind: Peheeda, chips: 100
+Big Blind: Beenittep, chips: 200
+Folds: Peheeda
+Pot size: 300
+Wins: Beenittep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beenittep
+Small Blind: Beenittep, chips: 100
+Big Blind: Peheeda, chips: 200
+Folds: Beenittep
+Pot size: 300
+Wins: Peheeda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peheeda
+Small Blind: Peheeda, chips: 100
+Big Blind: Beenittep, chips: 200
+Calls: Peheeda
+DEBUG MESSAGE: INVALID ACTION FROM Beenittep (2 0)
+Folds: Beenittep
+Pot size: 400
+Wins: Peheeda, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beenittep
+Small Blind: Beenittep, chips: 100
+Big Blind: Peheeda, chips: 200
+Folds: Beenittep
+Pot size: 300
+Wins: Peheeda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peheeda
+Small Blind: Peheeda, chips: 100
+Big Blind: Beenittep, chips: 200
+Calls: Peheeda
+DEBUG MESSAGE: INVALID ACTION FROM Beenittep (2 0)
+Folds: Beenittep
+Pot size: 400
+Boasts: Peheeda, 9c 2h
+Wins: Peheeda, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beenittep
+Small Blind: Beenittep, chips: 100
+Big Blind: Peheeda, chips: 200
+Folds: Beenittep
+Pot size: 300
+Boasts: Peheeda, 4d Th
+Wins: Peheeda, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peheeda
+Small Blind: Peheeda, chips: 100
+Big Blind: Beenittep, chips: 200
+Calls: Peheeda
+DEBUG MESSAGE: INVALID ACTION FROM Beenittep (2 0)
+Folds: Beenittep
+Pot size: 400
+Wins: Peheeda, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beenittep
+Small Blind: Beenittep, chips: 100
+Big Blind: Peheeda, chips: 200
+Flop: Qh 9s Td
+Turn: Qd
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Peheeda, 2s 9h
+Combination: Peheeda, Two Pair ( Qh Qd Td Ts 9h )
+Shows: Beenittep, Th Tc
+Combination: Beenittep, Four Of A Kind ( Th Tc Td Ts Qh )
+Wins: Peheeda, chips: 100
+Wins: Beenittep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peheeda
+Small Blind: Peheeda, chips: 100
+Big Blind: Beenittep, chips: 200
+Flop: 7d 4d 4c
+Turn: 5h
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Peheeda, Td 8h
+Combination: Peheeda, Two Pair ( Td Tc 4d 4c 8h )
+Shows: Beenittep, Ac 9s
+Combination: Beenittep, Pair ( 4d 4c Ac Tc 9s )
+Wins: Peheeda, chips: 200
+Wins: Beenittep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beenittep
+Small Blind: Beenittep, chips: 100
+Big Blind: Peheeda, chips: 200
+Flop: Jd 8s 7d
+Turn: 4s
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Peheeda, Td Kh
+Combination: Peheeda, High Card ( Kh Jd Td 8s 7d )
+Shows: Beenittep, 7h 5s
+Combination: Beenittep, Pair ( 7h 7d Jd 8s 5s )
+Wins: Peheeda, chips: 100
+Wins: Beenittep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peheeda
+Small Blind: Peheeda, chips: 100
+Big Blind: Beenittep, chips: 200
+Flop: Js Qc 3c
+Turn: Qh
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Peheeda, 8s Ah
+Combination: Peheeda, Pair ( Qc Qh Ah Js 9c )
+Shows: Beenittep, 5s 6s
+Combination: Beenittep, Pair ( Qc Qh Js 9c 6s )
+Wins: Peheeda, chips: 200
+Wins: Beenittep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beenittep
+Small Blind: Beenittep, chips: 100
+Big Blind: Peheeda, chips: 200
+Flop: 8d Qh 8c
+Turn: 5s
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Peheeda, 9c Qs
+Combination: Peheeda, Two Pair ( Qs Qh 9c 9h 8d )
+Shows: Beenittep, 4h Ks
+Combination: Beenittep, Pair ( 8d 8c Ks Qh 9h )
+Wins: Peheeda, chips: 300
+Quits: Beenittep, chips: 0
+Ranking: Peheeda, Place: 1, Score: 1000
+Reveal AI: Peheeda, AI: Random
+Ranking: Beenittep, Place: 2, Score: -1000
+Reveal AI: Beenittep, AI: AIMyBot1
+
+Player Stats for Beenittep, AI: AIMyBot1
+General: deals: 13, actions: 7, preflop actions: 7
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Peheeda, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 5, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

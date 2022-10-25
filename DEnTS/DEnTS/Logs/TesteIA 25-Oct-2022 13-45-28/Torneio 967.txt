@@ -1,0 +1,262 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Doetee: Random
+Woesit: AIMyBot1
+
+Joins: Doetee, chips: 1000
+Joins: Woesit, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doetee
+Small Blind: Doetee, chips: 100
+Big Blind: Woesit, chips: 200
+Raises: Doetee, chips: 300
+Folds: Woesit
+Pot size: 700
+Wins: Doetee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woesit
+Small Blind: Woesit, chips: 100
+Big Blind: Doetee, chips: 200
+Folds: Woesit
+Pot size: 300
+Wins: Doetee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doetee
+Small Blind: Doetee, chips: 100
+Big Blind: Woesit, chips: 200
+Folds: Doetee
+Pot size: 300
+Wins: Woesit, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woesit
+Small Blind: Woesit, chips: 100
+Big Blind: Doetee, chips: 200
+Folds: Woesit
+Pot size: 300
+Wins: Doetee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doetee
+Small Blind: Doetee, chips: 100
+Big Blind: Woesit, chips: 200
+Raises: Doetee, chips: 300
+Folds: Woesit
+Pot size: 700
+Boasts: Doetee, Qs Js
+Wins: Doetee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woesit
+Small Blind: Woesit, chips: 100
+Big Blind: Doetee, chips: 200
+Folds: Woesit
+Pot size: 300
+Wins: Doetee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doetee
+Small Blind: Doetee, chips: 100
+Big Blind: Woesit, chips: 200
+Calls: Doetee
+DEBUG MESSAGE: INVALID ACTION FROM Woesit (2 0)
+Folds: Woesit
+Pot size: 400
+Wins: Doetee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woesit
+Small Blind: Woesit, chips: 100
+Big Blind: Doetee, chips: 200
+Folds: Woesit
+Pot size: 300
+Boasts: Doetee, Qs Kh
+Wins: Doetee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doetee
+Small Blind: Doetee, chips: 100
+Big Blind: Woesit, chips: 100
+Flop: Th Jh 6h
+Turn: 3d
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Doetee, Qc 5d
+Combination: Doetee, High Card ( Qc Jh Th 7h 6h )
+Shows: Woesit, 3c 9s
+Combination: Woesit, Pair ( 3c 3d Jh Th 9s )
+Wins: Woesit, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woesit
+Small Blind: Woesit, chips: 100
+Big Blind: Doetee, chips: 200
+Folds: Woesit
+Pot size: 300
+Boasts: Doetee, 6s Th
+Wins: Doetee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doetee
+Small Blind: Doetee, chips: 100
+Big Blind: Woesit, chips: 100
+Flop: Kc 6s 5s
+Turn: 5h
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Doetee, 6d 5c
+Combination: Doetee, Full House ( 5c 5s 5h 6d 6s )
+Shows: Woesit, Kh Ad
+Combination: Woesit, Two Pair ( Kh Kc 5s 5h Ad )
+Wins: Doetee, chips: 200
+Quits: Woesit, chips: 0
+Ranking: Doetee, Place: 1, Score: 1000
+Reveal AI: Doetee, AI: Random
+Ranking: Woesit, Place: 2, Score: -1000
+Reveal AI: Woesit, AI: AIMyBot1
+
+Player Stats for Doetee, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Woesit, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:32
+
+The game begins. The AI's of the players are: 
+Doetee: Random
+Woesit: AIMyBot1
+
+Joins: Doetee, chips: 1000
+Joins: Woesit, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doetee
+Small Blind: Doetee, chips: 100
+Big Blind: Woesit, chips: 200
+Raises: Doetee, chips: 300
+Folds: Woesit
+Pot size: 700
+Wins: Doetee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woesit
+Small Blind: Woesit, chips: 100
+Big Blind: Doetee, chips: 200
+Folds: Woesit
+Pot size: 300
+Wins: Doetee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doetee
+Small Blind: Doetee, chips: 100
+Big Blind: Woesit, chips: 200
+Folds: Doetee
+Pot size: 300
+Wins: Woesit, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woesit
+Small Blind: Woesit, chips: 100
+Big Blind: Doetee, chips: 200
+Folds: Woesit
+Pot size: 300
+Wins: Doetee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doetee
+Small Blind: Doetee, chips: 100
+Big Blind: Woesit, chips: 200
+Raises: Doetee, chips: 300
+Folds: Woesit
+Pot size: 700
+Boasts: Doetee, Qs Js
+Wins: Doetee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woesit
+Small Blind: Woesit, chips: 100
+Big Blind: Doetee, chips: 200
+Folds: Woesit
+Pot size: 300
+Wins: Doetee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doetee
+Small Blind: Doetee, chips: 100
+Big Blind: Woesit, chips: 200
+Calls: Doetee
+DEBUG MESSAGE: INVALID ACTION FROM Woesit (2 0)
+Folds: Woesit
+Pot size: 400
+Wins: Doetee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woesit
+Small Blind: Woesit, chips: 100
+Big Blind: Doetee, chips: 200
+Folds: Woesit
+Pot size: 300
+Boasts: Doetee, Qs Kh
+Wins: Doetee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doetee
+Small Blind: Doetee, chips: 100
+Big Blind: Woesit, chips: 100
+Flop: Th Jh 6h
+Turn: 3d
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Doetee, Qc 5d
+Combination: Doetee, High Card ( Qc Jh Th 7h 6h )
+Shows: Woesit, 3c 9s
+Combination: Woesit, Pair ( 3c 3d Jh Th 9s )
+Wins: Woesit, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woesit
+Small Blind: Woesit, chips: 100
+Big Blind: Doetee, chips: 200
+Folds: Woesit
+Pot size: 300
+Boasts: Doetee, 6s Th
+Wins: Doetee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doetee
+Small Blind: Doetee, chips: 100
+Big Blind: Woesit, chips: 100
+Flop: Kc 6s 5s
+Turn: 5h
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Doetee, 6d 5c
+Combination: Doetee, Full House ( 5c 5s 5h 6d 6s )
+Shows: Woesit, Kh Ad
+Combination: Woesit, Two Pair ( Kh Kc 5s 5h Ad )
+Wins: Doetee, chips: 200
+Quits: Woesit, chips: 0
+Ranking: Doetee, Place: 1, Score: 1000
+Reveal AI: Doetee, AI: Random
+Ranking: Woesit, Place: 2, Score: -1000
+Reveal AI: Woesit, AI: AIMyBot1
+
+Player Stats for Doetee, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Woesit, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

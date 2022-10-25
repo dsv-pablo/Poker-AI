@@ -1,0 +1,218 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Vonhikees: AIMyBot1
+Vefeenhep: Random
+
+Joins: Vonhikees, chips: 1000
+Joins: Vefeenhep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vefeenhep
+Small Blind: Vefeenhep, chips: 100
+Big Blind: Vonhikees, chips: 200
+Raises: Vefeenhep, chips: 300
+Folds: Vonhikees
+Pot size: 700
+Wins: Vefeenhep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhikees
+Small Blind: Vonhikees, chips: 100
+Big Blind: Vefeenhep, chips: 200
+Folds: Vonhikees
+Pot size: 300
+Wins: Vefeenhep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vefeenhep
+Small Blind: Vefeenhep, chips: 100
+Big Blind: Vonhikees, chips: 200
+Folds: Vefeenhep
+Pot size: 300
+Boasts: Vefeenhep, 9c Ks
+Wins: Vonhikees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhikees
+Small Blind: Vonhikees, chips: 100
+Big Blind: Vefeenhep, chips: 200
+Folds: Vonhikees
+Pot size: 300
+Boasts: Vefeenhep, 3h 9c
+Wins: Vefeenhep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vefeenhep
+Small Blind: Vefeenhep, chips: 100
+Big Blind: Vonhikees, chips: 200
+Raises: Vefeenhep, chips: 300
+Folds: Vonhikees
+Pot size: 700
+Wins: Vefeenhep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhikees
+Small Blind: Vonhikees, chips: 100
+Big Blind: Vefeenhep, chips: 200
+Folds: Vonhikees
+Pot size: 300
+Wins: Vefeenhep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vefeenhep
+Small Blind: Vefeenhep, chips: 100
+Big Blind: Vonhikees, chips: 200
+Raises: Vefeenhep, chips: 300
+Folds: Vonhikees
+Pot size: 700
+Boasts: Vefeenhep, As Ac
+Wins: Vefeenhep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhikees
+Small Blind: Vonhikees, chips: 100
+Big Blind: Vefeenhep, chips: 200
+Folds: Vonhikees
+Pot size: 300
+Wins: Vefeenhep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vefeenhep
+Small Blind: Vefeenhep, chips: 100
+Big Blind: Vonhikees, chips: 100
+Flop: 9h 8c 4d
+Turn: 5c
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Vonhikees, 3c Tc
+Combination: Vonhikees, Pair ( 3c 3s Tc 9h 8c )
+Shows: Vefeenhep, 5d Jh
+Combination: Vefeenhep, Pair ( 5d 5c Jh 9h 8c )
+Wins: Vefeenhep, chips: 200
+Quits: Vonhikees, chips: 0
+Ranking: Vefeenhep, Place: 1, Score: 1000
+Reveal AI: Vefeenhep, AI: Random
+Ranking: Vonhikees, Place: 2, Score: -1000
+Reveal AI: Vonhikees, AI: AIMyBot1
+
+Player Stats for Vefeenhep, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Vonhikees, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:30
+
+The game begins. The AI's of the players are: 
+Vonhikees: AIMyBot1
+Vefeenhep: Random
+
+Joins: Vonhikees, chips: 1000
+Joins: Vefeenhep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vefeenhep
+Small Blind: Vefeenhep, chips: 100
+Big Blind: Vonhikees, chips: 200
+Raises: Vefeenhep, chips: 300
+Folds: Vonhikees
+Pot size: 700
+Wins: Vefeenhep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhikees
+Small Blind: Vonhikees, chips: 100
+Big Blind: Vefeenhep, chips: 200
+Folds: Vonhikees
+Pot size: 300
+Wins: Vefeenhep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vefeenhep
+Small Blind: Vefeenhep, chips: 100
+Big Blind: Vonhikees, chips: 200
+Folds: Vefeenhep
+Pot size: 300
+Boasts: Vefeenhep, 9c Ks
+Wins: Vonhikees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhikees
+Small Blind: Vonhikees, chips: 100
+Big Blind: Vefeenhep, chips: 200
+Folds: Vonhikees
+Pot size: 300
+Boasts: Vefeenhep, 3h 9c
+Wins: Vefeenhep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vefeenhep
+Small Blind: Vefeenhep, chips: 100
+Big Blind: Vonhikees, chips: 200
+Raises: Vefeenhep, chips: 300
+Folds: Vonhikees
+Pot size: 700
+Wins: Vefeenhep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhikees
+Small Blind: Vonhikees, chips: 100
+Big Blind: Vefeenhep, chips: 200
+Folds: Vonhikees
+Pot size: 300
+Wins: Vefeenhep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vefeenhep
+Small Blind: Vefeenhep, chips: 100
+Big Blind: Vonhikees, chips: 200
+Raises: Vefeenhep, chips: 300
+Folds: Vonhikees
+Pot size: 700
+Boasts: Vefeenhep, As Ac
+Wins: Vefeenhep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonhikees
+Small Blind: Vonhikees, chips: 100
+Big Blind: Vefeenhep, chips: 200
+Folds: Vonhikees
+Pot size: 300
+Wins: Vefeenhep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vefeenhep
+Small Blind: Vefeenhep, chips: 100
+Big Blind: Vonhikees, chips: 100
+Flop: 9h 8c 4d
+Turn: 5c
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Vonhikees, 3c Tc
+Combination: Vonhikees, Pair ( 3c 3s Tc 9h 8c )
+Shows: Vefeenhep, 5d Jh
+Combination: Vefeenhep, Pair ( 5d 5c Jh 9h 8c )
+Wins: Vefeenhep, chips: 200
+Quits: Vonhikees, chips: 0
+Ranking: Vefeenhep, Place: 1, Score: 1000
+Reveal AI: Vefeenhep, AI: Random
+Ranking: Vonhikees, Place: 2, Score: -1000
+Reveal AI: Vonhikees, AI: AIMyBot1
+
+Player Stats for Vefeenhep, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Vonhikees, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

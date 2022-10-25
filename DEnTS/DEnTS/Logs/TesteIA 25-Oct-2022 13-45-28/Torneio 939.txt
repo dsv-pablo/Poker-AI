@@ -1,0 +1,258 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Movoe: Random
+Deehesa: AIMyBot1
+
+Joins: Movoe, chips: 1000
+Joins: Deehesa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deehesa
+Small Blind: Deehesa, chips: 100
+Big Blind: Movoe, chips: 200
+Folds: Deehesa
+Pot size: 300
+Boasts: Movoe, 6c 8d
+Wins: Movoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Movoe
+Small Blind: Movoe, chips: 100
+Big Blind: Deehesa, chips: 200
+Calls: Movoe
+DEBUG MESSAGE: INVALID ACTION FROM Deehesa (2 0)
+Folds: Deehesa
+Pot size: 400
+Boasts: Movoe, 9d 3d
+Wins: Movoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deehesa
+Small Blind: Deehesa, chips: 100
+Big Blind: Movoe, chips: 200
+Folds: Deehesa
+Pot size: 300
+Wins: Movoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Movoe
+Small Blind: Movoe, chips: 100
+Big Blind: Deehesa, chips: 200
+Calls: Movoe
+DEBUG MESSAGE: INVALID ACTION FROM Deehesa (2 0)
+Folds: Deehesa
+Pot size: 400
+Boasts: Movoe, 8h 3d
+Wins: Movoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deehesa
+Small Blind: Deehesa, chips: 100
+Big Blind: Movoe, chips: 200
+Folds: Deehesa
+Pot size: 300
+Boasts: Movoe, 7h 9h
+Wins: Movoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Movoe
+Small Blind: Movoe, chips: 100
+Big Blind: Deehesa, chips: 200
+Raises: Movoe, chips: 300
+Folds: Deehesa
+Pot size: 700
+Boasts: Movoe, Ah Js
+Wins: Movoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deehesa
+Small Blind: Deehesa, chips: 100
+Big Blind: Movoe, chips: 200
+Flop: Js Ah 3s
+Turn: 5s
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Movoe, 9s Td
+Combination: Movoe, High Card ( Ah Js Td 9s 5s )
+Shows: Deehesa, 6d 4h
+Combination: Deehesa, Straight ( 6d 5s 4h 3s 2h )
+Wins: Movoe, chips: 100
+Wins: Deehesa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Movoe
+Small Blind: Movoe, chips: 100
+Big Blind: Deehesa, chips: 200
+Flop: Jd 8c 9d
+Turn: 4c
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Movoe, 2c Jh
+Combination: Movoe, Pair ( Jh Jd 9d 8c 6c )
+Shows: Deehesa, 6h Th
+Combination: Deehesa, Pair ( 6h 6c Jd Th 9d )
+Wins: Movoe, chips: 200
+Wins: Deehesa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deehesa
+Small Blind: Deehesa, chips: 100
+Big Blind: Movoe, chips: 200
+Flop: 6c 6h Td
+Turn: Qd
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Movoe, Tc Th
+Combination: Movoe, Full House ( Tc Th Td 6c 6h )
+Shows: Deehesa, Jc 2c
+Combination: Deehesa, Pair ( 6c 6h Qd Jc Td )
+Wins: Movoe, chips: 300
+Quits: Deehesa, chips: 0
+Ranking: Movoe, Place: 1, Score: 1000
+Reveal AI: Movoe, AI: Random
+Ranking: Deehesa, Place: 2, Score: -1000
+Reveal AI: Deehesa, AI: AIMyBot1
+
+Player Stats for Deehesa, AI: AIMyBot1
+General: deals: 9, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Movoe, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:31
+
+The game begins. The AI's of the players are: 
+Movoe: Random
+Deehesa: AIMyBot1
+
+Joins: Movoe, chips: 1000
+Joins: Deehesa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deehesa
+Small Blind: Deehesa, chips: 100
+Big Blind: Movoe, chips: 200
+Folds: Deehesa
+Pot size: 300
+Boasts: Movoe, 6c 8d
+Wins: Movoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Movoe
+Small Blind: Movoe, chips: 100
+Big Blind: Deehesa, chips: 200
+Calls: Movoe
+DEBUG MESSAGE: INVALID ACTION FROM Deehesa (2 0)
+Folds: Deehesa
+Pot size: 400
+Boasts: Movoe, 9d 3d
+Wins: Movoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deehesa
+Small Blind: Deehesa, chips: 100
+Big Blind: Movoe, chips: 200
+Folds: Deehesa
+Pot size: 300
+Wins: Movoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Movoe
+Small Blind: Movoe, chips: 100
+Big Blind: Deehesa, chips: 200
+Calls: Movoe
+DEBUG MESSAGE: INVALID ACTION FROM Deehesa (2 0)
+Folds: Deehesa
+Pot size: 400
+Boasts: Movoe, 8h 3d
+Wins: Movoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deehesa
+Small Blind: Deehesa, chips: 100
+Big Blind: Movoe, chips: 200
+Folds: Deehesa
+Pot size: 300
+Boasts: Movoe, 7h 9h
+Wins: Movoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Movoe
+Small Blind: Movoe, chips: 100
+Big Blind: Deehesa, chips: 200
+Raises: Movoe, chips: 300
+Folds: Deehesa
+Pot size: 700
+Boasts: Movoe, Ah Js
+Wins: Movoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deehesa
+Small Blind: Deehesa, chips: 100
+Big Blind: Movoe, chips: 200
+Flop: Js Ah 3s
+Turn: 5s
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Movoe, 9s Td
+Combination: Movoe, High Card ( Ah Js Td 9s 5s )
+Shows: Deehesa, 6d 4h
+Combination: Deehesa, Straight ( 6d 5s 4h 3s 2h )
+Wins: Movoe, chips: 100
+Wins: Deehesa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Movoe
+Small Blind: Movoe, chips: 100
+Big Blind: Deehesa, chips: 200
+Flop: Jd 8c 9d
+Turn: 4c
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Movoe, 2c Jh
+Combination: Movoe, Pair ( Jh Jd 9d 8c 6c )
+Shows: Deehesa, 6h Th
+Combination: Deehesa, Pair ( 6h 6c Jd Th 9d )
+Wins: Movoe, chips: 200
+Wins: Deehesa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deehesa
+Small Blind: Deehesa, chips: 100
+Big Blind: Movoe, chips: 200
+Flop: 6c 6h Td
+Turn: Qd
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Movoe, Tc Th
+Combination: Movoe, Full House ( Tc Th Td 6c 6h )
+Shows: Deehesa, Jc 2c
+Combination: Deehesa, Pair ( 6c 6h Qd Jc Td )
+Wins: Movoe, chips: 300
+Quits: Deehesa, chips: 0
+Ranking: Movoe, Place: 1, Score: 1000
+Reveal AI: Movoe, AI: Random
+Ranking: Deehesa, Place: 2, Score: -1000
+Reveal AI: Deehesa, AI: AIMyBot1
+
+Player Stats for Deehesa, AI: AIMyBot1
+General: deals: 9, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Movoe, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

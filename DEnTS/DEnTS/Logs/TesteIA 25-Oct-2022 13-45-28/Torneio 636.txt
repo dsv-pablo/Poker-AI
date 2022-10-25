@@ -1,0 +1,252 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Sudisee: Random
+Galus: AIMyBot1
+
+Joins: Sudisee, chips: 1000
+Joins: Galus, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sudisee
+Small Blind: Sudisee, chips: 100
+Big Blind: Galus, chips: 200
+Raises: Sudisee, chips: 300
+Folds: Galus
+Pot size: 700
+Boasts: Sudisee, 3h Jh
+Wins: Sudisee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Galus
+Small Blind: Galus, chips: 100
+Big Blind: Sudisee, chips: 200
+Folds: Galus
+Pot size: 300
+Wins: Sudisee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sudisee
+Small Blind: Sudisee, chips: 100
+Big Blind: Galus, chips: 200
+Folds: Sudisee
+Pot size: 300
+Wins: Galus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Galus
+Small Blind: Galus, chips: 100
+Big Blind: Sudisee, chips: 200
+Folds: Galus
+Pot size: 300
+Boasts: Sudisee, 7s Kh
+Wins: Sudisee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sudisee
+Small Blind: Sudisee, chips: 100
+Big Blind: Galus, chips: 200
+Raises: Sudisee, chips: 300
+Folds: Galus
+Pot size: 700
+Boasts: Sudisee, 5h 3s
+Wins: Sudisee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Galus
+Small Blind: Galus, chips: 100
+Big Blind: Sudisee, chips: 200
+Folds: Galus
+Pot size: 300
+Boasts: Sudisee, 7c 3c
+Wins: Sudisee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sudisee
+Small Blind: Sudisee, chips: 100
+Big Blind: Galus, chips: 200
+Folds: Sudisee
+Pot size: 300
+Boasts: Sudisee, 5c 3h
+Wins: Galus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Galus
+Small Blind: Galus, chips: 100
+Big Blind: Sudisee, chips: 200
+Folds: Galus
+Pot size: 300
+Boasts: Sudisee, 4c 8h
+Wins: Sudisee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sudisee
+Small Blind: Sudisee, chips: 100
+Big Blind: Galus, chips: 200
+Raises: Sudisee, chips: 300
+Folds: Galus
+Pot size: 700
+Wins: Sudisee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Galus
+Small Blind: Galus, chips: 100
+Big Blind: Sudisee, chips: 200
+Folds: Galus
+Pot size: 300
+Wins: Sudisee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sudisee
+Small Blind: Sudisee, chips: 100
+Big Blind: Galus, chips: 100
+Flop: 7h 5d 4s
+Turn: 2h
+River: Ah
+Pot size: 200
+Showdown Reached
+Shows: Sudisee, Kd 8s
+Combination: Sudisee, High Card ( Ah Kd 8s 7h 5d )
+Shows: Galus, Qc 8d
+Combination: Galus, High Card ( Ah Qc 8d 7h 5d )
+Wins: Sudisee, chips: 200
+Quits: Galus, chips: 0
+Ranking: Sudisee, Place: 1, Score: 1000
+Reveal AI: Sudisee, AI: Random
+Ranking: Galus, Place: 2, Score: -1000
+Reveal AI: Galus, AI: AIMyBot1
+
+Player Stats for Galus, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Sudisee, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.272727, 3Bet: 0.272727
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:11
+
+The game begins. The AI's of the players are: 
+Sudisee: Random
+Galus: AIMyBot1
+
+Joins: Sudisee, chips: 1000
+Joins: Galus, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sudisee
+Small Blind: Sudisee, chips: 100
+Big Blind: Galus, chips: 200
+Raises: Sudisee, chips: 300
+Folds: Galus
+Pot size: 700
+Boasts: Sudisee, 3h Jh
+Wins: Sudisee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Galus
+Small Blind: Galus, chips: 100
+Big Blind: Sudisee, chips: 200
+Folds: Galus
+Pot size: 300
+Wins: Sudisee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sudisee
+Small Blind: Sudisee, chips: 100
+Big Blind: Galus, chips: 200
+Folds: Sudisee
+Pot size: 300
+Wins: Galus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Galus
+Small Blind: Galus, chips: 100
+Big Blind: Sudisee, chips: 200
+Folds: Galus
+Pot size: 300
+Boasts: Sudisee, 7s Kh
+Wins: Sudisee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sudisee
+Small Blind: Sudisee, chips: 100
+Big Blind: Galus, chips: 200
+Raises: Sudisee, chips: 300
+Folds: Galus
+Pot size: 700
+Boasts: Sudisee, 5h 3s
+Wins: Sudisee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Galus
+Small Blind: Galus, chips: 100
+Big Blind: Sudisee, chips: 200
+Folds: Galus
+Pot size: 300
+Boasts: Sudisee, 7c 3c
+Wins: Sudisee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sudisee
+Small Blind: Sudisee, chips: 100
+Big Blind: Galus, chips: 200
+Folds: Sudisee
+Pot size: 300
+Boasts: Sudisee, 5c 3h
+Wins: Galus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Galus
+Small Blind: Galus, chips: 100
+Big Blind: Sudisee, chips: 200
+Folds: Galus
+Pot size: 300
+Boasts: Sudisee, 4c 8h
+Wins: Sudisee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sudisee
+Small Blind: Sudisee, chips: 100
+Big Blind: Galus, chips: 200
+Raises: Sudisee, chips: 300
+Folds: Galus
+Pot size: 700
+Wins: Sudisee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Galus
+Small Blind: Galus, chips: 100
+Big Blind: Sudisee, chips: 200
+Folds: Galus
+Pot size: 300
+Wins: Sudisee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sudisee
+Small Blind: Sudisee, chips: 100
+Big Blind: Galus, chips: 100
+Flop: 7h 5d 4s
+Turn: 2h
+River: Ah
+Pot size: 200
+Showdown Reached
+Shows: Sudisee, Kd 8s
+Combination: Sudisee, High Card ( Ah Kd 8s 7h 5d )
+Shows: Galus, Qc 8d
+Combination: Galus, High Card ( Ah Qc 8d 7h 5d )
+Wins: Sudisee, chips: 200
+Quits: Galus, chips: 0
+Ranking: Sudisee, Place: 1, Score: 1000
+Reveal AI: Sudisee, AI: Random
+Ranking: Galus, Place: 2, Score: -1000
+Reveal AI: Galus, AI: AIMyBot1
+
+Player Stats for Galus, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Sudisee, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.272727, 3Bet: 0.272727
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

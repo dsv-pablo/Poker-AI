@@ -1,0 +1,194 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jumik: AIMyBot1
+Heevu: Random
+
+Joins: Jumik, chips: 1000
+Joins: Heevu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jumik
+Small Blind: Jumik, chips: 100
+Big Blind: Heevu, chips: 200
+Folds: Jumik
+Pot size: 300
+Wins: Heevu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heevu
+Small Blind: Heevu, chips: 100
+Big Blind: Jumik, chips: 200
+Calls: Heevu
+DEBUG MESSAGE: INVALID ACTION FROM Jumik (2 0)
+Folds: Jumik
+Pot size: 400
+Boasts: Heevu, Jh 8h
+Wins: Heevu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jumik
+Small Blind: Jumik, chips: 100
+Big Blind: Heevu, chips: 200
+Folds: Jumik
+Pot size: 300
+Wins: Heevu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heevu
+Small Blind: Heevu, chips: 100
+Big Blind: Jumik, chips: 200
+Calls: Heevu
+DEBUG MESSAGE: INVALID ACTION FROM Jumik (2 0)
+Folds: Jumik
+Pot size: 400
+Wins: Heevu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jumik
+Small Blind: Jumik, chips: 100
+Big Blind: Heevu, chips: 200
+Folds: Jumik
+Pot size: 300
+Boasts: Heevu, 4h Ks
+Wins: Heevu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heevu
+Small Blind: Heevu, chips: 100
+Big Blind: Jumik, chips: 200
+Raises: Heevu, chips: 300
+Folds: Jumik
+Pot size: 700
+Boasts: Heevu, 5d 5h
+Wins: Heevu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jumik
+Small Blind: Jumik, chips: 100
+Big Blind: Heevu, chips: 200
+Flop: 9d Jd 7s
+Turn: Kd
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Jumik, 3d 2s
+Combination: Jumik, Pair ( Jd Js Kd 9d 7s )
+Shows: Heevu, 9s 4s
+Combination: Heevu, Two Pair ( Jd Js 9s 9d Kd )
+Wins: Heevu, chips: 300
+Quits: Jumik, chips: 0
+Ranking: Heevu, Place: 1, Score: 1000
+Reveal AI: Heevu, AI: Random
+Ranking: Jumik, Place: 2, Score: -1000
+Reveal AI: Jumik, AI: AIMyBot1
+
+Player Stats for Heevu, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Jumik, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:19
+
+The game begins. The AI's of the players are: 
+Jumik: AIMyBot1
+Heevu: Random
+
+Joins: Jumik, chips: 1000
+Joins: Heevu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jumik
+Small Blind: Jumik, chips: 100
+Big Blind: Heevu, chips: 200
+Folds: Jumik
+Pot size: 300
+Wins: Heevu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heevu
+Small Blind: Heevu, chips: 100
+Big Blind: Jumik, chips: 200
+Calls: Heevu
+DEBUG MESSAGE: INVALID ACTION FROM Jumik (2 0)
+Folds: Jumik
+Pot size: 400
+Boasts: Heevu, Jh 8h
+Wins: Heevu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jumik
+Small Blind: Jumik, chips: 100
+Big Blind: Heevu, chips: 200
+Folds: Jumik
+Pot size: 300
+Wins: Heevu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heevu
+Small Blind: Heevu, chips: 100
+Big Blind: Jumik, chips: 200
+Calls: Heevu
+DEBUG MESSAGE: INVALID ACTION FROM Jumik (2 0)
+Folds: Jumik
+Pot size: 400
+Wins: Heevu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jumik
+Small Blind: Jumik, chips: 100
+Big Blind: Heevu, chips: 200
+Folds: Jumik
+Pot size: 300
+Boasts: Heevu, 4h Ks
+Wins: Heevu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heevu
+Small Blind: Heevu, chips: 100
+Big Blind: Jumik, chips: 200
+Raises: Heevu, chips: 300
+Folds: Jumik
+Pot size: 700
+Boasts: Heevu, 5d 5h
+Wins: Heevu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jumik
+Small Blind: Jumik, chips: 100
+Big Blind: Heevu, chips: 200
+Flop: 9d Jd 7s
+Turn: Kd
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Jumik, 3d 2s
+Combination: Jumik, Pair ( Jd Js Kd 9d 7s )
+Shows: Heevu, 9s 4s
+Combination: Heevu, Two Pair ( Jd Js 9s 9d Kd )
+Wins: Heevu, chips: 300
+Quits: Jumik, chips: 0
+Ranking: Heevu, Place: 1, Score: 1000
+Reveal AI: Heevu, AI: Random
+Ranking: Jumik, Place: 2, Score: -1000
+Reveal AI: Jumik, AI: AIMyBot1
+
+Player Stats for Heevu, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Jumik, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

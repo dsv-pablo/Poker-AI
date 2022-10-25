@@ -1,0 +1,188 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Runhugoel: AIMyBot1
+Chitoe: Random
+
+Joins: Runhugoel, chips: 1000
+Joins: Chitoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chitoe
+Small Blind: Chitoe, chips: 100
+Big Blind: Runhugoel, chips: 200
+Raises: Chitoe, chips: 300
+Folds: Runhugoel
+Pot size: 700
+Boasts: Chitoe, 6d 8c
+Wins: Chitoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Runhugoel
+Small Blind: Runhugoel, chips: 100
+Big Blind: Chitoe, chips: 200
+Folds: Runhugoel
+Pot size: 300
+Boasts: Chitoe, 9c Td
+Wins: Chitoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chitoe
+Small Blind: Chitoe, chips: 100
+Big Blind: Runhugoel, chips: 200
+Raises: Chitoe, chips: 300
+Folds: Runhugoel
+Pot size: 700
+Wins: Chitoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Runhugoel
+Small Blind: Runhugoel, chips: 100
+Big Blind: Chitoe, chips: 200
+Folds: Runhugoel
+Pot size: 300
+Wins: Chitoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chitoe
+Small Blind: Chitoe, chips: 100
+Big Blind: Runhugoel, chips: 200
+Raises: Chitoe, chips: 300
+Folds: Runhugoel
+Pot size: 700
+Wins: Chitoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Runhugoel
+Small Blind: Runhugoel, chips: 100
+Big Blind: Chitoe, chips: 200
+Folds: Runhugoel
+Pot size: 300
+Wins: Chitoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chitoe
+Small Blind: Chitoe, chips: 100
+Big Blind: Runhugoel, chips: 100
+Flop: 9d Js 9h
+Turn: Th
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Runhugoel, 2s Ad
+Combination: Runhugoel, Two Pair ( Th Tc 9d 9h Ad )
+Shows: Chitoe, 9c 8h
+Combination: Chitoe, Full House ( 9c 9d 9h Th Tc )
+Wins: Chitoe, chips: 200
+Quits: Runhugoel, chips: 0
+Ranking: Chitoe, Place: 1, Score: 1000
+Reveal AI: Chitoe, AI: Random
+Ranking: Runhugoel, Place: 2, Score: -1000
+Reveal AI: Runhugoel, AI: AIMyBot1
+
+Player Stats for Chitoe, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.428571, 3Bet: 0.428571
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Runhugoel, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:19
+
+The game begins. The AI's of the players are: 
+Runhugoel: AIMyBot1
+Chitoe: Random
+
+Joins: Runhugoel, chips: 1000
+Joins: Chitoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chitoe
+Small Blind: Chitoe, chips: 100
+Big Blind: Runhugoel, chips: 200
+Raises: Chitoe, chips: 300
+Folds: Runhugoel
+Pot size: 700
+Boasts: Chitoe, 6d 8c
+Wins: Chitoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Runhugoel
+Small Blind: Runhugoel, chips: 100
+Big Blind: Chitoe, chips: 200
+Folds: Runhugoel
+Pot size: 300
+Boasts: Chitoe, 9c Td
+Wins: Chitoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chitoe
+Small Blind: Chitoe, chips: 100
+Big Blind: Runhugoel, chips: 200
+Raises: Chitoe, chips: 300
+Folds: Runhugoel
+Pot size: 700
+Wins: Chitoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Runhugoel
+Small Blind: Runhugoel, chips: 100
+Big Blind: Chitoe, chips: 200
+Folds: Runhugoel
+Pot size: 300
+Wins: Chitoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chitoe
+Small Blind: Chitoe, chips: 100
+Big Blind: Runhugoel, chips: 200
+Raises: Chitoe, chips: 300
+Folds: Runhugoel
+Pot size: 700
+Wins: Chitoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Runhugoel
+Small Blind: Runhugoel, chips: 100
+Big Blind: Chitoe, chips: 200
+Folds: Runhugoel
+Pot size: 300
+Wins: Chitoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chitoe
+Small Blind: Chitoe, chips: 100
+Big Blind: Runhugoel, chips: 100
+Flop: 9d Js 9h
+Turn: Th
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Runhugoel, 2s Ad
+Combination: Runhugoel, Two Pair ( Th Tc 9d 9h Ad )
+Shows: Chitoe, 9c 8h
+Combination: Chitoe, Full House ( 9c 9d 9h Th Tc )
+Wins: Chitoe, chips: 200
+Quits: Runhugoel, chips: 0
+Ranking: Chitoe, Place: 1, Score: 1000
+Reveal AI: Chitoe, AI: Random
+Ranking: Runhugoel, Place: 2, Score: -1000
+Reveal AI: Runhugoel, AI: AIMyBot1
+
+Player Stats for Chitoe, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.428571, 3Bet: 0.428571
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Runhugoel, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

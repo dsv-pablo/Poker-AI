@@ -1,0 +1,284 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Bapi: Random
+Sittoetry: AIMyBot1
+
+Joins: Bapi, chips: 1000
+Joins: Sittoetry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sittoetry
+Small Blind: Sittoetry, chips: 100
+Big Blind: Bapi, chips: 200
+Folds: Sittoetry
+Pot size: 300
+Wins: Bapi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bapi
+Small Blind: Bapi, chips: 100
+Big Blind: Sittoetry, chips: 200
+Raises: Bapi, chips: 300
+Folds: Sittoetry
+Pot size: 700
+Boasts: Bapi, 9d As
+Wins: Bapi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sittoetry
+Small Blind: Sittoetry, chips: 100
+Big Blind: Bapi, chips: 200
+Folds: Sittoetry
+Pot size: 300
+Wins: Bapi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bapi
+Small Blind: Bapi, chips: 100
+Big Blind: Sittoetry, chips: 200
+Raises: Bapi, chips: 300
+Folds: Sittoetry
+Pot size: 700
+Boasts: Bapi, 2h Ks
+Wins: Bapi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sittoetry
+Small Blind: Sittoetry, chips: 100
+Big Blind: Bapi, chips: 200
+Folds: Sittoetry
+Pot size: 300
+Boasts: Bapi, Qs Jd
+Wins: Bapi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bapi
+Small Blind: Bapi, chips: 100
+Big Blind: Sittoetry, chips: 200
+Folds: Bapi
+Pot size: 300
+Boasts: Bapi, Ad 9s
+Wins: Sittoetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sittoetry
+Small Blind: Sittoetry, chips: 100
+Big Blind: Bapi, chips: 200
+Folds: Sittoetry
+Pot size: 300
+Boasts: Bapi, Jh 7s
+Wins: Bapi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bapi
+Small Blind: Bapi, chips: 100
+Big Blind: Sittoetry, chips: 200
+Raises: Bapi, chips: 300
+Folds: Sittoetry
+Pot size: 700
+Boasts: Bapi, Th 5s
+Wins: Bapi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sittoetry
+Small Blind: Sittoetry, chips: 100
+Big Blind: Bapi, chips: 200
+Flop: 7h Ks 4h
+Turn: 8c
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Bapi, 3s 6s
+Combination: Bapi, Pair ( Ks Kh 8c 7h 6s )
+Shows: Sittoetry, Ad Ah
+Combination: Sittoetry, Two Pair ( Ad Ah Ks Kh 8c )
+Wins: Bapi, chips: 100
+Wins: Sittoetry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bapi
+Small Blind: Bapi, chips: 100
+Big Blind: Sittoetry, chips: 200
+Flop: Td 2s 8s
+Turn: 5s
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Bapi, Js 9s
+Combination: Bapi, Flush ( Js 9s 8s 5s 2s )
+Shows: Sittoetry, Ks 6c
+Combination: Sittoetry, Pair ( Td Tc Ks 8s 6c )
+Wins: Bapi, chips: 200
+Wins: Sittoetry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sittoetry
+Small Blind: Sittoetry, chips: 100
+Big Blind: Bapi, chips: 200
+Flop: Ks 8d 2d
+Turn: 9d
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Bapi, 6h 2c
+Combination: Bapi, Pair ( 2c 2d Ks 9d 8d )
+Shows: Sittoetry, Qd 5c
+Combination: Sittoetry, High Card ( Ks Qd 9d 8d 5c )
+Wins: Bapi, chips: 300
+Quits: Sittoetry, chips: 0
+Ranking: Bapi, Place: 1, Score: 1000
+Reveal AI: Bapi, AI: Random
+Ranking: Sittoetry, Place: 2, Score: -1000
+Reveal AI: Sittoetry, AI: AIMyBot1
+
+Player Stats for Bapi, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.272727, 3Bet: 0.272727
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Sittoetry, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:23
+
+The game begins. The AI's of the players are: 
+Bapi: Random
+Sittoetry: AIMyBot1
+
+Joins: Bapi, chips: 1000
+Joins: Sittoetry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sittoetry
+Small Blind: Sittoetry, chips: 100
+Big Blind: Bapi, chips: 200
+Folds: Sittoetry
+Pot size: 300
+Wins: Bapi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bapi
+Small Blind: Bapi, chips: 100
+Big Blind: Sittoetry, chips: 200
+Raises: Bapi, chips: 300
+Folds: Sittoetry
+Pot size: 700
+Boasts: Bapi, 9d As
+Wins: Bapi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sittoetry
+Small Blind: Sittoetry, chips: 100
+Big Blind: Bapi, chips: 200
+Folds: Sittoetry
+Pot size: 300
+Wins: Bapi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bapi
+Small Blind: Bapi, chips: 100
+Big Blind: Sittoetry, chips: 200
+Raises: Bapi, chips: 300
+Folds: Sittoetry
+Pot size: 700
+Boasts: Bapi, 2h Ks
+Wins: Bapi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sittoetry
+Small Blind: Sittoetry, chips: 100
+Big Blind: Bapi, chips: 200
+Folds: Sittoetry
+Pot size: 300
+Boasts: Bapi, Qs Jd
+Wins: Bapi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bapi
+Small Blind: Bapi, chips: 100
+Big Blind: Sittoetry, chips: 200
+Folds: Bapi
+Pot size: 300
+Boasts: Bapi, Ad 9s
+Wins: Sittoetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sittoetry
+Small Blind: Sittoetry, chips: 100
+Big Blind: Bapi, chips: 200
+Folds: Sittoetry
+Pot size: 300
+Boasts: Bapi, Jh 7s
+Wins: Bapi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bapi
+Small Blind: Bapi, chips: 100
+Big Blind: Sittoetry, chips: 200
+Raises: Bapi, chips: 300
+Folds: Sittoetry
+Pot size: 700
+Boasts: Bapi, Th 5s
+Wins: Bapi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sittoetry
+Small Blind: Sittoetry, chips: 100
+Big Blind: Bapi, chips: 200
+Flop: 7h Ks 4h
+Turn: 8c
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Bapi, 3s 6s
+Combination: Bapi, Pair ( Ks Kh 8c 7h 6s )
+Shows: Sittoetry, Ad Ah
+Combination: Sittoetry, Two Pair ( Ad Ah Ks Kh 8c )
+Wins: Bapi, chips: 100
+Wins: Sittoetry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bapi
+Small Blind: Bapi, chips: 100
+Big Blind: Sittoetry, chips: 200
+Flop: Td 2s 8s
+Turn: 5s
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Bapi, Js 9s
+Combination: Bapi, Flush ( Js 9s 8s 5s 2s )
+Shows: Sittoetry, Ks 6c
+Combination: Sittoetry, Pair ( Td Tc Ks 8s 6c )
+Wins: Bapi, chips: 200
+Wins: Sittoetry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sittoetry
+Small Blind: Sittoetry, chips: 100
+Big Blind: Bapi, chips: 200
+Flop: Ks 8d 2d
+Turn: 9d
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Bapi, 6h 2c
+Combination: Bapi, Pair ( 2c 2d Ks 9d 8d )
+Shows: Sittoetry, Qd 5c
+Combination: Sittoetry, High Card ( Ks Qd 9d 8d 5c )
+Wins: Bapi, chips: 300
+Quits: Sittoetry, chips: 0
+Ranking: Bapi, Place: 1, Score: 1000
+Reveal AI: Bapi, AI: Random
+Ranking: Sittoetry, Place: 2, Score: -1000
+Reveal AI: Sittoetry, AI: AIMyBot1
+
+Player Stats for Bapi, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.272727, 3Bet: 0.272727
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Sittoetry, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

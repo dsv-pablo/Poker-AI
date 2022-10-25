@@ -1,0 +1,266 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Voesum: AIMyBot1
+Gibeepu: Random
+
+Joins: Voesum, chips: 1000
+Joins: Gibeepu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gibeepu
+Small Blind: Gibeepu, chips: 100
+Big Blind: Voesum, chips: 200
+Folds: Gibeepu
+Pot size: 300
+Wins: Voesum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesum
+Small Blind: Voesum, chips: 100
+Big Blind: Gibeepu, chips: 200
+Folds: Voesum
+Pot size: 300
+Boasts: Gibeepu, 5d 2c
+Wins: Gibeepu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gibeepu
+Small Blind: Gibeepu, chips: 100
+Big Blind: Voesum, chips: 200
+Calls: Gibeepu
+DEBUG MESSAGE: INVALID ACTION FROM Voesum (2 0)
+Folds: Voesum
+Pot size: 400
+Boasts: Gibeepu, Ah 4c
+Wins: Gibeepu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesum
+Small Blind: Voesum, chips: 100
+Big Blind: Gibeepu, chips: 200
+Folds: Voesum
+Pot size: 300
+Wins: Gibeepu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gibeepu
+Small Blind: Gibeepu, chips: 100
+Big Blind: Voesum, chips: 200
+Calls: Gibeepu
+DEBUG MESSAGE: INVALID ACTION FROM Voesum (2 0)
+Folds: Voesum
+Pot size: 400
+Wins: Gibeepu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesum
+Small Blind: Voesum, chips: 100
+Big Blind: Gibeepu, chips: 200
+Folds: Voesum
+Pot size: 300
+Wins: Gibeepu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gibeepu
+Small Blind: Gibeepu, chips: 100
+Big Blind: Voesum, chips: 200
+Raises: Gibeepu, chips: 300
+Folds: Voesum
+Pot size: 700
+Boasts: Gibeepu, Kc 4s
+Wins: Gibeepu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesum
+Small Blind: Voesum, chips: 100
+Big Blind: Gibeepu, chips: 200
+Folds: Voesum
+Pot size: 300
+Boasts: Gibeepu, 2s Kd
+Wins: Gibeepu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gibeepu
+Small Blind: Gibeepu, chips: 100
+Big Blind: Voesum, chips: 100
+Flop: Qh As Ts
+Turn: 8c
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Voesum, 9h 2d
+Combination: Voesum, High Card ( As Qh Ts 9h 8c )
+Shows: Gibeepu, 5d 6d
+Combination: Gibeepu, High Card ( As Qh Ts 8c 6d )
+Wins: Voesum, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesum
+Small Blind: Voesum, chips: 100
+Big Blind: Gibeepu, chips: 200
+Folds: Voesum
+Pot size: 300
+Wins: Gibeepu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gibeepu
+Small Blind: Gibeepu, chips: 100
+Big Blind: Voesum, chips: 100
+Flop: 3c As Ts
+Turn: 7s
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Voesum, Js 8d
+Combination: Voesum, High Card ( As Js Ts 8d 7s )
+Shows: Gibeepu, 3s 5h
+Combination: Gibeepu, Pair ( 3s 3c As Ts 7s )
+Wins: Gibeepu, chips: 200
+Quits: Voesum, chips: 0
+Ranking: Gibeepu, Place: 1, Score: 1000
+Reveal AI: Gibeepu, AI: Random
+Ranking: Voesum, Place: 2, Score: -1000
+Reveal AI: Voesum, AI: AIMyBot1
+
+Player Stats for Gibeepu, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Voesum, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:15
+
+The game begins. The AI's of the players are: 
+Voesum: AIMyBot1
+Gibeepu: Random
+
+Joins: Voesum, chips: 1000
+Joins: Gibeepu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gibeepu
+Small Blind: Gibeepu, chips: 100
+Big Blind: Voesum, chips: 200
+Folds: Gibeepu
+Pot size: 300
+Wins: Voesum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesum
+Small Blind: Voesum, chips: 100
+Big Blind: Gibeepu, chips: 200
+Folds: Voesum
+Pot size: 300
+Boasts: Gibeepu, 5d 2c
+Wins: Gibeepu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gibeepu
+Small Blind: Gibeepu, chips: 100
+Big Blind: Voesum, chips: 200
+Calls: Gibeepu
+DEBUG MESSAGE: INVALID ACTION FROM Voesum (2 0)
+Folds: Voesum
+Pot size: 400
+Boasts: Gibeepu, Ah 4c
+Wins: Gibeepu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesum
+Small Blind: Voesum, chips: 100
+Big Blind: Gibeepu, chips: 200
+Folds: Voesum
+Pot size: 300
+Wins: Gibeepu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gibeepu
+Small Blind: Gibeepu, chips: 100
+Big Blind: Voesum, chips: 200
+Calls: Gibeepu
+DEBUG MESSAGE: INVALID ACTION FROM Voesum (2 0)
+Folds: Voesum
+Pot size: 400
+Wins: Gibeepu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesum
+Small Blind: Voesum, chips: 100
+Big Blind: Gibeepu, chips: 200
+Folds: Voesum
+Pot size: 300
+Wins: Gibeepu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gibeepu
+Small Blind: Gibeepu, chips: 100
+Big Blind: Voesum, chips: 200
+Raises: Gibeepu, chips: 300
+Folds: Voesum
+Pot size: 700
+Boasts: Gibeepu, Kc 4s
+Wins: Gibeepu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesum
+Small Blind: Voesum, chips: 100
+Big Blind: Gibeepu, chips: 200
+Folds: Voesum
+Pot size: 300
+Boasts: Gibeepu, 2s Kd
+Wins: Gibeepu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gibeepu
+Small Blind: Gibeepu, chips: 100
+Big Blind: Voesum, chips: 100
+Flop: Qh As Ts
+Turn: 8c
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Voesum, 9h 2d
+Combination: Voesum, High Card ( As Qh Ts 9h 8c )
+Shows: Gibeepu, 5d 6d
+Combination: Gibeepu, High Card ( As Qh Ts 8c 6d )
+Wins: Voesum, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voesum
+Small Blind: Voesum, chips: 100
+Big Blind: Gibeepu, chips: 200
+Folds: Voesum
+Pot size: 300
+Wins: Gibeepu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gibeepu
+Small Blind: Gibeepu, chips: 100
+Big Blind: Voesum, chips: 100
+Flop: 3c As Ts
+Turn: 7s
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Voesum, Js 8d
+Combination: Voesum, High Card ( As Js Ts 8d 7s )
+Shows: Gibeepu, 3s 5h
+Combination: Gibeepu, Pair ( 3s 3c As Ts 7s )
+Wins: Gibeepu, chips: 200
+Quits: Voesum, chips: 0
+Ranking: Gibeepu, Place: 1, Score: 1000
+Reveal AI: Gibeepu, AI: Random
+Ranking: Voesum, Place: 2, Score: -1000
+Reveal AI: Voesum, AI: AIMyBot1
+
+Player Stats for Gibeepu, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Voesum, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

@@ -1,0 +1,530 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Heenoruv: AIMyBot1
+Goe: Random
+
+Joins: Heenoruv, chips: 1000
+Joins: Goe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Boasts: Goe, 8d 6h
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Calls: Goe
+DEBUG MESSAGE: INVALID ACTION FROM Heenoruv (2 0)
+Folds: Heenoruv
+Pot size: 400
+Boasts: Goe, Kd 9c
+Wins: Goe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Boasts: Goe, 6h 7c
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Folds: Goe
+Pot size: 300
+Wins: Heenoruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Boasts: Goe, 4c Th
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Calls: Goe
+DEBUG MESSAGE: INVALID ACTION FROM Heenoruv (2 0)
+Folds: Heenoruv
+Pot size: 400
+Boasts: Goe, 6d 8s
+Wins: Goe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Folds: Goe
+Pot size: 300
+Wins: Heenoruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Boasts: Goe, 3c Ad
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Folds: Goe
+Pot size: 300
+Wins: Heenoruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Raises: Goe, chips: 300
+Folds: Heenoruv
+Pot size: 700
+Boasts: Goe, 8c 3c
+Wins: Goe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Flop: Qs 7h 3s
+Turn: 9d
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Heenoruv, 5c 9c
+Combination: Heenoruv, Pair ( 9c 9d Qs 7h 5c )
+Shows: Goe, As 6h
+Combination: Goe, High Card ( As Qs 9d 7h 6h )
+Wins: Heenoruv, chips: 200
+Wins: Goe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Flop: Ks Js 8s
+Turn: 4s
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Heenoruv, As 8d
+Combination: Heenoruv, Flush ( As Ks Js 9s 8s )
+Shows: Goe, 7s 9c
+Combination: Goe, Flush ( Ks Js 9s 8s 7s )
+Wins: Heenoruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Flop: 9c 6s 2s
+Turn: 8d
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Heenoruv, Jc Jh
+Combination: Heenoruv, Pair ( Jc Jh 9c 8d 6s )
+Shows: Goe, Js Qh
+Combination: Goe, High Card ( Qh Js 9c 8d 6s )
+Wins: Heenoruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Flop: Ts Jc 4d
+Turn: 7s
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Heenoruv, 7d Td
+Combination: Heenoruv, Two Pair ( Td Ts 7d 7s Jc )
+Shows: Goe, 4s 9h
+Combination: Goe, Pair ( 4s 4d Jc Ts 9h )
+Wins: Heenoruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Boasts: Goe, 4d Kc
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Flop: 3h Td Qc
+Turn: Ks
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Heenoruv, Th 4h
+Combination: Heenoruv, Pair ( Th Td Ac Ks Qc )
+Shows: Goe, 4s Ts
+Combination: Goe, Pair ( Ts Td Ac Ks Qc )
+Wins: Heenoruv, chips: 200
+Wins: Goe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 100
+Flop: 9c Kd Jd
+Turn: 4d
+River: 9s
+Pot size: 200
+Showdown Reached
+Shows: Heenoruv, Qs 5d
+Combination: Heenoruv, Pair ( 9c 9s Kd Qs Jd )
+Shows: Goe, 8c 5s
+Combination: Goe, Pair ( 9c 9s Kd Jd 8c )
+Wins: Heenoruv, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 100
+Flop: 8d 2s 3d
+Turn: 9s
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Heenoruv, 4s 8s
+Combination: Heenoruv, Pair ( 8s 8d Jd 9s 4s )
+Shows: Goe, 7c 9h
+Combination: Goe, Pair ( 9h 9s Jd 8d 7c )
+Wins: Goe, chips: 200
+Quits: Heenoruv, chips: 0
+Ranking: Goe, Place: 1, Score: 1000
+Reveal AI: Goe, AI: Random
+Ranking: Heenoruv, Place: 2, Score: -1000
+Reveal AI: Heenoruv, AI: AIMyBot1
+
+Player Stats for Goe, AI: Random
+General: deals: 24, actions: 6, preflop actions: 6
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 17, showdown: 3, bluff: 14
+Chips: won: 5200, lost: 4200, bought: 1000, forced bets: 3600
+Pre-Flop Stats: VP$IP: 0.125, PFR: 0.0416667, 3Bet: 0.0416667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.428571
+
+
+Player Stats for Heenoruv, AI: AIMyBot1
+General: deals: 24, actions: 14, preflop actions: 14
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 9, showdown: 6, bluff: 3
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Date: 2022/10/25 13:46:13
+
+The game begins. The AI's of the players are: 
+Heenoruv: AIMyBot1
+Goe: Random
+
+Joins: Heenoruv, chips: 1000
+Joins: Goe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Boasts: Goe, 8d 6h
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Calls: Goe
+DEBUG MESSAGE: INVALID ACTION FROM Heenoruv (2 0)
+Folds: Heenoruv
+Pot size: 400
+Boasts: Goe, Kd 9c
+Wins: Goe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Boasts: Goe, 6h 7c
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Folds: Goe
+Pot size: 300
+Wins: Heenoruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Boasts: Goe, 4c Th
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Calls: Goe
+DEBUG MESSAGE: INVALID ACTION FROM Heenoruv (2 0)
+Folds: Heenoruv
+Pot size: 400
+Boasts: Goe, 6d 8s
+Wins: Goe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Folds: Goe
+Pot size: 300
+Wins: Heenoruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Boasts: Goe, 3c Ad
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Folds: Goe
+Pot size: 300
+Wins: Heenoruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Raises: Goe, chips: 300
+Folds: Heenoruv
+Pot size: 700
+Boasts: Goe, 8c 3c
+Wins: Goe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Flop: Qs 7h 3s
+Turn: 9d
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Heenoruv, 5c 9c
+Combination: Heenoruv, Pair ( 9c 9d Qs 7h 5c )
+Shows: Goe, As 6h
+Combination: Goe, High Card ( As Qs 9d 7h 6h )
+Wins: Heenoruv, chips: 200
+Wins: Goe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Flop: Ks Js 8s
+Turn: 4s
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Heenoruv, As 8d
+Combination: Heenoruv, Flush ( As Ks Js 9s 8s )
+Shows: Goe, 7s 9c
+Combination: Goe, Flush ( Ks Js 9s 8s 7s )
+Wins: Heenoruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Flop: 9c 6s 2s
+Turn: 8d
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Heenoruv, Jc Jh
+Combination: Heenoruv, Pair ( Jc Jh 9c 8d 6s )
+Shows: Goe, Js Qh
+Combination: Goe, High Card ( Qh Js 9c 8d 6s )
+Wins: Heenoruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Flop: Ts Jc 4d
+Turn: 7s
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Heenoruv, 7d Td
+Combination: Heenoruv, Two Pair ( Td Ts 7d 7s Jc )
+Shows: Goe, 4s 9h
+Combination: Goe, Pair ( 4s 4d Jc Ts 9h )
+Wins: Heenoruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Boasts: Goe, 4d Kc
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 200
+Flop: 3h Td Qc
+Turn: Ks
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Heenoruv, Th 4h
+Combination: Heenoruv, Pair ( Th Td Ac Ks Qc )
+Shows: Goe, 4s Ts
+Combination: Goe, Pair ( Ts Td Ac Ks Qc )
+Wins: Heenoruv, chips: 200
+Wins: Goe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 100
+Flop: 9c Kd Jd
+Turn: 4d
+River: 9s
+Pot size: 200
+Showdown Reached
+Shows: Heenoruv, Qs 5d
+Combination: Heenoruv, Pair ( 9c 9s Kd Qs Jd )
+Shows: Goe, 8c 5s
+Combination: Goe, Pair ( 9c 9s Kd Jd 8c )
+Wins: Heenoruv, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heenoruv
+Small Blind: Heenoruv, chips: 100
+Big Blind: Goe, chips: 200
+Folds: Heenoruv
+Pot size: 300
+Wins: Goe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goe
+Small Blind: Goe, chips: 100
+Big Blind: Heenoruv, chips: 100
+Flop: 8d 2s 3d
+Turn: 9s
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Heenoruv, 4s 8s
+Combination: Heenoruv, Pair ( 8s 8d Jd 9s 4s )
+Shows: Goe, 7c 9h
+Combination: Goe, Pair ( 9h 9s Jd 8d 7c )
+Wins: Goe, chips: 200
+Quits: Heenoruv, chips: 0
+Ranking: Goe, Place: 1, Score: 1000
+Reveal AI: Goe, AI: Random
+Ranking: Heenoruv, Place: 2, Score: -1000
+Reveal AI: Heenoruv, AI: AIMyBot1
+
+Player Stats for Goe, AI: Random
+General: deals: 24, actions: 6, preflop actions: 6
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 17, showdown: 3, bluff: 14
+Chips: won: 5200, lost: 4200, bought: 1000, forced bets: 3600
+Pre-Flop Stats: VP$IP: 0.125, PFR: 0.0416667, 3Bet: 0.0416667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.428571
+
+
+Player Stats for Heenoruv, AI: AIMyBot1
+General: deals: 24, actions: 14, preflop actions: 14
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 9, showdown: 6, bluff: 3
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+

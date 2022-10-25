@@ -1,0 +1,518 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Fuhoerle: Random
+Juwuf: AIMyBot1
+
+Joins: Fuhoerle, chips: 1000
+Joins: Juwuf, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Folds: Juwuf
+Pot size: 300
+Wins: Fuhoerle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 200
+Folds: Fuhoerle
+Pot size: 300
+Boasts: Fuhoerle, Qc 5d
+Wins: Juwuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Folds: Juwuf
+Pot size: 300
+Boasts: Fuhoerle, Ts 8h
+Wins: Fuhoerle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 200
+Raises: Fuhoerle, chips: 900
+Folds: Juwuf
+Pot size: 1300
+Boasts: Fuhoerle, Qd Qh
+Wins: Fuhoerle, chips: 1300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Folds: Juwuf
+Pot size: 300
+Boasts: Fuhoerle, 2h 8d
+Wins: Fuhoerle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 200
+Calls: Fuhoerle
+DEBUG MESSAGE: INVALID ACTION FROM Juwuf (2 0)
+Folds: Juwuf
+Pot size: 400
+Wins: Fuhoerle, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Folds: Juwuf
+Pot size: 300
+Wins: Fuhoerle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 200
+Raises: Fuhoerle, chips: 300
+Folds: Juwuf
+Pot size: 700
+Boasts: Fuhoerle, Th 5d
+Wins: Fuhoerle, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Flop: 2d Qc 5d
+Turn: Ts
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Fuhoerle, Qh 7s
+Combination: Fuhoerle, Pair ( Qh Qc Ac Ts 7s )
+Shows: Juwuf, 9d Ad
+Combination: Juwuf, Pair ( Ad Ac Qc Ts 9d )
+Wins: Fuhoerle, chips: 100
+Wins: Juwuf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 200
+Flop: Js 4c 7s
+Turn: Ac
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Fuhoerle, Jc 5s
+Combination: Fuhoerle, Two Pair ( Ac Ad Jc Js 7s )
+Shows: Juwuf, Ts 8s
+Combination: Juwuf, Pair ( Ac Ad Js Ts 8s )
+Wins: Fuhoerle, chips: 200
+Wins: Juwuf, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Flop: Tc 8h 8s
+Turn: 3c
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Fuhoerle, 3s Jc
+Combination: Fuhoerle, Two Pair ( Jc Js 8h 8s Tc )
+Shows: Juwuf, 8c 2s
+Combination: Juwuf, Three Of A Kind ( 8c 8h 8s Js Tc )
+Wins: Fuhoerle, chips: 100
+Wins: Juwuf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 200
+Flop: Qh 3c Jd
+Turn: Kc
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Fuhoerle, Ah 9h
+Combination: Fuhoerle, High Card ( Ah Kc Qh Jd 9h )
+Shows: Juwuf, 3h 6s
+Combination: Juwuf, Pair ( 3h 3c Kc Qh Jd )
+Wins: Juwuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Folds: Juwuf
+Pot size: 300
+Wins: Fuhoerle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 200
+Flop: 2d Qh 9h
+Turn: 7s
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Fuhoerle, 4c 9d
+Combination: Fuhoerle, Pair ( 9d 9h Qh 8c 7s )
+Shows: Juwuf, Qd 4d
+Combination: Juwuf, Pair ( Qd Qh 9h 8c 7s )
+Wins: Juwuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Folds: Juwuf
+Pot size: 300
+Boasts: Fuhoerle, Ad Td
+Wins: Fuhoerle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 200
+Flop: Jd 2h 4s
+Turn: 2s
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Fuhoerle, 7c Th
+Combination: Fuhoerle, Two Pair ( Jd Jc 2h 2s Th )
+Shows: Juwuf, 5h Td
+Combination: Juwuf, Two Pair ( Jd Jc 2h 2s Td )
+Wins: Fuhoerle, chips: 100
+Wins: Juwuf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Folds: Juwuf
+Pot size: 300
+Boasts: Fuhoerle, Kd 9d
+Wins: Fuhoerle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 100
+Flop: Qh 3h 9s
+Turn: 5c
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Fuhoerle, 7d Kh
+Combination: Fuhoerle, Pair ( 7d 7c Kh Qh 9s )
+Shows: Juwuf, 9h 6d
+Combination: Juwuf, Pair ( 9h 9s Qh 7c 6d )
+Wins: Juwuf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Folds: Juwuf
+Pot size: 300
+Wins: Fuhoerle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 100
+Flop: Jh 3s 9h
+Turn: 2s
+River: Ac
+Pot size: 200
+Showdown Reached
+Shows: Fuhoerle, 2h 4s
+Combination: Fuhoerle, Pair ( 2h 2s Ac Jh 9h )
+Shows: Juwuf, 2c 7c
+Combination: Juwuf, Pair ( 2c 2s Ac Jh 9h )
+Wins: Fuhoerle, chips: 100
+Wins: Juwuf, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Flop: 2s 5c 8s
+Turn: 4c
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Fuhoerle, Ts 5h
+Combination: Fuhoerle, Three Of A Kind ( 5h 5c 5s Ts 8s )
+Shows: Juwuf, 9s 4h
+Combination: Juwuf, Two Pair ( 5c 5s 4h 4c 9s )
+Wins: Fuhoerle, chips: 300
+Quits: Juwuf, chips: 0
+Ranking: Fuhoerle, Place: 1, Score: 1000
+Reveal AI: Fuhoerle, AI: Random
+Ranking: Juwuf, Place: 2, Score: -1000
+Reveal AI: Juwuf, AI: AIMyBot1
+
+Player Stats for Fuhoerle, AI: Random
+General: deals: 21, actions: 4, preflop actions: 4
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 17, showdown: 6, bluff: 11
+Chips: won: 5700, lost: 4700, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.0952381, 3Bet: 0.0952381
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Juwuf, AI: AIMyBot1
+General: deals: 21, actions: 11, preflop actions: 11
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 9, showdown: 8, bluff: 1
+Chips: won: 1900, lost: 2900, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Date: 2022/10/25 13:46:15
+
+The game begins. The AI's of the players are: 
+Fuhoerle: Random
+Juwuf: AIMyBot1
+
+Joins: Fuhoerle, chips: 1000
+Joins: Juwuf, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Folds: Juwuf
+Pot size: 300
+Wins: Fuhoerle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 200
+Folds: Fuhoerle
+Pot size: 300
+Boasts: Fuhoerle, Qc 5d
+Wins: Juwuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Folds: Juwuf
+Pot size: 300
+Boasts: Fuhoerle, Ts 8h
+Wins: Fuhoerle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 200
+Raises: Fuhoerle, chips: 900
+Folds: Juwuf
+Pot size: 1300
+Boasts: Fuhoerle, Qd Qh
+Wins: Fuhoerle, chips: 1300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Folds: Juwuf
+Pot size: 300
+Boasts: Fuhoerle, 2h 8d
+Wins: Fuhoerle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 200
+Calls: Fuhoerle
+DEBUG MESSAGE: INVALID ACTION FROM Juwuf (2 0)
+Folds: Juwuf
+Pot size: 400
+Wins: Fuhoerle, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Folds: Juwuf
+Pot size: 300
+Wins: Fuhoerle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 200
+Raises: Fuhoerle, chips: 300
+Folds: Juwuf
+Pot size: 700
+Boasts: Fuhoerle, Th 5d
+Wins: Fuhoerle, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Flop: 2d Qc 5d
+Turn: Ts
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Fuhoerle, Qh 7s
+Combination: Fuhoerle, Pair ( Qh Qc Ac Ts 7s )
+Shows: Juwuf, 9d Ad
+Combination: Juwuf, Pair ( Ad Ac Qc Ts 9d )
+Wins: Fuhoerle, chips: 100
+Wins: Juwuf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 200
+Flop: Js 4c 7s
+Turn: Ac
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Fuhoerle, Jc 5s
+Combination: Fuhoerle, Two Pair ( Ac Ad Jc Js 7s )
+Shows: Juwuf, Ts 8s
+Combination: Juwuf, Pair ( Ac Ad Js Ts 8s )
+Wins: Fuhoerle, chips: 200
+Wins: Juwuf, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Flop: Tc 8h 8s
+Turn: 3c
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Fuhoerle, 3s Jc
+Combination: Fuhoerle, Two Pair ( Jc Js 8h 8s Tc )
+Shows: Juwuf, 8c 2s
+Combination: Juwuf, Three Of A Kind ( 8c 8h 8s Js Tc )
+Wins: Fuhoerle, chips: 100
+Wins: Juwuf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 200
+Flop: Qh 3c Jd
+Turn: Kc
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Fuhoerle, Ah 9h
+Combination: Fuhoerle, High Card ( Ah Kc Qh Jd 9h )
+Shows: Juwuf, 3h 6s
+Combination: Juwuf, Pair ( 3h 3c Kc Qh Jd )
+Wins: Juwuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Folds: Juwuf
+Pot size: 300
+Wins: Fuhoerle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 200
+Flop: 2d Qh 9h
+Turn: 7s
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Fuhoerle, 4c 9d
+Combination: Fuhoerle, Pair ( 9d 9h Qh 8c 7s )
+Shows: Juwuf, Qd 4d
+Combination: Juwuf, Pair ( Qd Qh 9h 8c 7s )
+Wins: Juwuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Folds: Juwuf
+Pot size: 300
+Boasts: Fuhoerle, Ad Td
+Wins: Fuhoerle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 200
+Flop: Jd 2h 4s
+Turn: 2s
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Fuhoerle, 7c Th
+Combination: Fuhoerle, Two Pair ( Jd Jc 2h 2s Th )
+Shows: Juwuf, 5h Td
+Combination: Juwuf, Two Pair ( Jd Jc 2h 2s Td )
+Wins: Fuhoerle, chips: 100
+Wins: Juwuf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Folds: Juwuf
+Pot size: 300
+Boasts: Fuhoerle, Kd 9d
+Wins: Fuhoerle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 100
+Flop: Qh 3h 9s
+Turn: 5c
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Fuhoerle, 7d Kh
+Combination: Fuhoerle, Pair ( 7d 7c Kh Qh 9s )
+Shows: Juwuf, 9h 6d
+Combination: Juwuf, Pair ( 9h 9s Qh 7c 6d )
+Wins: Juwuf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Folds: Juwuf
+Pot size: 300
+Wins: Fuhoerle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhoerle
+Small Blind: Fuhoerle, chips: 100
+Big Blind: Juwuf, chips: 100
+Flop: Jh 3s 9h
+Turn: 2s
+River: Ac
+Pot size: 200
+Showdown Reached
+Shows: Fuhoerle, 2h 4s
+Combination: Fuhoerle, Pair ( 2h 2s Ac Jh 9h )
+Shows: Juwuf, 2c 7c
+Combination: Juwuf, Pair ( 2c 2s Ac Jh 9h )
+Wins: Fuhoerle, chips: 100
+Wins: Juwuf, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juwuf
+Small Blind: Juwuf, chips: 100
+Big Blind: Fuhoerle, chips: 200
+Flop: 2s 5c 8s
+Turn: 4c
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Fuhoerle, Ts 5h
+Combination: Fuhoerle, Three Of A Kind ( 5h 5c 5s Ts 8s )
+Shows: Juwuf, 9s 4h
+Combination: Juwuf, Two Pair ( 5c 5s 4h 4c 9s )
+Wins: Fuhoerle, chips: 300
+Quits: Juwuf, chips: 0
+Ranking: Fuhoerle, Place: 1, Score: 1000
+Reveal AI: Fuhoerle, AI: Random
+Ranking: Juwuf, Place: 2, Score: -1000
+Reveal AI: Juwuf, AI: AIMyBot1
+
+Player Stats for Fuhoerle, AI: Random
+General: deals: 21, actions: 4, preflop actions: 4
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 17, showdown: 6, bluff: 11
+Chips: won: 5700, lost: 4700, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.0952381, 3Bet: 0.0952381
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Juwuf, AI: AIMyBot1
+General: deals: 21, actions: 11, preflop actions: 11
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 9, showdown: 8, bluff: 1
+Chips: won: 1900, lost: 2900, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+

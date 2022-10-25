@@ -1,0 +1,284 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Divee: AIMyBot1
+Bokeegoe: Random
+
+Joins: Divee, chips: 1000
+Joins: Bokeegoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bokeegoe
+Small Blind: Bokeegoe, chips: 100
+Big Blind: Divee, chips: 200
+Raises: Bokeegoe, chips: 300
+Folds: Divee
+Pot size: 700
+Boasts: Bokeegoe, 7s Jc
+Wins: Bokeegoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Divee
+Small Blind: Divee, chips: 100
+Big Blind: Bokeegoe, chips: 200
+Folds: Divee
+Pot size: 300
+Boasts: Bokeegoe, 4c 7c
+Wins: Bokeegoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bokeegoe
+Small Blind: Bokeegoe, chips: 100
+Big Blind: Divee, chips: 200
+Calls: Bokeegoe
+DEBUG MESSAGE: INVALID ACTION FROM Divee (2 0)
+Folds: Divee
+Pot size: 400
+Wins: Bokeegoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Divee
+Small Blind: Divee, chips: 100
+Big Blind: Bokeegoe, chips: 200
+Folds: Divee
+Pot size: 300
+Boasts: Bokeegoe, 6h 7s
+Wins: Bokeegoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bokeegoe
+Small Blind: Bokeegoe, chips: 100
+Big Blind: Divee, chips: 200
+Raises: Bokeegoe, chips: 300
+Folds: Divee
+Pot size: 700
+Boasts: Bokeegoe, 7h As
+Wins: Bokeegoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Divee
+Small Blind: Divee, chips: 100
+Big Blind: Bokeegoe, chips: 200
+Folds: Divee
+Pot size: 300
+Boasts: Bokeegoe, Th 6h
+Wins: Bokeegoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bokeegoe
+Small Blind: Bokeegoe, chips: 100
+Big Blind: Divee, chips: 100
+Flop: 5h 3h 6h
+Turn: Js
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Divee, Th Qh
+Combination: Divee, Flush ( Qh Th 6h 5h 3h )
+Shows: Bokeegoe, 6s 4h
+Combination: Bokeegoe, Pair ( 6s 6h Js Ts 5h )
+Wins: Divee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Divee
+Small Blind: Divee, chips: 100
+Big Blind: Bokeegoe, chips: 200
+Folds: Divee
+Pot size: 300
+Boasts: Bokeegoe, 5c 6d
+Wins: Bokeegoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bokeegoe
+Small Blind: Bokeegoe, chips: 100
+Big Blind: Divee, chips: 100
+Flop: 6h 8d 7d
+Turn: 9d
+River: Qh
+Pot size: 200
+Showdown Reached
+Shows: Divee, Jd Qd
+Combination: Divee, Flush ( Qd Jd 9d 8d 7d )
+Shows: Bokeegoe, 2d 8s
+Combination: Bokeegoe, Pair ( 8s 8d Qh 9d 7d )
+Wins: Divee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Divee
+Small Blind: Divee, chips: 100
+Big Blind: Bokeegoe, chips: 200
+Folds: Divee
+Pot size: 300
+Boasts: Bokeegoe, 4d 7d
+Wins: Bokeegoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bokeegoe
+Small Blind: Bokeegoe, chips: 100
+Big Blind: Divee, chips: 100
+Flop: 7h 5d 2h
+Turn: Kc
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Divee, 9s As
+Combination: Divee, High Card ( As Kc 9s 7h 5d )
+Shows: Bokeegoe, Ah 5c
+Combination: Bokeegoe, Pair ( 5c 5d Ah Kc 7h )
+Wins: Bokeegoe, chips: 200
+Quits: Divee, chips: 0
+Ranking: Bokeegoe, Place: 1, Score: 1000
+Reveal AI: Bokeegoe, AI: Random
+Ranking: Divee, Place: 2, Score: -1000
+Reveal AI: Divee, AI: AIMyBot1
+
+Player Stats for Bokeegoe, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Divee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:19
+
+The game begins. The AI's of the players are: 
+Divee: AIMyBot1
+Bokeegoe: Random
+
+Joins: Divee, chips: 1000
+Joins: Bokeegoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bokeegoe
+Small Blind: Bokeegoe, chips: 100
+Big Blind: Divee, chips: 200
+Raises: Bokeegoe, chips: 300
+Folds: Divee
+Pot size: 700
+Boasts: Bokeegoe, 7s Jc
+Wins: Bokeegoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Divee
+Small Blind: Divee, chips: 100
+Big Blind: Bokeegoe, chips: 200
+Folds: Divee
+Pot size: 300
+Boasts: Bokeegoe, 4c 7c
+Wins: Bokeegoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bokeegoe
+Small Blind: Bokeegoe, chips: 100
+Big Blind: Divee, chips: 200
+Calls: Bokeegoe
+DEBUG MESSAGE: INVALID ACTION FROM Divee (2 0)
+Folds: Divee
+Pot size: 400
+Wins: Bokeegoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Divee
+Small Blind: Divee, chips: 100
+Big Blind: Bokeegoe, chips: 200
+Folds: Divee
+Pot size: 300
+Boasts: Bokeegoe, 6h 7s
+Wins: Bokeegoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bokeegoe
+Small Blind: Bokeegoe, chips: 100
+Big Blind: Divee, chips: 200
+Raises: Bokeegoe, chips: 300
+Folds: Divee
+Pot size: 700
+Boasts: Bokeegoe, 7h As
+Wins: Bokeegoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Divee
+Small Blind: Divee, chips: 100
+Big Blind: Bokeegoe, chips: 200
+Folds: Divee
+Pot size: 300
+Boasts: Bokeegoe, Th 6h
+Wins: Bokeegoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bokeegoe
+Small Blind: Bokeegoe, chips: 100
+Big Blind: Divee, chips: 100
+Flop: 5h 3h 6h
+Turn: Js
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Divee, Th Qh
+Combination: Divee, Flush ( Qh Th 6h 5h 3h )
+Shows: Bokeegoe, 6s 4h
+Combination: Bokeegoe, Pair ( 6s 6h Js Ts 5h )
+Wins: Divee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Divee
+Small Blind: Divee, chips: 100
+Big Blind: Bokeegoe, chips: 200
+Folds: Divee
+Pot size: 300
+Boasts: Bokeegoe, 5c 6d
+Wins: Bokeegoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bokeegoe
+Small Blind: Bokeegoe, chips: 100
+Big Blind: Divee, chips: 100
+Flop: 6h 8d 7d
+Turn: 9d
+River: Qh
+Pot size: 200
+Showdown Reached
+Shows: Divee, Jd Qd
+Combination: Divee, Flush ( Qd Jd 9d 8d 7d )
+Shows: Bokeegoe, 2d 8s
+Combination: Bokeegoe, Pair ( 8s 8d Qh 9d 7d )
+Wins: Divee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Divee
+Small Blind: Divee, chips: 100
+Big Blind: Bokeegoe, chips: 200
+Folds: Divee
+Pot size: 300
+Boasts: Bokeegoe, 4d 7d
+Wins: Bokeegoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bokeegoe
+Small Blind: Bokeegoe, chips: 100
+Big Blind: Divee, chips: 100
+Flop: 7h 5d 2h
+Turn: Kc
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Divee, 9s As
+Combination: Divee, High Card ( As Kc 9s 7h 5d )
+Shows: Bokeegoe, Ah 5c
+Combination: Bokeegoe, Pair ( 5c 5d Ah Kc 7h )
+Wins: Bokeegoe, chips: 200
+Quits: Divee, chips: 0
+Ranking: Bokeegoe, Place: 1, Score: 1000
+Reveal AI: Bokeegoe, AI: Random
+Ranking: Divee, Place: 2, Score: -1000
+Reveal AI: Divee, AI: AIMyBot1
+
+Player Stats for Bokeegoe, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Divee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

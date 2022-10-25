@@ -1,0 +1,310 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Re: Random
+Muweek: AIMyBot1
+
+Joins: Re, chips: 1000
+Joins: Muweek, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muweek
+Small Blind: Muweek, chips: 100
+Big Blind: Re, chips: 200
+Folds: Muweek
+Pot size: 300
+Wins: Re, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Re
+Small Blind: Re, chips: 100
+Big Blind: Muweek, chips: 200
+Raises: Re, chips: 300
+Folds: Muweek
+Pot size: 700
+Wins: Re, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muweek
+Small Blind: Muweek, chips: 100
+Big Blind: Re, chips: 200
+Folds: Muweek
+Pot size: 300
+Boasts: Re, Ks 3s
+Wins: Re, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Re
+Small Blind: Re, chips: 100
+Big Blind: Muweek, chips: 200
+Calls: Re
+DEBUG MESSAGE: INVALID ACTION FROM Muweek (2 0)
+Folds: Muweek
+Pot size: 400
+Wins: Re, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muweek
+Small Blind: Muweek, chips: 100
+Big Blind: Re, chips: 200
+Folds: Muweek
+Pot size: 300
+Boasts: Re, 7d 8s
+Wins: Re, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Re
+Small Blind: Re, chips: 100
+Big Blind: Muweek, chips: 200
+Calls: Re
+DEBUG MESSAGE: INVALID ACTION FROM Muweek (2 0)
+Folds: Muweek
+Pot size: 400
+Boasts: Re, 4c 4h
+Wins: Re, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muweek
+Small Blind: Muweek, chips: 100
+Big Blind: Re, chips: 200
+Flop: 9d Ah Ad
+Turn: 8s
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Re, Th Jd
+Combination: Re, Pair ( Ah Ad Jd Th 9d )
+Shows: Muweek, 5d As
+Combination: Muweek, Three Of A Kind ( As Ah Ad 9d 8s )
+Wins: Re, chips: 100
+Wins: Muweek, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Re
+Small Blind: Re, chips: 100
+Big Blind: Muweek, chips: 200
+Flop: Td Qs 5c
+Turn: As
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Re, Jh 9d
+Combination: Re, High Card ( As Qs Jh Td 9d )
+Shows: Muweek, Kd 8h
+Combination: Muweek, High Card ( As Kd Qs Td 8h )
+Wins: Muweek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muweek
+Small Blind: Muweek, chips: 100
+Big Blind: Re, chips: 200
+Folds: Muweek
+Pot size: 300
+Wins: Re, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Re
+Small Blind: Re, chips: 100
+Big Blind: Muweek, chips: 200
+Flop: 2c As 2h
+Turn: Ad
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Re, 6h 9c
+Combination: Re, Two Pair ( As Ad 2c 2h Kh )
+Shows: Muweek, 4d 6s
+Combination: Muweek, Two Pair ( As Ad 2c 2h Kh )
+Wins: Re, chips: 100
+Wins: Muweek, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muweek
+Small Blind: Muweek, chips: 100
+Big Blind: Re, chips: 200
+Folds: Muweek
+Pot size: 300
+Wins: Re, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Re
+Small Blind: Re, chips: 100
+Big Blind: Muweek, chips: 100
+Flop: 2s Th 8d
+Turn: 2h
+River: Js
+Pot size: 200
+Showdown Reached
+Shows: Re, Jd 3h
+Combination: Re, Two Pair ( Jd Js 2s 2h Th )
+Shows: Muweek, Qd 3c
+Combination: Muweek, Pair ( 2s 2h Qd Js Th )
+Wins: Re, chips: 200
+Quits: Muweek, chips: 0
+Ranking: Re, Place: 1, Score: 1000
+Reveal AI: Re, AI: Random
+Ranking: Muweek, Place: 2, Score: -1000
+Reveal AI: Muweek, AI: AIMyBot1
+
+Player Stats for Muweek, AI: AIMyBot1
+General: deals: 12, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Re, AI: Random
+General: deals: 12, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0.0833333, 3Bet: 0.0833333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:45:46
+
+The game begins. The AI's of the players are: 
+Re: Random
+Muweek: AIMyBot1
+
+Joins: Re, chips: 1000
+Joins: Muweek, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muweek
+Small Blind: Muweek, chips: 100
+Big Blind: Re, chips: 200
+Folds: Muweek
+Pot size: 300
+Wins: Re, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Re
+Small Blind: Re, chips: 100
+Big Blind: Muweek, chips: 200
+Raises: Re, chips: 300
+Folds: Muweek
+Pot size: 700
+Wins: Re, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muweek
+Small Blind: Muweek, chips: 100
+Big Blind: Re, chips: 200
+Folds: Muweek
+Pot size: 300
+Boasts: Re, Ks 3s
+Wins: Re, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Re
+Small Blind: Re, chips: 100
+Big Blind: Muweek, chips: 200
+Calls: Re
+DEBUG MESSAGE: INVALID ACTION FROM Muweek (2 0)
+Folds: Muweek
+Pot size: 400
+Wins: Re, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muweek
+Small Blind: Muweek, chips: 100
+Big Blind: Re, chips: 200
+Folds: Muweek
+Pot size: 300
+Boasts: Re, 7d 8s
+Wins: Re, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Re
+Small Blind: Re, chips: 100
+Big Blind: Muweek, chips: 200
+Calls: Re
+DEBUG MESSAGE: INVALID ACTION FROM Muweek (2 0)
+Folds: Muweek
+Pot size: 400
+Boasts: Re, 4c 4h
+Wins: Re, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muweek
+Small Blind: Muweek, chips: 100
+Big Blind: Re, chips: 200
+Flop: 9d Ah Ad
+Turn: 8s
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Re, Th Jd
+Combination: Re, Pair ( Ah Ad Jd Th 9d )
+Shows: Muweek, 5d As
+Combination: Muweek, Three Of A Kind ( As Ah Ad 9d 8s )
+Wins: Re, chips: 100
+Wins: Muweek, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Re
+Small Blind: Re, chips: 100
+Big Blind: Muweek, chips: 200
+Flop: Td Qs 5c
+Turn: As
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Re, Jh 9d
+Combination: Re, High Card ( As Qs Jh Td 9d )
+Shows: Muweek, Kd 8h
+Combination: Muweek, High Card ( As Kd Qs Td 8h )
+Wins: Muweek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muweek
+Small Blind: Muweek, chips: 100
+Big Blind: Re, chips: 200
+Folds: Muweek
+Pot size: 300
+Wins: Re, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Re
+Small Blind: Re, chips: 100
+Big Blind: Muweek, chips: 200
+Flop: 2c As 2h
+Turn: Ad
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Re, 6h 9c
+Combination: Re, Two Pair ( As Ad 2c 2h Kh )
+Shows: Muweek, 4d 6s
+Combination: Muweek, Two Pair ( As Ad 2c 2h Kh )
+Wins: Re, chips: 100
+Wins: Muweek, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muweek
+Small Blind: Muweek, chips: 100
+Big Blind: Re, chips: 200
+Folds: Muweek
+Pot size: 300
+Wins: Re, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Re
+Small Blind: Re, chips: 100
+Big Blind: Muweek, chips: 100
+Flop: 2s Th 8d
+Turn: 2h
+River: Js
+Pot size: 200
+Showdown Reached
+Shows: Re, Jd 3h
+Combination: Re, Two Pair ( Jd Js 2s 2h Th )
+Shows: Muweek, Qd 3c
+Combination: Muweek, Pair ( 2s 2h Qd Js Th )
+Wins: Re, chips: 200
+Quits: Muweek, chips: 0
+Ranking: Re, Place: 1, Score: 1000
+Reveal AI: Re, AI: Random
+Ranking: Muweek, Place: 2, Score: -1000
+Reveal AI: Muweek, AI: AIMyBot1
+
+Player Stats for Muweek, AI: AIMyBot1
+General: deals: 12, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Re, AI: Random
+General: deals: 12, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0.0833333, 3Bet: 0.0833333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

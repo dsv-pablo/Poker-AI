@@ -1,0 +1,336 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gee: AIMyBot1
+Kiko: Random
+
+Joins: Gee, chips: 1000
+Joins: Kiko, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gee
+Small Blind: Gee, chips: 100
+Big Blind: Kiko, chips: 200
+Folds: Gee
+Pot size: 300
+Boasts: Kiko, 9d 8s
+Wins: Kiko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiko
+Small Blind: Kiko, chips: 100
+Big Blind: Gee, chips: 200
+Raises: Kiko, chips: 300
+Folds: Gee
+Pot size: 700
+Wins: Kiko, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gee
+Small Blind: Gee, chips: 100
+Big Blind: Kiko, chips: 200
+Folds: Gee
+Pot size: 300
+Wins: Kiko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiko
+Small Blind: Kiko, chips: 100
+Big Blind: Gee, chips: 200
+Folds: Kiko
+Pot size: 300
+Boasts: Kiko, 7h Ks
+Wins: Gee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gee
+Small Blind: Gee, chips: 100
+Big Blind: Kiko, chips: 200
+Folds: Gee
+Pot size: 300
+Wins: Kiko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiko
+Small Blind: Kiko, chips: 100
+Big Blind: Gee, chips: 200
+Raises: Kiko, chips: 300
+Folds: Gee
+Pot size: 700
+Wins: Kiko, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gee
+Small Blind: Gee, chips: 100
+Big Blind: Kiko, chips: 200
+Folds: Gee
+Pot size: 300
+Wins: Kiko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiko
+Small Blind: Kiko, chips: 100
+Big Blind: Gee, chips: 200
+Raises: Kiko, chips: 300
+Folds: Gee
+Pot size: 700
+Wins: Kiko, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gee
+Small Blind: Gee, chips: 100
+Big Blind: Kiko, chips: 200
+Flop: 9s 2d 8h
+Turn: 6d
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Gee, 8d 3d
+Combination: Gee, Flush ( Qd 8d 6d 3d 2d )
+Shows: Kiko, Td 4h
+Combination: Kiko, High Card ( Qd Td 9s 8h 6d )
+Wins: Gee, chips: 200
+Wins: Kiko, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiko
+Small Blind: Kiko, chips: 100
+Big Blind: Gee, chips: 200
+Flop: Qh 7d Qc
+Turn: 9h
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Gee, Ac Jd
+Combination: Gee, Pair ( Qh Qc Ac Jd 9h )
+Shows: Kiko, 5s Tc
+Combination: Kiko, Pair ( Qh Qc Tc 9h 7d )
+Wins: Gee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gee
+Small Blind: Gee, chips: 100
+Big Blind: Kiko, chips: 200
+Folds: Gee
+Pot size: 300
+Boasts: Kiko, 5d 6d
+Wins: Kiko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiko
+Small Blind: Kiko, chips: 100
+Big Blind: Gee, chips: 200
+Flop: 4c 4h Ah
+Turn: 8s
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Gee, 6c 2s
+Combination: Gee, Pair ( 4c 4h Ah 9d 8s )
+Shows: Kiko, 3c 6d
+Combination: Kiko, Pair ( 4c 4h Ah 9d 8s )
+Wins: Gee, chips: 200
+Wins: Kiko, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gee
+Small Blind: Gee, chips: 100
+Big Blind: Kiko, chips: 200
+Folds: Gee
+Pot size: 300
+Boasts: Kiko, Td Ks
+Wins: Kiko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiko
+Small Blind: Kiko, chips: 100
+Big Blind: Gee, chips: 100
+Flop: Td Ks 6h
+Turn: Js
+River: 3d
+Pot size: 200
+Showdown Reached
+Shows: Gee, Qc 4c
+Combination: Gee, High Card ( Ks Qc Js Td 6h )
+Shows: Kiko, 5s 6s
+Combination: Kiko, Pair ( 6s 6h Ks Js Td )
+Wins: Kiko, chips: 200
+Quits: Gee, chips: 0
+Ranking: Kiko, Place: 1, Score: 1000
+Reveal AI: Kiko, AI: Random
+Ranking: Gee, Place: 2, Score: -1000
+Reveal AI: Gee, AI: AIMyBot1
+
+Player Stats for Gee, AI: AIMyBot1
+General: deals: 14, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 1000, lost: 2000, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Kiko, AI: Random
+General: deals: 14, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0.214286, 3Bet: 0.214286
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:25
+
+The game begins. The AI's of the players are: 
+Gee: AIMyBot1
+Kiko: Random
+
+Joins: Gee, chips: 1000
+Joins: Kiko, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gee
+Small Blind: Gee, chips: 100
+Big Blind: Kiko, chips: 200
+Folds: Gee
+Pot size: 300
+Boasts: Kiko, 9d 8s
+Wins: Kiko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiko
+Small Blind: Kiko, chips: 100
+Big Blind: Gee, chips: 200
+Raises: Kiko, chips: 300
+Folds: Gee
+Pot size: 700
+Wins: Kiko, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gee
+Small Blind: Gee, chips: 100
+Big Blind: Kiko, chips: 200
+Folds: Gee
+Pot size: 300
+Wins: Kiko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiko
+Small Blind: Kiko, chips: 100
+Big Blind: Gee, chips: 200
+Folds: Kiko
+Pot size: 300
+Boasts: Kiko, 7h Ks
+Wins: Gee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gee
+Small Blind: Gee, chips: 100
+Big Blind: Kiko, chips: 200
+Folds: Gee
+Pot size: 300
+Wins: Kiko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiko
+Small Blind: Kiko, chips: 100
+Big Blind: Gee, chips: 200
+Raises: Kiko, chips: 300
+Folds: Gee
+Pot size: 700
+Wins: Kiko, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gee
+Small Blind: Gee, chips: 100
+Big Blind: Kiko, chips: 200
+Folds: Gee
+Pot size: 300
+Wins: Kiko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiko
+Small Blind: Kiko, chips: 100
+Big Blind: Gee, chips: 200
+Raises: Kiko, chips: 300
+Folds: Gee
+Pot size: 700
+Wins: Kiko, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gee
+Small Blind: Gee, chips: 100
+Big Blind: Kiko, chips: 200
+Flop: 9s 2d 8h
+Turn: 6d
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Gee, 8d 3d
+Combination: Gee, Flush ( Qd 8d 6d 3d 2d )
+Shows: Kiko, Td 4h
+Combination: Kiko, High Card ( Qd Td 9s 8h 6d )
+Wins: Gee, chips: 200
+Wins: Kiko, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiko
+Small Blind: Kiko, chips: 100
+Big Blind: Gee, chips: 200
+Flop: Qh 7d Qc
+Turn: 9h
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Gee, Ac Jd
+Combination: Gee, Pair ( Qh Qc Ac Jd 9h )
+Shows: Kiko, 5s Tc
+Combination: Kiko, Pair ( Qh Qc Tc 9h 7d )
+Wins: Gee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gee
+Small Blind: Gee, chips: 100
+Big Blind: Kiko, chips: 200
+Folds: Gee
+Pot size: 300
+Boasts: Kiko, 5d 6d
+Wins: Kiko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiko
+Small Blind: Kiko, chips: 100
+Big Blind: Gee, chips: 200
+Flop: 4c 4h Ah
+Turn: 8s
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Gee, 6c 2s
+Combination: Gee, Pair ( 4c 4h Ah 9d 8s )
+Shows: Kiko, 3c 6d
+Combination: Kiko, Pair ( 4c 4h Ah 9d 8s )
+Wins: Gee, chips: 200
+Wins: Kiko, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gee
+Small Blind: Gee, chips: 100
+Big Blind: Kiko, chips: 200
+Folds: Gee
+Pot size: 300
+Boasts: Kiko, Td Ks
+Wins: Kiko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiko
+Small Blind: Kiko, chips: 100
+Big Blind: Gee, chips: 100
+Flop: Td Ks 6h
+Turn: Js
+River: 3d
+Pot size: 200
+Showdown Reached
+Shows: Gee, Qc 4c
+Combination: Gee, High Card ( Ks Qc Js Td 6h )
+Shows: Kiko, 5s 6s
+Combination: Kiko, Pair ( 6s 6h Ks Js Td )
+Wins: Kiko, chips: 200
+Quits: Gee, chips: 0
+Ranking: Kiko, Place: 1, Score: 1000
+Reveal AI: Kiko, AI: Random
+Ranking: Gee, Place: 2, Score: -1000
+Reveal AI: Gee, AI: AIMyBot1
+
+Player Stats for Gee, AI: AIMyBot1
+General: deals: 14, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 1000, lost: 2000, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Kiko, AI: Random
+General: deals: 14, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0.214286, 3Bet: 0.214286
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

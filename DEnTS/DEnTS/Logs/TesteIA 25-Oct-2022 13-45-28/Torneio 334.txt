@@ -1,0 +1,230 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Girur: Random
+Fige: AIMyBot1
+
+Joins: Girur, chips: 1000
+Joins: Fige, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fige
+Small Blind: Fige, chips: 100
+Big Blind: Girur, chips: 200
+Folds: Fige
+Pot size: 300
+Wins: Girur, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girur
+Small Blind: Girur, chips: 100
+Big Blind: Fige, chips: 200
+Calls: Girur
+DEBUG MESSAGE: INVALID ACTION FROM Fige (2 0)
+Folds: Fige
+Pot size: 400
+Boasts: Girur, Qh 9h
+Wins: Girur, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fige
+Small Blind: Fige, chips: 100
+Big Blind: Girur, chips: 200
+Folds: Fige
+Pot size: 300
+Boasts: Girur, 9h 8d
+Wins: Girur, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girur
+Small Blind: Girur, chips: 100
+Big Blind: Fige, chips: 200
+Calls: Girur
+DEBUG MESSAGE: INVALID ACTION FROM Fige (2 0)
+Folds: Fige
+Pot size: 400
+Boasts: Girur, 6h 3h
+Wins: Girur, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fige
+Small Blind: Fige, chips: 100
+Big Blind: Girur, chips: 200
+Folds: Fige
+Pot size: 300
+Boasts: Girur, Ac 2c
+Wins: Girur, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girur
+Small Blind: Girur, chips: 100
+Big Blind: Fige, chips: 200
+Folds: Girur
+Pot size: 300
+Wins: Fige, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fige
+Small Blind: Fige, chips: 100
+Big Blind: Girur, chips: 200
+Folds: Fige
+Pot size: 300
+Boasts: Girur, 2s Ad
+Wins: Girur, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girur
+Small Blind: Girur, chips: 100
+Big Blind: Fige, chips: 200
+Calls: Girur
+DEBUG MESSAGE: INVALID ACTION FROM Fige (2 0)
+Folds: Fige
+Pot size: 400
+Boasts: Girur, 4h 9s
+Wins: Girur, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fige
+Small Blind: Fige, chips: 100
+Big Blind: Girur, chips: 200
+Flop: Kh Qc 6s
+Turn: 4s
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Girur, 8s 2c
+Combination: Girur, Pair ( 8s 8h Kh Qc 6s )
+Shows: Fige, Jh 5h
+Combination: Fige, High Card ( Kh Qc Jh 8h 6s )
+Wins: Girur, chips: 300
+Quits: Fige, chips: 0
+Ranking: Girur, Place: 1, Score: 1000
+Reveal AI: Girur, AI: Random
+Ranking: Fige, Place: 2, Score: -1000
+Reveal AI: Fige, AI: AIMyBot1
+
+Player Stats for Fige, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Girur, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:51
+
+The game begins. The AI's of the players are: 
+Girur: Random
+Fige: AIMyBot1
+
+Joins: Girur, chips: 1000
+Joins: Fige, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fige
+Small Blind: Fige, chips: 100
+Big Blind: Girur, chips: 200
+Folds: Fige
+Pot size: 300
+Wins: Girur, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girur
+Small Blind: Girur, chips: 100
+Big Blind: Fige, chips: 200
+Calls: Girur
+DEBUG MESSAGE: INVALID ACTION FROM Fige (2 0)
+Folds: Fige
+Pot size: 400
+Boasts: Girur, Qh 9h
+Wins: Girur, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fige
+Small Blind: Fige, chips: 100
+Big Blind: Girur, chips: 200
+Folds: Fige
+Pot size: 300
+Boasts: Girur, 9h 8d
+Wins: Girur, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girur
+Small Blind: Girur, chips: 100
+Big Blind: Fige, chips: 200
+Calls: Girur
+DEBUG MESSAGE: INVALID ACTION FROM Fige (2 0)
+Folds: Fige
+Pot size: 400
+Boasts: Girur, 6h 3h
+Wins: Girur, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fige
+Small Blind: Fige, chips: 100
+Big Blind: Girur, chips: 200
+Folds: Fige
+Pot size: 300
+Boasts: Girur, Ac 2c
+Wins: Girur, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girur
+Small Blind: Girur, chips: 100
+Big Blind: Fige, chips: 200
+Folds: Girur
+Pot size: 300
+Wins: Fige, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fige
+Small Blind: Fige, chips: 100
+Big Blind: Girur, chips: 200
+Folds: Fige
+Pot size: 300
+Boasts: Girur, 2s Ad
+Wins: Girur, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girur
+Small Blind: Girur, chips: 100
+Big Blind: Fige, chips: 200
+Calls: Girur
+DEBUG MESSAGE: INVALID ACTION FROM Fige (2 0)
+Folds: Fige
+Pot size: 400
+Boasts: Girur, 4h 9s
+Wins: Girur, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fige
+Small Blind: Fige, chips: 100
+Big Blind: Girur, chips: 200
+Flop: Kh Qc 6s
+Turn: 4s
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Girur, 8s 2c
+Combination: Girur, Pair ( 8s 8h Kh Qc 6s )
+Shows: Fige, Jh 5h
+Combination: Fige, High Card ( Kh Qc Jh 8h 6s )
+Wins: Girur, chips: 300
+Quits: Fige, chips: 0
+Ranking: Girur, Place: 1, Score: 1000
+Reveal AI: Girur, AI: Random
+Ranking: Fige, Place: 2, Score: -1000
+Reveal AI: Fige, AI: AIMyBot1
+
+Player Stats for Fige, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Girur, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

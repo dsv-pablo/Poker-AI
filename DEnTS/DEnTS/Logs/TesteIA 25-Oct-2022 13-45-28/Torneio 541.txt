@@ -1,0 +1,188 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hurla: Random
+Feettu: AIMyBot1
+
+Joins: Hurla, chips: 1000
+Joins: Feettu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hurla
+Small Blind: Hurla, chips: 100
+Big Blind: Feettu, chips: 200
+Raises: Hurla, chips: 300
+Folds: Feettu
+Pot size: 700
+Wins: Hurla, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feettu
+Small Blind: Feettu, chips: 100
+Big Blind: Hurla, chips: 200
+Folds: Feettu
+Pot size: 300
+Wins: Hurla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hurla
+Small Blind: Hurla, chips: 100
+Big Blind: Feettu, chips: 200
+Raises: Hurla, chips: 300
+Folds: Feettu
+Pot size: 700
+Wins: Hurla, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feettu
+Small Blind: Feettu, chips: 100
+Big Blind: Hurla, chips: 200
+Folds: Feettu
+Pot size: 300
+Wins: Hurla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hurla
+Small Blind: Hurla, chips: 100
+Big Blind: Feettu, chips: 200
+Calls: Hurla
+DEBUG MESSAGE: INVALID ACTION FROM Feettu (2 0)
+Folds: Feettu
+Pot size: 400
+Wins: Hurla, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feettu
+Small Blind: Feettu, chips: 100
+Big Blind: Hurla, chips: 200
+Folds: Feettu
+Pot size: 300
+Boasts: Hurla, 9s 2h
+Wins: Hurla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hurla
+Small Blind: Hurla, chips: 100
+Big Blind: Feettu, chips: 100
+Flop: Kh Kd 5c
+Turn: Qc
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Hurla, 4h 3h
+Combination: Hurla, Two Pair ( Kh Kd 4h 4d Qc )
+Shows: Feettu, As 9s
+Combination: Feettu, Pair ( Kh Kd As Qc 9s )
+Wins: Hurla, chips: 200
+Quits: Feettu, chips: 0
+Ranking: Hurla, Place: 1, Score: 1000
+Reveal AI: Hurla, AI: Random
+Ranking: Feettu, Place: 2, Score: -1000
+Reveal AI: Feettu, AI: AIMyBot1
+
+Player Stats for Feettu, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Hurla, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:05
+
+The game begins. The AI's of the players are: 
+Hurla: Random
+Feettu: AIMyBot1
+
+Joins: Hurla, chips: 1000
+Joins: Feettu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hurla
+Small Blind: Hurla, chips: 100
+Big Blind: Feettu, chips: 200
+Raises: Hurla, chips: 300
+Folds: Feettu
+Pot size: 700
+Wins: Hurla, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feettu
+Small Blind: Feettu, chips: 100
+Big Blind: Hurla, chips: 200
+Folds: Feettu
+Pot size: 300
+Wins: Hurla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hurla
+Small Blind: Hurla, chips: 100
+Big Blind: Feettu, chips: 200
+Raises: Hurla, chips: 300
+Folds: Feettu
+Pot size: 700
+Wins: Hurla, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feettu
+Small Blind: Feettu, chips: 100
+Big Blind: Hurla, chips: 200
+Folds: Feettu
+Pot size: 300
+Wins: Hurla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hurla
+Small Blind: Hurla, chips: 100
+Big Blind: Feettu, chips: 200
+Calls: Hurla
+DEBUG MESSAGE: INVALID ACTION FROM Feettu (2 0)
+Folds: Feettu
+Pot size: 400
+Wins: Hurla, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feettu
+Small Blind: Feettu, chips: 100
+Big Blind: Hurla, chips: 200
+Folds: Feettu
+Pot size: 300
+Boasts: Hurla, 9s 2h
+Wins: Hurla, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hurla
+Small Blind: Hurla, chips: 100
+Big Blind: Feettu, chips: 100
+Flop: Kh Kd 5c
+Turn: Qc
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Hurla, 4h 3h
+Combination: Hurla, Two Pair ( Kh Kd 4h 4d Qc )
+Shows: Feettu, As 9s
+Combination: Feettu, Pair ( Kh Kd As Qc 9s )
+Wins: Hurla, chips: 200
+Quits: Feettu, chips: 0
+Ranking: Hurla, Place: 1, Score: 1000
+Reveal AI: Hurla, AI: Random
+Ranking: Feettu, Place: 2, Score: -1000
+Reveal AI: Feettu, AI: AIMyBot1
+
+Player Stats for Feettu, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Hurla, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

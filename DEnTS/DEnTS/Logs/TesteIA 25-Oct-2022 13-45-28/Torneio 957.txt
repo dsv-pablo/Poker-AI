@@ -1,0 +1,326 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jedeettip: Random
+Wigunee: AIMyBot1
+
+Joins: Jedeettip, chips: 1000
+Joins: Wigunee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wigunee
+Small Blind: Wigunee, chips: 100
+Big Blind: Jedeettip, chips: 200
+Folds: Wigunee
+Pot size: 300
+Wins: Jedeettip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jedeettip
+Small Blind: Jedeettip, chips: 100
+Big Blind: Wigunee, chips: 200
+Folds: Jedeettip
+Pot size: 300
+Wins: Wigunee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wigunee
+Small Blind: Wigunee, chips: 100
+Big Blind: Jedeettip, chips: 200
+Folds: Wigunee
+Pot size: 300
+Boasts: Jedeettip, As 4d
+Wins: Jedeettip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jedeettip
+Small Blind: Jedeettip, chips: 100
+Big Blind: Wigunee, chips: 200
+Calls: Jedeettip
+DEBUG MESSAGE: INVALID ACTION FROM Wigunee (2 0)
+Folds: Wigunee
+Pot size: 400
+Wins: Jedeettip, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wigunee
+Small Blind: Wigunee, chips: 100
+Big Blind: Jedeettip, chips: 200
+Folds: Wigunee
+Pot size: 300
+Boasts: Jedeettip, Qs 8c
+Wins: Jedeettip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jedeettip
+Small Blind: Jedeettip, chips: 100
+Big Blind: Wigunee, chips: 200
+Calls: Jedeettip
+DEBUG MESSAGE: INVALID ACTION FROM Wigunee (2 0)
+Folds: Wigunee
+Pot size: 400
+Wins: Jedeettip, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wigunee
+Small Blind: Wigunee, chips: 100
+Big Blind: Jedeettip, chips: 200
+Folds: Wigunee
+Pot size: 300
+Wins: Jedeettip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jedeettip
+Small Blind: Jedeettip, chips: 100
+Big Blind: Wigunee, chips: 200
+Raises: Jedeettip, chips: 300
+Folds: Wigunee
+Pot size: 700
+Boasts: Jedeettip, 3h Jd
+Wins: Jedeettip, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wigunee
+Small Blind: Wigunee, chips: 100
+Big Blind: Jedeettip, chips: 200
+Flop: Td 3s 5c
+Turn: Ad
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Jedeettip, 2c 8s
+Combination: Jedeettip, High Card ( Ad Qs Td 8s 5c )
+Shows: Wigunee, As Kh
+Combination: Wigunee, Pair ( As Ad Kh Qs Td )
+Wins: Jedeettip, chips: 100
+Wins: Wigunee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jedeettip
+Small Blind: Jedeettip, chips: 100
+Big Blind: Wigunee, chips: 200
+Flop: 9s Td Jh
+Turn: Kh
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Jedeettip, 7s 3d
+Combination: Jedeettip, High Card ( Kh Jh Td 9s 7s )
+Shows: Wigunee, Qc 9h
+Combination: Wigunee, Straight ( Kh Qc Jh Td 9h )
+Wins: Wigunee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wigunee
+Small Blind: Wigunee, chips: 100
+Big Blind: Jedeettip, chips: 200
+Folds: Wigunee
+Pot size: 300
+Boasts: Jedeettip, 6c Qs
+Wins: Jedeettip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jedeettip
+Small Blind: Jedeettip, chips: 100
+Big Blind: Wigunee, chips: 200
+Flop: 2c 8d 3c
+Turn: 2d
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Jedeettip, 9s Tc
+Combination: Jedeettip, Pair ( 2c 2d Kd Tc 9s )
+Shows: Wigunee, 9d 5s
+Combination: Wigunee, Pair ( 2c 2d Kd 9d 8d )
+Wins: Jedeettip, chips: 200
+Wins: Wigunee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wigunee
+Small Blind: Wigunee, chips: 100
+Big Blind: Jedeettip, chips: 200
+Flop: 5c 2h Jd
+Turn: 5d
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Jedeettip, 6h 6d
+Combination: Jedeettip, Two Pair ( 6h 6d 5c 5d Qd )
+Shows: Wigunee, Ah 7c
+Combination: Wigunee, Pair ( 5c 5d Ah Qd Jd )
+Wins: Jedeettip, chips: 300
+Quits: Wigunee, chips: 0
+Ranking: Jedeettip, Place: 1, Score: 1000
+Reveal AI: Jedeettip, AI: Random
+Ranking: Wigunee, Place: 2, Score: -1000
+Reveal AI: Wigunee, AI: AIMyBot1
+
+Player Stats for Jedeettip, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Wigunee, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:32
+
+The game begins. The AI's of the players are: 
+Jedeettip: Random
+Wigunee: AIMyBot1
+
+Joins: Jedeettip, chips: 1000
+Joins: Wigunee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wigunee
+Small Blind: Wigunee, chips: 100
+Big Blind: Jedeettip, chips: 200
+Folds: Wigunee
+Pot size: 300
+Wins: Jedeettip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jedeettip
+Small Blind: Jedeettip, chips: 100
+Big Blind: Wigunee, chips: 200
+Folds: Jedeettip
+Pot size: 300
+Wins: Wigunee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wigunee
+Small Blind: Wigunee, chips: 100
+Big Blind: Jedeettip, chips: 200
+Folds: Wigunee
+Pot size: 300
+Boasts: Jedeettip, As 4d
+Wins: Jedeettip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jedeettip
+Small Blind: Jedeettip, chips: 100
+Big Blind: Wigunee, chips: 200
+Calls: Jedeettip
+DEBUG MESSAGE: INVALID ACTION FROM Wigunee (2 0)
+Folds: Wigunee
+Pot size: 400
+Wins: Jedeettip, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wigunee
+Small Blind: Wigunee, chips: 100
+Big Blind: Jedeettip, chips: 200
+Folds: Wigunee
+Pot size: 300
+Boasts: Jedeettip, Qs 8c
+Wins: Jedeettip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jedeettip
+Small Blind: Jedeettip, chips: 100
+Big Blind: Wigunee, chips: 200
+Calls: Jedeettip
+DEBUG MESSAGE: INVALID ACTION FROM Wigunee (2 0)
+Folds: Wigunee
+Pot size: 400
+Wins: Jedeettip, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wigunee
+Small Blind: Wigunee, chips: 100
+Big Blind: Jedeettip, chips: 200
+Folds: Wigunee
+Pot size: 300
+Wins: Jedeettip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jedeettip
+Small Blind: Jedeettip, chips: 100
+Big Blind: Wigunee, chips: 200
+Raises: Jedeettip, chips: 300
+Folds: Wigunee
+Pot size: 700
+Boasts: Jedeettip, 3h Jd
+Wins: Jedeettip, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wigunee
+Small Blind: Wigunee, chips: 100
+Big Blind: Jedeettip, chips: 200
+Flop: Td 3s 5c
+Turn: Ad
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Jedeettip, 2c 8s
+Combination: Jedeettip, High Card ( Ad Qs Td 8s 5c )
+Shows: Wigunee, As Kh
+Combination: Wigunee, Pair ( As Ad Kh Qs Td )
+Wins: Jedeettip, chips: 100
+Wins: Wigunee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jedeettip
+Small Blind: Jedeettip, chips: 100
+Big Blind: Wigunee, chips: 200
+Flop: 9s Td Jh
+Turn: Kh
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Jedeettip, 7s 3d
+Combination: Jedeettip, High Card ( Kh Jh Td 9s 7s )
+Shows: Wigunee, Qc 9h
+Combination: Wigunee, Straight ( Kh Qc Jh Td 9h )
+Wins: Wigunee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wigunee
+Small Blind: Wigunee, chips: 100
+Big Blind: Jedeettip, chips: 200
+Folds: Wigunee
+Pot size: 300
+Boasts: Jedeettip, 6c Qs
+Wins: Jedeettip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jedeettip
+Small Blind: Jedeettip, chips: 100
+Big Blind: Wigunee, chips: 200
+Flop: 2c 8d 3c
+Turn: 2d
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Jedeettip, 9s Tc
+Combination: Jedeettip, Pair ( 2c 2d Kd Tc 9s )
+Shows: Wigunee, 9d 5s
+Combination: Wigunee, Pair ( 2c 2d Kd 9d 8d )
+Wins: Jedeettip, chips: 200
+Wins: Wigunee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wigunee
+Small Blind: Wigunee, chips: 100
+Big Blind: Jedeettip, chips: 200
+Flop: 5c 2h Jd
+Turn: 5d
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Jedeettip, 6h 6d
+Combination: Jedeettip, Two Pair ( 6h 6d 5c 5d Qd )
+Shows: Wigunee, Ah 7c
+Combination: Wigunee, Pair ( 5c 5d Ah Qd Jd )
+Wins: Jedeettip, chips: 300
+Quits: Wigunee, chips: 0
+Ranking: Jedeettip, Place: 1, Score: 1000
+Reveal AI: Jedeettip, AI: Random
+Ranking: Wigunee, Place: 2, Score: -1000
+Reveal AI: Wigunee, AI: AIMyBot1
+
+Player Stats for Jedeettip, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Wigunee, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

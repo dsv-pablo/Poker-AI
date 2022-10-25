@@ -1,0 +1,518 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Keha: AIMyBot1
+Sega: Random
+
+Joins: Keha, chips: 1000
+Joins: Sega, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Boasts: Sega, 3h Jh
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Calls: Sega
+DEBUG MESSAGE: INVALID ACTION FROM Keha (2 0)
+Folds: Keha
+Pot size: 400
+Boasts: Sega, Qh 8s
+Wins: Sega, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Raises: Sega, chips: 300
+Folds: Keha
+Pot size: 700
+Wins: Sega, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Raises: Sega, chips: 300
+Calls: Keha
+Flop: Ah 2h Ts
+Turn: 3c
+River: 6s
+Pot size: 800
+Showdown Reached
+Shows: Keha, 3d Kh
+Combination: Keha, Pair ( 3d 3c Ah Kh Ts )
+Shows: Sega, 8d 5h
+Combination: Sega, High Card ( Ah Ts 8d 6s 5h )
+Wins: Keha, chips: 600
+Wins: Sega, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Calls: Sega
+DEBUG MESSAGE: INVALID ACTION FROM Keha (2 0)
+Folds: Keha
+Pot size: 400
+Wins: Sega, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Boasts: Sega, 6d Kc
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Flop: 8d 9c Th
+Turn: Kd
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Keha, As 7c
+Combination: Keha, Straight ( Th 9c 8d 7c 6c )
+Shows: Sega, 2c Td
+Combination: Sega, Pair ( Td Th Kd 9c 8d )
+Wins: Keha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Flop: 4h 5s Th
+Turn: 3c
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Keha, Tc 6d
+Combination: Keha, Pair ( Tc Th Kc 6d 5s )
+Shows: Sega, Ac 9d
+Combination: Sega, High Card ( Ac Kc Th 9d 5s )
+Wins: Keha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Flop: Js 7s Qc
+Turn: Qh
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Keha, Kh 6c
+Combination: Keha, Pair ( Qc Qh Kh Js 7s )
+Shows: Sega, Ac Qd
+Combination: Sega, Three Of A Kind ( Qd Qc Qh Ac Js )
+Wins: Keha, chips: 100
+Wins: Sega, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Flop: As Qs 6s
+Turn: 5c
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Keha, 8s 5s
+Combination: Keha, Flush ( As Qs 8s 6s 5s )
+Shows: Sega, 3d 5d
+Combination: Sega, Pair ( 5d 5c As Qs Th )
+Wins: Keha, chips: 200
+Wins: Sega, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Flop: Kh 8c 4c
+Turn: Qd
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Keha, Kd 2s
+Combination: Keha, Pair ( Kd Kh Qd Jh 8c )
+Shows: Sega, 5s As
+Combination: Sega, High Card ( As Kh Qd Jh 8c )
+Wins: Keha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Boasts: Sega, 6d Th
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Flop: 3c 6c 4h
+Turn: Kd
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Keha, 3h 4c
+Combination: Keha, Full House ( 4c 4h 4s 3h 3c )
+Shows: Sega, Th 8d
+Combination: Sega, Pair ( 4h 4s Kd Th 8d )
+Wins: Keha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Boasts: Sega, 4h Kh
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Flop: 8s 9s Ks
+Turn: Ac
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Keha, 6d 2h
+Combination: Keha, Pair ( 2h 2d Ac Ks 9s )
+Shows: Sega, As Qh
+Combination: Sega, Pair ( As Ac Ks Qh 9s )
+Wins: Keha, chips: 100
+Wins: Sega, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Flop: 4c 7c Kc
+Turn: 2h
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Keha, Jc Th
+Combination: Keha, High Card ( Kc Jc Th 8d 7c )
+Shows: Sega, Ah 3h
+Combination: Sega, High Card ( Ah Kc 8d 7c 4c )
+Wins: Sega, chips: 300
+Quits: Keha, chips: 0
+Ranking: Sega, Place: 1, Score: 1000
+Reveal AI: Sega, AI: Random
+Ranking: Keha, Place: 2, Score: -1000
+Reveal AI: Keha, AI: AIMyBot1
+
+Player Stats for Keha, AI: AIMyBot1
+General: deals: 21, actions: 13, preflop actions: 13
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 2200, lost: 3400, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0.047619, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Player Stats for Sega, AI: Random
+General: deals: 21, actions: 4, preflop actions: 4
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 17, showdown: 5, bluff: 12
+Chips: won: 5200, lost: 4200, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.190476, PFR: 0.0952381, 3Bet: 0.0952381
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.555556
+
+
+Date: 2022/10/25 13:45:51
+
+The game begins. The AI's of the players are: 
+Keha: AIMyBot1
+Sega: Random
+
+Joins: Keha, chips: 1000
+Joins: Sega, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Boasts: Sega, 3h Jh
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Calls: Sega
+DEBUG MESSAGE: INVALID ACTION FROM Keha (2 0)
+Folds: Keha
+Pot size: 400
+Boasts: Sega, Qh 8s
+Wins: Sega, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Raises: Sega, chips: 300
+Folds: Keha
+Pot size: 700
+Wins: Sega, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Raises: Sega, chips: 300
+Calls: Keha
+Flop: Ah 2h Ts
+Turn: 3c
+River: 6s
+Pot size: 800
+Showdown Reached
+Shows: Keha, 3d Kh
+Combination: Keha, Pair ( 3d 3c Ah Kh Ts )
+Shows: Sega, 8d 5h
+Combination: Sega, High Card ( Ah Ts 8d 6s 5h )
+Wins: Keha, chips: 600
+Wins: Sega, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Calls: Sega
+DEBUG MESSAGE: INVALID ACTION FROM Keha (2 0)
+Folds: Keha
+Pot size: 400
+Wins: Sega, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Boasts: Sega, 6d Kc
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Flop: 8d 9c Th
+Turn: Kd
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Keha, As 7c
+Combination: Keha, Straight ( Th 9c 8d 7c 6c )
+Shows: Sega, 2c Td
+Combination: Sega, Pair ( Td Th Kd 9c 8d )
+Wins: Keha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Flop: 4h 5s Th
+Turn: 3c
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Keha, Tc 6d
+Combination: Keha, Pair ( Tc Th Kc 6d 5s )
+Shows: Sega, Ac 9d
+Combination: Sega, High Card ( Ac Kc Th 9d 5s )
+Wins: Keha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Flop: Js 7s Qc
+Turn: Qh
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Keha, Kh 6c
+Combination: Keha, Pair ( Qc Qh Kh Js 7s )
+Shows: Sega, Ac Qd
+Combination: Sega, Three Of A Kind ( Qd Qc Qh Ac Js )
+Wins: Keha, chips: 100
+Wins: Sega, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Flop: As Qs 6s
+Turn: 5c
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Keha, 8s 5s
+Combination: Keha, Flush ( As Qs 8s 6s 5s )
+Shows: Sega, 3d 5d
+Combination: Sega, Pair ( 5d 5c As Qs Th )
+Wins: Keha, chips: 200
+Wins: Sega, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Flop: Kh 8c 4c
+Turn: Qd
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Keha, Kd 2s
+Combination: Keha, Pair ( Kd Kh Qd Jh 8c )
+Shows: Sega, 5s As
+Combination: Sega, High Card ( As Kh Qd Jh 8c )
+Wins: Keha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Boasts: Sega, 6d Th
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Flop: 3c 6c 4h
+Turn: Kd
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Keha, 3h 4c
+Combination: Keha, Full House ( 4c 4h 4s 3h 3c )
+Shows: Sega, Th 8d
+Combination: Sega, Pair ( 4h 4s Kd Th 8d )
+Wins: Keha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Folds: Keha
+Pot size: 300
+Boasts: Sega, 4h Kh
+Wins: Sega, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sega
+Small Blind: Sega, chips: 100
+Big Blind: Keha, chips: 200
+Flop: 8s 9s Ks
+Turn: Ac
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Keha, 6d 2h
+Combination: Keha, Pair ( 2h 2d Ac Ks 9s )
+Shows: Sega, As Qh
+Combination: Sega, Pair ( As Ac Ks Qh 9s )
+Wins: Keha, chips: 100
+Wins: Sega, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keha
+Small Blind: Keha, chips: 100
+Big Blind: Sega, chips: 200
+Flop: 4c 7c Kc
+Turn: 2h
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Keha, Jc Th
+Combination: Keha, High Card ( Kc Jc Th 8d 7c )
+Shows: Sega, Ah 3h
+Combination: Sega, High Card ( Ah Kc 8d 7c 4c )
+Wins: Sega, chips: 300
+Quits: Keha, chips: 0
+Ranking: Sega, Place: 1, Score: 1000
+Reveal AI: Sega, AI: Random
+Ranking: Keha, Place: 2, Score: -1000
+Reveal AI: Keha, AI: AIMyBot1
+
+Player Stats for Keha, AI: AIMyBot1
+General: deals: 21, actions: 13, preflop actions: 13
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 2200, lost: 3400, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0.047619, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Player Stats for Sega, AI: Random
+General: deals: 21, actions: 4, preflop actions: 4
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 17, showdown: 5, bluff: 12
+Chips: won: 5200, lost: 4200, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.190476, PFR: 0.0952381, 3Bet: 0.0952381
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.555556
+
+

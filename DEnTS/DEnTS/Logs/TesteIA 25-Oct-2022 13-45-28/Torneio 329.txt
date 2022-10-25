@@ -1,0 +1,314 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+To: Random
+Gosot: AIMyBot1
+
+Joins: To, chips: 1000
+Joins: Gosot, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gosot
+Small Blind: Gosot, chips: 100
+Big Blind: To, chips: 200
+Folds: Gosot
+Pot size: 300
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Gosot, chips: 200
+Calls: To
+DEBUG MESSAGE: INVALID ACTION FROM Gosot (2 0)
+Folds: Gosot
+Pot size: 400
+Boasts: To, Jd 9d
+Wins: To, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gosot
+Small Blind: Gosot, chips: 100
+Big Blind: To, chips: 200
+Folds: Gosot
+Pot size: 300
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Gosot, chips: 200
+Folds: To
+Pot size: 300
+Boasts: To, 9d 2d
+Wins: Gosot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gosot
+Small Blind: Gosot, chips: 100
+Big Blind: To, chips: 200
+Folds: Gosot
+Pot size: 300
+Boasts: To, Th 8s
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Gosot, chips: 200
+Folds: To
+Pot size: 300
+Wins: Gosot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gosot
+Small Blind: Gosot, chips: 100
+Big Blind: To, chips: 200
+Folds: Gosot
+Pot size: 300
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Gosot, chips: 200
+Raises: To, chips: 300
+Folds: Gosot
+Pot size: 700
+Wins: To, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gosot
+Small Blind: Gosot, chips: 100
+Big Blind: To, chips: 200
+Folds: Gosot
+Pot size: 300
+Boasts: To, 6h 6d
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Gosot, chips: 200
+Folds: To
+Pot size: 300
+Boasts: To, 5c Qd
+Wins: Gosot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gosot
+Small Blind: Gosot, chips: 100
+Big Blind: To, chips: 200
+Folds: Gosot
+Pot size: 300
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Gosot, chips: 200
+Folds: To
+Pot size: 300
+Boasts: To, 3s 5d
+Wins: Gosot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gosot
+Small Blind: Gosot, chips: 100
+Big Blind: To, chips: 200
+Folds: Gosot
+Pot size: 300
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Gosot, chips: 200
+Calls: To
+DEBUG MESSAGE: INVALID ACTION FROM Gosot (2 0)
+Folds: Gosot
+Pot size: 400
+Boasts: To, 4d Th
+Wins: To, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gosot
+Small Blind: Gosot, chips: 100
+Big Blind: To, chips: 200
+Flop: Kd 2s Jd
+Turn: Th
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: To, 4h Jh
+Combination: To, Pair ( Jh Jd Kd Th 6d )
+Shows: Gosot, 9h 3d
+Combination: Gosot, High Card ( Kd Jd Th 9h 6d )
+Wins: To, chips: 300
+Quits: Gosot, chips: 0
+Ranking: To, Place: 1, Score: 1000
+Reveal AI: To, AI: Random
+Ranking: Gosot, Place: 2, Score: -1000
+Reveal AI: Gosot, AI: AIMyBot1
+
+Player Stats for Gosot, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for To, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:50
+
+The game begins. The AI's of the players are: 
+To: Random
+Gosot: AIMyBot1
+
+Joins: To, chips: 1000
+Joins: Gosot, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gosot
+Small Blind: Gosot, chips: 100
+Big Blind: To, chips: 200
+Folds: Gosot
+Pot size: 300
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Gosot, chips: 200
+Calls: To
+DEBUG MESSAGE: INVALID ACTION FROM Gosot (2 0)
+Folds: Gosot
+Pot size: 400
+Boasts: To, Jd 9d
+Wins: To, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gosot
+Small Blind: Gosot, chips: 100
+Big Blind: To, chips: 200
+Folds: Gosot
+Pot size: 300
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Gosot, chips: 200
+Folds: To
+Pot size: 300
+Boasts: To, 9d 2d
+Wins: Gosot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gosot
+Small Blind: Gosot, chips: 100
+Big Blind: To, chips: 200
+Folds: Gosot
+Pot size: 300
+Boasts: To, Th 8s
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Gosot, chips: 200
+Folds: To
+Pot size: 300
+Wins: Gosot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gosot
+Small Blind: Gosot, chips: 100
+Big Blind: To, chips: 200
+Folds: Gosot
+Pot size: 300
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Gosot, chips: 200
+Raises: To, chips: 300
+Folds: Gosot
+Pot size: 700
+Wins: To, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gosot
+Small Blind: Gosot, chips: 100
+Big Blind: To, chips: 200
+Folds: Gosot
+Pot size: 300
+Boasts: To, 6h 6d
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Gosot, chips: 200
+Folds: To
+Pot size: 300
+Boasts: To, 5c Qd
+Wins: Gosot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gosot
+Small Blind: Gosot, chips: 100
+Big Blind: To, chips: 200
+Folds: Gosot
+Pot size: 300
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Gosot, chips: 200
+Folds: To
+Pot size: 300
+Boasts: To, 3s 5d
+Wins: Gosot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gosot
+Small Blind: Gosot, chips: 100
+Big Blind: To, chips: 200
+Folds: Gosot
+Pot size: 300
+Wins: To, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: To
+Small Blind: To, chips: 100
+Big Blind: Gosot, chips: 200
+Calls: To
+DEBUG MESSAGE: INVALID ACTION FROM Gosot (2 0)
+Folds: Gosot
+Pot size: 400
+Boasts: To, 4d Th
+Wins: To, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gosot
+Small Blind: Gosot, chips: 100
+Big Blind: To, chips: 200
+Flop: Kd 2s Jd
+Turn: Th
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: To, 4h Jh
+Combination: To, Pair ( Jh Jd Kd Th 6d )
+Shows: Gosot, 9h 3d
+Combination: Gosot, High Card ( Kd Jd Th 9h 6d )
+Wins: To, chips: 300
+Quits: Gosot, chips: 0
+Ranking: To, Place: 1, Score: 1000
+Reveal AI: To, AI: Random
+Ranking: Gosot, Place: 2, Score: -1000
+Reveal AI: Gosot, AI: AIMyBot1
+
+Player Stats for Gosot, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for To, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

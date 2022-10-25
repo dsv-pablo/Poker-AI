@@ -1,0 +1,404 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Diso: Random
+Jabeerle: AIMyBot1
+
+Joins: Diso, chips: 1000
+Joins: Jabeerle, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 200
+Raises: Diso, chips: 300
+Folds: Jabeerle
+Pot size: 700
+Wins: Diso, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jabeerle
+Small Blind: Jabeerle, chips: 100
+Big Blind: Diso, chips: 200
+Folds: Jabeerle
+Pot size: 300
+Wins: Diso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 200
+Calls: Diso
+DEBUG MESSAGE: INVALID ACTION FROM Jabeerle (2 0)
+Folds: Jabeerle
+Pot size: 400
+Wins: Diso, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jabeerle
+Small Blind: Jabeerle, chips: 100
+Big Blind: Diso, chips: 200
+Folds: Jabeerle
+Pot size: 300
+Boasts: Diso, 6s Qd
+Wins: Diso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 200
+Raises: Diso, chips: 300
+Folds: Jabeerle
+Pot size: 700
+Wins: Diso, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jabeerle
+Small Blind: Jabeerle, chips: 100
+Big Blind: Diso, chips: 200
+Folds: Jabeerle
+Pot size: 300
+Wins: Diso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 100
+Flop: Kd 5s Ad
+Turn: Js
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Diso, 5h 8c
+Combination: Diso, Pair ( 5h 5s Ad Kd Js )
+Shows: Jabeerle, 4s Jh
+Combination: Jabeerle, Pair ( Jh Js Ad Kd Ts )
+Wins: Jabeerle, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jabeerle
+Small Blind: Jabeerle, chips: 100
+Big Blind: Diso, chips: 200
+Folds: Jabeerle
+Pot size: 300
+Boasts: Diso, 7s Ts
+Wins: Diso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 100
+Flop: Js 5c Jc
+Turn: Qc
+River: 6s
+Pot size: 200
+Showdown Reached
+Shows: Diso, 2s 9c
+Combination: Diso, Pair ( Js Jc Qc 9c 6s )
+Shows: Jabeerle, Qs Tc
+Combination: Jabeerle, Two Pair ( Qs Qc Js Jc Tc )
+Wins: Jabeerle, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jabeerle
+Small Blind: Jabeerle, chips: 100
+Big Blind: Diso, chips: 200
+Folds: Jabeerle
+Pot size: 300
+Wins: Diso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 100
+Flop: Kc 3c 4d
+Turn: 3h
+River: 9s
+Pot size: 200
+Showdown Reached
+Shows: Diso, Td Qh
+Combination: Diso, Pair ( 3c 3h Kc Qh Td )
+Shows: Jabeerle, Ac 6s
+Combination: Jabeerle, Pair ( 3c 3h Ac Kc 9s )
+Wins: Jabeerle, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jabeerle
+Small Blind: Jabeerle, chips: 100
+Big Blind: Diso, chips: 200
+Folds: Jabeerle
+Pot size: 300
+Boasts: Diso, 9s Qs
+Wins: Diso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 100
+Flop: 4d 7c 2s
+Turn: 2d
+River: 5c
+Pot size: 200
+Showdown Reached
+Shows: Diso, Jc Qd
+Combination: Diso, Pair ( 2s 2d Qd Jc 7c )
+Shows: Jabeerle, Ah Jd
+Combination: Jabeerle, Pair ( 2s 2d Ah Jd 7c )
+Wins: Jabeerle, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jabeerle
+Small Blind: Jabeerle, chips: 100
+Big Blind: Diso, chips: 200
+Folds: Jabeerle
+Pot size: 300
+Wins: Diso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 100
+Flop: 3s 4d Qc
+Turn: Kh
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Diso, Th Ad
+Combination: Diso, High Card ( Ad Kh Qc Th 9d )
+Shows: Jabeerle, 9c 5d
+Combination: Jabeerle, Pair ( 9c 9d Kh Qc 5d )
+Wins: Jabeerle, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jabeerle
+Small Blind: Jabeerle, chips: 100
+Big Blind: Diso, chips: 200
+Folds: Jabeerle
+Pot size: 300
+Boasts: Diso, Qc Ks
+Wins: Diso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 100
+Flop: 6s Th 7c
+Turn: Js
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Diso, 3s Ks
+Combination: Diso, High Card ( Ks Js Th 8h 7c )
+Shows: Jabeerle, 4h 2s
+Combination: Jabeerle, High Card ( Js Th 8h 7c 6s )
+Wins: Diso, chips: 200
+Quits: Jabeerle, chips: 0
+Ranking: Diso, Place: 1, Score: 1000
+Reveal AI: Diso, AI: Random
+Ranking: Jabeerle, Place: 2, Score: -1000
+Reveal AI: Jabeerle, AI: AIMyBot1
+
+Player Stats for Diso, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4400, lost: 3400, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.166667
+
+
+Player Stats for Jabeerle, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 1000, lost: 2000, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:46:29
+
+The game begins. The AI's of the players are: 
+Diso: Random
+Jabeerle: AIMyBot1
+
+Joins: Diso, chips: 1000
+Joins: Jabeerle, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 200
+Raises: Diso, chips: 300
+Folds: Jabeerle
+Pot size: 700
+Wins: Diso, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jabeerle
+Small Blind: Jabeerle, chips: 100
+Big Blind: Diso, chips: 200
+Folds: Jabeerle
+Pot size: 300
+Wins: Diso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 200
+Calls: Diso
+DEBUG MESSAGE: INVALID ACTION FROM Jabeerle (2 0)
+Folds: Jabeerle
+Pot size: 400
+Wins: Diso, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jabeerle
+Small Blind: Jabeerle, chips: 100
+Big Blind: Diso, chips: 200
+Folds: Jabeerle
+Pot size: 300
+Boasts: Diso, 6s Qd
+Wins: Diso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 200
+Raises: Diso, chips: 300
+Folds: Jabeerle
+Pot size: 700
+Wins: Diso, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jabeerle
+Small Blind: Jabeerle, chips: 100
+Big Blind: Diso, chips: 200
+Folds: Jabeerle
+Pot size: 300
+Wins: Diso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 100
+Flop: Kd 5s Ad
+Turn: Js
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Diso, 5h 8c
+Combination: Diso, Pair ( 5h 5s Ad Kd Js )
+Shows: Jabeerle, 4s Jh
+Combination: Jabeerle, Pair ( Jh Js Ad Kd Ts )
+Wins: Jabeerle, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jabeerle
+Small Blind: Jabeerle, chips: 100
+Big Blind: Diso, chips: 200
+Folds: Jabeerle
+Pot size: 300
+Boasts: Diso, 7s Ts
+Wins: Diso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 100
+Flop: Js 5c Jc
+Turn: Qc
+River: 6s
+Pot size: 200
+Showdown Reached
+Shows: Diso, 2s 9c
+Combination: Diso, Pair ( Js Jc Qc 9c 6s )
+Shows: Jabeerle, Qs Tc
+Combination: Jabeerle, Two Pair ( Qs Qc Js Jc Tc )
+Wins: Jabeerle, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jabeerle
+Small Blind: Jabeerle, chips: 100
+Big Blind: Diso, chips: 200
+Folds: Jabeerle
+Pot size: 300
+Wins: Diso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 100
+Flop: Kc 3c 4d
+Turn: 3h
+River: 9s
+Pot size: 200
+Showdown Reached
+Shows: Diso, Td Qh
+Combination: Diso, Pair ( 3c 3h Kc Qh Td )
+Shows: Jabeerle, Ac 6s
+Combination: Jabeerle, Pair ( 3c 3h Ac Kc 9s )
+Wins: Jabeerle, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jabeerle
+Small Blind: Jabeerle, chips: 100
+Big Blind: Diso, chips: 200
+Folds: Jabeerle
+Pot size: 300
+Boasts: Diso, 9s Qs
+Wins: Diso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 100
+Flop: 4d 7c 2s
+Turn: 2d
+River: 5c
+Pot size: 200
+Showdown Reached
+Shows: Diso, Jc Qd
+Combination: Diso, Pair ( 2s 2d Qd Jc 7c )
+Shows: Jabeerle, Ah Jd
+Combination: Jabeerle, Pair ( 2s 2d Ah Jd 7c )
+Wins: Jabeerle, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jabeerle
+Small Blind: Jabeerle, chips: 100
+Big Blind: Diso, chips: 200
+Folds: Jabeerle
+Pot size: 300
+Wins: Diso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 100
+Flop: 3s 4d Qc
+Turn: Kh
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Diso, Th Ad
+Combination: Diso, High Card ( Ad Kh Qc Th 9d )
+Shows: Jabeerle, 9c 5d
+Combination: Jabeerle, Pair ( 9c 9d Kh Qc 5d )
+Wins: Jabeerle, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jabeerle
+Small Blind: Jabeerle, chips: 100
+Big Blind: Diso, chips: 200
+Folds: Jabeerle
+Pot size: 300
+Boasts: Diso, Qc Ks
+Wins: Diso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Diso
+Small Blind: Diso, chips: 100
+Big Blind: Jabeerle, chips: 100
+Flop: 6s Th 7c
+Turn: Js
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Diso, 3s Ks
+Combination: Diso, High Card ( Ks Js Th 8h 7c )
+Shows: Jabeerle, 4h 2s
+Combination: Jabeerle, High Card ( Js Th 8h 7c 6s )
+Wins: Diso, chips: 200
+Quits: Jabeerle, chips: 0
+Ranking: Diso, Place: 1, Score: 1000
+Reveal AI: Diso, AI: Random
+Ranking: Jabeerle, Place: 2, Score: -1000
+Reveal AI: Jabeerle, AI: AIMyBot1
+
+Player Stats for Diso, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4400, lost: 3400, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.166667
+
+
+Player Stats for Jabeerle, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 1000, lost: 2000, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

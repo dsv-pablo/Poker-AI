@@ -1,0 +1,282 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jottee: Random
+Chutem: AIMyBot1
+
+Joins: Jottee, chips: 1000
+Joins: Chutem, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chutem
+Small Blind: Chutem, chips: 100
+Big Blind: Jottee, chips: 200
+Folds: Chutem
+Pot size: 300
+Boasts: Jottee, Td 6s
+Wins: Jottee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jottee
+Small Blind: Jottee, chips: 100
+Big Blind: Chutem, chips: 200
+Folds: Jottee
+Pot size: 300
+Wins: Chutem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chutem
+Small Blind: Chutem, chips: 100
+Big Blind: Jottee, chips: 200
+Folds: Chutem
+Pot size: 300
+Wins: Jottee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jottee
+Small Blind: Jottee, chips: 100
+Big Blind: Chutem, chips: 200
+Folds: Jottee
+Pot size: 300
+Wins: Chutem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chutem
+Small Blind: Chutem, chips: 100
+Big Blind: Jottee, chips: 200
+Folds: Chutem
+Pot size: 300
+Wins: Jottee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jottee
+Small Blind: Jottee, chips: 100
+Big Blind: Chutem, chips: 200
+Calls: Jottee
+DEBUG MESSAGE: INVALID ACTION FROM Chutem (2 0)
+Folds: Chutem
+Pot size: 400
+Boasts: Jottee, 4h Ad
+Wins: Jottee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chutem
+Small Blind: Chutem, chips: 100
+Big Blind: Jottee, chips: 200
+Folds: Chutem
+Pot size: 300
+Wins: Jottee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jottee
+Small Blind: Jottee, chips: 100
+Big Blind: Chutem, chips: 200
+Raises: Jottee, chips: 300
+Folds: Chutem
+Pot size: 700
+Wins: Jottee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chutem
+Small Blind: Chutem, chips: 100
+Big Blind: Jottee, chips: 200
+Folds: Chutem
+Pot size: 300
+Boasts: Jottee, 7h 6h
+Wins: Jottee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jottee
+Small Blind: Jottee, chips: 100
+Big Blind: Chutem, chips: 200
+Folds: Jottee
+Pot size: 300
+Boasts: Jottee, 7d 9c
+Wins: Chutem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chutem
+Small Blind: Chutem, chips: 100
+Big Blind: Jottee, chips: 200
+Folds: Chutem
+Pot size: 300
+Boasts: Jottee, 6s Jd
+Wins: Jottee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jottee
+Small Blind: Jottee, chips: 100
+Big Blind: Chutem, chips: 200
+Calls: Jottee
+DEBUG MESSAGE: INVALID ACTION FROM Chutem (2 0)
+Folds: Chutem
+Pot size: 400
+Wins: Jottee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chutem
+Small Blind: Chutem, chips: 100
+Big Blind: Jottee, chips: 200
+Flop: 9s Ah Qd
+Turn: 3h
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Jottee, Qs 4c
+Combination: Jottee, Pair ( Qs Qd Ah 9s 7h )
+Shows: Chutem, Tc Kd
+Combination: Chutem, High Card ( Ah Kd Qd Tc 9s )
+Wins: Jottee, chips: 300
+Quits: Chutem, chips: 0
+Ranking: Jottee, Place: 1, Score: 1000
+Reveal AI: Jottee, AI: Random
+Ranking: Chutem, Place: 2, Score: -1000
+Reveal AI: Chutem, AI: AIMyBot1
+
+Player Stats for Chutem, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 3, showdown: 0, bluff: 3
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Jottee, AI: Random
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:49
+
+The game begins. The AI's of the players are: 
+Jottee: Random
+Chutem: AIMyBot1
+
+Joins: Jottee, chips: 1000
+Joins: Chutem, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chutem
+Small Blind: Chutem, chips: 100
+Big Blind: Jottee, chips: 200
+Folds: Chutem
+Pot size: 300
+Boasts: Jottee, Td 6s
+Wins: Jottee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jottee
+Small Blind: Jottee, chips: 100
+Big Blind: Chutem, chips: 200
+Folds: Jottee
+Pot size: 300
+Wins: Chutem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chutem
+Small Blind: Chutem, chips: 100
+Big Blind: Jottee, chips: 200
+Folds: Chutem
+Pot size: 300
+Wins: Jottee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jottee
+Small Blind: Jottee, chips: 100
+Big Blind: Chutem, chips: 200
+Folds: Jottee
+Pot size: 300
+Wins: Chutem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chutem
+Small Blind: Chutem, chips: 100
+Big Blind: Jottee, chips: 200
+Folds: Chutem
+Pot size: 300
+Wins: Jottee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jottee
+Small Blind: Jottee, chips: 100
+Big Blind: Chutem, chips: 200
+Calls: Jottee
+DEBUG MESSAGE: INVALID ACTION FROM Chutem (2 0)
+Folds: Chutem
+Pot size: 400
+Boasts: Jottee, 4h Ad
+Wins: Jottee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chutem
+Small Blind: Chutem, chips: 100
+Big Blind: Jottee, chips: 200
+Folds: Chutem
+Pot size: 300
+Wins: Jottee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jottee
+Small Blind: Jottee, chips: 100
+Big Blind: Chutem, chips: 200
+Raises: Jottee, chips: 300
+Folds: Chutem
+Pot size: 700
+Wins: Jottee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chutem
+Small Blind: Chutem, chips: 100
+Big Blind: Jottee, chips: 200
+Folds: Chutem
+Pot size: 300
+Boasts: Jottee, 7h 6h
+Wins: Jottee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jottee
+Small Blind: Jottee, chips: 100
+Big Blind: Chutem, chips: 200
+Folds: Jottee
+Pot size: 300
+Boasts: Jottee, 7d 9c
+Wins: Chutem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chutem
+Small Blind: Chutem, chips: 100
+Big Blind: Jottee, chips: 200
+Folds: Chutem
+Pot size: 300
+Boasts: Jottee, 6s Jd
+Wins: Jottee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jottee
+Small Blind: Jottee, chips: 100
+Big Blind: Chutem, chips: 200
+Calls: Jottee
+DEBUG MESSAGE: INVALID ACTION FROM Chutem (2 0)
+Folds: Chutem
+Pot size: 400
+Wins: Jottee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chutem
+Small Blind: Chutem, chips: 100
+Big Blind: Jottee, chips: 200
+Flop: 9s Ah Qd
+Turn: 3h
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Jottee, Qs 4c
+Combination: Jottee, Pair ( Qs Qd Ah 9s 7h )
+Shows: Chutem, Tc Kd
+Combination: Chutem, High Card ( Ah Kd Qd Tc 9s )
+Wins: Jottee, chips: 300
+Quits: Chutem, chips: 0
+Ranking: Jottee, Place: 1, Score: 1000
+Reveal AI: Jottee, AI: Random
+Ranking: Chutem, Place: 2, Score: -1000
+Reveal AI: Chutem, AI: AIMyBot1
+
+Player Stats for Chutem, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 3, showdown: 0, bluff: 3
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Jottee, AI: Random
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

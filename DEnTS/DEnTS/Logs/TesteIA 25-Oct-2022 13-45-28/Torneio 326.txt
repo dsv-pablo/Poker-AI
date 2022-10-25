@@ -1,0 +1,514 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Si: AIMyBot1
+Huvanhee: Random
+
+Joins: Si, chips: 1000
+Joins: Huvanhee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Folds: Si
+Pot size: 300
+Wins: Huvanhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 200
+Calls: Huvanhee
+DEBUG MESSAGE: INVALID ACTION FROM Si (2 0)
+Folds: Si
+Pot size: 400
+Wins: Huvanhee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Folds: Si
+Pot size: 300
+Wins: Huvanhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 200
+Calls: Huvanhee
+DEBUG MESSAGE: INVALID ACTION FROM Si (2 0)
+Folds: Si
+Pot size: 400
+Wins: Huvanhee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Folds: Si
+Pot size: 300
+Boasts: Huvanhee, Qs Tc
+Wins: Huvanhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 200
+Raises: Huvanhee, chips: 300
+Folds: Si
+Pot size: 700
+Wins: Huvanhee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Flop: 6s 3h Td
+Turn: 9h
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Si, Js 8h
+Combination: Si, Straight ( Js Td 9h 8h 7h )
+Shows: Huvanhee, 6h As
+Combination: Huvanhee, Pair ( 6h 6s As Td 9h )
+Wins: Si, chips: 200
+Wins: Huvanhee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 200
+Flop: Kd 9c 7c
+Turn: Ts
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Si, 9s Jh
+Combination: Si, Pair ( 9s 9c Kd Jh Ts )
+Shows: Huvanhee, Td 7d
+Combination: Huvanhee, Two Pair ( Td Ts 7d 7c Kd )
+Wins: Si, chips: 100
+Wins: Huvanhee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Flop: 9d Td Ah
+Turn: 4d
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Si, Kh Qc
+Combination: Si, Pair ( Kh Kd Ah Qc Td )
+Shows: Huvanhee, Ts 6s
+Combination: Huvanhee, Pair ( Ts Td Ah Kd 9d )
+Wins: Si, chips: 200
+Wins: Huvanhee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 200
+Flop: Qc Jh Tc
+Turn: 7s
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Si, Ac 9h
+Combination: Si, High Card ( Ac Qc Jh Tc 9h )
+Shows: Huvanhee, 6h 7h
+Combination: Huvanhee, Pair ( 7h 7s Qc Jh Tc )
+Wins: Si, chips: 100
+Wins: Huvanhee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Flop: Qs Jh Qd
+Turn: Kh
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Si, 2c 2s
+Combination: Si, Two Pair ( Qs Qd 2c 2s Kh )
+Shows: Huvanhee, 5c 3d
+Combination: Huvanhee, Pair ( Qs Qd Kh Jh 8c )
+Wins: Si, chips: 200
+Wins: Huvanhee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 200
+Flop: Qh Kc 4d
+Turn: Qs
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Si, 6s 6h
+Combination: Si, Two Pair ( Qh Qs 6s 6h As )
+Shows: Huvanhee, 4c 3h
+Combination: Huvanhee, Two Pair ( Qh Qs 4c 4d As )
+Wins: Si, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Folds: Si
+Pot size: 300
+Wins: Huvanhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 200
+Flop: 6s Th 8c
+Turn: 7c
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Si, Qh 4d
+Combination: Si, Pair ( Qh Qc Th 8c 7c )
+Shows: Huvanhee, 5h Ac
+Combination: Huvanhee, High Card ( Ac Qc Th 8c 7c )
+Wins: Si, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Folds: Si
+Pot size: 300
+Boasts: Huvanhee, 5c Ac
+Wins: Huvanhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 200
+Flop: 6h 3c 6d
+Turn: Qd
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Si, Td Jh
+Combination: Si, Two Pair ( 6h 6d 3c 3s Qd )
+Shows: Huvanhee, Js 4h
+Combination: Huvanhee, Two Pair ( 6h 6d 3c 3s Qd )
+Wins: Si, chips: 200
+Wins: Huvanhee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Folds: Si
+Pot size: 300
+Boasts: Huvanhee, 4s 4h
+Wins: Huvanhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 100
+Flop: 2c 9d 5c
+Turn: 6c
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Si, Ah Qs
+Combination: Si, High Card ( Ah Qs Td 9d 6c )
+Shows: Huvanhee, Kc 3s
+Combination: Huvanhee, High Card ( Kc Td 9d 6c 5c )
+Wins: Si, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Folds: Si
+Pot size: 300
+Wins: Huvanhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 100
+Flop: 7s Js 2d
+Turn: 8s
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Si, Jc 4h
+Combination: Si, Pair ( Jc Js 8s 7s 4h )
+Shows: Huvanhee, 3h 3d
+Combination: Huvanhee, Three Of A Kind ( 3h 3d 3s Js 8s )
+Wins: Huvanhee, chips: 200
+Quits: Si, chips: 0
+Ranking: Huvanhee, Place: 1, Score: 1000
+Reveal AI: Huvanhee, AI: Random
+Ranking: Si, Place: 2, Score: -1000
+Reveal AI: Si, AI: AIMyBot1
+
+Player Stats for Huvanhee, AI: Random
+General: deals: 20, actions: 3, preflop actions: 3
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 17, showdown: 7, bluff: 10
+Chips: won: 4600, lost: 3600, bought: 1000, forced bets: 3000
+Pre-Flop Stats: VP$IP: 0.15, PFR: 0.05, 3Bet: 0.05
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.7
+
+
+Player Stats for Si, AI: AIMyBot1
+General: deals: 20, actions: 10, preflop actions: 10
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 9, showdown: 9, bluff: 0
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9
+
+
+Date: 2022/10/25 13:45:50
+
+The game begins. The AI's of the players are: 
+Si: AIMyBot1
+Huvanhee: Random
+
+Joins: Si, chips: 1000
+Joins: Huvanhee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Folds: Si
+Pot size: 300
+Wins: Huvanhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 200
+Calls: Huvanhee
+DEBUG MESSAGE: INVALID ACTION FROM Si (2 0)
+Folds: Si
+Pot size: 400
+Wins: Huvanhee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Folds: Si
+Pot size: 300
+Wins: Huvanhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 200
+Calls: Huvanhee
+DEBUG MESSAGE: INVALID ACTION FROM Si (2 0)
+Folds: Si
+Pot size: 400
+Wins: Huvanhee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Folds: Si
+Pot size: 300
+Boasts: Huvanhee, Qs Tc
+Wins: Huvanhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 200
+Raises: Huvanhee, chips: 300
+Folds: Si
+Pot size: 700
+Wins: Huvanhee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Flop: 6s 3h Td
+Turn: 9h
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Si, Js 8h
+Combination: Si, Straight ( Js Td 9h 8h 7h )
+Shows: Huvanhee, 6h As
+Combination: Huvanhee, Pair ( 6h 6s As Td 9h )
+Wins: Si, chips: 200
+Wins: Huvanhee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 200
+Flop: Kd 9c 7c
+Turn: Ts
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Si, 9s Jh
+Combination: Si, Pair ( 9s 9c Kd Jh Ts )
+Shows: Huvanhee, Td 7d
+Combination: Huvanhee, Two Pair ( Td Ts 7d 7c Kd )
+Wins: Si, chips: 100
+Wins: Huvanhee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Flop: 9d Td Ah
+Turn: 4d
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Si, Kh Qc
+Combination: Si, Pair ( Kh Kd Ah Qc Td )
+Shows: Huvanhee, Ts 6s
+Combination: Huvanhee, Pair ( Ts Td Ah Kd 9d )
+Wins: Si, chips: 200
+Wins: Huvanhee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 200
+Flop: Qc Jh Tc
+Turn: 7s
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Si, Ac 9h
+Combination: Si, High Card ( Ac Qc Jh Tc 9h )
+Shows: Huvanhee, 6h 7h
+Combination: Huvanhee, Pair ( 7h 7s Qc Jh Tc )
+Wins: Si, chips: 100
+Wins: Huvanhee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Flop: Qs Jh Qd
+Turn: Kh
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Si, 2c 2s
+Combination: Si, Two Pair ( Qs Qd 2c 2s Kh )
+Shows: Huvanhee, 5c 3d
+Combination: Huvanhee, Pair ( Qs Qd Kh Jh 8c )
+Wins: Si, chips: 200
+Wins: Huvanhee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 200
+Flop: Qh Kc 4d
+Turn: Qs
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Si, 6s 6h
+Combination: Si, Two Pair ( Qh Qs 6s 6h As )
+Shows: Huvanhee, 4c 3h
+Combination: Huvanhee, Two Pair ( Qh Qs 4c 4d As )
+Wins: Si, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Folds: Si
+Pot size: 300
+Wins: Huvanhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 200
+Flop: 6s Th 8c
+Turn: 7c
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Si, Qh 4d
+Combination: Si, Pair ( Qh Qc Th 8c 7c )
+Shows: Huvanhee, 5h Ac
+Combination: Huvanhee, High Card ( Ac Qc Th 8c 7c )
+Wins: Si, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Folds: Si
+Pot size: 300
+Boasts: Huvanhee, 5c Ac
+Wins: Huvanhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 200
+Flop: 6h 3c 6d
+Turn: Qd
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Si, Td Jh
+Combination: Si, Two Pair ( 6h 6d 3c 3s Qd )
+Shows: Huvanhee, Js 4h
+Combination: Huvanhee, Two Pair ( 6h 6d 3c 3s Qd )
+Wins: Si, chips: 200
+Wins: Huvanhee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Folds: Si
+Pot size: 300
+Boasts: Huvanhee, 4s 4h
+Wins: Huvanhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 100
+Flop: 2c 9d 5c
+Turn: 6c
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Si, Ah Qs
+Combination: Si, High Card ( Ah Qs Td 9d 6c )
+Shows: Huvanhee, Kc 3s
+Combination: Huvanhee, High Card ( Kc Td 9d 6c 5c )
+Wins: Si, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Si
+Small Blind: Si, chips: 100
+Big Blind: Huvanhee, chips: 200
+Folds: Si
+Pot size: 300
+Wins: Huvanhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huvanhee
+Small Blind: Huvanhee, chips: 100
+Big Blind: Si, chips: 100
+Flop: 7s Js 2d
+Turn: 8s
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Si, Jc 4h
+Combination: Si, Pair ( Jc Js 8s 7s 4h )
+Shows: Huvanhee, 3h 3d
+Combination: Huvanhee, Three Of A Kind ( 3h 3d 3s Js 8s )
+Wins: Huvanhee, chips: 200
+Quits: Si, chips: 0
+Ranking: Huvanhee, Place: 1, Score: 1000
+Reveal AI: Huvanhee, AI: Random
+Ranking: Si, Place: 2, Score: -1000
+Reveal AI: Si, AI: AIMyBot1
+
+Player Stats for Huvanhee, AI: Random
+General: deals: 20, actions: 3, preflop actions: 3
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 17, showdown: 7, bluff: 10
+Chips: won: 4600, lost: 3600, bought: 1000, forced bets: 3000
+Pre-Flop Stats: VP$IP: 0.15, PFR: 0.05, 3Bet: 0.05
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.7
+
+
+Player Stats for Si, AI: AIMyBot1
+General: deals: 20, actions: 10, preflop actions: 10
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 9, showdown: 9, bluff: 0
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9
+
+

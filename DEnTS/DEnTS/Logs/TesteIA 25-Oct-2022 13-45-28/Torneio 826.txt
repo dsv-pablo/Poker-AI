@@ -1,0 +1,296 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Higof: AIMyBot1
+Dowroe: Random
+
+Joins: Higof, chips: 1000
+Joins: Dowroe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowroe
+Small Blind: Dowroe, chips: 100
+Big Blind: Higof, chips: 200
+Raises: Dowroe, chips: 300
+Folds: Higof
+Pot size: 700
+Boasts: Dowroe, 6c 5d
+Wins: Dowroe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Higof
+Small Blind: Higof, chips: 100
+Big Blind: Dowroe, chips: 200
+Folds: Higof
+Pot size: 300
+Boasts: Dowroe, Ks 6h
+Wins: Dowroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowroe
+Small Blind: Dowroe, chips: 100
+Big Blind: Higof, chips: 200
+Folds: Dowroe
+Pot size: 300
+Boasts: Dowroe, 5s Ad
+Wins: Higof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Higof
+Small Blind: Higof, chips: 100
+Big Blind: Dowroe, chips: 200
+Folds: Higof
+Pot size: 300
+Boasts: Dowroe, 2d 5h
+Wins: Dowroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowroe
+Small Blind: Dowroe, chips: 100
+Big Blind: Higof, chips: 200
+Folds: Dowroe
+Pot size: 300
+Wins: Higof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Higof
+Small Blind: Higof, chips: 100
+Big Blind: Dowroe, chips: 200
+Folds: Higof
+Pot size: 300
+Wins: Dowroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowroe
+Small Blind: Dowroe, chips: 100
+Big Blind: Higof, chips: 200
+Calls: Dowroe
+DEBUG MESSAGE: INVALID ACTION FROM Higof (2 0)
+Folds: Higof
+Pot size: 400
+Boasts: Dowroe, 4h Kc
+Wins: Dowroe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Higof
+Small Blind: Higof, chips: 100
+Big Blind: Dowroe, chips: 200
+Folds: Higof
+Pot size: 300
+Wins: Dowroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowroe
+Small Blind: Dowroe, chips: 100
+Big Blind: Higof, chips: 200
+Calls: Dowroe
+DEBUG MESSAGE: INVALID ACTION FROM Higof (2 0)
+Folds: Higof
+Pot size: 400
+Wins: Dowroe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Higof
+Small Blind: Higof, chips: 100
+Big Blind: Dowroe, chips: 200
+Folds: Higof
+Pot size: 300
+Wins: Dowroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowroe
+Small Blind: Dowroe, chips: 100
+Big Blind: Higof, chips: 100
+Flop: 3c 4s Qc
+Turn: 4c
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Higof, 3h 2c
+Combination: Higof, Two Pair ( 4s 4c 3h 3c As )
+Shows: Dowroe, Js 5h
+Combination: Dowroe, Pair ( 4s 4c As Qc Js )
+Wins: Higof, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Higof
+Small Blind: Higof, chips: 100
+Big Blind: Dowroe, chips: 200
+Folds: Higof
+Pot size: 300
+Wins: Dowroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowroe
+Small Blind: Dowroe, chips: 100
+Big Blind: Higof, chips: 100
+Flop: 9c Qh 7d
+Turn: Jh
+River: 9s
+Pot size: 200
+Showdown Reached
+Shows: Higof, 4s Td
+Combination: Higof, Pair ( 9c 9s Qh Jh Td )
+Shows: Dowroe, Ah Jc
+Combination: Dowroe, Two Pair ( Jc Jh 9c 9s Ah )
+Wins: Dowroe, chips: 200
+Quits: Higof, chips: 0
+Ranking: Dowroe, Place: 1, Score: 1000
+Reveal AI: Dowroe, AI: Random
+Ranking: Higof, Place: 2, Score: -1000
+Reveal AI: Higof, AI: AIMyBot1
+
+Player Stats for Dowroe, AI: Random
+General: deals: 13, actions: 5, preflop actions: 5
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Higof, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:24
+
+The game begins. The AI's of the players are: 
+Higof: AIMyBot1
+Dowroe: Random
+
+Joins: Higof, chips: 1000
+Joins: Dowroe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowroe
+Small Blind: Dowroe, chips: 100
+Big Blind: Higof, chips: 200
+Raises: Dowroe, chips: 300
+Folds: Higof
+Pot size: 700
+Boasts: Dowroe, 6c 5d
+Wins: Dowroe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Higof
+Small Blind: Higof, chips: 100
+Big Blind: Dowroe, chips: 200
+Folds: Higof
+Pot size: 300
+Boasts: Dowroe, Ks 6h
+Wins: Dowroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowroe
+Small Blind: Dowroe, chips: 100
+Big Blind: Higof, chips: 200
+Folds: Dowroe
+Pot size: 300
+Boasts: Dowroe, 5s Ad
+Wins: Higof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Higof
+Small Blind: Higof, chips: 100
+Big Blind: Dowroe, chips: 200
+Folds: Higof
+Pot size: 300
+Boasts: Dowroe, 2d 5h
+Wins: Dowroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowroe
+Small Blind: Dowroe, chips: 100
+Big Blind: Higof, chips: 200
+Folds: Dowroe
+Pot size: 300
+Wins: Higof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Higof
+Small Blind: Higof, chips: 100
+Big Blind: Dowroe, chips: 200
+Folds: Higof
+Pot size: 300
+Wins: Dowroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowroe
+Small Blind: Dowroe, chips: 100
+Big Blind: Higof, chips: 200
+Calls: Dowroe
+DEBUG MESSAGE: INVALID ACTION FROM Higof (2 0)
+Folds: Higof
+Pot size: 400
+Boasts: Dowroe, 4h Kc
+Wins: Dowroe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Higof
+Small Blind: Higof, chips: 100
+Big Blind: Dowroe, chips: 200
+Folds: Higof
+Pot size: 300
+Wins: Dowroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowroe
+Small Blind: Dowroe, chips: 100
+Big Blind: Higof, chips: 200
+Calls: Dowroe
+DEBUG MESSAGE: INVALID ACTION FROM Higof (2 0)
+Folds: Higof
+Pot size: 400
+Wins: Dowroe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Higof
+Small Blind: Higof, chips: 100
+Big Blind: Dowroe, chips: 200
+Folds: Higof
+Pot size: 300
+Wins: Dowroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowroe
+Small Blind: Dowroe, chips: 100
+Big Blind: Higof, chips: 100
+Flop: 3c 4s Qc
+Turn: 4c
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Higof, 3h 2c
+Combination: Higof, Two Pair ( 4s 4c 3h 3c As )
+Shows: Dowroe, Js 5h
+Combination: Dowroe, Pair ( 4s 4c As Qc Js )
+Wins: Higof, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Higof
+Small Blind: Higof, chips: 100
+Big Blind: Dowroe, chips: 200
+Folds: Higof
+Pot size: 300
+Wins: Dowroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowroe
+Small Blind: Dowroe, chips: 100
+Big Blind: Higof, chips: 100
+Flop: 9c Qh 7d
+Turn: Jh
+River: 9s
+Pot size: 200
+Showdown Reached
+Shows: Higof, 4s Td
+Combination: Higof, Pair ( 9c 9s Qh Jh Td )
+Shows: Dowroe, Ah Jc
+Combination: Dowroe, Two Pair ( Jc Jh 9c 9s Ah )
+Wins: Dowroe, chips: 200
+Quits: Higof, chips: 0
+Ranking: Dowroe, Place: 1, Score: 1000
+Reveal AI: Dowroe, AI: Random
+Ranking: Higof, Place: 2, Score: -1000
+Reveal AI: Higof, AI: AIMyBot1
+
+Player Stats for Dowroe, AI: Random
+General: deals: 13, actions: 5, preflop actions: 5
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Higof, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

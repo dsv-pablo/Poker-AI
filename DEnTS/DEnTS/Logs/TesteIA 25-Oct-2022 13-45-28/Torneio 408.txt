@@ -1,0 +1,372 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Bifol: Random
+Heegeek: AIMyBot1
+
+Joins: Bifol, chips: 1000
+Joins: Heegeek, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heegeek
+Small Blind: Heegeek, chips: 100
+Big Blind: Bifol, chips: 200
+Folds: Heegeek
+Pot size: 300
+Boasts: Bifol, 5h 2s
+Wins: Bifol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifol
+Small Blind: Bifol, chips: 100
+Big Blind: Heegeek, chips: 200
+Raises: Bifol, chips: 300
+Folds: Heegeek
+Pot size: 700
+Boasts: Bifol, Js Qd
+Wins: Bifol, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heegeek
+Small Blind: Heegeek, chips: 100
+Big Blind: Bifol, chips: 200
+Folds: Heegeek
+Pot size: 300
+Boasts: Bifol, 4h 5c
+Wins: Bifol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifol
+Small Blind: Bifol, chips: 100
+Big Blind: Heegeek, chips: 200
+Raises: Bifol, chips: 300
+Folds: Heegeek
+Pot size: 700
+Boasts: Bifol, Kh 8s
+Wins: Bifol, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heegeek
+Small Blind: Heegeek, chips: 100
+Big Blind: Bifol, chips: 200
+Folds: Heegeek
+Pot size: 300
+Boasts: Bifol, Js 2c
+Wins: Bifol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifol
+Small Blind: Bifol, chips: 100
+Big Blind: Heegeek, chips: 200
+Raises: Bifol, chips: 300
+Folds: Heegeek
+Pot size: 700
+Boasts: Bifol, Ah 5h
+Wins: Bifol, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heegeek
+Small Blind: Heegeek, chips: 100
+Big Blind: Bifol, chips: 200
+Flop: 2d Ts 9d
+Turn: Ad
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Bifol, 3c 5c
+Combination: Bifol, High Card ( Ad Qs Ts 9d 5c )
+Shows: Heegeek, 4h 9c
+Combination: Heegeek, Pair ( 9c 9d Ad Qs Ts )
+Wins: Bifol, chips: 100
+Wins: Heegeek, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifol
+Small Blind: Bifol, chips: 100
+Big Blind: Heegeek, chips: 200
+Flop: Ts 5s As
+Turn: Kd
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Bifol, 2c 4s
+Combination: Bifol, Pair ( Ts Th As Kd 5s )
+Shows: Heegeek, Tc Ad
+Combination: Heegeek, Full House ( Tc Ts Th Ad As )
+Wins: Heegeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heegeek
+Small Blind: Heegeek, chips: 100
+Big Blind: Bifol, chips: 200
+Folds: Heegeek
+Pot size: 300
+Boasts: Bifol, 3s Kc
+Wins: Bifol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifol
+Small Blind: Bifol, chips: 100
+Big Blind: Heegeek, chips: 200
+Flop: 8h 2c Ah
+Turn: 8d
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Bifol, Jd 9s
+Combination: Bifol, Pair ( 8h 8d Ah Kh Jd )
+Shows: Heegeek, 4h Ac
+Combination: Heegeek, Two Pair ( Ac Ah 8h 8d Kh )
+Wins: Heegeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heegeek
+Small Blind: Heegeek, chips: 100
+Big Blind: Bifol, chips: 200
+Folds: Heegeek
+Pot size: 300
+Wins: Bifol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifol
+Small Blind: Bifol, chips: 100
+Big Blind: Heegeek, chips: 200
+Flop: 5h 7d Th
+Turn: Kd
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Bifol, 5s Tc
+Combination: Bifol, Two Pair ( Tc Th 7d 7h Kd )
+Shows: Heegeek, 3s As
+Combination: Heegeek, Pair ( 7d 7h As Kd Th )
+Wins: Bifol, chips: 200
+Wins: Heegeek, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heegeek
+Small Blind: Heegeek, chips: 100
+Big Blind: Bifol, chips: 200
+Flop: 5s 4h 2d
+Turn: 3s
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Bifol, Kc 9c
+Combination: Bifol, Straight ( 5s 4h 3s 2d As )
+Shows: Heegeek, 3d Qd
+Combination: Heegeek, Straight ( 5s 4h 3d 2d As )
+Wins: Bifol, chips: 200
+Wins: Heegeek, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifol
+Small Blind: Bifol, chips: 100
+Big Blind: Heegeek, chips: 100
+Flop: 3c Qd Jh
+Turn: 5c
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Bifol, Qh 2s
+Combination: Bifol, Pair ( Qh Qd Jh Ts 5c )
+Shows: Heegeek, Js 8h
+Combination: Heegeek, Pair ( Js Jh Qd Ts 8h )
+Wins: Bifol, chips: 200
+Quits: Heegeek, chips: 0
+Ranking: Bifol, Place: 1, Score: 1000
+Reveal AI: Bifol, AI: Random
+Ranking: Heegeek, Place: 2, Score: -1000
+Reveal AI: Heegeek, AI: AIMyBot1
+
+Player Stats for Bifol, AI: Random
+General: deals: 14, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 4, bluff: 8
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0.214286, 3Bet: 0.214286
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Heegeek, AI: AIMyBot1
+General: deals: 14, actions: 8, preflop actions: 8
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 1000, lost: 2000, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:45:56
+
+The game begins. The AI's of the players are: 
+Bifol: Random
+Heegeek: AIMyBot1
+
+Joins: Bifol, chips: 1000
+Joins: Heegeek, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heegeek
+Small Blind: Heegeek, chips: 100
+Big Blind: Bifol, chips: 200
+Folds: Heegeek
+Pot size: 300
+Boasts: Bifol, 5h 2s
+Wins: Bifol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifol
+Small Blind: Bifol, chips: 100
+Big Blind: Heegeek, chips: 200
+Raises: Bifol, chips: 300
+Folds: Heegeek
+Pot size: 700
+Boasts: Bifol, Js Qd
+Wins: Bifol, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heegeek
+Small Blind: Heegeek, chips: 100
+Big Blind: Bifol, chips: 200
+Folds: Heegeek
+Pot size: 300
+Boasts: Bifol, 4h 5c
+Wins: Bifol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifol
+Small Blind: Bifol, chips: 100
+Big Blind: Heegeek, chips: 200
+Raises: Bifol, chips: 300
+Folds: Heegeek
+Pot size: 700
+Boasts: Bifol, Kh 8s
+Wins: Bifol, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heegeek
+Small Blind: Heegeek, chips: 100
+Big Blind: Bifol, chips: 200
+Folds: Heegeek
+Pot size: 300
+Boasts: Bifol, Js 2c
+Wins: Bifol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifol
+Small Blind: Bifol, chips: 100
+Big Blind: Heegeek, chips: 200
+Raises: Bifol, chips: 300
+Folds: Heegeek
+Pot size: 700
+Boasts: Bifol, Ah 5h
+Wins: Bifol, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heegeek
+Small Blind: Heegeek, chips: 100
+Big Blind: Bifol, chips: 200
+Flop: 2d Ts 9d
+Turn: Ad
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Bifol, 3c 5c
+Combination: Bifol, High Card ( Ad Qs Ts 9d 5c )
+Shows: Heegeek, 4h 9c
+Combination: Heegeek, Pair ( 9c 9d Ad Qs Ts )
+Wins: Bifol, chips: 100
+Wins: Heegeek, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifol
+Small Blind: Bifol, chips: 100
+Big Blind: Heegeek, chips: 200
+Flop: Ts 5s As
+Turn: Kd
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Bifol, 2c 4s
+Combination: Bifol, Pair ( Ts Th As Kd 5s )
+Shows: Heegeek, Tc Ad
+Combination: Heegeek, Full House ( Tc Ts Th Ad As )
+Wins: Heegeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heegeek
+Small Blind: Heegeek, chips: 100
+Big Blind: Bifol, chips: 200
+Folds: Heegeek
+Pot size: 300
+Boasts: Bifol, 3s Kc
+Wins: Bifol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifol
+Small Blind: Bifol, chips: 100
+Big Blind: Heegeek, chips: 200
+Flop: 8h 2c Ah
+Turn: 8d
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Bifol, Jd 9s
+Combination: Bifol, Pair ( 8h 8d Ah Kh Jd )
+Shows: Heegeek, 4h Ac
+Combination: Heegeek, Two Pair ( Ac Ah 8h 8d Kh )
+Wins: Heegeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heegeek
+Small Blind: Heegeek, chips: 100
+Big Blind: Bifol, chips: 200
+Folds: Heegeek
+Pot size: 300
+Wins: Bifol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifol
+Small Blind: Bifol, chips: 100
+Big Blind: Heegeek, chips: 200
+Flop: 5h 7d Th
+Turn: Kd
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Bifol, 5s Tc
+Combination: Bifol, Two Pair ( Tc Th 7d 7h Kd )
+Shows: Heegeek, 3s As
+Combination: Heegeek, Pair ( 7d 7h As Kd Th )
+Wins: Bifol, chips: 200
+Wins: Heegeek, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heegeek
+Small Blind: Heegeek, chips: 100
+Big Blind: Bifol, chips: 200
+Flop: 5s 4h 2d
+Turn: 3s
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Bifol, Kc 9c
+Combination: Bifol, Straight ( 5s 4h 3s 2d As )
+Shows: Heegeek, 3d Qd
+Combination: Heegeek, Straight ( 5s 4h 3d 2d As )
+Wins: Bifol, chips: 200
+Wins: Heegeek, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifol
+Small Blind: Bifol, chips: 100
+Big Blind: Heegeek, chips: 100
+Flop: 3c Qd Jh
+Turn: 5c
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Bifol, Qh 2s
+Combination: Bifol, Pair ( Qh Qd Jh Ts 5c )
+Shows: Heegeek, Js 8h
+Combination: Heegeek, Pair ( Js Jh Qd Ts 8h )
+Wins: Bifol, chips: 200
+Quits: Heegeek, chips: 0
+Ranking: Bifol, Place: 1, Score: 1000
+Reveal AI: Bifol, AI: Random
+Ranking: Heegeek, Place: 2, Score: -1000
+Reveal AI: Heegeek, AI: AIMyBot1
+
+Player Stats for Bifol, AI: Random
+General: deals: 14, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 4, bluff: 8
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0.214286, 3Bet: 0.214286
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Heegeek, AI: AIMyBot1
+General: deals: 14, actions: 8, preflop actions: 8
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 1000, lost: 2000, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

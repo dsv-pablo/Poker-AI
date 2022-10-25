@@ -1,0 +1,236 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gowrok: Random
+Chechunoe: AIMyBot1
+
+Joins: Gowrok, chips: 1000
+Joins: Chechunoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowrok
+Small Blind: Gowrok, chips: 100
+Big Blind: Chechunoe, chips: 200
+Raises: Gowrok, chips: 300
+Folds: Chechunoe
+Pot size: 700
+Wins: Gowrok, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chechunoe
+Small Blind: Chechunoe, chips: 100
+Big Blind: Gowrok, chips: 200
+Folds: Chechunoe
+Pot size: 300
+Boasts: Gowrok, 4h 7h
+Wins: Gowrok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowrok
+Small Blind: Gowrok, chips: 100
+Big Blind: Chechunoe, chips: 200
+Raises: Gowrok, chips: 300
+Folds: Chechunoe
+Pot size: 700
+Boasts: Gowrok, 8c 3h
+Wins: Gowrok, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chechunoe
+Small Blind: Chechunoe, chips: 100
+Big Blind: Gowrok, chips: 200
+Folds: Chechunoe
+Pot size: 300
+Boasts: Gowrok, 4d Tc
+Wins: Gowrok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowrok
+Small Blind: Gowrok, chips: 100
+Big Blind: Chechunoe, chips: 200
+Calls: Gowrok
+DEBUG MESSAGE: INVALID ACTION FROM Chechunoe (2 0)
+Folds: Chechunoe
+Pot size: 400
+Boasts: Gowrok, Ah 4s
+Wins: Gowrok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chechunoe
+Small Blind: Chechunoe, chips: 100
+Big Blind: Gowrok, chips: 200
+Folds: Chechunoe
+Pot size: 300
+Wins: Gowrok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowrok
+Small Blind: Gowrok, chips: 100
+Big Blind: Chechunoe, chips: 100
+Flop: 2s 3h Qs
+Turn: Qd
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Gowrok, 9h 5d
+Combination: Gowrok, Pair ( Qs Qd Ts 9h 5d )
+Shows: Chechunoe, Ad Td
+Combination: Chechunoe, Two Pair ( Qs Qd Td Ts Ad )
+Wins: Chechunoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chechunoe
+Small Blind: Chechunoe, chips: 100
+Big Blind: Gowrok, chips: 200
+Folds: Chechunoe
+Pot size: 300
+Wins: Gowrok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowrok
+Small Blind: Gowrok, chips: 100
+Big Blind: Chechunoe, chips: 100
+Flop: 8h Qs 6s
+Turn: 9d
+River: 2h
+Pot size: 200
+Showdown Reached
+Shows: Gowrok, Kh 7h
+Combination: Gowrok, High Card ( Kh Qs 9d 8h 7h )
+Shows: Chechunoe, 4s Jh
+Combination: Chechunoe, High Card ( Qs Jh 9d 8h 6s )
+Wins: Gowrok, chips: 200
+Quits: Chechunoe, chips: 0
+Ranking: Gowrok, Place: 1, Score: 1000
+Reveal AI: Gowrok, AI: Random
+Ranking: Chechunoe, Place: 2, Score: -1000
+Reveal AI: Chechunoe, AI: AIMyBot1
+
+Player Stats for Chechunoe, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Gowrok, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:44
+
+The game begins. The AI's of the players are: 
+Gowrok: Random
+Chechunoe: AIMyBot1
+
+Joins: Gowrok, chips: 1000
+Joins: Chechunoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowrok
+Small Blind: Gowrok, chips: 100
+Big Blind: Chechunoe, chips: 200
+Raises: Gowrok, chips: 300
+Folds: Chechunoe
+Pot size: 700
+Wins: Gowrok, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chechunoe
+Small Blind: Chechunoe, chips: 100
+Big Blind: Gowrok, chips: 200
+Folds: Chechunoe
+Pot size: 300
+Boasts: Gowrok, 4h 7h
+Wins: Gowrok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowrok
+Small Blind: Gowrok, chips: 100
+Big Blind: Chechunoe, chips: 200
+Raises: Gowrok, chips: 300
+Folds: Chechunoe
+Pot size: 700
+Boasts: Gowrok, 8c 3h
+Wins: Gowrok, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chechunoe
+Small Blind: Chechunoe, chips: 100
+Big Blind: Gowrok, chips: 200
+Folds: Chechunoe
+Pot size: 300
+Boasts: Gowrok, 4d Tc
+Wins: Gowrok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowrok
+Small Blind: Gowrok, chips: 100
+Big Blind: Chechunoe, chips: 200
+Calls: Gowrok
+DEBUG MESSAGE: INVALID ACTION FROM Chechunoe (2 0)
+Folds: Chechunoe
+Pot size: 400
+Boasts: Gowrok, Ah 4s
+Wins: Gowrok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chechunoe
+Small Blind: Chechunoe, chips: 100
+Big Blind: Gowrok, chips: 200
+Folds: Chechunoe
+Pot size: 300
+Wins: Gowrok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowrok
+Small Blind: Gowrok, chips: 100
+Big Blind: Chechunoe, chips: 100
+Flop: 2s 3h Qs
+Turn: Qd
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Gowrok, 9h 5d
+Combination: Gowrok, Pair ( Qs Qd Ts 9h 5d )
+Shows: Chechunoe, Ad Td
+Combination: Chechunoe, Two Pair ( Qs Qd Td Ts Ad )
+Wins: Chechunoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chechunoe
+Small Blind: Chechunoe, chips: 100
+Big Blind: Gowrok, chips: 200
+Folds: Chechunoe
+Pot size: 300
+Wins: Gowrok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gowrok
+Small Blind: Gowrok, chips: 100
+Big Blind: Chechunoe, chips: 100
+Flop: 8h Qs 6s
+Turn: 9d
+River: 2h
+Pot size: 200
+Showdown Reached
+Shows: Gowrok, Kh 7h
+Combination: Gowrok, High Card ( Kh Qs 9d 8h 7h )
+Shows: Chechunoe, 4s Jh
+Combination: Chechunoe, High Card ( Qs Jh 9d 8h 6s )
+Wins: Gowrok, chips: 200
+Quits: Chechunoe, chips: 0
+Ranking: Gowrok, Place: 1, Score: 1000
+Reveal AI: Gowrok, AI: Random
+Ranking: Chechunoe, Place: 2, Score: -1000
+Reveal AI: Chechunoe, AI: AIMyBot1
+
+Player Stats for Chechunoe, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Gowrok, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

@@ -1,0 +1,212 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Nikoek: AIMyBot1
+Vee: Random
+
+Joins: Nikoek, chips: 1000
+Joins: Vee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nikoek
+Small Blind: Nikoek, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Nikoek
+Pot size: 300
+Boasts: Vee, Kh Qs
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Nikoek, chips: 200
+Folds: Vee
+Pot size: 300
+Wins: Nikoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nikoek
+Small Blind: Nikoek, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Nikoek
+Pot size: 300
+Boasts: Vee, Kd Qd
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Nikoek, chips: 200
+Raises: Vee, chips: 300
+Folds: Nikoek
+Pot size: 700
+Boasts: Vee, 6c 2h
+Wins: Vee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nikoek
+Small Blind: Nikoek, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Nikoek
+Pot size: 300
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Nikoek, chips: 200
+Calls: Vee
+DEBUG MESSAGE: INVALID ACTION FROM Nikoek (2 0)
+Folds: Nikoek
+Pot size: 400
+Boasts: Vee, 8s 9c
+Wins: Vee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nikoek
+Small Blind: Nikoek, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Nikoek
+Pot size: 300
+Boasts: Vee, Qc 9h
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Nikoek, chips: 200
+Raises: Vee, chips: 300
+Calls: Nikoek
+Flop: 8h 6d Kh
+Turn: Jc
+River: 2h
+Pot size: 800
+Showdown Reached
+Shows: Nikoek, 2c Qh
+Combination: Nikoek, Pair ( 2c 2h Kh Qh Jc )
+Shows: Vee, Jh Js
+Combination: Vee, Three Of A Kind ( Jh Js Jc Kh 8h )
+Wins: Vee, chips: 800
+Quits: Nikoek, chips: 0
+Ranking: Vee, Place: 1, Score: 1000
+Reveal AI: Vee, AI: Random
+Ranking: Nikoek, Place: 2, Score: -1000
+Reveal AI: Nikoek, AI: AIMyBot1
+
+Player Stats for Nikoek, AI: AIMyBot1
+General: deals: 8, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1500, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.125, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Vee, AI: Random
+General: deals: 8, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.25, 3Bet: 0.25
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:53
+
+The game begins. The AI's of the players are: 
+Nikoek: AIMyBot1
+Vee: Random
+
+Joins: Nikoek, chips: 1000
+Joins: Vee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nikoek
+Small Blind: Nikoek, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Nikoek
+Pot size: 300
+Boasts: Vee, Kh Qs
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Nikoek, chips: 200
+Folds: Vee
+Pot size: 300
+Wins: Nikoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nikoek
+Small Blind: Nikoek, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Nikoek
+Pot size: 300
+Boasts: Vee, Kd Qd
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Nikoek, chips: 200
+Raises: Vee, chips: 300
+Folds: Nikoek
+Pot size: 700
+Boasts: Vee, 6c 2h
+Wins: Vee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nikoek
+Small Blind: Nikoek, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Nikoek
+Pot size: 300
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Nikoek, chips: 200
+Calls: Vee
+DEBUG MESSAGE: INVALID ACTION FROM Nikoek (2 0)
+Folds: Nikoek
+Pot size: 400
+Boasts: Vee, 8s 9c
+Wins: Vee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nikoek
+Small Blind: Nikoek, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Nikoek
+Pot size: 300
+Boasts: Vee, Qc 9h
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Nikoek, chips: 200
+Raises: Vee, chips: 300
+Calls: Nikoek
+Flop: 8h 6d Kh
+Turn: Jc
+River: 2h
+Pot size: 800
+Showdown Reached
+Shows: Nikoek, 2c Qh
+Combination: Nikoek, Pair ( 2c 2h Kh Qh Jc )
+Shows: Vee, Jh Js
+Combination: Vee, Three Of A Kind ( Jh Js Jc Kh 8h )
+Wins: Vee, chips: 800
+Quits: Nikoek, chips: 0
+Ranking: Vee, Place: 1, Score: 1000
+Reveal AI: Vee, AI: Random
+Ranking: Nikoek, Place: 2, Score: -1000
+Reveal AI: Nikoek, AI: AIMyBot1
+
+Player Stats for Nikoek, AI: AIMyBot1
+General: deals: 8, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1500, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.125, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Vee, AI: Random
+General: deals: 8, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.25, 3Bet: 0.25
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

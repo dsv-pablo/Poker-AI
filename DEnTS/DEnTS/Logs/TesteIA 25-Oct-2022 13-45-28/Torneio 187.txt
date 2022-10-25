@@ -1,0 +1,234 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Peeberlav: Random
+Foemop: AIMyBot1
+
+Joins: Peeberlav, chips: 1000
+Joins: Foemop, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemop
+Small Blind: Foemop, chips: 100
+Big Blind: Peeberlav, chips: 200
+Folds: Foemop
+Pot size: 300
+Boasts: Peeberlav, Qs Ah
+Wins: Peeberlav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeberlav
+Small Blind: Peeberlav, chips: 100
+Big Blind: Foemop, chips: 200
+Calls: Peeberlav
+DEBUG MESSAGE: INVALID ACTION FROM Foemop (2 0)
+Folds: Foemop
+Pot size: 400
+Boasts: Peeberlav, As 2s
+Wins: Peeberlav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemop
+Small Blind: Foemop, chips: 100
+Big Blind: Peeberlav, chips: 200
+Folds: Foemop
+Pot size: 300
+Boasts: Peeberlav, Qs 3h
+Wins: Peeberlav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeberlav
+Small Blind: Peeberlav, chips: 100
+Big Blind: Foemop, chips: 200
+Folds: Peeberlav
+Pot size: 300
+Boasts: Peeberlav, 9d Tc
+Wins: Foemop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemop
+Small Blind: Foemop, chips: 100
+Big Blind: Peeberlav, chips: 200
+Folds: Foemop
+Pot size: 300
+Boasts: Peeberlav, 4h 5d
+Wins: Peeberlav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeberlav
+Small Blind: Peeberlav, chips: 100
+Big Blind: Foemop, chips: 200
+Calls: Peeberlav
+DEBUG MESSAGE: INVALID ACTION FROM Foemop (2 0)
+Folds: Foemop
+Pot size: 400
+Boasts: Peeberlav, 6h 2d
+Wins: Peeberlav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemop
+Small Blind: Foemop, chips: 100
+Big Blind: Peeberlav, chips: 200
+Folds: Foemop
+Pot size: 300
+Boasts: Peeberlav, 9h 2d
+Wins: Peeberlav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeberlav
+Small Blind: Peeberlav, chips: 100
+Big Blind: Foemop, chips: 200
+Calls: Peeberlav
+DEBUG MESSAGE: INVALID ACTION FROM Foemop (2 0)
+Folds: Foemop
+Pot size: 400
+Boasts: Peeberlav, 3s Qc
+Wins: Peeberlav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemop
+Small Blind: Foemop, chips: 100
+Big Blind: Peeberlav, chips: 200
+Flop: Th Kc 6d
+Turn: 5d
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Peeberlav, 7d Jh
+Combination: Peeberlav, High Card ( As Kc Jh Th 7d )
+Shows: Foemop, 3c 2h
+Combination: Foemop, High Card ( As Kc Th 6d 5d )
+Wins: Peeberlav, chips: 300
+Quits: Foemop, chips: 0
+Ranking: Peeberlav, Place: 1, Score: 1000
+Reveal AI: Peeberlav, AI: Random
+Ranking: Foemop, Place: 2, Score: -1000
+Reveal AI: Foemop, AI: AIMyBot1
+
+Player Stats for Foemop, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Peeberlav, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:42
+
+The game begins. The AI's of the players are: 
+Peeberlav: Random
+Foemop: AIMyBot1
+
+Joins: Peeberlav, chips: 1000
+Joins: Foemop, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemop
+Small Blind: Foemop, chips: 100
+Big Blind: Peeberlav, chips: 200
+Folds: Foemop
+Pot size: 300
+Boasts: Peeberlav, Qs Ah
+Wins: Peeberlav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeberlav
+Small Blind: Peeberlav, chips: 100
+Big Blind: Foemop, chips: 200
+Calls: Peeberlav
+DEBUG MESSAGE: INVALID ACTION FROM Foemop (2 0)
+Folds: Foemop
+Pot size: 400
+Boasts: Peeberlav, As 2s
+Wins: Peeberlav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemop
+Small Blind: Foemop, chips: 100
+Big Blind: Peeberlav, chips: 200
+Folds: Foemop
+Pot size: 300
+Boasts: Peeberlav, Qs 3h
+Wins: Peeberlav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeberlav
+Small Blind: Peeberlav, chips: 100
+Big Blind: Foemop, chips: 200
+Folds: Peeberlav
+Pot size: 300
+Boasts: Peeberlav, 9d Tc
+Wins: Foemop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemop
+Small Blind: Foemop, chips: 100
+Big Blind: Peeberlav, chips: 200
+Folds: Foemop
+Pot size: 300
+Boasts: Peeberlav, 4h 5d
+Wins: Peeberlav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeberlav
+Small Blind: Peeberlav, chips: 100
+Big Blind: Foemop, chips: 200
+Calls: Peeberlav
+DEBUG MESSAGE: INVALID ACTION FROM Foemop (2 0)
+Folds: Foemop
+Pot size: 400
+Boasts: Peeberlav, 6h 2d
+Wins: Peeberlav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemop
+Small Blind: Foemop, chips: 100
+Big Blind: Peeberlav, chips: 200
+Folds: Foemop
+Pot size: 300
+Boasts: Peeberlav, 9h 2d
+Wins: Peeberlav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeberlav
+Small Blind: Peeberlav, chips: 100
+Big Blind: Foemop, chips: 200
+Calls: Peeberlav
+DEBUG MESSAGE: INVALID ACTION FROM Foemop (2 0)
+Folds: Foemop
+Pot size: 400
+Boasts: Peeberlav, 3s Qc
+Wins: Peeberlav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foemop
+Small Blind: Foemop, chips: 100
+Big Blind: Peeberlav, chips: 200
+Flop: Th Kc 6d
+Turn: 5d
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Peeberlav, 7d Jh
+Combination: Peeberlav, High Card ( As Kc Jh Th 7d )
+Shows: Foemop, 3c 2h
+Combination: Foemop, High Card ( As Kc Th 6d 5d )
+Wins: Peeberlav, chips: 300
+Quits: Foemop, chips: 0
+Ranking: Peeberlav, Place: 1, Score: 1000
+Reveal AI: Peeberlav, AI: Random
+Ranking: Foemop, Place: 2, Score: -1000
+Reveal AI: Foemop, AI: AIMyBot1
+
+Player Stats for Foemop, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Peeberlav, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

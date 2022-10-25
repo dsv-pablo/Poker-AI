@@ -1,0 +1,372 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gali: Random
+Toenhoev: AIMyBot1
+
+Joins: Gali, chips: 1000
+Joins: Toenhoev, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toenhoev
+Small Blind: Toenhoev, chips: 100
+Big Blind: Gali, chips: 200
+Folds: Toenhoev
+Pot size: 300
+Boasts: Gali, Js 9c
+Wins: Gali, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gali
+Small Blind: Gali, chips: 100
+Big Blind: Toenhoev, chips: 200
+Folds: Gali
+Pot size: 300
+Wins: Toenhoev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toenhoev
+Small Blind: Toenhoev, chips: 100
+Big Blind: Gali, chips: 200
+Folds: Toenhoev
+Pot size: 300
+Boasts: Gali, 8s 4s
+Wins: Gali, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gali
+Small Blind: Gali, chips: 100
+Big Blind: Toenhoev, chips: 200
+Raises: Gali, chips: 300
+Folds: Toenhoev
+Pot size: 700
+Boasts: Gali, 7h 7c
+Wins: Gali, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toenhoev
+Small Blind: Toenhoev, chips: 100
+Big Blind: Gali, chips: 200
+Folds: Toenhoev
+Pot size: 300
+Boasts: Gali, 9c 4c
+Wins: Gali, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gali
+Small Blind: Gali, chips: 100
+Big Blind: Toenhoev, chips: 200
+Calls: Gali
+DEBUG MESSAGE: INVALID ACTION FROM Toenhoev (2 0)
+Folds: Toenhoev
+Pot size: 400
+Boasts: Gali, 2c 5s
+Wins: Gali, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toenhoev
+Small Blind: Toenhoev, chips: 100
+Big Blind: Gali, chips: 200
+Folds: Toenhoev
+Pot size: 300
+Wins: Gali, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gali
+Small Blind: Gali, chips: 100
+Big Blind: Toenhoev, chips: 200
+Calls: Gali
+DEBUG MESSAGE: INVALID ACTION FROM Toenhoev (2 0)
+Folds: Toenhoev
+Pot size: 400
+Wins: Gali, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toenhoev
+Small Blind: Toenhoev, chips: 100
+Big Blind: Gali, chips: 200
+Flop: Ac 9c As
+Turn: Qs
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Gali, 3c 7c
+Combination: Gali, Three Of A Kind ( Ac As Ah Qs 9c )
+Shows: Toenhoev, 2d 9d
+Combination: Toenhoev, Full House ( Ac As Ah 9d 9c )
+Wins: Gali, chips: 100
+Wins: Toenhoev, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gali
+Small Blind: Gali, chips: 100
+Big Blind: Toenhoev, chips: 200
+Flop: 5c 8d 7h
+Turn: Qd
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Gali, Ac 3c
+Combination: Gali, High Card ( Ac Qd 9h 8d 7h )
+Shows: Toenhoev, Th 9d
+Combination: Toenhoev, Pair ( 9d 9h Qd Th 8d )
+Wins: Toenhoev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toenhoev
+Small Blind: Toenhoev, chips: 100
+Big Blind: Gali, chips: 200
+Folds: Toenhoev
+Pot size: 300
+Boasts: Gali, 6d 7s
+Wins: Gali, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gali
+Small Blind: Gali, chips: 100
+Big Blind: Toenhoev, chips: 200
+Flop: Jd 2s 3d
+Turn: 7h
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Gali, 6h Jh
+Combination: Gali, Two Pair ( Jh Jd 3d 3h 7h )
+Shows: Toenhoev, As 3c
+Combination: Toenhoev, Three Of A Kind ( 3c 3d 3h As Jd )
+Wins: Toenhoev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toenhoev
+Small Blind: Toenhoev, chips: 100
+Big Blind: Gali, chips: 200
+Folds: Toenhoev
+Pot size: 300
+Wins: Gali, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gali
+Small Blind: Gali, chips: 100
+Big Blind: Toenhoev, chips: 200
+Flop: 2c 4c Ad
+Turn: 9s
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Gali, 7c Ac
+Combination: Gali, Pair ( Ac Ad Th 9s 7c )
+Shows: Toenhoev, 8d Qc
+Combination: Toenhoev, High Card ( Ad Qc Th 9s 8d )
+Wins: Gali, chips: 200
+Wins: Toenhoev, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toenhoev
+Small Blind: Toenhoev, chips: 100
+Big Blind: Gali, chips: 200
+Flop: 3s 4d 7c
+Turn: 9s
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Gali, Ts 9c
+Combination: Gali, Pair ( 9c 9s Qc Ts 7c )
+Shows: Toenhoev, Jc 6h
+Combination: Toenhoev, High Card ( Qc Jc 9s 7c 6h )
+Wins: Gali, chips: 300
+Quits: Toenhoev, chips: 0
+Ranking: Gali, Place: 1, Score: 1000
+Reveal AI: Gali, AI: Random
+Ranking: Toenhoev, Place: 2, Score: -1000
+Reveal AI: Toenhoev, AI: AIMyBot1
+
+Player Stats for Gali, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+
+Player Stats for Toenhoev, AI: AIMyBot1
+General: deals: 15, actions: 9, preflop actions: 9
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Date: 2022/10/25 13:46:07
+
+The game begins. The AI's of the players are: 
+Gali: Random
+Toenhoev: AIMyBot1
+
+Joins: Gali, chips: 1000
+Joins: Toenhoev, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toenhoev
+Small Blind: Toenhoev, chips: 100
+Big Blind: Gali, chips: 200
+Folds: Toenhoev
+Pot size: 300
+Boasts: Gali, Js 9c
+Wins: Gali, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gali
+Small Blind: Gali, chips: 100
+Big Blind: Toenhoev, chips: 200
+Folds: Gali
+Pot size: 300
+Wins: Toenhoev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toenhoev
+Small Blind: Toenhoev, chips: 100
+Big Blind: Gali, chips: 200
+Folds: Toenhoev
+Pot size: 300
+Boasts: Gali, 8s 4s
+Wins: Gali, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gali
+Small Blind: Gali, chips: 100
+Big Blind: Toenhoev, chips: 200
+Raises: Gali, chips: 300
+Folds: Toenhoev
+Pot size: 700
+Boasts: Gali, 7h 7c
+Wins: Gali, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toenhoev
+Small Blind: Toenhoev, chips: 100
+Big Blind: Gali, chips: 200
+Folds: Toenhoev
+Pot size: 300
+Boasts: Gali, 9c 4c
+Wins: Gali, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gali
+Small Blind: Gali, chips: 100
+Big Blind: Toenhoev, chips: 200
+Calls: Gali
+DEBUG MESSAGE: INVALID ACTION FROM Toenhoev (2 0)
+Folds: Toenhoev
+Pot size: 400
+Boasts: Gali, 2c 5s
+Wins: Gali, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toenhoev
+Small Blind: Toenhoev, chips: 100
+Big Blind: Gali, chips: 200
+Folds: Toenhoev
+Pot size: 300
+Wins: Gali, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gali
+Small Blind: Gali, chips: 100
+Big Blind: Toenhoev, chips: 200
+Calls: Gali
+DEBUG MESSAGE: INVALID ACTION FROM Toenhoev (2 0)
+Folds: Toenhoev
+Pot size: 400
+Wins: Gali, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toenhoev
+Small Blind: Toenhoev, chips: 100
+Big Blind: Gali, chips: 200
+Flop: Ac 9c As
+Turn: Qs
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Gali, 3c 7c
+Combination: Gali, Three Of A Kind ( Ac As Ah Qs 9c )
+Shows: Toenhoev, 2d 9d
+Combination: Toenhoev, Full House ( Ac As Ah 9d 9c )
+Wins: Gali, chips: 100
+Wins: Toenhoev, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gali
+Small Blind: Gali, chips: 100
+Big Blind: Toenhoev, chips: 200
+Flop: 5c 8d 7h
+Turn: Qd
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Gali, Ac 3c
+Combination: Gali, High Card ( Ac Qd 9h 8d 7h )
+Shows: Toenhoev, Th 9d
+Combination: Toenhoev, Pair ( 9d 9h Qd Th 8d )
+Wins: Toenhoev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toenhoev
+Small Blind: Toenhoev, chips: 100
+Big Blind: Gali, chips: 200
+Folds: Toenhoev
+Pot size: 300
+Boasts: Gali, 6d 7s
+Wins: Gali, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gali
+Small Blind: Gali, chips: 100
+Big Blind: Toenhoev, chips: 200
+Flop: Jd 2s 3d
+Turn: 7h
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Gali, 6h Jh
+Combination: Gali, Two Pair ( Jh Jd 3d 3h 7h )
+Shows: Toenhoev, As 3c
+Combination: Toenhoev, Three Of A Kind ( 3c 3d 3h As Jd )
+Wins: Toenhoev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toenhoev
+Small Blind: Toenhoev, chips: 100
+Big Blind: Gali, chips: 200
+Folds: Toenhoev
+Pot size: 300
+Wins: Gali, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gali
+Small Blind: Gali, chips: 100
+Big Blind: Toenhoev, chips: 200
+Flop: 2c 4c Ad
+Turn: 9s
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Gali, 7c Ac
+Combination: Gali, Pair ( Ac Ad Th 9s 7c )
+Shows: Toenhoev, 8d Qc
+Combination: Toenhoev, High Card ( Ad Qc Th 9s 8d )
+Wins: Gali, chips: 200
+Wins: Toenhoev, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toenhoev
+Small Blind: Toenhoev, chips: 100
+Big Blind: Gali, chips: 200
+Flop: 3s 4d 7c
+Turn: 9s
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Gali, Ts 9c
+Combination: Gali, Pair ( 9c 9s Qc Ts 7c )
+Shows: Toenhoev, Jc 6h
+Combination: Toenhoev, High Card ( Qc Jc 9s 7c 6h )
+Wins: Gali, chips: 300
+Quits: Toenhoev, chips: 0
+Ranking: Gali, Place: 1, Score: 1000
+Reveal AI: Gali, AI: Random
+Ranking: Toenhoev, Place: 2, Score: -1000
+Reveal AI: Toenhoev, AI: AIMyBot1
+
+Player Stats for Gali, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+
+Player Stats for Toenhoev, AI: AIMyBot1
+General: deals: 15, actions: 9, preflop actions: 9
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+

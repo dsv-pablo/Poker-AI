@@ -1,0 +1,318 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pawroerlee: AIMyBot1
+Beetome: Random
+
+Joins: Pawroerlee, chips: 1000
+Joins: Beetome, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beetome
+Small Blind: Beetome, chips: 100
+Big Blind: Pawroerlee, chips: 200
+Raises: Beetome, chips: 300
+Folds: Pawroerlee
+Pot size: 700
+Boasts: Beetome, Kc 6c
+Wins: Beetome, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pawroerlee
+Small Blind: Pawroerlee, chips: 100
+Big Blind: Beetome, chips: 200
+Folds: Pawroerlee
+Pot size: 300
+Boasts: Beetome, Js 9h
+Wins: Beetome, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beetome
+Small Blind: Beetome, chips: 100
+Big Blind: Pawroerlee, chips: 200
+Folds: Beetome
+Pot size: 300
+Wins: Pawroerlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pawroerlee
+Small Blind: Pawroerlee, chips: 100
+Big Blind: Beetome, chips: 200
+Folds: Pawroerlee
+Pot size: 300
+Boasts: Beetome, 4c 8d
+Wins: Beetome, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beetome
+Small Blind: Beetome, chips: 100
+Big Blind: Pawroerlee, chips: 200
+Folds: Beetome
+Pot size: 300
+Wins: Pawroerlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pawroerlee
+Small Blind: Pawroerlee, chips: 100
+Big Blind: Beetome, chips: 200
+Folds: Pawroerlee
+Pot size: 300
+Wins: Beetome, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beetome
+Small Blind: Beetome, chips: 100
+Big Blind: Pawroerlee, chips: 200
+Folds: Beetome
+Pot size: 300
+Boasts: Beetome, Qh 5s
+Wins: Pawroerlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pawroerlee
+Small Blind: Pawroerlee, chips: 100
+Big Blind: Beetome, chips: 200
+Folds: Pawroerlee
+Pot size: 300
+Wins: Beetome, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beetome
+Small Blind: Beetome, chips: 100
+Big Blind: Pawroerlee, chips: 200
+Folds: Beetome
+Pot size: 300
+Boasts: Beetome, Kd Td
+Wins: Pawroerlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pawroerlee
+Small Blind: Pawroerlee, chips: 100
+Big Blind: Beetome, chips: 200
+Folds: Pawroerlee
+Pot size: 300
+Wins: Beetome, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beetome
+Small Blind: Beetome, chips: 100
+Big Blind: Pawroerlee, chips: 200
+Calls: Beetome
+DEBUG MESSAGE: INVALID ACTION FROM Pawroerlee (2 0)
+Folds: Pawroerlee
+Pot size: 400
+Boasts: Beetome, Ks 5s
+Wins: Beetome, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pawroerlee
+Small Blind: Pawroerlee, chips: 100
+Big Blind: Beetome, chips: 200
+Folds: Pawroerlee
+Pot size: 300
+Boasts: Beetome, Qc 3c
+Wins: Beetome, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beetome
+Small Blind: Beetome, chips: 100
+Big Blind: Pawroerlee, chips: 200
+Calls: Beetome
+DEBUG MESSAGE: INVALID ACTION FROM Pawroerlee (2 0)
+Folds: Pawroerlee
+Pot size: 400
+Boasts: Beetome, 2h 3c
+Wins: Beetome, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pawroerlee
+Small Blind: Pawroerlee, chips: 100
+Big Blind: Beetome, chips: 200
+Folds: Pawroerlee
+Pot size: 300
+Boasts: Beetome, 3h 3s
+Wins: Beetome, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beetome
+Small Blind: Beetome, chips: 100
+Big Blind: Pawroerlee, chips: 100
+Flop: 6d 2s 3h
+Turn: 5c
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Pawroerlee, Tc Qd
+Combination: Pawroerlee, High Card ( Qd Tc 8s 6d 5c )
+Shows: Beetome, Jc Jd
+Combination: Beetome, Pair ( Jc Jd 8s 6d 5c )
+Wins: Beetome, chips: 200
+Quits: Pawroerlee, chips: 0
+Ranking: Beetome, Place: 1, Score: 1000
+Reveal AI: Beetome, AI: Random
+Ranking: Pawroerlee, Place: 2, Score: -1000
+Reveal AI: Pawroerlee, AI: AIMyBot1
+
+Player Stats for Beetome, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Pawroerlee, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:03
+
+The game begins. The AI's of the players are: 
+Pawroerlee: AIMyBot1
+Beetome: Random
+
+Joins: Pawroerlee, chips: 1000
+Joins: Beetome, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beetome
+Small Blind: Beetome, chips: 100
+Big Blind: Pawroerlee, chips: 200
+Raises: Beetome, chips: 300
+Folds: Pawroerlee
+Pot size: 700
+Boasts: Beetome, Kc 6c
+Wins: Beetome, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pawroerlee
+Small Blind: Pawroerlee, chips: 100
+Big Blind: Beetome, chips: 200
+Folds: Pawroerlee
+Pot size: 300
+Boasts: Beetome, Js 9h
+Wins: Beetome, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beetome
+Small Blind: Beetome, chips: 100
+Big Blind: Pawroerlee, chips: 200
+Folds: Beetome
+Pot size: 300
+Wins: Pawroerlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pawroerlee
+Small Blind: Pawroerlee, chips: 100
+Big Blind: Beetome, chips: 200
+Folds: Pawroerlee
+Pot size: 300
+Boasts: Beetome, 4c 8d
+Wins: Beetome, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beetome
+Small Blind: Beetome, chips: 100
+Big Blind: Pawroerlee, chips: 200
+Folds: Beetome
+Pot size: 300
+Wins: Pawroerlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pawroerlee
+Small Blind: Pawroerlee, chips: 100
+Big Blind: Beetome, chips: 200
+Folds: Pawroerlee
+Pot size: 300
+Wins: Beetome, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beetome
+Small Blind: Beetome, chips: 100
+Big Blind: Pawroerlee, chips: 200
+Folds: Beetome
+Pot size: 300
+Boasts: Beetome, Qh 5s
+Wins: Pawroerlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pawroerlee
+Small Blind: Pawroerlee, chips: 100
+Big Blind: Beetome, chips: 200
+Folds: Pawroerlee
+Pot size: 300
+Wins: Beetome, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beetome
+Small Blind: Beetome, chips: 100
+Big Blind: Pawroerlee, chips: 200
+Folds: Beetome
+Pot size: 300
+Boasts: Beetome, Kd Td
+Wins: Pawroerlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pawroerlee
+Small Blind: Pawroerlee, chips: 100
+Big Blind: Beetome, chips: 200
+Folds: Pawroerlee
+Pot size: 300
+Wins: Beetome, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beetome
+Small Blind: Beetome, chips: 100
+Big Blind: Pawroerlee, chips: 200
+Calls: Beetome
+DEBUG MESSAGE: INVALID ACTION FROM Pawroerlee (2 0)
+Folds: Pawroerlee
+Pot size: 400
+Boasts: Beetome, Ks 5s
+Wins: Beetome, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pawroerlee
+Small Blind: Pawroerlee, chips: 100
+Big Blind: Beetome, chips: 200
+Folds: Pawroerlee
+Pot size: 300
+Boasts: Beetome, Qc 3c
+Wins: Beetome, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beetome
+Small Blind: Beetome, chips: 100
+Big Blind: Pawroerlee, chips: 200
+Calls: Beetome
+DEBUG MESSAGE: INVALID ACTION FROM Pawroerlee (2 0)
+Folds: Pawroerlee
+Pot size: 400
+Boasts: Beetome, 2h 3c
+Wins: Beetome, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pawroerlee
+Small Blind: Pawroerlee, chips: 100
+Big Blind: Beetome, chips: 200
+Folds: Pawroerlee
+Pot size: 300
+Boasts: Beetome, 3h 3s
+Wins: Beetome, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beetome
+Small Blind: Beetome, chips: 100
+Big Blind: Pawroerlee, chips: 100
+Flop: 6d 2s 3h
+Turn: 5c
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Pawroerlee, Tc Qd
+Combination: Pawroerlee, High Card ( Qd Tc 8s 6d 5c )
+Shows: Beetome, Jc Jd
+Combination: Beetome, Pair ( Jc Jd 8s 6d 5c )
+Wins: Beetome, chips: 200
+Quits: Pawroerlee, chips: 0
+Ranking: Beetome, Place: 1, Score: 1000
+Reveal AI: Beetome, AI: Random
+Ranking: Pawroerlee, Place: 2, Score: -1000
+Reveal AI: Pawroerlee, AI: AIMyBot1
+
+Player Stats for Beetome, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Pawroerlee, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

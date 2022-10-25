@@ -1,0 +1,284 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Neetot: AIMyBot1
+Redo: Random
+
+Joins: Neetot, chips: 1000
+Joins: Redo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neetot
+Small Blind: Neetot, chips: 100
+Big Blind: Redo, chips: 200
+Folds: Neetot
+Pot size: 300
+Wins: Redo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Redo
+Small Blind: Redo, chips: 100
+Big Blind: Neetot, chips: 200
+Calls: Redo
+DEBUG MESSAGE: INVALID ACTION FROM Neetot (2 0)
+Folds: Neetot
+Pot size: 400
+Boasts: Redo, Ah 3s
+Wins: Redo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neetot
+Small Blind: Neetot, chips: 100
+Big Blind: Redo, chips: 200
+Folds: Neetot
+Pot size: 300
+Boasts: Redo, 6s 9c
+Wins: Redo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Redo
+Small Blind: Redo, chips: 100
+Big Blind: Neetot, chips: 200
+Folds: Redo
+Pot size: 300
+Wins: Neetot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neetot
+Small Blind: Neetot, chips: 100
+Big Blind: Redo, chips: 200
+Folds: Neetot
+Pot size: 300
+Wins: Redo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Redo
+Small Blind: Redo, chips: 100
+Big Blind: Neetot, chips: 200
+Folds: Redo
+Pot size: 300
+Boasts: Redo, As 9h
+Wins: Neetot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neetot
+Small Blind: Neetot, chips: 100
+Big Blind: Redo, chips: 200
+Folds: Neetot
+Pot size: 300
+Wins: Redo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Redo
+Small Blind: Redo, chips: 100
+Big Blind: Neetot, chips: 200
+Folds: Redo
+Pot size: 300
+Wins: Neetot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neetot
+Small Blind: Neetot, chips: 100
+Big Blind: Redo, chips: 200
+Folds: Neetot
+Pot size: 300
+Boasts: Redo, Ad Ts
+Wins: Redo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Redo
+Small Blind: Redo, chips: 100
+Big Blind: Neetot, chips: 200
+Calls: Redo
+DEBUG MESSAGE: INVALID ACTION FROM Neetot (2 0)
+Folds: Neetot
+Pot size: 400
+Wins: Redo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neetot
+Small Blind: Neetot, chips: 100
+Big Blind: Redo, chips: 200
+Folds: Neetot
+Pot size: 300
+Wins: Redo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Redo
+Small Blind: Redo, chips: 100
+Big Blind: Neetot, chips: 200
+Calls: Redo
+DEBUG MESSAGE: INVALID ACTION FROM Neetot (2 0)
+Folds: Neetot
+Pot size: 400
+Boasts: Redo, 7c 2s
+Wins: Redo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neetot
+Small Blind: Neetot, chips: 100
+Big Blind: Redo, chips: 200
+Flop: 5d Ad 2h
+Turn: 6d
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Neetot, Ks 7c
+Combination: Neetot, High Card ( Ad Ks 8h 7c 6d )
+Shows: Redo, 3h 4d
+Combination: Redo, Straight ( 6d 5d 4d 3h 2h )
+Wins: Redo, chips: 300
+Quits: Neetot, chips: 0
+Ranking: Redo, Place: 1, Score: 1000
+Reveal AI: Redo, AI: Random
+Ranking: Neetot, Place: 2, Score: -1000
+Reveal AI: Neetot, AI: AIMyBot1
+
+Player Stats for Neetot, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 3, showdown: 0, bluff: 3
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Redo, AI: Random
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:19
+
+The game begins. The AI's of the players are: 
+Neetot: AIMyBot1
+Redo: Random
+
+Joins: Neetot, chips: 1000
+Joins: Redo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neetot
+Small Blind: Neetot, chips: 100
+Big Blind: Redo, chips: 200
+Folds: Neetot
+Pot size: 300
+Wins: Redo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Redo
+Small Blind: Redo, chips: 100
+Big Blind: Neetot, chips: 200
+Calls: Redo
+DEBUG MESSAGE: INVALID ACTION FROM Neetot (2 0)
+Folds: Neetot
+Pot size: 400
+Boasts: Redo, Ah 3s
+Wins: Redo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neetot
+Small Blind: Neetot, chips: 100
+Big Blind: Redo, chips: 200
+Folds: Neetot
+Pot size: 300
+Boasts: Redo, 6s 9c
+Wins: Redo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Redo
+Small Blind: Redo, chips: 100
+Big Blind: Neetot, chips: 200
+Folds: Redo
+Pot size: 300
+Wins: Neetot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neetot
+Small Blind: Neetot, chips: 100
+Big Blind: Redo, chips: 200
+Folds: Neetot
+Pot size: 300
+Wins: Redo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Redo
+Small Blind: Redo, chips: 100
+Big Blind: Neetot, chips: 200
+Folds: Redo
+Pot size: 300
+Boasts: Redo, As 9h
+Wins: Neetot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neetot
+Small Blind: Neetot, chips: 100
+Big Blind: Redo, chips: 200
+Folds: Neetot
+Pot size: 300
+Wins: Redo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Redo
+Small Blind: Redo, chips: 100
+Big Blind: Neetot, chips: 200
+Folds: Redo
+Pot size: 300
+Wins: Neetot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neetot
+Small Blind: Neetot, chips: 100
+Big Blind: Redo, chips: 200
+Folds: Neetot
+Pot size: 300
+Boasts: Redo, Ad Ts
+Wins: Redo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Redo
+Small Blind: Redo, chips: 100
+Big Blind: Neetot, chips: 200
+Calls: Redo
+DEBUG MESSAGE: INVALID ACTION FROM Neetot (2 0)
+Folds: Neetot
+Pot size: 400
+Wins: Redo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neetot
+Small Blind: Neetot, chips: 100
+Big Blind: Redo, chips: 200
+Folds: Neetot
+Pot size: 300
+Wins: Redo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Redo
+Small Blind: Redo, chips: 100
+Big Blind: Neetot, chips: 200
+Calls: Redo
+DEBUG MESSAGE: INVALID ACTION FROM Neetot (2 0)
+Folds: Neetot
+Pot size: 400
+Boasts: Redo, 7c 2s
+Wins: Redo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neetot
+Small Blind: Neetot, chips: 100
+Big Blind: Redo, chips: 200
+Flop: 5d Ad 2h
+Turn: 6d
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Neetot, Ks 7c
+Combination: Neetot, High Card ( Ad Ks 8h 7c 6d )
+Shows: Redo, 3h 4d
+Combination: Redo, Straight ( 6d 5d 4d 3h 2h )
+Wins: Redo, chips: 300
+Quits: Neetot, chips: 0
+Ranking: Redo, Place: 1, Score: 1000
+Reveal AI: Redo, AI: Random
+Ranking: Neetot, Place: 2, Score: -1000
+Reveal AI: Neetot, AI: AIMyBot1
+
+Player Stats for Neetot, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 3, showdown: 0, bluff: 3
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Redo, AI: Random
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

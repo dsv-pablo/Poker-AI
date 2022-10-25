@@ -1,0 +1,364 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hiha: Random
+Chuna: AIMyBot1
+
+Joins: Hiha, chips: 1000
+Joins: Chuna, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuna
+Small Blind: Chuna, chips: 100
+Big Blind: Hiha, chips: 200
+Folds: Chuna
+Pot size: 300
+Boasts: Hiha, 3h 4h
+Wins: Hiha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hiha
+Small Blind: Hiha, chips: 100
+Big Blind: Chuna, chips: 200
+Raises: Hiha, chips: 300
+Folds: Chuna
+Pot size: 700
+Wins: Hiha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuna
+Small Blind: Chuna, chips: 100
+Big Blind: Hiha, chips: 200
+Folds: Chuna
+Pot size: 300
+Wins: Hiha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hiha
+Small Blind: Hiha, chips: 100
+Big Blind: Chuna, chips: 200
+Raises: Hiha, chips: 300
+Folds: Chuna
+Pot size: 700
+Boasts: Hiha, 8d 9c
+Wins: Hiha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuna
+Small Blind: Chuna, chips: 100
+Big Blind: Hiha, chips: 200
+Folds: Chuna
+Pot size: 300
+Wins: Hiha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hiha
+Small Blind: Hiha, chips: 100
+Big Blind: Chuna, chips: 200
+Folds: Hiha
+Pot size: 300
+Wins: Chuna, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuna
+Small Blind: Chuna, chips: 100
+Big Blind: Hiha, chips: 200
+Folds: Chuna
+Pot size: 300
+Wins: Hiha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hiha
+Small Blind: Hiha, chips: 100
+Big Blind: Chuna, chips: 200
+Calls: Hiha
+DEBUG MESSAGE: INVALID ACTION FROM Chuna (2 0)
+Folds: Chuna
+Pot size: 400
+Wins: Hiha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuna
+Small Blind: Chuna, chips: 100
+Big Blind: Hiha, chips: 200
+Flop: 5s 5c 8h
+Turn: Qh
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Hiha, Jc 3d
+Combination: Hiha, Pair ( 5s 5c Qh Jc 8h )
+Shows: Chuna, Ad Js
+Combination: Chuna, Pair ( 5s 5c Ad Qh Js )
+Wins: Hiha, chips: 100
+Wins: Chuna, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hiha
+Small Blind: Hiha, chips: 100
+Big Blind: Chuna, chips: 200
+Flop: 4s 8c 8d
+Turn: 6h
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Hiha, Qc 9d
+Combination: Hiha, Pair ( 8c 8d Ah Qc 9d )
+Shows: Chuna, 4h Kd
+Combination: Chuna, Two Pair ( 8c 8d 4h 4s Ah )
+Wins: Chuna, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuna
+Small Blind: Chuna, chips: 100
+Big Blind: Hiha, chips: 200
+Folds: Chuna
+Pot size: 300
+Wins: Hiha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hiha
+Small Blind: Hiha, chips: 100
+Big Blind: Chuna, chips: 200
+Flop: 5h 6c 7d
+Turn: Ad
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Hiha, 5c 8d
+Combination: Hiha, Pair ( 5c 5h Ad Ts 8d )
+Shows: Chuna, 8s 4d
+Combination: Chuna, Straight ( 8s 7d 6c 5h 4d )
+Wins: Chuna, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuna
+Small Blind: Chuna, chips: 100
+Big Blind: Hiha, chips: 200
+Folds: Chuna
+Pot size: 300
+Boasts: Hiha, 9c Ah
+Wins: Hiha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hiha
+Small Blind: Hiha, chips: 100
+Big Blind: Chuna, chips: 200
+Flop: 6h 3s 9c
+Turn: Ac
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Hiha, 9s 3c
+Combination: Hiha, Two Pair ( 9s 9c 3c 3s Ac )
+Shows: Chuna, 9h Qh
+Combination: Chuna, Pair ( 9h 9c Ac Qh Jc )
+Wins: Hiha, chips: 200
+Wins: Chuna, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuna
+Small Blind: Chuna, chips: 100
+Big Blind: Hiha, chips: 200
+Flop: 5s 7d 2h
+Turn: Kd
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Hiha, 9h Ks
+Combination: Hiha, Pair ( Ks Kd Jc 9h 7d )
+Shows: Chuna, Ac 7c
+Combination: Chuna, Pair ( 7c 7d Ac Kd Jc )
+Wins: Hiha, chips: 300
+Quits: Chuna, chips: 0
+Ranking: Hiha, Place: 1, Score: 1000
+Reveal AI: Hiha, AI: Random
+Ranking: Chuna, Place: 2, Score: -1000
+Reveal AI: Chuna, AI: AIMyBot1
+
+Player Stats for Chuna, AI: AIMyBot1
+General: deals: 15, actions: 9, preflop actions: 9
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Hiha, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+
+Date: 2022/10/25 13:46:01
+
+The game begins. The AI's of the players are: 
+Hiha: Random
+Chuna: AIMyBot1
+
+Joins: Hiha, chips: 1000
+Joins: Chuna, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuna
+Small Blind: Chuna, chips: 100
+Big Blind: Hiha, chips: 200
+Folds: Chuna
+Pot size: 300
+Boasts: Hiha, 3h 4h
+Wins: Hiha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hiha
+Small Blind: Hiha, chips: 100
+Big Blind: Chuna, chips: 200
+Raises: Hiha, chips: 300
+Folds: Chuna
+Pot size: 700
+Wins: Hiha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuna
+Small Blind: Chuna, chips: 100
+Big Blind: Hiha, chips: 200
+Folds: Chuna
+Pot size: 300
+Wins: Hiha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hiha
+Small Blind: Hiha, chips: 100
+Big Blind: Chuna, chips: 200
+Raises: Hiha, chips: 300
+Folds: Chuna
+Pot size: 700
+Boasts: Hiha, 8d 9c
+Wins: Hiha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuna
+Small Blind: Chuna, chips: 100
+Big Blind: Hiha, chips: 200
+Folds: Chuna
+Pot size: 300
+Wins: Hiha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hiha
+Small Blind: Hiha, chips: 100
+Big Blind: Chuna, chips: 200
+Folds: Hiha
+Pot size: 300
+Wins: Chuna, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuna
+Small Blind: Chuna, chips: 100
+Big Blind: Hiha, chips: 200
+Folds: Chuna
+Pot size: 300
+Wins: Hiha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hiha
+Small Blind: Hiha, chips: 100
+Big Blind: Chuna, chips: 200
+Calls: Hiha
+DEBUG MESSAGE: INVALID ACTION FROM Chuna (2 0)
+Folds: Chuna
+Pot size: 400
+Wins: Hiha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuna
+Small Blind: Chuna, chips: 100
+Big Blind: Hiha, chips: 200
+Flop: 5s 5c 8h
+Turn: Qh
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Hiha, Jc 3d
+Combination: Hiha, Pair ( 5s 5c Qh Jc 8h )
+Shows: Chuna, Ad Js
+Combination: Chuna, Pair ( 5s 5c Ad Qh Js )
+Wins: Hiha, chips: 100
+Wins: Chuna, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hiha
+Small Blind: Hiha, chips: 100
+Big Blind: Chuna, chips: 200
+Flop: 4s 8c 8d
+Turn: 6h
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Hiha, Qc 9d
+Combination: Hiha, Pair ( 8c 8d Ah Qc 9d )
+Shows: Chuna, 4h Kd
+Combination: Chuna, Two Pair ( 8c 8d 4h 4s Ah )
+Wins: Chuna, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuna
+Small Blind: Chuna, chips: 100
+Big Blind: Hiha, chips: 200
+Folds: Chuna
+Pot size: 300
+Wins: Hiha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hiha
+Small Blind: Hiha, chips: 100
+Big Blind: Chuna, chips: 200
+Flop: 5h 6c 7d
+Turn: Ad
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Hiha, 5c 8d
+Combination: Hiha, Pair ( 5c 5h Ad Ts 8d )
+Shows: Chuna, 8s 4d
+Combination: Chuna, Straight ( 8s 7d 6c 5h 4d )
+Wins: Chuna, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuna
+Small Blind: Chuna, chips: 100
+Big Blind: Hiha, chips: 200
+Folds: Chuna
+Pot size: 300
+Boasts: Hiha, 9c Ah
+Wins: Hiha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hiha
+Small Blind: Hiha, chips: 100
+Big Blind: Chuna, chips: 200
+Flop: 6h 3s 9c
+Turn: Ac
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Hiha, 9s 3c
+Combination: Hiha, Two Pair ( 9s 9c 3c 3s Ac )
+Shows: Chuna, 9h Qh
+Combination: Chuna, Pair ( 9h 9c Ac Qh Jc )
+Wins: Hiha, chips: 200
+Wins: Chuna, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuna
+Small Blind: Chuna, chips: 100
+Big Blind: Hiha, chips: 200
+Flop: 5s 7d 2h
+Turn: Kd
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Hiha, 9h Ks
+Combination: Hiha, Pair ( Ks Kd Jc 9h 7d )
+Shows: Chuna, Ac 7c
+Combination: Chuna, Pair ( 7c 7d Ac Kd Jc )
+Wins: Hiha, chips: 300
+Quits: Chuna, chips: 0
+Ranking: Hiha, Place: 1, Score: 1000
+Reveal AI: Hiha, AI: Random
+Ranking: Chuna, Place: 2, Score: -1000
+Reveal AI: Chuna, AI: AIMyBot1
+
+Player Stats for Chuna, AI: AIMyBot1
+General: deals: 15, actions: 9, preflop actions: 9
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Hiha, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+

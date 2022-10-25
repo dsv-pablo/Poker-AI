@@ -1,0 +1,242 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Voenhi: AIMyBot1
+Rugo: Random
+
+Joins: Voenhi, chips: 1000
+Joins: Rugo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugo
+Small Blind: Rugo, chips: 100
+Big Blind: Voenhi, chips: 200
+Raises: Rugo, chips: 300
+Folds: Voenhi
+Pot size: 700
+Boasts: Rugo, 2d 6h
+Wins: Rugo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhi
+Small Blind: Voenhi, chips: 100
+Big Blind: Rugo, chips: 200
+Folds: Voenhi
+Pot size: 300
+Boasts: Rugo, Qc 6h
+Wins: Rugo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugo
+Small Blind: Rugo, chips: 100
+Big Blind: Voenhi, chips: 200
+Calls: Rugo
+DEBUG MESSAGE: INVALID ACTION FROM Voenhi (2 0)
+Folds: Voenhi
+Pot size: 400
+Wins: Rugo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhi
+Small Blind: Voenhi, chips: 100
+Big Blind: Rugo, chips: 200
+Folds: Voenhi
+Pot size: 300
+Boasts: Rugo, Ad Ah
+Wins: Rugo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugo
+Small Blind: Rugo, chips: 100
+Big Blind: Voenhi, chips: 200
+Calls: Rugo
+DEBUG MESSAGE: INVALID ACTION FROM Voenhi (2 0)
+Folds: Voenhi
+Pot size: 400
+Boasts: Rugo, 4s 6c
+Wins: Rugo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhi
+Small Blind: Voenhi, chips: 100
+Big Blind: Rugo, chips: 200
+Folds: Voenhi
+Pot size: 300
+Boasts: Rugo, 9d Jd
+Wins: Rugo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugo
+Small Blind: Rugo, chips: 100
+Big Blind: Voenhi, chips: 100
+Flop: 3c Td Jh
+Turn: 5c
+River: 2c
+Pot size: 200
+Showdown Reached
+Shows: Voenhi, Jd 3h
+Combination: Voenhi, Two Pair ( Jd Jh 3h 3c Td )
+Shows: Rugo, Kh Qs
+Combination: Rugo, High Card ( Kh Qs Jh Td 5c )
+Wins: Voenhi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhi
+Small Blind: Voenhi, chips: 100
+Big Blind: Rugo, chips: 200
+Folds: Voenhi
+Pot size: 300
+Boasts: Rugo, 3c 4d
+Wins: Rugo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugo
+Small Blind: Rugo, chips: 100
+Big Blind: Voenhi, chips: 100
+Flop: Jh Ts Qd
+Turn: 2h
+River: 3d
+Pot size: 200
+Showdown Reached
+Shows: Voenhi, 5h 7h
+Combination: Voenhi, High Card ( Qd Jh Ts 7h 5h )
+Shows: Rugo, Kc 2s
+Combination: Rugo, Pair ( 2s 2h Kc Qd Jh )
+Wins: Rugo, chips: 200
+Quits: Voenhi, chips: 0
+Ranking: Rugo, Place: 1, Score: 1000
+Reveal AI: Rugo, AI: Random
+Ranking: Voenhi, Place: 2, Score: -1000
+Reveal AI: Voenhi, AI: AIMyBot1
+
+Player Stats for Rugo, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Voenhi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:20
+
+The game begins. The AI's of the players are: 
+Voenhi: AIMyBot1
+Rugo: Random
+
+Joins: Voenhi, chips: 1000
+Joins: Rugo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugo
+Small Blind: Rugo, chips: 100
+Big Blind: Voenhi, chips: 200
+Raises: Rugo, chips: 300
+Folds: Voenhi
+Pot size: 700
+Boasts: Rugo, 2d 6h
+Wins: Rugo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhi
+Small Blind: Voenhi, chips: 100
+Big Blind: Rugo, chips: 200
+Folds: Voenhi
+Pot size: 300
+Boasts: Rugo, Qc 6h
+Wins: Rugo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugo
+Small Blind: Rugo, chips: 100
+Big Blind: Voenhi, chips: 200
+Calls: Rugo
+DEBUG MESSAGE: INVALID ACTION FROM Voenhi (2 0)
+Folds: Voenhi
+Pot size: 400
+Wins: Rugo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhi
+Small Blind: Voenhi, chips: 100
+Big Blind: Rugo, chips: 200
+Folds: Voenhi
+Pot size: 300
+Boasts: Rugo, Ad Ah
+Wins: Rugo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugo
+Small Blind: Rugo, chips: 100
+Big Blind: Voenhi, chips: 200
+Calls: Rugo
+DEBUG MESSAGE: INVALID ACTION FROM Voenhi (2 0)
+Folds: Voenhi
+Pot size: 400
+Boasts: Rugo, 4s 6c
+Wins: Rugo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhi
+Small Blind: Voenhi, chips: 100
+Big Blind: Rugo, chips: 200
+Folds: Voenhi
+Pot size: 300
+Boasts: Rugo, 9d Jd
+Wins: Rugo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugo
+Small Blind: Rugo, chips: 100
+Big Blind: Voenhi, chips: 100
+Flop: 3c Td Jh
+Turn: 5c
+River: 2c
+Pot size: 200
+Showdown Reached
+Shows: Voenhi, Jd 3h
+Combination: Voenhi, Two Pair ( Jd Jh 3h 3c Td )
+Shows: Rugo, Kh Qs
+Combination: Rugo, High Card ( Kh Qs Jh Td 5c )
+Wins: Voenhi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voenhi
+Small Blind: Voenhi, chips: 100
+Big Blind: Rugo, chips: 200
+Folds: Voenhi
+Pot size: 300
+Boasts: Rugo, 3c 4d
+Wins: Rugo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rugo
+Small Blind: Rugo, chips: 100
+Big Blind: Voenhi, chips: 100
+Flop: Jh Ts Qd
+Turn: 2h
+River: 3d
+Pot size: 200
+Showdown Reached
+Shows: Voenhi, 5h 7h
+Combination: Voenhi, High Card ( Qd Jh Ts 7h 5h )
+Shows: Rugo, Kc 2s
+Combination: Rugo, Pair ( 2s 2h Kc Qd Jh )
+Wins: Rugo, chips: 200
+Quits: Voenhi, chips: 0
+Ranking: Rugo, Place: 1, Score: 1000
+Reveal AI: Rugo, AI: Random
+Ranking: Voenhi, Place: 2, Score: -1000
+Reveal AI: Voenhi, AI: AIMyBot1
+
+Player Stats for Rugo, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Voenhi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

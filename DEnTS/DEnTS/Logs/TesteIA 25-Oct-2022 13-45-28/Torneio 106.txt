@@ -1,0 +1,368 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Chinees: AIMyBot1
+Juchas: Random
+
+Joins: Chinees, chips: 1000
+Joins: Juchas, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 200
+Calls: Juchas
+DEBUG MESSAGE: INVALID ACTION FROM Chinees (2 0)
+Folds: Chinees
+Pot size: 400
+Wins: Juchas, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinees
+Small Blind: Chinees, chips: 100
+Big Blind: Juchas, chips: 200
+Folds: Chinees
+Pot size: 300
+Wins: Juchas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 200
+Folds: Juchas
+Pot size: 300
+Wins: Chinees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinees
+Small Blind: Chinees, chips: 100
+Big Blind: Juchas, chips: 200
+Folds: Chinees
+Pot size: 300
+Boasts: Juchas, Ah As
+Wins: Juchas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 200
+Calls: Juchas
+DEBUG MESSAGE: INVALID ACTION FROM Chinees (2 0)
+Folds: Chinees
+Pot size: 400
+Wins: Juchas, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinees
+Small Blind: Chinees, chips: 100
+Big Blind: Juchas, chips: 200
+Folds: Chinees
+Pot size: 300
+Boasts: Juchas, 5c Tc
+Wins: Juchas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 200
+Folds: Juchas
+Pot size: 300
+Boasts: Juchas, Td 9c
+Wins: Chinees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinees
+Small Blind: Chinees, chips: 100
+Big Blind: Juchas, chips: 200
+Folds: Chinees
+Pot size: 300
+Boasts: Juchas, 7c 7d
+Wins: Juchas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 200
+Raises: Juchas, chips: 300
+Calls: Chinees
+Flop: 6d 8c 9h
+Turn: 6h
+River: Kh
+Pot size: 900
+Showdown Reached
+Shows: Chinees, 4d 9s
+Combination: Chinees, Two Pair ( 9s 9h 6d 6h Kh )
+Shows: Juchas, Qs 3c
+Combination: Juchas, Pair ( 6d 6h Kh Qs 9h )
+Wins: Chinees, chips: 800
+Wins: Juchas, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinees
+Small Blind: Chinees, chips: 100
+Big Blind: Juchas, chips: 200
+Folds: Chinees
+Pot size: 300
+Boasts: Juchas, Ah 7s
+Wins: Juchas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 200
+Calls: Juchas
+DEBUG MESSAGE: INVALID ACTION FROM Chinees (2 0)
+Folds: Chinees
+Pot size: 400
+Wins: Juchas, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinees
+Small Blind: Chinees, chips: 100
+Big Blind: Juchas, chips: 200
+Folds: Chinees
+Pot size: 300
+Boasts: Juchas, 3s Qh
+Wins: Juchas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 200
+Folds: Juchas
+Pot size: 300
+Wins: Chinees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinees
+Small Blind: Chinees, chips: 100
+Big Blind: Juchas, chips: 200
+Folds: Chinees
+Pot size: 300
+Wins: Juchas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 200
+Calls: Juchas
+DEBUG MESSAGE: INVALID ACTION FROM Chinees (2 0)
+Folds: Chinees
+Pot size: 400
+Wins: Juchas, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinees
+Small Blind: Chinees, chips: 100
+Big Blind: Juchas, chips: 200
+Folds: Chinees
+Pot size: 300
+Boasts: Juchas, As 6s
+Wins: Juchas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 100
+Flop: 5c Ah Kc
+Turn: 8s
+River: 8c
+Pot size: 200
+Showdown Reached
+Shows: Chinees, 4d 2s
+Combination: Chinees, Pair ( 8s 8c Ah Kc 5c )
+Shows: Juchas, Jh 2c
+Combination: Juchas, Pair ( 8s 8c Ah Kc Jh )
+Wins: Juchas, chips: 200
+Quits: Chinees, chips: 0
+Ranking: Juchas, Place: 1, Score: 1000
+Reveal AI: Juchas, AI: Random
+Ranking: Chinees, Place: 2, Score: -1000
+Reveal AI: Chinees, AI: AIMyBot1
+
+Player Stats for Chinees, AI: AIMyBot1
+General: deals: 17, actions: 13, preflop actions: 13
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 4, showdown: 1, bluff: 3
+Chips: won: 1700, lost: 2800, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.0588235, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Juchas, AI: Random
+General: deals: 17, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 14, showdown: 2, bluff: 12
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.294118, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:37
+
+The game begins. The AI's of the players are: 
+Chinees: AIMyBot1
+Juchas: Random
+
+Joins: Chinees, chips: 1000
+Joins: Juchas, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 200
+Calls: Juchas
+DEBUG MESSAGE: INVALID ACTION FROM Chinees (2 0)
+Folds: Chinees
+Pot size: 400
+Wins: Juchas, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinees
+Small Blind: Chinees, chips: 100
+Big Blind: Juchas, chips: 200
+Folds: Chinees
+Pot size: 300
+Wins: Juchas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 200
+Folds: Juchas
+Pot size: 300
+Wins: Chinees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinees
+Small Blind: Chinees, chips: 100
+Big Blind: Juchas, chips: 200
+Folds: Chinees
+Pot size: 300
+Boasts: Juchas, Ah As
+Wins: Juchas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 200
+Calls: Juchas
+DEBUG MESSAGE: INVALID ACTION FROM Chinees (2 0)
+Folds: Chinees
+Pot size: 400
+Wins: Juchas, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinees
+Small Blind: Chinees, chips: 100
+Big Blind: Juchas, chips: 200
+Folds: Chinees
+Pot size: 300
+Boasts: Juchas, 5c Tc
+Wins: Juchas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 200
+Folds: Juchas
+Pot size: 300
+Boasts: Juchas, Td 9c
+Wins: Chinees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinees
+Small Blind: Chinees, chips: 100
+Big Blind: Juchas, chips: 200
+Folds: Chinees
+Pot size: 300
+Boasts: Juchas, 7c 7d
+Wins: Juchas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 200
+Raises: Juchas, chips: 300
+Calls: Chinees
+Flop: 6d 8c 9h
+Turn: 6h
+River: Kh
+Pot size: 900
+Showdown Reached
+Shows: Chinees, 4d 9s
+Combination: Chinees, Two Pair ( 9s 9h 6d 6h Kh )
+Shows: Juchas, Qs 3c
+Combination: Juchas, Pair ( 6d 6h Kh Qs 9h )
+Wins: Chinees, chips: 800
+Wins: Juchas, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinees
+Small Blind: Chinees, chips: 100
+Big Blind: Juchas, chips: 200
+Folds: Chinees
+Pot size: 300
+Boasts: Juchas, Ah 7s
+Wins: Juchas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 200
+Calls: Juchas
+DEBUG MESSAGE: INVALID ACTION FROM Chinees (2 0)
+Folds: Chinees
+Pot size: 400
+Wins: Juchas, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinees
+Small Blind: Chinees, chips: 100
+Big Blind: Juchas, chips: 200
+Folds: Chinees
+Pot size: 300
+Boasts: Juchas, 3s Qh
+Wins: Juchas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 200
+Folds: Juchas
+Pot size: 300
+Wins: Chinees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinees
+Small Blind: Chinees, chips: 100
+Big Blind: Juchas, chips: 200
+Folds: Chinees
+Pot size: 300
+Wins: Juchas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 200
+Calls: Juchas
+DEBUG MESSAGE: INVALID ACTION FROM Chinees (2 0)
+Folds: Chinees
+Pot size: 400
+Wins: Juchas, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chinees
+Small Blind: Chinees, chips: 100
+Big Blind: Juchas, chips: 200
+Folds: Chinees
+Pot size: 300
+Boasts: Juchas, As 6s
+Wins: Juchas, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juchas
+Small Blind: Juchas, chips: 100
+Big Blind: Chinees, chips: 100
+Flop: 5c Ah Kc
+Turn: 8s
+River: 8c
+Pot size: 200
+Showdown Reached
+Shows: Chinees, 4d 2s
+Combination: Chinees, Pair ( 8s 8c Ah Kc 5c )
+Shows: Juchas, Jh 2c
+Combination: Juchas, Pair ( 8s 8c Ah Kc Jh )
+Wins: Juchas, chips: 200
+Quits: Chinees, chips: 0
+Ranking: Juchas, Place: 1, Score: 1000
+Reveal AI: Juchas, AI: Random
+Ranking: Chinees, Place: 2, Score: -1000
+Reveal AI: Chinees, AI: AIMyBot1
+
+Player Stats for Chinees, AI: AIMyBot1
+General: deals: 17, actions: 13, preflop actions: 13
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 4, showdown: 1, bluff: 3
+Chips: won: 1700, lost: 2800, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.0588235, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Juchas, AI: Random
+General: deals: 17, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 14, showdown: 2, bluff: 12
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.294118, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

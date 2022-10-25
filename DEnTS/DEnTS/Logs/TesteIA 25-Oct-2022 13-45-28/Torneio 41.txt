@@ -1,0 +1,578 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wodeek: Random
+Hee: AIMyBot1
+
+Joins: Wodeek, chips: 1000
+Joins: Hee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Folds: Wodeek
+Pot size: 300
+Boasts: Wodeek, 2h Qc
+Wins: Hee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Boasts: Wodeek, 8c 6h
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Folds: Wodeek
+Pot size: 300
+Boasts: Wodeek, 2d 9c
+Wins: Hee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Boasts: Wodeek, 4h 9h
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Raises: Wodeek, chips: 300
+Folds: Hee
+Pot size: 700
+Boasts: Wodeek, Td 6s
+Wins: Wodeek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Boasts: Wodeek, 9c As
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Calls: Wodeek
+DEBUG MESSAGE: INVALID ACTION FROM Hee (2 0)
+Folds: Hee
+Pot size: 400
+Wins: Wodeek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Raises: Wodeek, chips: 300
+Folds: Hee
+Pot size: 700
+Boasts: Wodeek, Th 2d
+Wins: Wodeek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Flop: 7d 4s Jd
+Turn: Qd
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Wodeek, Ac Td
+Combination: Wodeek, High Card ( Ac Qd Jd Td 9c )
+Shows: Hee, 9s 7h
+Combination: Hee, Two Pair ( 9s 9c 7h 7d Qd )
+Wins: Wodeek, chips: 100
+Wins: Hee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Flop: 7s Th Tc
+Turn: 4c
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Wodeek, Js Ks
+Combination: Wodeek, Three Of A Kind ( Th Tc Td Ks Js )
+Shows: Hee, Jd 5s
+Combination: Hee, Three Of A Kind ( Th Tc Td Jd 7s )
+Wins: Wodeek, chips: 200
+Wins: Hee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Flop: 2h 5c Ac
+Turn: 2d
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Wodeek, 5s Kd
+Combination: Wodeek, Two Pair ( 5s 5c 2h 2d Ac )
+Shows: Hee, Ks Qc
+Combination: Hee, Two Pair ( Qc Qs 2h 2d Ac )
+Wins: Wodeek, chips: 100
+Wins: Hee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Flop: Ks 8s 9c
+Turn: Th
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Wodeek, 5d Ts
+Combination: Wodeek, Pair ( Ts Th Ks 9c 8s )
+Shows: Hee, 8d 3d
+Combination: Hee, Pair ( 8d 8s Ks Th 9c )
+Wins: Wodeek, chips: 200
+Wins: Hee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Flop: Td Kc 6h
+Turn: Kd
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Wodeek, Qh Ad
+Combination: Wodeek, Two Pair ( Kc Kd Td Th Ad )
+Shows: Hee, 6d Kh
+Combination: Hee, Full House ( Kh Kc Kd Td Th )
+Wins: Wodeek, chips: 100
+Wins: Hee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Flop: 3h Ts Kc
+Turn: 4d
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Wodeek, Js 6s
+Combination: Wodeek, High Card ( Kc Js Ts 9c 6s )
+Shows: Hee, Ks 6d
+Combination: Hee, Pair ( Ks Kc Ts 9c 6d )
+Wins: Hee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Flop: Ac 5c 9c
+Turn: 4c
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Wodeek, 2c Ks
+Combination: Wodeek, Flush ( Ac Tc 9c 5c 4c )
+Shows: Hee, 7s Jd
+Combination: Hee, Flush ( Ac Tc 9c 5c 4c )
+Wins: Wodeek, chips: 100
+Wins: Hee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 100
+Flop: Qs 3h Kc
+Turn: 2c
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Wodeek, 6c 9h
+Combination: Wodeek, High Card ( As Kc Qs 9h 6c )
+Shows: Hee, 8c Jc
+Combination: Hee, High Card ( As Kc Qs Jc 8c )
+Wins: Hee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 100
+Flop: Ac 4h Kh
+Turn: 8s
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Wodeek, Kc Js
+Combination: Wodeek, Two Pair ( Kc Kh 4h 4c Ac )
+Shows: Hee, As 9s
+Combination: Hee, Two Pair ( As Ac 4h 4c Kh )
+Wins: Hee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Boasts: Wodeek, Th 4d
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 100
+Flop: 7h 6h 6s
+Turn: Ac
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Wodeek, 7s As
+Combination: Wodeek, Two Pair ( As Ac 7s 7h 6h )
+Shows: Hee, 7c Jh
+Combination: Hee, Two Pair ( 7c 7h 6h 6s Ac )
+Wins: Wodeek, chips: 200
+Quits: Hee, chips: 0
+Ranking: Wodeek, Place: 1, Score: 1000
+Reveal AI: Wodeek, AI: Random
+Ranking: Hee, Place: 2, Score: -1000
+Reveal AI: Hee, AI: AIMyBot1
+
+Player Stats for Hee, AI: AIMyBot1
+General: deals: 24, actions: 12, preflop actions: 12
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 11, showdown: 9, bluff: 2
+Chips: won: 2300, lost: 3300, bought: 1000, forced bets: 3300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9
+
+
+Player Stats for Wodeek, AI: Random
+General: deals: 24, actions: 5, preflop actions: 5
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 19, showdown: 7, bluff: 12
+Chips: won: 5500, lost: 4500, bought: 1000, forced bets: 3600
+Pre-Flop Stats: VP$IP: 0.125, PFR: 0.0833333, 3Bet: 0.0833333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.7
+
+
+Date: 2022/10/25 13:45:32
+
+The game begins. The AI's of the players are: 
+Wodeek: Random
+Hee: AIMyBot1
+
+Joins: Wodeek, chips: 1000
+Joins: Hee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Folds: Wodeek
+Pot size: 300
+Boasts: Wodeek, 2h Qc
+Wins: Hee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Boasts: Wodeek, 8c 6h
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Folds: Wodeek
+Pot size: 300
+Boasts: Wodeek, 2d 9c
+Wins: Hee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Boasts: Wodeek, 4h 9h
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Raises: Wodeek, chips: 300
+Folds: Hee
+Pot size: 700
+Boasts: Wodeek, Td 6s
+Wins: Wodeek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Boasts: Wodeek, 9c As
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Calls: Wodeek
+DEBUG MESSAGE: INVALID ACTION FROM Hee (2 0)
+Folds: Hee
+Pot size: 400
+Wins: Wodeek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Raises: Wodeek, chips: 300
+Folds: Hee
+Pot size: 700
+Boasts: Wodeek, Th 2d
+Wins: Wodeek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Flop: 7d 4s Jd
+Turn: Qd
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Wodeek, Ac Td
+Combination: Wodeek, High Card ( Ac Qd Jd Td 9c )
+Shows: Hee, 9s 7h
+Combination: Hee, Two Pair ( 9s 9c 7h 7d Qd )
+Wins: Wodeek, chips: 100
+Wins: Hee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Flop: 7s Th Tc
+Turn: 4c
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Wodeek, Js Ks
+Combination: Wodeek, Three Of A Kind ( Th Tc Td Ks Js )
+Shows: Hee, Jd 5s
+Combination: Hee, Three Of A Kind ( Th Tc Td Jd 7s )
+Wins: Wodeek, chips: 200
+Wins: Hee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Flop: 2h 5c Ac
+Turn: 2d
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Wodeek, 5s Kd
+Combination: Wodeek, Two Pair ( 5s 5c 2h 2d Ac )
+Shows: Hee, Ks Qc
+Combination: Hee, Two Pair ( Qc Qs 2h 2d Ac )
+Wins: Wodeek, chips: 100
+Wins: Hee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Flop: Ks 8s 9c
+Turn: Th
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Wodeek, 5d Ts
+Combination: Wodeek, Pair ( Ts Th Ks 9c 8s )
+Shows: Hee, 8d 3d
+Combination: Hee, Pair ( 8d 8s Ks Th 9c )
+Wins: Wodeek, chips: 200
+Wins: Hee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Flop: Td Kc 6h
+Turn: Kd
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Wodeek, Qh Ad
+Combination: Wodeek, Two Pair ( Kc Kd Td Th Ad )
+Shows: Hee, 6d Kh
+Combination: Hee, Full House ( Kh Kc Kd Td Th )
+Wins: Wodeek, chips: 100
+Wins: Hee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Flop: 3h Ts Kc
+Turn: 4d
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Wodeek, Js 6s
+Combination: Wodeek, High Card ( Kc Js Ts 9c 6s )
+Shows: Hee, Ks 6d
+Combination: Hee, Pair ( Ks Kc Ts 9c 6d )
+Wins: Hee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 200
+Flop: Ac 5c 9c
+Turn: 4c
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Wodeek, 2c Ks
+Combination: Wodeek, Flush ( Ac Tc 9c 5c 4c )
+Shows: Hee, 7s Jd
+Combination: Hee, Flush ( Ac Tc 9c 5c 4c )
+Wins: Wodeek, chips: 100
+Wins: Hee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 100
+Flop: Qs 3h Kc
+Turn: 2c
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Wodeek, 6c 9h
+Combination: Wodeek, High Card ( As Kc Qs 9h 6c )
+Shows: Hee, 8c Jc
+Combination: Hee, High Card ( As Kc Qs Jc 8c )
+Wins: Hee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 100
+Flop: Ac 4h Kh
+Turn: 8s
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Wodeek, Kc Js
+Combination: Wodeek, Two Pair ( Kc Kh 4h 4c Ac )
+Shows: Hee, As 9s
+Combination: Hee, Two Pair ( As Ac 4h 4c Kh )
+Wins: Hee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hee
+Small Blind: Hee, chips: 100
+Big Blind: Wodeek, chips: 200
+Folds: Hee
+Pot size: 300
+Boasts: Wodeek, Th 4d
+Wins: Wodeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wodeek
+Small Blind: Wodeek, chips: 100
+Big Blind: Hee, chips: 100
+Flop: 7h 6h 6s
+Turn: Ac
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Wodeek, 7s As
+Combination: Wodeek, Two Pair ( As Ac 7s 7h 6h )
+Shows: Hee, 7c Jh
+Combination: Hee, Two Pair ( 7c 7h 6h 6s Ac )
+Wins: Wodeek, chips: 200
+Quits: Hee, chips: 0
+Ranking: Wodeek, Place: 1, Score: 1000
+Reveal AI: Wodeek, AI: Random
+Ranking: Hee, Place: 2, Score: -1000
+Reveal AI: Hee, AI: AIMyBot1
+
+Player Stats for Hee, AI: AIMyBot1
+General: deals: 24, actions: 12, preflop actions: 12
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 11, showdown: 9, bluff: 2
+Chips: won: 2300, lost: 3300, bought: 1000, forced bets: 3300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9
+
+
+Player Stats for Wodeek, AI: Random
+General: deals: 24, actions: 5, preflop actions: 5
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 19, showdown: 7, bluff: 12
+Chips: won: 5500, lost: 4500, bought: 1000, forced bets: 3600
+Pre-Flop Stats: VP$IP: 0.125, PFR: 0.0833333, 3Bet: 0.0833333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.7
+
+

@@ -1,0 +1,354 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Ritahoe: Random
+Vonheem: AIMyBot1
+
+Joins: Ritahoe, chips: 1000
+Joins: Vonheem, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonheem
+Small Blind: Vonheem, chips: 100
+Big Blind: Ritahoe, chips: 200
+Folds: Vonheem
+Pot size: 300
+Boasts: Ritahoe, 3h Ks
+Wins: Ritahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritahoe
+Small Blind: Ritahoe, chips: 100
+Big Blind: Vonheem, chips: 200
+Raises: Ritahoe, chips: 300
+Folds: Vonheem
+Pot size: 700
+Boasts: Ritahoe, 9s As
+Wins: Ritahoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonheem
+Small Blind: Vonheem, chips: 100
+Big Blind: Ritahoe, chips: 200
+Folds: Vonheem
+Pot size: 300
+Boasts: Ritahoe, 9h 7d
+Wins: Ritahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritahoe
+Small Blind: Ritahoe, chips: 100
+Big Blind: Vonheem, chips: 200
+Calls: Ritahoe
+DEBUG MESSAGE: INVALID ACTION FROM Vonheem (2 0)
+Folds: Vonheem
+Pot size: 400
+Wins: Ritahoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonheem
+Small Blind: Vonheem, chips: 100
+Big Blind: Ritahoe, chips: 200
+Folds: Vonheem
+Pot size: 300
+Wins: Ritahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritahoe
+Small Blind: Ritahoe, chips: 100
+Big Blind: Vonheem, chips: 200
+Raises: Ritahoe, chips: 300
+Folds: Vonheem
+Pot size: 700
+Wins: Ritahoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonheem
+Small Blind: Vonheem, chips: 100
+Big Blind: Ritahoe, chips: 200
+Flop: 2s 7d Ks
+Turn: Ad
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Ritahoe, 9d 7c
+Combination: Ritahoe, Pair ( 7c 7d Ad Ks Qd )
+Shows: Vonheem, Ac 9c
+Combination: Vonheem, Pair ( Ac Ad Ks Qd 9c )
+Wins: Ritahoe, chips: 100
+Wins: Vonheem, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritahoe
+Small Blind: Ritahoe, chips: 100
+Big Blind: Vonheem, chips: 200
+Flop: Kc 4h 7h
+Turn: Qh
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Ritahoe, 2d 9d
+Combination: Ritahoe, Pair ( 9d 9h Kc Qh 7h )
+Shows: Vonheem, As Tc
+Combination: Vonheem, High Card ( As Kc Qh Tc 9h )
+Wins: Ritahoe, chips: 200
+Wins: Vonheem, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonheem
+Small Blind: Vonheem, chips: 100
+Big Blind: Ritahoe, chips: 200
+Flop: 7h 3h 9c
+Turn: Kh
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Ritahoe, 6s 3c
+Combination: Ritahoe, Two Pair ( 9c 9h 3c 3h Kh )
+Shows: Vonheem, 6h 2d
+Combination: Vonheem, Flush ( Kh 9h 7h 6h 3h )
+Wins: Ritahoe, chips: 100
+Wins: Vonheem, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritahoe
+Small Blind: Ritahoe, chips: 100
+Big Blind: Vonheem, chips: 200
+Flop: Ah 4h Th
+Turn: 3s
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Ritahoe, Qh Kd
+Combination: Ritahoe, Pair ( 4h 4s Ah Kd Qh )
+Shows: Vonheem, 9h 7h
+Combination: Vonheem, Flush ( Ah Th 9h 7h 4h )
+Wins: Vonheem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonheem
+Small Blind: Vonheem, chips: 100
+Big Blind: Ritahoe, chips: 200
+Folds: Vonheem
+Pot size: 300
+Wins: Ritahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritahoe
+Small Blind: Ritahoe, chips: 100
+Big Blind: Vonheem, chips: 200
+Flop: Ac Ks 2s
+Turn: 8c
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Ritahoe, 9h 9s
+Combination: Ritahoe, Pair ( 9h 9s Ac Ks 8c )
+Shows: Vonheem, 5d Qs
+Combination: Vonheem, High Card ( Ac Ks Qs 8c 5d )
+Wins: Ritahoe, chips: 200
+Wins: Vonheem, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonheem
+Small Blind: Vonheem, chips: 100
+Big Blind: Ritahoe, chips: 200
+Flop: 5s 9d 5h
+Turn: 2c
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Ritahoe, Qs 9c
+Combination: Ritahoe, Two Pair ( 9c 9d 5s 5h Qs )
+Shows: Vonheem, 4h 4d
+Combination: Vonheem, Two Pair ( 5s 5h 4h 4d Js )
+Wins: Ritahoe, chips: 300
+Quits: Vonheem, chips: 0
+Ranking: Ritahoe, Place: 1, Score: 1000
+Reveal AI: Ritahoe, AI: Random
+Ranking: Vonheem, Place: 2, Score: -1000
+Reveal AI: Vonheem, AI: AIMyBot1
+
+Player Stats for Ritahoe, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 5, bluff: 7
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Vonheem, AI: AIMyBot1
+General: deals: 13, actions: 7, preflop actions: 7
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:45:59
+
+The game begins. The AI's of the players are: 
+Ritahoe: Random
+Vonheem: AIMyBot1
+
+Joins: Ritahoe, chips: 1000
+Joins: Vonheem, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonheem
+Small Blind: Vonheem, chips: 100
+Big Blind: Ritahoe, chips: 200
+Folds: Vonheem
+Pot size: 300
+Boasts: Ritahoe, 3h Ks
+Wins: Ritahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritahoe
+Small Blind: Ritahoe, chips: 100
+Big Blind: Vonheem, chips: 200
+Raises: Ritahoe, chips: 300
+Folds: Vonheem
+Pot size: 700
+Boasts: Ritahoe, 9s As
+Wins: Ritahoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonheem
+Small Blind: Vonheem, chips: 100
+Big Blind: Ritahoe, chips: 200
+Folds: Vonheem
+Pot size: 300
+Boasts: Ritahoe, 9h 7d
+Wins: Ritahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritahoe
+Small Blind: Ritahoe, chips: 100
+Big Blind: Vonheem, chips: 200
+Calls: Ritahoe
+DEBUG MESSAGE: INVALID ACTION FROM Vonheem (2 0)
+Folds: Vonheem
+Pot size: 400
+Wins: Ritahoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonheem
+Small Blind: Vonheem, chips: 100
+Big Blind: Ritahoe, chips: 200
+Folds: Vonheem
+Pot size: 300
+Wins: Ritahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritahoe
+Small Blind: Ritahoe, chips: 100
+Big Blind: Vonheem, chips: 200
+Raises: Ritahoe, chips: 300
+Folds: Vonheem
+Pot size: 700
+Wins: Ritahoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonheem
+Small Blind: Vonheem, chips: 100
+Big Blind: Ritahoe, chips: 200
+Flop: 2s 7d Ks
+Turn: Ad
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Ritahoe, 9d 7c
+Combination: Ritahoe, Pair ( 7c 7d Ad Ks Qd )
+Shows: Vonheem, Ac 9c
+Combination: Vonheem, Pair ( Ac Ad Ks Qd 9c )
+Wins: Ritahoe, chips: 100
+Wins: Vonheem, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritahoe
+Small Blind: Ritahoe, chips: 100
+Big Blind: Vonheem, chips: 200
+Flop: Kc 4h 7h
+Turn: Qh
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Ritahoe, 2d 9d
+Combination: Ritahoe, Pair ( 9d 9h Kc Qh 7h )
+Shows: Vonheem, As Tc
+Combination: Vonheem, High Card ( As Kc Qh Tc 9h )
+Wins: Ritahoe, chips: 200
+Wins: Vonheem, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonheem
+Small Blind: Vonheem, chips: 100
+Big Blind: Ritahoe, chips: 200
+Flop: 7h 3h 9c
+Turn: Kh
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Ritahoe, 6s 3c
+Combination: Ritahoe, Two Pair ( 9c 9h 3c 3h Kh )
+Shows: Vonheem, 6h 2d
+Combination: Vonheem, Flush ( Kh 9h 7h 6h 3h )
+Wins: Ritahoe, chips: 100
+Wins: Vonheem, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritahoe
+Small Blind: Ritahoe, chips: 100
+Big Blind: Vonheem, chips: 200
+Flop: Ah 4h Th
+Turn: 3s
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Ritahoe, Qh Kd
+Combination: Ritahoe, Pair ( 4h 4s Ah Kd Qh )
+Shows: Vonheem, 9h 7h
+Combination: Vonheem, Flush ( Ah Th 9h 7h 4h )
+Wins: Vonheem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonheem
+Small Blind: Vonheem, chips: 100
+Big Blind: Ritahoe, chips: 200
+Folds: Vonheem
+Pot size: 300
+Wins: Ritahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritahoe
+Small Blind: Ritahoe, chips: 100
+Big Blind: Vonheem, chips: 200
+Flop: Ac Ks 2s
+Turn: 8c
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Ritahoe, 9h 9s
+Combination: Ritahoe, Pair ( 9h 9s Ac Ks 8c )
+Shows: Vonheem, 5d Qs
+Combination: Vonheem, High Card ( Ac Ks Qs 8c 5d )
+Wins: Ritahoe, chips: 200
+Wins: Vonheem, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vonheem
+Small Blind: Vonheem, chips: 100
+Big Blind: Ritahoe, chips: 200
+Flop: 5s 9d 5h
+Turn: 2c
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Ritahoe, Qs 9c
+Combination: Ritahoe, Two Pair ( 9c 9d 5s 5h Qs )
+Shows: Vonheem, 4h 4d
+Combination: Vonheem, Two Pair ( 5s 5h 4h 4d Js )
+Wins: Ritahoe, chips: 300
+Quits: Vonheem, chips: 0
+Ranking: Ritahoe, Place: 1, Score: 1000
+Reveal AI: Ritahoe, AI: Random
+Ranking: Vonheem, Place: 2, Score: -1000
+Reveal AI: Vonheem, AI: AIMyBot1
+
+Player Stats for Ritahoe, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 5, bluff: 7
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Vonheem, AI: AIMyBot1
+General: deals: 13, actions: 7, preflop actions: 7
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

@@ -1,0 +1,222 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Sawru: Random
+Sumi: AIMyBot1
+
+Joins: Sawru, chips: 1000
+Joins: Sumi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sumi
+Small Blind: Sumi, chips: 100
+Big Blind: Sawru, chips: 200
+Folds: Sumi
+Pot size: 300
+Boasts: Sawru, 6c Js
+Wins: Sawru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sawru
+Small Blind: Sawru, chips: 100
+Big Blind: Sumi, chips: 200
+Raises: Sawru, chips: 300
+Folds: Sumi
+Pot size: 700
+Wins: Sawru, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sumi
+Small Blind: Sumi, chips: 100
+Big Blind: Sawru, chips: 200
+Folds: Sumi
+Pot size: 300
+Wins: Sawru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sawru
+Small Blind: Sawru, chips: 100
+Big Blind: Sumi, chips: 200
+Folds: Sawru
+Pot size: 300
+Wins: Sumi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sumi
+Small Blind: Sumi, chips: 100
+Big Blind: Sawru, chips: 200
+Folds: Sumi
+Pot size: 300
+Boasts: Sawru, 7s Ts
+Wins: Sawru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sawru
+Small Blind: Sawru, chips: 100
+Big Blind: Sumi, chips: 200
+Raises: Sawru, chips: 300
+Folds: Sumi
+Pot size: 700
+Boasts: Sawru, 5c Qd
+Wins: Sawru, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sumi
+Small Blind: Sumi, chips: 100
+Big Blind: Sawru, chips: 200
+Folds: Sumi
+Pot size: 300
+Wins: Sawru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sawru
+Small Blind: Sawru, chips: 100
+Big Blind: Sumi, chips: 200
+Calls: Sawru
+DEBUG MESSAGE: INVALID ACTION FROM Sumi (2 0)
+Folds: Sumi
+Pot size: 400
+Boasts: Sawru, Ah Jc
+Wins: Sawru, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sumi
+Small Blind: Sumi, chips: 100
+Big Blind: Sawru, chips: 200
+Flop: 9s 5d 4c
+Turn: Kd
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Sawru, 8d Qh
+Combination: Sawru, High Card ( Kd Qh Tc 9s 8d )
+Shows: Sumi, 3h 7d
+Combination: Sumi, High Card ( Kd Tc 9s 7d 5d )
+Wins: Sawru, chips: 300
+Quits: Sumi, chips: 0
+Ranking: Sawru, Place: 1, Score: 1000
+Reveal AI: Sawru, AI: Random
+Ranking: Sumi, Place: 2, Score: -1000
+Reveal AI: Sumi, AI: AIMyBot1
+
+Player Stats for Sawru, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Sumi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:23
+
+The game begins. The AI's of the players are: 
+Sawru: Random
+Sumi: AIMyBot1
+
+Joins: Sawru, chips: 1000
+Joins: Sumi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sumi
+Small Blind: Sumi, chips: 100
+Big Blind: Sawru, chips: 200
+Folds: Sumi
+Pot size: 300
+Boasts: Sawru, 6c Js
+Wins: Sawru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sawru
+Small Blind: Sawru, chips: 100
+Big Blind: Sumi, chips: 200
+Raises: Sawru, chips: 300
+Folds: Sumi
+Pot size: 700
+Wins: Sawru, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sumi
+Small Blind: Sumi, chips: 100
+Big Blind: Sawru, chips: 200
+Folds: Sumi
+Pot size: 300
+Wins: Sawru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sawru
+Small Blind: Sawru, chips: 100
+Big Blind: Sumi, chips: 200
+Folds: Sawru
+Pot size: 300
+Wins: Sumi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sumi
+Small Blind: Sumi, chips: 100
+Big Blind: Sawru, chips: 200
+Folds: Sumi
+Pot size: 300
+Boasts: Sawru, 7s Ts
+Wins: Sawru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sawru
+Small Blind: Sawru, chips: 100
+Big Blind: Sumi, chips: 200
+Raises: Sawru, chips: 300
+Folds: Sumi
+Pot size: 700
+Boasts: Sawru, 5c Qd
+Wins: Sawru, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sumi
+Small Blind: Sumi, chips: 100
+Big Blind: Sawru, chips: 200
+Folds: Sumi
+Pot size: 300
+Wins: Sawru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sawru
+Small Blind: Sawru, chips: 100
+Big Blind: Sumi, chips: 200
+Calls: Sawru
+DEBUG MESSAGE: INVALID ACTION FROM Sumi (2 0)
+Folds: Sumi
+Pot size: 400
+Boasts: Sawru, Ah Jc
+Wins: Sawru, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sumi
+Small Blind: Sumi, chips: 100
+Big Blind: Sawru, chips: 200
+Flop: 9s 5d 4c
+Turn: Kd
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Sawru, 8d Qh
+Combination: Sawru, High Card ( Kd Qh Tc 9s 8d )
+Shows: Sumi, 3h 7d
+Combination: Sumi, High Card ( Kd Tc 9s 7d 5d )
+Wins: Sawru, chips: 300
+Quits: Sumi, chips: 0
+Ranking: Sawru, Place: 1, Score: 1000
+Reveal AI: Sawru, AI: Random
+Ranking: Sumi, Place: 2, Score: -1000
+Reveal AI: Sumi, AI: AIMyBot1
+
+Player Stats for Sawru, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Sumi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

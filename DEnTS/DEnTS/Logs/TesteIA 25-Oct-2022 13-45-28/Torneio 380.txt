@@ -1,0 +1,222 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Difoev: AIMyBot1
+Jekot: Random
+
+Joins: Difoev, chips: 1000
+Joins: Jekot, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Difoev
+Small Blind: Difoev, chips: 100
+Big Blind: Jekot, chips: 200
+Folds: Difoev
+Pot size: 300
+Wins: Jekot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jekot
+Small Blind: Jekot, chips: 100
+Big Blind: Difoev, chips: 200
+Calls: Jekot
+DEBUG MESSAGE: INVALID ACTION FROM Difoev (2 0)
+Folds: Difoev
+Pot size: 400
+Wins: Jekot, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Difoev
+Small Blind: Difoev, chips: 100
+Big Blind: Jekot, chips: 200
+Folds: Difoev
+Pot size: 300
+Wins: Jekot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jekot
+Small Blind: Jekot, chips: 100
+Big Blind: Difoev, chips: 200
+Folds: Jekot
+Pot size: 300
+Boasts: Jekot, Kh Qh
+Wins: Difoev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Difoev
+Small Blind: Difoev, chips: 100
+Big Blind: Jekot, chips: 200
+Folds: Difoev
+Pot size: 300
+Wins: Jekot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jekot
+Small Blind: Jekot, chips: 100
+Big Blind: Difoev, chips: 200
+Raises: Jekot, chips: 300
+Folds: Difoev
+Pot size: 700
+Boasts: Jekot, Qd Jh
+Wins: Jekot, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Difoev
+Small Blind: Difoev, chips: 100
+Big Blind: Jekot, chips: 200
+Folds: Difoev
+Pot size: 300
+Boasts: Jekot, 9h 2d
+Wins: Jekot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jekot
+Small Blind: Jekot, chips: 100
+Big Blind: Difoev, chips: 200
+Calls: Jekot
+DEBUG MESSAGE: INVALID ACTION FROM Difoev (2 0)
+Folds: Difoev
+Pot size: 400
+Wins: Jekot, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Difoev
+Small Blind: Difoev, chips: 100
+Big Blind: Jekot, chips: 200
+Flop: 5s Ad Jc
+Turn: Ac
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Difoev, 3d 8s
+Combination: Difoev, Three Of A Kind ( Ad Ac As Jc 8s )
+Shows: Jekot, 9c 8h
+Combination: Jekot, Three Of A Kind ( Ad Ac As Jc 9c )
+Wins: Jekot, chips: 300
+Quits: Difoev, chips: 0
+Ranking: Jekot, Place: 1, Score: 1000
+Reveal AI: Jekot, AI: Random
+Ranking: Difoev, Place: 2, Score: -1000
+Reveal AI: Difoev, AI: AIMyBot1
+
+Player Stats for Difoev, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Jekot, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:54
+
+The game begins. The AI's of the players are: 
+Difoev: AIMyBot1
+Jekot: Random
+
+Joins: Difoev, chips: 1000
+Joins: Jekot, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Difoev
+Small Blind: Difoev, chips: 100
+Big Blind: Jekot, chips: 200
+Folds: Difoev
+Pot size: 300
+Wins: Jekot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jekot
+Small Blind: Jekot, chips: 100
+Big Blind: Difoev, chips: 200
+Calls: Jekot
+DEBUG MESSAGE: INVALID ACTION FROM Difoev (2 0)
+Folds: Difoev
+Pot size: 400
+Wins: Jekot, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Difoev
+Small Blind: Difoev, chips: 100
+Big Blind: Jekot, chips: 200
+Folds: Difoev
+Pot size: 300
+Wins: Jekot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jekot
+Small Blind: Jekot, chips: 100
+Big Blind: Difoev, chips: 200
+Folds: Jekot
+Pot size: 300
+Boasts: Jekot, Kh Qh
+Wins: Difoev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Difoev
+Small Blind: Difoev, chips: 100
+Big Blind: Jekot, chips: 200
+Folds: Difoev
+Pot size: 300
+Wins: Jekot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jekot
+Small Blind: Jekot, chips: 100
+Big Blind: Difoev, chips: 200
+Raises: Jekot, chips: 300
+Folds: Difoev
+Pot size: 700
+Boasts: Jekot, Qd Jh
+Wins: Jekot, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Difoev
+Small Blind: Difoev, chips: 100
+Big Blind: Jekot, chips: 200
+Folds: Difoev
+Pot size: 300
+Boasts: Jekot, 9h 2d
+Wins: Jekot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jekot
+Small Blind: Jekot, chips: 100
+Big Blind: Difoev, chips: 200
+Calls: Jekot
+DEBUG MESSAGE: INVALID ACTION FROM Difoev (2 0)
+Folds: Difoev
+Pot size: 400
+Wins: Jekot, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Difoev
+Small Blind: Difoev, chips: 100
+Big Blind: Jekot, chips: 200
+Flop: 5s Ad Jc
+Turn: Ac
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Difoev, 3d 8s
+Combination: Difoev, Three Of A Kind ( Ad Ac As Jc 8s )
+Shows: Jekot, 9c 8h
+Combination: Jekot, Three Of A Kind ( Ad Ac As Jc 9c )
+Wins: Jekot, chips: 300
+Quits: Difoev, chips: 0
+Ranking: Jekot, Place: 1, Score: 1000
+Reveal AI: Jekot, AI: Random
+Ranking: Difoev, Place: 2, Score: -1000
+Reveal AI: Difoev, AI: AIMyBot1
+
+Player Stats for Difoev, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Jekot, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

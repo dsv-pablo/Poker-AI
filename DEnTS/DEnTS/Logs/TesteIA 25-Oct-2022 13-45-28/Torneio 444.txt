@@ -1,0 +1,314 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Folucha: Random
+Mi: AIMyBot1
+
+Joins: Folucha, chips: 1000
+Joins: Mi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Folucha
+Small Blind: Folucha, chips: 100
+Big Blind: Mi, chips: 200
+Folds: Folucha
+Pot size: 300
+Wins: Mi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mi
+Small Blind: Mi, chips: 100
+Big Blind: Folucha, chips: 200
+Folds: Mi
+Pot size: 300
+Wins: Folucha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Folucha
+Small Blind: Folucha, chips: 100
+Big Blind: Mi, chips: 200
+Folds: Folucha
+Pot size: 300
+Boasts: Folucha, Tc Kh
+Wins: Mi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mi
+Small Blind: Mi, chips: 100
+Big Blind: Folucha, chips: 200
+Folds: Mi
+Pot size: 300
+Boasts: Folucha, 7h 9c
+Wins: Folucha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Folucha
+Small Blind: Folucha, chips: 100
+Big Blind: Mi, chips: 200
+Folds: Folucha
+Pot size: 300
+Boasts: Folucha, Qd Ah
+Wins: Mi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mi
+Small Blind: Mi, chips: 100
+Big Blind: Folucha, chips: 200
+Folds: Mi
+Pot size: 300
+Boasts: Folucha, 8s 6s
+Wins: Folucha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Folucha
+Small Blind: Folucha, chips: 100
+Big Blind: Mi, chips: 200
+Folds: Folucha
+Pot size: 300
+Boasts: Folucha, Qh 8h
+Wins: Mi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mi
+Small Blind: Mi, chips: 100
+Big Blind: Folucha, chips: 200
+Folds: Mi
+Pot size: 300
+Wins: Folucha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Folucha
+Small Blind: Folucha, chips: 100
+Big Blind: Mi, chips: 200
+Raises: Folucha, chips: 300
+Folds: Mi
+Pot size: 700
+Boasts: Folucha, 3s Qd
+Wins: Folucha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mi
+Small Blind: Mi, chips: 100
+Big Blind: Folucha, chips: 200
+Folds: Mi
+Pot size: 300
+Boasts: Folucha, 4s Ks
+Wins: Folucha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Folucha
+Small Blind: Folucha, chips: 100
+Big Blind: Mi, chips: 200
+Raises: Folucha, chips: 300
+Folds: Mi
+Pot size: 700
+Boasts: Folucha, 3c 8d
+Wins: Folucha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mi
+Small Blind: Mi, chips: 100
+Big Blind: Folucha, chips: 200
+Folds: Mi
+Pot size: 300
+Boasts: Folucha, Kh 2h
+Wins: Folucha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Folucha
+Small Blind: Folucha, chips: 100
+Big Blind: Mi, chips: 200
+Raises: Folucha, chips: 300
+Folds: Mi
+Pot size: 700
+Wins: Folucha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mi
+Small Blind: Mi, chips: 100
+Big Blind: Folucha, chips: 200
+Folds: Mi
+Pot size: 300
+Wins: Folucha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Folucha
+Small Blind: Folucha, chips: 100
+Big Blind: Mi, chips: 100
+Flop: 5h 7c 6h
+Turn: Kc
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Folucha, 3s 8h
+Combination: Folucha, Straight ( 9h 8h 7c 6h 5h )
+Shows: Mi, 5s 4c
+Combination: Mi, Pair ( 5s 5h Kc 9h 7c )
+Wins: Folucha, chips: 200
+Quits: Mi, chips: 0
+Ranking: Folucha, Place: 1, Score: 1000
+Reveal AI: Folucha, AI: Random
+Ranking: Mi, Place: 2, Score: -1000
+Reveal AI: Mi, AI: AIMyBot1
+
+Player Stats for Folucha, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 4400, lost: 3400, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.2, 3Bet: 0.2
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Mi, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:59
+
+The game begins. The AI's of the players are: 
+Folucha: Random
+Mi: AIMyBot1
+
+Joins: Folucha, chips: 1000
+Joins: Mi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Folucha
+Small Blind: Folucha, chips: 100
+Big Blind: Mi, chips: 200
+Folds: Folucha
+Pot size: 300
+Wins: Mi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mi
+Small Blind: Mi, chips: 100
+Big Blind: Folucha, chips: 200
+Folds: Mi
+Pot size: 300
+Wins: Folucha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Folucha
+Small Blind: Folucha, chips: 100
+Big Blind: Mi, chips: 200
+Folds: Folucha
+Pot size: 300
+Boasts: Folucha, Tc Kh
+Wins: Mi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mi
+Small Blind: Mi, chips: 100
+Big Blind: Folucha, chips: 200
+Folds: Mi
+Pot size: 300
+Boasts: Folucha, 7h 9c
+Wins: Folucha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Folucha
+Small Blind: Folucha, chips: 100
+Big Blind: Mi, chips: 200
+Folds: Folucha
+Pot size: 300
+Boasts: Folucha, Qd Ah
+Wins: Mi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mi
+Small Blind: Mi, chips: 100
+Big Blind: Folucha, chips: 200
+Folds: Mi
+Pot size: 300
+Boasts: Folucha, 8s 6s
+Wins: Folucha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Folucha
+Small Blind: Folucha, chips: 100
+Big Blind: Mi, chips: 200
+Folds: Folucha
+Pot size: 300
+Boasts: Folucha, Qh 8h
+Wins: Mi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mi
+Small Blind: Mi, chips: 100
+Big Blind: Folucha, chips: 200
+Folds: Mi
+Pot size: 300
+Wins: Folucha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Folucha
+Small Blind: Folucha, chips: 100
+Big Blind: Mi, chips: 200
+Raises: Folucha, chips: 300
+Folds: Mi
+Pot size: 700
+Boasts: Folucha, 3s Qd
+Wins: Folucha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mi
+Small Blind: Mi, chips: 100
+Big Blind: Folucha, chips: 200
+Folds: Mi
+Pot size: 300
+Boasts: Folucha, 4s Ks
+Wins: Folucha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Folucha
+Small Blind: Folucha, chips: 100
+Big Blind: Mi, chips: 200
+Raises: Folucha, chips: 300
+Folds: Mi
+Pot size: 700
+Boasts: Folucha, 3c 8d
+Wins: Folucha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mi
+Small Blind: Mi, chips: 100
+Big Blind: Folucha, chips: 200
+Folds: Mi
+Pot size: 300
+Boasts: Folucha, Kh 2h
+Wins: Folucha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Folucha
+Small Blind: Folucha, chips: 100
+Big Blind: Mi, chips: 200
+Raises: Folucha, chips: 300
+Folds: Mi
+Pot size: 700
+Wins: Folucha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mi
+Small Blind: Mi, chips: 100
+Big Blind: Folucha, chips: 200
+Folds: Mi
+Pot size: 300
+Wins: Folucha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Folucha
+Small Blind: Folucha, chips: 100
+Big Blind: Mi, chips: 100
+Flop: 5h 7c 6h
+Turn: Kc
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Folucha, 3s 8h
+Combination: Folucha, Straight ( 9h 8h 7c 6h 5h )
+Shows: Mi, 5s 4c
+Combination: Mi, Pair ( 5s 5h Kc 9h 7c )
+Wins: Folucha, chips: 200
+Quits: Mi, chips: 0
+Ranking: Folucha, Place: 1, Score: 1000
+Reveal AI: Folucha, AI: Random
+Ranking: Mi, Place: 2, Score: -1000
+Reveal AI: Mi, AI: AIMyBot1
+
+Player Stats for Folucha, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 4400, lost: 3400, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.2, 3Bet: 0.2
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Mi, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

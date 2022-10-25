@@ -1,0 +1,398 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+De: Random
+Wegoe: AIMyBot1
+
+Joins: De, chips: 1000
+Joins: Wegoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 200
+Calls: De
+DEBUG MESSAGE: INVALID ACTION FROM Wegoe (2 0)
+Folds: Wegoe
+Pot size: 400
+Wins: De, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wegoe
+Small Blind: Wegoe, chips: 100
+Big Blind: De, chips: 200
+Folds: Wegoe
+Pot size: 300
+Boasts: De, 3s Kd
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 200
+Folds: De
+Pot size: 300
+Boasts: De, 2h Th
+Wins: Wegoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wegoe
+Small Blind: Wegoe, chips: 100
+Big Blind: De, chips: 200
+Folds: Wegoe
+Pot size: 300
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 200
+Calls: De
+DEBUG MESSAGE: INVALID ACTION FROM Wegoe (2 0)
+Folds: Wegoe
+Pot size: 400
+Boasts: De, 6d 3d
+Wins: De, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wegoe
+Small Blind: Wegoe, chips: 100
+Big Blind: De, chips: 200
+Folds: Wegoe
+Pot size: 300
+Boasts: De, 7c 9s
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 200
+Raises: De, chips: 300
+Calls: Wegoe
+Flop: 5h 6c 2c
+Turn: 4h
+River: Ah
+Pot size: 900
+Showdown Reached
+Shows: De, 9d 9s
+Combination: De, Pair ( 9d 9s Ah 6c 5h )
+Shows: Wegoe, 3c Js
+Combination: Wegoe, Straight ( 6c 5h 4h 3c 2c )
+Wins: De, chips: 100
+Wins: Wegoe, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wegoe
+Small Blind: Wegoe, chips: 100
+Big Blind: De, chips: 200
+Folds: Wegoe
+Pot size: 300
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 200
+Calls: De
+DEBUG MESSAGE: INVALID ACTION FROM Wegoe (2 0)
+Folds: Wegoe
+Pot size: 400
+Boasts: De, 2h Kh
+Wins: De, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wegoe
+Small Blind: Wegoe, chips: 100
+Big Blind: De, chips: 200
+Folds: Wegoe
+Pot size: 300
+Boasts: De, 5c Qh
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 200
+Calls: De
+DEBUG MESSAGE: INVALID ACTION FROM Wegoe (2 0)
+Folds: Wegoe
+Pot size: 400
+Wins: De, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wegoe
+Small Blind: Wegoe, chips: 100
+Big Blind: De, chips: 200
+Folds: Wegoe
+Pot size: 300
+Boasts: De, 4s 2d
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 100
+Flop: 8c 5d 6c
+Turn: Kd
+River: 9c
+Pot size: 200
+Showdown Reached
+Shows: De, Js 2c
+Combination: De, High Card ( Kd Js 9c 8c 6c )
+Shows: Wegoe, Qd 4h
+Combination: Wegoe, High Card ( Kd Qd 9c 8c 6c )
+Wins: Wegoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wegoe
+Small Blind: Wegoe, chips: 100
+Big Blind: De, chips: 200
+Folds: Wegoe
+Pot size: 300
+Boasts: De, 7h Ac
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 100
+Flop: Ad Kc Js
+Turn: Kd
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: De, 8s 5c
+Combination: De, Pair ( Kc Kd Ad Js Ts )
+Shows: Wegoe, 3c Ac
+Combination: Wegoe, Two Pair ( Ac Ad Kc Kd Js )
+Wins: Wegoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wegoe
+Small Blind: Wegoe, chips: 100
+Big Blind: De, chips: 200
+Folds: Wegoe
+Pot size: 300
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 100
+Flop: Ts Kc Ah
+Turn: Th
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: De, Kd 6c
+Combination: De, Two Pair ( Kd Kc Ts Th Ah )
+Shows: Wegoe, 2c 6h
+Combination: Wegoe, Pair ( Ts Th Ah Kc 6h )
+Wins: De, chips: 200
+Quits: Wegoe, chips: 0
+Ranking: De, Place: 1, Score: 1000
+Reveal AI: De, AI: Random
+Ranking: Wegoe, Place: 2, Score: -1000
+Reveal AI: Wegoe, AI: AIMyBot1
+
+Player Stats for De, AI: Random
+General: deals: 17, actions: 6, preflop actions: 6
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 14, showdown: 2, bluff: 12
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.294118, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Wegoe, AI: AIMyBot1
+General: deals: 17, actions: 13, preflop actions: 13
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 1500, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.0588235, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:30
+
+The game begins. The AI's of the players are: 
+De: Random
+Wegoe: AIMyBot1
+
+Joins: De, chips: 1000
+Joins: Wegoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 200
+Calls: De
+DEBUG MESSAGE: INVALID ACTION FROM Wegoe (2 0)
+Folds: Wegoe
+Pot size: 400
+Wins: De, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wegoe
+Small Blind: Wegoe, chips: 100
+Big Blind: De, chips: 200
+Folds: Wegoe
+Pot size: 300
+Boasts: De, 3s Kd
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 200
+Folds: De
+Pot size: 300
+Boasts: De, 2h Th
+Wins: Wegoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wegoe
+Small Blind: Wegoe, chips: 100
+Big Blind: De, chips: 200
+Folds: Wegoe
+Pot size: 300
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 200
+Calls: De
+DEBUG MESSAGE: INVALID ACTION FROM Wegoe (2 0)
+Folds: Wegoe
+Pot size: 400
+Boasts: De, 6d 3d
+Wins: De, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wegoe
+Small Blind: Wegoe, chips: 100
+Big Blind: De, chips: 200
+Folds: Wegoe
+Pot size: 300
+Boasts: De, 7c 9s
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 200
+Raises: De, chips: 300
+Calls: Wegoe
+Flop: 5h 6c 2c
+Turn: 4h
+River: Ah
+Pot size: 900
+Showdown Reached
+Shows: De, 9d 9s
+Combination: De, Pair ( 9d 9s Ah 6c 5h )
+Shows: Wegoe, 3c Js
+Combination: Wegoe, Straight ( 6c 5h 4h 3c 2c )
+Wins: De, chips: 100
+Wins: Wegoe, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wegoe
+Small Blind: Wegoe, chips: 100
+Big Blind: De, chips: 200
+Folds: Wegoe
+Pot size: 300
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 200
+Calls: De
+DEBUG MESSAGE: INVALID ACTION FROM Wegoe (2 0)
+Folds: Wegoe
+Pot size: 400
+Boasts: De, 2h Kh
+Wins: De, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wegoe
+Small Blind: Wegoe, chips: 100
+Big Blind: De, chips: 200
+Folds: Wegoe
+Pot size: 300
+Boasts: De, 5c Qh
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 200
+Calls: De
+DEBUG MESSAGE: INVALID ACTION FROM Wegoe (2 0)
+Folds: Wegoe
+Pot size: 400
+Wins: De, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wegoe
+Small Blind: Wegoe, chips: 100
+Big Blind: De, chips: 200
+Folds: Wegoe
+Pot size: 300
+Boasts: De, 4s 2d
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 100
+Flop: 8c 5d 6c
+Turn: Kd
+River: 9c
+Pot size: 200
+Showdown Reached
+Shows: De, Js 2c
+Combination: De, High Card ( Kd Js 9c 8c 6c )
+Shows: Wegoe, Qd 4h
+Combination: Wegoe, High Card ( Kd Qd 9c 8c 6c )
+Wins: Wegoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wegoe
+Small Blind: Wegoe, chips: 100
+Big Blind: De, chips: 200
+Folds: Wegoe
+Pot size: 300
+Boasts: De, 7h Ac
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 100
+Flop: Ad Kc Js
+Turn: Kd
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: De, 8s 5c
+Combination: De, Pair ( Kc Kd Ad Js Ts )
+Shows: Wegoe, 3c Ac
+Combination: Wegoe, Two Pair ( Ac Ad Kc Kd Js )
+Wins: Wegoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wegoe
+Small Blind: Wegoe, chips: 100
+Big Blind: De, chips: 200
+Folds: Wegoe
+Pot size: 300
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Wegoe, chips: 100
+Flop: Ts Kc Ah
+Turn: Th
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: De, Kd 6c
+Combination: De, Two Pair ( Kd Kc Ts Th Ah )
+Shows: Wegoe, 2c 6h
+Combination: Wegoe, Pair ( Ts Th Ah Kc 6h )
+Wins: De, chips: 200
+Quits: Wegoe, chips: 0
+Ranking: De, Place: 1, Score: 1000
+Reveal AI: De, AI: Random
+Ranking: Wegoe, Place: 2, Score: -1000
+Reveal AI: Wegoe, AI: AIMyBot1
+
+Player Stats for De, AI: Random
+General: deals: 17, actions: 6, preflop actions: 6
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 14, showdown: 2, bluff: 12
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.294118, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Wegoe, AI: AIMyBot1
+General: deals: 17, actions: 13, preflop actions: 13
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 1500, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.0588235, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

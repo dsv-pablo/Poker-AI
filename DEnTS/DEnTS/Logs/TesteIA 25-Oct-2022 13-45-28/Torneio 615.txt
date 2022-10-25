@@ -1,0 +1,402 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Chehar: AIMyBot1
+Kovosi: Random
+
+Joins: Chehar, chips: 1000
+Joins: Kovosi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 200
+Calls: Kovosi
+DEBUG MESSAGE: INVALID ACTION FROM Chehar (2 0)
+Folds: Chehar
+Pot size: 400
+Boasts: Kovosi, 3h Td
+Wins: Kovosi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Folds: Chehar
+Pot size: 300
+Wins: Kovosi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 200
+Raises: Kovosi, chips: 1100
+Folds: Chehar
+Pot size: 1500
+Boasts: Kovosi, 7s 5s
+Wins: Kovosi, chips: 1500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Folds: Chehar
+Pot size: 300
+Wins: Kovosi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 200
+Folds: Kovosi
+Pot size: 300
+Wins: Chehar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Folds: Chehar
+Pot size: 300
+Boasts: Kovosi, Jc Ac
+Wins: Kovosi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 200
+Folds: Kovosi
+Pot size: 300
+Boasts: Kovosi, 9d Ad
+Wins: Chehar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Folds: Chehar
+Pot size: 300
+Wins: Kovosi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 200
+Folds: Kovosi
+Pot size: 300
+Wins: Chehar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Folds: Chehar
+Pot size: 300
+Wins: Kovosi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 200
+Folds: Kovosi
+Pot size: 300
+Boasts: Kovosi, 2h Qc
+Wins: Chehar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Folds: Chehar
+Pot size: 300
+Boasts: Kovosi, 5h 8h
+Wins: Kovosi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 200
+Raises: Kovosi, chips: 300
+Folds: Chehar
+Pot size: 700
+Boasts: Kovosi, Jc 3s
+Wins: Kovosi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Folds: Chehar
+Pot size: 300
+Wins: Kovosi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 100
+Flop: 3s Ts Ad
+Turn: Th
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Chehar, Qd 2d
+Combination: Chehar, Two Pair ( Ts Th 3s 3c Ad )
+Shows: Kovosi, 7c 6d
+Combination: Kovosi, Two Pair ( Ts Th 3s 3c Ad )
+Wins: Chehar, chips: 100
+Wins: Kovosi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Flop: 8s 9s 2s
+Turn: 5d
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Chehar, 9c 8c
+Combination: Chehar, Two Pair ( 9c 9s 8c 8s 7d )
+Shows: Kovosi, 2h 5h
+Combination: Kovosi, Two Pair ( 5h 5d 2h 2s 9s )
+Wins: Chehar, chips: 200
+Wins: Kovosi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 200
+Flop: 8c 6d Js
+Turn: Kd
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Chehar, 7h 3d
+Combination: Chehar, Pair ( 6d 6s Kd Js 8c )
+Shows: Kovosi, Jh 4s
+Combination: Kovosi, Two Pair ( Jh Js 6d 6s Kd )
+Wins: Chehar, chips: 100
+Wins: Kovosi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Flop: 7h 3h Jd
+Turn: 2h
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Chehar, Jh 3c
+Combination: Chehar, Two Pair ( Jh Jd 3c 3h 7h )
+Shows: Kovosi, 2c Th
+Combination: Kovosi, Three Of A Kind ( 2c 2h 2s Jd Th )
+Wins: Kovosi, chips: 300
+Quits: Chehar, chips: 0
+Ranking: Kovosi, Place: 1, Score: 1000
+Reveal AI: Kovosi, AI: Random
+Ranking: Chehar, Place: 2, Score: -1000
+Reveal AI: Chehar, AI: AIMyBot1
+
+Player Stats for Chehar, AI: AIMyBot1
+General: deals: 18, actions: 10, preflop actions: 10
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 7, showdown: 3, bluff: 4
+Chips: won: 1600, lost: 2600, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Kovosi, AI: Random
+General: deals: 18, actions: 7, preflop actions: 7
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 14, showdown: 4, bluff: 10
+Chips: won: 5400, lost: 4400, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:10
+
+The game begins. The AI's of the players are: 
+Chehar: AIMyBot1
+Kovosi: Random
+
+Joins: Chehar, chips: 1000
+Joins: Kovosi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 200
+Calls: Kovosi
+DEBUG MESSAGE: INVALID ACTION FROM Chehar (2 0)
+Folds: Chehar
+Pot size: 400
+Boasts: Kovosi, 3h Td
+Wins: Kovosi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Folds: Chehar
+Pot size: 300
+Wins: Kovosi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 200
+Raises: Kovosi, chips: 1100
+Folds: Chehar
+Pot size: 1500
+Boasts: Kovosi, 7s 5s
+Wins: Kovosi, chips: 1500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Folds: Chehar
+Pot size: 300
+Wins: Kovosi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 200
+Folds: Kovosi
+Pot size: 300
+Wins: Chehar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Folds: Chehar
+Pot size: 300
+Boasts: Kovosi, Jc Ac
+Wins: Kovosi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 200
+Folds: Kovosi
+Pot size: 300
+Boasts: Kovosi, 9d Ad
+Wins: Chehar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Folds: Chehar
+Pot size: 300
+Wins: Kovosi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 200
+Folds: Kovosi
+Pot size: 300
+Wins: Chehar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Folds: Chehar
+Pot size: 300
+Wins: Kovosi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 200
+Folds: Kovosi
+Pot size: 300
+Boasts: Kovosi, 2h Qc
+Wins: Chehar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Folds: Chehar
+Pot size: 300
+Boasts: Kovosi, 5h 8h
+Wins: Kovosi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 200
+Raises: Kovosi, chips: 300
+Folds: Chehar
+Pot size: 700
+Boasts: Kovosi, Jc 3s
+Wins: Kovosi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Folds: Chehar
+Pot size: 300
+Wins: Kovosi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 100
+Flop: 3s Ts Ad
+Turn: Th
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Chehar, Qd 2d
+Combination: Chehar, Two Pair ( Ts Th 3s 3c Ad )
+Shows: Kovosi, 7c 6d
+Combination: Kovosi, Two Pair ( Ts Th 3s 3c Ad )
+Wins: Chehar, chips: 100
+Wins: Kovosi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Flop: 8s 9s 2s
+Turn: 5d
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Chehar, 9c 8c
+Combination: Chehar, Two Pair ( 9c 9s 8c 8s 7d )
+Shows: Kovosi, 2h 5h
+Combination: Kovosi, Two Pair ( 5h 5d 2h 2s 9s )
+Wins: Chehar, chips: 200
+Wins: Kovosi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kovosi
+Small Blind: Kovosi, chips: 100
+Big Blind: Chehar, chips: 200
+Flop: 8c 6d Js
+Turn: Kd
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Chehar, 7h 3d
+Combination: Chehar, Pair ( 6d 6s Kd Js 8c )
+Shows: Kovosi, Jh 4s
+Combination: Kovosi, Two Pair ( Jh Js 6d 6s Kd )
+Wins: Chehar, chips: 100
+Wins: Kovosi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chehar
+Small Blind: Chehar, chips: 100
+Big Blind: Kovosi, chips: 200
+Flop: 7h 3h Jd
+Turn: 2h
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Chehar, Jh 3c
+Combination: Chehar, Two Pair ( Jh Jd 3c 3h 7h )
+Shows: Kovosi, 2c Th
+Combination: Kovosi, Three Of A Kind ( 2c 2h 2s Jd Th )
+Wins: Kovosi, chips: 300
+Quits: Chehar, chips: 0
+Ranking: Kovosi, Place: 1, Score: 1000
+Reveal AI: Kovosi, AI: Random
+Ranking: Chehar, Place: 2, Score: -1000
+Reveal AI: Chehar, AI: AIMyBot1
+
+Player Stats for Chehar, AI: AIMyBot1
+General: deals: 18, actions: 10, preflop actions: 10
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 7, showdown: 3, bluff: 4
+Chips: won: 1600, lost: 2600, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Kovosi, AI: Random
+General: deals: 18, actions: 7, preflop actions: 7
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 14, showdown: 4, bluff: 10
+Chips: won: 5400, lost: 4400, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

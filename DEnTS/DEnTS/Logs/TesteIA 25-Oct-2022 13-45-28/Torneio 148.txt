@@ -1,0 +1,310 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+La: AIMyBot1
+Hoeboen: Random
+
+Joins: La, chips: 1000
+Joins: Hoeboen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeboen
+Small Blind: Hoeboen, chips: 100
+Big Blind: La, chips: 200
+Calls: Hoeboen
+DEBUG MESSAGE: INVALID ACTION FROM La (2 0)
+Folds: La
+Pot size: 400
+Wins: Hoeboen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: La
+Small Blind: La, chips: 100
+Big Blind: Hoeboen, chips: 200
+Folds: La
+Pot size: 300
+Boasts: Hoeboen, 6c Qs
+Wins: Hoeboen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeboen
+Small Blind: Hoeboen, chips: 100
+Big Blind: La, chips: 200
+Calls: Hoeboen
+DEBUG MESSAGE: INVALID ACTION FROM La (2 0)
+Folds: La
+Pot size: 400
+Boasts: Hoeboen, 9h 9d
+Wins: Hoeboen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: La
+Small Blind: La, chips: 100
+Big Blind: Hoeboen, chips: 200
+Folds: La
+Pot size: 300
+Boasts: Hoeboen, Ah 7s
+Wins: Hoeboen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeboen
+Small Blind: Hoeboen, chips: 100
+Big Blind: La, chips: 200
+Raises: Hoeboen, chips: 300
+Folds: La
+Pot size: 700
+Wins: Hoeboen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: La
+Small Blind: La, chips: 100
+Big Blind: Hoeboen, chips: 200
+Folds: La
+Pot size: 300
+Boasts: Hoeboen, 5h 3c
+Wins: Hoeboen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeboen
+Small Blind: Hoeboen, chips: 100
+Big Blind: La, chips: 100
+Flop: 5h 6d 4c
+Turn: 2c
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: La, 7h Jh
+Combination: La, Straight ( 7h 6d 5h 4c 3c )
+Shows: Hoeboen, 3s 9s
+Combination: Hoeboen, Straight ( 6d 5h 4c 3s 2c )
+Wins: La, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: La
+Small Blind: La, chips: 100
+Big Blind: Hoeboen, chips: 200
+Folds: La
+Pot size: 300
+Wins: Hoeboen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeboen
+Small Blind: Hoeboen, chips: 100
+Big Blind: La, chips: 100
+Flop: Qh 2s Ad
+Turn: 6c
+River: Ks
+Pot size: 200
+Showdown Reached
+Shows: La, Kc 4h
+Combination: La, Pair ( Kc Ks Ad Qh 6c )
+Shows: Hoeboen, Qc 9h
+Combination: Hoeboen, Pair ( Qc Qh Ad Ks 9h )
+Wins: La, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: La
+Small Blind: La, chips: 100
+Big Blind: Hoeboen, chips: 200
+Folds: La
+Pot size: 300
+Wins: Hoeboen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeboen
+Small Blind: Hoeboen, chips: 100
+Big Blind: La, chips: 100
+Flop: 4d 7s Ks
+Turn: Kh
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: La, 2h Ad
+Combination: La, Two Pair ( Ks Kh 4d 4h Ad )
+Shows: Hoeboen, As 2d
+Combination: Hoeboen, Two Pair ( Ks Kh 4d 4h As )
+Wins: La, chips: 100
+Wins: Hoeboen, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: La
+Small Blind: La, chips: 100
+Big Blind: Hoeboen, chips: 200
+Flop: 2s 6s 6h
+Turn: Tc
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: La, Kd 5h
+Combination: La, Pair ( 6s 6h Kd Tc 5h )
+Shows: Hoeboen, 5c 4h
+Combination: Hoeboen, Two Pair ( 6s 6h 4h 4d Tc )
+Wins: Hoeboen, chips: 300
+Quits: La, chips: 0
+Ranking: Hoeboen, Place: 1, Score: 1000
+Reveal AI: Hoeboen, AI: Random
+Ranking: La, Place: 2, Score: -1000
+Reveal AI: La, AI: AIMyBot1
+
+Player Stats for Hoeboen, AI: Random
+General: deals: 12, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 2, bluff: 8
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0.0833333, 3Bet: 0.0833333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for La, AI: AIMyBot1
+General: deals: 12, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:45:39
+
+The game begins. The AI's of the players are: 
+La: AIMyBot1
+Hoeboen: Random
+
+Joins: La, chips: 1000
+Joins: Hoeboen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeboen
+Small Blind: Hoeboen, chips: 100
+Big Blind: La, chips: 200
+Calls: Hoeboen
+DEBUG MESSAGE: INVALID ACTION FROM La (2 0)
+Folds: La
+Pot size: 400
+Wins: Hoeboen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: La
+Small Blind: La, chips: 100
+Big Blind: Hoeboen, chips: 200
+Folds: La
+Pot size: 300
+Boasts: Hoeboen, 6c Qs
+Wins: Hoeboen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeboen
+Small Blind: Hoeboen, chips: 100
+Big Blind: La, chips: 200
+Calls: Hoeboen
+DEBUG MESSAGE: INVALID ACTION FROM La (2 0)
+Folds: La
+Pot size: 400
+Boasts: Hoeboen, 9h 9d
+Wins: Hoeboen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: La
+Small Blind: La, chips: 100
+Big Blind: Hoeboen, chips: 200
+Folds: La
+Pot size: 300
+Boasts: Hoeboen, Ah 7s
+Wins: Hoeboen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeboen
+Small Blind: Hoeboen, chips: 100
+Big Blind: La, chips: 200
+Raises: Hoeboen, chips: 300
+Folds: La
+Pot size: 700
+Wins: Hoeboen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: La
+Small Blind: La, chips: 100
+Big Blind: Hoeboen, chips: 200
+Folds: La
+Pot size: 300
+Boasts: Hoeboen, 5h 3c
+Wins: Hoeboen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeboen
+Small Blind: Hoeboen, chips: 100
+Big Blind: La, chips: 100
+Flop: 5h 6d 4c
+Turn: 2c
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: La, 7h Jh
+Combination: La, Straight ( 7h 6d 5h 4c 3c )
+Shows: Hoeboen, 3s 9s
+Combination: Hoeboen, Straight ( 6d 5h 4c 3s 2c )
+Wins: La, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: La
+Small Blind: La, chips: 100
+Big Blind: Hoeboen, chips: 200
+Folds: La
+Pot size: 300
+Wins: Hoeboen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeboen
+Small Blind: Hoeboen, chips: 100
+Big Blind: La, chips: 100
+Flop: Qh 2s Ad
+Turn: 6c
+River: Ks
+Pot size: 200
+Showdown Reached
+Shows: La, Kc 4h
+Combination: La, Pair ( Kc Ks Ad Qh 6c )
+Shows: Hoeboen, Qc 9h
+Combination: Hoeboen, Pair ( Qc Qh Ad Ks 9h )
+Wins: La, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: La
+Small Blind: La, chips: 100
+Big Blind: Hoeboen, chips: 200
+Folds: La
+Pot size: 300
+Wins: Hoeboen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeboen
+Small Blind: Hoeboen, chips: 100
+Big Blind: La, chips: 100
+Flop: 4d 7s Ks
+Turn: Kh
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: La, 2h Ad
+Combination: La, Two Pair ( Ks Kh 4d 4h Ad )
+Shows: Hoeboen, As 2d
+Combination: Hoeboen, Two Pair ( Ks Kh 4d 4h As )
+Wins: La, chips: 100
+Wins: Hoeboen, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: La
+Small Blind: La, chips: 100
+Big Blind: Hoeboen, chips: 200
+Flop: 2s 6s 6h
+Turn: Tc
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: La, Kd 5h
+Combination: La, Pair ( 6s 6h Kd Tc 5h )
+Shows: Hoeboen, 5c 4h
+Combination: Hoeboen, Two Pair ( 6s 6h 4h 4d Tc )
+Wins: Hoeboen, chips: 300
+Quits: La, chips: 0
+Ranking: Hoeboen, Place: 1, Score: 1000
+Reveal AI: Hoeboen, AI: Random
+Ranking: La, Place: 2, Score: -1000
+Reveal AI: La, AI: AIMyBot1
+
+Player Stats for Hoeboen, AI: Random
+General: deals: 12, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 2, bluff: 8
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0.0833333, 3Bet: 0.0833333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for La, AI: AIMyBot1
+General: deals: 12, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

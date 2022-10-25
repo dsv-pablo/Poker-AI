@@ -1,0 +1,260 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Veemee: AIMyBot1
+Siloe: Random
+
+Joins: Veemee, chips: 1000
+Joins: Siloe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siloe
+Small Blind: Siloe, chips: 100
+Big Blind: Veemee, chips: 200
+Raises: Siloe, chips: 300
+Folds: Veemee
+Pot size: 700
+Wins: Siloe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veemee
+Small Blind: Veemee, chips: 100
+Big Blind: Siloe, chips: 200
+Folds: Veemee
+Pot size: 300
+Wins: Siloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siloe
+Small Blind: Siloe, chips: 100
+Big Blind: Veemee, chips: 200
+Raises: Siloe, chips: 300
+Folds: Veemee
+Pot size: 700
+Wins: Siloe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veemee
+Small Blind: Veemee, chips: 100
+Big Blind: Siloe, chips: 200
+Folds: Veemee
+Pot size: 300
+Boasts: Siloe, 6d Tc
+Wins: Siloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siloe
+Small Blind: Siloe, chips: 100
+Big Blind: Veemee, chips: 200
+Folds: Siloe
+Pot size: 300
+Wins: Veemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veemee
+Small Blind: Veemee, chips: 100
+Big Blind: Siloe, chips: 200
+Folds: Veemee
+Pot size: 300
+Wins: Siloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siloe
+Small Blind: Siloe, chips: 100
+Big Blind: Veemee, chips: 200
+Calls: Siloe
+DEBUG MESSAGE: INVALID ACTION FROM Veemee (2 0)
+Folds: Veemee
+Pot size: 400
+Boasts: Siloe, 9c 5d
+Wins: Siloe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veemee
+Small Blind: Veemee, chips: 100
+Big Blind: Siloe, chips: 200
+Folds: Veemee
+Pot size: 300
+Wins: Siloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siloe
+Small Blind: Siloe, chips: 100
+Big Blind: Veemee, chips: 100
+Flop: 3s 4s 6h
+Turn: 9d
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Veemee, 2c Kh
+Combination: Veemee, Pair ( 2c 2d Kh 9d 6h )
+Shows: Siloe, 7c Ts
+Combination: Siloe, High Card ( Ts 9d 7c 6h 4s )
+Wins: Veemee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veemee
+Small Blind: Veemee, chips: 100
+Big Blind: Siloe, chips: 200
+Folds: Veemee
+Pot size: 300
+Wins: Siloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siloe
+Small Blind: Siloe, chips: 100
+Big Blind: Veemee, chips: 100
+Flop: 9s 7s 3d
+Turn: 2d
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Veemee, Kc 4d
+Combination: Veemee, High Card ( Kc 9s 7s 5d 4d )
+Shows: Siloe, Th Ah
+Combination: Siloe, High Card ( Ah Th 9s 7s 5d )
+Wins: Siloe, chips: 200
+Quits: Veemee, chips: 0
+Ranking: Siloe, Place: 1, Score: 1000
+Reveal AI: Siloe, AI: Random
+Ranking: Veemee, Place: 2, Score: -1000
+Reveal AI: Veemee, AI: AIMyBot1
+
+Player Stats for Siloe, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Veemee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:42
+
+The game begins. The AI's of the players are: 
+Veemee: AIMyBot1
+Siloe: Random
+
+Joins: Veemee, chips: 1000
+Joins: Siloe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siloe
+Small Blind: Siloe, chips: 100
+Big Blind: Veemee, chips: 200
+Raises: Siloe, chips: 300
+Folds: Veemee
+Pot size: 700
+Wins: Siloe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veemee
+Small Blind: Veemee, chips: 100
+Big Blind: Siloe, chips: 200
+Folds: Veemee
+Pot size: 300
+Wins: Siloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siloe
+Small Blind: Siloe, chips: 100
+Big Blind: Veemee, chips: 200
+Raises: Siloe, chips: 300
+Folds: Veemee
+Pot size: 700
+Wins: Siloe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veemee
+Small Blind: Veemee, chips: 100
+Big Blind: Siloe, chips: 200
+Folds: Veemee
+Pot size: 300
+Boasts: Siloe, 6d Tc
+Wins: Siloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siloe
+Small Blind: Siloe, chips: 100
+Big Blind: Veemee, chips: 200
+Folds: Siloe
+Pot size: 300
+Wins: Veemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veemee
+Small Blind: Veemee, chips: 100
+Big Blind: Siloe, chips: 200
+Folds: Veemee
+Pot size: 300
+Wins: Siloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siloe
+Small Blind: Siloe, chips: 100
+Big Blind: Veemee, chips: 200
+Calls: Siloe
+DEBUG MESSAGE: INVALID ACTION FROM Veemee (2 0)
+Folds: Veemee
+Pot size: 400
+Boasts: Siloe, 9c 5d
+Wins: Siloe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veemee
+Small Blind: Veemee, chips: 100
+Big Blind: Siloe, chips: 200
+Folds: Veemee
+Pot size: 300
+Wins: Siloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siloe
+Small Blind: Siloe, chips: 100
+Big Blind: Veemee, chips: 100
+Flop: 3s 4s 6h
+Turn: 9d
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Veemee, 2c Kh
+Combination: Veemee, Pair ( 2c 2d Kh 9d 6h )
+Shows: Siloe, 7c Ts
+Combination: Siloe, High Card ( Ts 9d 7c 6h 4s )
+Wins: Veemee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veemee
+Small Blind: Veemee, chips: 100
+Big Blind: Siloe, chips: 200
+Folds: Veemee
+Pot size: 300
+Wins: Siloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siloe
+Small Blind: Siloe, chips: 100
+Big Blind: Veemee, chips: 100
+Flop: 9s 7s 3d
+Turn: 2d
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Veemee, Kc 4d
+Combination: Veemee, High Card ( Kc 9s 7s 5d 4d )
+Shows: Siloe, Th Ah
+Combination: Siloe, High Card ( Ah Th 9s 7s 5d )
+Wins: Siloe, chips: 200
+Quits: Veemee, chips: 0
+Ranking: Siloe, Place: 1, Score: 1000
+Reveal AI: Siloe, AI: Random
+Ranking: Veemee, Place: 2, Score: -1000
+Reveal AI: Veemee, AI: AIMyBot1
+
+Player Stats for Siloe, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Veemee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

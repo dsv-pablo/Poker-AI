@@ -1,0 +1,300 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Choeva: Random
+Hitoe: AIMyBot1
+
+Joins: Choeva, chips: 1000
+Joins: Hitoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hitoe
+Small Blind: Hitoe, chips: 100
+Big Blind: Choeva, chips: 200
+Folds: Hitoe
+Pot size: 300
+Boasts: Choeva, Td Qs
+Wins: Choeva, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeva
+Small Blind: Choeva, chips: 100
+Big Blind: Hitoe, chips: 200
+Calls: Choeva
+DEBUG MESSAGE: INVALID ACTION FROM Hitoe (2 0)
+Folds: Hitoe
+Pot size: 400
+Boasts: Choeva, Ts Qd
+Wins: Choeva, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hitoe
+Small Blind: Hitoe, chips: 100
+Big Blind: Choeva, chips: 200
+Folds: Hitoe
+Pot size: 300
+Wins: Choeva, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeva
+Small Blind: Choeva, chips: 100
+Big Blind: Hitoe, chips: 200
+Calls: Choeva
+DEBUG MESSAGE: INVALID ACTION FROM Hitoe (2 0)
+Folds: Hitoe
+Pot size: 400
+Wins: Choeva, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hitoe
+Small Blind: Hitoe, chips: 100
+Big Blind: Choeva, chips: 200
+Folds: Hitoe
+Pot size: 300
+Boasts: Choeva, 6d 9c
+Wins: Choeva, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeva
+Small Blind: Choeva, chips: 100
+Big Blind: Hitoe, chips: 200
+Calls: Choeva
+DEBUG MESSAGE: INVALID ACTION FROM Hitoe (2 0)
+Folds: Hitoe
+Pot size: 400
+Boasts: Choeva, Jd 3d
+Wins: Choeva, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hitoe
+Small Blind: Hitoe, chips: 100
+Big Blind: Choeva, chips: 200
+Flop: Kc 7c 4c
+Turn: Tc
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Choeva, 7d 4s
+Combination: Choeva, Two Pair ( 7d 7c 4s 4c Kc )
+Shows: Hitoe, Ac 9s
+Combination: Hitoe, Flush ( Ac Kc Tc 7c 4c )
+Wins: Choeva, chips: 100
+Wins: Hitoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeva
+Small Blind: Choeva, chips: 100
+Big Blind: Hitoe, chips: 200
+Flop: 5d Ac 6c
+Turn: 2s
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Choeva, Th 9h
+Combination: Choeva, High Card ( Ac Ks Th 9h 6c )
+Shows: Hitoe, Jc 7c
+Combination: Hitoe, High Card ( Ac Ks Jc 7c 6c )
+Wins: Hitoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hitoe
+Small Blind: Hitoe, chips: 100
+Big Blind: Choeva, chips: 200
+Folds: Hitoe
+Pot size: 300
+Wins: Choeva, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeva
+Small Blind: Choeva, chips: 100
+Big Blind: Hitoe, chips: 200
+Flop: 9d 9s Qh
+Turn: Tc
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Choeva, 4c Qc
+Combination: Choeva, Two Pair ( Qc Qh 9d 9s Tc )
+Shows: Hitoe, Ts 5s
+Combination: Hitoe, Two Pair ( Ts Tc 9d 9s Qh )
+Wins: Choeva, chips: 200
+Wins: Hitoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hitoe
+Small Blind: Hitoe, chips: 100
+Big Blind: Choeva, chips: 200
+Flop: 6s Tc 6h
+Turn: 9s
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Choeva, 8h Ah
+Combination: Choeva, Pair ( 6s 6h Ah Tc 9s )
+Shows: Hitoe, Qh Js
+Combination: Hitoe, Pair ( 6s 6h Qh Js Tc )
+Wins: Choeva, chips: 300
+Quits: Hitoe, chips: 0
+Ranking: Choeva, Place: 1, Score: 1000
+Reveal AI: Choeva, AI: Random
+Ranking: Hitoe, Place: 2, Score: -1000
+Reveal AI: Hitoe, AI: AIMyBot1
+
+Player Stats for Choeva, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Hitoe, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:25
+
+The game begins. The AI's of the players are: 
+Choeva: Random
+Hitoe: AIMyBot1
+
+Joins: Choeva, chips: 1000
+Joins: Hitoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hitoe
+Small Blind: Hitoe, chips: 100
+Big Blind: Choeva, chips: 200
+Folds: Hitoe
+Pot size: 300
+Boasts: Choeva, Td Qs
+Wins: Choeva, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeva
+Small Blind: Choeva, chips: 100
+Big Blind: Hitoe, chips: 200
+Calls: Choeva
+DEBUG MESSAGE: INVALID ACTION FROM Hitoe (2 0)
+Folds: Hitoe
+Pot size: 400
+Boasts: Choeva, Ts Qd
+Wins: Choeva, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hitoe
+Small Blind: Hitoe, chips: 100
+Big Blind: Choeva, chips: 200
+Folds: Hitoe
+Pot size: 300
+Wins: Choeva, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeva
+Small Blind: Choeva, chips: 100
+Big Blind: Hitoe, chips: 200
+Calls: Choeva
+DEBUG MESSAGE: INVALID ACTION FROM Hitoe (2 0)
+Folds: Hitoe
+Pot size: 400
+Wins: Choeva, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hitoe
+Small Blind: Hitoe, chips: 100
+Big Blind: Choeva, chips: 200
+Folds: Hitoe
+Pot size: 300
+Boasts: Choeva, 6d 9c
+Wins: Choeva, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeva
+Small Blind: Choeva, chips: 100
+Big Blind: Hitoe, chips: 200
+Calls: Choeva
+DEBUG MESSAGE: INVALID ACTION FROM Hitoe (2 0)
+Folds: Hitoe
+Pot size: 400
+Boasts: Choeva, Jd 3d
+Wins: Choeva, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hitoe
+Small Blind: Hitoe, chips: 100
+Big Blind: Choeva, chips: 200
+Flop: Kc 7c 4c
+Turn: Tc
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Choeva, 7d 4s
+Combination: Choeva, Two Pair ( 7d 7c 4s 4c Kc )
+Shows: Hitoe, Ac 9s
+Combination: Hitoe, Flush ( Ac Kc Tc 7c 4c )
+Wins: Choeva, chips: 100
+Wins: Hitoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeva
+Small Blind: Choeva, chips: 100
+Big Blind: Hitoe, chips: 200
+Flop: 5d Ac 6c
+Turn: 2s
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Choeva, Th 9h
+Combination: Choeva, High Card ( Ac Ks Th 9h 6c )
+Shows: Hitoe, Jc 7c
+Combination: Hitoe, High Card ( Ac Ks Jc 7c 6c )
+Wins: Hitoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hitoe
+Small Blind: Hitoe, chips: 100
+Big Blind: Choeva, chips: 200
+Folds: Hitoe
+Pot size: 300
+Wins: Choeva, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Choeva
+Small Blind: Choeva, chips: 100
+Big Blind: Hitoe, chips: 200
+Flop: 9d 9s Qh
+Turn: Tc
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Choeva, 4c Qc
+Combination: Choeva, Two Pair ( Qc Qh 9d 9s Tc )
+Shows: Hitoe, Ts 5s
+Combination: Hitoe, Two Pair ( Ts Tc 9d 9s Qh )
+Wins: Choeva, chips: 200
+Wins: Hitoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hitoe
+Small Blind: Hitoe, chips: 100
+Big Blind: Choeva, chips: 200
+Flop: 6s Tc 6h
+Turn: 9s
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Choeva, 8h Ah
+Combination: Choeva, Pair ( 6s 6h Ah Tc 9s )
+Shows: Hitoe, Qh Js
+Combination: Hitoe, Pair ( 6s 6h Qh Js Tc )
+Wins: Choeva, chips: 300
+Quits: Hitoe, chips: 0
+Ranking: Choeva, Place: 1, Score: 1000
+Reveal AI: Choeva, AI: Random
+Ranking: Hitoe, Place: 2, Score: -1000
+Reveal AI: Hitoe, AI: AIMyBot1
+
+Player Stats for Choeva, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Hitoe, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

@@ -1,0 +1,218 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Kudi: Random
+Tettenha: AIMyBot1
+
+Joins: Kudi, chips: 1000
+Joins: Tettenha, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kudi
+Small Blind: Kudi, chips: 100
+Big Blind: Tettenha, chips: 200
+Folds: Kudi
+Pot size: 300
+Boasts: Kudi, 9d 6h
+Wins: Tettenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tettenha
+Small Blind: Tettenha, chips: 100
+Big Blind: Kudi, chips: 200
+Folds: Tettenha
+Pot size: 300
+Wins: Kudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kudi
+Small Blind: Kudi, chips: 100
+Big Blind: Tettenha, chips: 200
+Raises: Kudi, chips: 300
+Folds: Tettenha
+Pot size: 700
+Wins: Kudi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tettenha
+Small Blind: Tettenha, chips: 100
+Big Blind: Kudi, chips: 200
+Folds: Tettenha
+Pot size: 300
+Wins: Kudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kudi
+Small Blind: Kudi, chips: 100
+Big Blind: Tettenha, chips: 200
+Raises: Kudi, chips: 300
+Folds: Tettenha
+Pot size: 700
+Boasts: Kudi, Qs 4s
+Wins: Kudi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tettenha
+Small Blind: Tettenha, chips: 100
+Big Blind: Kudi, chips: 200
+Folds: Tettenha
+Pot size: 300
+Wins: Kudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kudi
+Small Blind: Kudi, chips: 100
+Big Blind: Tettenha, chips: 200
+Raises: Kudi, chips: 300
+Folds: Tettenha
+Pot size: 700
+Boasts: Kudi, 5h 2s
+Wins: Kudi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tettenha
+Small Blind: Tettenha, chips: 100
+Big Blind: Kudi, chips: 200
+Folds: Tettenha
+Pot size: 300
+Wins: Kudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kudi
+Small Blind: Kudi, chips: 100
+Big Blind: Tettenha, chips: 100
+Flop: 2h 3h 9d
+Turn: 9c
+River: Ah
+Pot size: 200
+Showdown Reached
+Shows: Kudi, As 8c
+Combination: Kudi, Two Pair ( As Ah 9d 9c 8c )
+Shows: Tettenha, Ad 4c
+Combination: Tettenha, Two Pair ( Ad Ah 9d 9c 4c )
+Wins: Kudi, chips: 200
+Quits: Tettenha, chips: 0
+Ranking: Kudi, Place: 1, Score: 1000
+Reveal AI: Kudi, AI: Random
+Ranking: Tettenha, Place: 2, Score: -1000
+Reveal AI: Tettenha, AI: AIMyBot1
+
+Player Stats for Kudi, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Tettenha, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:15
+
+The game begins. The AI's of the players are: 
+Kudi: Random
+Tettenha: AIMyBot1
+
+Joins: Kudi, chips: 1000
+Joins: Tettenha, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kudi
+Small Blind: Kudi, chips: 100
+Big Blind: Tettenha, chips: 200
+Folds: Kudi
+Pot size: 300
+Boasts: Kudi, 9d 6h
+Wins: Tettenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tettenha
+Small Blind: Tettenha, chips: 100
+Big Blind: Kudi, chips: 200
+Folds: Tettenha
+Pot size: 300
+Wins: Kudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kudi
+Small Blind: Kudi, chips: 100
+Big Blind: Tettenha, chips: 200
+Raises: Kudi, chips: 300
+Folds: Tettenha
+Pot size: 700
+Wins: Kudi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tettenha
+Small Blind: Tettenha, chips: 100
+Big Blind: Kudi, chips: 200
+Folds: Tettenha
+Pot size: 300
+Wins: Kudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kudi
+Small Blind: Kudi, chips: 100
+Big Blind: Tettenha, chips: 200
+Raises: Kudi, chips: 300
+Folds: Tettenha
+Pot size: 700
+Boasts: Kudi, Qs 4s
+Wins: Kudi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tettenha
+Small Blind: Tettenha, chips: 100
+Big Blind: Kudi, chips: 200
+Folds: Tettenha
+Pot size: 300
+Wins: Kudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kudi
+Small Blind: Kudi, chips: 100
+Big Blind: Tettenha, chips: 200
+Raises: Kudi, chips: 300
+Folds: Tettenha
+Pot size: 700
+Boasts: Kudi, 5h 2s
+Wins: Kudi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tettenha
+Small Blind: Tettenha, chips: 100
+Big Blind: Kudi, chips: 200
+Folds: Tettenha
+Pot size: 300
+Wins: Kudi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kudi
+Small Blind: Kudi, chips: 100
+Big Blind: Tettenha, chips: 100
+Flop: 2h 3h 9d
+Turn: 9c
+River: Ah
+Pot size: 200
+Showdown Reached
+Shows: Kudi, As 8c
+Combination: Kudi, Two Pair ( As Ah 9d 9c 8c )
+Shows: Tettenha, Ad 4c
+Combination: Tettenha, Two Pair ( Ad Ah 9d 9c 4c )
+Wins: Kudi, chips: 200
+Quits: Tettenha, chips: 0
+Ranking: Kudi, Place: 1, Score: 1000
+Reveal AI: Kudi, AI: Random
+Ranking: Tettenha, Place: 2, Score: -1000
+Reveal AI: Tettenha, AI: AIMyBot1
+
+Player Stats for Kudi, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Tettenha, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

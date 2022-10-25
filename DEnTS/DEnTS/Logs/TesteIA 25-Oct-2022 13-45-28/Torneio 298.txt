@@ -1,0 +1,518 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Goenoe: AIMyBot1
+Hemoesa: Random
+
+Joins: Goenoe, chips: 1000
+Joins: Hemoesa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Raises: Hemoesa, chips: 300
+Folds: Goenoe
+Pot size: 700
+Wins: Hemoesa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Folds: Goenoe
+Pot size: 300
+Boasts: Hemoesa, Qc 5c
+Wins: Hemoesa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Calls: Hemoesa
+DEBUG MESSAGE: INVALID ACTION FROM Goenoe (2 0)
+Folds: Goenoe
+Pot size: 400
+Boasts: Hemoesa, Tc Kc
+Wins: Hemoesa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Folds: Goenoe
+Pot size: 300
+Boasts: Hemoesa, Qd Qs
+Wins: Hemoesa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Calls: Hemoesa
+DEBUG MESSAGE: INVALID ACTION FROM Goenoe (2 0)
+Folds: Goenoe
+Pot size: 400
+Boasts: Hemoesa, Ah Qs
+Wins: Hemoesa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Folds: Goenoe
+Pot size: 300
+Wins: Hemoesa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 100
+Flop: 2h 4h Ah
+Turn: 5s
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Goenoe, Qs 2s
+Combination: Goenoe, Two Pair ( 4h 4c 2s 2h Ah )
+Shows: Hemoesa, 2d 8s
+Combination: Hemoesa, Two Pair ( 4h 4c 2d 2h Ah )
+Wins: Goenoe, chips: 100
+Wins: Hemoesa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Flop: 5d 5h Kh
+Turn: Qd
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, 2d 4d
+Combination: Goenoe, Flush ( Qd 7d 5d 4d 2d )
+Shows: Hemoesa, 5c Ac
+Combination: Hemoesa, Three Of A Kind ( 5c 5d 5h Ac Kh )
+Wins: Goenoe, chips: 200
+Wins: Hemoesa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Flop: 5h 6c Kc
+Turn: 6d
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, Ts Td
+Combination: Goenoe, Full House ( Ts Td Th 6c 6d )
+Shows: Hemoesa, 4s 6s
+Combination: Hemoesa, Three Of A Kind ( 6s 6c 6d Kc Th )
+Wins: Goenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Folds: Goenoe
+Pot size: 300
+Boasts: Hemoesa, 6d Qh
+Wins: Hemoesa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Flop: 8s Kd 9s
+Turn: 9h
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, Js 6s
+Combination: Goenoe, Pair ( 9s 9h Kd Qd Js )
+Shows: Hemoesa, 3c 5h
+Combination: Hemoesa, Pair ( 9s 9h Kd Qd 8s )
+Wins: Goenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Folds: Goenoe
+Pot size: 300
+Wins: Hemoesa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Flop: 5h 9s 8h
+Turn: 5d
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, 6c Qs
+Combination: Goenoe, Pair ( 5h 5d Kh Qs 9s )
+Shows: Hemoesa, Ad 5c
+Combination: Hemoesa, Three Of A Kind ( 5c 5h 5d Ad Kh )
+Wins: Goenoe, chips: 100
+Wins: Hemoesa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Flop: Td 2h 9h
+Turn: Ks
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, 9d Kd
+Combination: Goenoe, Two Pair ( Kd Ks 9d 9h Qs )
+Shows: Hemoesa, 4d 2c
+Combination: Hemoesa, Pair ( 2c 2h Ks Qs Td )
+Wins: Goenoe, chips: 200
+Wins: Hemoesa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Flop: 3d Kh 6d
+Turn: 7h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, Ad Jh
+Combination: Goenoe, Pair ( Ad As Kh Jh 7h )
+Shows: Hemoesa, 6s Qh
+Combination: Hemoesa, Pair ( 6s 6d As Kh Qh )
+Wins: Goenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Folds: Goenoe
+Pot size: 300
+Boasts: Hemoesa, Tc 3h
+Wins: Hemoesa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Flop: 9h 7c 3h
+Turn: 3d
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, Kd 7h
+Combination: Goenoe, Two Pair ( 7h 7c 3h 3d Kd )
+Shows: Hemoesa, Kc 5s
+Combination: Hemoesa, Two Pair ( 5s 5d 3h 3d Kc )
+Wins: Goenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Folds: Goenoe
+Pot size: 300
+Wins: Hemoesa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Flop: Qh Jd 7s
+Turn: 5d
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, 3c 4d
+Combination: Goenoe, Pair ( Jd Jc Qh 7s 5d )
+Shows: Hemoesa, 3h Ad
+Combination: Hemoesa, Pair ( Jd Jc Ad Qh 7s )
+Wins: Goenoe, chips: 100
+Wins: Hemoesa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Flop: 6s 4h Qh
+Turn: 4s
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, Kh 3d
+Combination: Goenoe, Pair ( 4h 4s Kh Qh 6s )
+Shows: Hemoesa, Jd Qd
+Combination: Hemoesa, Two Pair ( Qd Qh 4h 4s Jd )
+Wins: Hemoesa, chips: 300
+Quits: Goenoe, chips: 0
+Ranking: Hemoesa, Place: 1, Score: 1000
+Reveal AI: Hemoesa, AI: Random
+Ranking: Goenoe, Place: 2, Score: -1000
+Reveal AI: Goenoe, AI: AIMyBot1
+
+Player Stats for Goenoe, AI: AIMyBot1
+General: deals: 20, actions: 10, preflop actions: 10
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 9, showdown: 9, bluff: 0
+Chips: won: 1900, lost: 2900, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9
+
+
+Player Stats for Hemoesa, AI: Random
+General: deals: 20, actions: 3, preflop actions: 3
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 16, showdown: 6, bluff: 10
+Chips: won: 4600, lost: 3600, bought: 1000, forced bets: 3000
+Pre-Flop Stats: VP$IP: 0.15, PFR: 0.05, 3Bet: 0.05
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+
+Date: 2022/10/25 13:45:49
+
+The game begins. The AI's of the players are: 
+Goenoe: AIMyBot1
+Hemoesa: Random
+
+Joins: Goenoe, chips: 1000
+Joins: Hemoesa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Raises: Hemoesa, chips: 300
+Folds: Goenoe
+Pot size: 700
+Wins: Hemoesa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Folds: Goenoe
+Pot size: 300
+Boasts: Hemoesa, Qc 5c
+Wins: Hemoesa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Calls: Hemoesa
+DEBUG MESSAGE: INVALID ACTION FROM Goenoe (2 0)
+Folds: Goenoe
+Pot size: 400
+Boasts: Hemoesa, Tc Kc
+Wins: Hemoesa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Folds: Goenoe
+Pot size: 300
+Boasts: Hemoesa, Qd Qs
+Wins: Hemoesa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Calls: Hemoesa
+DEBUG MESSAGE: INVALID ACTION FROM Goenoe (2 0)
+Folds: Goenoe
+Pot size: 400
+Boasts: Hemoesa, Ah Qs
+Wins: Hemoesa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Folds: Goenoe
+Pot size: 300
+Wins: Hemoesa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 100
+Flop: 2h 4h Ah
+Turn: 5s
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Goenoe, Qs 2s
+Combination: Goenoe, Two Pair ( 4h 4c 2s 2h Ah )
+Shows: Hemoesa, 2d 8s
+Combination: Hemoesa, Two Pair ( 4h 4c 2d 2h Ah )
+Wins: Goenoe, chips: 100
+Wins: Hemoesa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Flop: 5d 5h Kh
+Turn: Qd
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, 2d 4d
+Combination: Goenoe, Flush ( Qd 7d 5d 4d 2d )
+Shows: Hemoesa, 5c Ac
+Combination: Hemoesa, Three Of A Kind ( 5c 5d 5h Ac Kh )
+Wins: Goenoe, chips: 200
+Wins: Hemoesa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Flop: 5h 6c Kc
+Turn: 6d
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, Ts Td
+Combination: Goenoe, Full House ( Ts Td Th 6c 6d )
+Shows: Hemoesa, 4s 6s
+Combination: Hemoesa, Three Of A Kind ( 6s 6c 6d Kc Th )
+Wins: Goenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Folds: Goenoe
+Pot size: 300
+Boasts: Hemoesa, 6d Qh
+Wins: Hemoesa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Flop: 8s Kd 9s
+Turn: 9h
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, Js 6s
+Combination: Goenoe, Pair ( 9s 9h Kd Qd Js )
+Shows: Hemoesa, 3c 5h
+Combination: Hemoesa, Pair ( 9s 9h Kd Qd 8s )
+Wins: Goenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Folds: Goenoe
+Pot size: 300
+Wins: Hemoesa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Flop: 5h 9s 8h
+Turn: 5d
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, 6c Qs
+Combination: Goenoe, Pair ( 5h 5d Kh Qs 9s )
+Shows: Hemoesa, Ad 5c
+Combination: Hemoesa, Three Of A Kind ( 5c 5h 5d Ad Kh )
+Wins: Goenoe, chips: 100
+Wins: Hemoesa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Flop: Td 2h 9h
+Turn: Ks
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, 9d Kd
+Combination: Goenoe, Two Pair ( Kd Ks 9d 9h Qs )
+Shows: Hemoesa, 4d 2c
+Combination: Hemoesa, Pair ( 2c 2h Ks Qs Td )
+Wins: Goenoe, chips: 200
+Wins: Hemoesa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Flop: 3d Kh 6d
+Turn: 7h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, Ad Jh
+Combination: Goenoe, Pair ( Ad As Kh Jh 7h )
+Shows: Hemoesa, 6s Qh
+Combination: Hemoesa, Pair ( 6s 6d As Kh Qh )
+Wins: Goenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Folds: Goenoe
+Pot size: 300
+Boasts: Hemoesa, Tc 3h
+Wins: Hemoesa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Flop: 9h 7c 3h
+Turn: 3d
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, Kd 7h
+Combination: Goenoe, Two Pair ( 7h 7c 3h 3d Kd )
+Shows: Hemoesa, Kc 5s
+Combination: Hemoesa, Two Pair ( 5s 5d 3h 3d Kc )
+Wins: Goenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Folds: Goenoe
+Pot size: 300
+Wins: Hemoesa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hemoesa
+Small Blind: Hemoesa, chips: 100
+Big Blind: Goenoe, chips: 200
+Flop: Qh Jd 7s
+Turn: 5d
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, 3c 4d
+Combination: Goenoe, Pair ( Jd Jc Qh 7s 5d )
+Shows: Hemoesa, 3h Ad
+Combination: Hemoesa, Pair ( Jd Jc Ad Qh 7s )
+Wins: Goenoe, chips: 100
+Wins: Hemoesa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenoe
+Small Blind: Goenoe, chips: 100
+Big Blind: Hemoesa, chips: 200
+Flop: 6s 4h Qh
+Turn: 4s
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Goenoe, Kh 3d
+Combination: Goenoe, Pair ( 4h 4s Kh Qh 6s )
+Shows: Hemoesa, Jd Qd
+Combination: Hemoesa, Two Pair ( Qd Qh 4h 4s Jd )
+Wins: Hemoesa, chips: 300
+Quits: Goenoe, chips: 0
+Ranking: Hemoesa, Place: 1, Score: 1000
+Reveal AI: Hemoesa, AI: Random
+Ranking: Goenoe, Place: 2, Score: -1000
+Reveal AI: Goenoe, AI: AIMyBot1
+
+Player Stats for Goenoe, AI: AIMyBot1
+General: deals: 20, actions: 10, preflop actions: 10
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 9, showdown: 9, bluff: 0
+Chips: won: 1900, lost: 2900, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9
+
+
+Player Stats for Hemoesa, AI: Random
+General: deals: 20, actions: 3, preflop actions: 3
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 16, showdown: 6, bluff: 10
+Chips: won: 4600, lost: 3600, bought: 1000, forced bets: 3000
+Pre-Flop Stats: VP$IP: 0.15, PFR: 0.05, 3Bet: 0.05
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+

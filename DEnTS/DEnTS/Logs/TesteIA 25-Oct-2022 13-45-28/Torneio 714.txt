@@ -1,0 +1,552 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Rapoetry: AIMyBot1
+Beehahoe: Random
+
+Joins: Rapoetry, chips: 1000
+Joins: Beehahoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Folds: Rapoetry
+Pot size: 300
+Boasts: Beehahoe, Th 4s
+Wins: Beehahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Raises: Beehahoe, chips: 300
+Folds: Rapoetry
+Pot size: 700
+Boasts: Beehahoe, 8c Th
+Wins: Beehahoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Folds: Rapoetry
+Pot size: 300
+Wins: Beehahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Raises: Beehahoe, chips: 300
+Folds: Rapoetry
+Pot size: 700
+Boasts: Beehahoe, Kd 7h
+Wins: Beehahoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Folds: Rapoetry
+Pot size: 300
+Boasts: Beehahoe, Ks Jd
+Wins: Beehahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Raises: Beehahoe, chips: 300
+Folds: Rapoetry
+Pot size: 700
+Boasts: Beehahoe, Ah Qd
+Wins: Beehahoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Flop: Tc Ad 8s
+Turn: Kh
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, 6h 7s
+Combination: Rapoetry, Pair ( 7s 7c Ad Kh Tc )
+Shows: Beehahoe, 5s 6d
+Combination: Beehahoe, High Card ( Ad Kh Tc 8s 7c )
+Wins: Rapoetry, chips: 200
+Wins: Beehahoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Flop: Ks 5h Qd
+Turn: Ad
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, 2c 7s
+Combination: Rapoetry, High Card ( Ad Ks Qd 8h 7s )
+Shows: Beehahoe, Kd Jc
+Combination: Beehahoe, Pair ( Kd Ks Ad Qd Jc )
+Wins: Rapoetry, chips: 100
+Wins: Beehahoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Flop: 5s 6s 4d
+Turn: 7d
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, 5h 2s
+Combination: Rapoetry, Two Pair ( 6s 6d 5h 5s 7d )
+Shows: Beehahoe, 9s Tc
+Combination: Beehahoe, Pair ( 6s 6d Tc 9s 7d )
+Wins: Rapoetry, chips: 200
+Wins: Beehahoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Flop: Th Ah Qs
+Turn: 9h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, 5h 4s
+Combination: Rapoetry, Pair ( Ah As Qs Th 9h )
+Shows: Beehahoe, 3s Qh
+Combination: Beehahoe, Two Pair ( Ah As Qh Qs Th )
+Wins: Rapoetry, chips: 100
+Wins: Beehahoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Flop: As 4h 2d
+Turn: 8h
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, 8c 3s
+Combination: Rapoetry, Pair ( 8c 8h As 9s 4h )
+Shows: Beehahoe, Ts 5d
+Combination: Beehahoe, High Card ( As Ts 9s 8h 5d )
+Wins: Rapoetry, chips: 200
+Wins: Beehahoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Flop: Ks Qc 7d
+Turn: 3s
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, Kd 8d
+Combination: Rapoetry, Pair ( Kd Ks Qc Tc 8d )
+Shows: Beehahoe, 7h 6d
+Combination: Beehahoe, Pair ( 7h 7d Ks Qc Tc )
+Wins: Rapoetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Folds: Rapoetry
+Pot size: 300
+Boasts: Beehahoe, Kd 5h
+Wins: Beehahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Flop: 3h 4d 7c
+Turn: Th
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, 8h 8s
+Combination: Rapoetry, Pair ( 8h 8s Th 7c 5d )
+Shows: Beehahoe, Td Ts
+Combination: Beehahoe, Three Of A Kind ( Td Ts Th 7c 5d )
+Wins: Rapoetry, chips: 100
+Wins: Beehahoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Flop: 7c Jd 2d
+Turn: 5s
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, Kh 7d
+Combination: Rapoetry, Two Pair ( Jd Js 7d 7c Kh )
+Shows: Beehahoe, 4d As
+Combination: Beehahoe, Pair ( Jd Js As 7c 5s )
+Wins: Rapoetry, chips: 200
+Wins: Beehahoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Flop: Qd 8d 9d
+Turn: 3c
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, 3h 9s
+Combination: Rapoetry, Two Pair ( 9s 9d 3h 3c Qd )
+Shows: Beehahoe, Ac Tc
+Combination: Beehahoe, High Card ( Ac Qd Tc 9d 8d )
+Wins: Rapoetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Folds: Rapoetry
+Pot size: 300
+Boasts: Beehahoe, 8h 3d
+Wins: Beehahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Flop: 9h 7h 4d
+Turn: Qs
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, 9s As
+Combination: Rapoetry, Pair ( 9s 9h As Qs 7h )
+Shows: Beehahoe, Qc Kd
+Combination: Beehahoe, Pair ( Qc Qs Kd 9h 7h )
+Wins: Rapoetry, chips: 100
+Wins: Beehahoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Flop: 8d Kh 8h
+Turn: 4h
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, Ac 2d
+Combination: Rapoetry, Three Of A Kind ( 8d 8h 8c Ac Kh )
+Shows: Beehahoe, As Qs
+Combination: Beehahoe, Three Of A Kind ( 8d 8h 8c As Kh )
+Wins: Rapoetry, chips: 100
+Wins: Beehahoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 100
+Flop: Kc As 7h
+Turn: Ad
+River: 3h
+Pot size: 200
+Showdown Reached
+Shows: Rapoetry, 2s 2d
+Combination: Rapoetry, Two Pair ( As Ad 2s 2d Kc )
+Shows: Beehahoe, 3s 9c
+Combination: Beehahoe, Two Pair ( As Ad 3s 3h Kc )
+Wins: Beehahoe, chips: 200
+Quits: Rapoetry, chips: 0
+Ranking: Beehahoe, Place: 1, Score: 1000
+Reveal AI: Beehahoe, AI: Random
+Ranking: Rapoetry, Place: 2, Score: -1000
+Reveal AI: Rapoetry, AI: AIMyBot1
+
+Player Stats for Beehahoe, AI: Random
+General: deals: 20, actions: 3, preflop actions: 3
+Rounds Seen: flops: 12, turns: 12, rivers: 12, showdowns: 12
+Wins: total: 18, showdown: 10, bluff: 8
+Chips: won: 5200, lost: 4200, bought: 1000, forced bets: 3000
+Pre-Flop Stats: VP$IP: 0.15, PFR: 0.15, 3Bet: 0.15
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Rapoetry, AI: AIMyBot1
+General: deals: 20, actions: 8, preflop actions: 8
+Rounds Seen: flops: 12, turns: 12, rivers: 12, showdowns: 12
+Wins: total: 11, showdown: 11, bluff: 0
+Chips: won: 1900, lost: 2900, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.916667
+
+
+Date: 2022/10/25 13:46:17
+
+The game begins. The AI's of the players are: 
+Rapoetry: AIMyBot1
+Beehahoe: Random
+
+Joins: Rapoetry, chips: 1000
+Joins: Beehahoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Folds: Rapoetry
+Pot size: 300
+Boasts: Beehahoe, Th 4s
+Wins: Beehahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Raises: Beehahoe, chips: 300
+Folds: Rapoetry
+Pot size: 700
+Boasts: Beehahoe, 8c Th
+Wins: Beehahoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Folds: Rapoetry
+Pot size: 300
+Wins: Beehahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Raises: Beehahoe, chips: 300
+Folds: Rapoetry
+Pot size: 700
+Boasts: Beehahoe, Kd 7h
+Wins: Beehahoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Folds: Rapoetry
+Pot size: 300
+Boasts: Beehahoe, Ks Jd
+Wins: Beehahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Raises: Beehahoe, chips: 300
+Folds: Rapoetry
+Pot size: 700
+Boasts: Beehahoe, Ah Qd
+Wins: Beehahoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Flop: Tc Ad 8s
+Turn: Kh
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, 6h 7s
+Combination: Rapoetry, Pair ( 7s 7c Ad Kh Tc )
+Shows: Beehahoe, 5s 6d
+Combination: Beehahoe, High Card ( Ad Kh Tc 8s 7c )
+Wins: Rapoetry, chips: 200
+Wins: Beehahoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Flop: Ks 5h Qd
+Turn: Ad
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, 2c 7s
+Combination: Rapoetry, High Card ( Ad Ks Qd 8h 7s )
+Shows: Beehahoe, Kd Jc
+Combination: Beehahoe, Pair ( Kd Ks Ad Qd Jc )
+Wins: Rapoetry, chips: 100
+Wins: Beehahoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Flop: 5s 6s 4d
+Turn: 7d
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, 5h 2s
+Combination: Rapoetry, Two Pair ( 6s 6d 5h 5s 7d )
+Shows: Beehahoe, 9s Tc
+Combination: Beehahoe, Pair ( 6s 6d Tc 9s 7d )
+Wins: Rapoetry, chips: 200
+Wins: Beehahoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Flop: Th Ah Qs
+Turn: 9h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, 5h 4s
+Combination: Rapoetry, Pair ( Ah As Qs Th 9h )
+Shows: Beehahoe, 3s Qh
+Combination: Beehahoe, Two Pair ( Ah As Qh Qs Th )
+Wins: Rapoetry, chips: 100
+Wins: Beehahoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Flop: As 4h 2d
+Turn: 8h
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, 8c 3s
+Combination: Rapoetry, Pair ( 8c 8h As 9s 4h )
+Shows: Beehahoe, Ts 5d
+Combination: Beehahoe, High Card ( As Ts 9s 8h 5d )
+Wins: Rapoetry, chips: 200
+Wins: Beehahoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Flop: Ks Qc 7d
+Turn: 3s
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, Kd 8d
+Combination: Rapoetry, Pair ( Kd Ks Qc Tc 8d )
+Shows: Beehahoe, 7h 6d
+Combination: Beehahoe, Pair ( 7h 7d Ks Qc Tc )
+Wins: Rapoetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Folds: Rapoetry
+Pot size: 300
+Boasts: Beehahoe, Kd 5h
+Wins: Beehahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Flop: 3h 4d 7c
+Turn: Th
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, 8h 8s
+Combination: Rapoetry, Pair ( 8h 8s Th 7c 5d )
+Shows: Beehahoe, Td Ts
+Combination: Beehahoe, Three Of A Kind ( Td Ts Th 7c 5d )
+Wins: Rapoetry, chips: 100
+Wins: Beehahoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Flop: 7c Jd 2d
+Turn: 5s
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, Kh 7d
+Combination: Rapoetry, Two Pair ( Jd Js 7d 7c Kh )
+Shows: Beehahoe, 4d As
+Combination: Beehahoe, Pair ( Jd Js As 7c 5s )
+Wins: Rapoetry, chips: 200
+Wins: Beehahoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Flop: Qd 8d 9d
+Turn: 3c
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, 3h 9s
+Combination: Rapoetry, Two Pair ( 9s 9d 3h 3c Qd )
+Shows: Beehahoe, Ac Tc
+Combination: Beehahoe, High Card ( Ac Qd Tc 9d 8d )
+Wins: Rapoetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Folds: Rapoetry
+Pot size: 300
+Boasts: Beehahoe, 8h 3d
+Wins: Beehahoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 200
+Flop: 9h 7h 4d
+Turn: Qs
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, 9s As
+Combination: Rapoetry, Pair ( 9s 9h As Qs 7h )
+Shows: Beehahoe, Qc Kd
+Combination: Beehahoe, Pair ( Qc Qs Kd 9h 7h )
+Wins: Rapoetry, chips: 100
+Wins: Beehahoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rapoetry
+Small Blind: Rapoetry, chips: 100
+Big Blind: Beehahoe, chips: 200
+Flop: 8d Kh 8h
+Turn: 4h
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Rapoetry, Ac 2d
+Combination: Rapoetry, Three Of A Kind ( 8d 8h 8c Ac Kh )
+Shows: Beehahoe, As Qs
+Combination: Beehahoe, Three Of A Kind ( 8d 8h 8c As Kh )
+Wins: Rapoetry, chips: 100
+Wins: Beehahoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beehahoe
+Small Blind: Beehahoe, chips: 100
+Big Blind: Rapoetry, chips: 100
+Flop: Kc As 7h
+Turn: Ad
+River: 3h
+Pot size: 200
+Showdown Reached
+Shows: Rapoetry, 2s 2d
+Combination: Rapoetry, Two Pair ( As Ad 2s 2d Kc )
+Shows: Beehahoe, 3s 9c
+Combination: Beehahoe, Two Pair ( As Ad 3s 3h Kc )
+Wins: Beehahoe, chips: 200
+Quits: Rapoetry, chips: 0
+Ranking: Beehahoe, Place: 1, Score: 1000
+Reveal AI: Beehahoe, AI: Random
+Ranking: Rapoetry, Place: 2, Score: -1000
+Reveal AI: Rapoetry, AI: AIMyBot1
+
+Player Stats for Beehahoe, AI: Random
+General: deals: 20, actions: 3, preflop actions: 3
+Rounds Seen: flops: 12, turns: 12, rivers: 12, showdowns: 12
+Wins: total: 18, showdown: 10, bluff: 8
+Chips: won: 5200, lost: 4200, bought: 1000, forced bets: 3000
+Pre-Flop Stats: VP$IP: 0.15, PFR: 0.15, 3Bet: 0.15
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Rapoetry, AI: AIMyBot1
+General: deals: 20, actions: 8, preflop actions: 8
+Rounds Seen: flops: 12, turns: 12, rivers: 12, showdowns: 12
+Wins: total: 11, showdown: 11, bluff: 0
+Chips: won: 1900, lost: 2900, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.916667
+
+

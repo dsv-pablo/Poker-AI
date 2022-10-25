@@ -1,0 +1,226 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Josotto: Random
+Hoewim: AIMyBot1
+
+Joins: Josotto, chips: 1000
+Joins: Hoewim, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewim
+Small Blind: Hoewim, chips: 100
+Big Blind: Josotto, chips: 200
+Folds: Hoewim
+Pot size: 300
+Boasts: Josotto, Tc 4h
+Wins: Josotto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Josotto
+Small Blind: Josotto, chips: 100
+Big Blind: Hoewim, chips: 200
+Raises: Josotto, chips: 300
+Folds: Hoewim
+Pot size: 700
+Boasts: Josotto, 6s 4h
+Wins: Josotto, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewim
+Small Blind: Hoewim, chips: 100
+Big Blind: Josotto, chips: 200
+Folds: Hoewim
+Pot size: 300
+Boasts: Josotto, 9d 9c
+Wins: Josotto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Josotto
+Small Blind: Josotto, chips: 100
+Big Blind: Hoewim, chips: 200
+Folds: Josotto
+Pot size: 300
+Wins: Hoewim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewim
+Small Blind: Hoewim, chips: 100
+Big Blind: Josotto, chips: 200
+Folds: Hoewim
+Pot size: 300
+Wins: Josotto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Josotto
+Small Blind: Josotto, chips: 100
+Big Blind: Hoewim, chips: 200
+Calls: Josotto
+DEBUG MESSAGE: INVALID ACTION FROM Hoewim (2 0)
+Folds: Hoewim
+Pot size: 400
+Wins: Josotto, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewim
+Small Blind: Hoewim, chips: 100
+Big Blind: Josotto, chips: 200
+Folds: Hoewim
+Pot size: 300
+Boasts: Josotto, 7s Kc
+Wins: Josotto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Josotto
+Small Blind: Josotto, chips: 100
+Big Blind: Hoewim, chips: 200
+Calls: Josotto
+DEBUG MESSAGE: INVALID ACTION FROM Hoewim (2 0)
+Folds: Hoewim
+Pot size: 400
+Boasts: Josotto, Ah Jh
+Wins: Josotto, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewim
+Small Blind: Hoewim, chips: 100
+Big Blind: Josotto, chips: 200
+Flop: Jc 3d 4c
+Turn: 5s
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Josotto, 4s 2s
+Combination: Josotto, Pair ( 4s 4c Qs Jc 5s )
+Shows: Hoewim, 6d 9c
+Combination: Hoewim, High Card ( Qs Jc 9c 6d 5s )
+Wins: Josotto, chips: 300
+Quits: Hoewim, chips: 0
+Ranking: Josotto, Place: 1, Score: 1000
+Reveal AI: Josotto, AI: Random
+Ranking: Hoewim, Place: 2, Score: -1000
+Reveal AI: Hoewim, AI: AIMyBot1
+
+Player Stats for Hoewim, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Josotto, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:01
+
+The game begins. The AI's of the players are: 
+Josotto: Random
+Hoewim: AIMyBot1
+
+Joins: Josotto, chips: 1000
+Joins: Hoewim, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewim
+Small Blind: Hoewim, chips: 100
+Big Blind: Josotto, chips: 200
+Folds: Hoewim
+Pot size: 300
+Boasts: Josotto, Tc 4h
+Wins: Josotto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Josotto
+Small Blind: Josotto, chips: 100
+Big Blind: Hoewim, chips: 200
+Raises: Josotto, chips: 300
+Folds: Hoewim
+Pot size: 700
+Boasts: Josotto, 6s 4h
+Wins: Josotto, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewim
+Small Blind: Hoewim, chips: 100
+Big Blind: Josotto, chips: 200
+Folds: Hoewim
+Pot size: 300
+Boasts: Josotto, 9d 9c
+Wins: Josotto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Josotto
+Small Blind: Josotto, chips: 100
+Big Blind: Hoewim, chips: 200
+Folds: Josotto
+Pot size: 300
+Wins: Hoewim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewim
+Small Blind: Hoewim, chips: 100
+Big Blind: Josotto, chips: 200
+Folds: Hoewim
+Pot size: 300
+Wins: Josotto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Josotto
+Small Blind: Josotto, chips: 100
+Big Blind: Hoewim, chips: 200
+Calls: Josotto
+DEBUG MESSAGE: INVALID ACTION FROM Hoewim (2 0)
+Folds: Hoewim
+Pot size: 400
+Wins: Josotto, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewim
+Small Blind: Hoewim, chips: 100
+Big Blind: Josotto, chips: 200
+Folds: Hoewim
+Pot size: 300
+Boasts: Josotto, 7s Kc
+Wins: Josotto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Josotto
+Small Blind: Josotto, chips: 100
+Big Blind: Hoewim, chips: 200
+Calls: Josotto
+DEBUG MESSAGE: INVALID ACTION FROM Hoewim (2 0)
+Folds: Hoewim
+Pot size: 400
+Boasts: Josotto, Ah Jh
+Wins: Josotto, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoewim
+Small Blind: Hoewim, chips: 100
+Big Blind: Josotto, chips: 200
+Flop: Jc 3d 4c
+Turn: 5s
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Josotto, 4s 2s
+Combination: Josotto, Pair ( 4s 4c Qs Jc 5s )
+Shows: Hoewim, 6d 9c
+Combination: Hoewim, High Card ( Qs Jc 9c 6d 5s )
+Wins: Josotto, chips: 300
+Quits: Hoewim, chips: 0
+Ranking: Josotto, Place: 1, Score: 1000
+Reveal AI: Josotto, AI: Random
+Ranking: Hoewim, Place: 2, Score: -1000
+Reveal AI: Hoewim, AI: AIMyBot1
+
+Player Stats for Hoewim, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Josotto, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

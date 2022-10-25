@@ -1,0 +1,370 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Seban: Random
+Nittuk: AIMyBot1
+
+Joins: Seban, chips: 1000
+Joins: Nittuk, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nittuk
+Small Blind: Nittuk, chips: 100
+Big Blind: Seban, chips: 200
+Folds: Nittuk
+Pot size: 300
+Wins: Seban, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seban
+Small Blind: Seban, chips: 100
+Big Blind: Nittuk, chips: 200
+Calls: Seban
+DEBUG MESSAGE: INVALID ACTION FROM Nittuk (2 0)
+Folds: Nittuk
+Pot size: 400
+Boasts: Seban, Qd 5c
+Wins: Seban, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nittuk
+Small Blind: Nittuk, chips: 100
+Big Blind: Seban, chips: 200
+Folds: Nittuk
+Pot size: 300
+Wins: Seban, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seban
+Small Blind: Seban, chips: 100
+Big Blind: Nittuk, chips: 200
+Calls: Seban
+DEBUG MESSAGE: INVALID ACTION FROM Nittuk (2 0)
+Folds: Nittuk
+Pot size: 400
+Wins: Seban, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nittuk
+Small Blind: Nittuk, chips: 100
+Big Blind: Seban, chips: 200
+Folds: Nittuk
+Pot size: 300
+Boasts: Seban, Ts Qc
+Wins: Seban, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seban
+Small Blind: Seban, chips: 100
+Big Blind: Nittuk, chips: 200
+Calls: Seban
+DEBUG MESSAGE: INVALID ACTION FROM Nittuk (2 0)
+Folds: Nittuk
+Pot size: 400
+Wins: Seban, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nittuk
+Small Blind: Nittuk, chips: 100
+Big Blind: Seban, chips: 200
+Flop: 5c Kh Ah
+Turn: Kc
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Seban, 7s 9d
+Combination: Seban, Pair ( Kh Kc Ah Js 9d )
+Shows: Nittuk, 2c 5h
+Combination: Nittuk, Two Pair ( Kh Kc 5h 5c Ah )
+Wins: Seban, chips: 100
+Wins: Nittuk, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seban
+Small Blind: Seban, chips: 100
+Big Blind: Nittuk, chips: 200
+Flop: Kc Js 6d
+Turn: 8s
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Seban, 3c 7h
+Combination: Seban, Pair ( 8s 8h Kc Js 7h )
+Shows: Nittuk, Td 8d
+Combination: Nittuk, Three Of A Kind ( 8d 8s 8h Kc Js )
+Wins: Nittuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nittuk
+Small Blind: Nittuk, chips: 100
+Big Blind: Seban, chips: 200
+Folds: Nittuk
+Pot size: 300
+Wins: Seban, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seban
+Small Blind: Seban, chips: 100
+Big Blind: Nittuk, chips: 200
+Flop: 6d Ah Kd
+Turn: 6s
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Seban, 3h 2d
+Combination: Seban, Two Pair ( 6d 6s 3h 3d Ah )
+Shows: Nittuk, 2s Qh
+Combination: Nittuk, Pair ( 6d 6s Ah Kd Qh )
+Wins: Seban, chips: 200
+Wins: Nittuk, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nittuk
+Small Blind: Nittuk, chips: 100
+Big Blind: Seban, chips: 200
+Flop: 7c Js 4d
+Turn: 3h
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Seban, 6c 9c
+Combination: Seban, High Card ( Js Td 9c 7c 6c )
+Shows: Nittuk, 5d 7d
+Combination: Nittuk, Pair ( 7d 7c Js Td 5d )
+Wins: Seban, chips: 100
+Wins: Nittuk, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seban
+Small Blind: Seban, chips: 100
+Big Blind: Nittuk, chips: 200
+Flop: Ad 9c 9s
+Turn: 8s
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Seban, 5s 7s
+Combination: Seban, Two Pair ( Ad Ac 9c 9s 8s )
+Shows: Nittuk, 2s 7c
+Combination: Nittuk, Two Pair ( Ad Ac 9c 9s 8s )
+Wins: Seban, chips: 100
+Wins: Nittuk, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nittuk
+Small Blind: Nittuk, chips: 100
+Big Blind: Seban, chips: 200
+Folds: Nittuk
+Pot size: 300
+Wins: Seban, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seban
+Small Blind: Seban, chips: 100
+Big Blind: Nittuk, chips: 100
+Flop: 8c 3s Ts
+Turn: Kh
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Seban, Qd 6d
+Combination: Seban, High Card ( Kh Qd Ts 8c 6d )
+Shows: Nittuk, 4d Qh
+Combination: Nittuk, High Card ( Kh Qh Ts 8c 4d )
+Wins: Seban, chips: 200
+Quits: Nittuk, chips: 0
+Ranking: Seban, Place: 1, Score: 1000
+Reveal AI: Seban, AI: Random
+Ranking: Nittuk, Place: 2, Score: -1000
+Reveal AI: Nittuk, AI: AIMyBot1
+
+Player Stats for Nittuk, AI: AIMyBot1
+General: deals: 14, actions: 8, preflop actions: 8
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 1000, lost: 2000, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Seban, AI: Random
+General: deals: 14, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 5, bluff: 8
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:46:21
+
+The game begins. The AI's of the players are: 
+Seban: Random
+Nittuk: AIMyBot1
+
+Joins: Seban, chips: 1000
+Joins: Nittuk, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nittuk
+Small Blind: Nittuk, chips: 100
+Big Blind: Seban, chips: 200
+Folds: Nittuk
+Pot size: 300
+Wins: Seban, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seban
+Small Blind: Seban, chips: 100
+Big Blind: Nittuk, chips: 200
+Calls: Seban
+DEBUG MESSAGE: INVALID ACTION FROM Nittuk (2 0)
+Folds: Nittuk
+Pot size: 400
+Boasts: Seban, Qd 5c
+Wins: Seban, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nittuk
+Small Blind: Nittuk, chips: 100
+Big Blind: Seban, chips: 200
+Folds: Nittuk
+Pot size: 300
+Wins: Seban, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seban
+Small Blind: Seban, chips: 100
+Big Blind: Nittuk, chips: 200
+Calls: Seban
+DEBUG MESSAGE: INVALID ACTION FROM Nittuk (2 0)
+Folds: Nittuk
+Pot size: 400
+Wins: Seban, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nittuk
+Small Blind: Nittuk, chips: 100
+Big Blind: Seban, chips: 200
+Folds: Nittuk
+Pot size: 300
+Boasts: Seban, Ts Qc
+Wins: Seban, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seban
+Small Blind: Seban, chips: 100
+Big Blind: Nittuk, chips: 200
+Calls: Seban
+DEBUG MESSAGE: INVALID ACTION FROM Nittuk (2 0)
+Folds: Nittuk
+Pot size: 400
+Wins: Seban, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nittuk
+Small Blind: Nittuk, chips: 100
+Big Blind: Seban, chips: 200
+Flop: 5c Kh Ah
+Turn: Kc
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Seban, 7s 9d
+Combination: Seban, Pair ( Kh Kc Ah Js 9d )
+Shows: Nittuk, 2c 5h
+Combination: Nittuk, Two Pair ( Kh Kc 5h 5c Ah )
+Wins: Seban, chips: 100
+Wins: Nittuk, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seban
+Small Blind: Seban, chips: 100
+Big Blind: Nittuk, chips: 200
+Flop: Kc Js 6d
+Turn: 8s
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Seban, 3c 7h
+Combination: Seban, Pair ( 8s 8h Kc Js 7h )
+Shows: Nittuk, Td 8d
+Combination: Nittuk, Three Of A Kind ( 8d 8s 8h Kc Js )
+Wins: Nittuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nittuk
+Small Blind: Nittuk, chips: 100
+Big Blind: Seban, chips: 200
+Folds: Nittuk
+Pot size: 300
+Wins: Seban, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seban
+Small Blind: Seban, chips: 100
+Big Blind: Nittuk, chips: 200
+Flop: 6d Ah Kd
+Turn: 6s
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Seban, 3h 2d
+Combination: Seban, Two Pair ( 6d 6s 3h 3d Ah )
+Shows: Nittuk, 2s Qh
+Combination: Nittuk, Pair ( 6d 6s Ah Kd Qh )
+Wins: Seban, chips: 200
+Wins: Nittuk, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nittuk
+Small Blind: Nittuk, chips: 100
+Big Blind: Seban, chips: 200
+Flop: 7c Js 4d
+Turn: 3h
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Seban, 6c 9c
+Combination: Seban, High Card ( Js Td 9c 7c 6c )
+Shows: Nittuk, 5d 7d
+Combination: Nittuk, Pair ( 7d 7c Js Td 5d )
+Wins: Seban, chips: 100
+Wins: Nittuk, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seban
+Small Blind: Seban, chips: 100
+Big Blind: Nittuk, chips: 200
+Flop: Ad 9c 9s
+Turn: 8s
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Seban, 5s 7s
+Combination: Seban, Two Pair ( Ad Ac 9c 9s 8s )
+Shows: Nittuk, 2s 7c
+Combination: Nittuk, Two Pair ( Ad Ac 9c 9s 8s )
+Wins: Seban, chips: 100
+Wins: Nittuk, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nittuk
+Small Blind: Nittuk, chips: 100
+Big Blind: Seban, chips: 200
+Folds: Nittuk
+Pot size: 300
+Wins: Seban, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seban
+Small Blind: Seban, chips: 100
+Big Blind: Nittuk, chips: 100
+Flop: 8c 3s Ts
+Turn: Kh
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Seban, Qd 6d
+Combination: Seban, High Card ( Kh Qd Ts 8c 6d )
+Shows: Nittuk, 4d Qh
+Combination: Nittuk, High Card ( Kh Qh Ts 8c 4d )
+Wins: Seban, chips: 200
+Quits: Nittuk, chips: 0
+Ranking: Seban, Place: 1, Score: 1000
+Reveal AI: Seban, AI: Random
+Ranking: Nittuk, Place: 2, Score: -1000
+Reveal AI: Nittuk, AI: AIMyBot1
+
+Player Stats for Nittuk, AI: AIMyBot1
+General: deals: 14, actions: 8, preflop actions: 8
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 1000, lost: 2000, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Seban, AI: Random
+General: deals: 14, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 5, bluff: 8
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

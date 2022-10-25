@@ -1,0 +1,276 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Mowroer: Random
+Foetalam: AIMyBot1
+
+Joins: Mowroer, chips: 1000
+Joins: Foetalam, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroer
+Small Blind: Mowroer, chips: 100
+Big Blind: Foetalam, chips: 200
+Calls: Mowroer
+DEBUG MESSAGE: INVALID ACTION FROM Foetalam (2 0)
+Folds: Foetalam
+Pot size: 400
+Wins: Mowroer, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foetalam
+Small Blind: Foetalam, chips: 100
+Big Blind: Mowroer, chips: 200
+Folds: Foetalam
+Pot size: 300
+Wins: Mowroer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroer
+Small Blind: Mowroer, chips: 100
+Big Blind: Foetalam, chips: 200
+Raises: Mowroer, chips: 300
+Folds: Foetalam
+Pot size: 700
+Boasts: Mowroer, Ks Qh
+Wins: Mowroer, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foetalam
+Small Blind: Foetalam, chips: 100
+Big Blind: Mowroer, chips: 200
+Folds: Foetalam
+Pot size: 300
+Wins: Mowroer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroer
+Small Blind: Mowroer, chips: 100
+Big Blind: Foetalam, chips: 200
+Raises: Mowroer, chips: 300
+Folds: Foetalam
+Pot size: 700
+Boasts: Mowroer, As Td
+Wins: Mowroer, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foetalam
+Small Blind: Foetalam, chips: 100
+Big Blind: Mowroer, chips: 200
+Folds: Foetalam
+Pot size: 300
+Wins: Mowroer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroer
+Small Blind: Mowroer, chips: 100
+Big Blind: Foetalam, chips: 100
+Flop: 4d Td 7d
+Turn: 9d
+River: 8c
+Pot size: 200
+Showdown Reached
+Shows: Mowroer, Ks 7h
+Combination: Mowroer, Pair ( 7h 7d Ks Td 9d )
+Shows: Foetalam, Ah Js
+Combination: Foetalam, Straight ( Js Td 9d 8c 7d )
+Wins: Foetalam, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foetalam
+Small Blind: Foetalam, chips: 100
+Big Blind: Mowroer, chips: 200
+Folds: Foetalam
+Pot size: 300
+Boasts: Mowroer, 4d 5d
+Wins: Mowroer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroer
+Small Blind: Mowroer, chips: 100
+Big Blind: Foetalam, chips: 100
+Flop: 6c 8d 2h
+Turn: 4c
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Mowroer, 7h 9d
+Combination: Mowroer, Pair ( 4c 4h 9d 8d 7h )
+Shows: Foetalam, 5h 5d
+Combination: Foetalam, Two Pair ( 5h 5d 4c 4h 8d )
+Wins: Foetalam, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foetalam
+Small Blind: Foetalam, chips: 100
+Big Blind: Mowroer, chips: 200
+Folds: Foetalam
+Pot size: 300
+Wins: Mowroer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroer
+Small Blind: Mowroer, chips: 100
+Big Blind: Foetalam, chips: 100
+Flop: Qs 7d Ad
+Turn: 4h
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Mowroer, 3h 4d
+Combination: Mowroer, Two Pair ( 4d 4h 3h 3c Ad )
+Shows: Foetalam, Kd 2h
+Combination: Foetalam, High Card ( Ad Kd Qs 7d 4h )
+Wins: Mowroer, chips: 200
+Quits: Foetalam, chips: 0
+Ranking: Mowroer, Place: 1, Score: 1000
+Reveal AI: Mowroer, AI: Random
+Ranking: Foetalam, Place: 2, Score: -1000
+Reveal AI: Foetalam, AI: AIMyBot1
+
+Player Stats for Foetalam, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Mowroer, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Date: 2022/10/25 13:45:57
+
+The game begins. The AI's of the players are: 
+Mowroer: Random
+Foetalam: AIMyBot1
+
+Joins: Mowroer, chips: 1000
+Joins: Foetalam, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroer
+Small Blind: Mowroer, chips: 100
+Big Blind: Foetalam, chips: 200
+Calls: Mowroer
+DEBUG MESSAGE: INVALID ACTION FROM Foetalam (2 0)
+Folds: Foetalam
+Pot size: 400
+Wins: Mowroer, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foetalam
+Small Blind: Foetalam, chips: 100
+Big Blind: Mowroer, chips: 200
+Folds: Foetalam
+Pot size: 300
+Wins: Mowroer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroer
+Small Blind: Mowroer, chips: 100
+Big Blind: Foetalam, chips: 200
+Raises: Mowroer, chips: 300
+Folds: Foetalam
+Pot size: 700
+Boasts: Mowroer, Ks Qh
+Wins: Mowroer, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foetalam
+Small Blind: Foetalam, chips: 100
+Big Blind: Mowroer, chips: 200
+Folds: Foetalam
+Pot size: 300
+Wins: Mowroer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroer
+Small Blind: Mowroer, chips: 100
+Big Blind: Foetalam, chips: 200
+Raises: Mowroer, chips: 300
+Folds: Foetalam
+Pot size: 700
+Boasts: Mowroer, As Td
+Wins: Mowroer, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foetalam
+Small Blind: Foetalam, chips: 100
+Big Blind: Mowroer, chips: 200
+Folds: Foetalam
+Pot size: 300
+Wins: Mowroer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroer
+Small Blind: Mowroer, chips: 100
+Big Blind: Foetalam, chips: 100
+Flop: 4d Td 7d
+Turn: 9d
+River: 8c
+Pot size: 200
+Showdown Reached
+Shows: Mowroer, Ks 7h
+Combination: Mowroer, Pair ( 7h 7d Ks Td 9d )
+Shows: Foetalam, Ah Js
+Combination: Foetalam, Straight ( Js Td 9d 8c 7d )
+Wins: Foetalam, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foetalam
+Small Blind: Foetalam, chips: 100
+Big Blind: Mowroer, chips: 200
+Folds: Foetalam
+Pot size: 300
+Boasts: Mowroer, 4d 5d
+Wins: Mowroer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroer
+Small Blind: Mowroer, chips: 100
+Big Blind: Foetalam, chips: 100
+Flop: 6c 8d 2h
+Turn: 4c
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Mowroer, 7h 9d
+Combination: Mowroer, Pair ( 4c 4h 9d 8d 7h )
+Shows: Foetalam, 5h 5d
+Combination: Foetalam, Two Pair ( 5h 5d 4c 4h 8d )
+Wins: Foetalam, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foetalam
+Small Blind: Foetalam, chips: 100
+Big Blind: Mowroer, chips: 200
+Folds: Foetalam
+Pot size: 300
+Wins: Mowroer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mowroer
+Small Blind: Mowroer, chips: 100
+Big Blind: Foetalam, chips: 100
+Flop: Qs 7d Ad
+Turn: 4h
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Mowroer, 3h 4d
+Combination: Mowroer, Two Pair ( 4d 4h 3h 3c Ad )
+Shows: Foetalam, Kd 2h
+Combination: Foetalam, High Card ( Ad Kd Qs 7d 4h )
+Wins: Mowroer, chips: 200
+Quits: Foetalam, chips: 0
+Ranking: Mowroer, Place: 1, Score: 1000
+Reveal AI: Mowroer, AI: Random
+Ranking: Foetalam, Place: 2, Score: -1000
+Reveal AI: Foetalam, AI: AIMyBot1
+
+Player Stats for Foetalam, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Mowroer, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+

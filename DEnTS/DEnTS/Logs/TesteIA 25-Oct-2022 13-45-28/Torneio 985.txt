@@ -1,0 +1,208 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hoettoe: Random
+Rawut: AIMyBot1
+
+Joins: Hoettoe, chips: 1000
+Joins: Rawut, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawut
+Small Blind: Rawut, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Rawut
+Pot size: 300
+Boasts: Hoettoe, 3h Kc
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Rawut, chips: 200
+Calls: Hoettoe
+DEBUG MESSAGE: INVALID ACTION FROM Rawut (2 0)
+Folds: Rawut
+Pot size: 400
+Boasts: Hoettoe, 7s Ks
+Wins: Hoettoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawut
+Small Blind: Rawut, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Rawut
+Pot size: 300
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Rawut, chips: 200
+Raises: Hoettoe, chips: 300
+Folds: Rawut
+Pot size: 700
+Wins: Hoettoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawut
+Small Blind: Rawut, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Rawut
+Pot size: 300
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Rawut, chips: 200
+Folds: Hoettoe
+Pot size: 300
+Wins: Rawut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawut
+Small Blind: Rawut, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Rawut
+Pot size: 300
+Boasts: Hoettoe, 6c 2d
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Rawut, chips: 200
+Raises: Hoettoe, chips: 300
+Calls: Rawut
+Flop: 8s Ac 5h
+Turn: 9c
+River: Ah
+Pot size: 800
+Showdown Reached
+Shows: Hoettoe, Jd Jh
+Combination: Hoettoe, Two Pair ( Ac Ah Jd Jh 9c )
+Shows: Rawut, Qd 2s
+Combination: Rawut, Pair ( Ac Ah Qd 9c 8s )
+Wins: Hoettoe, chips: 800
+Quits: Rawut, chips: 0
+Ranking: Hoettoe, Place: 1, Score: 1000
+Reveal AI: Hoettoe, AI: Random
+Ranking: Rawut, Place: 2, Score: -1000
+Reveal AI: Rawut, AI: AIMyBot1
+
+Player Stats for Hoettoe, AI: Random
+General: deals: 8, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.25, 3Bet: 0.25
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Rawut, AI: AIMyBot1
+General: deals: 8, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1500, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.125, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:33
+
+The game begins. The AI's of the players are: 
+Hoettoe: Random
+Rawut: AIMyBot1
+
+Joins: Hoettoe, chips: 1000
+Joins: Rawut, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawut
+Small Blind: Rawut, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Rawut
+Pot size: 300
+Boasts: Hoettoe, 3h Kc
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Rawut, chips: 200
+Calls: Hoettoe
+DEBUG MESSAGE: INVALID ACTION FROM Rawut (2 0)
+Folds: Rawut
+Pot size: 400
+Boasts: Hoettoe, 7s Ks
+Wins: Hoettoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawut
+Small Blind: Rawut, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Rawut
+Pot size: 300
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Rawut, chips: 200
+Raises: Hoettoe, chips: 300
+Folds: Rawut
+Pot size: 700
+Wins: Hoettoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawut
+Small Blind: Rawut, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Rawut
+Pot size: 300
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Rawut, chips: 200
+Folds: Hoettoe
+Pot size: 300
+Wins: Rawut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawut
+Small Blind: Rawut, chips: 100
+Big Blind: Hoettoe, chips: 200
+Folds: Rawut
+Pot size: 300
+Boasts: Hoettoe, 6c 2d
+Wins: Hoettoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoettoe
+Small Blind: Hoettoe, chips: 100
+Big Blind: Rawut, chips: 200
+Raises: Hoettoe, chips: 300
+Calls: Rawut
+Flop: 8s Ac 5h
+Turn: 9c
+River: Ah
+Pot size: 800
+Showdown Reached
+Shows: Hoettoe, Jd Jh
+Combination: Hoettoe, Two Pair ( Ac Ah Jd Jh 9c )
+Shows: Rawut, Qd 2s
+Combination: Rawut, Pair ( Ac Ah Qd 9c 8s )
+Wins: Hoettoe, chips: 800
+Quits: Rawut, chips: 0
+Ranking: Hoettoe, Place: 1, Score: 1000
+Reveal AI: Hoettoe, AI: Random
+Ranking: Rawut, Place: 2, Score: -1000
+Reveal AI: Rawut, AI: AIMyBot1
+
+Player Stats for Hoettoe, AI: Random
+General: deals: 8, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.25, 3Bet: 0.25
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Rawut, AI: AIMyBot1
+General: deals: 8, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1500, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.125, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

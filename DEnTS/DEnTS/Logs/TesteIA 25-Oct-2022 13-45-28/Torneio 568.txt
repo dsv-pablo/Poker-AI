@@ -1,0 +1,266 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hoe: AIMyBot1
+Me: Random
+
+Joins: Hoe, chips: 1000
+Joins: Me, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Hoe, chips: 200
+Raises: Me, chips: 300
+Folds: Hoe
+Pot size: 700
+Wins: Me, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoe
+Small Blind: Hoe, chips: 100
+Big Blind: Me, chips: 200
+Folds: Hoe
+Pot size: 300
+Boasts: Me, Kh 8c
+Wins: Me, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Hoe, chips: 200
+Calls: Me
+DEBUG MESSAGE: INVALID ACTION FROM Hoe (2 0)
+Folds: Hoe
+Pot size: 400
+Wins: Me, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoe
+Small Blind: Hoe, chips: 100
+Big Blind: Me, chips: 200
+Folds: Hoe
+Pot size: 300
+Boasts: Me, Ac Ts
+Wins: Me, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Hoe, chips: 200
+Folds: Me
+Pot size: 300
+Boasts: Me, 3d 8d
+Wins: Hoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoe
+Small Blind: Hoe, chips: 100
+Big Blind: Me, chips: 200
+Folds: Hoe
+Pot size: 300
+Wins: Me, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Hoe, chips: 200
+Calls: Me
+DEBUG MESSAGE: INVALID ACTION FROM Hoe (2 0)
+Folds: Hoe
+Pot size: 400
+Wins: Me, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoe
+Small Blind: Hoe, chips: 100
+Big Blind: Me, chips: 200
+Folds: Hoe
+Pot size: 300
+Boasts: Me, 3d Jc
+Wins: Me, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Hoe, chips: 100
+Flop: 3h 4c 4h
+Turn: 8h
+River: 6d
+Pot size: 200
+Showdown Reached
+Shows: Hoe, Ah Kh
+Combination: Hoe, Flush ( Ah Kh 8h 4h 3h )
+Shows: Me, 5s Th
+Combination: Me, Pair ( 4c 4h Th 8h 6d )
+Wins: Hoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoe
+Small Blind: Hoe, chips: 100
+Big Blind: Me, chips: 200
+Folds: Hoe
+Pot size: 300
+Wins: Me, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Hoe, chips: 100
+Flop: 8d 3d 6h
+Turn: 5s
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Hoe, Js 3s
+Combination: Hoe, Pair ( 3s 3d Js 8d 6h )
+Shows: Me, 5c Qh
+Combination: Me, Pair ( 5c 5s Qh 8d 6h )
+Wins: Me, chips: 200
+Quits: Hoe, chips: 0
+Ranking: Me, Place: 1, Score: 1000
+Reveal AI: Me, AI: Random
+Ranking: Hoe, Place: 2, Score: -1000
+Reveal AI: Hoe, AI: AIMyBot1
+
+Player Stats for Hoe, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Me, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:07
+
+The game begins. The AI's of the players are: 
+Hoe: AIMyBot1
+Me: Random
+
+Joins: Hoe, chips: 1000
+Joins: Me, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Hoe, chips: 200
+Raises: Me, chips: 300
+Folds: Hoe
+Pot size: 700
+Wins: Me, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoe
+Small Blind: Hoe, chips: 100
+Big Blind: Me, chips: 200
+Folds: Hoe
+Pot size: 300
+Boasts: Me, Kh 8c
+Wins: Me, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Hoe, chips: 200
+Calls: Me
+DEBUG MESSAGE: INVALID ACTION FROM Hoe (2 0)
+Folds: Hoe
+Pot size: 400
+Wins: Me, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoe
+Small Blind: Hoe, chips: 100
+Big Blind: Me, chips: 200
+Folds: Hoe
+Pot size: 300
+Boasts: Me, Ac Ts
+Wins: Me, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Hoe, chips: 200
+Folds: Me
+Pot size: 300
+Boasts: Me, 3d 8d
+Wins: Hoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoe
+Small Blind: Hoe, chips: 100
+Big Blind: Me, chips: 200
+Folds: Hoe
+Pot size: 300
+Wins: Me, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Hoe, chips: 200
+Calls: Me
+DEBUG MESSAGE: INVALID ACTION FROM Hoe (2 0)
+Folds: Hoe
+Pot size: 400
+Wins: Me, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoe
+Small Blind: Hoe, chips: 100
+Big Blind: Me, chips: 200
+Folds: Hoe
+Pot size: 300
+Boasts: Me, 3d Jc
+Wins: Me, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Hoe, chips: 100
+Flop: 3h 4c 4h
+Turn: 8h
+River: 6d
+Pot size: 200
+Showdown Reached
+Shows: Hoe, Ah Kh
+Combination: Hoe, Flush ( Ah Kh 8h 4h 3h )
+Shows: Me, 5s Th
+Combination: Me, Pair ( 4c 4h Th 8h 6d )
+Wins: Hoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoe
+Small Blind: Hoe, chips: 100
+Big Blind: Me, chips: 200
+Folds: Hoe
+Pot size: 300
+Wins: Me, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Me
+Small Blind: Me, chips: 100
+Big Blind: Hoe, chips: 100
+Flop: 8d 3d 6h
+Turn: 5s
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Hoe, Js 3s
+Combination: Hoe, Pair ( 3s 3d Js 8d 6h )
+Shows: Me, 5c Qh
+Combination: Me, Pair ( 5c 5s Qh 8d 6h )
+Wins: Me, chips: 200
+Quits: Hoe, chips: 0
+Ranking: Me, Place: 1, Score: 1000
+Reveal AI: Me, AI: Random
+Ranking: Hoe, Place: 2, Score: -1000
+Reveal AI: Hoe, AI: AIMyBot1
+
+Player Stats for Hoe, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Me, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

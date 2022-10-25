@@ -1,0 +1,254 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Chodowee: AIMyBot1
+Vineeso: Random
+
+Joins: Chodowee, chips: 1000
+Joins: Vineeso, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vineeso
+Small Blind: Vineeso, chips: 100
+Big Blind: Chodowee, chips: 200
+Calls: Vineeso
+DEBUG MESSAGE: INVALID ACTION FROM Chodowee (2 0)
+Folds: Chodowee
+Pot size: 400
+Boasts: Vineeso, 7h Qc
+Wins: Vineeso, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodowee
+Small Blind: Chodowee, chips: 100
+Big Blind: Vineeso, chips: 200
+Folds: Chodowee
+Pot size: 300
+Wins: Vineeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vineeso
+Small Blind: Vineeso, chips: 100
+Big Blind: Chodowee, chips: 200
+Folds: Vineeso
+Pot size: 300
+Wins: Chodowee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodowee
+Small Blind: Chodowee, chips: 100
+Big Blind: Vineeso, chips: 200
+Folds: Chodowee
+Pot size: 300
+Boasts: Vineeso, 5h Qh
+Wins: Vineeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vineeso
+Small Blind: Vineeso, chips: 100
+Big Blind: Chodowee, chips: 200
+Raises: Vineeso, chips: 300
+Folds: Chodowee
+Pot size: 700
+Wins: Vineeso, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodowee
+Small Blind: Chodowee, chips: 100
+Big Blind: Vineeso, chips: 200
+Folds: Chodowee
+Pot size: 300
+Boasts: Vineeso, Qc 6s
+Wins: Vineeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vineeso
+Small Blind: Vineeso, chips: 100
+Big Blind: Chodowee, chips: 200
+Raises: Vineeso, chips: 300
+Folds: Chodowee
+Pot size: 700
+Boasts: Vineeso, 4s Ah
+Wins: Vineeso, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodowee
+Small Blind: Chodowee, chips: 100
+Big Blind: Vineeso, chips: 200
+Folds: Chodowee
+Pot size: 300
+Boasts: Vineeso, 3h Qs
+Wins: Vineeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vineeso
+Small Blind: Vineeso, chips: 100
+Big Blind: Chodowee, chips: 100
+Flop: 8d Tc 9h
+Turn: Qs
+River: Th
+Pot size: 200
+Showdown Reached
+Shows: Chodowee, 6s 4h
+Combination: Chodowee, Pair ( Tc Th Qs 9h 8d )
+Shows: Vineeso, 5h 4d
+Combination: Vineeso, Pair ( Tc Th Qs 9h 8d )
+Wins: Chodowee, chips: 100
+Wins: Vineeso, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodowee
+Small Blind: Chodowee, chips: 100
+Big Blind: Vineeso, chips: 200
+Flop: 9h 6c 3h
+Turn: 7h
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Chodowee, Qs Ts
+Combination: Chodowee, Pair ( Qs Qh Ts 9h 7h )
+Shows: Vineeso, 5h 7d
+Combination: Vineeso, Flush ( Qh 9h 7h 5h 3h )
+Wins: Vineeso, chips: 300
+Quits: Chodowee, chips: 0
+Ranking: Vineeso, Place: 1, Score: 1000
+Reveal AI: Vineeso, AI: Random
+Ranking: Chodowee, Place: 2, Score: -1000
+Reveal AI: Chodowee, AI: AIMyBot1
+
+Player Stats for Chodowee, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Vineeso, AI: Random
+General: deals: 10, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 2, bluff: 7
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.2, 3Bet: 0.2
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:09
+
+The game begins. The AI's of the players are: 
+Chodowee: AIMyBot1
+Vineeso: Random
+
+Joins: Chodowee, chips: 1000
+Joins: Vineeso, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vineeso
+Small Blind: Vineeso, chips: 100
+Big Blind: Chodowee, chips: 200
+Calls: Vineeso
+DEBUG MESSAGE: INVALID ACTION FROM Chodowee (2 0)
+Folds: Chodowee
+Pot size: 400
+Boasts: Vineeso, 7h Qc
+Wins: Vineeso, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodowee
+Small Blind: Chodowee, chips: 100
+Big Blind: Vineeso, chips: 200
+Folds: Chodowee
+Pot size: 300
+Wins: Vineeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vineeso
+Small Blind: Vineeso, chips: 100
+Big Blind: Chodowee, chips: 200
+Folds: Vineeso
+Pot size: 300
+Wins: Chodowee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodowee
+Small Blind: Chodowee, chips: 100
+Big Blind: Vineeso, chips: 200
+Folds: Chodowee
+Pot size: 300
+Boasts: Vineeso, 5h Qh
+Wins: Vineeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vineeso
+Small Blind: Vineeso, chips: 100
+Big Blind: Chodowee, chips: 200
+Raises: Vineeso, chips: 300
+Folds: Chodowee
+Pot size: 700
+Wins: Vineeso, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodowee
+Small Blind: Chodowee, chips: 100
+Big Blind: Vineeso, chips: 200
+Folds: Chodowee
+Pot size: 300
+Boasts: Vineeso, Qc 6s
+Wins: Vineeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vineeso
+Small Blind: Vineeso, chips: 100
+Big Blind: Chodowee, chips: 200
+Raises: Vineeso, chips: 300
+Folds: Chodowee
+Pot size: 700
+Boasts: Vineeso, 4s Ah
+Wins: Vineeso, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodowee
+Small Blind: Chodowee, chips: 100
+Big Blind: Vineeso, chips: 200
+Folds: Chodowee
+Pot size: 300
+Boasts: Vineeso, 3h Qs
+Wins: Vineeso, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vineeso
+Small Blind: Vineeso, chips: 100
+Big Blind: Chodowee, chips: 100
+Flop: 8d Tc 9h
+Turn: Qs
+River: Th
+Pot size: 200
+Showdown Reached
+Shows: Chodowee, 6s 4h
+Combination: Chodowee, Pair ( Tc Th Qs 9h 8d )
+Shows: Vineeso, 5h 4d
+Combination: Vineeso, Pair ( Tc Th Qs 9h 8d )
+Wins: Chodowee, chips: 100
+Wins: Vineeso, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodowee
+Small Blind: Chodowee, chips: 100
+Big Blind: Vineeso, chips: 200
+Flop: 9h 6c 3h
+Turn: 7h
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Chodowee, Qs Ts
+Combination: Chodowee, Pair ( Qs Qh Ts 9h 7h )
+Shows: Vineeso, 5h 7d
+Combination: Vineeso, Flush ( Qh 9h 7h 5h 3h )
+Wins: Vineeso, chips: 300
+Quits: Chodowee, chips: 0
+Ranking: Vineeso, Place: 1, Score: 1000
+Reveal AI: Vineeso, AI: Random
+Ranking: Chodowee, Place: 2, Score: -1000
+Reveal AI: Chodowee, AI: AIMyBot1
+
+Player Stats for Chodowee, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Vineeso, AI: Random
+General: deals: 10, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 2, bluff: 7
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.2, 3Bet: 0.2
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

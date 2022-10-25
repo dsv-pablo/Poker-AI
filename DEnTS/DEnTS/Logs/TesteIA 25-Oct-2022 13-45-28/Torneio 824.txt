@@ -1,0 +1,254 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jeevo: AIMyBot1
+Pimeenhu: Random
+
+Joins: Jeevo, chips: 1000
+Joins: Pimeenhu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeevo
+Small Blind: Jeevo, chips: 100
+Big Blind: Pimeenhu, chips: 200
+Folds: Jeevo
+Pot size: 300
+Boasts: Pimeenhu, 6s 9d
+Wins: Pimeenhu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimeenhu
+Small Blind: Pimeenhu, chips: 100
+Big Blind: Jeevo, chips: 200
+Calls: Pimeenhu
+DEBUG MESSAGE: INVALID ACTION FROM Jeevo (2 0)
+Folds: Jeevo
+Pot size: 400
+Boasts: Pimeenhu, Td Jd
+Wins: Pimeenhu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeevo
+Small Blind: Jeevo, chips: 100
+Big Blind: Pimeenhu, chips: 200
+Folds: Jeevo
+Pot size: 300
+Wins: Pimeenhu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimeenhu
+Small Blind: Pimeenhu, chips: 100
+Big Blind: Jeevo, chips: 200
+Folds: Pimeenhu
+Pot size: 300
+Boasts: Pimeenhu, 7s Ah
+Wins: Jeevo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeevo
+Small Blind: Jeevo, chips: 100
+Big Blind: Pimeenhu, chips: 200
+Folds: Jeevo
+Pot size: 300
+Wins: Pimeenhu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimeenhu
+Small Blind: Pimeenhu, chips: 100
+Big Blind: Jeevo, chips: 200
+Calls: Pimeenhu
+DEBUG MESSAGE: INVALID ACTION FROM Jeevo (2 0)
+Folds: Jeevo
+Pot size: 400
+Wins: Pimeenhu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeevo
+Small Blind: Jeevo, chips: 100
+Big Blind: Pimeenhu, chips: 200
+Folds: Jeevo
+Pot size: 300
+Wins: Pimeenhu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimeenhu
+Small Blind: Pimeenhu, chips: 100
+Big Blind: Jeevo, chips: 200
+Folds: Pimeenhu
+Pot size: 300
+Wins: Jeevo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeevo
+Small Blind: Jeevo, chips: 100
+Big Blind: Pimeenhu, chips: 200
+Folds: Jeevo
+Pot size: 300
+Boasts: Pimeenhu, Ac As
+Wins: Pimeenhu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimeenhu
+Small Blind: Pimeenhu, chips: 100
+Big Blind: Jeevo, chips: 200
+Raises: Pimeenhu, chips: 300
+Folds: Jeevo
+Pot size: 700
+Boasts: Pimeenhu, 4h 6h
+Wins: Pimeenhu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeevo
+Small Blind: Jeevo, chips: 100
+Big Blind: Pimeenhu, chips: 200
+Flop: 6d 4h 2h
+Turn: 9h
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Jeevo, 6s 7s
+Combination: Jeevo, Two Pair ( 6s 6d 2h 2d 9h )
+Shows: Pimeenhu, 9c 5h
+Combination: Pimeenhu, Two Pair ( 9c 9h 2h 2d 6d )
+Wins: Pimeenhu, chips: 300
+Quits: Jeevo, chips: 0
+Ranking: Pimeenhu, Place: 1, Score: 1000
+Reveal AI: Pimeenhu, AI: Random
+Ranking: Jeevo, Place: 2, Score: -1000
+Reveal AI: Jeevo, AI: AIMyBot1
+
+Player Stats for Jeevo, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Pimeenhu, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:24
+
+The game begins. The AI's of the players are: 
+Jeevo: AIMyBot1
+Pimeenhu: Random
+
+Joins: Jeevo, chips: 1000
+Joins: Pimeenhu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeevo
+Small Blind: Jeevo, chips: 100
+Big Blind: Pimeenhu, chips: 200
+Folds: Jeevo
+Pot size: 300
+Boasts: Pimeenhu, 6s 9d
+Wins: Pimeenhu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimeenhu
+Small Blind: Pimeenhu, chips: 100
+Big Blind: Jeevo, chips: 200
+Calls: Pimeenhu
+DEBUG MESSAGE: INVALID ACTION FROM Jeevo (2 0)
+Folds: Jeevo
+Pot size: 400
+Boasts: Pimeenhu, Td Jd
+Wins: Pimeenhu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeevo
+Small Blind: Jeevo, chips: 100
+Big Blind: Pimeenhu, chips: 200
+Folds: Jeevo
+Pot size: 300
+Wins: Pimeenhu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimeenhu
+Small Blind: Pimeenhu, chips: 100
+Big Blind: Jeevo, chips: 200
+Folds: Pimeenhu
+Pot size: 300
+Boasts: Pimeenhu, 7s Ah
+Wins: Jeevo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeevo
+Small Blind: Jeevo, chips: 100
+Big Blind: Pimeenhu, chips: 200
+Folds: Jeevo
+Pot size: 300
+Wins: Pimeenhu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimeenhu
+Small Blind: Pimeenhu, chips: 100
+Big Blind: Jeevo, chips: 200
+Calls: Pimeenhu
+DEBUG MESSAGE: INVALID ACTION FROM Jeevo (2 0)
+Folds: Jeevo
+Pot size: 400
+Wins: Pimeenhu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeevo
+Small Blind: Jeevo, chips: 100
+Big Blind: Pimeenhu, chips: 200
+Folds: Jeevo
+Pot size: 300
+Wins: Pimeenhu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimeenhu
+Small Blind: Pimeenhu, chips: 100
+Big Blind: Jeevo, chips: 200
+Folds: Pimeenhu
+Pot size: 300
+Wins: Jeevo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeevo
+Small Blind: Jeevo, chips: 100
+Big Blind: Pimeenhu, chips: 200
+Folds: Jeevo
+Pot size: 300
+Boasts: Pimeenhu, Ac As
+Wins: Pimeenhu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pimeenhu
+Small Blind: Pimeenhu, chips: 100
+Big Blind: Jeevo, chips: 200
+Raises: Pimeenhu, chips: 300
+Folds: Jeevo
+Pot size: 700
+Boasts: Pimeenhu, 4h 6h
+Wins: Pimeenhu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeevo
+Small Blind: Jeevo, chips: 100
+Big Blind: Pimeenhu, chips: 200
+Flop: 6d 4h 2h
+Turn: 9h
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Jeevo, 6s 7s
+Combination: Jeevo, Two Pair ( 6s 6d 2h 2d 9h )
+Shows: Pimeenhu, 9c 5h
+Combination: Pimeenhu, Two Pair ( 9c 9h 2h 2d 6d )
+Wins: Pimeenhu, chips: 300
+Quits: Jeevo, chips: 0
+Ranking: Pimeenhu, Place: 1, Score: 1000
+Reveal AI: Pimeenhu, AI: Random
+Ranking: Jeevo, Place: 2, Score: -1000
+Reveal AI: Jeevo, AI: AIMyBot1
+
+Player Stats for Jeevo, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Pimeenhu, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

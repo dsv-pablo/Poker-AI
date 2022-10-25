@@ -1,0 +1,284 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Surleem: AIMyBot1
+Hibi: Random
+
+Joins: Surleem, chips: 1000
+Joins: Hibi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surleem
+Small Blind: Surleem, chips: 100
+Big Blind: Hibi, chips: 200
+Folds: Surleem
+Pot size: 300
+Wins: Hibi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hibi
+Small Blind: Hibi, chips: 100
+Big Blind: Surleem, chips: 200
+Calls: Hibi
+DEBUG MESSAGE: INVALID ACTION FROM Surleem (2 0)
+Folds: Surleem
+Pot size: 400
+Boasts: Hibi, 5s Jd
+Wins: Hibi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surleem
+Small Blind: Surleem, chips: 100
+Big Blind: Hibi, chips: 200
+Folds: Surleem
+Pot size: 300
+Wins: Hibi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hibi
+Small Blind: Hibi, chips: 100
+Big Blind: Surleem, chips: 200
+Calls: Hibi
+DEBUG MESSAGE: INVALID ACTION FROM Surleem (2 0)
+Folds: Surleem
+Pot size: 400
+Wins: Hibi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surleem
+Small Blind: Surleem, chips: 100
+Big Blind: Hibi, chips: 200
+Folds: Surleem
+Pot size: 300
+Boasts: Hibi, Kd 2h
+Wins: Hibi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hibi
+Small Blind: Hibi, chips: 100
+Big Blind: Surleem, chips: 200
+Folds: Hibi
+Pot size: 300
+Wins: Surleem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surleem
+Small Blind: Surleem, chips: 100
+Big Blind: Hibi, chips: 200
+Folds: Surleem
+Pot size: 300
+Boasts: Hibi, Kc 3s
+Wins: Hibi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hibi
+Small Blind: Hibi, chips: 100
+Big Blind: Surleem, chips: 200
+Raises: Hibi, chips: 300
+Folds: Surleem
+Pot size: 700
+Boasts: Hibi, 2d 2h
+Wins: Hibi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surleem
+Small Blind: Surleem, chips: 100
+Big Blind: Hibi, chips: 200
+Flop: Jd 7c Kc
+Turn: 2s
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Surleem, 2h As
+Combination: Surleem, Two Pair ( As Ac 2h 2s Kc )
+Shows: Hibi, 5d 7h
+Combination: Hibi, Pair ( 7h 7c Ac Kc Jd )
+Wins: Surleem, chips: 200
+Wins: Hibi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hibi
+Small Blind: Hibi, chips: 100
+Big Blind: Surleem, chips: 200
+Flop: Js 6c 7d
+Turn: 9h
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Surleem, 3h 9d
+Combination: Surleem, Pair ( 9d 9h Js 7d 6c )
+Shows: Hibi, 9s Kh
+Combination: Hibi, Pair ( 9s 9h Kh Js 7d )
+Wins: Surleem, chips: 100
+Wins: Hibi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surleem
+Small Blind: Surleem, chips: 100
+Big Blind: Hibi, chips: 200
+Flop: 2d Ks 5s
+Turn: 2h
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Surleem, 3h Jd
+Combination: Surleem, Two Pair ( 5s 5d 2d 2h Ks )
+Shows: Hibi, Ac 6c
+Combination: Hibi, Two Pair ( 5s 5d 2d 2h Ac )
+Wins: Hibi, chips: 300
+Quits: Surleem, chips: 0
+Ranking: Hibi, Place: 1, Score: 1000
+Reveal AI: Hibi, AI: Random
+Ranking: Surleem, Place: 2, Score: -1000
+Reveal AI: Surleem, AI: AIMyBot1
+
+Player Stats for Hibi, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Surleem, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:23
+
+The game begins. The AI's of the players are: 
+Surleem: AIMyBot1
+Hibi: Random
+
+Joins: Surleem, chips: 1000
+Joins: Hibi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surleem
+Small Blind: Surleem, chips: 100
+Big Blind: Hibi, chips: 200
+Folds: Surleem
+Pot size: 300
+Wins: Hibi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hibi
+Small Blind: Hibi, chips: 100
+Big Blind: Surleem, chips: 200
+Calls: Hibi
+DEBUG MESSAGE: INVALID ACTION FROM Surleem (2 0)
+Folds: Surleem
+Pot size: 400
+Boasts: Hibi, 5s Jd
+Wins: Hibi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surleem
+Small Blind: Surleem, chips: 100
+Big Blind: Hibi, chips: 200
+Folds: Surleem
+Pot size: 300
+Wins: Hibi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hibi
+Small Blind: Hibi, chips: 100
+Big Blind: Surleem, chips: 200
+Calls: Hibi
+DEBUG MESSAGE: INVALID ACTION FROM Surleem (2 0)
+Folds: Surleem
+Pot size: 400
+Wins: Hibi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surleem
+Small Blind: Surleem, chips: 100
+Big Blind: Hibi, chips: 200
+Folds: Surleem
+Pot size: 300
+Boasts: Hibi, Kd 2h
+Wins: Hibi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hibi
+Small Blind: Hibi, chips: 100
+Big Blind: Surleem, chips: 200
+Folds: Hibi
+Pot size: 300
+Wins: Surleem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surleem
+Small Blind: Surleem, chips: 100
+Big Blind: Hibi, chips: 200
+Folds: Surleem
+Pot size: 300
+Boasts: Hibi, Kc 3s
+Wins: Hibi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hibi
+Small Blind: Hibi, chips: 100
+Big Blind: Surleem, chips: 200
+Raises: Hibi, chips: 300
+Folds: Surleem
+Pot size: 700
+Boasts: Hibi, 2d 2h
+Wins: Hibi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surleem
+Small Blind: Surleem, chips: 100
+Big Blind: Hibi, chips: 200
+Flop: Jd 7c Kc
+Turn: 2s
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Surleem, 2h As
+Combination: Surleem, Two Pair ( As Ac 2h 2s Kc )
+Shows: Hibi, 5d 7h
+Combination: Hibi, Pair ( 7h 7c Ac Kc Jd )
+Wins: Surleem, chips: 200
+Wins: Hibi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hibi
+Small Blind: Hibi, chips: 100
+Big Blind: Surleem, chips: 200
+Flop: Js 6c 7d
+Turn: 9h
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Surleem, 3h 9d
+Combination: Surleem, Pair ( 9d 9h Js 7d 6c )
+Shows: Hibi, 9s Kh
+Combination: Hibi, Pair ( 9s 9h Kh Js 7d )
+Wins: Surleem, chips: 100
+Wins: Hibi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surleem
+Small Blind: Surleem, chips: 100
+Big Blind: Hibi, chips: 200
+Flop: 2d Ks 5s
+Turn: 2h
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Surleem, 3h Jd
+Combination: Surleem, Two Pair ( 5s 5d 2d 2h Ks )
+Shows: Hibi, Ac 6c
+Combination: Hibi, Two Pair ( 5s 5d 2d 2h Ac )
+Wins: Hibi, chips: 300
+Quits: Surleem, chips: 0
+Ranking: Hibi, Place: 1, Score: 1000
+Reveal AI: Hibi, AI: Random
+Ranking: Surleem, Place: 2, Score: -1000
+Reveal AI: Surleem, AI: AIMyBot1
+
+Player Stats for Hibi, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Surleem, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

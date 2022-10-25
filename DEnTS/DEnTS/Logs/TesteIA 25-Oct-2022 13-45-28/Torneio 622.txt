@@ -1,0 +1,446 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Koree: AIMyBot1
+Tokarle: Random
+
+Joins: Koree, chips: 1000
+Joins: Tokarle, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Folds: Koree
+Pot size: 300
+Boasts: Tokarle, 8h 5c
+Wins: Tokarle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokarle
+Small Blind: Tokarle, chips: 100
+Big Blind: Koree, chips: 200
+Calls: Tokarle
+DEBUG MESSAGE: INVALID ACTION FROM Koree (2 0)
+Folds: Koree
+Pot size: 400
+Wins: Tokarle, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Folds: Koree
+Pot size: 300
+Wins: Tokarle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokarle
+Small Blind: Tokarle, chips: 100
+Big Blind: Koree, chips: 200
+Calls: Tokarle
+DEBUG MESSAGE: INVALID ACTION FROM Koree (2 0)
+Folds: Koree
+Pot size: 400
+Boasts: Tokarle, Qh Ac
+Wins: Tokarle, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Folds: Koree
+Pot size: 300
+Boasts: Tokarle, 2s 3d
+Wins: Tokarle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokarle
+Small Blind: Tokarle, chips: 100
+Big Blind: Koree, chips: 200
+Calls: Tokarle
+DEBUG MESSAGE: INVALID ACTION FROM Koree (2 0)
+Folds: Koree
+Pot size: 400
+Wins: Tokarle, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Flop: 8h Qs Tc
+Turn: 7s
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Koree, Ah Th
+Combination: Koree, Two Pair ( Th Tc 7s 7c Ah )
+Shows: Tokarle, 6c 4h
+Combination: Tokarle, Pair ( 7s 7c Qs Tc 8h )
+Wins: Koree, chips: 200
+Wins: Tokarle, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokarle
+Small Blind: Tokarle, chips: 100
+Big Blind: Koree, chips: 200
+Flop: 9h 6h 3d
+Turn: 8s
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Koree, As Tc
+Combination: Koree, Straight ( Tc 9h 8s 7s 6h )
+Shows: Tokarle, Jd 5h
+Combination: Tokarle, Straight ( 9h 8s 7s 6h 5h )
+Wins: Koree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Folds: Koree
+Pot size: 300
+Wins: Tokarle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokarle
+Small Blind: Tokarle, chips: 100
+Big Blind: Koree, chips: 200
+Flop: 3c 6c Jc
+Turn: Jh
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Koree, 3h Tc
+Combination: Koree, Two Pair ( Jc Jh 3h 3c Qd )
+Shows: Tokarle, 8h Th
+Combination: Tokarle, Pair ( Jc Jh Qd Th 8h )
+Wins: Koree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Folds: Koree
+Pot size: 300
+Boasts: Tokarle, 9h 8d
+Wins: Tokarle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokarle
+Small Blind: Tokarle, chips: 100
+Big Blind: Koree, chips: 200
+Flop: Ah 5d Ks
+Turn: Qh
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Koree, 7s 2h
+Combination: Koree, High Card ( Ah Ks Qh 7s 5d )
+Shows: Tokarle, 3s Td
+Combination: Tokarle, High Card ( Ah Ks Qh Td 5d )
+Wins: Koree, chips: 100
+Wins: Tokarle, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Flop: 4d Qs Kd
+Turn: 7d
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Koree, Td 4h
+Combination: Koree, Pair ( 4h 4d Kd Qs Td )
+Shows: Tokarle, Jc 2d
+Combination: Tokarle, High Card ( Kd Qs Jc 7d 5h )
+Wins: Koree, chips: 200
+Wins: Tokarle, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokarle
+Small Blind: Tokarle, chips: 100
+Big Blind: Koree, chips: 200
+Flop: As 3c 4c
+Turn: Ks
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Koree, 2h Jh
+Combination: Koree, High Card ( As Ks Jh 6s 4c )
+Shows: Tokarle, 9c Td
+Combination: Tokarle, High Card ( As Ks Td 9c 6s )
+Wins: Koree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Folds: Koree
+Pot size: 300
+Boasts: Tokarle, 5d 6h
+Wins: Tokarle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokarle
+Small Blind: Tokarle, chips: 100
+Big Blind: Koree, chips: 200
+Flop: 6s 3d Qd
+Turn: 4d
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Koree, 9h 3c
+Combination: Koree, Pair ( 3c 3d Qd 9h 6s )
+Shows: Tokarle, Ad Ah
+Combination: Tokarle, Pair ( Ad Ah Qd 6s 4d )
+Wins: Koree, chips: 100
+Wins: Tokarle, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Flop: 8h Qc 3c
+Turn: 7h
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Koree, 9d 4s
+Combination: Koree, High Card ( Qc Jh 9d 8h 7h )
+Shows: Tokarle, 6c Jd
+Combination: Tokarle, Pair ( Jd Jh Qc 8h 7h )
+Wins: Tokarle, chips: 300
+Quits: Koree, chips: 0
+Ranking: Tokarle, Place: 1, Score: 1000
+Reveal AI: Tokarle, AI: Random
+Ranking: Koree, Place: 2, Score: -1000
+Reveal AI: Koree, AI: AIMyBot1
+
+Player Stats for Koree, AI: AIMyBot1
+General: deals: 17, actions: 9, preflop actions: 9
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Tokarle, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 14, showdown: 5, bluff: 9
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+
+Date: 2022/10/25 13:46:10
+
+The game begins. The AI's of the players are: 
+Koree: AIMyBot1
+Tokarle: Random
+
+Joins: Koree, chips: 1000
+Joins: Tokarle, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Folds: Koree
+Pot size: 300
+Boasts: Tokarle, 8h 5c
+Wins: Tokarle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokarle
+Small Blind: Tokarle, chips: 100
+Big Blind: Koree, chips: 200
+Calls: Tokarle
+DEBUG MESSAGE: INVALID ACTION FROM Koree (2 0)
+Folds: Koree
+Pot size: 400
+Wins: Tokarle, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Folds: Koree
+Pot size: 300
+Wins: Tokarle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokarle
+Small Blind: Tokarle, chips: 100
+Big Blind: Koree, chips: 200
+Calls: Tokarle
+DEBUG MESSAGE: INVALID ACTION FROM Koree (2 0)
+Folds: Koree
+Pot size: 400
+Boasts: Tokarle, Qh Ac
+Wins: Tokarle, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Folds: Koree
+Pot size: 300
+Boasts: Tokarle, 2s 3d
+Wins: Tokarle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokarle
+Small Blind: Tokarle, chips: 100
+Big Blind: Koree, chips: 200
+Calls: Tokarle
+DEBUG MESSAGE: INVALID ACTION FROM Koree (2 0)
+Folds: Koree
+Pot size: 400
+Wins: Tokarle, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Flop: 8h Qs Tc
+Turn: 7s
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Koree, Ah Th
+Combination: Koree, Two Pair ( Th Tc 7s 7c Ah )
+Shows: Tokarle, 6c 4h
+Combination: Tokarle, Pair ( 7s 7c Qs Tc 8h )
+Wins: Koree, chips: 200
+Wins: Tokarle, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokarle
+Small Blind: Tokarle, chips: 100
+Big Blind: Koree, chips: 200
+Flop: 9h 6h 3d
+Turn: 8s
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Koree, As Tc
+Combination: Koree, Straight ( Tc 9h 8s 7s 6h )
+Shows: Tokarle, Jd 5h
+Combination: Tokarle, Straight ( 9h 8s 7s 6h 5h )
+Wins: Koree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Folds: Koree
+Pot size: 300
+Wins: Tokarle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokarle
+Small Blind: Tokarle, chips: 100
+Big Blind: Koree, chips: 200
+Flop: 3c 6c Jc
+Turn: Jh
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Koree, 3h Tc
+Combination: Koree, Two Pair ( Jc Jh 3h 3c Qd )
+Shows: Tokarle, 8h Th
+Combination: Tokarle, Pair ( Jc Jh Qd Th 8h )
+Wins: Koree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Folds: Koree
+Pot size: 300
+Boasts: Tokarle, 9h 8d
+Wins: Tokarle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokarle
+Small Blind: Tokarle, chips: 100
+Big Blind: Koree, chips: 200
+Flop: Ah 5d Ks
+Turn: Qh
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Koree, 7s 2h
+Combination: Koree, High Card ( Ah Ks Qh 7s 5d )
+Shows: Tokarle, 3s Td
+Combination: Tokarle, High Card ( Ah Ks Qh Td 5d )
+Wins: Koree, chips: 100
+Wins: Tokarle, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Flop: 4d Qs Kd
+Turn: 7d
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Koree, Td 4h
+Combination: Koree, Pair ( 4h 4d Kd Qs Td )
+Shows: Tokarle, Jc 2d
+Combination: Tokarle, High Card ( Kd Qs Jc 7d 5h )
+Wins: Koree, chips: 200
+Wins: Tokarle, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokarle
+Small Blind: Tokarle, chips: 100
+Big Blind: Koree, chips: 200
+Flop: As 3c 4c
+Turn: Ks
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Koree, 2h Jh
+Combination: Koree, High Card ( As Ks Jh 6s 4c )
+Shows: Tokarle, 9c Td
+Combination: Tokarle, High Card ( As Ks Td 9c 6s )
+Wins: Koree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Folds: Koree
+Pot size: 300
+Boasts: Tokarle, 5d 6h
+Wins: Tokarle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tokarle
+Small Blind: Tokarle, chips: 100
+Big Blind: Koree, chips: 200
+Flop: 6s 3d Qd
+Turn: 4d
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Koree, 9h 3c
+Combination: Koree, Pair ( 3c 3d Qd 9h 6s )
+Shows: Tokarle, Ad Ah
+Combination: Tokarle, Pair ( Ad Ah Qd 6s 4d )
+Wins: Koree, chips: 100
+Wins: Tokarle, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koree
+Small Blind: Koree, chips: 100
+Big Blind: Tokarle, chips: 200
+Flop: 8h Qc 3c
+Turn: 7h
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Koree, 9d 4s
+Combination: Koree, High Card ( Qc Jh 9d 8h 7h )
+Shows: Tokarle, 6c Jd
+Combination: Tokarle, Pair ( Jd Jh Qc 8h 7h )
+Wins: Tokarle, chips: 300
+Quits: Koree, chips: 0
+Ranking: Tokarle, Place: 1, Score: 1000
+Reveal AI: Tokarle, AI: Random
+Ranking: Koree, Place: 2, Score: -1000
+Reveal AI: Koree, AI: AIMyBot1
+
+Player Stats for Koree, AI: AIMyBot1
+General: deals: 17, actions: 9, preflop actions: 9
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Tokarle, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 14, showdown: 5, bluff: 9
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+

@@ -1,0 +1,208 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Ninhapu: AIMyBot1
+Nuhoe: Random
+
+Joins: Ninhapu, chips: 1000
+Joins: Nuhoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhapu
+Small Blind: Ninhapu, chips: 100
+Big Blind: Nuhoe, chips: 200
+Folds: Ninhapu
+Pot size: 300
+Boasts: Nuhoe, 4c Qc
+Wins: Nuhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuhoe
+Small Blind: Nuhoe, chips: 100
+Big Blind: Ninhapu, chips: 200
+Raises: Nuhoe, chips: 300
+Folds: Ninhapu
+Pot size: 700
+Wins: Nuhoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhapu
+Small Blind: Ninhapu, chips: 100
+Big Blind: Nuhoe, chips: 200
+Folds: Ninhapu
+Pot size: 300
+Boasts: Nuhoe, 4d 7d
+Wins: Nuhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuhoe
+Small Blind: Nuhoe, chips: 100
+Big Blind: Ninhapu, chips: 200
+Folds: Nuhoe
+Pot size: 300
+Boasts: Nuhoe, Th 5d
+Wins: Ninhapu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhapu
+Small Blind: Ninhapu, chips: 100
+Big Blind: Nuhoe, chips: 200
+Folds: Ninhapu
+Pot size: 300
+Wins: Nuhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuhoe
+Small Blind: Nuhoe, chips: 100
+Big Blind: Ninhapu, chips: 200
+Raises: Nuhoe, chips: 300
+Folds: Ninhapu
+Pot size: 700
+Boasts: Nuhoe, 7c 3c
+Wins: Nuhoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhapu
+Small Blind: Ninhapu, chips: 100
+Big Blind: Nuhoe, chips: 200
+Folds: Ninhapu
+Pot size: 300
+Wins: Nuhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuhoe
+Small Blind: Nuhoe, chips: 100
+Big Blind: Ninhapu, chips: 200
+Raises: Nuhoe, chips: 300
+Calls: Ninhapu
+Flop: 3c Jh 6c
+Turn: Qs
+River: 9h
+Pot size: 800
+Showdown Reached
+Shows: Ninhapu, 6d 2s
+Combination: Ninhapu, Pair ( 6d 6c Qs Jh 9h )
+Shows: Nuhoe, 8h 8d
+Combination: Nuhoe, Pair ( 8h 8d Qs Jh 9h )
+Wins: Nuhoe, chips: 800
+Quits: Ninhapu, chips: 0
+Ranking: Nuhoe, Place: 1, Score: 1000
+Reveal AI: Nuhoe, AI: Random
+Ranking: Ninhapu, Place: 2, Score: -1000
+Reveal AI: Ninhapu, AI: AIMyBot1
+
+Player Stats for Ninhapu, AI: AIMyBot1
+General: deals: 8, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1500, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.125, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Nuhoe, AI: Random
+General: deals: 8, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.375, 3Bet: 0.375
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:16
+
+The game begins. The AI's of the players are: 
+Ninhapu: AIMyBot1
+Nuhoe: Random
+
+Joins: Ninhapu, chips: 1000
+Joins: Nuhoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhapu
+Small Blind: Ninhapu, chips: 100
+Big Blind: Nuhoe, chips: 200
+Folds: Ninhapu
+Pot size: 300
+Boasts: Nuhoe, 4c Qc
+Wins: Nuhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuhoe
+Small Blind: Nuhoe, chips: 100
+Big Blind: Ninhapu, chips: 200
+Raises: Nuhoe, chips: 300
+Folds: Ninhapu
+Pot size: 700
+Wins: Nuhoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhapu
+Small Blind: Ninhapu, chips: 100
+Big Blind: Nuhoe, chips: 200
+Folds: Ninhapu
+Pot size: 300
+Boasts: Nuhoe, 4d 7d
+Wins: Nuhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuhoe
+Small Blind: Nuhoe, chips: 100
+Big Blind: Ninhapu, chips: 200
+Folds: Nuhoe
+Pot size: 300
+Boasts: Nuhoe, Th 5d
+Wins: Ninhapu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhapu
+Small Blind: Ninhapu, chips: 100
+Big Blind: Nuhoe, chips: 200
+Folds: Ninhapu
+Pot size: 300
+Wins: Nuhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuhoe
+Small Blind: Nuhoe, chips: 100
+Big Blind: Ninhapu, chips: 200
+Raises: Nuhoe, chips: 300
+Folds: Ninhapu
+Pot size: 700
+Boasts: Nuhoe, 7c 3c
+Wins: Nuhoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhapu
+Small Blind: Ninhapu, chips: 100
+Big Blind: Nuhoe, chips: 200
+Folds: Ninhapu
+Pot size: 300
+Wins: Nuhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuhoe
+Small Blind: Nuhoe, chips: 100
+Big Blind: Ninhapu, chips: 200
+Raises: Nuhoe, chips: 300
+Calls: Ninhapu
+Flop: 3c Jh 6c
+Turn: Qs
+River: 9h
+Pot size: 800
+Showdown Reached
+Shows: Ninhapu, 6d 2s
+Combination: Ninhapu, Pair ( 6d 6c Qs Jh 9h )
+Shows: Nuhoe, 8h 8d
+Combination: Nuhoe, Pair ( 8h 8d Qs Jh 9h )
+Wins: Nuhoe, chips: 800
+Quits: Ninhapu, chips: 0
+Ranking: Nuhoe, Place: 1, Score: 1000
+Reveal AI: Nuhoe, AI: Random
+Ranking: Ninhapu, Place: 2, Score: -1000
+Reveal AI: Ninhapu, AI: AIMyBot1
+
+Player Stats for Ninhapu, AI: AIMyBot1
+General: deals: 8, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1500, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.125, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Nuhoe, AI: Random
+General: deals: 8, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.375, 3Bet: 0.375
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

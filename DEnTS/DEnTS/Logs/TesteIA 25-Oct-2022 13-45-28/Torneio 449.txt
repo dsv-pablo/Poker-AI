@@ -1,0 +1,330 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pottek: Random
+Hu: AIMyBot1
+
+Joins: Pottek, chips: 1000
+Joins: Hu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pottek
+Small Blind: Pottek, chips: 100
+Big Blind: Hu, chips: 200
+Raises: Pottek, chips: 300
+Folds: Hu
+Pot size: 700
+Wins: Pottek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Pottek, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Pottek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pottek
+Small Blind: Pottek, chips: 100
+Big Blind: Hu, chips: 200
+Raises: Pottek, chips: 300
+Folds: Hu
+Pot size: 700
+Wins: Pottek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Pottek, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Pottek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pottek
+Small Blind: Pottek, chips: 100
+Big Blind: Hu, chips: 200
+Folds: Pottek
+Pot size: 300
+Boasts: Pottek, 2s Jc
+Wins: Hu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Pottek, chips: 200
+Folds: Hu
+Pot size: 300
+Boasts: Pottek, Tc 6c
+Wins: Pottek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pottek
+Small Blind: Pottek, chips: 100
+Big Blind: Hu, chips: 200
+Raises: Pottek, chips: 300
+Calls: Hu
+Flop: Tc 6c 4d
+Turn: Jd
+River: Ks
+Pot size: 900
+Showdown Reached
+Shows: Pottek, Qs 7h
+Combination: Pottek, High Card ( Ks Qs Jd Tc 7h )
+Shows: Hu, Qc Ts
+Combination: Hu, Pair ( Ts Tc Ks Qc Jd )
+Wins: Pottek, chips: 100
+Wins: Hu, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Pottek, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Pottek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pottek
+Small Blind: Pottek, chips: 100
+Big Blind: Hu, chips: 200
+Folds: Pottek
+Pot size: 300
+Boasts: Pottek, 2s 7s
+Wins: Hu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Pottek, chips: 200
+Folds: Hu
+Pot size: 300
+Boasts: Pottek, 4h 5s
+Wins: Pottek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pottek
+Small Blind: Pottek, chips: 100
+Big Blind: Hu, chips: 200
+Calls: Pottek
+DEBUG MESSAGE: INVALID ACTION FROM Hu (2 0)
+Folds: Hu
+Pot size: 400
+Wins: Pottek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Pottek, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Pottek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pottek
+Small Blind: Pottek, chips: 100
+Big Blind: Hu, chips: 200
+Raises: Pottek, chips: 300
+Folds: Hu
+Pot size: 700
+Boasts: Pottek, Ts 9h
+Wins: Pottek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Pottek, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Pottek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pottek
+Small Blind: Pottek, chips: 100
+Big Blind: Hu, chips: 100
+Flop: 3s Th 5d
+Turn: 9s
+River: 2h
+Pot size: 200
+Showdown Reached
+Shows: Pottek, 5h 8h
+Combination: Pottek, Pair ( 5h 5d Th 9s 8h )
+Shows: Hu, 6d 7c
+Combination: Hu, High Card ( Th 9s 7c 6d 5d )
+Wins: Pottek, chips: 200
+Quits: Hu, chips: 0
+Ranking: Pottek, Place: 1, Score: 1000
+Reveal AI: Pottek, AI: Random
+Ranking: Hu, Place: 2, Score: -1000
+Reveal AI: Hu, AI: AIMyBot1
+
+Player Stats for Hu, AI: AIMyBot1
+General: deals: 15, actions: 12, preflop actions: 12
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 1400, lost: 2500, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.0666667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Pottek, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 13, showdown: 2, bluff: 11
+Chips: won: 4900, lost: 3900, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.266667, 3Bet: 0.266667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:59
+
+The game begins. The AI's of the players are: 
+Pottek: Random
+Hu: AIMyBot1
+
+Joins: Pottek, chips: 1000
+Joins: Hu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pottek
+Small Blind: Pottek, chips: 100
+Big Blind: Hu, chips: 200
+Raises: Pottek, chips: 300
+Folds: Hu
+Pot size: 700
+Wins: Pottek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Pottek, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Pottek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pottek
+Small Blind: Pottek, chips: 100
+Big Blind: Hu, chips: 200
+Raises: Pottek, chips: 300
+Folds: Hu
+Pot size: 700
+Wins: Pottek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Pottek, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Pottek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pottek
+Small Blind: Pottek, chips: 100
+Big Blind: Hu, chips: 200
+Folds: Pottek
+Pot size: 300
+Boasts: Pottek, 2s Jc
+Wins: Hu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Pottek, chips: 200
+Folds: Hu
+Pot size: 300
+Boasts: Pottek, Tc 6c
+Wins: Pottek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pottek
+Small Blind: Pottek, chips: 100
+Big Blind: Hu, chips: 200
+Raises: Pottek, chips: 300
+Calls: Hu
+Flop: Tc 6c 4d
+Turn: Jd
+River: Ks
+Pot size: 900
+Showdown Reached
+Shows: Pottek, Qs 7h
+Combination: Pottek, High Card ( Ks Qs Jd Tc 7h )
+Shows: Hu, Qc Ts
+Combination: Hu, Pair ( Ts Tc Ks Qc Jd )
+Wins: Pottek, chips: 100
+Wins: Hu, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Pottek, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Pottek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pottek
+Small Blind: Pottek, chips: 100
+Big Blind: Hu, chips: 200
+Folds: Pottek
+Pot size: 300
+Boasts: Pottek, 2s 7s
+Wins: Hu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Pottek, chips: 200
+Folds: Hu
+Pot size: 300
+Boasts: Pottek, 4h 5s
+Wins: Pottek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pottek
+Small Blind: Pottek, chips: 100
+Big Blind: Hu, chips: 200
+Calls: Pottek
+DEBUG MESSAGE: INVALID ACTION FROM Hu (2 0)
+Folds: Hu
+Pot size: 400
+Wins: Pottek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Pottek, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Pottek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pottek
+Small Blind: Pottek, chips: 100
+Big Blind: Hu, chips: 200
+Raises: Pottek, chips: 300
+Folds: Hu
+Pot size: 700
+Boasts: Pottek, Ts 9h
+Wins: Pottek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hu
+Small Blind: Hu, chips: 100
+Big Blind: Pottek, chips: 200
+Folds: Hu
+Pot size: 300
+Wins: Pottek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pottek
+Small Blind: Pottek, chips: 100
+Big Blind: Hu, chips: 100
+Flop: 3s Th 5d
+Turn: 9s
+River: 2h
+Pot size: 200
+Showdown Reached
+Shows: Pottek, 5h 8h
+Combination: Pottek, Pair ( 5h 5d Th 9s 8h )
+Shows: Hu, 6d 7c
+Combination: Hu, High Card ( Th 9s 7c 6d 5d )
+Wins: Pottek, chips: 200
+Quits: Hu, chips: 0
+Ranking: Pottek, Place: 1, Score: 1000
+Reveal AI: Pottek, AI: Random
+Ranking: Hu, Place: 2, Score: -1000
+Reveal AI: Hu, AI: AIMyBot1
+
+Player Stats for Hu, AI: AIMyBot1
+General: deals: 15, actions: 12, preflop actions: 12
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 1400, lost: 2500, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.0666667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Pottek, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 13, showdown: 2, bluff: 11
+Chips: won: 4900, lost: 3900, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.266667, 3Bet: 0.266667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

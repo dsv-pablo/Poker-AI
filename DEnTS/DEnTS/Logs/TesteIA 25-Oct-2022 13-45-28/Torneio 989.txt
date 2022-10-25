@@ -1,0 +1,194 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Danoe: Random
+Chowu: AIMyBot1
+
+Joins: Danoe, chips: 1000
+Joins: Chowu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chowu
+Small Blind: Chowu, chips: 100
+Big Blind: Danoe, chips: 200
+Folds: Chowu
+Pot size: 300
+Wins: Danoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Danoe
+Small Blind: Danoe, chips: 100
+Big Blind: Chowu, chips: 200
+Calls: Danoe
+DEBUG MESSAGE: INVALID ACTION FROM Chowu (2 0)
+Folds: Chowu
+Pot size: 400
+Wins: Danoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chowu
+Small Blind: Chowu, chips: 100
+Big Blind: Danoe, chips: 200
+Folds: Chowu
+Pot size: 300
+Boasts: Danoe, 2d 6d
+Wins: Danoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Danoe
+Small Blind: Danoe, chips: 100
+Big Blind: Chowu, chips: 200
+Calls: Danoe
+DEBUG MESSAGE: INVALID ACTION FROM Chowu (2 0)
+Folds: Chowu
+Pot size: 400
+Boasts: Danoe, 6c 9h
+Wins: Danoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chowu
+Small Blind: Chowu, chips: 100
+Big Blind: Danoe, chips: 200
+Folds: Chowu
+Pot size: 300
+Wins: Danoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Danoe
+Small Blind: Danoe, chips: 100
+Big Blind: Chowu, chips: 200
+Calls: Danoe
+DEBUG MESSAGE: INVALID ACTION FROM Chowu (2 0)
+Folds: Chowu
+Pot size: 400
+Wins: Danoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chowu
+Small Blind: Chowu, chips: 100
+Big Blind: Danoe, chips: 200
+Flop: Qc Kh As
+Turn: 2c
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Danoe, 2h Qh
+Combination: Danoe, Two Pair ( Qh Qc 2h 2c As )
+Shows: Chowu, Jh 6s
+Combination: Chowu, High Card ( As Kh Qc Jh 8c )
+Wins: Danoe, chips: 300
+Quits: Chowu, chips: 0
+Ranking: Danoe, Place: 1, Score: 1000
+Reveal AI: Danoe, AI: Random
+Ranking: Chowu, Place: 2, Score: -1000
+Reveal AI: Chowu, AI: AIMyBot1
+
+Player Stats for Chowu, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Danoe, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2400, lost: 1400, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:34
+
+The game begins. The AI's of the players are: 
+Danoe: Random
+Chowu: AIMyBot1
+
+Joins: Danoe, chips: 1000
+Joins: Chowu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chowu
+Small Blind: Chowu, chips: 100
+Big Blind: Danoe, chips: 200
+Folds: Chowu
+Pot size: 300
+Wins: Danoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Danoe
+Small Blind: Danoe, chips: 100
+Big Blind: Chowu, chips: 200
+Calls: Danoe
+DEBUG MESSAGE: INVALID ACTION FROM Chowu (2 0)
+Folds: Chowu
+Pot size: 400
+Wins: Danoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chowu
+Small Blind: Chowu, chips: 100
+Big Blind: Danoe, chips: 200
+Folds: Chowu
+Pot size: 300
+Boasts: Danoe, 2d 6d
+Wins: Danoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Danoe
+Small Blind: Danoe, chips: 100
+Big Blind: Chowu, chips: 200
+Calls: Danoe
+DEBUG MESSAGE: INVALID ACTION FROM Chowu (2 0)
+Folds: Chowu
+Pot size: 400
+Boasts: Danoe, 6c 9h
+Wins: Danoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chowu
+Small Blind: Chowu, chips: 100
+Big Blind: Danoe, chips: 200
+Folds: Chowu
+Pot size: 300
+Wins: Danoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Danoe
+Small Blind: Danoe, chips: 100
+Big Blind: Chowu, chips: 200
+Calls: Danoe
+DEBUG MESSAGE: INVALID ACTION FROM Chowu (2 0)
+Folds: Chowu
+Pot size: 400
+Wins: Danoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chowu
+Small Blind: Chowu, chips: 100
+Big Blind: Danoe, chips: 200
+Flop: Qc Kh As
+Turn: 2c
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Danoe, 2h Qh
+Combination: Danoe, Two Pair ( Qh Qc 2h 2c As )
+Shows: Chowu, Jh 6s
+Combination: Chowu, High Card ( As Kh Qc Jh 8c )
+Wins: Danoe, chips: 300
+Quits: Chowu, chips: 0
+Ranking: Danoe, Place: 1, Score: 1000
+Reveal AI: Danoe, AI: Random
+Ranking: Chowu, Place: 2, Score: -1000
+Reveal AI: Chowu, AI: AIMyBot1
+
+Player Stats for Chowu, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Danoe, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2400, lost: 1400, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

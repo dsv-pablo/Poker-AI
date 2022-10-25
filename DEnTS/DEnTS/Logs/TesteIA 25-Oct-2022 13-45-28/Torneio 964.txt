@@ -1,0 +1,342 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Bichar: Random
+Nee: AIMyBot1
+
+Joins: Bichar, chips: 1000
+Joins: Nee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nee
+Small Blind: Nee, chips: 100
+Big Blind: Bichar, chips: 200
+Folds: Nee
+Pot size: 300
+Wins: Bichar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bichar
+Small Blind: Bichar, chips: 100
+Big Blind: Nee, chips: 200
+Raises: Bichar, chips: 300
+Folds: Nee
+Pot size: 700
+Boasts: Bichar, 8s 2c
+Wins: Bichar, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nee
+Small Blind: Nee, chips: 100
+Big Blind: Bichar, chips: 200
+Folds: Nee
+Pot size: 300
+Wins: Bichar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bichar
+Small Blind: Bichar, chips: 100
+Big Blind: Nee, chips: 200
+Calls: Bichar
+DEBUG MESSAGE: INVALID ACTION FROM Nee (2 0)
+Folds: Nee
+Pot size: 400
+Boasts: Bichar, 6d 6c
+Wins: Bichar, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nee
+Small Blind: Nee, chips: 100
+Big Blind: Bichar, chips: 200
+Folds: Nee
+Pot size: 300
+Boasts: Bichar, 4d 2h
+Wins: Bichar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bichar
+Small Blind: Bichar, chips: 100
+Big Blind: Nee, chips: 200
+Folds: Bichar
+Pot size: 300
+Wins: Nee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nee
+Small Blind: Nee, chips: 100
+Big Blind: Bichar, chips: 200
+Folds: Nee
+Pot size: 300
+Wins: Bichar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bichar
+Small Blind: Bichar, chips: 100
+Big Blind: Nee, chips: 200
+Calls: Bichar
+DEBUG MESSAGE: INVALID ACTION FROM Nee (2 0)
+Folds: Nee
+Pot size: 400
+Wins: Bichar, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nee
+Small Blind: Nee, chips: 100
+Big Blind: Bichar, chips: 200
+Flop: Js Qh 3c
+Turn: 5c
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Bichar, Kh 4h
+Combination: Bichar, High Card ( Kh Qh Js 6d 5c )
+Shows: Nee, 7d Ah
+Combination: Nee, High Card ( Ah Qh Js 7d 6d )
+Wins: Bichar, chips: 100
+Wins: Nee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bichar
+Small Blind: Bichar, chips: 100
+Big Blind: Nee, chips: 200
+Flop: 4h 7s Qc
+Turn: Tc
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Bichar, 8h Ts
+Combination: Bichar, Pair ( Ts Tc Qc 8h 7s )
+Shows: Nee, Ad 4d
+Combination: Nee, Pair ( 4d 4h Ad Qc Tc )
+Wins: Bichar, chips: 200
+Wins: Nee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nee
+Small Blind: Nee, chips: 100
+Big Blind: Bichar, chips: 200
+Flop: Ah Kc 4d
+Turn: 6h
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Bichar, 9h 7h
+Combination: Bichar, High Card ( Ah Kc 9h 7h 6h )
+Shows: Nee, Td Jd
+Combination: Nee, High Card ( Ah Kc Jd Td 6h )
+Wins: Bichar, chips: 100
+Wins: Nee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bichar
+Small Blind: Bichar, chips: 100
+Big Blind: Nee, chips: 200
+Flop: Js 7c Qh
+Turn: 9c
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Bichar, Td 8s
+Combination: Bichar, Straight ( Qh Js Td 9c 8s )
+Shows: Nee, Ks 5s
+Combination: Nee, Pair ( 5s 5d Ks Qh Js )
+Wins: Bichar, chips: 200
+Wins: Nee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nee
+Small Blind: Nee, chips: 100
+Big Blind: Bichar, chips: 200
+Flop: Ad 9d 8s
+Turn: 5h
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Bichar, 6c As
+Combination: Bichar, Pair ( As Ad Th 9d 8s )
+Shows: Nee, 7c 9h
+Combination: Nee, Pair ( 9h 9d Ad Th 8s )
+Wins: Bichar, chips: 300
+Quits: Nee, chips: 0
+Ranking: Bichar, Place: 1, Score: 1000
+Reveal AI: Bichar, AI: Random
+Ranking: Nee, Place: 2, Score: -1000
+Reveal AI: Nee, AI: AIMyBot1
+
+Player Stats for Bichar, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 5, bluff: 7
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Nee, AI: AIMyBot1
+General: deals: 13, actions: 7, preflop actions: 7
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Date: 2022/10/25 13:46:32
+
+The game begins. The AI's of the players are: 
+Bichar: Random
+Nee: AIMyBot1
+
+Joins: Bichar, chips: 1000
+Joins: Nee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nee
+Small Blind: Nee, chips: 100
+Big Blind: Bichar, chips: 200
+Folds: Nee
+Pot size: 300
+Wins: Bichar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bichar
+Small Blind: Bichar, chips: 100
+Big Blind: Nee, chips: 200
+Raises: Bichar, chips: 300
+Folds: Nee
+Pot size: 700
+Boasts: Bichar, 8s 2c
+Wins: Bichar, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nee
+Small Blind: Nee, chips: 100
+Big Blind: Bichar, chips: 200
+Folds: Nee
+Pot size: 300
+Wins: Bichar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bichar
+Small Blind: Bichar, chips: 100
+Big Blind: Nee, chips: 200
+Calls: Bichar
+DEBUG MESSAGE: INVALID ACTION FROM Nee (2 0)
+Folds: Nee
+Pot size: 400
+Boasts: Bichar, 6d 6c
+Wins: Bichar, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nee
+Small Blind: Nee, chips: 100
+Big Blind: Bichar, chips: 200
+Folds: Nee
+Pot size: 300
+Boasts: Bichar, 4d 2h
+Wins: Bichar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bichar
+Small Blind: Bichar, chips: 100
+Big Blind: Nee, chips: 200
+Folds: Bichar
+Pot size: 300
+Wins: Nee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nee
+Small Blind: Nee, chips: 100
+Big Blind: Bichar, chips: 200
+Folds: Nee
+Pot size: 300
+Wins: Bichar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bichar
+Small Blind: Bichar, chips: 100
+Big Blind: Nee, chips: 200
+Calls: Bichar
+DEBUG MESSAGE: INVALID ACTION FROM Nee (2 0)
+Folds: Nee
+Pot size: 400
+Wins: Bichar, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nee
+Small Blind: Nee, chips: 100
+Big Blind: Bichar, chips: 200
+Flop: Js Qh 3c
+Turn: 5c
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Bichar, Kh 4h
+Combination: Bichar, High Card ( Kh Qh Js 6d 5c )
+Shows: Nee, 7d Ah
+Combination: Nee, High Card ( Ah Qh Js 7d 6d )
+Wins: Bichar, chips: 100
+Wins: Nee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bichar
+Small Blind: Bichar, chips: 100
+Big Blind: Nee, chips: 200
+Flop: 4h 7s Qc
+Turn: Tc
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Bichar, 8h Ts
+Combination: Bichar, Pair ( Ts Tc Qc 8h 7s )
+Shows: Nee, Ad 4d
+Combination: Nee, Pair ( 4d 4h Ad Qc Tc )
+Wins: Bichar, chips: 200
+Wins: Nee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nee
+Small Blind: Nee, chips: 100
+Big Blind: Bichar, chips: 200
+Flop: Ah Kc 4d
+Turn: 6h
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Bichar, 9h 7h
+Combination: Bichar, High Card ( Ah Kc 9h 7h 6h )
+Shows: Nee, Td Jd
+Combination: Nee, High Card ( Ah Kc Jd Td 6h )
+Wins: Bichar, chips: 100
+Wins: Nee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bichar
+Small Blind: Bichar, chips: 100
+Big Blind: Nee, chips: 200
+Flop: Js 7c Qh
+Turn: 9c
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Bichar, Td 8s
+Combination: Bichar, Straight ( Qh Js Td 9c 8s )
+Shows: Nee, Ks 5s
+Combination: Nee, Pair ( 5s 5d Ks Qh Js )
+Wins: Bichar, chips: 200
+Wins: Nee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nee
+Small Blind: Nee, chips: 100
+Big Blind: Bichar, chips: 200
+Flop: Ad 9d 8s
+Turn: 5h
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Bichar, 6c As
+Combination: Bichar, Pair ( As Ad Th 9d 8s )
+Shows: Nee, 7c 9h
+Combination: Nee, Pair ( 9h 9d Ad Th 8s )
+Wins: Bichar, chips: 300
+Quits: Nee, chips: 0
+Ranking: Bichar, Place: 1, Score: 1000
+Reveal AI: Bichar, AI: Random
+Ranking: Nee, Place: 2, Score: -1000
+Reveal AI: Nee, AI: AIMyBot1
+
+Player Stats for Bichar, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 5, bluff: 7
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Nee, AI: AIMyBot1
+General: deals: 13, actions: 7, preflop actions: 7
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+

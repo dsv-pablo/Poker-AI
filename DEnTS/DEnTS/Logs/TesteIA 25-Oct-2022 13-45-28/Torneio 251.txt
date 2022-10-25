@@ -1,0 +1,374 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wurlam: Random
+Goenhu: AIMyBot1
+
+Joins: Wurlam, chips: 1000
+Joins: Goenhu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 200
+Calls: Wurlam
+DEBUG MESSAGE: INVALID ACTION FROM Goenhu (2 0)
+Folds: Goenhu
+Pot size: 400
+Boasts: Wurlam, 7h Jh
+Wins: Wurlam, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenhu
+Small Blind: Goenhu, chips: 100
+Big Blind: Wurlam, chips: 200
+Folds: Goenhu
+Pot size: 300
+Boasts: Wurlam, Th Ac
+Wins: Wurlam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 200
+Folds: Wurlam
+Pot size: 300
+Wins: Goenhu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenhu
+Small Blind: Goenhu, chips: 100
+Big Blind: Wurlam, chips: 200
+Folds: Goenhu
+Pot size: 300
+Wins: Wurlam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 200
+Raises: Wurlam, chips: 300
+Folds: Goenhu
+Pot size: 700
+Boasts: Wurlam, 3c 6c
+Wins: Wurlam, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenhu
+Small Blind: Goenhu, chips: 100
+Big Blind: Wurlam, chips: 200
+Folds: Goenhu
+Pot size: 300
+Boasts: Wurlam, Kh Jc
+Wins: Wurlam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 200
+Folds: Wurlam
+Pot size: 300
+Wins: Goenhu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenhu
+Small Blind: Goenhu, chips: 100
+Big Blind: Wurlam, chips: 200
+Folds: Goenhu
+Pot size: 300
+Boasts: Wurlam, As Ah
+Wins: Wurlam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 200
+Folds: Wurlam
+Pot size: 300
+Boasts: Wurlam, 8d 5c
+Wins: Goenhu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenhu
+Small Blind: Goenhu, chips: 100
+Big Blind: Wurlam, chips: 200
+Folds: Goenhu
+Pot size: 300
+Wins: Wurlam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 200
+Calls: Wurlam
+DEBUG MESSAGE: INVALID ACTION FROM Goenhu (2 0)
+Folds: Goenhu
+Pot size: 400
+Boasts: Wurlam, 6s 7s
+Wins: Wurlam, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenhu
+Small Blind: Goenhu, chips: 100
+Big Blind: Wurlam, chips: 200
+Folds: Goenhu
+Pot size: 300
+Boasts: Wurlam, 9c 3c
+Wins: Wurlam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 100
+Flop: Ad Kd 3s
+Turn: 2c
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Wurlam, 5c 9c
+Combination: Wurlam, Pair ( Kd Kc Ad 9c 5c )
+Shows: Goenhu, 3h 6c
+Combination: Goenhu, Two Pair ( Kd Kc 3h 3s Ad )
+Wins: Goenhu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenhu
+Small Blind: Goenhu, chips: 100
+Big Blind: Wurlam, chips: 200
+Folds: Goenhu
+Pot size: 300
+Wins: Wurlam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 100
+Flop: 8s 7s 6s
+Turn: 2s
+River: 9s
+Pot size: 200
+Showdown Reached
+Shows: Wurlam, 5d 8d
+Combination: Wurlam, Flush ( 9s 8s 7s 6s 2s )
+Shows: Goenhu, Ah 5s
+Combination: Goenhu, Straight Flush ( 9s 8s 7s 6s 5s )
+Wins: Goenhu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenhu
+Small Blind: Goenhu, chips: 100
+Big Blind: Wurlam, chips: 200
+Folds: Goenhu
+Pot size: 300
+Boasts: Wurlam, Qd Ts
+Wins: Wurlam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 100
+Flop: Ac Ts 3h
+Turn: 7d
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Wurlam, 7s Jc
+Combination: Wurlam, Pair ( 7s 7d Ac Jc Ts )
+Shows: Goenhu, 6s 9d
+Combination: Goenhu, High Card ( Ac Ts 9d 7d 6s )
+Wins: Wurlam, chips: 200
+Quits: Goenhu, chips: 0
+Ranking: Wurlam, Place: 1, Score: 1000
+Reveal AI: Wurlam, AI: Random
+Ranking: Goenhu, Place: 2, Score: -1000
+Reveal AI: Goenhu, AI: AIMyBot1
+
+Player Stats for Goenhu, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1300, lost: 2300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Wurlam, AI: Random
+General: deals: 17, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Date: 2022/10/25 13:45:46
+
+The game begins. The AI's of the players are: 
+Wurlam: Random
+Goenhu: AIMyBot1
+
+Joins: Wurlam, chips: 1000
+Joins: Goenhu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 200
+Calls: Wurlam
+DEBUG MESSAGE: INVALID ACTION FROM Goenhu (2 0)
+Folds: Goenhu
+Pot size: 400
+Boasts: Wurlam, 7h Jh
+Wins: Wurlam, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenhu
+Small Blind: Goenhu, chips: 100
+Big Blind: Wurlam, chips: 200
+Folds: Goenhu
+Pot size: 300
+Boasts: Wurlam, Th Ac
+Wins: Wurlam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 200
+Folds: Wurlam
+Pot size: 300
+Wins: Goenhu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenhu
+Small Blind: Goenhu, chips: 100
+Big Blind: Wurlam, chips: 200
+Folds: Goenhu
+Pot size: 300
+Wins: Wurlam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 200
+Raises: Wurlam, chips: 300
+Folds: Goenhu
+Pot size: 700
+Boasts: Wurlam, 3c 6c
+Wins: Wurlam, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenhu
+Small Blind: Goenhu, chips: 100
+Big Blind: Wurlam, chips: 200
+Folds: Goenhu
+Pot size: 300
+Boasts: Wurlam, Kh Jc
+Wins: Wurlam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 200
+Folds: Wurlam
+Pot size: 300
+Wins: Goenhu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenhu
+Small Blind: Goenhu, chips: 100
+Big Blind: Wurlam, chips: 200
+Folds: Goenhu
+Pot size: 300
+Boasts: Wurlam, As Ah
+Wins: Wurlam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 200
+Folds: Wurlam
+Pot size: 300
+Boasts: Wurlam, 8d 5c
+Wins: Goenhu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenhu
+Small Blind: Goenhu, chips: 100
+Big Blind: Wurlam, chips: 200
+Folds: Goenhu
+Pot size: 300
+Wins: Wurlam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 200
+Calls: Wurlam
+DEBUG MESSAGE: INVALID ACTION FROM Goenhu (2 0)
+Folds: Goenhu
+Pot size: 400
+Boasts: Wurlam, 6s 7s
+Wins: Wurlam, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenhu
+Small Blind: Goenhu, chips: 100
+Big Blind: Wurlam, chips: 200
+Folds: Goenhu
+Pot size: 300
+Boasts: Wurlam, 9c 3c
+Wins: Wurlam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 100
+Flop: Ad Kd 3s
+Turn: 2c
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Wurlam, 5c 9c
+Combination: Wurlam, Pair ( Kd Kc Ad 9c 5c )
+Shows: Goenhu, 3h 6c
+Combination: Goenhu, Two Pair ( Kd Kc 3h 3s Ad )
+Wins: Goenhu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenhu
+Small Blind: Goenhu, chips: 100
+Big Blind: Wurlam, chips: 200
+Folds: Goenhu
+Pot size: 300
+Wins: Wurlam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 100
+Flop: 8s 7s 6s
+Turn: 2s
+River: 9s
+Pot size: 200
+Showdown Reached
+Shows: Wurlam, 5d 8d
+Combination: Wurlam, Flush ( 9s 8s 7s 6s 2s )
+Shows: Goenhu, Ah 5s
+Combination: Goenhu, Straight Flush ( 9s 8s 7s 6s 5s )
+Wins: Goenhu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goenhu
+Small Blind: Goenhu, chips: 100
+Big Blind: Wurlam, chips: 200
+Folds: Goenhu
+Pot size: 300
+Boasts: Wurlam, Qd Ts
+Wins: Wurlam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wurlam
+Small Blind: Wurlam, chips: 100
+Big Blind: Goenhu, chips: 100
+Flop: Ac Ts 3h
+Turn: 7d
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Wurlam, 7s Jc
+Combination: Wurlam, Pair ( 7s 7d Ac Jc Ts )
+Shows: Goenhu, 6s 9d
+Combination: Goenhu, High Card ( Ac Ts 9d 7d 6s )
+Wins: Wurlam, chips: 200
+Quits: Goenhu, chips: 0
+Ranking: Wurlam, Place: 1, Score: 1000
+Reveal AI: Wurlam, AI: Random
+Ranking: Goenhu, Place: 2, Score: -1000
+Reveal AI: Goenhu, AI: AIMyBot1
+
+Player Stats for Goenhu, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1300, lost: 2300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Wurlam, AI: Random
+General: deals: 17, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+

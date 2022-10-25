@@ -1,0 +1,192 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Suma: AIMyBot1
+Heeneef: Random
+
+Joins: Suma, chips: 1000
+Joins: Heeneef, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heeneef
+Small Blind: Heeneef, chips: 100
+Big Blind: Suma, chips: 200
+Calls: Heeneef
+DEBUG MESSAGE: INVALID ACTION FROM Suma (2 0)
+Folds: Suma
+Pot size: 400
+Wins: Heeneef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suma
+Small Blind: Suma, chips: 100
+Big Blind: Heeneef, chips: 200
+Folds: Suma
+Pot size: 300
+Wins: Heeneef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heeneef
+Small Blind: Heeneef, chips: 100
+Big Blind: Suma, chips: 200
+Calls: Heeneef
+DEBUG MESSAGE: INVALID ACTION FROM Suma (2 0)
+Folds: Suma
+Pot size: 400
+Wins: Heeneef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suma
+Small Blind: Suma, chips: 100
+Big Blind: Heeneef, chips: 200
+Folds: Suma
+Pot size: 300
+Boasts: Heeneef, 8h Kh
+Wins: Heeneef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heeneef
+Small Blind: Heeneef, chips: 100
+Big Blind: Suma, chips: 200
+Calls: Heeneef
+DEBUG MESSAGE: INVALID ACTION FROM Suma (2 0)
+Folds: Suma
+Pot size: 400
+Wins: Heeneef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suma
+Small Blind: Suma, chips: 100
+Big Blind: Heeneef, chips: 200
+Folds: Suma
+Pot size: 300
+Wins: Heeneef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heeneef
+Small Blind: Heeneef, chips: 100
+Big Blind: Suma, chips: 100
+Flop: Ac 6d 3c
+Turn: 7d
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Suma, 2d Td
+Combination: Suma, Pair ( 7d 7c Ac Td 6d )
+Shows: Heeneef, 3d 6h
+Combination: Heeneef, Two Pair ( 7d 7c 6h 6d Ac )
+Wins: Heeneef, chips: 200
+Quits: Suma, chips: 0
+Ranking: Heeneef, Place: 1, Score: 1000
+Reveal AI: Heeneef, AI: Random
+Ranking: Suma, Place: 2, Score: -1000
+Reveal AI: Suma, AI: AIMyBot1
+
+Player Stats for Heeneef, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2300, lost: 1300, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Suma, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:29
+
+The game begins. The AI's of the players are: 
+Suma: AIMyBot1
+Heeneef: Random
+
+Joins: Suma, chips: 1000
+Joins: Heeneef, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heeneef
+Small Blind: Heeneef, chips: 100
+Big Blind: Suma, chips: 200
+Calls: Heeneef
+DEBUG MESSAGE: INVALID ACTION FROM Suma (2 0)
+Folds: Suma
+Pot size: 400
+Wins: Heeneef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suma
+Small Blind: Suma, chips: 100
+Big Blind: Heeneef, chips: 200
+Folds: Suma
+Pot size: 300
+Wins: Heeneef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heeneef
+Small Blind: Heeneef, chips: 100
+Big Blind: Suma, chips: 200
+Calls: Heeneef
+DEBUG MESSAGE: INVALID ACTION FROM Suma (2 0)
+Folds: Suma
+Pot size: 400
+Wins: Heeneef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suma
+Small Blind: Suma, chips: 100
+Big Blind: Heeneef, chips: 200
+Folds: Suma
+Pot size: 300
+Boasts: Heeneef, 8h Kh
+Wins: Heeneef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heeneef
+Small Blind: Heeneef, chips: 100
+Big Blind: Suma, chips: 200
+Calls: Heeneef
+DEBUG MESSAGE: INVALID ACTION FROM Suma (2 0)
+Folds: Suma
+Pot size: 400
+Wins: Heeneef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suma
+Small Blind: Suma, chips: 100
+Big Blind: Heeneef, chips: 200
+Folds: Suma
+Pot size: 300
+Wins: Heeneef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heeneef
+Small Blind: Heeneef, chips: 100
+Big Blind: Suma, chips: 100
+Flop: Ac 6d 3c
+Turn: 7d
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Suma, 2d Td
+Combination: Suma, Pair ( 7d 7c Ac Td 6d )
+Shows: Heeneef, 3d 6h
+Combination: Heeneef, Two Pair ( 7d 7c 6h 6d Ac )
+Wins: Heeneef, chips: 200
+Quits: Suma, chips: 0
+Ranking: Heeneef, Place: 1, Score: 1000
+Reveal AI: Heeneef, AI: Random
+Ranking: Suma, Place: 2, Score: -1000
+Reveal AI: Suma, AI: AIMyBot1
+
+Player Stats for Heeneef, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2300, lost: 1300, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Suma, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

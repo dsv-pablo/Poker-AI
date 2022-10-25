@@ -1,0 +1,344 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+No: AIMyBot1
+Peeboettu: Random
+
+Joins: No, chips: 1000
+Joins: Peeboettu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Peeboettu, chips: 200
+Folds: No
+Pot size: 300
+Wins: Peeboettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeboettu
+Small Blind: Peeboettu, chips: 100
+Big Blind: No, chips: 200
+Raises: Peeboettu, chips: 300
+Folds: No
+Pot size: 700
+Boasts: Peeboettu, 3s 6c
+Wins: Peeboettu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Peeboettu, chips: 200
+Folds: No
+Pot size: 300
+Boasts: Peeboettu, Ac 6s
+Wins: Peeboettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeboettu
+Small Blind: Peeboettu, chips: 100
+Big Blind: No, chips: 200
+Folds: Peeboettu
+Pot size: 300
+Boasts: Peeboettu, 5d Js
+Wins: No, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Peeboettu, chips: 200
+Folds: No
+Pot size: 300
+Boasts: Peeboettu, 9d Ah
+Wins: Peeboettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeboettu
+Small Blind: Peeboettu, chips: 100
+Big Blind: No, chips: 200
+Folds: Peeboettu
+Pot size: 300
+Boasts: Peeboettu, Ac 7c
+Wins: No, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Peeboettu, chips: 200
+Folds: No
+Pot size: 300
+Wins: Peeboettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeboettu
+Small Blind: Peeboettu, chips: 100
+Big Blind: No, chips: 200
+Calls: Peeboettu
+DEBUG MESSAGE: INVALID ACTION FROM No (2 0)
+Folds: No
+Pot size: 400
+Wins: Peeboettu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Peeboettu, chips: 200
+Folds: No
+Pot size: 300
+Wins: Peeboettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeboettu
+Small Blind: Peeboettu, chips: 100
+Big Blind: No, chips: 200
+Folds: Peeboettu
+Pot size: 300
+Boasts: Peeboettu, 5s Th
+Wins: No, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Peeboettu, chips: 200
+Folds: No
+Pot size: 300
+Wins: Peeboettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeboettu
+Small Blind: Peeboettu, chips: 100
+Big Blind: No, chips: 200
+Calls: Peeboettu
+DEBUG MESSAGE: INVALID ACTION FROM No (2 0)
+Folds: No
+Pot size: 400
+Wins: Peeboettu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Peeboettu, chips: 200
+Flop: 5d 9h Qc
+Turn: Th
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: No, 5s Ad
+Combination: No, Pair ( 5s 5d Ad Qc Th )
+Shows: Peeboettu, 2h 2d
+Combination: Peeboettu, Pair ( 2h 2d Qc Th 9h )
+Wins: No, chips: 200
+Wins: Peeboettu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeboettu
+Small Blind: Peeboettu, chips: 100
+Big Blind: No, chips: 200
+Flop: 8s Ks Ts
+Turn: 3s
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: No, 9c Qc
+Combination: No, High Card ( Ks Qc Ts 9c 8s )
+Shows: Peeboettu, 9s 2h
+Combination: Peeboettu, Flush ( Ks Ts 9s 8s 3s )
+Wins: No, chips: 100
+Wins: Peeboettu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Peeboettu, chips: 200
+Flop: 6c Ad 3d
+Turn: Qd
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: No, 8h 6h
+Combination: No, Pair ( 6h 6c Ad Kh Qd )
+Shows: Peeboettu, As 3c
+Combination: Peeboettu, Two Pair ( As Ad 3c 3d Kh )
+Wins: Peeboettu, chips: 300
+Quits: No, chips: 0
+Ranking: Peeboettu, Place: 1, Score: 1000
+Reveal AI: Peeboettu, AI: Random
+Ranking: No, Place: 2, Score: -1000
+Reveal AI: No, AI: AIMyBot1
+
+Player Stats for No, AI: AIMyBot1
+General: deals: 15, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Peeboettu, AI: Random
+General: deals: 15, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:14
+
+The game begins. The AI's of the players are: 
+No: AIMyBot1
+Peeboettu: Random
+
+Joins: No, chips: 1000
+Joins: Peeboettu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Peeboettu, chips: 200
+Folds: No
+Pot size: 300
+Wins: Peeboettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeboettu
+Small Blind: Peeboettu, chips: 100
+Big Blind: No, chips: 200
+Raises: Peeboettu, chips: 300
+Folds: No
+Pot size: 700
+Boasts: Peeboettu, 3s 6c
+Wins: Peeboettu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Peeboettu, chips: 200
+Folds: No
+Pot size: 300
+Boasts: Peeboettu, Ac 6s
+Wins: Peeboettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeboettu
+Small Blind: Peeboettu, chips: 100
+Big Blind: No, chips: 200
+Folds: Peeboettu
+Pot size: 300
+Boasts: Peeboettu, 5d Js
+Wins: No, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Peeboettu, chips: 200
+Folds: No
+Pot size: 300
+Boasts: Peeboettu, 9d Ah
+Wins: Peeboettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeboettu
+Small Blind: Peeboettu, chips: 100
+Big Blind: No, chips: 200
+Folds: Peeboettu
+Pot size: 300
+Boasts: Peeboettu, Ac 7c
+Wins: No, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Peeboettu, chips: 200
+Folds: No
+Pot size: 300
+Wins: Peeboettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeboettu
+Small Blind: Peeboettu, chips: 100
+Big Blind: No, chips: 200
+Calls: Peeboettu
+DEBUG MESSAGE: INVALID ACTION FROM No (2 0)
+Folds: No
+Pot size: 400
+Wins: Peeboettu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Peeboettu, chips: 200
+Folds: No
+Pot size: 300
+Wins: Peeboettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeboettu
+Small Blind: Peeboettu, chips: 100
+Big Blind: No, chips: 200
+Folds: Peeboettu
+Pot size: 300
+Boasts: Peeboettu, 5s Th
+Wins: No, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Peeboettu, chips: 200
+Folds: No
+Pot size: 300
+Wins: Peeboettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeboettu
+Small Blind: Peeboettu, chips: 100
+Big Blind: No, chips: 200
+Calls: Peeboettu
+DEBUG MESSAGE: INVALID ACTION FROM No (2 0)
+Folds: No
+Pot size: 400
+Wins: Peeboettu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Peeboettu, chips: 200
+Flop: 5d 9h Qc
+Turn: Th
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: No, 5s Ad
+Combination: No, Pair ( 5s 5d Ad Qc Th )
+Shows: Peeboettu, 2h 2d
+Combination: Peeboettu, Pair ( 2h 2d Qc Th 9h )
+Wins: No, chips: 200
+Wins: Peeboettu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeboettu
+Small Blind: Peeboettu, chips: 100
+Big Blind: No, chips: 200
+Flop: 8s Ks Ts
+Turn: 3s
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: No, 9c Qc
+Combination: No, High Card ( Ks Qc Ts 9c 8s )
+Shows: Peeboettu, 9s 2h
+Combination: Peeboettu, Flush ( Ks Ts 9s 8s 3s )
+Wins: No, chips: 100
+Wins: Peeboettu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: No
+Small Blind: No, chips: 100
+Big Blind: Peeboettu, chips: 200
+Flop: 6c Ad 3d
+Turn: Qd
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: No, 8h 6h
+Combination: No, Pair ( 6h 6c Ad Kh Qd )
+Shows: Peeboettu, As 3c
+Combination: Peeboettu, Two Pair ( As Ad 3c 3d Kh )
+Wins: Peeboettu, chips: 300
+Quits: No, chips: 0
+Ranking: Peeboettu, Place: 1, Score: 1000
+Reveal AI: Peeboettu, AI: Random
+Ranking: No, Place: 2, Score: -1000
+Reveal AI: No, AI: AIMyBot1
+
+Player Stats for No, AI: AIMyBot1
+General: deals: 15, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Peeboettu, AI: Random
+General: deals: 15, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

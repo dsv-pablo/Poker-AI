@@ -1,0 +1,258 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Tichipeet: Random
+Vitoe: AIMyBot1
+
+Joins: Tichipeet, chips: 1000
+Joins: Vitoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichipeet
+Small Blind: Tichipeet, chips: 100
+Big Blind: Vitoe, chips: 200
+Raises: Tichipeet, chips: 300
+Folds: Vitoe
+Pot size: 700
+Boasts: Tichipeet, Ah 4h
+Wins: Tichipeet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vitoe
+Small Blind: Vitoe, chips: 100
+Big Blind: Tichipeet, chips: 200
+Folds: Vitoe
+Pot size: 300
+Boasts: Tichipeet, 9d 7s
+Wins: Tichipeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichipeet
+Small Blind: Tichipeet, chips: 100
+Big Blind: Vitoe, chips: 200
+Folds: Tichipeet
+Pot size: 300
+Wins: Vitoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vitoe
+Small Blind: Vitoe, chips: 100
+Big Blind: Tichipeet, chips: 200
+Folds: Vitoe
+Pot size: 300
+Boasts: Tichipeet, 7c 3c
+Wins: Tichipeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichipeet
+Small Blind: Tichipeet, chips: 100
+Big Blind: Vitoe, chips: 200
+Calls: Tichipeet
+DEBUG MESSAGE: INVALID ACTION FROM Vitoe (2 0)
+Folds: Vitoe
+Pot size: 400
+Boasts: Tichipeet, 6d 3d
+Wins: Tichipeet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vitoe
+Small Blind: Vitoe, chips: 100
+Big Blind: Tichipeet, chips: 200
+Folds: Vitoe
+Pot size: 300
+Boasts: Tichipeet, 4h 8c
+Wins: Tichipeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichipeet
+Small Blind: Tichipeet, chips: 100
+Big Blind: Vitoe, chips: 200
+Folds: Tichipeet
+Pot size: 300
+Boasts: Tichipeet, 4c 8h
+Wins: Vitoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vitoe
+Small Blind: Vitoe, chips: 100
+Big Blind: Tichipeet, chips: 200
+Folds: Vitoe
+Pot size: 300
+Wins: Tichipeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichipeet
+Small Blind: Tichipeet, chips: 100
+Big Blind: Vitoe, chips: 200
+Calls: Tichipeet
+DEBUG MESSAGE: INVALID ACTION FROM Vitoe (2 0)
+Folds: Vitoe
+Pot size: 400
+Boasts: Tichipeet, 6d 3c
+Wins: Tichipeet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vitoe
+Small Blind: Vitoe, chips: 100
+Big Blind: Tichipeet, chips: 200
+Folds: Vitoe
+Pot size: 300
+Wins: Tichipeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichipeet
+Small Blind: Tichipeet, chips: 100
+Big Blind: Vitoe, chips: 100
+Flop: 8s Kd 8c
+Turn: 5c
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Tichipeet, Ac 7c
+Combination: Tichipeet, Two Pair ( 8s 8c 7c 7h Ac )
+Shows: Vitoe, 2c 9s
+Combination: Vitoe, Pair ( 8s 8c Kd 9s 7h )
+Wins: Tichipeet, chips: 200
+Quits: Vitoe, chips: 0
+Ranking: Tichipeet, Place: 1, Score: 1000
+Reveal AI: Tichipeet, AI: Random
+Ranking: Vitoe, Place: 2, Score: -1000
+Reveal AI: Vitoe, AI: AIMyBot1
+
+Player Stats for Tichipeet, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Vitoe, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:20
+
+The game begins. The AI's of the players are: 
+Tichipeet: Random
+Vitoe: AIMyBot1
+
+Joins: Tichipeet, chips: 1000
+Joins: Vitoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichipeet
+Small Blind: Tichipeet, chips: 100
+Big Blind: Vitoe, chips: 200
+Raises: Tichipeet, chips: 300
+Folds: Vitoe
+Pot size: 700
+Boasts: Tichipeet, Ah 4h
+Wins: Tichipeet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vitoe
+Small Blind: Vitoe, chips: 100
+Big Blind: Tichipeet, chips: 200
+Folds: Vitoe
+Pot size: 300
+Boasts: Tichipeet, 9d 7s
+Wins: Tichipeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichipeet
+Small Blind: Tichipeet, chips: 100
+Big Blind: Vitoe, chips: 200
+Folds: Tichipeet
+Pot size: 300
+Wins: Vitoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vitoe
+Small Blind: Vitoe, chips: 100
+Big Blind: Tichipeet, chips: 200
+Folds: Vitoe
+Pot size: 300
+Boasts: Tichipeet, 7c 3c
+Wins: Tichipeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichipeet
+Small Blind: Tichipeet, chips: 100
+Big Blind: Vitoe, chips: 200
+Calls: Tichipeet
+DEBUG MESSAGE: INVALID ACTION FROM Vitoe (2 0)
+Folds: Vitoe
+Pot size: 400
+Boasts: Tichipeet, 6d 3d
+Wins: Tichipeet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vitoe
+Small Blind: Vitoe, chips: 100
+Big Blind: Tichipeet, chips: 200
+Folds: Vitoe
+Pot size: 300
+Boasts: Tichipeet, 4h 8c
+Wins: Tichipeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichipeet
+Small Blind: Tichipeet, chips: 100
+Big Blind: Vitoe, chips: 200
+Folds: Tichipeet
+Pot size: 300
+Boasts: Tichipeet, 4c 8h
+Wins: Vitoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vitoe
+Small Blind: Vitoe, chips: 100
+Big Blind: Tichipeet, chips: 200
+Folds: Vitoe
+Pot size: 300
+Wins: Tichipeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichipeet
+Small Blind: Tichipeet, chips: 100
+Big Blind: Vitoe, chips: 200
+Calls: Tichipeet
+DEBUG MESSAGE: INVALID ACTION FROM Vitoe (2 0)
+Folds: Vitoe
+Pot size: 400
+Boasts: Tichipeet, 6d 3c
+Wins: Tichipeet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vitoe
+Small Blind: Vitoe, chips: 100
+Big Blind: Tichipeet, chips: 200
+Folds: Vitoe
+Pot size: 300
+Wins: Tichipeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichipeet
+Small Blind: Tichipeet, chips: 100
+Big Blind: Vitoe, chips: 100
+Flop: 8s Kd 8c
+Turn: 5c
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Tichipeet, Ac 7c
+Combination: Tichipeet, Two Pair ( 8s 8c 7c 7h Ac )
+Shows: Vitoe, 2c 9s
+Combination: Vitoe, Pair ( 8s 8c Kd 9s 7h )
+Wins: Tichipeet, chips: 200
+Quits: Vitoe, chips: 0
+Ranking: Tichipeet, Place: 1, Score: 1000
+Reveal AI: Tichipeet, AI: Random
+Ranking: Vitoe, Place: 2, Score: -1000
+Reveal AI: Vitoe, AI: AIMyBot1
+
+Player Stats for Tichipeet, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Vitoe, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

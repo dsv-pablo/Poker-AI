@@ -1,0 +1,4644 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Soerlep: AIMyBot7
+Gawroekoet: AIMyBot1
+Reetoenhatry: AIMyBot5
+Jagaf: AIMyBot4
+Tivogeem: AIMyBot6
+Goewus: AIMyBot2
+Koeheeroe: AIMyBot3
+
+Joins: Soerlep, chips: 1000
+Joins: Gawroekoet, chips: 1000
+Joins: Reetoenhatry, chips: 1000
+Joins: Jagaf, chips: 1000
+Joins: Tivogeem, chips: 1000
+Joins: Goewus, chips: 1000
+Joins: Koeheeroe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Goewus, chips: 100
+Big Blind: Koeheeroe, chips: 200
+Folds: Soerlep
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Folds: Jagaf
+Folds: Tivogeem
+Raises: Goewus, chips: 234
+Folds: Koeheeroe
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Flop: 3h Kc Kd
+Raises: Goewus, chips: 334
+Folds: Gawroekoet
+Calls: Reetoenhatry
+Turn: 5s
+Raises: Goewus, chips: 232
+Calls: Reetoenhatry
+River: Kh
+Pot size: 2634
+Showdown Reached
+Shows: Reetoenhatry, 5h 9h
+Combination: Reetoenhatry, Full House ( Kc Kd Kh 5h 5s )
+Shows: Goewus, 3d Js
+Combination: Goewus, Full House ( Kc Kd Kh 3d 3h )
+Wins: Reetoenhatry, chips: 2634
+Quits: Goewus, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koeheeroe
+Small Blind: Soerlep, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Calls: Reetoenhatry
+Folds: Jagaf
+Folds: Tivogeem
+Folds: Koeheeroe
+Folds: Soerlep
+Raises: Gawroekoet, chips: 249
+Calls: Reetoenhatry
+Flop: Jd 2h Ac
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: 4h
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: 9s
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Pot size: 998
+Showdown Reached
+Shows: Gawroekoet, 7h As
+Combination: Gawroekoet, Pair ( As Ac Jd 9s 7h )
+Shows: Reetoenhatry, 5d 9h
+Combination: Reetoenhatry, Pair ( 9h 9s Ac Jd 5d )
+Wins: Gawroekoet, chips: 998
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soerlep
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Reetoenhatry, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Folds: Koeheeroe
+Folds: Soerlep
+Calls: Gawroekoet
+Checks: Reetoenhatry
+Flop: Kc Jc 8h
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: 7h
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: As
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 4c 9s
+Combination: Gawroekoet, High Card ( As Kc Jc 9s 8h )
+Shows: Reetoenhatry, 9c 6s
+Combination: Reetoenhatry, High Card ( As Kc Jc 9c 8h )
+Wins: Gawroekoet, chips: 200
+Wins: Reetoenhatry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Reetoenhatry, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Folds: Koeheeroe
+Folds: Soerlep
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Checks: Jagaf
+Flop: Qc Kh Jc
+Checks: Reetoenhatry
+Checks: Jagaf
+Checks: Gawroekoet
+Turn: Qh
+Checks: Reetoenhatry
+Checks: Jagaf
+Checks: Gawroekoet
+River: Ks
+Checks: Reetoenhatry
+Checks: Jagaf
+Checks: Gawroekoet
+Pot size: 600
+Showdown Reached
+Shows: Gawroekoet, 5d 7h
+Combination: Gawroekoet, Two Pair ( Kh Ks Qc Qh Jc )
+Shows: Reetoenhatry, 6d 4s
+Combination: Reetoenhatry, Two Pair ( Kh Ks Qc Qh Jc )
+Shows: Jagaf, 7c 9s
+Combination: Jagaf, Two Pair ( Kh Ks Qc Qh Jc )
+Wins: Gawroekoet, chips: 200
+Wins: Reetoenhatry, chips: 200
+Wins: Jagaf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reetoenhatry
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Folds: Koeheeroe
+Folds: Soerlep
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 5c 7h Jh
+Checks: Tivogeem
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: Jd
+Checks: Tivogeem
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: 4c
+Checks: Tivogeem
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Pot size: 700
+Showdown Reached
+Shows: Gawroekoet, 2d 9h
+Combination: Gawroekoet, Pair ( Jh Jd 9h 7h 5c )
+Shows: Reetoenhatry, 2s Th
+Combination: Reetoenhatry, Pair ( Jh Jd Th 7h 5c )
+Shows: Tivogeem, 9c Ad
+Combination: Tivogeem, Pair ( Jh Jd Ad 9c 7h )
+Wins: Tivogeem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Koeheeroe, chips: 200
+Folds: Soerlep
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Folds: Jagaf
+Folds: Tivogeem
+Checks: Koeheeroe
+Flop: 7h 5c 4c
+Checks: Koeheeroe
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: 2c
+Checks: Koeheeroe
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: 5h
+Checks: Koeheeroe
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Pot size: 700
+Showdown Reached
+Shows: Gawroekoet, 2s Kh
+Combination: Gawroekoet, Two Pair ( 5c 5h 2s 2c Kh )
+Shows: Reetoenhatry, 3h 8d
+Combination: Reetoenhatry, Pair ( 5c 5h 8d 7h 4c )
+Shows: Koeheeroe, 3d 9d
+Combination: Koeheeroe, Pair ( 5c 5h 9d 7h 4c )
+Wins: Gawroekoet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Koeheeroe, chips: 100
+Big Blind: Soerlep, chips: 200
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Folds: Jagaf
+Folds: Tivogeem
+Folds: Koeheeroe
+DEBUG MESSAGE: INVALID ACTION FROM Soerlep (2 0)
+Folds: Soerlep
+Flop: 9c Ts Kh
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: 7d
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: 6d
+Checks: Gawroekoet
+Raises: Reetoenhatry, chips: 200
+Folds: Gawroekoet
+Pot size: 900
+Wins: Reetoenhatry, chips: 900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koeheeroe
+Small Blind: Soerlep, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Calls: Reetoenhatry
+Folds: Jagaf
+Folds: Tivogeem
+Folds: Koeheeroe
+Folds: Soerlep
+Raises: Gawroekoet, chips: 249
+Calls: Reetoenhatry
+Flop: 3s 8s 2h
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: Td
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: 5c
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Pot size: 998
+Showdown Reached
+Shows: Gawroekoet, 2c 9h
+Combination: Gawroekoet, Pair ( 2c 2h Td 9h 8s )
+Shows: Reetoenhatry, Qh Kh
+Combination: Reetoenhatry, High Card ( Kh Qh Td 8s 5c )
+Wins: Gawroekoet, chips: 998
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soerlep
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Reetoenhatry, chips: 200
+Raises: Jagaf, chips: 700
+Folds: Tivogeem
+Folds: Koeheeroe
+Folds: Soerlep
+Folds: Gawroekoet
+Calls: Reetoenhatry
+Flop: 9c As 7h
+Turn: 9h
+River: 3s
+Pot size: 1900
+Showdown Reached
+Shows: Reetoenhatry, 6c 5h
+Combination: Reetoenhatry, Pair ( 9c 9h As 7h 6c )
+Shows: Jagaf, Kc 7c
+Combination: Jagaf, Two Pair ( 9c 9h 7c 7h As )
+Wins: Jagaf, chips: 1900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Reetoenhatry, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Folds: Koeheeroe
+Folds: Soerlep
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Checks: Jagaf
+Flop: Qc 4c Jh
+Checks: Reetoenhatry
+Checks: Jagaf
+Checks: Gawroekoet
+Turn: Js
+Checks: Reetoenhatry
+Checks: Jagaf
+Checks: Gawroekoet
+River: 7d
+Checks: Reetoenhatry
+Checks: Jagaf
+Checks: Gawroekoet
+Pot size: 600
+Showdown Reached
+Shows: Gawroekoet, 3h 2s
+Combination: Gawroekoet, Pair ( Jh Js Qc 7d 4c )
+Shows: Reetoenhatry, 6d 6c
+Combination: Reetoenhatry, Two Pair ( Jh Js 6d 6c Qc )
+Shows: Jagaf, 9h 5s
+Combination: Jagaf, Pair ( Jh Js Qc 9h 7d )
+Wins: Reetoenhatry, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reetoenhatry
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Folds: Koeheeroe
+Folds: Soerlep
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 5c Qc Kc
+Checks: Tivogeem
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: Tc
+Checks: Tivogeem
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: 4h
+Checks: Tivogeem
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Pot size: 700
+Showdown Reached
+Shows: Gawroekoet, 6d 8s
+Combination: Gawroekoet, High Card ( Kc Qc Tc 8s 6d )
+Shows: Reetoenhatry, Ts 9h
+Combination: Reetoenhatry, Pair ( Ts Tc Kc Qc 9h )
+Shows: Tivogeem, 4s 4c
+Combination: Tivogeem, Flush ( Kc Qc Tc 5c 4c )
+Wins: Tivogeem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Koeheeroe, chips: 200
+Folds: Soerlep
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Folds: Jagaf
+Folds: Tivogeem
+Checks: Koeheeroe
+Flop: 4c 4d 4h
+Checks: Koeheeroe
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: Jc
+Checks: Koeheeroe
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: 7h
+Checks: Koeheeroe
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Pot size: 700
+Showdown Reached
+Shows: Gawroekoet, 5d 5h
+Combination: Gawroekoet, Full House ( 4c 4d 4h 5d 5h )
+Shows: Reetoenhatry, 9d 2h
+Combination: Reetoenhatry, Three Of A Kind ( 4c 4d 4h Jc 9d )
+Shows: Koeheeroe, 6s 2c
+Combination: Koeheeroe, Three Of A Kind ( 4c 4d 4h Jc 7h )
+Wins: Gawroekoet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Koeheeroe, chips: 100
+Big Blind: Soerlep, chips: 200
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Folds: Jagaf
+Folds: Tivogeem
+Folds: Koeheeroe
+DEBUG MESSAGE: INVALID ACTION FROM Soerlep (2 0)
+Folds: Soerlep
+Flop: 3d 7c 5c
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: Qd
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: 4s
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Pot size: 700
+Showdown Reached
+Shows: Gawroekoet, 5d Ts
+Combination: Gawroekoet, Pair ( 5d 5c Qd Ts 7c )
+Shows: Reetoenhatry, 3c Td
+Combination: Reetoenhatry, Pair ( 3c 3d Qd Td 7c )
+Wins: Gawroekoet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koeheeroe
+Small Blind: Soerlep, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Calls: Reetoenhatry
+Raises: Jagaf, chips: 1400
+Folds: Tivogeem
+Folds: Koeheeroe
+Folds: Soerlep
+Folds: Gawroekoet
+Calls: Reetoenhatry
+Flop: 4s 5c Jc
+Turn: 9d
+River: Jd
+Pot size: 2636
+Showdown Reached
+Shows: Reetoenhatry, 8c 6s
+Combination: Reetoenhatry, Pair ( Jc Jd 9d 8c 6s )
+Shows: Jagaf, Qc Td
+Combination: Jagaf, Pair ( Jc Jd Qc Td 9d )
+Wins: Jagaf, chips: 2636
+Quits: Reetoenhatry, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soerlep
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Folds: Koeheeroe
+Folds: Soerlep
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Js Qh Jd
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 7c
+Checks: Gawroekoet
+Checks: Jagaf
+River: Ad
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 4d 2s
+Combination: Gawroekoet, Pair ( Js Jd Ad Qh 7c )
+Shows: Jagaf, Kc 8s
+Combination: Jagaf, Pair ( Js Jd Ad Kc Qh )
+Wins: Jagaf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Folds: Koeheeroe
+Folds: Soerlep
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Kd 9s 8c
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Qd
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Th
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Qc 7c
+Combination: Gawroekoet, Pair ( Qc Qd Kd Th 9s )
+Shows: Tivogeem, 7h Jd
+Combination: Tivogeem, Straight ( Kd Qd Jd Th 9s )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Koeheeroe, chips: 200
+Folds: Soerlep
+Calls: Gawroekoet
+Folds: Jagaf
+Folds: Tivogeem
+Flop: 7d Kc Kh
+Turn: 8h
+River: 5h
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Jd Jc
+Combination: Gawroekoet, Two Pair ( Kc Kh Jd Jc 8h )
+Shows: Koeheeroe, 3h 9c
+Combination: Koeheeroe, Pair ( Kc Kh 9c 8h 7d )
+Wins: Gawroekoet, chips: 500
+Quits: Koeheeroe, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Soerlep, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Folds: Soerlep
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soerlep
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Folds: Soerlep
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: As Qh Qd
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Th
+Checks: Gawroekoet
+Checks: Jagaf
+River: Ah
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 8c 9h
+Combination: Gawroekoet, Two Pair ( As Ah Qh Qd Th )
+Shows: Jagaf, Tc 3h
+Combination: Jagaf, Two Pair ( As Ah Qh Qd Tc )
+Wins: Gawroekoet, chips: 200
+Wins: Jagaf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Folds: Soerlep
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 2h Jh Qs
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 4c
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 9h
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 5d 7h
+Combination: Gawroekoet, High Card ( Qs Jh 9h 7h 5d )
+Shows: Tivogeem, 6s 3c
+Combination: Tivogeem, High Card ( Qs Jh 9h 6s 4c )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Soerlep, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Folds: Tivogeem
+Flop: 6d Td Ks
+Turn: 8s
+River: 3c
+Pot size: 500
+Showdown Reached
+Shows: Soerlep, Kc As
+Combination: Soerlep, Pair ( Kc Ks As Td 8s )
+Shows: Gawroekoet, Kh 3h
+Combination: Gawroekoet, Two Pair ( Kh Ks 3h 3c Td )
+Wins: Gawroekoet, chips: 500
+Quits: Soerlep, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Ks 4s Kd
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 9s
+Checks: Gawroekoet
+Checks: Jagaf
+River: Jd
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 9c 7d
+Combination: Gawroekoet, Two Pair ( Ks Kd 9c 9s Jd )
+Shows: Jagaf, Td 2c
+Combination: Jagaf, Pair ( Ks Kd Jd Td 9s )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 6d 7s 3s
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 7c
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Qs
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Tc Kc
+Combination: Gawroekoet, Pair ( 7s 7c Kc Qs Tc )
+Shows: Tivogeem, As Jc
+Combination: Tivogeem, Pair ( 7s 7c As Qs Jc )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 9d 4h Jh
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 7d
+Checks: Gawroekoet
+Checks: Jagaf
+River: Jd
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Kh Td
+Combination: Gawroekoet, Pair ( Jh Jd Kh Td 9d )
+Shows: Jagaf, Qs 2h
+Combination: Jagaf, Pair ( Jh Jd Qs 9d 7d )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 9d 8c 3c
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Ac
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 7s
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Jh 5s
+Combination: Gawroekoet, High Card ( Ac Jh 9d 8c 7s )
+Shows: Tivogeem, 6d 7h
+Combination: Tivogeem, Pair ( 7h 7s Ac 9d 8c )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Tc 3s 7d
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 4c
+Checks: Gawroekoet
+Checks: Jagaf
+River: 6s
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Ah Ks
+Combination: Gawroekoet, High Card ( Ah Ks Tc 7d 6s )
+Shows: Jagaf, 9c Qh
+Combination: Jagaf, High Card ( Qh Tc 9c 7d 6s )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Kd 2d 9d
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Th
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Kh
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Qd 9h
+Combination: Gawroekoet, Two Pair ( Kd Kh 9h 9d Qd )
+Shows: Tivogeem, Jd 4d
+Combination: Tivogeem, Flush ( Kd Jd 9d 4d 2d )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 7h 3d Jh
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Ad
+Checks: Gawroekoet
+Checks: Jagaf
+River: Ts
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 9h Kc
+Combination: Gawroekoet, High Card ( Ad Kc Jh Ts 9h )
+Shows: Jagaf, 5d Js
+Combination: Jagaf, Pair ( Js Jh Ad Ts 7h )
+Wins: Jagaf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 2h 3d Qd
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 5d
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 7c
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Ac 7h
+Combination: Gawroekoet, Pair ( 7h 7c Ac Qd 5d )
+Shows: Tivogeem, Td 2d
+Combination: Tivogeem, Flush ( Qd Td 5d 3d 2d )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Jc 7h Qh
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Js
+Checks: Gawroekoet
+Checks: Jagaf
+River: 6s
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, As 7s
+Combination: Gawroekoet, Two Pair ( Jc Js 7s 7h As )
+Shows: Jagaf, Ts 8h
+Combination: Jagaf, Pair ( Jc Js Qh Ts 8h )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Qd Jc 3c
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Qc
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 6s
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Ac 8c
+Combination: Gawroekoet, Flush ( Ac Qc Jc 8c 3c )
+Shows: Tivogeem, 5s 2c
+Combination: Tivogeem, Pair ( Qd Qc Jc 6s 5s )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 6d Qd Td
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 3c
+Checks: Gawroekoet
+Checks: Jagaf
+River: Qh
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 7c 4c
+Combination: Gawroekoet, Pair ( Qd Qh Td 7c 6d )
+Shows: Jagaf, 2d As
+Combination: Jagaf, Pair ( Qd Qh As Td 6d )
+Wins: Jagaf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Kh 9h 5s
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 4c
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 6c
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 9c 7s
+Combination: Gawroekoet, Pair ( 9c 9h Kh 7s 6c )
+Shows: Tivogeem, 4s 4h
+Combination: Tivogeem, Three Of A Kind ( 4s 4h 4c Kh 9h )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Qc 5c Kd
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Js
+Checks: Gawroekoet
+Checks: Jagaf
+River: 9c
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 6h 3d
+Combination: Gawroekoet, High Card ( Kd Qc Js 9c 6h )
+Shows: Jagaf, As 2c
+Combination: Jagaf, High Card ( As Kd Qc Js 9c )
+Wins: Jagaf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Kd Ac Kc
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Jd
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 8h
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Ks Qs
+Combination: Gawroekoet, Three Of A Kind ( Ks Kd Kc Ac Qs )
+Shows: Tivogeem, 6h 2c
+Combination: Tivogeem, Pair ( Kd Kc Ac Jd 8h )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Raises: Jagaf, chips: 1536
+Folds: Gawroekoet
+Pot size: 1936
+Wins: Jagaf, chips: 1936
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Kd Ah 2d
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 7d
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Qs
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 5c Tc
+Combination: Gawroekoet, High Card ( Ah Kd Qs Tc 7d )
+Shows: Tivogeem, Ts 6d
+Combination: Tivogeem, High Card ( Ah Kd Qs Ts 7d )
+Wins: Gawroekoet, chips: 250
+Wins: Tivogeem, chips: 250
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 9d 8c 8h
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 3c
+Checks: Gawroekoet
+Checks: Jagaf
+River: 9c
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Jc 3d
+Combination: Gawroekoet, Two Pair ( 9d 9c 8c 8h Jc )
+Shows: Jagaf, 5h Ad
+Combination: Jagaf, Two Pair ( 9d 9c 8c 8h Ad )
+Wins: Jagaf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 8c 9h 8h
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 4s
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Ks
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Tc 5s
+Combination: Gawroekoet, Pair ( 8c 8h Ks Tc 9h )
+Shows: Tivogeem, 5h 3d
+Combination: Tivogeem, Pair ( 8c 8h Ks 9h 5h )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Raises: Jagaf, chips: 1736
+Folds: Tivogeem
+Folds: Gawroekoet
+Pot size: 2236
+Wins: Jagaf, chips: 2236
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 6d 5s 7c
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Ah
+Checks: Gawroekoet
+Checks: Jagaf
+River: 5d
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 3c 8d
+Combination: Gawroekoet, Pair ( 5s 5d Ah 8d 7c )
+Shows: Jagaf, 2s 4h
+Combination: Jagaf, Pair ( 5s 5d Ah 7c 6d )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 2d Jc 7s
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Ts
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 6d
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 5d 6h
+Combination: Gawroekoet, Pair ( 6h 6d Jc Ts 7s )
+Shows: Tivogeem, Qh 4s
+Combination: Tivogeem, High Card ( Qh Jc Ts 7s 6d )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Ah 2h 2d
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Th
+Checks: Gawroekoet
+Checks: Jagaf
+River: 2s
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 6c 8h
+Combination: Gawroekoet, Three Of A Kind ( 2h 2d 2s Ah Th )
+Shows: Jagaf, 3h Kh
+Combination: Jagaf, Flush ( Ah Kh Th 3h 2h )
+Wins: Jagaf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Raises: Jagaf, chips: 800
+Folds: Tivogeem
+Folds: Gawroekoet
+Pot size: 1400
+Wins: Jagaf, chips: 1400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 8s Kh Tc
+Checks: Gawroekoet
+Raises: Jagaf, chips: 600
+Folds: Gawroekoet
+Pot size: 1000
+Wins: Jagaf, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 8c Qh 7d
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 8h
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Kd
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 5d 3h
+Combination: Gawroekoet, Pair ( 8c 8h Kd Qh 7d )
+Shows: Tivogeem, 9s 5c
+Combination: Tivogeem, Pair ( 8c 8h Kd Qh 9s )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Raises: Jagaf, chips: 1000
+Folds: Tivogeem
+Folds: Gawroekoet
+Pot size: 1500
+Wins: Jagaf, chips: 1500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Kd 7s Qs
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 3s
+Checks: Gawroekoet
+Checks: Jagaf
+River: 2s
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 7h Td
+Combination: Gawroekoet, Pair ( 7h 7s Kd Qs Td )
+Shows: Jagaf, Jc 4c
+Combination: Jagaf, High Card ( Kd Qs Jc 7s 4c )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 5s 8c Ad
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 8h
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Ac
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Th Jh
+Combination: Gawroekoet, Two Pair ( Ad Ac 8c 8h Jh )
+Shows: Tivogeem, 9d Kc
+Combination: Tivogeem, Two Pair ( Ad Ac 8c 8h Kc )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Th Qc Ts
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 7d
+Checks: Gawroekoet
+Checks: Jagaf
+River: Td
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 7h 2h
+Combination: Gawroekoet, Full House ( Th Ts Td 7h 7d )
+Shows: Jagaf, 6d 5d
+Combination: Jagaf, Three Of A Kind ( Th Ts Td Qc 7d )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 4d 2h 9h
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 9d
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 3h
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 2c Jh
+Combination: Gawroekoet, Two Pair ( 9h 9d 2c 2h Jh )
+Shows: Tivogeem, Ad Kd
+Combination: Tivogeem, Pair ( 9h 9d Ad Kd 4d )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 6h 2c Qh
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: As
+Checks: Gawroekoet
+Checks: Jagaf
+River: Qs
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 3h Qd
+Combination: Gawroekoet, Three Of A Kind ( Qd Qh Qs As 6h )
+Shows: Jagaf, 9h Jc
+Combination: Jagaf, Pair ( Qh Qs As Jc 9h )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Kh 7d 6h
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 3h
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 5h
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Kd Jd
+Combination: Gawroekoet, Pair ( Kd Kh Jd 7d 6h )
+Shows: Tivogeem, 2c 2d
+Combination: Tivogeem, Pair ( 2c 2d Kh 7d 6h )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 4h Qs 8c
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 3d
+Checks: Gawroekoet
+Checks: Jagaf
+River: 9c
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 5c 5d
+Combination: Gawroekoet, Pair ( 5c 5d Qs 9c 8c )
+Shows: Jagaf, 7h Kd
+Combination: Jagaf, High Card ( Kd Qs 9c 8c 7h )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Ks 9c 4h
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Th
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Td
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 9h 3h
+Combination: Gawroekoet, Two Pair ( Th Td 9h 9c Ks )
+Shows: Tivogeem, 8h Qh
+Combination: Tivogeem, Pair ( Th Td Ks Qh 9c )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Raises: Jagaf, chips: 1536
+Folds: Gawroekoet
+Pot size: 1936
+Wins: Jagaf, chips: 1936
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 8d Qh Td
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 9d
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 7c
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Ac Kc
+Combination: Gawroekoet, High Card ( Ac Kc Qh Td 9d )
+Shows: Tivogeem, Qs Qc
+Combination: Tivogeem, Three Of A Kind ( Qs Qc Qh Td 9d )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 8c 2s 7s
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 7d
+Checks: Gawroekoet
+Checks: Jagaf
+River: Kd
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 2c 9d
+Combination: Gawroekoet, Two Pair ( 7s 7d 2c 2s Kd )
+Shows: Jagaf, 9c Th
+Combination: Jagaf, Pair ( 7s 7d Kd Th 9c )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 3h Qd 8c
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 6d
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 2h
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 7c 8d
+Combination: Gawroekoet, Pair ( 8d 8c Qd 7c 6d )
+Shows: Tivogeem, Qc Th
+Combination: Tivogeem, Pair ( Qc Qd Th 8c 6d )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Jd Ad 6h
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 8s
+Checks: Gawroekoet
+Checks: Jagaf
+River: 5h
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 9c Ks
+Combination: Gawroekoet, High Card ( Ad Ks Jd 9c 8s )
+Shows: Jagaf, Th 3d
+Combination: Jagaf, High Card ( Ad Jd Th 8s 6h )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 2h Js 8c
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Ks
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 7h
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 9c Qh
+Combination: Gawroekoet, High Card ( Ks Qh Js 9c 8c )
+Shows: Tivogeem, 2c Qs
+Combination: Tivogeem, Pair ( 2c 2h Ks Qs Js )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 6c Kd Ah
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 7h
+Checks: Gawroekoet
+Checks: Jagaf
+River: 2c
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 6s Ts
+Combination: Gawroekoet, Pair ( 6s 6c Ah Kd Ts )
+Shows: Jagaf, Th 5s
+Combination: Jagaf, High Card ( Ah Kd Th 7h 6c )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Ad 9c Tc
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 4c
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Kh
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 4s 3h
+Combination: Gawroekoet, Pair ( 4s 4c Ad Kh Tc )
+Shows: Tivogeem, 6h 6d
+Combination: Tivogeem, Pair ( 6h 6d Ad Kh Tc )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 7d 3s 2h
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 2c
+Checks: Gawroekoet
+Checks: Jagaf
+River: Jd
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 7s 3c
+Combination: Gawroekoet, Two Pair ( 7s 7d 3c 3s Jd )
+Shows: Jagaf, 6c 4h
+Combination: Jagaf, Pair ( 2h 2c Jd 7d 6c )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 6c 7d 5s
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Th
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Jd
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 8s 3s
+Combination: Gawroekoet, High Card ( Jd Th 8s 7d 6c )
+Shows: Tivogeem, Qs 3d
+Combination: Tivogeem, High Card ( Qs Jd Th 7d 6c )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Raises: Jagaf, chips: 436
+Folds: Gawroekoet
+Pot size: 836
+Wins: Jagaf, chips: 836
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 8c Js 7c
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Th
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Qc
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Kc 4d
+Combination: Gawroekoet, High Card ( Kc Qc Js Th 8c )
+Shows: Tivogeem, 6s 9s
+Combination: Tivogeem, Straight ( Qc Js Th 9s 8c )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Raises: Jagaf, chips: 536
+Folds: Tivogeem
+Folds: Gawroekoet
+Pot size: 1036
+Wins: Jagaf, chips: 1036
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Td 2s Ts
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Ks
+Checks: Gawroekoet
+Checks: Jagaf
+River: Kd
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Ad 2h
+Combination: Gawroekoet, Two Pair ( Ks Kd Td Ts Ad )
+Shows: Jagaf, 3c Qc
+Combination: Jagaf, Two Pair ( Ks Kd Td Ts Qc )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 7d 4d 2c
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: As
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Qh
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 9d 5s
+Combination: Gawroekoet, High Card ( As Qh 9d 7d 5s )
+Shows: Tivogeem, Kc Qd
+Combination: Tivogeem, Pair ( Qd Qh As Kc 7d )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 3c 2d 6h
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 4h
+Checks: Gawroekoet
+Checks: Jagaf
+River: Td
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Ad Ac
+Combination: Gawroekoet, Pair ( Ad Ac Td 6h 4h )
+Shows: Jagaf, 5d 2c
+Combination: Jagaf, Straight ( 6h 5d 4h 3c 2c )
+Wins: Jagaf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 2d Ts Qs
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 4d
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Jd
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 5s 7d
+Combination: Gawroekoet, High Card ( Qs Jd Ts 7d 5s )
+Shows: Tivogeem, Th 9d
+Combination: Tivogeem, Pair ( Th Ts Qs Jd 9d )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 3c 2s 9c
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Qd
+Checks: Gawroekoet
+Checks: Jagaf
+River: 8h
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Qs 9h
+Combination: Gawroekoet, Two Pair ( Qs Qd 9h 9c 8h )
+Shows: Jagaf, Ah Jd
+Combination: Jagaf, High Card ( Ah Qd Jd 9c 8h )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Ac 2c 3s
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 6c
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 8s
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 8c Qd
+Combination: Gawroekoet, Pair ( 8c 8s Ac Qd 6c )
+Shows: Tivogeem, 5d Td
+Combination: Tivogeem, High Card ( Ac Td 8s 6c 5d )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 5h 9d Jh
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Qs
+Checks: Gawroekoet
+Checks: Jagaf
+River: 3c
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Tc Kh
+Combination: Gawroekoet, Straight ( Kh Qs Jh Tc 9d )
+Shows: Jagaf, 7c 3d
+Combination: Jagaf, Pair ( 3d 3c Qs Jh 9d )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 8c Ts 2d
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 9d
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 7s
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Ks Qd
+Combination: Gawroekoet, High Card ( Ks Qd Ts 9d 8c )
+Shows: Tivogeem, Ad 4d
+Combination: Tivogeem, High Card ( Ad Ts 9d 8c 7s )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 4h Th 2d
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 8h
+Checks: Gawroekoet
+Checks: Jagaf
+River: Ks
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 6s 7s
+Combination: Gawroekoet, High Card ( Ks Th 8h 7s 6s )
+Shows: Jagaf, Qd 5h
+Combination: Jagaf, High Card ( Ks Qd Th 8h 5h )
+Wins: Jagaf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 7d 5h Qd
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Qh
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 2d
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 6d 2c
+Combination: Gawroekoet, Two Pair ( Qd Qh 2c 2d 7d )
+Shows: Tivogeem, Jd Qc
+Combination: Tivogeem, Three Of A Kind ( Qc Qd Qh Jd 7d )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Jd 8s Ks
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Kd
+Checks: Gawroekoet
+Checks: Jagaf
+River: 9c
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Qc 9s
+Combination: Gawroekoet, Two Pair ( Ks Kd 9s 9c Qc )
+Shows: Jagaf, 5c 5h
+Combination: Jagaf, Two Pair ( Ks Kd 5c 5h Jd )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 3c Ts Jc
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 3s
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Qd
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 2h 7d
+Combination: Gawroekoet, Pair ( 3c 3s Qd Jc Ts )
+Shows: Tivogeem, 4h 5h
+Combination: Tivogeem, Pair ( 3c 3s Qd Jc Ts )
+Wins: Gawroekoet, chips: 250
+Wins: Tivogeem, chips: 250
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Calls: Jagaf
+Folds: Tivogeem
+Raises: Gawroekoet, chips: 249
+Flop: Ah Ac Ks
+Turn: Tc
+River: Ts
+Pot size: 585
+Showdown Reached
+Shows: Gawroekoet, 3s Td
+Combination: Gawroekoet, Full House ( Td Tc Ts Ah Ac )
+Shows: Jagaf, 7c 9c
+Combination: Jagaf, Two Pair ( Ah Ac Tc Ts Ks )
+Wins: Gawroekoet, chips: 585
+Quits: Jagaf, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Checks: Tivogeem
+Flop: Kh Td 8s
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Ah
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 3h
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 5c 8c
+Combination: Gawroekoet, Pair ( 8c 8s Ah Kh Td )
+Shows: Tivogeem, 3c Qd
+Combination: Tivogeem, Pair ( 3c 3h Ah Kh Qd )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Checks: Tivogeem
+Flop: 4h 2h As
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 5s
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 9c
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 6h 5c
+Combination: Gawroekoet, Pair ( 5c 5s As 9c 6h )
+Shows: Tivogeem, 6s Kd
+Combination: Tivogeem, High Card ( As Kd 9c 6s 5s )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Checks: Tivogeem
+Flop: 4s 2c 6d
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 9s
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 8s
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Kh 4c
+Combination: Gawroekoet, Pair ( 4c 4s Kh 9s 8s )
+Shows: Tivogeem, 4h 3s
+Combination: Tivogeem, Pair ( 4h 4s 9s 8s 6d )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Checks: Tivogeem
+Flop: Td 2c 3d
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 8h
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 9s
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Ts 5c
+Combination: Gawroekoet, Pair ( Ts Td 9s 8h 5c )
+Shows: Tivogeem, 4d 6d
+Combination: Tivogeem, High Card ( Td 9s 8h 6d 4d )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Checks: Tivogeem
+Flop: 3h 8h 2s
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Kc
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 9c
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Ks 4s
+Combination: Gawroekoet, Pair ( Ks Kc 9c 8h 4s )
+Shows: Tivogeem, Td 6d
+Combination: Tivogeem, High Card ( Kc Td 9c 8h 6d )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Checks: Tivogeem
+Flop: 7d Ah Ks
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Kd
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Qc
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 8d 5s
+Combination: Gawroekoet, Pair ( Ks Kd Ah Qc 8d )
+Shows: Tivogeem, 6c 2s
+Combination: Tivogeem, Pair ( Ks Kd Ah Qc 7d )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Checks: Tivogeem
+Flop: 5d 2h Ah
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 5c
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 5h
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Ts Ac
+Combination: Gawroekoet, Full House ( 5d 5c 5h Ac Ah )
+Shows: Tivogeem, 4c Tc
+Combination: Tivogeem, Three Of A Kind ( 5d 5c 5h Ah Tc )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Tivogeem, chips: 100
+Flop: 7c Kd 2d
+Turn: Ks
+River: 4s
+Pot size: 200
+Showdown Reached
+Shows: Gawroekoet, As 4d
+Combination: Gawroekoet, Two Pair ( Kd Ks 4d 4s As )
+Shows: Tivogeem, 5c Ac
+Combination: Tivogeem, Pair ( Kd Ks Ac 7c 5c )
+Wins: Gawroekoet, chips: 200
+Quits: Tivogeem, chips: 0
+Ranking: Gawroekoet, Place: 1, Score: 6000
+Reveal AI: Gawroekoet, AI: AIMyBot1
+Ranking: Tivogeem, Place: 2, Score: -1000
+Reveal AI: Tivogeem, AI: AIMyBot6
+Ranking: Jagaf, Place: 3, Score: -1000
+Reveal AI: Jagaf, AI: AIMyBot4
+Ranking: Soerlep, Place: 4, Score: -1000
+Reveal AI: Soerlep, AI: AIMyBot7
+Ranking: Koeheeroe, Place: 5, Score: -1000
+Reveal AI: Koeheeroe, AI: AIMyBot3
+Ranking: Reetoenhatry, Place: 6, Score: -1000
+Reveal AI: Reetoenhatry, AI: AIMyBot5
+Ranking: Goewus, Place: 7, Score: -1000
+Reveal AI: Goewus, AI: AIMyBot2
+
+Player Stats for Gawroekoet, AI: AIMyBot1
+General: deals: 121, actions: 315, preflop actions: 92
+Rounds Seen: flops: 79, turns: 77, rivers: 77, showdowns: 76
+Wins: total: 80, showdown: 47, bluff: 33
+Chips: won: 30981, lost: 24981, bought: 1000, forced bets: 12000
+Pre-Flop Stats: VP$IP: 0.677686, PFR: 0.0247934, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.962025, WSDW: 0.618421
+
+
+Player Stats for Goewus, AI: AIMyBot2
+General: deals: 1, actions: 3, preflop actions: 1
+Rounds Seen: flops: 81, turns: 80, rivers: 80, showdowns: 79
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 100
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: 1.#INF, WSD: 0.975309, WSDW: 0
+
+
+Player Stats for Jagaf, AI: AIMyBot4
+General: deals: 105, actions: 190, preflop actions: 105
+Rounds Seen: flops: 40, turns: 39, rivers: 39, showdowns: 39
+Wins: total: 20, showdown: 12, bluff: 8
+Chips: won: 20016, lost: 21180, bought: 1000, forced bets: 9600
+Pre-Flop Stats: VP$IP: 0.0952381, PFR: 0.0857143, 3Bet: 0.0571429
+Post-Flop Stats: AF: 1.#INF, WSD: 0.975, WSDW: 0.307692
+
+
+Player Stats for Koeheeroe, AI: AIMyBot3
+General: deals: 17, actions: 22, preflop actions: 16
+Rounds Seen: flops: 67, turns: 66, rivers: 66, showdowns: 66
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.985075, WSDW: 0
+
+
+Player Stats for Reetoenhatry, AI: AIMyBot5
+General: deals: 14, actions: 53, preflop actions: 18
+Rounds Seen: flops: 81, turns: 80, rivers: 80, showdowns: 79
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 4534, lost: 6398, bought: 1000, forced bets: 600
+Pre-Flop Stats: VP$IP: 0.928571, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0.5, WSD: 0.975309, WSDW: 0.0506329
+
+
+Player Stats for Soerlep, AI: AIMyBot7
+General: deals: 21, actions: 20, preflop actions: 20
+Rounds Seen: flops: 62, turns: 61, rivers: 61, showdowns: 61
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.983871, WSDW: 0
+
+
+Player Stats for Tivogeem, AI: AIMyBot6
+General: deals: 121, actions: 234, preflop actions: 120
+Rounds Seen: flops: 39, turns: 39, rivers: 39, showdowns: 39
+Wins: total: 22, showdown: 22, bluff: 0
+Chips: won: 10900, lost: 11900, bought: 1000, forced bets: 11900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.564103
+
+
+Date: 2018/06/12 16:33:51
+
+The game begins. The AI's of the players are: 
+Soerlep: AIMyBot7
+Gawroekoet: AIMyBot1
+Reetoenhatry: AIMyBot5
+Jagaf: AIMyBot4
+Tivogeem: AIMyBot6
+Goewus: AIMyBot2
+Koeheeroe: AIMyBot3
+
+Joins: Soerlep, chips: 1000
+Joins: Gawroekoet, chips: 1000
+Joins: Reetoenhatry, chips: 1000
+Joins: Jagaf, chips: 1000
+Joins: Tivogeem, chips: 1000
+Joins: Goewus, chips: 1000
+Joins: Koeheeroe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Goewus, chips: 100
+Big Blind: Koeheeroe, chips: 200
+Folds: Soerlep
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Folds: Jagaf
+Folds: Tivogeem
+Raises: Goewus, chips: 234
+Folds: Koeheeroe
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Flop: 3h Kc Kd
+Raises: Goewus, chips: 334
+Folds: Gawroekoet
+Calls: Reetoenhatry
+Turn: 5s
+Raises: Goewus, chips: 232
+Calls: Reetoenhatry
+River: Kh
+Pot size: 2634
+Showdown Reached
+Shows: Reetoenhatry, 5h 9h
+Combination: Reetoenhatry, Full House ( Kc Kd Kh 5h 5s )
+Shows: Goewus, 3d Js
+Combination: Goewus, Full House ( Kc Kd Kh 3d 3h )
+Wins: Reetoenhatry, chips: 2634
+Quits: Goewus, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koeheeroe
+Small Blind: Soerlep, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Calls: Reetoenhatry
+Folds: Jagaf
+Folds: Tivogeem
+Folds: Koeheeroe
+Folds: Soerlep
+Raises: Gawroekoet, chips: 249
+Calls: Reetoenhatry
+Flop: Jd 2h Ac
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: 4h
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: 9s
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Pot size: 998
+Showdown Reached
+Shows: Gawroekoet, 7h As
+Combination: Gawroekoet, Pair ( As Ac Jd 9s 7h )
+Shows: Reetoenhatry, 5d 9h
+Combination: Reetoenhatry, Pair ( 9h 9s Ac Jd 5d )
+Wins: Gawroekoet, chips: 998
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soerlep
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Reetoenhatry, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Folds: Koeheeroe
+Folds: Soerlep
+Calls: Gawroekoet
+Checks: Reetoenhatry
+Flop: Kc Jc 8h
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: 7h
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: As
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 4c 9s
+Combination: Gawroekoet, High Card ( As Kc Jc 9s 8h )
+Shows: Reetoenhatry, 9c 6s
+Combination: Reetoenhatry, High Card ( As Kc Jc 9c 8h )
+Wins: Gawroekoet, chips: 200
+Wins: Reetoenhatry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Reetoenhatry, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Folds: Koeheeroe
+Folds: Soerlep
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Checks: Jagaf
+Flop: Qc Kh Jc
+Checks: Reetoenhatry
+Checks: Jagaf
+Checks: Gawroekoet
+Turn: Qh
+Checks: Reetoenhatry
+Checks: Jagaf
+Checks: Gawroekoet
+River: Ks
+Checks: Reetoenhatry
+Checks: Jagaf
+Checks: Gawroekoet
+Pot size: 600
+Showdown Reached
+Shows: Gawroekoet, 5d 7h
+Combination: Gawroekoet, Two Pair ( Kh Ks Qc Qh Jc )
+Shows: Reetoenhatry, 6d 4s
+Combination: Reetoenhatry, Two Pair ( Kh Ks Qc Qh Jc )
+Shows: Jagaf, 7c 9s
+Combination: Jagaf, Two Pair ( Kh Ks Qc Qh Jc )
+Wins: Gawroekoet, chips: 200
+Wins: Reetoenhatry, chips: 200
+Wins: Jagaf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reetoenhatry
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Folds: Koeheeroe
+Folds: Soerlep
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 5c 7h Jh
+Checks: Tivogeem
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: Jd
+Checks: Tivogeem
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: 4c
+Checks: Tivogeem
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Pot size: 700
+Showdown Reached
+Shows: Gawroekoet, 2d 9h
+Combination: Gawroekoet, Pair ( Jh Jd 9h 7h 5c )
+Shows: Reetoenhatry, 2s Th
+Combination: Reetoenhatry, Pair ( Jh Jd Th 7h 5c )
+Shows: Tivogeem, 9c Ad
+Combination: Tivogeem, Pair ( Jh Jd Ad 9c 7h )
+Wins: Tivogeem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Koeheeroe, chips: 200
+Folds: Soerlep
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Folds: Jagaf
+Folds: Tivogeem
+Checks: Koeheeroe
+Flop: 7h 5c 4c
+Checks: Koeheeroe
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: 2c
+Checks: Koeheeroe
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: 5h
+Checks: Koeheeroe
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Pot size: 700
+Showdown Reached
+Shows: Gawroekoet, 2s Kh
+Combination: Gawroekoet, Two Pair ( 5c 5h 2s 2c Kh )
+Shows: Reetoenhatry, 3h 8d
+Combination: Reetoenhatry, Pair ( 5c 5h 8d 7h 4c )
+Shows: Koeheeroe, 3d 9d
+Combination: Koeheeroe, Pair ( 5c 5h 9d 7h 4c )
+Wins: Gawroekoet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Koeheeroe, chips: 100
+Big Blind: Soerlep, chips: 200
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Folds: Jagaf
+Folds: Tivogeem
+Folds: Koeheeroe
+DEBUG MESSAGE: INVALID ACTION FROM Soerlep (2 0)
+Folds: Soerlep
+Flop: 9c Ts Kh
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: 7d
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: 6d
+Checks: Gawroekoet
+Raises: Reetoenhatry, chips: 200
+Folds: Gawroekoet
+Pot size: 900
+Wins: Reetoenhatry, chips: 900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koeheeroe
+Small Blind: Soerlep, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Calls: Reetoenhatry
+Folds: Jagaf
+Folds: Tivogeem
+Folds: Koeheeroe
+Folds: Soerlep
+Raises: Gawroekoet, chips: 249
+Calls: Reetoenhatry
+Flop: 3s 8s 2h
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: Td
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: 5c
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Pot size: 998
+Showdown Reached
+Shows: Gawroekoet, 2c 9h
+Combination: Gawroekoet, Pair ( 2c 2h Td 9h 8s )
+Shows: Reetoenhatry, Qh Kh
+Combination: Reetoenhatry, High Card ( Kh Qh Td 8s 5c )
+Wins: Gawroekoet, chips: 998
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soerlep
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Reetoenhatry, chips: 200
+Raises: Jagaf, chips: 700
+Folds: Tivogeem
+Folds: Koeheeroe
+Folds: Soerlep
+Folds: Gawroekoet
+Calls: Reetoenhatry
+Flop: 9c As 7h
+Turn: 9h
+River: 3s
+Pot size: 1900
+Showdown Reached
+Shows: Reetoenhatry, 6c 5h
+Combination: Reetoenhatry, Pair ( 9c 9h As 7h 6c )
+Shows: Jagaf, Kc 7c
+Combination: Jagaf, Two Pair ( 9c 9h 7c 7h As )
+Wins: Jagaf, chips: 1900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Reetoenhatry, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Folds: Koeheeroe
+Folds: Soerlep
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Checks: Jagaf
+Flop: Qc 4c Jh
+Checks: Reetoenhatry
+Checks: Jagaf
+Checks: Gawroekoet
+Turn: Js
+Checks: Reetoenhatry
+Checks: Jagaf
+Checks: Gawroekoet
+River: 7d
+Checks: Reetoenhatry
+Checks: Jagaf
+Checks: Gawroekoet
+Pot size: 600
+Showdown Reached
+Shows: Gawroekoet, 3h 2s
+Combination: Gawroekoet, Pair ( Jh Js Qc 7d 4c )
+Shows: Reetoenhatry, 6d 6c
+Combination: Reetoenhatry, Two Pair ( Jh Js 6d 6c Qc )
+Shows: Jagaf, 9h 5s
+Combination: Jagaf, Pair ( Jh Js Qc 9h 7d )
+Wins: Reetoenhatry, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reetoenhatry
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Folds: Koeheeroe
+Folds: Soerlep
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 5c Qc Kc
+Checks: Tivogeem
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: Tc
+Checks: Tivogeem
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: 4h
+Checks: Tivogeem
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Pot size: 700
+Showdown Reached
+Shows: Gawroekoet, 6d 8s
+Combination: Gawroekoet, High Card ( Kc Qc Tc 8s 6d )
+Shows: Reetoenhatry, Ts 9h
+Combination: Reetoenhatry, Pair ( Ts Tc Kc Qc 9h )
+Shows: Tivogeem, 4s 4c
+Combination: Tivogeem, Flush ( Kc Qc Tc 5c 4c )
+Wins: Tivogeem, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Koeheeroe, chips: 200
+Folds: Soerlep
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Folds: Jagaf
+Folds: Tivogeem
+Checks: Koeheeroe
+Flop: 4c 4d 4h
+Checks: Koeheeroe
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: Jc
+Checks: Koeheeroe
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: 7h
+Checks: Koeheeroe
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Pot size: 700
+Showdown Reached
+Shows: Gawroekoet, 5d 5h
+Combination: Gawroekoet, Full House ( 4c 4d 4h 5d 5h )
+Shows: Reetoenhatry, 9d 2h
+Combination: Reetoenhatry, Three Of A Kind ( 4c 4d 4h Jc 9d )
+Shows: Koeheeroe, 6s 2c
+Combination: Koeheeroe, Three Of A Kind ( 4c 4d 4h Jc 7h )
+Wins: Gawroekoet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Koeheeroe, chips: 100
+Big Blind: Soerlep, chips: 200
+Calls: Gawroekoet
+Calls: Reetoenhatry
+Folds: Jagaf
+Folds: Tivogeem
+Folds: Koeheeroe
+DEBUG MESSAGE: INVALID ACTION FROM Soerlep (2 0)
+Folds: Soerlep
+Flop: 3d 7c 5c
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Turn: Qd
+Checks: Gawroekoet
+Checks: Reetoenhatry
+River: 4s
+Checks: Gawroekoet
+Checks: Reetoenhatry
+Pot size: 700
+Showdown Reached
+Shows: Gawroekoet, 5d Ts
+Combination: Gawroekoet, Pair ( 5d 5c Qd Ts 7c )
+Shows: Reetoenhatry, 3c Td
+Combination: Reetoenhatry, Pair ( 3c 3d Qd Td 7c )
+Wins: Gawroekoet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koeheeroe
+Small Blind: Soerlep, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Calls: Reetoenhatry
+Raises: Jagaf, chips: 1400
+Folds: Tivogeem
+Folds: Koeheeroe
+Folds: Soerlep
+Folds: Gawroekoet
+Calls: Reetoenhatry
+Flop: 4s 5c Jc
+Turn: 9d
+River: Jd
+Pot size: 2636
+Showdown Reached
+Shows: Reetoenhatry, 8c 6s
+Combination: Reetoenhatry, Pair ( Jc Jd 9d 8c 6s )
+Shows: Jagaf, Qc Td
+Combination: Jagaf, Pair ( Jc Jd Qc Td 9d )
+Wins: Jagaf, chips: 2636
+Quits: Reetoenhatry, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soerlep
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Folds: Koeheeroe
+Folds: Soerlep
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Js Qh Jd
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 7c
+Checks: Gawroekoet
+Checks: Jagaf
+River: Ad
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 4d 2s
+Combination: Gawroekoet, Pair ( Js Jd Ad Qh 7c )
+Shows: Jagaf, Kc 8s
+Combination: Jagaf, Pair ( Js Jd Ad Kc Qh )
+Wins: Jagaf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Folds: Koeheeroe
+Folds: Soerlep
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Kd 9s 8c
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Qd
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Th
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Qc 7c
+Combination: Gawroekoet, Pair ( Qc Qd Kd Th 9s )
+Shows: Tivogeem, 7h Jd
+Combination: Tivogeem, Straight ( Kd Qd Jd Th 9s )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Koeheeroe, chips: 200
+Folds: Soerlep
+Calls: Gawroekoet
+Folds: Jagaf
+Folds: Tivogeem
+Flop: 7d Kc Kh
+Turn: 8h
+River: 5h
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Jd Jc
+Combination: Gawroekoet, Two Pair ( Kc Kh Jd Jc 8h )
+Shows: Koeheeroe, 3h 9c
+Combination: Koeheeroe, Pair ( Kc Kh 9c 8h 7d )
+Wins: Gawroekoet, chips: 500
+Quits: Koeheeroe, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Soerlep, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Folds: Soerlep
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soerlep
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Folds: Soerlep
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: As Qh Qd
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Th
+Checks: Gawroekoet
+Checks: Jagaf
+River: Ah
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 8c 9h
+Combination: Gawroekoet, Two Pair ( As Ah Qh Qd Th )
+Shows: Jagaf, Tc 3h
+Combination: Jagaf, Two Pair ( As Ah Qh Qd Tc )
+Wins: Gawroekoet, chips: 200
+Wins: Jagaf, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Folds: Soerlep
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 2h Jh Qs
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 4c
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 9h
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 5d 7h
+Combination: Gawroekoet, High Card ( Qs Jh 9h 7h 5d )
+Shows: Tivogeem, 6s 3c
+Combination: Tivogeem, High Card ( Qs Jh 9h 6s 4c )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Soerlep, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Folds: Tivogeem
+Flop: 6d Td Ks
+Turn: 8s
+River: 3c
+Pot size: 500
+Showdown Reached
+Shows: Soerlep, Kc As
+Combination: Soerlep, Pair ( Kc Ks As Td 8s )
+Shows: Gawroekoet, Kh 3h
+Combination: Gawroekoet, Two Pair ( Kh Ks 3h 3c Td )
+Wins: Gawroekoet, chips: 500
+Quits: Soerlep, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Ks 4s Kd
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 9s
+Checks: Gawroekoet
+Checks: Jagaf
+River: Jd
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 9c 7d
+Combination: Gawroekoet, Two Pair ( Ks Kd 9c 9s Jd )
+Shows: Jagaf, Td 2c
+Combination: Jagaf, Pair ( Ks Kd Jd Td 9s )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 6d 7s 3s
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 7c
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Qs
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Tc Kc
+Combination: Gawroekoet, Pair ( 7s 7c Kc Qs Tc )
+Shows: Tivogeem, As Jc
+Combination: Tivogeem, Pair ( 7s 7c As Qs Jc )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 9d 4h Jh
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 7d
+Checks: Gawroekoet
+Checks: Jagaf
+River: Jd
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Kh Td
+Combination: Gawroekoet, Pair ( Jh Jd Kh Td 9d )
+Shows: Jagaf, Qs 2h
+Combination: Jagaf, Pair ( Jh Jd Qs 9d 7d )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 9d 8c 3c
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Ac
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 7s
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Jh 5s
+Combination: Gawroekoet, High Card ( Ac Jh 9d 8c 7s )
+Shows: Tivogeem, 6d 7h
+Combination: Tivogeem, Pair ( 7h 7s Ac 9d 8c )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Tc 3s 7d
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 4c
+Checks: Gawroekoet
+Checks: Jagaf
+River: 6s
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Ah Ks
+Combination: Gawroekoet, High Card ( Ah Ks Tc 7d 6s )
+Shows: Jagaf, 9c Qh
+Combination: Jagaf, High Card ( Qh Tc 9c 7d 6s )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Kd 2d 9d
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Th
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Kh
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Qd 9h
+Combination: Gawroekoet, Two Pair ( Kd Kh 9h 9d Qd )
+Shows: Tivogeem, Jd 4d
+Combination: Tivogeem, Flush ( Kd Jd 9d 4d 2d )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 7h 3d Jh
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Ad
+Checks: Gawroekoet
+Checks: Jagaf
+River: Ts
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 9h Kc
+Combination: Gawroekoet, High Card ( Ad Kc Jh Ts 9h )
+Shows: Jagaf, 5d Js
+Combination: Jagaf, Pair ( Js Jh Ad Ts 7h )
+Wins: Jagaf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 2h 3d Qd
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 5d
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 7c
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Ac 7h
+Combination: Gawroekoet, Pair ( 7h 7c Ac Qd 5d )
+Shows: Tivogeem, Td 2d
+Combination: Tivogeem, Flush ( Qd Td 5d 3d 2d )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Jc 7h Qh
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Js
+Checks: Gawroekoet
+Checks: Jagaf
+River: 6s
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, As 7s
+Combination: Gawroekoet, Two Pair ( Jc Js 7s 7h As )
+Shows: Jagaf, Ts 8h
+Combination: Jagaf, Pair ( Jc Js Qh Ts 8h )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Qd Jc 3c
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Qc
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 6s
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Ac 8c
+Combination: Gawroekoet, Flush ( Ac Qc Jc 8c 3c )
+Shows: Tivogeem, 5s 2c
+Combination: Tivogeem, Pair ( Qd Qc Jc 6s 5s )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 6d Qd Td
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 3c
+Checks: Gawroekoet
+Checks: Jagaf
+River: Qh
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 7c 4c
+Combination: Gawroekoet, Pair ( Qd Qh Td 7c 6d )
+Shows: Jagaf, 2d As
+Combination: Jagaf, Pair ( Qd Qh As Td 6d )
+Wins: Jagaf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Kh 9h 5s
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 4c
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 6c
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 9c 7s
+Combination: Gawroekoet, Pair ( 9c 9h Kh 7s 6c )
+Shows: Tivogeem, 4s 4h
+Combination: Tivogeem, Three Of A Kind ( 4s 4h 4c Kh 9h )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Qc 5c Kd
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Js
+Checks: Gawroekoet
+Checks: Jagaf
+River: 9c
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 6h 3d
+Combination: Gawroekoet, High Card ( Kd Qc Js 9c 6h )
+Shows: Jagaf, As 2c
+Combination: Jagaf, High Card ( As Kd Qc Js 9c )
+Wins: Jagaf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Kd Ac Kc
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Jd
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 8h
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Ks Qs
+Combination: Gawroekoet, Three Of A Kind ( Ks Kd Kc Ac Qs )
+Shows: Tivogeem, 6h 2c
+Combination: Tivogeem, Pair ( Kd Kc Ac Jd 8h )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Raises: Jagaf, chips: 1536
+Folds: Gawroekoet
+Pot size: 1936
+Wins: Jagaf, chips: 1936
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Kd Ah 2d
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 7d
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Qs
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 5c Tc
+Combination: Gawroekoet, High Card ( Ah Kd Qs Tc 7d )
+Shows: Tivogeem, Ts 6d
+Combination: Tivogeem, High Card ( Ah Kd Qs Ts 7d )
+Wins: Gawroekoet, chips: 250
+Wins: Tivogeem, chips: 250
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 9d 8c 8h
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 3c
+Checks: Gawroekoet
+Checks: Jagaf
+River: 9c
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Jc 3d
+Combination: Gawroekoet, Two Pair ( 9d 9c 8c 8h Jc )
+Shows: Jagaf, 5h Ad
+Combination: Jagaf, Two Pair ( 9d 9c 8c 8h Ad )
+Wins: Jagaf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 8c 9h 8h
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 4s
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Ks
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Tc 5s
+Combination: Gawroekoet, Pair ( 8c 8h Ks Tc 9h )
+Shows: Tivogeem, 5h 3d
+Combination: Tivogeem, Pair ( 8c 8h Ks 9h 5h )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Raises: Jagaf, chips: 1736
+Folds: Tivogeem
+Folds: Gawroekoet
+Pot size: 2236
+Wins: Jagaf, chips: 2236
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 6d 5s 7c
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Ah
+Checks: Gawroekoet
+Checks: Jagaf
+River: 5d
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 3c 8d
+Combination: Gawroekoet, Pair ( 5s 5d Ah 8d 7c )
+Shows: Jagaf, 2s 4h
+Combination: Jagaf, Pair ( 5s 5d Ah 7c 6d )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 2d Jc 7s
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Ts
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 6d
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 5d 6h
+Combination: Gawroekoet, Pair ( 6h 6d Jc Ts 7s )
+Shows: Tivogeem, Qh 4s
+Combination: Tivogeem, High Card ( Qh Jc Ts 7s 6d )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Ah 2h 2d
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Th
+Checks: Gawroekoet
+Checks: Jagaf
+River: 2s
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 6c 8h
+Combination: Gawroekoet, Three Of A Kind ( 2h 2d 2s Ah Th )
+Shows: Jagaf, 3h Kh
+Combination: Jagaf, Flush ( Ah Kh Th 3h 2h )
+Wins: Jagaf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Raises: Jagaf, chips: 800
+Folds: Tivogeem
+Folds: Gawroekoet
+Pot size: 1400
+Wins: Jagaf, chips: 1400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 8s Kh Tc
+Checks: Gawroekoet
+Raises: Jagaf, chips: 600
+Folds: Gawroekoet
+Pot size: 1000
+Wins: Jagaf, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 8c Qh 7d
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 8h
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Kd
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 5d 3h
+Combination: Gawroekoet, Pair ( 8c 8h Kd Qh 7d )
+Shows: Tivogeem, 9s 5c
+Combination: Tivogeem, Pair ( 8c 8h Kd Qh 9s )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Raises: Jagaf, chips: 1000
+Folds: Tivogeem
+Folds: Gawroekoet
+Pot size: 1500
+Wins: Jagaf, chips: 1500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Kd 7s Qs
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 3s
+Checks: Gawroekoet
+Checks: Jagaf
+River: 2s
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 7h Td
+Combination: Gawroekoet, Pair ( 7h 7s Kd Qs Td )
+Shows: Jagaf, Jc 4c
+Combination: Jagaf, High Card ( Kd Qs Jc 7s 4c )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 5s 8c Ad
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 8h
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Ac
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Th Jh
+Combination: Gawroekoet, Two Pair ( Ad Ac 8c 8h Jh )
+Shows: Tivogeem, 9d Kc
+Combination: Tivogeem, Two Pair ( Ad Ac 8c 8h Kc )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Th Qc Ts
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 7d
+Checks: Gawroekoet
+Checks: Jagaf
+River: Td
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 7h 2h
+Combination: Gawroekoet, Full House ( Th Ts Td 7h 7d )
+Shows: Jagaf, 6d 5d
+Combination: Jagaf, Three Of A Kind ( Th Ts Td Qc 7d )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 4d 2h 9h
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 9d
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 3h
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 2c Jh
+Combination: Gawroekoet, Two Pair ( 9h 9d 2c 2h Jh )
+Shows: Tivogeem, Ad Kd
+Combination: Tivogeem, Pair ( 9h 9d Ad Kd 4d )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 6h 2c Qh
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: As
+Checks: Gawroekoet
+Checks: Jagaf
+River: Qs
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 3h Qd
+Combination: Gawroekoet, Three Of A Kind ( Qd Qh Qs As 6h )
+Shows: Jagaf, 9h Jc
+Combination: Jagaf, Pair ( Qh Qs As Jc 9h )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Kh 7d 6h
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 3h
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 5h
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Kd Jd
+Combination: Gawroekoet, Pair ( Kd Kh Jd 7d 6h )
+Shows: Tivogeem, 2c 2d
+Combination: Tivogeem, Pair ( 2c 2d Kh 7d 6h )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 4h Qs 8c
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 3d
+Checks: Gawroekoet
+Checks: Jagaf
+River: 9c
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 5c 5d
+Combination: Gawroekoet, Pair ( 5c 5d Qs 9c 8c )
+Shows: Jagaf, 7h Kd
+Combination: Jagaf, High Card ( Kd Qs 9c 8c 7h )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Ks 9c 4h
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Th
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Td
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 9h 3h
+Combination: Gawroekoet, Two Pair ( Th Td 9h 9c Ks )
+Shows: Tivogeem, 8h Qh
+Combination: Tivogeem, Pair ( Th Td Ks Qh 9c )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Raises: Jagaf, chips: 1536
+Folds: Gawroekoet
+Pot size: 1936
+Wins: Jagaf, chips: 1936
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 8d Qh Td
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 9d
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 7c
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Ac Kc
+Combination: Gawroekoet, High Card ( Ac Kc Qh Td 9d )
+Shows: Tivogeem, Qs Qc
+Combination: Tivogeem, Three Of A Kind ( Qs Qc Qh Td 9d )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 8c 2s 7s
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 7d
+Checks: Gawroekoet
+Checks: Jagaf
+River: Kd
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 2c 9d
+Combination: Gawroekoet, Two Pair ( 7s 7d 2c 2s Kd )
+Shows: Jagaf, 9c Th
+Combination: Jagaf, Pair ( 7s 7d Kd Th 9c )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 3h Qd 8c
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 6d
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 2h
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 7c 8d
+Combination: Gawroekoet, Pair ( 8d 8c Qd 7c 6d )
+Shows: Tivogeem, Qc Th
+Combination: Tivogeem, Pair ( Qc Qd Th 8c 6d )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Jd Ad 6h
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 8s
+Checks: Gawroekoet
+Checks: Jagaf
+River: 5h
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 9c Ks
+Combination: Gawroekoet, High Card ( Ad Ks Jd 9c 8s )
+Shows: Jagaf, Th 3d
+Combination: Jagaf, High Card ( Ad Jd Th 8s 6h )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 2h Js 8c
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Ks
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 7h
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 9c Qh
+Combination: Gawroekoet, High Card ( Ks Qh Js 9c 8c )
+Shows: Tivogeem, 2c Qs
+Combination: Tivogeem, Pair ( 2c 2h Ks Qs Js )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 6c Kd Ah
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 7h
+Checks: Gawroekoet
+Checks: Jagaf
+River: 2c
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 6s Ts
+Combination: Gawroekoet, Pair ( 6s 6c Ah Kd Ts )
+Shows: Jagaf, Th 5s
+Combination: Jagaf, High Card ( Ah Kd Th 7h 6c )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Ad 9c Tc
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 4c
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Kh
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 4s 3h
+Combination: Gawroekoet, Pair ( 4s 4c Ad Kh Tc )
+Shows: Tivogeem, 6h 6d
+Combination: Tivogeem, Pair ( 6h 6d Ad Kh Tc )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 7d 3s 2h
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 2c
+Checks: Gawroekoet
+Checks: Jagaf
+River: Jd
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 7s 3c
+Combination: Gawroekoet, Two Pair ( 7s 7d 3c 3s Jd )
+Shows: Jagaf, 6c 4h
+Combination: Jagaf, Pair ( 2h 2c Jd 7d 6c )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 6c 7d 5s
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Th
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Jd
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 8s 3s
+Combination: Gawroekoet, High Card ( Jd Th 8s 7d 6c )
+Shows: Tivogeem, Qs 3d
+Combination: Tivogeem, High Card ( Qs Jd Th 7d 6c )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Raises: Jagaf, chips: 436
+Folds: Gawroekoet
+Pot size: 836
+Wins: Jagaf, chips: 836
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 8c Js 7c
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Th
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Qc
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Kc 4d
+Combination: Gawroekoet, High Card ( Kc Qc Js Th 8c )
+Shows: Tivogeem, 6s 9s
+Combination: Tivogeem, Straight ( Qc Js Th 9s 8c )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Raises: Jagaf, chips: 536
+Folds: Tivogeem
+Folds: Gawroekoet
+Pot size: 1036
+Wins: Jagaf, chips: 1036
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Td 2s Ts
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Ks
+Checks: Gawroekoet
+Checks: Jagaf
+River: Kd
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Ad 2h
+Combination: Gawroekoet, Two Pair ( Ks Kd Td Ts Ad )
+Shows: Jagaf, 3c Qc
+Combination: Jagaf, Two Pair ( Ks Kd Td Ts Qc )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 7d 4d 2c
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: As
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Qh
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 9d 5s
+Combination: Gawroekoet, High Card ( As Qh 9d 7d 5s )
+Shows: Tivogeem, Kc Qd
+Combination: Tivogeem, Pair ( Qd Qh As Kc 7d )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 3c 2d 6h
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 4h
+Checks: Gawroekoet
+Checks: Jagaf
+River: Td
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Ad Ac
+Combination: Gawroekoet, Pair ( Ad Ac Td 6h 4h )
+Shows: Jagaf, 5d 2c
+Combination: Jagaf, Straight ( 6h 5d 4h 3c 2c )
+Wins: Jagaf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 2d Ts Qs
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 4d
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Jd
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 5s 7d
+Combination: Gawroekoet, High Card ( Qs Jd Ts 7d 5s )
+Shows: Tivogeem, Th 9d
+Combination: Tivogeem, Pair ( Th Ts Qs Jd 9d )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 3c 2s 9c
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Qd
+Checks: Gawroekoet
+Checks: Jagaf
+River: 8h
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Qs 9h
+Combination: Gawroekoet, Two Pair ( Qs Qd 9h 9c 8h )
+Shows: Jagaf, Ah Jd
+Combination: Jagaf, High Card ( Ah Qd Jd 9c 8h )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: Ac 2c 3s
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 6c
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 8s
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 8c Qd
+Combination: Gawroekoet, Pair ( 8c 8s Ac Qd 6c )
+Shows: Tivogeem, 5d Td
+Combination: Tivogeem, High Card ( Ac Td 8s 6c 5d )
+Wins: Gawroekoet, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 5h 9d Jh
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Qs
+Checks: Gawroekoet
+Checks: Jagaf
+River: 3c
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Tc Kh
+Combination: Gawroekoet, Straight ( Kh Qs Jh Tc 9d )
+Shows: Jagaf, 7c 3d
+Combination: Jagaf, Pair ( 3d 3c Qs Jh 9d )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 8c Ts 2d
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 9d
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 7s
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, Ks Qd
+Combination: Gawroekoet, High Card ( Ks Qd Ts 9d 8c )
+Shows: Tivogeem, Ad 4d
+Combination: Tivogeem, High Card ( Ad Ts 9d 8c 7s )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: 4h Th 2d
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: 8h
+Checks: Gawroekoet
+Checks: Jagaf
+River: Ks
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 6s 7s
+Combination: Gawroekoet, High Card ( Ks Th 8h 7s 6s )
+Shows: Jagaf, Qd 5h
+Combination: Jagaf, High Card ( Ks Qd Th 8h 5h )
+Wins: Jagaf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 7d 5h Qd
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Qh
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 2d
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 6d 2c
+Combination: Gawroekoet, Two Pair ( Qd Qh 2c 2d 7d )
+Shows: Tivogeem, Jd Qc
+Combination: Tivogeem, Three Of A Kind ( Qc Qd Qh Jd 7d )
+Wins: Tivogeem, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Jagaf
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Jagaf, chips: 200
+Folds: Tivogeem
+Calls: Gawroekoet
+Checks: Jagaf
+Flop: Jd 8s Ks
+Checks: Gawroekoet
+Checks: Jagaf
+Turn: Kd
+Checks: Gawroekoet
+Checks: Jagaf
+River: 9c
+Checks: Gawroekoet
+Checks: Jagaf
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Qc 9s
+Combination: Gawroekoet, Two Pair ( Ks Kd 9s 9c Qc )
+Shows: Jagaf, 5c 5h
+Combination: Jagaf, Two Pair ( Ks Kd 5c 5h Jd )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Jagaf, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Folds: Jagaf
+Checks: Tivogeem
+Flop: 3c Ts Jc
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 3s
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Qd
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 500
+Showdown Reached
+Shows: Gawroekoet, 2h 7d
+Combination: Gawroekoet, Pair ( 3c 3s Qd Jc Ts )
+Shows: Tivogeem, 4h 5h
+Combination: Tivogeem, Pair ( 3c 3s Qd Jc Ts )
+Wins: Gawroekoet, chips: 250
+Wins: Tivogeem, chips: 250
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jagaf
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Calls: Jagaf
+Folds: Tivogeem
+Raises: Gawroekoet, chips: 249
+Flop: Ah Ac Ks
+Turn: Tc
+River: Ts
+Pot size: 585
+Showdown Reached
+Shows: Gawroekoet, 3s Td
+Combination: Gawroekoet, Full House ( Td Tc Ts Ah Ac )
+Shows: Jagaf, 7c 9c
+Combination: Jagaf, Two Pair ( Ah Ac Tc Ts Ks )
+Wins: Gawroekoet, chips: 585
+Quits: Jagaf, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Checks: Tivogeem
+Flop: Kh Td 8s
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Ah
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 3h
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 5c 8c
+Combination: Gawroekoet, Pair ( 8c 8s Ah Kh Td )
+Shows: Tivogeem, 3c Qd
+Combination: Tivogeem, Pair ( 3c 3h Ah Kh Qd )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Checks: Tivogeem
+Flop: 4h 2h As
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 5s
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 9c
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 6h 5c
+Combination: Gawroekoet, Pair ( 5c 5s As 9c 6h )
+Shows: Tivogeem, 6s Kd
+Combination: Tivogeem, High Card ( As Kd 9c 6s 5s )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Checks: Tivogeem
+Flop: 4s 2c 6d
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 9s
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 8s
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Kh 4c
+Combination: Gawroekoet, Pair ( 4c 4s Kh 9s 8s )
+Shows: Tivogeem, 4h 3s
+Combination: Tivogeem, Pair ( 4h 4s 9s 8s 6d )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Checks: Tivogeem
+Flop: Td 2c 3d
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 8h
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 9s
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Ts 5c
+Combination: Gawroekoet, Pair ( Ts Td 9s 8h 5c )
+Shows: Tivogeem, 4d 6d
+Combination: Tivogeem, High Card ( Td 9s 8h 6d 4d )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Checks: Tivogeem
+Flop: 3h 8h 2s
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Kc
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 9c
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Ks 4s
+Combination: Gawroekoet, Pair ( Ks Kc 9c 8h 4s )
+Shows: Tivogeem, Td 6d
+Combination: Tivogeem, High Card ( Kc Td 9c 8h 6d )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Checks: Tivogeem
+Flop: 7d Ah Ks
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: Kd
+Checks: Tivogeem
+Checks: Gawroekoet
+River: Qc
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, 8d 5s
+Combination: Gawroekoet, Pair ( Ks Kd Ah Qc 8d )
+Shows: Tivogeem, 6c 2s
+Combination: Tivogeem, Pair ( Ks Kd Ah Qc 7d )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Tivogeem, chips: 200
+Calls: Gawroekoet
+Checks: Tivogeem
+Flop: 5d 2h Ah
+Checks: Tivogeem
+Checks: Gawroekoet
+Turn: 5c
+Checks: Tivogeem
+Checks: Gawroekoet
+River: 5h
+Checks: Tivogeem
+Checks: Gawroekoet
+Pot size: 400
+Showdown Reached
+Shows: Gawroekoet, Ts Ac
+Combination: Gawroekoet, Full House ( 5d 5c 5h Ac Ah )
+Shows: Tivogeem, 4c Tc
+Combination: Tivogeem, Three Of A Kind ( 5d 5c 5h Ah Tc )
+Wins: Gawroekoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tivogeem
+Small Blind: Tivogeem, chips: 100
+Big Blind: Gawroekoet, chips: 200
+Folds: Tivogeem
+Pot size: 300
+Wins: Gawroekoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawroekoet
+Small Blind: Gawroekoet, chips: 100
+Big Blind: Tivogeem, chips: 100
+Flop: 7c Kd 2d
+Turn: Ks
+River: 4s
+Pot size: 200
+Showdown Reached
+Shows: Gawroekoet, As 4d
+Combination: Gawroekoet, Two Pair ( Kd Ks 4d 4s As )
+Shows: Tivogeem, 5c Ac
+Combination: Tivogeem, Pair ( Kd Ks Ac 7c 5c )
+Wins: Gawroekoet, chips: 200
+Quits: Tivogeem, chips: 0
+Ranking: Gawroekoet, Place: 1, Score: 6000
+Reveal AI: Gawroekoet, AI: AIMyBot1
+Ranking: Tivogeem, Place: 2, Score: -1000
+Reveal AI: Tivogeem, AI: AIMyBot6
+Ranking: Jagaf, Place: 3, Score: -1000
+Reveal AI: Jagaf, AI: AIMyBot4
+Ranking: Soerlep, Place: 4, Score: -1000
+Reveal AI: Soerlep, AI: AIMyBot7
+Ranking: Koeheeroe, Place: 5, Score: -1000
+Reveal AI: Koeheeroe, AI: AIMyBot3
+Ranking: Reetoenhatry, Place: 6, Score: -1000
+Reveal AI: Reetoenhatry, AI: AIMyBot5
+Ranking: Goewus, Place: 7, Score: -1000
+Reveal AI: Goewus, AI: AIMyBot2
+
+Player Stats for Gawroekoet, AI: AIMyBot1
+General: deals: 121, actions: 315, preflop actions: 92
+Rounds Seen: flops: 79, turns: 77, rivers: 77, showdowns: 76
+Wins: total: 80, showdown: 47, bluff: 33
+Chips: won: 30981, lost: 24981, bought: 1000, forced bets: 12000
+Pre-Flop Stats: VP$IP: 0.677686, PFR: 0.0247934, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.962025, WSDW: 0.618421
+
+
+Player Stats for Goewus, AI: AIMyBot2
+General: deals: 1, actions: 3, preflop actions: 1
+Rounds Seen: flops: 81, turns: 80, rivers: 80, showdowns: 79
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 100
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: 1.#INF, WSD: 0.975309, WSDW: 0
+
+
+Player Stats for Jagaf, AI: AIMyBot4
+General: deals: 105, actions: 190, preflop actions: 105
+Rounds Seen: flops: 40, turns: 39, rivers: 39, showdowns: 39
+Wins: total: 20, showdown: 12, bluff: 8
+Chips: won: 20016, lost: 21180, bought: 1000, forced bets: 9600
+Pre-Flop Stats: VP$IP: 0.0952381, PFR: 0.0857143, 3Bet: 0.0571429
+Post-Flop Stats: AF: 1.#INF, WSD: 0.975, WSDW: 0.307692
+
+
+Player Stats for Koeheeroe, AI: AIMyBot3
+General: deals: 17, actions: 22, preflop actions: 16
+Rounds Seen: flops: 67, turns: 66, rivers: 66, showdowns: 66
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.985075, WSDW: 0
+
+
+Player Stats for Reetoenhatry, AI: AIMyBot5
+General: deals: 14, actions: 53, preflop actions: 18
+Rounds Seen: flops: 81, turns: 80, rivers: 80, showdowns: 79
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 4534, lost: 6398, bought: 1000, forced bets: 600
+Pre-Flop Stats: VP$IP: 0.928571, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0.5, WSD: 0.975309, WSDW: 0.0506329
+
+
+Player Stats for Soerlep, AI: AIMyBot7
+General: deals: 21, actions: 20, preflop actions: 20
+Rounds Seen: flops: 62, turns: 61, rivers: 61, showdowns: 61
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.983871, WSDW: 0
+
+
+Player Stats for Tivogeem, AI: AIMyBot6
+General: deals: 121, actions: 234, preflop actions: 120
+Rounds Seen: flops: 39, turns: 39, rivers: 39, showdowns: 39
+Wins: total: 22, showdown: 22, bluff: 0
+Chips: won: 10900, lost: 11900, bought: 1000, forced bets: 11900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.564103
+
+

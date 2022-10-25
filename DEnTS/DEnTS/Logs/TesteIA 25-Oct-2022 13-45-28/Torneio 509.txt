@@ -1,0 +1,288 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Meegok: Random
+Kuttoeneem: AIMyBot1
+
+Joins: Meegok, chips: 1000
+Joins: Kuttoeneem, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuttoeneem
+Small Blind: Kuttoeneem, chips: 100
+Big Blind: Meegok, chips: 200
+Folds: Kuttoeneem
+Pot size: 300
+Wins: Meegok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meegok
+Small Blind: Meegok, chips: 100
+Big Blind: Kuttoeneem, chips: 200
+Calls: Meegok
+DEBUG MESSAGE: INVALID ACTION FROM Kuttoeneem (2 0)
+Folds: Kuttoeneem
+Pot size: 400
+Wins: Meegok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuttoeneem
+Small Blind: Kuttoeneem, chips: 100
+Big Blind: Meegok, chips: 200
+Folds: Kuttoeneem
+Pot size: 300
+Boasts: Meegok, Jd 6h
+Wins: Meegok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meegok
+Small Blind: Meegok, chips: 100
+Big Blind: Kuttoeneem, chips: 200
+Calls: Meegok
+DEBUG MESSAGE: INVALID ACTION FROM Kuttoeneem (2 0)
+Folds: Kuttoeneem
+Pot size: 400
+Boasts: Meegok, Qd 9d
+Wins: Meegok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuttoeneem
+Small Blind: Kuttoeneem, chips: 100
+Big Blind: Meegok, chips: 200
+Folds: Kuttoeneem
+Pot size: 300
+Wins: Meegok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meegok
+Small Blind: Meegok, chips: 100
+Big Blind: Kuttoeneem, chips: 200
+Raises: Meegok, chips: 300
+Calls: Kuttoeneem
+Flop: 6c Th 7c
+Turn: As
+River: Kd
+Pot size: 800
+Showdown Reached
+Shows: Meegok, 4c 8c
+Combination: Meegok, High Card ( As Kd Th 8c 7c )
+Shows: Kuttoeneem, 8d 8h
+Combination: Kuttoeneem, Pair ( 8d 8h As Kd Th )
+Wins: Meegok, chips: 200
+Wins: Kuttoeneem, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuttoeneem
+Small Blind: Kuttoeneem, chips: 100
+Big Blind: Meegok, chips: 200
+Folds: Kuttoeneem
+Pot size: 300
+Wins: Meegok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meegok
+Small Blind: Meegok, chips: 100
+Big Blind: Kuttoeneem, chips: 200
+Raises: Meegok, chips: 300
+Folds: Kuttoeneem
+Pot size: 700
+Boasts: Meegok, 6s 5h
+Wins: Meegok, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuttoeneem
+Small Blind: Kuttoeneem, chips: 100
+Big Blind: Meegok, chips: 200
+Folds: Kuttoeneem
+Pot size: 300
+Boasts: Meegok, 9d Qc
+Wins: Meegok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meegok
+Small Blind: Meegok, chips: 100
+Big Blind: Kuttoeneem, chips: 200
+Flop: 5s 7c Js
+Turn: 2d
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Meegok, 5c 3c
+Combination: Meegok, Pair ( 5c 5s Ks Js 7c )
+Shows: Kuttoeneem, 6d 8c
+Combination: Kuttoeneem, High Card ( Ks Js 8c 7c 6d )
+Wins: Meegok, chips: 200
+Wins: Kuttoeneem, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuttoeneem
+Small Blind: Kuttoeneem, chips: 100
+Big Blind: Meegok, chips: 200
+Flop: 3d Ac Qs
+Turn: 7c
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Meegok, 8h 9s
+Combination: Meegok, Pair ( 8h 8c Ac Qs 9s )
+Shows: Kuttoeneem, Ts Kc
+Combination: Kuttoeneem, High Card ( Ac Kc Qs Ts 8c )
+Wins: Meegok, chips: 300
+Quits: Kuttoeneem, chips: 0
+Ranking: Meegok, Place: 1, Score: 1000
+Reveal AI: Meegok, AI: Random
+Ranking: Kuttoeneem, Place: 2, Score: -1000
+Reveal AI: Kuttoeneem, AI: AIMyBot1
+
+Player Stats for Kuttoeneem, AI: AIMyBot1
+General: deals: 11, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 700, lost: 1900, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.0909091, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Meegok, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3700, lost: 2700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.363636, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:03
+
+The game begins. The AI's of the players are: 
+Meegok: Random
+Kuttoeneem: AIMyBot1
+
+Joins: Meegok, chips: 1000
+Joins: Kuttoeneem, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuttoeneem
+Small Blind: Kuttoeneem, chips: 100
+Big Blind: Meegok, chips: 200
+Folds: Kuttoeneem
+Pot size: 300
+Wins: Meegok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meegok
+Small Blind: Meegok, chips: 100
+Big Blind: Kuttoeneem, chips: 200
+Calls: Meegok
+DEBUG MESSAGE: INVALID ACTION FROM Kuttoeneem (2 0)
+Folds: Kuttoeneem
+Pot size: 400
+Wins: Meegok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuttoeneem
+Small Blind: Kuttoeneem, chips: 100
+Big Blind: Meegok, chips: 200
+Folds: Kuttoeneem
+Pot size: 300
+Boasts: Meegok, Jd 6h
+Wins: Meegok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meegok
+Small Blind: Meegok, chips: 100
+Big Blind: Kuttoeneem, chips: 200
+Calls: Meegok
+DEBUG MESSAGE: INVALID ACTION FROM Kuttoeneem (2 0)
+Folds: Kuttoeneem
+Pot size: 400
+Boasts: Meegok, Qd 9d
+Wins: Meegok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuttoeneem
+Small Blind: Kuttoeneem, chips: 100
+Big Blind: Meegok, chips: 200
+Folds: Kuttoeneem
+Pot size: 300
+Wins: Meegok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meegok
+Small Blind: Meegok, chips: 100
+Big Blind: Kuttoeneem, chips: 200
+Raises: Meegok, chips: 300
+Calls: Kuttoeneem
+Flop: 6c Th 7c
+Turn: As
+River: Kd
+Pot size: 800
+Showdown Reached
+Shows: Meegok, 4c 8c
+Combination: Meegok, High Card ( As Kd Th 8c 7c )
+Shows: Kuttoeneem, 8d 8h
+Combination: Kuttoeneem, Pair ( 8d 8h As Kd Th )
+Wins: Meegok, chips: 200
+Wins: Kuttoeneem, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuttoeneem
+Small Blind: Kuttoeneem, chips: 100
+Big Blind: Meegok, chips: 200
+Folds: Kuttoeneem
+Pot size: 300
+Wins: Meegok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meegok
+Small Blind: Meegok, chips: 100
+Big Blind: Kuttoeneem, chips: 200
+Raises: Meegok, chips: 300
+Folds: Kuttoeneem
+Pot size: 700
+Boasts: Meegok, 6s 5h
+Wins: Meegok, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuttoeneem
+Small Blind: Kuttoeneem, chips: 100
+Big Blind: Meegok, chips: 200
+Folds: Kuttoeneem
+Pot size: 300
+Boasts: Meegok, 9d Qc
+Wins: Meegok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meegok
+Small Blind: Meegok, chips: 100
+Big Blind: Kuttoeneem, chips: 200
+Flop: 5s 7c Js
+Turn: 2d
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Meegok, 5c 3c
+Combination: Meegok, Pair ( 5c 5s Ks Js 7c )
+Shows: Kuttoeneem, 6d 8c
+Combination: Kuttoeneem, High Card ( Ks Js 8c 7c 6d )
+Wins: Meegok, chips: 200
+Wins: Kuttoeneem, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuttoeneem
+Small Blind: Kuttoeneem, chips: 100
+Big Blind: Meegok, chips: 200
+Flop: 3d Ac Qs
+Turn: 7c
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Meegok, 8h 9s
+Combination: Meegok, Pair ( 8h 8c Ac Qs 9s )
+Shows: Kuttoeneem, Ts Kc
+Combination: Kuttoeneem, High Card ( Ac Kc Qs Ts 8c )
+Wins: Meegok, chips: 300
+Quits: Kuttoeneem, chips: 0
+Ranking: Meegok, Place: 1, Score: 1000
+Reveal AI: Meegok, AI: Random
+Ranking: Kuttoeneem, Place: 2, Score: -1000
+Reveal AI: Kuttoeneem, AI: AIMyBot1
+
+Player Stats for Kuttoeneem, AI: AIMyBot1
+General: deals: 11, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 700, lost: 1900, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.0909091, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Meegok, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3700, lost: 2700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.363636, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

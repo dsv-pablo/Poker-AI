@@ -1,0 +1,250 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hoedanha: Random
+Bonochee: AIMyBot1
+
+Joins: Hoedanha, chips: 1000
+Joins: Bonochee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonochee
+Small Blind: Bonochee, chips: 100
+Big Blind: Hoedanha, chips: 200
+Folds: Bonochee
+Pot size: 300
+Boasts: Hoedanha, 6h 5h
+Wins: Hoedanha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedanha
+Small Blind: Hoedanha, chips: 100
+Big Blind: Bonochee, chips: 200
+Folds: Hoedanha
+Pot size: 300
+Wins: Bonochee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonochee
+Small Blind: Bonochee, chips: 100
+Big Blind: Hoedanha, chips: 200
+Folds: Bonochee
+Pot size: 300
+Wins: Hoedanha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedanha
+Small Blind: Hoedanha, chips: 100
+Big Blind: Bonochee, chips: 200
+Folds: Hoedanha
+Pot size: 300
+Wins: Bonochee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonochee
+Small Blind: Bonochee, chips: 100
+Big Blind: Hoedanha, chips: 200
+Folds: Bonochee
+Pot size: 300
+Wins: Hoedanha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedanha
+Small Blind: Hoedanha, chips: 100
+Big Blind: Bonochee, chips: 200
+Calls: Hoedanha
+DEBUG MESSAGE: INVALID ACTION FROM Bonochee (2 0)
+Folds: Bonochee
+Pot size: 400
+Boasts: Hoedanha, 9h 5c
+Wins: Hoedanha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonochee
+Small Blind: Bonochee, chips: 100
+Big Blind: Hoedanha, chips: 200
+Folds: Bonochee
+Pot size: 300
+Boasts: Hoedanha, Jc Jd
+Wins: Hoedanha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedanha
+Small Blind: Hoedanha, chips: 100
+Big Blind: Bonochee, chips: 200
+Raises: Hoedanha, chips: 300
+Folds: Bonochee
+Pot size: 700
+Wins: Hoedanha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonochee
+Small Blind: Bonochee, chips: 100
+Big Blind: Hoedanha, chips: 200
+Folds: Bonochee
+Pot size: 300
+Wins: Hoedanha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedanha
+Small Blind: Hoedanha, chips: 100
+Big Blind: Bonochee, chips: 200
+Calls: Hoedanha
+DEBUG MESSAGE: INVALID ACTION FROM Bonochee (2 0)
+Folds: Bonochee
+Pot size: 400
+Wins: Hoedanha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonochee
+Small Blind: Bonochee, chips: 100
+Big Blind: Hoedanha, chips: 200
+Flop: As 6d Jd
+Turn: 2h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Hoedanha, 7c 7d
+Combination: Hoedanha, Two Pair ( As Ac 7c 7d Jd )
+Shows: Bonochee, 4d 8c
+Combination: Bonochee, Pair ( As Ac Jd 8c 6d )
+Wins: Hoedanha, chips: 300
+Quits: Bonochee, chips: 0
+Ranking: Hoedanha, Place: 1, Score: 1000
+Reveal AI: Hoedanha, AI: Random
+Ranking: Bonochee, Place: 2, Score: -1000
+Reveal AI: Bonochee, AI: AIMyBot1
+
+Player Stats for Bonochee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Hoedanha, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:32
+
+The game begins. The AI's of the players are: 
+Hoedanha: Random
+Bonochee: AIMyBot1
+
+Joins: Hoedanha, chips: 1000
+Joins: Bonochee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonochee
+Small Blind: Bonochee, chips: 100
+Big Blind: Hoedanha, chips: 200
+Folds: Bonochee
+Pot size: 300
+Boasts: Hoedanha, 6h 5h
+Wins: Hoedanha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedanha
+Small Blind: Hoedanha, chips: 100
+Big Blind: Bonochee, chips: 200
+Folds: Hoedanha
+Pot size: 300
+Wins: Bonochee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonochee
+Small Blind: Bonochee, chips: 100
+Big Blind: Hoedanha, chips: 200
+Folds: Bonochee
+Pot size: 300
+Wins: Hoedanha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedanha
+Small Blind: Hoedanha, chips: 100
+Big Blind: Bonochee, chips: 200
+Folds: Hoedanha
+Pot size: 300
+Wins: Bonochee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonochee
+Small Blind: Bonochee, chips: 100
+Big Blind: Hoedanha, chips: 200
+Folds: Bonochee
+Pot size: 300
+Wins: Hoedanha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedanha
+Small Blind: Hoedanha, chips: 100
+Big Blind: Bonochee, chips: 200
+Calls: Hoedanha
+DEBUG MESSAGE: INVALID ACTION FROM Bonochee (2 0)
+Folds: Bonochee
+Pot size: 400
+Boasts: Hoedanha, 9h 5c
+Wins: Hoedanha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonochee
+Small Blind: Bonochee, chips: 100
+Big Blind: Hoedanha, chips: 200
+Folds: Bonochee
+Pot size: 300
+Boasts: Hoedanha, Jc Jd
+Wins: Hoedanha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedanha
+Small Blind: Hoedanha, chips: 100
+Big Blind: Bonochee, chips: 200
+Raises: Hoedanha, chips: 300
+Folds: Bonochee
+Pot size: 700
+Wins: Hoedanha, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonochee
+Small Blind: Bonochee, chips: 100
+Big Blind: Hoedanha, chips: 200
+Folds: Bonochee
+Pot size: 300
+Wins: Hoedanha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedanha
+Small Blind: Hoedanha, chips: 100
+Big Blind: Bonochee, chips: 200
+Calls: Hoedanha
+DEBUG MESSAGE: INVALID ACTION FROM Bonochee (2 0)
+Folds: Bonochee
+Pot size: 400
+Wins: Hoedanha, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bonochee
+Small Blind: Bonochee, chips: 100
+Big Blind: Hoedanha, chips: 200
+Flop: As 6d Jd
+Turn: 2h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Hoedanha, 7c 7d
+Combination: Hoedanha, Two Pair ( As Ac 7c 7d Jd )
+Shows: Bonochee, 4d 8c
+Combination: Bonochee, Pair ( As Ac Jd 8c 6d )
+Wins: Hoedanha, chips: 300
+Quits: Bonochee, chips: 0
+Ranking: Hoedanha, Place: 1, Score: 1000
+Reveal AI: Hoedanha, AI: Random
+Ranking: Bonochee, Place: 2, Score: -1000
+Reveal AI: Bonochee, AI: AIMyBot1
+
+Player Stats for Bonochee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Hoedanha, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

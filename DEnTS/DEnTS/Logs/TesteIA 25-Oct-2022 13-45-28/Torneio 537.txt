@@ -1,0 +1,224 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Reepee: AIMyBot1
+Luhul: Random
+
+Joins: Reepee, chips: 1000
+Joins: Luhul, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reepee
+Small Blind: Reepee, chips: 100
+Big Blind: Luhul, chips: 200
+Folds: Reepee
+Pot size: 300
+Wins: Luhul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luhul
+Small Blind: Luhul, chips: 100
+Big Blind: Reepee, chips: 200
+Calls: Luhul
+DEBUG MESSAGE: INVALID ACTION FROM Reepee (2 0)
+Folds: Reepee
+Pot size: 400
+Boasts: Luhul, Jd 8s
+Wins: Luhul, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reepee
+Small Blind: Reepee, chips: 100
+Big Blind: Luhul, chips: 200
+Folds: Reepee
+Pot size: 300
+Wins: Luhul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luhul
+Small Blind: Luhul, chips: 100
+Big Blind: Reepee, chips: 200
+Calls: Luhul
+DEBUG MESSAGE: INVALID ACTION FROM Reepee (2 0)
+Folds: Reepee
+Pot size: 400
+Boasts: Luhul, 7c 4c
+Wins: Luhul, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reepee
+Small Blind: Reepee, chips: 100
+Big Blind: Luhul, chips: 200
+Folds: Reepee
+Pot size: 300
+Wins: Luhul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luhul
+Small Blind: Luhul, chips: 100
+Big Blind: Reepee, chips: 200
+Calls: Luhul
+DEBUG MESSAGE: INVALID ACTION FROM Reepee (2 0)
+Folds: Reepee
+Pot size: 400
+Wins: Luhul, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reepee
+Small Blind: Reepee, chips: 100
+Big Blind: Luhul, chips: 200
+Flop: 5c Qs Td
+Turn: 8s
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Reepee, 2d 6h
+Combination: Reepee, Pair ( 2d 2h Qs Td 8s )
+Shows: Luhul, 3c 2c
+Combination: Luhul, Pair ( 2c 2h Qs Td 8s )
+Wins: Reepee, chips: 100
+Wins: Luhul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luhul
+Small Blind: Luhul, chips: 100
+Big Blind: Reepee, chips: 100
+Flop: 4h 8s Kd
+Turn: Td
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Reepee, 3h 2h
+Combination: Reepee, High Card ( Kd Td 8s 7d 4h )
+Shows: Luhul, Jc Qh
+Combination: Luhul, High Card ( Kd Qh Jc Td 8s )
+Wins: Luhul, chips: 200
+Quits: Reepee, chips: 0
+Ranking: Luhul, Place: 1, Score: 1000
+Reveal AI: Luhul, AI: Random
+Ranking: Reepee, Place: 2, Score: -1000
+Reveal AI: Reepee, AI: AIMyBot1
+
+Player Stats for Luhul, AI: Random
+General: deals: 8, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 2500, lost: 1500, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Reepee, AI: AIMyBot1
+General: deals: 8, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 100, lost: 1100, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:05
+
+The game begins. The AI's of the players are: 
+Reepee: AIMyBot1
+Luhul: Random
+
+Joins: Reepee, chips: 1000
+Joins: Luhul, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reepee
+Small Blind: Reepee, chips: 100
+Big Blind: Luhul, chips: 200
+Folds: Reepee
+Pot size: 300
+Wins: Luhul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luhul
+Small Blind: Luhul, chips: 100
+Big Blind: Reepee, chips: 200
+Calls: Luhul
+DEBUG MESSAGE: INVALID ACTION FROM Reepee (2 0)
+Folds: Reepee
+Pot size: 400
+Boasts: Luhul, Jd 8s
+Wins: Luhul, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reepee
+Small Blind: Reepee, chips: 100
+Big Blind: Luhul, chips: 200
+Folds: Reepee
+Pot size: 300
+Wins: Luhul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luhul
+Small Blind: Luhul, chips: 100
+Big Blind: Reepee, chips: 200
+Calls: Luhul
+DEBUG MESSAGE: INVALID ACTION FROM Reepee (2 0)
+Folds: Reepee
+Pot size: 400
+Boasts: Luhul, 7c 4c
+Wins: Luhul, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reepee
+Small Blind: Reepee, chips: 100
+Big Blind: Luhul, chips: 200
+Folds: Reepee
+Pot size: 300
+Wins: Luhul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luhul
+Small Blind: Luhul, chips: 100
+Big Blind: Reepee, chips: 200
+Calls: Luhul
+DEBUG MESSAGE: INVALID ACTION FROM Reepee (2 0)
+Folds: Reepee
+Pot size: 400
+Wins: Luhul, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reepee
+Small Blind: Reepee, chips: 100
+Big Blind: Luhul, chips: 200
+Flop: 5c Qs Td
+Turn: 8s
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Reepee, 2d 6h
+Combination: Reepee, Pair ( 2d 2h Qs Td 8s )
+Shows: Luhul, 3c 2c
+Combination: Luhul, Pair ( 2c 2h Qs Td 8s )
+Wins: Reepee, chips: 100
+Wins: Luhul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Luhul
+Small Blind: Luhul, chips: 100
+Big Blind: Reepee, chips: 100
+Flop: 4h 8s Kd
+Turn: Td
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Reepee, 3h 2h
+Combination: Reepee, High Card ( Kd Td 8s 7d 4h )
+Shows: Luhul, Jc Qh
+Combination: Luhul, High Card ( Kd Qh Jc Td 8s )
+Wins: Luhul, chips: 200
+Quits: Reepee, chips: 0
+Ranking: Luhul, Place: 1, Score: 1000
+Reveal AI: Luhul, AI: Random
+Ranking: Reepee, Place: 2, Score: -1000
+Reveal AI: Reepee, AI: AIMyBot1
+
+Player Stats for Luhul, AI: Random
+General: deals: 8, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 2500, lost: 1500, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Reepee, AI: AIMyBot1
+General: deals: 8, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 100, lost: 1100, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

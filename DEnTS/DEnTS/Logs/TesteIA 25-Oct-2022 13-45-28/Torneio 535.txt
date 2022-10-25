@@ -1,0 +1,268 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Moeracher: Random
+Weewrul: AIMyBot1
+
+Joins: Moeracher, chips: 1000
+Joins: Weewrul, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moeracher
+Small Blind: Moeracher, chips: 100
+Big Blind: Weewrul, chips: 200
+Calls: Moeracher
+DEBUG MESSAGE: INVALID ACTION FROM Weewrul (2 0)
+Folds: Weewrul
+Pot size: 400
+Boasts: Moeracher, 8d 7d
+Wins: Moeracher, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewrul
+Small Blind: Weewrul, chips: 100
+Big Blind: Moeracher, chips: 200
+Folds: Weewrul
+Pot size: 300
+Boasts: Moeracher, 5c 4s
+Wins: Moeracher, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moeracher
+Small Blind: Moeracher, chips: 100
+Big Blind: Weewrul, chips: 200
+Raises: Moeracher, chips: 300
+Folds: Weewrul
+Pot size: 700
+Wins: Moeracher, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewrul
+Small Blind: Weewrul, chips: 100
+Big Blind: Moeracher, chips: 200
+Folds: Weewrul
+Pot size: 300
+Wins: Moeracher, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moeracher
+Small Blind: Moeracher, chips: 100
+Big Blind: Weewrul, chips: 200
+Folds: Moeracher
+Pot size: 300
+Wins: Weewrul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewrul
+Small Blind: Weewrul, chips: 100
+Big Blind: Moeracher, chips: 200
+Folds: Weewrul
+Pot size: 300
+Boasts: Moeracher, Qs 5c
+Wins: Moeracher, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moeracher
+Small Blind: Moeracher, chips: 100
+Big Blind: Weewrul, chips: 200
+Calls: Moeracher
+DEBUG MESSAGE: INVALID ACTION FROM Weewrul (2 0)
+Folds: Weewrul
+Pot size: 400
+Wins: Moeracher, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewrul
+Small Blind: Weewrul, chips: 100
+Big Blind: Moeracher, chips: 200
+Folds: Weewrul
+Pot size: 300
+Boasts: Moeracher, 7c 5s
+Wins: Moeracher, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moeracher
+Small Blind: Moeracher, chips: 100
+Big Blind: Weewrul, chips: 100
+Flop: 4s Ts 5s
+Turn: Kd
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Moeracher, 3s 2c
+Combination: Moeracher, Pair ( Kd Kh Ts 5s 4s )
+Shows: Weewrul, 4h Td
+Combination: Weewrul, Two Pair ( Kd Kh Td Ts 5s )
+Wins: Weewrul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewrul
+Small Blind: Weewrul, chips: 100
+Big Blind: Moeracher, chips: 200
+Folds: Weewrul
+Pot size: 300
+Boasts: Moeracher, 3c 4d
+Wins: Moeracher, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moeracher
+Small Blind: Moeracher, chips: 100
+Big Blind: Weewrul, chips: 100
+Flop: 8h Jc 5h
+Turn: 7c
+River: Qh
+Pot size: 200
+Showdown Reached
+Shows: Moeracher, 7s Qd
+Combination: Moeracher, Two Pair ( Qd Qh 7s 7c Jc )
+Shows: Weewrul, 8d 7h
+Combination: Weewrul, Two Pair ( 8d 8h 7h 7c Qh )
+Wins: Moeracher, chips: 200
+Quits: Weewrul, chips: 0
+Ranking: Moeracher, Place: 1, Score: 1000
+Reveal AI: Moeracher, AI: Random
+Ranking: Weewrul, Place: 2, Score: -1000
+Reveal AI: Weewrul, AI: AIMyBot1
+
+Player Stats for Moeracher, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Weewrul, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:05
+
+The game begins. The AI's of the players are: 
+Moeracher: Random
+Weewrul: AIMyBot1
+
+Joins: Moeracher, chips: 1000
+Joins: Weewrul, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moeracher
+Small Blind: Moeracher, chips: 100
+Big Blind: Weewrul, chips: 200
+Calls: Moeracher
+DEBUG MESSAGE: INVALID ACTION FROM Weewrul (2 0)
+Folds: Weewrul
+Pot size: 400
+Boasts: Moeracher, 8d 7d
+Wins: Moeracher, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewrul
+Small Blind: Weewrul, chips: 100
+Big Blind: Moeracher, chips: 200
+Folds: Weewrul
+Pot size: 300
+Boasts: Moeracher, 5c 4s
+Wins: Moeracher, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moeracher
+Small Blind: Moeracher, chips: 100
+Big Blind: Weewrul, chips: 200
+Raises: Moeracher, chips: 300
+Folds: Weewrul
+Pot size: 700
+Wins: Moeracher, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewrul
+Small Blind: Weewrul, chips: 100
+Big Blind: Moeracher, chips: 200
+Folds: Weewrul
+Pot size: 300
+Wins: Moeracher, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moeracher
+Small Blind: Moeracher, chips: 100
+Big Blind: Weewrul, chips: 200
+Folds: Moeracher
+Pot size: 300
+Wins: Weewrul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewrul
+Small Blind: Weewrul, chips: 100
+Big Blind: Moeracher, chips: 200
+Folds: Weewrul
+Pot size: 300
+Boasts: Moeracher, Qs 5c
+Wins: Moeracher, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moeracher
+Small Blind: Moeracher, chips: 100
+Big Blind: Weewrul, chips: 200
+Calls: Moeracher
+DEBUG MESSAGE: INVALID ACTION FROM Weewrul (2 0)
+Folds: Weewrul
+Pot size: 400
+Wins: Moeracher, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewrul
+Small Blind: Weewrul, chips: 100
+Big Blind: Moeracher, chips: 200
+Folds: Weewrul
+Pot size: 300
+Boasts: Moeracher, 7c 5s
+Wins: Moeracher, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moeracher
+Small Blind: Moeracher, chips: 100
+Big Blind: Weewrul, chips: 100
+Flop: 4s Ts 5s
+Turn: Kd
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Moeracher, 3s 2c
+Combination: Moeracher, Pair ( Kd Kh Ts 5s 4s )
+Shows: Weewrul, 4h Td
+Combination: Weewrul, Two Pair ( Kd Kh Td Ts 5s )
+Wins: Weewrul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewrul
+Small Blind: Weewrul, chips: 100
+Big Blind: Moeracher, chips: 200
+Folds: Weewrul
+Pot size: 300
+Boasts: Moeracher, 3c 4d
+Wins: Moeracher, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moeracher
+Small Blind: Moeracher, chips: 100
+Big Blind: Weewrul, chips: 100
+Flop: 8h Jc 5h
+Turn: 7c
+River: Qh
+Pot size: 200
+Showdown Reached
+Shows: Moeracher, 7s Qd
+Combination: Moeracher, Two Pair ( Qd Qh 7s 7c Jc )
+Shows: Weewrul, 8d 7h
+Combination: Weewrul, Two Pair ( 8d 8h 7h 7c Qh )
+Wins: Moeracher, chips: 200
+Quits: Weewrul, chips: 0
+Ranking: Moeracher, Place: 1, Score: 1000
+Reveal AI: Moeracher, AI: Random
+Ranking: Weewrul, Place: 2, Score: -1000
+Reveal AI: Weewrul, AI: AIMyBot1
+
+Player Stats for Moeracher, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Weewrul, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

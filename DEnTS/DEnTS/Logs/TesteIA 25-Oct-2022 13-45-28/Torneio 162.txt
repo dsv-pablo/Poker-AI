@@ -1,0 +1,190 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Puran: Random
+Sichatry: AIMyBot1
+
+Joins: Puran, chips: 1000
+Joins: Sichatry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puran
+Small Blind: Puran, chips: 100
+Big Blind: Sichatry, chips: 200
+Raises: Puran, chips: 300
+Folds: Sichatry
+Pot size: 700
+Wins: Puran, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sichatry
+Small Blind: Sichatry, chips: 100
+Big Blind: Puran, chips: 200
+Folds: Sichatry
+Pot size: 300
+Boasts: Puran, 2c Qd
+Wins: Puran, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puran
+Small Blind: Puran, chips: 100
+Big Blind: Sichatry, chips: 200
+Raises: Puran, chips: 300
+Folds: Sichatry
+Pot size: 700
+Wins: Puran, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sichatry
+Small Blind: Sichatry, chips: 100
+Big Blind: Puran, chips: 200
+Folds: Sichatry
+Pot size: 300
+Boasts: Puran, Td 8h
+Wins: Puran, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puran
+Small Blind: Puran, chips: 100
+Big Blind: Sichatry, chips: 200
+Calls: Puran
+DEBUG MESSAGE: INVALID ACTION FROM Sichatry (2 0)
+Folds: Sichatry
+Pot size: 400
+Wins: Puran, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sichatry
+Small Blind: Sichatry, chips: 100
+Big Blind: Puran, chips: 200
+Folds: Sichatry
+Pot size: 300
+Wins: Puran, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puran
+Small Blind: Puran, chips: 100
+Big Blind: Sichatry, chips: 100
+Flop: 7c 4c 4h
+Turn: Jh
+River: 7s
+Pot size: 200
+Showdown Reached
+Shows: Puran, Kc Kd
+Combination: Puran, Two Pair ( Kc Kd 7c 7s Jh )
+Shows: Sichatry, Kh 2h
+Combination: Sichatry, Two Pair ( 7c 7s 4c 4h Kh )
+Wins: Puran, chips: 200
+Quits: Sichatry, chips: 0
+Ranking: Puran, Place: 1, Score: 1000
+Reveal AI: Puran, AI: Random
+Ranking: Sichatry, Place: 2, Score: -1000
+Reveal AI: Sichatry, AI: AIMyBot1
+
+Player Stats for Puran, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Sichatry, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:40
+
+The game begins. The AI's of the players are: 
+Puran: Random
+Sichatry: AIMyBot1
+
+Joins: Puran, chips: 1000
+Joins: Sichatry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puran
+Small Blind: Puran, chips: 100
+Big Blind: Sichatry, chips: 200
+Raises: Puran, chips: 300
+Folds: Sichatry
+Pot size: 700
+Wins: Puran, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sichatry
+Small Blind: Sichatry, chips: 100
+Big Blind: Puran, chips: 200
+Folds: Sichatry
+Pot size: 300
+Boasts: Puran, 2c Qd
+Wins: Puran, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puran
+Small Blind: Puran, chips: 100
+Big Blind: Sichatry, chips: 200
+Raises: Puran, chips: 300
+Folds: Sichatry
+Pot size: 700
+Wins: Puran, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sichatry
+Small Blind: Sichatry, chips: 100
+Big Blind: Puran, chips: 200
+Folds: Sichatry
+Pot size: 300
+Boasts: Puran, Td 8h
+Wins: Puran, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puran
+Small Blind: Puran, chips: 100
+Big Blind: Sichatry, chips: 200
+Calls: Puran
+DEBUG MESSAGE: INVALID ACTION FROM Sichatry (2 0)
+Folds: Sichatry
+Pot size: 400
+Wins: Puran, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sichatry
+Small Blind: Sichatry, chips: 100
+Big Blind: Puran, chips: 200
+Folds: Sichatry
+Pot size: 300
+Wins: Puran, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puran
+Small Blind: Puran, chips: 100
+Big Blind: Sichatry, chips: 100
+Flop: 7c 4c 4h
+Turn: Jh
+River: 7s
+Pot size: 200
+Showdown Reached
+Shows: Puran, Kc Kd
+Combination: Puran, Two Pair ( Kc Kd 7c 7s Jh )
+Shows: Sichatry, Kh 2h
+Combination: Sichatry, Two Pair ( 7c 7s 4c 4h Kh )
+Wins: Puran, chips: 200
+Quits: Sichatry, chips: 0
+Ranking: Puran, Place: 1, Score: 1000
+Reveal AI: Puran, AI: Random
+Ranking: Sichatry, Place: 2, Score: -1000
+Reveal AI: Sichatry, AI: AIMyBot1
+
+Player Stats for Puran, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Sichatry, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

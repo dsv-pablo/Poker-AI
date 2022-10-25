@@ -1,0 +1,286 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Seewil: Random
+Nakogat: AIMyBot1
+
+Joins: Seewil, chips: 1000
+Joins: Nakogat, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nakogat
+Small Blind: Nakogat, chips: 100
+Big Blind: Seewil, chips: 200
+Folds: Nakogat
+Pot size: 300
+Wins: Seewil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seewil
+Small Blind: Seewil, chips: 100
+Big Blind: Nakogat, chips: 200
+Raises: Seewil, chips: 300
+Folds: Nakogat
+Pot size: 700
+Boasts: Seewil, 8h Ah
+Wins: Seewil, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nakogat
+Small Blind: Nakogat, chips: 100
+Big Blind: Seewil, chips: 200
+Folds: Nakogat
+Pot size: 300
+Wins: Seewil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seewil
+Small Blind: Seewil, chips: 100
+Big Blind: Nakogat, chips: 200
+Calls: Seewil
+DEBUG MESSAGE: INVALID ACTION FROM Nakogat (2 0)
+Folds: Nakogat
+Pot size: 400
+Wins: Seewil, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nakogat
+Small Blind: Nakogat, chips: 100
+Big Blind: Seewil, chips: 200
+Folds: Nakogat
+Pot size: 300
+Boasts: Seewil, 5c Ad
+Wins: Seewil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seewil
+Small Blind: Seewil, chips: 100
+Big Blind: Nakogat, chips: 200
+Raises: Seewil, chips: 300
+Calls: Nakogat
+Flop: 8s 9h 3s
+Turn: 2d
+River: Jd
+Pot size: 800
+Showdown Reached
+Shows: Seewil, Th 4s
+Combination: Seewil, High Card ( Jd Th 9h 8s 4s )
+Shows: Nakogat, 7c 7s
+Combination: Nakogat, Pair ( 7c 7s Jd 9h 8s )
+Wins: Seewil, chips: 200
+Wins: Nakogat, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nakogat
+Small Blind: Nakogat, chips: 100
+Big Blind: Seewil, chips: 200
+Folds: Nakogat
+Pot size: 300
+Wins: Seewil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seewil
+Small Blind: Seewil, chips: 100
+Big Blind: Nakogat, chips: 200
+Calls: Seewil
+DEBUG MESSAGE: INVALID ACTION FROM Nakogat (2 0)
+Folds: Nakogat
+Pot size: 400
+Wins: Seewil, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nakogat
+Small Blind: Nakogat, chips: 100
+Big Blind: Seewil, chips: 200
+Folds: Nakogat
+Pot size: 300
+Boasts: Seewil, Qs Ac
+Wins: Seewil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seewil
+Small Blind: Seewil, chips: 100
+Big Blind: Nakogat, chips: 200
+Flop: 9s 9d 4c
+Turn: Js
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Seewil, 9c 4d
+Combination: Seewil, Full House ( 9c 9s 9d 4d 4c )
+Shows: Nakogat, 7s 8c
+Combination: Nakogat, Straight ( Js Tc 9s 8c 7s )
+Wins: Seewil, chips: 200
+Wins: Nakogat, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nakogat
+Small Blind: Nakogat, chips: 100
+Big Blind: Seewil, chips: 200
+Flop: 5h 8h 6c
+Turn: 3d
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Seewil, 3c Td
+Combination: Seewil, Pair ( 3c 3d Qh Td 8h )
+Shows: Nakogat, Tc Jh
+Combination: Nakogat, High Card ( Qh Jh Tc 8h 6c )
+Wins: Seewil, chips: 300
+Quits: Nakogat, chips: 0
+Ranking: Seewil, Place: 1, Score: 1000
+Reveal AI: Seewil, AI: Random
+Ranking: Nakogat, Place: 2, Score: -1000
+Reveal AI: Nakogat, AI: AIMyBot1
+
+Player Stats for Nakogat, AI: AIMyBot1
+General: deals: 11, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 700, lost: 1900, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.0909091, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Seewil, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3700, lost: 2700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.363636, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:30
+
+The game begins. The AI's of the players are: 
+Seewil: Random
+Nakogat: AIMyBot1
+
+Joins: Seewil, chips: 1000
+Joins: Nakogat, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nakogat
+Small Blind: Nakogat, chips: 100
+Big Blind: Seewil, chips: 200
+Folds: Nakogat
+Pot size: 300
+Wins: Seewil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seewil
+Small Blind: Seewil, chips: 100
+Big Blind: Nakogat, chips: 200
+Raises: Seewil, chips: 300
+Folds: Nakogat
+Pot size: 700
+Boasts: Seewil, 8h Ah
+Wins: Seewil, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nakogat
+Small Blind: Nakogat, chips: 100
+Big Blind: Seewil, chips: 200
+Folds: Nakogat
+Pot size: 300
+Wins: Seewil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seewil
+Small Blind: Seewil, chips: 100
+Big Blind: Nakogat, chips: 200
+Calls: Seewil
+DEBUG MESSAGE: INVALID ACTION FROM Nakogat (2 0)
+Folds: Nakogat
+Pot size: 400
+Wins: Seewil, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nakogat
+Small Blind: Nakogat, chips: 100
+Big Blind: Seewil, chips: 200
+Folds: Nakogat
+Pot size: 300
+Boasts: Seewil, 5c Ad
+Wins: Seewil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seewil
+Small Blind: Seewil, chips: 100
+Big Blind: Nakogat, chips: 200
+Raises: Seewil, chips: 300
+Calls: Nakogat
+Flop: 8s 9h 3s
+Turn: 2d
+River: Jd
+Pot size: 800
+Showdown Reached
+Shows: Seewil, Th 4s
+Combination: Seewil, High Card ( Jd Th 9h 8s 4s )
+Shows: Nakogat, 7c 7s
+Combination: Nakogat, Pair ( 7c 7s Jd 9h 8s )
+Wins: Seewil, chips: 200
+Wins: Nakogat, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nakogat
+Small Blind: Nakogat, chips: 100
+Big Blind: Seewil, chips: 200
+Folds: Nakogat
+Pot size: 300
+Wins: Seewil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seewil
+Small Blind: Seewil, chips: 100
+Big Blind: Nakogat, chips: 200
+Calls: Seewil
+DEBUG MESSAGE: INVALID ACTION FROM Nakogat (2 0)
+Folds: Nakogat
+Pot size: 400
+Wins: Seewil, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nakogat
+Small Blind: Nakogat, chips: 100
+Big Blind: Seewil, chips: 200
+Folds: Nakogat
+Pot size: 300
+Boasts: Seewil, Qs Ac
+Wins: Seewil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seewil
+Small Blind: Seewil, chips: 100
+Big Blind: Nakogat, chips: 200
+Flop: 9s 9d 4c
+Turn: Js
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Seewil, 9c 4d
+Combination: Seewil, Full House ( 9c 9s 9d 4d 4c )
+Shows: Nakogat, 7s 8c
+Combination: Nakogat, Straight ( Js Tc 9s 8c 7s )
+Wins: Seewil, chips: 200
+Wins: Nakogat, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nakogat
+Small Blind: Nakogat, chips: 100
+Big Blind: Seewil, chips: 200
+Flop: 5h 8h 6c
+Turn: 3d
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Seewil, 3c Td
+Combination: Seewil, Pair ( 3c 3d Qh Td 8h )
+Shows: Nakogat, Tc Jh
+Combination: Nakogat, High Card ( Qh Jh Tc 8h 6c )
+Wins: Seewil, chips: 300
+Quits: Nakogat, chips: 0
+Ranking: Seewil, Place: 1, Score: 1000
+Reveal AI: Seewil, AI: Random
+Ranking: Nakogat, Place: 2, Score: -1000
+Reveal AI: Nakogat, AI: AIMyBot1
+
+Player Stats for Nakogat, AI: AIMyBot1
+General: deals: 11, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 700, lost: 1900, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.0909091, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Seewil, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3700, lost: 2700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.363636, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

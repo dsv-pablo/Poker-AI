@@ -1,0 +1,240 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Garutry: AIMyBot1
+Mesoe: Random
+
+Joins: Garutry, chips: 1000
+Joins: Mesoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mesoe
+Small Blind: Mesoe, chips: 100
+Big Blind: Garutry, chips: 200
+Calls: Mesoe
+DEBUG MESSAGE: INVALID ACTION FROM Garutry (2 0)
+Folds: Garutry
+Pot size: 400
+Boasts: Mesoe, 3h 4h
+Wins: Mesoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garutry
+Small Blind: Garutry, chips: 100
+Big Blind: Mesoe, chips: 200
+Folds: Garutry
+Pot size: 300
+Boasts: Mesoe, 3d Td
+Wins: Mesoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mesoe
+Small Blind: Mesoe, chips: 100
+Big Blind: Garutry, chips: 200
+Calls: Mesoe
+DEBUG MESSAGE: INVALID ACTION FROM Garutry (2 0)
+Folds: Garutry
+Pot size: 400
+Boasts: Mesoe, 8c 7d
+Wins: Mesoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garutry
+Small Blind: Garutry, chips: 100
+Big Blind: Mesoe, chips: 200
+Folds: Garutry
+Pot size: 300
+Boasts: Mesoe, 9s 4c
+Wins: Mesoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mesoe
+Small Blind: Mesoe, chips: 100
+Big Blind: Garutry, chips: 200
+Raises: Mesoe, chips: 300
+Folds: Garutry
+Pot size: 700
+Wins: Mesoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garutry
+Small Blind: Garutry, chips: 100
+Big Blind: Mesoe, chips: 200
+Folds: Garutry
+Pot size: 300
+Boasts: Mesoe, 2s 3c
+Wins: Mesoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mesoe
+Small Blind: Mesoe, chips: 100
+Big Blind: Garutry, chips: 100
+Flop: 5c Ad As
+Turn: 5s
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Garutry, Qc Jh
+Combination: Garutry, Two Pair ( Ad As 5c 5s Qc )
+Shows: Mesoe, 6h Jc
+Combination: Mesoe, Two Pair ( Ad As 5c 5s Jc )
+Wins: Garutry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garutry
+Small Blind: Garutry, chips: 100
+Big Blind: Mesoe, chips: 200
+Folds: Garutry
+Pot size: 300
+Wins: Mesoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mesoe
+Small Blind: Mesoe, chips: 100
+Big Blind: Garutry, chips: 100
+Flop: Kh 4d Ad
+Turn: 9s
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Garutry, 7d 4h
+Combination: Garutry, Two Pair ( 9s 9h 4h 4d Ad )
+Shows: Mesoe, Ah 3h
+Combination: Mesoe, Two Pair ( Ah Ad 9s 9h Kh )
+Wins: Mesoe, chips: 200
+Quits: Garutry, chips: 0
+Ranking: Mesoe, Place: 1, Score: 1000
+Reveal AI: Mesoe, AI: Random
+Ranking: Garutry, Place: 2, Score: -1000
+Reveal AI: Garutry, AI: AIMyBot1
+
+Player Stats for Garutry, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Mesoe, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:51
+
+The game begins. The AI's of the players are: 
+Garutry: AIMyBot1
+Mesoe: Random
+
+Joins: Garutry, chips: 1000
+Joins: Mesoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mesoe
+Small Blind: Mesoe, chips: 100
+Big Blind: Garutry, chips: 200
+Calls: Mesoe
+DEBUG MESSAGE: INVALID ACTION FROM Garutry (2 0)
+Folds: Garutry
+Pot size: 400
+Boasts: Mesoe, 3h 4h
+Wins: Mesoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garutry
+Small Blind: Garutry, chips: 100
+Big Blind: Mesoe, chips: 200
+Folds: Garutry
+Pot size: 300
+Boasts: Mesoe, 3d Td
+Wins: Mesoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mesoe
+Small Blind: Mesoe, chips: 100
+Big Blind: Garutry, chips: 200
+Calls: Mesoe
+DEBUG MESSAGE: INVALID ACTION FROM Garutry (2 0)
+Folds: Garutry
+Pot size: 400
+Boasts: Mesoe, 8c 7d
+Wins: Mesoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garutry
+Small Blind: Garutry, chips: 100
+Big Blind: Mesoe, chips: 200
+Folds: Garutry
+Pot size: 300
+Boasts: Mesoe, 9s 4c
+Wins: Mesoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mesoe
+Small Blind: Mesoe, chips: 100
+Big Blind: Garutry, chips: 200
+Raises: Mesoe, chips: 300
+Folds: Garutry
+Pot size: 700
+Wins: Mesoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garutry
+Small Blind: Garutry, chips: 100
+Big Blind: Mesoe, chips: 200
+Folds: Garutry
+Pot size: 300
+Boasts: Mesoe, 2s 3c
+Wins: Mesoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mesoe
+Small Blind: Mesoe, chips: 100
+Big Blind: Garutry, chips: 100
+Flop: 5c Ad As
+Turn: 5s
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Garutry, Qc Jh
+Combination: Garutry, Two Pair ( Ad As 5c 5s Qc )
+Shows: Mesoe, 6h Jc
+Combination: Mesoe, Two Pair ( Ad As 5c 5s Jc )
+Wins: Garutry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garutry
+Small Blind: Garutry, chips: 100
+Big Blind: Mesoe, chips: 200
+Folds: Garutry
+Pot size: 300
+Wins: Mesoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mesoe
+Small Blind: Mesoe, chips: 100
+Big Blind: Garutry, chips: 100
+Flop: Kh 4d Ad
+Turn: 9s
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Garutry, 7d 4h
+Combination: Garutry, Two Pair ( 9s 9h 4h 4d Ad )
+Shows: Mesoe, Ah 3h
+Combination: Mesoe, Two Pair ( Ah Ad 9s 9h Kh )
+Wins: Mesoe, chips: 200
+Quits: Garutry, chips: 0
+Ranking: Mesoe, Place: 1, Score: 1000
+Reveal AI: Mesoe, AI: Random
+Ranking: Garutry, Place: 2, Score: -1000
+Reveal AI: Garutry, AI: AIMyBot1
+
+Player Stats for Garutry, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Mesoe, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

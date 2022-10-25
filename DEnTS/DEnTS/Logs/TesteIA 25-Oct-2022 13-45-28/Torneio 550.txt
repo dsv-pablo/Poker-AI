@@ -1,0 +1,264 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Nuchil: AIMyBot1
+Peebun: Random
+
+Joins: Nuchil, chips: 1000
+Joins: Peebun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebun
+Small Blind: Peebun, chips: 100
+Big Blind: Nuchil, chips: 200
+Folds: Peebun
+Pot size: 300
+Wins: Nuchil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuchil
+Small Blind: Nuchil, chips: 100
+Big Blind: Peebun, chips: 200
+Folds: Nuchil
+Pot size: 300
+Wins: Peebun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebun
+Small Blind: Peebun, chips: 100
+Big Blind: Nuchil, chips: 200
+Calls: Peebun
+DEBUG MESSAGE: INVALID ACTION FROM Nuchil (2 0)
+Folds: Nuchil
+Pot size: 400
+Wins: Peebun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuchil
+Small Blind: Nuchil, chips: 100
+Big Blind: Peebun, chips: 200
+Folds: Nuchil
+Pot size: 300
+Boasts: Peebun, Tc As
+Wins: Peebun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebun
+Small Blind: Peebun, chips: 100
+Big Blind: Nuchil, chips: 200
+Raises: Peebun, chips: 300
+Folds: Nuchil
+Pot size: 700
+Boasts: Peebun, 8d 4c
+Wins: Peebun, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuchil
+Small Blind: Nuchil, chips: 100
+Big Blind: Peebun, chips: 200
+Folds: Nuchil
+Pot size: 300
+Wins: Peebun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebun
+Small Blind: Peebun, chips: 100
+Big Blind: Nuchil, chips: 200
+Calls: Peebun
+DEBUG MESSAGE: INVALID ACTION FROM Nuchil (2 0)
+Folds: Nuchil
+Pot size: 400
+Wins: Peebun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuchil
+Small Blind: Nuchil, chips: 100
+Big Blind: Peebun, chips: 200
+Folds: Nuchil
+Pot size: 300
+Boasts: Peebun, Jh 2c
+Wins: Peebun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebun
+Small Blind: Peebun, chips: 100
+Big Blind: Nuchil, chips: 100
+Flop: Kc 7c Js
+Turn: 9c
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Nuchil, 4c 9d
+Combination: Nuchil, Two Pair ( Kc Kh 9d 9c Js )
+Shows: Peebun, 2s 2h
+Combination: Peebun, Two Pair ( Kc Kh 2s 2h Js )
+Wins: Nuchil, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuchil
+Small Blind: Nuchil, chips: 100
+Big Blind: Peebun, chips: 200
+Folds: Nuchil
+Pot size: 300
+Wins: Peebun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebun
+Small Blind: Peebun, chips: 100
+Big Blind: Nuchil, chips: 100
+Flop: 8c Ac 4s
+Turn: 5d
+River: Qs
+Pot size: 200
+Showdown Reached
+Shows: Nuchil, Kh Jc
+Combination: Nuchil, High Card ( Ac Kh Qs Jc 8c )
+Shows: Peebun, 6c 4c
+Combination: Peebun, Pair ( 4c 4s Ac Qs 8c )
+Wins: Peebun, chips: 200
+Quits: Nuchil, chips: 0
+Ranking: Peebun, Place: 1, Score: 1000
+Reveal AI: Peebun, AI: Random
+Ranking: Nuchil, Place: 2, Score: -1000
+Reveal AI: Nuchil, AI: AIMyBot1
+
+Player Stats for Nuchil, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Peebun, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:06
+
+The game begins. The AI's of the players are: 
+Nuchil: AIMyBot1
+Peebun: Random
+
+Joins: Nuchil, chips: 1000
+Joins: Peebun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebun
+Small Blind: Peebun, chips: 100
+Big Blind: Nuchil, chips: 200
+Folds: Peebun
+Pot size: 300
+Wins: Nuchil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuchil
+Small Blind: Nuchil, chips: 100
+Big Blind: Peebun, chips: 200
+Folds: Nuchil
+Pot size: 300
+Wins: Peebun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebun
+Small Blind: Peebun, chips: 100
+Big Blind: Nuchil, chips: 200
+Calls: Peebun
+DEBUG MESSAGE: INVALID ACTION FROM Nuchil (2 0)
+Folds: Nuchil
+Pot size: 400
+Wins: Peebun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuchil
+Small Blind: Nuchil, chips: 100
+Big Blind: Peebun, chips: 200
+Folds: Nuchil
+Pot size: 300
+Boasts: Peebun, Tc As
+Wins: Peebun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebun
+Small Blind: Peebun, chips: 100
+Big Blind: Nuchil, chips: 200
+Raises: Peebun, chips: 300
+Folds: Nuchil
+Pot size: 700
+Boasts: Peebun, 8d 4c
+Wins: Peebun, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuchil
+Small Blind: Nuchil, chips: 100
+Big Blind: Peebun, chips: 200
+Folds: Nuchil
+Pot size: 300
+Wins: Peebun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebun
+Small Blind: Peebun, chips: 100
+Big Blind: Nuchil, chips: 200
+Calls: Peebun
+DEBUG MESSAGE: INVALID ACTION FROM Nuchil (2 0)
+Folds: Nuchil
+Pot size: 400
+Wins: Peebun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuchil
+Small Blind: Nuchil, chips: 100
+Big Blind: Peebun, chips: 200
+Folds: Nuchil
+Pot size: 300
+Boasts: Peebun, Jh 2c
+Wins: Peebun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebun
+Small Blind: Peebun, chips: 100
+Big Blind: Nuchil, chips: 100
+Flop: Kc 7c Js
+Turn: 9c
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Nuchil, 4c 9d
+Combination: Nuchil, Two Pair ( Kc Kh 9d 9c Js )
+Shows: Peebun, 2s 2h
+Combination: Peebun, Two Pair ( Kc Kh 2s 2h Js )
+Wins: Nuchil, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nuchil
+Small Blind: Nuchil, chips: 100
+Big Blind: Peebun, chips: 200
+Folds: Nuchil
+Pot size: 300
+Wins: Peebun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peebun
+Small Blind: Peebun, chips: 100
+Big Blind: Nuchil, chips: 100
+Flop: 8c Ac 4s
+Turn: 5d
+River: Qs
+Pot size: 200
+Showdown Reached
+Shows: Nuchil, Kh Jc
+Combination: Nuchil, High Card ( Ac Kh Qs Jc 8c )
+Shows: Peebun, 6c 4c
+Combination: Peebun, Pair ( 4c 4s Ac Qs 8c )
+Wins: Peebun, chips: 200
+Quits: Nuchil, chips: 0
+Ranking: Peebun, Place: 1, Score: 1000
+Reveal AI: Peebun, AI: Random
+Ranking: Nuchil, Place: 2, Score: -1000
+Reveal AI: Nuchil, AI: AIMyBot1
+
+Player Stats for Nuchil, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Peebun, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

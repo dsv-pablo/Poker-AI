@@ -1,0 +1,194 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gesoev: AIMyBot1
+Poke: Random
+
+Joins: Gesoev, chips: 1000
+Joins: Poke, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gesoev
+Small Blind: Gesoev, chips: 100
+Big Blind: Poke, chips: 200
+Folds: Gesoev
+Pot size: 300
+Boasts: Poke, 4c 5h
+Wins: Poke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poke
+Small Blind: Poke, chips: 100
+Big Blind: Gesoev, chips: 200
+Raises: Poke, chips: 300
+Folds: Gesoev
+Pot size: 700
+Boasts: Poke, 2h 6h
+Wins: Poke, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gesoev
+Small Blind: Gesoev, chips: 100
+Big Blind: Poke, chips: 200
+Folds: Gesoev
+Pot size: 300
+Wins: Poke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poke
+Small Blind: Poke, chips: 100
+Big Blind: Gesoev, chips: 200
+Calls: Poke
+DEBUG MESSAGE: INVALID ACTION FROM Gesoev (2 0)
+Folds: Gesoev
+Pot size: 400
+Wins: Poke, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gesoev
+Small Blind: Gesoev, chips: 100
+Big Blind: Poke, chips: 200
+Folds: Gesoev
+Pot size: 300
+Boasts: Poke, 4c 3s
+Wins: Poke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poke
+Small Blind: Poke, chips: 100
+Big Blind: Gesoev, chips: 200
+Raises: Poke, chips: 300
+Folds: Gesoev
+Pot size: 700
+Boasts: Poke, Tc As
+Wins: Poke, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gesoev
+Small Blind: Gesoev, chips: 100
+Big Blind: Poke, chips: 200
+Flop: 2d Td 7h
+Turn: 9h
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Gesoev, 3d Kd
+Combination: Gesoev, High Card ( Kd Td 9h 8h 7h )
+Shows: Poke, 7s Qh
+Combination: Poke, Pair ( 7s 7h Qh Td 9h )
+Wins: Poke, chips: 300
+Quits: Gesoev, chips: 0
+Ranking: Poke, Place: 1, Score: 1000
+Reveal AI: Poke, AI: Random
+Ranking: Gesoev, Place: 2, Score: -1000
+Reveal AI: Gesoev, AI: AIMyBot1
+
+Player Stats for Gesoev, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Poke, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:39
+
+The game begins. The AI's of the players are: 
+Gesoev: AIMyBot1
+Poke: Random
+
+Joins: Gesoev, chips: 1000
+Joins: Poke, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gesoev
+Small Blind: Gesoev, chips: 100
+Big Blind: Poke, chips: 200
+Folds: Gesoev
+Pot size: 300
+Boasts: Poke, 4c 5h
+Wins: Poke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poke
+Small Blind: Poke, chips: 100
+Big Blind: Gesoev, chips: 200
+Raises: Poke, chips: 300
+Folds: Gesoev
+Pot size: 700
+Boasts: Poke, 2h 6h
+Wins: Poke, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gesoev
+Small Blind: Gesoev, chips: 100
+Big Blind: Poke, chips: 200
+Folds: Gesoev
+Pot size: 300
+Wins: Poke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poke
+Small Blind: Poke, chips: 100
+Big Blind: Gesoev, chips: 200
+Calls: Poke
+DEBUG MESSAGE: INVALID ACTION FROM Gesoev (2 0)
+Folds: Gesoev
+Pot size: 400
+Wins: Poke, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gesoev
+Small Blind: Gesoev, chips: 100
+Big Blind: Poke, chips: 200
+Folds: Gesoev
+Pot size: 300
+Boasts: Poke, 4c 3s
+Wins: Poke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poke
+Small Blind: Poke, chips: 100
+Big Blind: Gesoev, chips: 200
+Raises: Poke, chips: 300
+Folds: Gesoev
+Pot size: 700
+Boasts: Poke, Tc As
+Wins: Poke, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gesoev
+Small Blind: Gesoev, chips: 100
+Big Blind: Poke, chips: 200
+Flop: 2d Td 7h
+Turn: 9h
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Gesoev, 3d Kd
+Combination: Gesoev, High Card ( Kd Td 9h 8h 7h )
+Shows: Poke, 7s Qh
+Combination: Poke, Pair ( 7s 7h Qh Td 9h )
+Wins: Poke, chips: 300
+Quits: Gesoev, chips: 0
+Ranking: Poke, Place: 1, Score: 1000
+Reveal AI: Poke, AI: Random
+Ranking: Gesoev, Place: 2, Score: -1000
+Reveal AI: Gesoev, AI: AIMyBot1
+
+Player Stats for Gesoev, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Poke, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

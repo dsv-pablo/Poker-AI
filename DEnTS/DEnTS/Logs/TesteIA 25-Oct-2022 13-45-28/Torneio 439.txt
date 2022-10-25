@@ -1,0 +1,314 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Boefedak: Random
+Huroeveef: AIMyBot1
+
+Joins: Boefedak, chips: 1000
+Joins: Huroeveef, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroeveef
+Small Blind: Huroeveef, chips: 100
+Big Blind: Boefedak, chips: 200
+Folds: Huroeveef
+Pot size: 300
+Boasts: Boefedak, 5s 5d
+Wins: Boefedak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefedak
+Small Blind: Boefedak, chips: 100
+Big Blind: Huroeveef, chips: 200
+Folds: Boefedak
+Pot size: 300
+Wins: Huroeveef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroeveef
+Small Blind: Huroeveef, chips: 100
+Big Blind: Boefedak, chips: 200
+Folds: Huroeveef
+Pot size: 300
+Boasts: Boefedak, Th As
+Wins: Boefedak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefedak
+Small Blind: Boefedak, chips: 100
+Big Blind: Huroeveef, chips: 200
+Folds: Boefedak
+Pot size: 300
+Boasts: Boefedak, Js 4s
+Wins: Huroeveef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroeveef
+Small Blind: Huroeveef, chips: 100
+Big Blind: Boefedak, chips: 200
+Folds: Huroeveef
+Pot size: 300
+Wins: Boefedak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefedak
+Small Blind: Boefedak, chips: 100
+Big Blind: Huroeveef, chips: 200
+Folds: Boefedak
+Pot size: 300
+Boasts: Boefedak, 5d Tc
+Wins: Huroeveef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroeveef
+Small Blind: Huroeveef, chips: 100
+Big Blind: Boefedak, chips: 200
+Folds: Huroeveef
+Pot size: 300
+Wins: Boefedak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefedak
+Small Blind: Boefedak, chips: 100
+Big Blind: Huroeveef, chips: 200
+Folds: Boefedak
+Pot size: 300
+Boasts: Boefedak, 3s 6c
+Wins: Huroeveef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroeveef
+Small Blind: Huroeveef, chips: 100
+Big Blind: Boefedak, chips: 200
+Folds: Huroeveef
+Pot size: 300
+Wins: Boefedak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefedak
+Small Blind: Boefedak, chips: 100
+Big Blind: Huroeveef, chips: 200
+Raises: Boefedak, chips: 300
+Folds: Huroeveef
+Pot size: 700
+Wins: Boefedak, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroeveef
+Small Blind: Huroeveef, chips: 100
+Big Blind: Boefedak, chips: 200
+Folds: Huroeveef
+Pot size: 300
+Boasts: Boefedak, Jd 9h
+Wins: Boefedak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefedak
+Small Blind: Boefedak, chips: 100
+Big Blind: Huroeveef, chips: 200
+Raises: Boefedak, chips: 300
+Folds: Huroeveef
+Pot size: 700
+Boasts: Boefedak, Kc Qs
+Wins: Boefedak, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroeveef
+Small Blind: Huroeveef, chips: 100
+Big Blind: Boefedak, chips: 200
+Folds: Huroeveef
+Pot size: 300
+Wins: Boefedak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefedak
+Small Blind: Boefedak, chips: 100
+Big Blind: Huroeveef, chips: 200
+Calls: Boefedak
+DEBUG MESSAGE: INVALID ACTION FROM Huroeveef (2 0)
+Folds: Huroeveef
+Pot size: 400
+Boasts: Boefedak, Js 8c
+Wins: Boefedak, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroeveef
+Small Blind: Huroeveef, chips: 100
+Big Blind: Boefedak, chips: 200
+Flop: Ac 3h 7h
+Turn: Ks
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Boefedak, 2d Th
+Combination: Boefedak, Pair ( Th Td Ac Ks 7h )
+Shows: Huroeveef, 8d 3c
+Combination: Huroeveef, Pair ( 3c 3h Ac Ks Td )
+Wins: Boefedak, chips: 300
+Quits: Huroeveef, chips: 0
+Ranking: Boefedak, Place: 1, Score: 1000
+Reveal AI: Boefedak, AI: Random
+Ranking: Huroeveef, Place: 2, Score: -1000
+Reveal AI: Huroeveef, AI: AIMyBot1
+
+Player Stats for Boefedak, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Huroeveef, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:58
+
+The game begins. The AI's of the players are: 
+Boefedak: Random
+Huroeveef: AIMyBot1
+
+Joins: Boefedak, chips: 1000
+Joins: Huroeveef, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroeveef
+Small Blind: Huroeveef, chips: 100
+Big Blind: Boefedak, chips: 200
+Folds: Huroeveef
+Pot size: 300
+Boasts: Boefedak, 5s 5d
+Wins: Boefedak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefedak
+Small Blind: Boefedak, chips: 100
+Big Blind: Huroeveef, chips: 200
+Folds: Boefedak
+Pot size: 300
+Wins: Huroeveef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroeveef
+Small Blind: Huroeveef, chips: 100
+Big Blind: Boefedak, chips: 200
+Folds: Huroeveef
+Pot size: 300
+Boasts: Boefedak, Th As
+Wins: Boefedak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefedak
+Small Blind: Boefedak, chips: 100
+Big Blind: Huroeveef, chips: 200
+Folds: Boefedak
+Pot size: 300
+Boasts: Boefedak, Js 4s
+Wins: Huroeveef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroeveef
+Small Blind: Huroeveef, chips: 100
+Big Blind: Boefedak, chips: 200
+Folds: Huroeveef
+Pot size: 300
+Wins: Boefedak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefedak
+Small Blind: Boefedak, chips: 100
+Big Blind: Huroeveef, chips: 200
+Folds: Boefedak
+Pot size: 300
+Boasts: Boefedak, 5d Tc
+Wins: Huroeveef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroeveef
+Small Blind: Huroeveef, chips: 100
+Big Blind: Boefedak, chips: 200
+Folds: Huroeveef
+Pot size: 300
+Wins: Boefedak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefedak
+Small Blind: Boefedak, chips: 100
+Big Blind: Huroeveef, chips: 200
+Folds: Boefedak
+Pot size: 300
+Boasts: Boefedak, 3s 6c
+Wins: Huroeveef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroeveef
+Small Blind: Huroeveef, chips: 100
+Big Blind: Boefedak, chips: 200
+Folds: Huroeveef
+Pot size: 300
+Wins: Boefedak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefedak
+Small Blind: Boefedak, chips: 100
+Big Blind: Huroeveef, chips: 200
+Raises: Boefedak, chips: 300
+Folds: Huroeveef
+Pot size: 700
+Wins: Boefedak, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroeveef
+Small Blind: Huroeveef, chips: 100
+Big Blind: Boefedak, chips: 200
+Folds: Huroeveef
+Pot size: 300
+Boasts: Boefedak, Jd 9h
+Wins: Boefedak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefedak
+Small Blind: Boefedak, chips: 100
+Big Blind: Huroeveef, chips: 200
+Raises: Boefedak, chips: 300
+Folds: Huroeveef
+Pot size: 700
+Boasts: Boefedak, Kc Qs
+Wins: Boefedak, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroeveef
+Small Blind: Huroeveef, chips: 100
+Big Blind: Boefedak, chips: 200
+Folds: Huroeveef
+Pot size: 300
+Wins: Boefedak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefedak
+Small Blind: Boefedak, chips: 100
+Big Blind: Huroeveef, chips: 200
+Calls: Boefedak
+DEBUG MESSAGE: INVALID ACTION FROM Huroeveef (2 0)
+Folds: Huroeveef
+Pot size: 400
+Boasts: Boefedak, Js 8c
+Wins: Boefedak, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huroeveef
+Small Blind: Huroeveef, chips: 100
+Big Blind: Boefedak, chips: 200
+Flop: Ac 3h 7h
+Turn: Ks
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Boefedak, 2d Th
+Combination: Boefedak, Pair ( Th Td Ac Ks 7h )
+Shows: Huroeveef, 8d 3c
+Combination: Huroeveef, Pair ( 3c 3h Ac Ks Td )
+Wins: Boefedak, chips: 300
+Quits: Huroeveef, chips: 0
+Ranking: Boefedak, Place: 1, Score: 1000
+Reveal AI: Boefedak, AI: Random
+Ranking: Huroeveef, Place: 2, Score: -1000
+Reveal AI: Huroeveef, AI: AIMyBot1
+
+Player Stats for Boefedak, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Huroeveef, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

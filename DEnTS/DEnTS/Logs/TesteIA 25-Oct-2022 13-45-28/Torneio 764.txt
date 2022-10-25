@@ -1,0 +1,292 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Nasif: AIMyBot1
+Fiwroef: Random
+
+Joins: Nasif, chips: 1000
+Joins: Fiwroef, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nasif
+Small Blind: Nasif, chips: 100
+Big Blind: Fiwroef, chips: 200
+Folds: Nasif
+Pot size: 300
+Wins: Fiwroef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fiwroef
+Small Blind: Fiwroef, chips: 100
+Big Blind: Nasif, chips: 200
+Calls: Fiwroef
+DEBUG MESSAGE: INVALID ACTION FROM Nasif (2 0)
+Folds: Nasif
+Pot size: 400
+Wins: Fiwroef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nasif
+Small Blind: Nasif, chips: 100
+Big Blind: Fiwroef, chips: 200
+Folds: Nasif
+Pot size: 300
+Wins: Fiwroef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fiwroef
+Small Blind: Fiwroef, chips: 100
+Big Blind: Nasif, chips: 200
+Raises: Fiwroef, chips: 300
+Folds: Nasif
+Pot size: 700
+Wins: Fiwroef, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nasif
+Small Blind: Nasif, chips: 100
+Big Blind: Fiwroef, chips: 200
+Folds: Nasif
+Pot size: 300
+Wins: Fiwroef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fiwroef
+Small Blind: Fiwroef, chips: 100
+Big Blind: Nasif, chips: 200
+Raises: Fiwroef, chips: 300
+Folds: Nasif
+Pot size: 700
+Boasts: Fiwroef, Td Kc
+Wins: Fiwroef, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nasif
+Small Blind: Nasif, chips: 100
+Big Blind: Fiwroef, chips: 200
+Flop: 5s 8h 2d
+Turn: 4c
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Nasif, 7s 7d
+Combination: Nasif, Pair ( 7s 7d Qs 8h 5s )
+Shows: Fiwroef, Js Ac
+Combination: Fiwroef, High Card ( Ac Qs Js 8h 5s )
+Wins: Nasif, chips: 200
+Wins: Fiwroef, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fiwroef
+Small Blind: Fiwroef, chips: 100
+Big Blind: Nasif, chips: 200
+Flop: Jh 6d 7s
+Turn: Tc
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Nasif, Kc Kh
+Combination: Nasif, Pair ( Kc Kh Qc Jh Tc )
+Shows: Fiwroef, 2h 8c
+Combination: Fiwroef, High Card ( Qc Jh Tc 8c 7s )
+Wins: Nasif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nasif
+Small Blind: Nasif, chips: 100
+Big Blind: Fiwroef, chips: 200
+Folds: Nasif
+Pot size: 300
+Boasts: Fiwroef, Js Kc
+Wins: Fiwroef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fiwroef
+Small Blind: Fiwroef, chips: 100
+Big Blind: Nasif, chips: 200
+Flop: 4d Kc 6h
+Turn: 2d
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Nasif, 8s 2c
+Combination: Nasif, Pair ( 2c 2d Kc 8s 6h )
+Shows: Fiwroef, 9d 7d
+Combination: Fiwroef, Flush ( 9d 7d 5d 4d 2d )
+Wins: Nasif, chips: 100
+Wins: Fiwroef, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nasif
+Small Blind: Nasif, chips: 100
+Big Blind: Fiwroef, chips: 200
+Flop: Ts Qc 8d
+Turn: Jd
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Nasif, Qs Jc
+Combination: Nasif, Two Pair ( Qs Qc Jc Jd Ts )
+Shows: Fiwroef, Ac 9s
+Combination: Fiwroef, Straight ( Qc Jd Ts 9s 8d )
+Wins: Fiwroef, chips: 300
+Quits: Nasif, chips: 0
+Ranking: Fiwroef, Place: 1, Score: 1000
+Reveal AI: Fiwroef, AI: Random
+Ranking: Nasif, Place: 2, Score: -1000
+Reveal AI: Nasif, AI: AIMyBot1
+
+Player Stats for Fiwroef, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Nasif, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:20
+
+The game begins. The AI's of the players are: 
+Nasif: AIMyBot1
+Fiwroef: Random
+
+Joins: Nasif, chips: 1000
+Joins: Fiwroef, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nasif
+Small Blind: Nasif, chips: 100
+Big Blind: Fiwroef, chips: 200
+Folds: Nasif
+Pot size: 300
+Wins: Fiwroef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fiwroef
+Small Blind: Fiwroef, chips: 100
+Big Blind: Nasif, chips: 200
+Calls: Fiwroef
+DEBUG MESSAGE: INVALID ACTION FROM Nasif (2 0)
+Folds: Nasif
+Pot size: 400
+Wins: Fiwroef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nasif
+Small Blind: Nasif, chips: 100
+Big Blind: Fiwroef, chips: 200
+Folds: Nasif
+Pot size: 300
+Wins: Fiwroef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fiwroef
+Small Blind: Fiwroef, chips: 100
+Big Blind: Nasif, chips: 200
+Raises: Fiwroef, chips: 300
+Folds: Nasif
+Pot size: 700
+Wins: Fiwroef, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nasif
+Small Blind: Nasif, chips: 100
+Big Blind: Fiwroef, chips: 200
+Folds: Nasif
+Pot size: 300
+Wins: Fiwroef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fiwroef
+Small Blind: Fiwroef, chips: 100
+Big Blind: Nasif, chips: 200
+Raises: Fiwroef, chips: 300
+Folds: Nasif
+Pot size: 700
+Boasts: Fiwroef, Td Kc
+Wins: Fiwroef, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nasif
+Small Blind: Nasif, chips: 100
+Big Blind: Fiwroef, chips: 200
+Flop: 5s 8h 2d
+Turn: 4c
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Nasif, 7s 7d
+Combination: Nasif, Pair ( 7s 7d Qs 8h 5s )
+Shows: Fiwroef, Js Ac
+Combination: Fiwroef, High Card ( Ac Qs Js 8h 5s )
+Wins: Nasif, chips: 200
+Wins: Fiwroef, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fiwroef
+Small Blind: Fiwroef, chips: 100
+Big Blind: Nasif, chips: 200
+Flop: Jh 6d 7s
+Turn: Tc
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Nasif, Kc Kh
+Combination: Nasif, Pair ( Kc Kh Qc Jh Tc )
+Shows: Fiwroef, 2h 8c
+Combination: Fiwroef, High Card ( Qc Jh Tc 8c 7s )
+Wins: Nasif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nasif
+Small Blind: Nasif, chips: 100
+Big Blind: Fiwroef, chips: 200
+Folds: Nasif
+Pot size: 300
+Boasts: Fiwroef, Js Kc
+Wins: Fiwroef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fiwroef
+Small Blind: Fiwroef, chips: 100
+Big Blind: Nasif, chips: 200
+Flop: 4d Kc 6h
+Turn: 2d
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Nasif, 8s 2c
+Combination: Nasif, Pair ( 2c 2d Kc 8s 6h )
+Shows: Fiwroef, 9d 7d
+Combination: Fiwroef, Flush ( 9d 7d 5d 4d 2d )
+Wins: Nasif, chips: 100
+Wins: Fiwroef, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nasif
+Small Blind: Nasif, chips: 100
+Big Blind: Fiwroef, chips: 200
+Flop: Ts Qc 8d
+Turn: Jd
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Nasif, Qs Jc
+Combination: Nasif, Two Pair ( Qs Qc Jc Jd Ts )
+Shows: Fiwroef, Ac 9s
+Combination: Fiwroef, Straight ( Qc Jd Ts 9s 8d )
+Wins: Fiwroef, chips: 300
+Quits: Nasif, chips: 0
+Ranking: Fiwroef, Place: 1, Score: 1000
+Reveal AI: Fiwroef, AI: Random
+Ranking: Nasif, Place: 2, Score: -1000
+Reveal AI: Nasif, AI: AIMyBot1
+
+Player Stats for Fiwroef, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Nasif, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

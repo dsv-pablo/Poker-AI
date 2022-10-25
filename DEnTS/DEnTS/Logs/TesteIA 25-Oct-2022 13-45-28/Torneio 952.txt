@@ -1,0 +1,194 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Funhetry: Random
+Pohu: AIMyBot1
+
+Joins: Funhetry, chips: 1000
+Joins: Pohu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pohu
+Small Blind: Pohu, chips: 100
+Big Blind: Funhetry, chips: 200
+Folds: Pohu
+Pot size: 300
+Wins: Funhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Funhetry
+Small Blind: Funhetry, chips: 100
+Big Blind: Pohu, chips: 200
+Calls: Funhetry
+DEBUG MESSAGE: INVALID ACTION FROM Pohu (2 0)
+Folds: Pohu
+Pot size: 400
+Wins: Funhetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pohu
+Small Blind: Pohu, chips: 100
+Big Blind: Funhetry, chips: 200
+Folds: Pohu
+Pot size: 300
+Wins: Funhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Funhetry
+Small Blind: Funhetry, chips: 100
+Big Blind: Pohu, chips: 200
+Raises: Funhetry, chips: 300
+Folds: Pohu
+Pot size: 700
+Boasts: Funhetry, Jd 3s
+Wins: Funhetry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pohu
+Small Blind: Pohu, chips: 100
+Big Blind: Funhetry, chips: 200
+Folds: Pohu
+Pot size: 300
+Boasts: Funhetry, 8d Ah
+Wins: Funhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Funhetry
+Small Blind: Funhetry, chips: 100
+Big Blind: Pohu, chips: 200
+Calls: Funhetry
+DEBUG MESSAGE: INVALID ACTION FROM Pohu (2 0)
+Folds: Pohu
+Pot size: 400
+Boasts: Funhetry, 7h 7c
+Wins: Funhetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pohu
+Small Blind: Pohu, chips: 100
+Big Blind: Funhetry, chips: 200
+Flop: 9s Ks 8s
+Turn: Ac
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Funhetry, Qs Kh
+Combination: Funhetry, Two Pair ( Ac Ad Kh Ks Qs )
+Shows: Pohu, Qc 4s
+Combination: Pohu, Pair ( Ac Ad Ks Qc 9s )
+Wins: Funhetry, chips: 300
+Quits: Pohu, chips: 0
+Ranking: Funhetry, Place: 1, Score: 1000
+Reveal AI: Funhetry, AI: Random
+Ranking: Pohu, Place: 2, Score: -1000
+Reveal AI: Pohu, AI: AIMyBot1
+
+Player Stats for Funhetry, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Pohu, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:32
+
+The game begins. The AI's of the players are: 
+Funhetry: Random
+Pohu: AIMyBot1
+
+Joins: Funhetry, chips: 1000
+Joins: Pohu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pohu
+Small Blind: Pohu, chips: 100
+Big Blind: Funhetry, chips: 200
+Folds: Pohu
+Pot size: 300
+Wins: Funhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Funhetry
+Small Blind: Funhetry, chips: 100
+Big Blind: Pohu, chips: 200
+Calls: Funhetry
+DEBUG MESSAGE: INVALID ACTION FROM Pohu (2 0)
+Folds: Pohu
+Pot size: 400
+Wins: Funhetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pohu
+Small Blind: Pohu, chips: 100
+Big Blind: Funhetry, chips: 200
+Folds: Pohu
+Pot size: 300
+Wins: Funhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Funhetry
+Small Blind: Funhetry, chips: 100
+Big Blind: Pohu, chips: 200
+Raises: Funhetry, chips: 300
+Folds: Pohu
+Pot size: 700
+Boasts: Funhetry, Jd 3s
+Wins: Funhetry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pohu
+Small Blind: Pohu, chips: 100
+Big Blind: Funhetry, chips: 200
+Folds: Pohu
+Pot size: 300
+Boasts: Funhetry, 8d Ah
+Wins: Funhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Funhetry
+Small Blind: Funhetry, chips: 100
+Big Blind: Pohu, chips: 200
+Calls: Funhetry
+DEBUG MESSAGE: INVALID ACTION FROM Pohu (2 0)
+Folds: Pohu
+Pot size: 400
+Boasts: Funhetry, 7h 7c
+Wins: Funhetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pohu
+Small Blind: Pohu, chips: 100
+Big Blind: Funhetry, chips: 200
+Flop: 9s Ks 8s
+Turn: Ac
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Funhetry, Qs Kh
+Combination: Funhetry, Two Pair ( Ac Ad Kh Ks Qs )
+Shows: Pohu, Qc 4s
+Combination: Pohu, Pair ( Ac Ad Ks Qc 9s )
+Wins: Funhetry, chips: 300
+Quits: Pohu, chips: 0
+Ranking: Funhetry, Place: 1, Score: 1000
+Reveal AI: Funhetry, AI: Random
+Ranking: Pohu, Place: 2, Score: -1000
+Reveal AI: Pohu, AI: AIMyBot1
+
+Player Stats for Funhetry, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Pohu, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

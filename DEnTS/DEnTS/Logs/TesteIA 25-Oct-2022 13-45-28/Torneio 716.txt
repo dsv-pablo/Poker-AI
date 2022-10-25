@@ -1,0 +1,240 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Feewruwre: Random
+Vettowref: AIMyBot1
+
+Joins: Feewruwre, chips: 1000
+Joins: Vettowref, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feewruwre
+Small Blind: Feewruwre, chips: 100
+Big Blind: Vettowref, chips: 200
+Raises: Feewruwre, chips: 300
+Folds: Vettowref
+Pot size: 700
+Boasts: Feewruwre, Tc Jc
+Wins: Feewruwre, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vettowref
+Small Blind: Vettowref, chips: 100
+Big Blind: Feewruwre, chips: 200
+Folds: Vettowref
+Pot size: 300
+Boasts: Feewruwre, 8h 3s
+Wins: Feewruwre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feewruwre
+Small Blind: Feewruwre, chips: 100
+Big Blind: Vettowref, chips: 200
+Calls: Feewruwre
+DEBUG MESSAGE: INVALID ACTION FROM Vettowref (2 0)
+Folds: Vettowref
+Pot size: 400
+Wins: Feewruwre, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vettowref
+Small Blind: Vettowref, chips: 100
+Big Blind: Feewruwre, chips: 200
+Folds: Vettowref
+Pot size: 300
+Boasts: Feewruwre, 7h Jc
+Wins: Feewruwre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feewruwre
+Small Blind: Feewruwre, chips: 100
+Big Blind: Vettowref, chips: 200
+Calls: Feewruwre
+DEBUG MESSAGE: INVALID ACTION FROM Vettowref (2 0)
+Folds: Vettowref
+Pot size: 400
+Boasts: Feewruwre, 3d 7h
+Wins: Feewruwre, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vettowref
+Small Blind: Vettowref, chips: 100
+Big Blind: Feewruwre, chips: 200
+Folds: Vettowref
+Pot size: 300
+Wins: Feewruwre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feewruwre
+Small Blind: Feewruwre, chips: 100
+Big Blind: Vettowref, chips: 100
+Flop: Th 6d Tc
+Turn: Kc
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Feewruwre, 6h 9c
+Combination: Feewruwre, Two Pair ( Th Tc 6h 6d Kc )
+Shows: Vettowref, Jd Qh
+Combination: Vettowref, Two Pair ( Jd Jc Th Tc Kc )
+Wins: Vettowref, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vettowref
+Small Blind: Vettowref, chips: 100
+Big Blind: Feewruwre, chips: 200
+Folds: Vettowref
+Pot size: 300
+Boasts: Feewruwre, Qd Td
+Wins: Feewruwre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feewruwre
+Small Blind: Feewruwre, chips: 100
+Big Blind: Vettowref, chips: 100
+Flop: Ad Th 2s
+Turn: 4h
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Feewruwre, Kc 5h
+Combination: Feewruwre, Straight ( 5h 4h 3c 2s Ad )
+Shows: Vettowref, Jc 2d
+Combination: Vettowref, Pair ( 2d 2s Ad Jc Th )
+Wins: Feewruwre, chips: 200
+Quits: Vettowref, chips: 0
+Ranking: Feewruwre, Place: 1, Score: 1000
+Reveal AI: Feewruwre, AI: Random
+Ranking: Vettowref, Place: 2, Score: -1000
+Reveal AI: Vettowref, AI: AIMyBot1
+
+Player Stats for Feewruwre, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Vettowref, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:17
+
+The game begins. The AI's of the players are: 
+Feewruwre: Random
+Vettowref: AIMyBot1
+
+Joins: Feewruwre, chips: 1000
+Joins: Vettowref, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feewruwre
+Small Blind: Feewruwre, chips: 100
+Big Blind: Vettowref, chips: 200
+Raises: Feewruwre, chips: 300
+Folds: Vettowref
+Pot size: 700
+Boasts: Feewruwre, Tc Jc
+Wins: Feewruwre, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vettowref
+Small Blind: Vettowref, chips: 100
+Big Blind: Feewruwre, chips: 200
+Folds: Vettowref
+Pot size: 300
+Boasts: Feewruwre, 8h 3s
+Wins: Feewruwre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feewruwre
+Small Blind: Feewruwre, chips: 100
+Big Blind: Vettowref, chips: 200
+Calls: Feewruwre
+DEBUG MESSAGE: INVALID ACTION FROM Vettowref (2 0)
+Folds: Vettowref
+Pot size: 400
+Wins: Feewruwre, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vettowref
+Small Blind: Vettowref, chips: 100
+Big Blind: Feewruwre, chips: 200
+Folds: Vettowref
+Pot size: 300
+Boasts: Feewruwre, 7h Jc
+Wins: Feewruwre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feewruwre
+Small Blind: Feewruwre, chips: 100
+Big Blind: Vettowref, chips: 200
+Calls: Feewruwre
+DEBUG MESSAGE: INVALID ACTION FROM Vettowref (2 0)
+Folds: Vettowref
+Pot size: 400
+Boasts: Feewruwre, 3d 7h
+Wins: Feewruwre, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vettowref
+Small Blind: Vettowref, chips: 100
+Big Blind: Feewruwre, chips: 200
+Folds: Vettowref
+Pot size: 300
+Wins: Feewruwre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feewruwre
+Small Blind: Feewruwre, chips: 100
+Big Blind: Vettowref, chips: 100
+Flop: Th 6d Tc
+Turn: Kc
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Feewruwre, 6h 9c
+Combination: Feewruwre, Two Pair ( Th Tc 6h 6d Kc )
+Shows: Vettowref, Jd Qh
+Combination: Vettowref, Two Pair ( Jd Jc Th Tc Kc )
+Wins: Vettowref, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vettowref
+Small Blind: Vettowref, chips: 100
+Big Blind: Feewruwre, chips: 200
+Folds: Vettowref
+Pot size: 300
+Boasts: Feewruwre, Qd Td
+Wins: Feewruwre, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feewruwre
+Small Blind: Feewruwre, chips: 100
+Big Blind: Vettowref, chips: 100
+Flop: Ad Th 2s
+Turn: 4h
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Feewruwre, Kc 5h
+Combination: Feewruwre, Straight ( 5h 4h 3c 2s Ad )
+Shows: Vettowref, Jc 2d
+Combination: Vettowref, Pair ( 2d 2s Ad Jc Th )
+Wins: Feewruwre, chips: 200
+Quits: Vettowref, chips: 0
+Ranking: Feewruwre, Place: 1, Score: 1000
+Reveal AI: Feewruwre, AI: Random
+Ranking: Vettowref, Place: 2, Score: -1000
+Reveal AI: Vettowref, AI: AIMyBot1
+
+Player Stats for Feewruwre, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Vettowref, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

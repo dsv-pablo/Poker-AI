@@ -1,0 +1,284 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jidi: Random
+Pettul: AIMyBot1
+
+Joins: Jidi, chips: 1000
+Joins: Pettul, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pettul
+Small Blind: Pettul, chips: 100
+Big Blind: Jidi, chips: 200
+Folds: Pettul
+Pot size: 300
+Boasts: Jidi, Qh 8h
+Wins: Jidi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jidi
+Small Blind: Jidi, chips: 100
+Big Blind: Pettul, chips: 200
+Folds: Jidi
+Pot size: 300
+Boasts: Jidi, 8s 3s
+Wins: Pettul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pettul
+Small Blind: Pettul, chips: 100
+Big Blind: Jidi, chips: 200
+Folds: Pettul
+Pot size: 300
+Boasts: Jidi, 7h Kd
+Wins: Jidi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jidi
+Small Blind: Jidi, chips: 100
+Big Blind: Pettul, chips: 200
+Raises: Jidi, chips: 300
+Folds: Pettul
+Pot size: 700
+Wins: Jidi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pettul
+Small Blind: Pettul, chips: 100
+Big Blind: Jidi, chips: 200
+Folds: Pettul
+Pot size: 300
+Boasts: Jidi, 9h 3s
+Wins: Jidi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jidi
+Small Blind: Jidi, chips: 100
+Big Blind: Pettul, chips: 200
+Raises: Jidi, chips: 300
+Folds: Pettul
+Pot size: 700
+Wins: Jidi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pettul
+Small Blind: Pettul, chips: 100
+Big Blind: Jidi, chips: 200
+Folds: Pettul
+Pot size: 300
+Boasts: Jidi, 8c 4c
+Wins: Jidi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jidi
+Small Blind: Jidi, chips: 100
+Big Blind: Pettul, chips: 200
+Calls: Jidi
+DEBUG MESSAGE: INVALID ACTION FROM Pettul (2 0)
+Folds: Pettul
+Pot size: 400
+Wins: Jidi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pettul
+Small Blind: Pettul, chips: 100
+Big Blind: Jidi, chips: 200
+Flop: 4c 6d 9h
+Turn: 2d
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Jidi, Td Ks
+Combination: Jidi, High Card ( Ks Td 9h 6d 5d )
+Shows: Pettul, 5c Ac
+Combination: Pettul, Pair ( 5c 5d Ac 9h 6d )
+Wins: Jidi, chips: 100
+Wins: Pettul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jidi
+Small Blind: Jidi, chips: 100
+Big Blind: Pettul, chips: 200
+Flop: 7h 4c 8c
+Turn: 9s
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Jidi, Qc Ac
+Combination: Jidi, Pair ( Qc Qs Ac 9s 8c )
+Shows: Pettul, 8d 6s
+Combination: Pettul, Pair ( 8d 8c Qs 9s 7h )
+Wins: Jidi, chips: 200
+Wins: Pettul, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pettul
+Small Blind: Pettul, chips: 100
+Big Blind: Jidi, chips: 200
+Flop: Ac 8d Qs
+Turn: 7c
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Jidi, 9s 9d
+Combination: Jidi, Two Pair ( Qs Qc 9s 9d Ac )
+Shows: Pettul, 3s 2c
+Combination: Pettul, Pair ( Qs Qc Ac 8d 7c )
+Wins: Jidi, chips: 300
+Quits: Pettul, chips: 0
+Ranking: Jidi, Place: 1, Score: 1000
+Reveal AI: Jidi, AI: Random
+Ranking: Pettul, Place: 2, Score: -1000
+Reveal AI: Pettul, AI: AIMyBot1
+
+Player Stats for Jidi, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Pettul, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:15
+
+The game begins. The AI's of the players are: 
+Jidi: Random
+Pettul: AIMyBot1
+
+Joins: Jidi, chips: 1000
+Joins: Pettul, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pettul
+Small Blind: Pettul, chips: 100
+Big Blind: Jidi, chips: 200
+Folds: Pettul
+Pot size: 300
+Boasts: Jidi, Qh 8h
+Wins: Jidi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jidi
+Small Blind: Jidi, chips: 100
+Big Blind: Pettul, chips: 200
+Folds: Jidi
+Pot size: 300
+Boasts: Jidi, 8s 3s
+Wins: Pettul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pettul
+Small Blind: Pettul, chips: 100
+Big Blind: Jidi, chips: 200
+Folds: Pettul
+Pot size: 300
+Boasts: Jidi, 7h Kd
+Wins: Jidi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jidi
+Small Blind: Jidi, chips: 100
+Big Blind: Pettul, chips: 200
+Raises: Jidi, chips: 300
+Folds: Pettul
+Pot size: 700
+Wins: Jidi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pettul
+Small Blind: Pettul, chips: 100
+Big Blind: Jidi, chips: 200
+Folds: Pettul
+Pot size: 300
+Boasts: Jidi, 9h 3s
+Wins: Jidi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jidi
+Small Blind: Jidi, chips: 100
+Big Blind: Pettul, chips: 200
+Raises: Jidi, chips: 300
+Folds: Pettul
+Pot size: 700
+Wins: Jidi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pettul
+Small Blind: Pettul, chips: 100
+Big Blind: Jidi, chips: 200
+Folds: Pettul
+Pot size: 300
+Boasts: Jidi, 8c 4c
+Wins: Jidi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jidi
+Small Blind: Jidi, chips: 100
+Big Blind: Pettul, chips: 200
+Calls: Jidi
+DEBUG MESSAGE: INVALID ACTION FROM Pettul (2 0)
+Folds: Pettul
+Pot size: 400
+Wins: Jidi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pettul
+Small Blind: Pettul, chips: 100
+Big Blind: Jidi, chips: 200
+Flop: 4c 6d 9h
+Turn: 2d
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Jidi, Td Ks
+Combination: Jidi, High Card ( Ks Td 9h 6d 5d )
+Shows: Pettul, 5c Ac
+Combination: Pettul, Pair ( 5c 5d Ac 9h 6d )
+Wins: Jidi, chips: 100
+Wins: Pettul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jidi
+Small Blind: Jidi, chips: 100
+Big Blind: Pettul, chips: 200
+Flop: 7h 4c 8c
+Turn: 9s
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Jidi, Qc Ac
+Combination: Jidi, Pair ( Qc Qs Ac 9s 8c )
+Shows: Pettul, 8d 6s
+Combination: Pettul, Pair ( 8d 8c Qs 9s 7h )
+Wins: Jidi, chips: 200
+Wins: Pettul, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pettul
+Small Blind: Pettul, chips: 100
+Big Blind: Jidi, chips: 200
+Flop: Ac 8d Qs
+Turn: 7c
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Jidi, 9s 9d
+Combination: Jidi, Two Pair ( Qs Qc 9s 9d Ac )
+Shows: Pettul, 3s 2c
+Combination: Pettul, Pair ( Qs Qc Ac 8d 7c )
+Wins: Jidi, chips: 300
+Quits: Pettul, chips: 0
+Ranking: Jidi, Place: 1, Score: 1000
+Reveal AI: Jidi, AI: Random
+Ranking: Pettul, Place: 2, Score: -1000
+Reveal AI: Pettul, AI: AIMyBot1
+
+Player Stats for Jidi, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Pettul, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

@@ -1,0 +1,252 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Geloe: Random
+Fee: AIMyBot1
+
+Joins: Geloe, chips: 1000
+Joins: Fee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Geloe, chips: 200
+Folds: Fee
+Pot size: 300
+Boasts: Geloe, 6s 3h
+Wins: Geloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geloe
+Small Blind: Geloe, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Geloe
+Pot size: 300
+Boasts: Geloe, 2s 4h
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Geloe, chips: 200
+Folds: Fee
+Pot size: 300
+Wins: Geloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geloe
+Small Blind: Geloe, chips: 100
+Big Blind: Fee, chips: 200
+Raises: Geloe, chips: 300
+Folds: Fee
+Pot size: 700
+Wins: Geloe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Geloe, chips: 200
+Folds: Fee
+Pot size: 300
+Wins: Geloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geloe
+Small Blind: Geloe, chips: 100
+Big Blind: Fee, chips: 200
+Calls: Geloe
+DEBUG MESSAGE: INVALID ACTION FROM Fee (2 0)
+Folds: Fee
+Pot size: 400
+Boasts: Geloe, 2h 4d
+Wins: Geloe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Geloe, chips: 200
+Folds: Fee
+Pot size: 300
+Wins: Geloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geloe
+Small Blind: Geloe, chips: 100
+Big Blind: Fee, chips: 200
+Calls: Geloe
+DEBUG MESSAGE: INVALID ACTION FROM Fee (2 0)
+Folds: Fee
+Pot size: 400
+Wins: Geloe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Geloe, chips: 200
+Flop: 5s 5d Th
+Turn: 9c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Geloe, 2d 3d
+Combination: Geloe, Pair ( 5s 5d Th 9c 8d )
+Shows: Fee, 4c 6s
+Combination: Fee, Pair ( 5s 5d Th 9c 8d )
+Wins: Geloe, chips: 200
+Wins: Fee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geloe
+Small Blind: Geloe, chips: 100
+Big Blind: Fee, chips: 100
+Flop: 3d Jc 3s
+Turn: 2h
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Geloe, Qd Td
+Combination: Geloe, Pair ( 3d 3s Qd Jc Td )
+Shows: Fee, 4d Qh
+Combination: Fee, Pair ( 3d 3s Qh Jc 7h )
+Wins: Geloe, chips: 200
+Quits: Fee, chips: 0
+Ranking: Geloe, Place: 1, Score: 1000
+Reveal AI: Geloe, AI: Random
+Ranking: Fee, Place: 2, Score: -1000
+Reveal AI: Fee, AI: AIMyBot1
+
+Player Stats for Fee, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Geloe, AI: Random
+General: deals: 10, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 2, bluff: 7
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.1, 3Bet: 0.1
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:14
+
+The game begins. The AI's of the players are: 
+Geloe: Random
+Fee: AIMyBot1
+
+Joins: Geloe, chips: 1000
+Joins: Fee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Geloe, chips: 200
+Folds: Fee
+Pot size: 300
+Boasts: Geloe, 6s 3h
+Wins: Geloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geloe
+Small Blind: Geloe, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Geloe
+Pot size: 300
+Boasts: Geloe, 2s 4h
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Geloe, chips: 200
+Folds: Fee
+Pot size: 300
+Wins: Geloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geloe
+Small Blind: Geloe, chips: 100
+Big Blind: Fee, chips: 200
+Raises: Geloe, chips: 300
+Folds: Fee
+Pot size: 700
+Wins: Geloe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Geloe, chips: 200
+Folds: Fee
+Pot size: 300
+Wins: Geloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geloe
+Small Blind: Geloe, chips: 100
+Big Blind: Fee, chips: 200
+Calls: Geloe
+DEBUG MESSAGE: INVALID ACTION FROM Fee (2 0)
+Folds: Fee
+Pot size: 400
+Boasts: Geloe, 2h 4d
+Wins: Geloe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Geloe, chips: 200
+Folds: Fee
+Pot size: 300
+Wins: Geloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geloe
+Small Blind: Geloe, chips: 100
+Big Blind: Fee, chips: 200
+Calls: Geloe
+DEBUG MESSAGE: INVALID ACTION FROM Fee (2 0)
+Folds: Fee
+Pot size: 400
+Wins: Geloe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Geloe, chips: 200
+Flop: 5s 5d Th
+Turn: 9c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Geloe, 2d 3d
+Combination: Geloe, Pair ( 5s 5d Th 9c 8d )
+Shows: Fee, 4c 6s
+Combination: Fee, Pair ( 5s 5d Th 9c 8d )
+Wins: Geloe, chips: 200
+Wins: Fee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geloe
+Small Blind: Geloe, chips: 100
+Big Blind: Fee, chips: 100
+Flop: 3d Jc 3s
+Turn: 2h
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Geloe, Qd Td
+Combination: Geloe, Pair ( 3d 3s Qd Jc Td )
+Shows: Fee, 4d Qh
+Combination: Fee, Pair ( 3d 3s Qh Jc 7h )
+Wins: Geloe, chips: 200
+Quits: Fee, chips: 0
+Ranking: Geloe, Place: 1, Score: 1000
+Reveal AI: Geloe, AI: Random
+Ranking: Fee, Place: 2, Score: -1000
+Reveal AI: Fee, AI: AIMyBot1
+
+Player Stats for Fee, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Geloe, AI: Random
+General: deals: 10, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 2, bluff: 7
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.1, 3Bet: 0.1
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

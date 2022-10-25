@@ -1,0 +1,314 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Bee: Random
+Fusa: AIMyBot1
+
+Joins: Bee, chips: 1000
+Joins: Fusa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bee
+Small Blind: Bee, chips: 100
+Big Blind: Fusa, chips: 200
+Calls: Bee
+DEBUG MESSAGE: INVALID ACTION FROM Fusa (2 0)
+Folds: Fusa
+Pot size: 400
+Wins: Bee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fusa
+Small Blind: Fusa, chips: 100
+Big Blind: Bee, chips: 200
+Folds: Fusa
+Pot size: 300
+Boasts: Bee, 9c Kc
+Wins: Bee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bee
+Small Blind: Bee, chips: 100
+Big Blind: Fusa, chips: 200
+Calls: Bee
+DEBUG MESSAGE: INVALID ACTION FROM Fusa (2 0)
+Folds: Fusa
+Pot size: 400
+Boasts: Bee, 6d Qd
+Wins: Bee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fusa
+Small Blind: Fusa, chips: 100
+Big Blind: Bee, chips: 200
+Folds: Fusa
+Pot size: 300
+Boasts: Bee, 2d 2c
+Wins: Bee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bee
+Small Blind: Bee, chips: 100
+Big Blind: Fusa, chips: 200
+Calls: Bee
+DEBUG MESSAGE: INVALID ACTION FROM Fusa (2 0)
+Folds: Fusa
+Pot size: 400
+Boasts: Bee, Qc Qh
+Wins: Bee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fusa
+Small Blind: Fusa, chips: 100
+Big Blind: Bee, chips: 200
+Folds: Fusa
+Pot size: 300
+Boasts: Bee, Jd 6h
+Wins: Bee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bee
+Small Blind: Bee, chips: 100
+Big Blind: Fusa, chips: 100
+Flop: 5s 4c Jd
+Turn: Ac
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Bee, 9h Ts
+Combination: Bee, High Card ( Ac Kc Jd Ts 9h )
+Shows: Fusa, 9s Qc
+Combination: Fusa, High Card ( Ac Kc Qc Jd 9s )
+Wins: Fusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fusa
+Small Blind: Fusa, chips: 100
+Big Blind: Bee, chips: 200
+Folds: Fusa
+Pot size: 300
+Wins: Bee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bee
+Small Blind: Bee, chips: 100
+Big Blind: Fusa, chips: 100
+Flop: Ah Ks Td
+Turn: 2h
+River: Qh
+Pot size: 200
+Showdown Reached
+Shows: Bee, 3d 2c
+Combination: Bee, Pair ( 2c 2h Ah Ks Qh )
+Shows: Fusa, 4d Js
+Combination: Fusa, Straight ( Ah Ks Qh Js Td )
+Wins: Fusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fusa
+Small Blind: Fusa, chips: 100
+Big Blind: Bee, chips: 200
+Folds: Fusa
+Pot size: 300
+Wins: Bee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bee
+Small Blind: Bee, chips: 100
+Big Blind: Fusa, chips: 100
+Flop: Qs 7d 7s
+Turn: 5d
+River: Kd
+Pot size: 200
+Showdown Reached
+Shows: Bee, Qh Th
+Combination: Bee, Two Pair ( Qh Qs 7d 7s Kd )
+Shows: Fusa, Qd 9s
+Combination: Fusa, Two Pair ( Qd Qs 7d 7s Kd )
+Wins: Bee, chips: 100
+Wins: Fusa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fusa
+Small Blind: Fusa, chips: 100
+Big Blind: Bee, chips: 200
+Flop: Tc 2c Th
+Turn: 3c
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Bee, Td 7c
+Combination: Bee, Full House ( Td Tc Th 2c 2s )
+Shows: Fusa, Kh 8h
+Combination: Fusa, Two Pair ( Tc Th 2c 2s Kh )
+Wins: Bee, chips: 300
+Quits: Fusa, chips: 0
+Ranking: Bee, Place: 1, Score: 1000
+Reveal AI: Bee, AI: Random
+Ranking: Fusa, Place: 2, Score: -1000
+Reveal AI: Fusa, AI: AIMyBot1
+
+Player Stats for Bee, AI: Random
+General: deals: 12, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 2, bluff: 8
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Fusa, AI: AIMyBot1
+General: deals: 12, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:45:42
+
+The game begins. The AI's of the players are: 
+Bee: Random
+Fusa: AIMyBot1
+
+Joins: Bee, chips: 1000
+Joins: Fusa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bee
+Small Blind: Bee, chips: 100
+Big Blind: Fusa, chips: 200
+Calls: Bee
+DEBUG MESSAGE: INVALID ACTION FROM Fusa (2 0)
+Folds: Fusa
+Pot size: 400
+Wins: Bee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fusa
+Small Blind: Fusa, chips: 100
+Big Blind: Bee, chips: 200
+Folds: Fusa
+Pot size: 300
+Boasts: Bee, 9c Kc
+Wins: Bee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bee
+Small Blind: Bee, chips: 100
+Big Blind: Fusa, chips: 200
+Calls: Bee
+DEBUG MESSAGE: INVALID ACTION FROM Fusa (2 0)
+Folds: Fusa
+Pot size: 400
+Boasts: Bee, 6d Qd
+Wins: Bee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fusa
+Small Blind: Fusa, chips: 100
+Big Blind: Bee, chips: 200
+Folds: Fusa
+Pot size: 300
+Boasts: Bee, 2d 2c
+Wins: Bee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bee
+Small Blind: Bee, chips: 100
+Big Blind: Fusa, chips: 200
+Calls: Bee
+DEBUG MESSAGE: INVALID ACTION FROM Fusa (2 0)
+Folds: Fusa
+Pot size: 400
+Boasts: Bee, Qc Qh
+Wins: Bee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fusa
+Small Blind: Fusa, chips: 100
+Big Blind: Bee, chips: 200
+Folds: Fusa
+Pot size: 300
+Boasts: Bee, Jd 6h
+Wins: Bee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bee
+Small Blind: Bee, chips: 100
+Big Blind: Fusa, chips: 100
+Flop: 5s 4c Jd
+Turn: Ac
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Bee, 9h Ts
+Combination: Bee, High Card ( Ac Kc Jd Ts 9h )
+Shows: Fusa, 9s Qc
+Combination: Fusa, High Card ( Ac Kc Qc Jd 9s )
+Wins: Fusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fusa
+Small Blind: Fusa, chips: 100
+Big Blind: Bee, chips: 200
+Folds: Fusa
+Pot size: 300
+Wins: Bee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bee
+Small Blind: Bee, chips: 100
+Big Blind: Fusa, chips: 100
+Flop: Ah Ks Td
+Turn: 2h
+River: Qh
+Pot size: 200
+Showdown Reached
+Shows: Bee, 3d 2c
+Combination: Bee, Pair ( 2c 2h Ah Ks Qh )
+Shows: Fusa, 4d Js
+Combination: Fusa, Straight ( Ah Ks Qh Js Td )
+Wins: Fusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fusa
+Small Blind: Fusa, chips: 100
+Big Blind: Bee, chips: 200
+Folds: Fusa
+Pot size: 300
+Wins: Bee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bee
+Small Blind: Bee, chips: 100
+Big Blind: Fusa, chips: 100
+Flop: Qs 7d 7s
+Turn: 5d
+River: Kd
+Pot size: 200
+Showdown Reached
+Shows: Bee, Qh Th
+Combination: Bee, Two Pair ( Qh Qs 7d 7s Kd )
+Shows: Fusa, Qd 9s
+Combination: Fusa, Two Pair ( Qd Qs 7d 7s Kd )
+Wins: Bee, chips: 100
+Wins: Fusa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fusa
+Small Blind: Fusa, chips: 100
+Big Blind: Bee, chips: 200
+Flop: Tc 2c Th
+Turn: 3c
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Bee, Td 7c
+Combination: Bee, Full House ( Td Tc Th 2c 2s )
+Shows: Fusa, Kh 8h
+Combination: Fusa, Two Pair ( Tc Th 2c 2s Kh )
+Wins: Bee, chips: 300
+Quits: Fusa, chips: 0
+Ranking: Bee, Place: 1, Score: 1000
+Reveal AI: Bee, AI: Random
+Ranking: Fusa, Place: 2, Score: -1000
+Reveal AI: Fusa, AI: AIMyBot1
+
+Player Stats for Bee, AI: Random
+General: deals: 12, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 2, bluff: 8
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Fusa, AI: AIMyBot1
+General: deals: 12, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

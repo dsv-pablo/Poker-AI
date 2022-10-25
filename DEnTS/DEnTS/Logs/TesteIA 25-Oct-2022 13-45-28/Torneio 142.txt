@@ -1,0 +1,504 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Koewrinny: Random
+Woefel: AIMyBot1
+
+Joins: Koewrinny, chips: 1000
+Joins: Woefel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Folds: Woefel
+Pot size: 300
+Wins: Koewrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 200
+Calls: Koewrinny
+DEBUG MESSAGE: INVALID ACTION FROM Woefel (2 0)
+Folds: Woefel
+Pot size: 400
+Wins: Koewrinny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Folds: Woefel
+Pot size: 300
+Boasts: Koewrinny, 9s Kh
+Wins: Koewrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 200
+Calls: Koewrinny
+DEBUG MESSAGE: INVALID ACTION FROM Woefel (2 0)
+Folds: Woefel
+Pot size: 400
+Boasts: Koewrinny, Kc 4h
+Wins: Koewrinny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Folds: Woefel
+Pot size: 300
+Boasts: Koewrinny, 9d Td
+Wins: Koewrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 200
+Calls: Koewrinny
+DEBUG MESSAGE: INVALID ACTION FROM Woefel (2 0)
+Folds: Woefel
+Pot size: 400
+Boasts: Koewrinny, 9c Kh
+Wins: Koewrinny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Flop: 2h 5s Js
+Turn: Kc
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Koewrinny, 7c 3h
+Combination: Koewrinny, High Card ( Kc Qd Js 7c 5s )
+Shows: Woefel, 9c 9d
+Combination: Woefel, Pair ( 9c 9d Kc Qd Js )
+Wins: Koewrinny, chips: 100
+Wins: Woefel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 200
+Flop: 9d Jc 5c
+Turn: 2d
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Koewrinny, Ks Th
+Combination: Koewrinny, Straight ( Ks Qs Jc Th 9d )
+Shows: Woefel, 5h 4h
+Combination: Woefel, Pair ( 5h 5c Qs Jc 9d )
+Wins: Koewrinny, chips: 200
+Wins: Woefel, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Flop: 2d Qc 5h
+Turn: 2c
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Koewrinny, Qs Jd
+Combination: Koewrinny, Two Pair ( Qs Qc 2d 2c Ks )
+Shows: Woefel, Kh 3h
+Combination: Woefel, Two Pair ( Kh Ks 2d 2c Qc )
+Wins: Koewrinny, chips: 100
+Wins: Woefel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 200
+Flop: 5d Ah 9c
+Turn: Qs
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Koewrinny, Ks Kd
+Combination: Koewrinny, Pair ( Ks Kd Ah Qs 9c )
+Shows: Woefel, 5h 5c
+Combination: Woefel, Three Of A Kind ( 5h 5c 5d Ah Qs )
+Wins: Woefel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Folds: Woefel
+Pot size: 300
+Wins: Koewrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 200
+Flop: 4d 2h 5d
+Turn: Ad
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Koewrinny, Qd Ts
+Combination: Koewrinny, Pair ( 2h 2c Ad Qd Ts )
+Shows: Woefel, 8d 5s
+Combination: Woefel, Two Pair ( 5s 5d 2h 2c Ad )
+Wins: Woefel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Folds: Woefel
+Pot size: 300
+Wins: Koewrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 200
+Flop: 4s 8s Ts
+Turn: 6c
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Koewrinny, Qc 2d
+Combination: Koewrinny, Pair ( 6c 6d Qc Ts 8s )
+Shows: Woefel, Qs 5c
+Combination: Woefel, Pair ( 6c 6d Qs Ts 8s )
+Wins: Koewrinny, chips: 100
+Wins: Woefel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Folds: Woefel
+Pot size: 300
+Wins: Koewrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 100
+Flop: Jd Jc 6c
+Turn: 7h
+River: 2h
+Pot size: 200
+Showdown Reached
+Shows: Koewrinny, 5d Th
+Combination: Koewrinny, Pair ( Jd Jc Th 7h 6c )
+Shows: Woefel, 8c Tc
+Combination: Woefel, Pair ( Jd Jc Tc 8c 7h )
+Wins: Woefel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Folds: Woefel
+Pot size: 300
+Boasts: Koewrinny, 2h 6h
+Wins: Koewrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 100
+Flop: 5h 8c Kd
+Turn: Kc
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Koewrinny, 5d Jc
+Combination: Koewrinny, Two Pair ( Kd Kc 5d 5h Ad )
+Shows: Woefel, 3d 8s
+Combination: Woefel, Two Pair ( Kd Kc 8s 8c Ad )
+Wins: Woefel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Folds: Woefel
+Pot size: 300
+Boasts: Koewrinny, 5h 7s
+Wins: Koewrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 100
+Flop: Ts Jh 8h
+Turn: As
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Koewrinny, Ah 5d
+Combination: Koewrinny, Pair ( Ah As Qc Jh Ts )
+Shows: Woefel, 2s Qd
+Combination: Woefel, Pair ( Qd Qc As Jh Ts )
+Wins: Koewrinny, chips: 200
+Quits: Woefel, chips: 0
+Ranking: Koewrinny, Place: 1, Score: 1000
+Reveal AI: Koewrinny, AI: Random
+Ranking: Woefel, Place: 2, Score: -1000
+Reveal AI: Woefel, AI: AIMyBot1
+
+Player Stats for Koewrinny, AI: Random
+General: deals: 20, actions: 3, preflop actions: 3
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 16, showdown: 5, bluff: 11
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 3000
+Pre-Flop Stats: VP$IP: 0.15, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.555556
+
+
+Player Stats for Woefel, AI: AIMyBot1
+General: deals: 20, actions: 11, preflop actions: 11
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1700, lost: 2700, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Date: 2022/10/25 13:45:39
+
+The game begins. The AI's of the players are: 
+Koewrinny: Random
+Woefel: AIMyBot1
+
+Joins: Koewrinny, chips: 1000
+Joins: Woefel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Folds: Woefel
+Pot size: 300
+Wins: Koewrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 200
+Calls: Koewrinny
+DEBUG MESSAGE: INVALID ACTION FROM Woefel (2 0)
+Folds: Woefel
+Pot size: 400
+Wins: Koewrinny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Folds: Woefel
+Pot size: 300
+Boasts: Koewrinny, 9s Kh
+Wins: Koewrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 200
+Calls: Koewrinny
+DEBUG MESSAGE: INVALID ACTION FROM Woefel (2 0)
+Folds: Woefel
+Pot size: 400
+Boasts: Koewrinny, Kc 4h
+Wins: Koewrinny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Folds: Woefel
+Pot size: 300
+Boasts: Koewrinny, 9d Td
+Wins: Koewrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 200
+Calls: Koewrinny
+DEBUG MESSAGE: INVALID ACTION FROM Woefel (2 0)
+Folds: Woefel
+Pot size: 400
+Boasts: Koewrinny, 9c Kh
+Wins: Koewrinny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Flop: 2h 5s Js
+Turn: Kc
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Koewrinny, 7c 3h
+Combination: Koewrinny, High Card ( Kc Qd Js 7c 5s )
+Shows: Woefel, 9c 9d
+Combination: Woefel, Pair ( 9c 9d Kc Qd Js )
+Wins: Koewrinny, chips: 100
+Wins: Woefel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 200
+Flop: 9d Jc 5c
+Turn: 2d
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Koewrinny, Ks Th
+Combination: Koewrinny, Straight ( Ks Qs Jc Th 9d )
+Shows: Woefel, 5h 4h
+Combination: Woefel, Pair ( 5h 5c Qs Jc 9d )
+Wins: Koewrinny, chips: 200
+Wins: Woefel, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Flop: 2d Qc 5h
+Turn: 2c
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Koewrinny, Qs Jd
+Combination: Koewrinny, Two Pair ( Qs Qc 2d 2c Ks )
+Shows: Woefel, Kh 3h
+Combination: Woefel, Two Pair ( Kh Ks 2d 2c Qc )
+Wins: Koewrinny, chips: 100
+Wins: Woefel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 200
+Flop: 5d Ah 9c
+Turn: Qs
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Koewrinny, Ks Kd
+Combination: Koewrinny, Pair ( Ks Kd Ah Qs 9c )
+Shows: Woefel, 5h 5c
+Combination: Woefel, Three Of A Kind ( 5h 5c 5d Ah Qs )
+Wins: Woefel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Folds: Woefel
+Pot size: 300
+Wins: Koewrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 200
+Flop: 4d 2h 5d
+Turn: Ad
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Koewrinny, Qd Ts
+Combination: Koewrinny, Pair ( 2h 2c Ad Qd Ts )
+Shows: Woefel, 8d 5s
+Combination: Woefel, Two Pair ( 5s 5d 2h 2c Ad )
+Wins: Woefel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Folds: Woefel
+Pot size: 300
+Wins: Koewrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 200
+Flop: 4s 8s Ts
+Turn: 6c
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Koewrinny, Qc 2d
+Combination: Koewrinny, Pair ( 6c 6d Qc Ts 8s )
+Shows: Woefel, Qs 5c
+Combination: Woefel, Pair ( 6c 6d Qs Ts 8s )
+Wins: Koewrinny, chips: 100
+Wins: Woefel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Folds: Woefel
+Pot size: 300
+Wins: Koewrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 100
+Flop: Jd Jc 6c
+Turn: 7h
+River: 2h
+Pot size: 200
+Showdown Reached
+Shows: Koewrinny, 5d Th
+Combination: Koewrinny, Pair ( Jd Jc Th 7h 6c )
+Shows: Woefel, 8c Tc
+Combination: Woefel, Pair ( Jd Jc Tc 8c 7h )
+Wins: Woefel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Folds: Woefel
+Pot size: 300
+Boasts: Koewrinny, 2h 6h
+Wins: Koewrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 100
+Flop: 5h 8c Kd
+Turn: Kc
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Koewrinny, 5d Jc
+Combination: Koewrinny, Two Pair ( Kd Kc 5d 5h Ad )
+Shows: Woefel, 3d 8s
+Combination: Woefel, Two Pair ( Kd Kc 8s 8c Ad )
+Wins: Woefel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woefel
+Small Blind: Woefel, chips: 100
+Big Blind: Koewrinny, chips: 200
+Folds: Woefel
+Pot size: 300
+Boasts: Koewrinny, 5h 7s
+Wins: Koewrinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koewrinny
+Small Blind: Koewrinny, chips: 100
+Big Blind: Woefel, chips: 100
+Flop: Ts Jh 8h
+Turn: As
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Koewrinny, Ah 5d
+Combination: Koewrinny, Pair ( Ah As Qc Jh Ts )
+Shows: Woefel, 2s Qd
+Combination: Woefel, Pair ( Qd Qc As Jh Ts )
+Wins: Koewrinny, chips: 200
+Quits: Woefel, chips: 0
+Ranking: Koewrinny, Place: 1, Score: 1000
+Reveal AI: Koewrinny, AI: Random
+Ranking: Woefel, Place: 2, Score: -1000
+Reveal AI: Woefel, AI: AIMyBot1
+
+Player Stats for Koewrinny, AI: Random
+General: deals: 20, actions: 3, preflop actions: 3
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 16, showdown: 5, bluff: 11
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 3000
+Pre-Flop Stats: VP$IP: 0.15, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.555556
+
+
+Player Stats for Woefel, AI: AIMyBot1
+General: deals: 20, actions: 11, preflop actions: 11
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1700, lost: 2700, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+

@@ -1,0 +1,226 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wirip: AIMyBot1
+Ko: Random
+
+Joins: Wirip, chips: 1000
+Joins: Ko, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Wirip, chips: 200
+Folds: Ko
+Pot size: 300
+Wins: Wirip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirip
+Small Blind: Wirip, chips: 100
+Big Blind: Ko, chips: 200
+Folds: Wirip
+Pot size: 300
+Wins: Ko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Wirip, chips: 200
+Calls: Ko
+DEBUG MESSAGE: INVALID ACTION FROM Wirip (2 0)
+Folds: Wirip
+Pot size: 400
+Boasts: Ko, 2s 9h
+Wins: Ko, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirip
+Small Blind: Wirip, chips: 100
+Big Blind: Ko, chips: 200
+Folds: Wirip
+Pot size: 300
+Boasts: Ko, Kd 5s
+Wins: Ko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Wirip, chips: 200
+Calls: Ko
+DEBUG MESSAGE: INVALID ACTION FROM Wirip (2 0)
+Folds: Wirip
+Pot size: 400
+Wins: Ko, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirip
+Small Blind: Wirip, chips: 100
+Big Blind: Ko, chips: 200
+Folds: Wirip
+Pot size: 300
+Boasts: Ko, 7h 9s
+Wins: Ko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Wirip, chips: 200
+Calls: Ko
+DEBUG MESSAGE: INVALID ACTION FROM Wirip (2 0)
+Folds: Wirip
+Pot size: 400
+Boasts: Ko, 3h 8c
+Wins: Ko, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirip
+Small Blind: Wirip, chips: 100
+Big Blind: Ko, chips: 200
+Folds: Wirip
+Pot size: 300
+Wins: Ko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Wirip, chips: 100
+Flop: 6h 4c 3c
+Turn: 3d
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Wirip, Jc 2s
+Combination: Wirip, Pair ( 3c 3d Jc 9d 6h )
+Shows: Ko, 7h 6c
+Combination: Ko, Two Pair ( 6c 6h 3c 3d 9d )
+Wins: Ko, chips: 200
+Quits: Wirip, chips: 0
+Ranking: Ko, Place: 1, Score: 1000
+Reveal AI: Ko, AI: Random
+Ranking: Wirip, Place: 2, Score: -1000
+Reveal AI: Wirip, AI: AIMyBot1
+
+Player Stats for Ko, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Wirip, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:59
+
+The game begins. The AI's of the players are: 
+Wirip: AIMyBot1
+Ko: Random
+
+Joins: Wirip, chips: 1000
+Joins: Ko, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Wirip, chips: 200
+Folds: Ko
+Pot size: 300
+Wins: Wirip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirip
+Small Blind: Wirip, chips: 100
+Big Blind: Ko, chips: 200
+Folds: Wirip
+Pot size: 300
+Wins: Ko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Wirip, chips: 200
+Calls: Ko
+DEBUG MESSAGE: INVALID ACTION FROM Wirip (2 0)
+Folds: Wirip
+Pot size: 400
+Boasts: Ko, 2s 9h
+Wins: Ko, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirip
+Small Blind: Wirip, chips: 100
+Big Blind: Ko, chips: 200
+Folds: Wirip
+Pot size: 300
+Boasts: Ko, Kd 5s
+Wins: Ko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Wirip, chips: 200
+Calls: Ko
+DEBUG MESSAGE: INVALID ACTION FROM Wirip (2 0)
+Folds: Wirip
+Pot size: 400
+Wins: Ko, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirip
+Small Blind: Wirip, chips: 100
+Big Blind: Ko, chips: 200
+Folds: Wirip
+Pot size: 300
+Boasts: Ko, 7h 9s
+Wins: Ko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Wirip, chips: 200
+Calls: Ko
+DEBUG MESSAGE: INVALID ACTION FROM Wirip (2 0)
+Folds: Wirip
+Pot size: 400
+Boasts: Ko, 3h 8c
+Wins: Ko, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirip
+Small Blind: Wirip, chips: 100
+Big Blind: Ko, chips: 200
+Folds: Wirip
+Pot size: 300
+Wins: Ko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Wirip, chips: 100
+Flop: 6h 4c 3c
+Turn: 3d
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Wirip, Jc 2s
+Combination: Wirip, Pair ( 3c 3d Jc 9d 6h )
+Shows: Ko, 7h 6c
+Combination: Ko, Two Pair ( 6c 6h 3c 3d 9d )
+Wins: Ko, chips: 200
+Quits: Wirip, chips: 0
+Ranking: Ko, Place: 1, Score: 1000
+Reveal AI: Ko, AI: Random
+Ranking: Wirip, Place: 2, Score: -1000
+Reveal AI: Wirip, AI: AIMyBot1
+
+Player Stats for Ko, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Wirip, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

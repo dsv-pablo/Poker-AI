@@ -1,0 +1,240 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Huwrolef: Random
+Mo: AIMyBot1
+
+Joins: Huwrolef, chips: 1000
+Joins: Mo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huwrolef
+Small Blind: Huwrolef, chips: 100
+Big Blind: Mo, chips: 200
+Calls: Huwrolef
+DEBUG MESSAGE: INVALID ACTION FROM Mo (2 0)
+Folds: Mo
+Pot size: 400
+Boasts: Huwrolef, 9h 8c
+Wins: Huwrolef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mo
+Small Blind: Mo, chips: 100
+Big Blind: Huwrolef, chips: 200
+Folds: Mo
+Pot size: 300
+Wins: Huwrolef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huwrolef
+Small Blind: Huwrolef, chips: 100
+Big Blind: Mo, chips: 200
+Calls: Huwrolef
+DEBUG MESSAGE: INVALID ACTION FROM Mo (2 0)
+Folds: Mo
+Pot size: 400
+Boasts: Huwrolef, Js Qc
+Wins: Huwrolef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mo
+Small Blind: Mo, chips: 100
+Big Blind: Huwrolef, chips: 200
+Folds: Mo
+Pot size: 300
+Boasts: Huwrolef, 2d 5s
+Wins: Huwrolef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huwrolef
+Small Blind: Huwrolef, chips: 100
+Big Blind: Mo, chips: 200
+Raises: Huwrolef, chips: 300
+Folds: Mo
+Pot size: 700
+Boasts: Huwrolef, 4h Tc
+Wins: Huwrolef, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mo
+Small Blind: Mo, chips: 100
+Big Blind: Huwrolef, chips: 200
+Folds: Mo
+Pot size: 300
+Boasts: Huwrolef, 8d Ts
+Wins: Huwrolef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huwrolef
+Small Blind: Huwrolef, chips: 100
+Big Blind: Mo, chips: 100
+Flop: As 7s 9c
+Turn: Ac
+River: 2c
+Pot size: 200
+Showdown Reached
+Shows: Huwrolef, 4h 3s
+Combination: Huwrolef, Pair ( As Ac 9c 7s 4h )
+Shows: Mo, 9h 6s
+Combination: Mo, Two Pair ( As Ac 9h 9c 7s )
+Wins: Mo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mo
+Small Blind: Mo, chips: 100
+Big Blind: Huwrolef, chips: 200
+Folds: Mo
+Pot size: 300
+Wins: Huwrolef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huwrolef
+Small Blind: Huwrolef, chips: 100
+Big Blind: Mo, chips: 100
+Flop: Tc 8c Qh
+Turn: 3d
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Huwrolef, Qc 5c
+Combination: Huwrolef, Flush ( Kc Qc Tc 8c 5c )
+Shows: Mo, Jc 3s
+Combination: Mo, Pair ( 3s 3d Kc Qh Jc )
+Wins: Huwrolef, chips: 200
+Quits: Mo, chips: 0
+Ranking: Huwrolef, Place: 1, Score: 1000
+Reveal AI: Huwrolef, AI: Random
+Ranking: Mo, Place: 2, Score: -1000
+Reveal AI: Mo, AI: AIMyBot1
+
+Player Stats for Huwrolef, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Mo, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:30
+
+The game begins. The AI's of the players are: 
+Huwrolef: Random
+Mo: AIMyBot1
+
+Joins: Huwrolef, chips: 1000
+Joins: Mo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huwrolef
+Small Blind: Huwrolef, chips: 100
+Big Blind: Mo, chips: 200
+Calls: Huwrolef
+DEBUG MESSAGE: INVALID ACTION FROM Mo (2 0)
+Folds: Mo
+Pot size: 400
+Boasts: Huwrolef, 9h 8c
+Wins: Huwrolef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mo
+Small Blind: Mo, chips: 100
+Big Blind: Huwrolef, chips: 200
+Folds: Mo
+Pot size: 300
+Wins: Huwrolef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huwrolef
+Small Blind: Huwrolef, chips: 100
+Big Blind: Mo, chips: 200
+Calls: Huwrolef
+DEBUG MESSAGE: INVALID ACTION FROM Mo (2 0)
+Folds: Mo
+Pot size: 400
+Boasts: Huwrolef, Js Qc
+Wins: Huwrolef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mo
+Small Blind: Mo, chips: 100
+Big Blind: Huwrolef, chips: 200
+Folds: Mo
+Pot size: 300
+Boasts: Huwrolef, 2d 5s
+Wins: Huwrolef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huwrolef
+Small Blind: Huwrolef, chips: 100
+Big Blind: Mo, chips: 200
+Raises: Huwrolef, chips: 300
+Folds: Mo
+Pot size: 700
+Boasts: Huwrolef, 4h Tc
+Wins: Huwrolef, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mo
+Small Blind: Mo, chips: 100
+Big Blind: Huwrolef, chips: 200
+Folds: Mo
+Pot size: 300
+Boasts: Huwrolef, 8d Ts
+Wins: Huwrolef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huwrolef
+Small Blind: Huwrolef, chips: 100
+Big Blind: Mo, chips: 100
+Flop: As 7s 9c
+Turn: Ac
+River: 2c
+Pot size: 200
+Showdown Reached
+Shows: Huwrolef, 4h 3s
+Combination: Huwrolef, Pair ( As Ac 9c 7s 4h )
+Shows: Mo, 9h 6s
+Combination: Mo, Two Pair ( As Ac 9h 9c 7s )
+Wins: Mo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mo
+Small Blind: Mo, chips: 100
+Big Blind: Huwrolef, chips: 200
+Folds: Mo
+Pot size: 300
+Wins: Huwrolef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huwrolef
+Small Blind: Huwrolef, chips: 100
+Big Blind: Mo, chips: 100
+Flop: Tc 8c Qh
+Turn: 3d
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Huwrolef, Qc 5c
+Combination: Huwrolef, Flush ( Kc Qc Tc 8c 5c )
+Shows: Mo, Jc 3s
+Combination: Mo, Pair ( 3s 3d Kc Qh Jc )
+Wins: Huwrolef, chips: 200
+Quits: Mo, chips: 0
+Ranking: Huwrolef, Place: 1, Score: 1000
+Reveal AI: Huwrolef, AI: Random
+Ranking: Mo, Place: 2, Score: -1000
+Reveal AI: Mo, AI: AIMyBot1
+
+Player Stats for Huwrolef, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Mo, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

@@ -1,0 +1,330 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Rechikot: Random
+Mewe: AIMyBot1
+
+Joins: Rechikot, chips: 1000
+Joins: Mewe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewe
+Small Blind: Mewe, chips: 100
+Big Blind: Rechikot, chips: 200
+Folds: Mewe
+Pot size: 300
+Boasts: Rechikot, Td 4h
+Wins: Rechikot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rechikot
+Small Blind: Rechikot, chips: 100
+Big Blind: Mewe, chips: 200
+Folds: Rechikot
+Pot size: 300
+Boasts: Rechikot, Tc 7s
+Wins: Mewe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewe
+Small Blind: Mewe, chips: 100
+Big Blind: Rechikot, chips: 200
+Folds: Mewe
+Pot size: 300
+Wins: Rechikot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rechikot
+Small Blind: Rechikot, chips: 100
+Big Blind: Mewe, chips: 200
+Calls: Rechikot
+DEBUG MESSAGE: INVALID ACTION FROM Mewe (2 0)
+Folds: Mewe
+Pot size: 400
+Wins: Rechikot, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewe
+Small Blind: Mewe, chips: 100
+Big Blind: Rechikot, chips: 200
+Folds: Mewe
+Pot size: 300
+Wins: Rechikot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rechikot
+Small Blind: Rechikot, chips: 100
+Big Blind: Mewe, chips: 200
+Calls: Rechikot
+DEBUG MESSAGE: INVALID ACTION FROM Mewe (2 0)
+Folds: Mewe
+Pot size: 400
+Boasts: Rechikot, Jc 2d
+Wins: Rechikot, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewe
+Small Blind: Mewe, chips: 100
+Big Blind: Rechikot, chips: 200
+Folds: Mewe
+Pot size: 300
+Wins: Rechikot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rechikot
+Small Blind: Rechikot, chips: 100
+Big Blind: Mewe, chips: 200
+Calls: Rechikot
+DEBUG MESSAGE: INVALID ACTION FROM Mewe (2 0)
+Folds: Mewe
+Pot size: 400
+Boasts: Rechikot, 7h 3s
+Wins: Rechikot, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewe
+Small Blind: Mewe, chips: 100
+Big Blind: Rechikot, chips: 200
+Flop: 7c 3d Jc
+Turn: Qh
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Rechikot, Qc 9d
+Combination: Rechikot, Pair ( Qc Qh Jc 9d 7c )
+Shows: Mewe, Ts Qd
+Combination: Mewe, Pair ( Qd Qh Jc Ts 7c )
+Wins: Rechikot, chips: 100
+Wins: Mewe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rechikot
+Small Blind: Rechikot, chips: 100
+Big Blind: Mewe, chips: 200
+Flop: 3d 7c 9s
+Turn: 4h
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Rechikot, 2s 5d
+Combination: Rechikot, High Card ( Qs 9s 7c 5d 4h )
+Shows: Mewe, 5s 9c
+Combination: Mewe, Pair ( 9c 9s Qs 7c 5s )
+Wins: Mewe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewe
+Small Blind: Mewe, chips: 100
+Big Blind: Rechikot, chips: 200
+Folds: Mewe
+Pot size: 300
+Boasts: Rechikot, 4s Kc
+Wins: Rechikot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rechikot
+Small Blind: Rechikot, chips: 100
+Big Blind: Mewe, chips: 200
+Flop: 7s Qh Ts
+Turn: 4c
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Rechikot, 4d 9d
+Combination: Rechikot, Pair ( 4d 4c Qh Ts 9d )
+Shows: Mewe, 3h 8s
+Combination: Mewe, High Card ( Qh Ts 8s 7s 4c )
+Wins: Rechikot, chips: 200
+Wins: Mewe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewe
+Small Blind: Mewe, chips: 100
+Big Blind: Rechikot, chips: 200
+Flop: 6c 3h 2c
+Turn: 8c
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Rechikot, 3s 3d
+Combination: Rechikot, Full House ( 3s 3d 3h 2c 2s )
+Shows: Mewe, 5d Jh
+Combination: Mewe, Pair ( 2c 2s Jh 8c 6c )
+Wins: Rechikot, chips: 300
+Quits: Mewe, chips: 0
+Ranking: Rechikot, Place: 1, Score: 1000
+Reveal AI: Rechikot, AI: Random
+Ranking: Mewe, Place: 2, Score: -1000
+Reveal AI: Mewe, AI: AIMyBot1
+
+Player Stats for Mewe, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Rechikot, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:33
+
+The game begins. The AI's of the players are: 
+Rechikot: Random
+Mewe: AIMyBot1
+
+Joins: Rechikot, chips: 1000
+Joins: Mewe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewe
+Small Blind: Mewe, chips: 100
+Big Blind: Rechikot, chips: 200
+Folds: Mewe
+Pot size: 300
+Boasts: Rechikot, Td 4h
+Wins: Rechikot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rechikot
+Small Blind: Rechikot, chips: 100
+Big Blind: Mewe, chips: 200
+Folds: Rechikot
+Pot size: 300
+Boasts: Rechikot, Tc 7s
+Wins: Mewe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewe
+Small Blind: Mewe, chips: 100
+Big Blind: Rechikot, chips: 200
+Folds: Mewe
+Pot size: 300
+Wins: Rechikot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rechikot
+Small Blind: Rechikot, chips: 100
+Big Blind: Mewe, chips: 200
+Calls: Rechikot
+DEBUG MESSAGE: INVALID ACTION FROM Mewe (2 0)
+Folds: Mewe
+Pot size: 400
+Wins: Rechikot, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewe
+Small Blind: Mewe, chips: 100
+Big Blind: Rechikot, chips: 200
+Folds: Mewe
+Pot size: 300
+Wins: Rechikot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rechikot
+Small Blind: Rechikot, chips: 100
+Big Blind: Mewe, chips: 200
+Calls: Rechikot
+DEBUG MESSAGE: INVALID ACTION FROM Mewe (2 0)
+Folds: Mewe
+Pot size: 400
+Boasts: Rechikot, Jc 2d
+Wins: Rechikot, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewe
+Small Blind: Mewe, chips: 100
+Big Blind: Rechikot, chips: 200
+Folds: Mewe
+Pot size: 300
+Wins: Rechikot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rechikot
+Small Blind: Rechikot, chips: 100
+Big Blind: Mewe, chips: 200
+Calls: Rechikot
+DEBUG MESSAGE: INVALID ACTION FROM Mewe (2 0)
+Folds: Mewe
+Pot size: 400
+Boasts: Rechikot, 7h 3s
+Wins: Rechikot, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewe
+Small Blind: Mewe, chips: 100
+Big Blind: Rechikot, chips: 200
+Flop: 7c 3d Jc
+Turn: Qh
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Rechikot, Qc 9d
+Combination: Rechikot, Pair ( Qc Qh Jc 9d 7c )
+Shows: Mewe, Ts Qd
+Combination: Mewe, Pair ( Qd Qh Jc Ts 7c )
+Wins: Rechikot, chips: 100
+Wins: Mewe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rechikot
+Small Blind: Rechikot, chips: 100
+Big Blind: Mewe, chips: 200
+Flop: 3d 7c 9s
+Turn: 4h
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Rechikot, 2s 5d
+Combination: Rechikot, High Card ( Qs 9s 7c 5d 4h )
+Shows: Mewe, 5s 9c
+Combination: Mewe, Pair ( 9c 9s Qs 7c 5s )
+Wins: Mewe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewe
+Small Blind: Mewe, chips: 100
+Big Blind: Rechikot, chips: 200
+Folds: Mewe
+Pot size: 300
+Boasts: Rechikot, 4s Kc
+Wins: Rechikot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rechikot
+Small Blind: Rechikot, chips: 100
+Big Blind: Mewe, chips: 200
+Flop: 7s Qh Ts
+Turn: 4c
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Rechikot, 4d 9d
+Combination: Rechikot, Pair ( 4d 4c Qh Ts 9d )
+Shows: Mewe, 3h 8s
+Combination: Mewe, High Card ( Qh Ts 8s 7s 4c )
+Wins: Rechikot, chips: 200
+Wins: Mewe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mewe
+Small Blind: Mewe, chips: 100
+Big Blind: Rechikot, chips: 200
+Flop: 6c 3h 2c
+Turn: 8c
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Rechikot, 3s 3d
+Combination: Rechikot, Full House ( 3s 3d 3h 2c 2s )
+Shows: Mewe, 5d Jh
+Combination: Mewe, Pair ( 2c 2s Jh 8c 6c )
+Wins: Rechikot, chips: 300
+Quits: Mewe, chips: 0
+Ranking: Rechikot, Place: 1, Score: 1000
+Reveal AI: Rechikot, AI: Random
+Ranking: Mewe, Place: 2, Score: -1000
+Reveal AI: Mewe, AI: AIMyBot1
+
+Player Stats for Mewe, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Rechikot, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

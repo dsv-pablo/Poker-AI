@@ -1,0 +1,164 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Turoenoetry: AIMyBot1
+Hasene: Random
+
+Joins: Turoenoetry, chips: 1000
+Joins: Hasene, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hasene
+Small Blind: Hasene, chips: 100
+Big Blind: Turoenoetry, chips: 200
+Raises: Hasene, chips: 300
+Folds: Turoenoetry
+Pot size: 700
+Boasts: Hasene, 2h Qd
+Wins: Hasene, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Turoenoetry
+Small Blind: Turoenoetry, chips: 100
+Big Blind: Hasene, chips: 200
+Folds: Turoenoetry
+Pot size: 300
+Boasts: Hasene, 5c 4h
+Wins: Hasene, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hasene
+Small Blind: Hasene, chips: 100
+Big Blind: Turoenoetry, chips: 200
+Calls: Hasene
+DEBUG MESSAGE: INVALID ACTION FROM Turoenoetry (2 0)
+Folds: Turoenoetry
+Pot size: 400
+Wins: Hasene, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Turoenoetry
+Small Blind: Turoenoetry, chips: 100
+Big Blind: Hasene, chips: 200
+Folds: Turoenoetry
+Pot size: 300
+Wins: Hasene, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hasene
+Small Blind: Hasene, chips: 100
+Big Blind: Turoenoetry, chips: 200
+Raises: Hasene, chips: 300
+Calls: Turoenoetry
+Flop: 7d 4s 4c
+Turn: Js
+River: 9h
+Pot size: 900
+Showdown Reached
+Shows: Turoenoetry, 6c 6s
+Combination: Turoenoetry, Two Pair ( 6c 6s 4s 4c Js )
+Shows: Hasene, Kh 4d
+Combination: Hasene, Three Of A Kind ( 4d 4s 4c Kh Js )
+Wins: Hasene, chips: 900
+Quits: Turoenoetry, chips: 0
+Ranking: Hasene, Place: 1, Score: 1000
+Reveal AI: Hasene, AI: Random
+Ranking: Turoenoetry, Place: 2, Score: -1000
+Reveal AI: Turoenoetry, AI: AIMyBot1
+
+Player Stats for Hasene, AI: Random
+General: deals: 5, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 5, showdown: 1, bluff: 4
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 700
+Pre-Flop Stats: VP$IP: 0.6, PFR: 0.4, 3Bet: 0.4
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Turoenoetry, AI: AIMyBot1
+General: deals: 5, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1100, bought: 1000, forced bets: 800
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:26
+
+The game begins. The AI's of the players are: 
+Turoenoetry: AIMyBot1
+Hasene: Random
+
+Joins: Turoenoetry, chips: 1000
+Joins: Hasene, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hasene
+Small Blind: Hasene, chips: 100
+Big Blind: Turoenoetry, chips: 200
+Raises: Hasene, chips: 300
+Folds: Turoenoetry
+Pot size: 700
+Boasts: Hasene, 2h Qd
+Wins: Hasene, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Turoenoetry
+Small Blind: Turoenoetry, chips: 100
+Big Blind: Hasene, chips: 200
+Folds: Turoenoetry
+Pot size: 300
+Boasts: Hasene, 5c 4h
+Wins: Hasene, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hasene
+Small Blind: Hasene, chips: 100
+Big Blind: Turoenoetry, chips: 200
+Calls: Hasene
+DEBUG MESSAGE: INVALID ACTION FROM Turoenoetry (2 0)
+Folds: Turoenoetry
+Pot size: 400
+Wins: Hasene, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Turoenoetry
+Small Blind: Turoenoetry, chips: 100
+Big Blind: Hasene, chips: 200
+Folds: Turoenoetry
+Pot size: 300
+Wins: Hasene, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hasene
+Small Blind: Hasene, chips: 100
+Big Blind: Turoenoetry, chips: 200
+Raises: Hasene, chips: 300
+Calls: Turoenoetry
+Flop: 7d 4s 4c
+Turn: Js
+River: 9h
+Pot size: 900
+Showdown Reached
+Shows: Turoenoetry, 6c 6s
+Combination: Turoenoetry, Two Pair ( 6c 6s 4s 4c Js )
+Shows: Hasene, Kh 4d
+Combination: Hasene, Three Of A Kind ( 4d 4s 4c Kh Js )
+Wins: Hasene, chips: 900
+Quits: Turoenoetry, chips: 0
+Ranking: Hasene, Place: 1, Score: 1000
+Reveal AI: Hasene, AI: Random
+Ranking: Turoenoetry, Place: 2, Score: -1000
+Reveal AI: Turoenoetry, AI: AIMyBot1
+
+Player Stats for Hasene, AI: Random
+General: deals: 5, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 5, showdown: 1, bluff: 4
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 700
+Pre-Flop Stats: VP$IP: 0.6, PFR: 0.4, 3Bet: 0.4
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Turoenoetry, AI: AIMyBot1
+General: deals: 5, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1100, bought: 1000, forced bets: 800
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

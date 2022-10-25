@@ -1,0 +1,190 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Bufol: AIMyBot1
+Potte: Random
+
+Joins: Bufol, chips: 1000
+Joins: Potte, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Potte
+Small Blind: Potte, chips: 100
+Big Blind: Bufol, chips: 200
+Raises: Potte, chips: 300
+Folds: Bufol
+Pot size: 700
+Wins: Potte, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bufol
+Small Blind: Bufol, chips: 100
+Big Blind: Potte, chips: 200
+Folds: Bufol
+Pot size: 300
+Wins: Potte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Potte
+Small Blind: Potte, chips: 100
+Big Blind: Bufol, chips: 200
+Calls: Potte
+DEBUG MESSAGE: INVALID ACTION FROM Bufol (2 0)
+Folds: Bufol
+Pot size: 400
+Boasts: Potte, 3h 7s
+Wins: Potte, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bufol
+Small Blind: Bufol, chips: 100
+Big Blind: Potte, chips: 200
+Folds: Bufol
+Pot size: 300
+Wins: Potte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Potte
+Small Blind: Potte, chips: 100
+Big Blind: Bufol, chips: 200
+Raises: Potte, chips: 300
+Folds: Bufol
+Pot size: 700
+Boasts: Potte, 9h 7s
+Wins: Potte, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bufol
+Small Blind: Bufol, chips: 100
+Big Blind: Potte, chips: 200
+Folds: Bufol
+Pot size: 300
+Wins: Potte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Potte
+Small Blind: Potte, chips: 100
+Big Blind: Bufol, chips: 100
+Flop: 6h Kh 8d
+Turn: 8h
+River: 6d
+Pot size: 200
+Showdown Reached
+Shows: Bufol, 9h Qs
+Combination: Bufol, Two Pair ( 8d 8h 6h 6d Kh )
+Shows: Potte, Ah 5c
+Combination: Potte, Two Pair ( 8d 8h 6h 6d Ah )
+Wins: Potte, chips: 200
+Quits: Bufol, chips: 0
+Ranking: Potte, Place: 1, Score: 1000
+Reveal AI: Potte, AI: Random
+Ranking: Bufol, Place: 2, Score: -1000
+Reveal AI: Bufol, AI: AIMyBot1
+
+Player Stats for Bufol, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Potte, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:59
+
+The game begins. The AI's of the players are: 
+Bufol: AIMyBot1
+Potte: Random
+
+Joins: Bufol, chips: 1000
+Joins: Potte, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Potte
+Small Blind: Potte, chips: 100
+Big Blind: Bufol, chips: 200
+Raises: Potte, chips: 300
+Folds: Bufol
+Pot size: 700
+Wins: Potte, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bufol
+Small Blind: Bufol, chips: 100
+Big Blind: Potte, chips: 200
+Folds: Bufol
+Pot size: 300
+Wins: Potte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Potte
+Small Blind: Potte, chips: 100
+Big Blind: Bufol, chips: 200
+Calls: Potte
+DEBUG MESSAGE: INVALID ACTION FROM Bufol (2 0)
+Folds: Bufol
+Pot size: 400
+Boasts: Potte, 3h 7s
+Wins: Potte, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bufol
+Small Blind: Bufol, chips: 100
+Big Blind: Potte, chips: 200
+Folds: Bufol
+Pot size: 300
+Wins: Potte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Potte
+Small Blind: Potte, chips: 100
+Big Blind: Bufol, chips: 200
+Raises: Potte, chips: 300
+Folds: Bufol
+Pot size: 700
+Boasts: Potte, 9h 7s
+Wins: Potte, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bufol
+Small Blind: Bufol, chips: 100
+Big Blind: Potte, chips: 200
+Folds: Bufol
+Pot size: 300
+Wins: Potte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Potte
+Small Blind: Potte, chips: 100
+Big Blind: Bufol, chips: 100
+Flop: 6h Kh 8d
+Turn: 8h
+River: 6d
+Pot size: 200
+Showdown Reached
+Shows: Bufol, 9h Qs
+Combination: Bufol, Two Pair ( 8d 8h 6h 6d Kh )
+Shows: Potte, Ah 5c
+Combination: Potte, Two Pair ( 8d 8h 6h 6d Ah )
+Wins: Potte, chips: 200
+Quits: Bufol, chips: 0
+Ranking: Potte, Place: 1, Score: 1000
+Reveal AI: Potte, AI: Random
+Ranking: Bufol, Place: 2, Score: -1000
+Reveal AI: Bufol, AI: AIMyBot1
+
+Player Stats for Bufol, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Potte, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

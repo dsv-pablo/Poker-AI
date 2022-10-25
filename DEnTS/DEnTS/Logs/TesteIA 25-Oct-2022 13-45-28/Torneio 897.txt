@@ -1,0 +1,310 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Teefuchi: AIMyBot1
+Vomo: Random
+
+Joins: Teefuchi, chips: 1000
+Joins: Vomo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomo
+Small Blind: Vomo, chips: 100
+Big Blind: Teefuchi, chips: 200
+Raises: Vomo, chips: 300
+Folds: Teefuchi
+Pot size: 700
+Wins: Vomo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teefuchi
+Small Blind: Teefuchi, chips: 100
+Big Blind: Vomo, chips: 200
+Folds: Teefuchi
+Pot size: 300
+Wins: Vomo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomo
+Small Blind: Vomo, chips: 100
+Big Blind: Teefuchi, chips: 200
+Folds: Vomo
+Pot size: 300
+Wins: Teefuchi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teefuchi
+Small Blind: Teefuchi, chips: 100
+Big Blind: Vomo, chips: 200
+Folds: Teefuchi
+Pot size: 300
+Boasts: Vomo, Ah 9d
+Wins: Vomo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomo
+Small Blind: Vomo, chips: 100
+Big Blind: Teefuchi, chips: 200
+Calls: Vomo
+DEBUG MESSAGE: INVALID ACTION FROM Teefuchi (2 0)
+Folds: Teefuchi
+Pot size: 400
+Boasts: Vomo, 6s 6d
+Wins: Vomo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teefuchi
+Small Blind: Teefuchi, chips: 100
+Big Blind: Vomo, chips: 200
+Folds: Teefuchi
+Pot size: 300
+Boasts: Vomo, 9s 4c
+Wins: Vomo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomo
+Small Blind: Vomo, chips: 100
+Big Blind: Teefuchi, chips: 200
+Calls: Vomo
+DEBUG MESSAGE: INVALID ACTION FROM Teefuchi (2 0)
+Folds: Teefuchi
+Pot size: 400
+Wins: Vomo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teefuchi
+Small Blind: Teefuchi, chips: 100
+Big Blind: Vomo, chips: 200
+Folds: Teefuchi
+Pot size: 300
+Boasts: Vomo, Tc 8s
+Wins: Vomo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomo
+Small Blind: Vomo, chips: 100
+Big Blind: Teefuchi, chips: 100
+Flop: 8d 5h Jh
+Turn: 3d
+River: Ac
+Pot size: 200
+Showdown Reached
+Shows: Teefuchi, Ad 9s
+Combination: Teefuchi, Pair ( Ad Ac Jh 9s 8d )
+Shows: Vomo, 2d 5d
+Combination: Vomo, Pair ( 5d 5h Ac Jh 8d )
+Wins: Teefuchi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teefuchi
+Small Blind: Teefuchi, chips: 100
+Big Blind: Vomo, chips: 200
+Folds: Teefuchi
+Pot size: 300
+Boasts: Vomo, 7d Kc
+Wins: Vomo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomo
+Small Blind: Vomo, chips: 100
+Big Blind: Teefuchi, chips: 100
+Flop: 8d 9s As
+Turn: 4s
+River: Qh
+Pot size: 200
+Showdown Reached
+Shows: Teefuchi, 6s Jd
+Combination: Teefuchi, High Card ( As Qh Jd 9s 8d )
+Shows: Vomo, 2c 7d
+Combination: Vomo, High Card ( As Qh 9s 8d 7d )
+Wins: Teefuchi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teefuchi
+Small Blind: Teefuchi, chips: 100
+Big Blind: Vomo, chips: 200
+Folds: Teefuchi
+Pot size: 300
+Wins: Vomo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomo
+Small Blind: Vomo, chips: 100
+Big Blind: Teefuchi, chips: 100
+Flop: 7d Ad Kc
+Turn: 5h
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Teefuchi, 6d 4c
+Combination: Teefuchi, High Card ( Ad Kc Jh 7d 6d )
+Shows: Vomo, Ac Ts
+Combination: Vomo, Pair ( Ac Ad Kc Jh Ts )
+Wins: Vomo, chips: 200
+Quits: Teefuchi, chips: 0
+Ranking: Vomo, Place: 1, Score: 1000
+Reveal AI: Vomo, AI: Random
+Ranking: Teefuchi, Place: 2, Score: -1000
+Reveal AI: Teefuchi, AI: AIMyBot1
+
+Player Stats for Teefuchi, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Vomo, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Date: 2022/10/25 13:46:28
+
+The game begins. The AI's of the players are: 
+Teefuchi: AIMyBot1
+Vomo: Random
+
+Joins: Teefuchi, chips: 1000
+Joins: Vomo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomo
+Small Blind: Vomo, chips: 100
+Big Blind: Teefuchi, chips: 200
+Raises: Vomo, chips: 300
+Folds: Teefuchi
+Pot size: 700
+Wins: Vomo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teefuchi
+Small Blind: Teefuchi, chips: 100
+Big Blind: Vomo, chips: 200
+Folds: Teefuchi
+Pot size: 300
+Wins: Vomo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomo
+Small Blind: Vomo, chips: 100
+Big Blind: Teefuchi, chips: 200
+Folds: Vomo
+Pot size: 300
+Wins: Teefuchi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teefuchi
+Small Blind: Teefuchi, chips: 100
+Big Blind: Vomo, chips: 200
+Folds: Teefuchi
+Pot size: 300
+Boasts: Vomo, Ah 9d
+Wins: Vomo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomo
+Small Blind: Vomo, chips: 100
+Big Blind: Teefuchi, chips: 200
+Calls: Vomo
+DEBUG MESSAGE: INVALID ACTION FROM Teefuchi (2 0)
+Folds: Teefuchi
+Pot size: 400
+Boasts: Vomo, 6s 6d
+Wins: Vomo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teefuchi
+Small Blind: Teefuchi, chips: 100
+Big Blind: Vomo, chips: 200
+Folds: Teefuchi
+Pot size: 300
+Boasts: Vomo, 9s 4c
+Wins: Vomo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomo
+Small Blind: Vomo, chips: 100
+Big Blind: Teefuchi, chips: 200
+Calls: Vomo
+DEBUG MESSAGE: INVALID ACTION FROM Teefuchi (2 0)
+Folds: Teefuchi
+Pot size: 400
+Wins: Vomo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teefuchi
+Small Blind: Teefuchi, chips: 100
+Big Blind: Vomo, chips: 200
+Folds: Teefuchi
+Pot size: 300
+Boasts: Vomo, Tc 8s
+Wins: Vomo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomo
+Small Blind: Vomo, chips: 100
+Big Blind: Teefuchi, chips: 100
+Flop: 8d 5h Jh
+Turn: 3d
+River: Ac
+Pot size: 200
+Showdown Reached
+Shows: Teefuchi, Ad 9s
+Combination: Teefuchi, Pair ( Ad Ac Jh 9s 8d )
+Shows: Vomo, 2d 5d
+Combination: Vomo, Pair ( 5d 5h Ac Jh 8d )
+Wins: Teefuchi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teefuchi
+Small Blind: Teefuchi, chips: 100
+Big Blind: Vomo, chips: 200
+Folds: Teefuchi
+Pot size: 300
+Boasts: Vomo, 7d Kc
+Wins: Vomo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomo
+Small Blind: Vomo, chips: 100
+Big Blind: Teefuchi, chips: 100
+Flop: 8d 9s As
+Turn: 4s
+River: Qh
+Pot size: 200
+Showdown Reached
+Shows: Teefuchi, 6s Jd
+Combination: Teefuchi, High Card ( As Qh Jd 9s 8d )
+Shows: Vomo, 2c 7d
+Combination: Vomo, High Card ( As Qh 9s 8d 7d )
+Wins: Teefuchi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teefuchi
+Small Blind: Teefuchi, chips: 100
+Big Blind: Vomo, chips: 200
+Folds: Teefuchi
+Pot size: 300
+Wins: Vomo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomo
+Small Blind: Vomo, chips: 100
+Big Blind: Teefuchi, chips: 100
+Flop: 7d Ad Kc
+Turn: 5h
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Teefuchi, 6d 4c
+Combination: Teefuchi, High Card ( Ad Kc Jh 7d 6d )
+Shows: Vomo, Ac Ts
+Combination: Vomo, Pair ( Ac Ad Kc Jh Ts )
+Wins: Vomo, chips: 200
+Quits: Teefuchi, chips: 0
+Ranking: Vomo, Place: 1, Score: 1000
+Reveal AI: Vomo, AI: Random
+Ranking: Teefuchi, Place: 2, Score: -1000
+Reveal AI: Teefuchi, AI: AIMyBot1
+
+Player Stats for Teefuchi, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Vomo, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+

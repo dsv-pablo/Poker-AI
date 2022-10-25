@@ -1,0 +1,494 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hafamir: AIMyBot1
+Noli: Random
+
+Joins: Hafamir, chips: 1000
+Joins: Noli, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Folds: Hafamir
+Pot size: 300
+Boasts: Noli, 8d Kc
+Wins: Noli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Calls: Noli
+DEBUG MESSAGE: INVALID ACTION FROM Hafamir (2 0)
+Folds: Hafamir
+Pot size: 400
+Boasts: Noli, Jd Ah
+Wins: Noli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Folds: Hafamir
+Pot size: 300
+Wins: Noli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Calls: Noli
+DEBUG MESSAGE: INVALID ACTION FROM Hafamir (2 0)
+Folds: Hafamir
+Pot size: 400
+Boasts: Noli, As 3s
+Wins: Noli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Folds: Hafamir
+Pot size: 300
+Boasts: Noli, Js 3s
+Wins: Noli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Raises: Noli, chips: 300
+Folds: Hafamir
+Pot size: 700
+Boasts: Noli, 8h Td
+Wins: Noli, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Flop: 6c Ts 2c
+Turn: 3d
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, 9d 2s
+Combination: Hafamir, Pair ( 2s 2c Qh Ts 9d )
+Shows: Noli, 7s 8c
+Combination: Noli, High Card ( Qh Ts 8c 7s 6c )
+Wins: Hafamir, chips: 200
+Wins: Noli, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Flop: 3h 3c As
+Turn: Jd
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, Jc Qs
+Combination: Hafamir, Two Pair ( Jc Jd 3h 3c As )
+Shows: Noli, Td Kh
+Combination: Noli, Pair ( 3h 3c As Kh Jd )
+Wins: Hafamir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Folds: Hafamir
+Pot size: 300
+Boasts: Noli, 5c 3c
+Wins: Noli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Flop: 4h Ad 2c
+Turn: 6h
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, 5h 7c
+Combination: Hafamir, Straight ( 7c 6h 5h 4h 3h )
+Shows: Noli, 5d 6d
+Combination: Noli, Straight ( 6d 5d 4h 3h 2c )
+Wins: Hafamir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Folds: Hafamir
+Pot size: 300
+Boasts: Noli, 6h Qs
+Wins: Noli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Flop: 7s 8s 6d
+Turn: 6s
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, Qh 6h
+Combination: Hafamir, Three Of A Kind ( 6h 6d 6s Kc Qh )
+Shows: Noli, 3d 7c
+Combination: Noli, Two Pair ( 7c 7s 6d 6s Kc )
+Wins: Hafamir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Folds: Hafamir
+Pot size: 300
+Boasts: Noli, 7s Ad
+Wins: Noli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Flop: Ah 2c 4c
+Turn: 8h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, 9d 3h
+Combination: Hafamir, Pair ( Ah Ac 9d 8h 4c )
+Shows: Noli, 4h 3c
+Combination: Noli, Two Pair ( Ah Ac 4h 4c 8h )
+Wins: Hafamir, chips: 100
+Wins: Noli, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Flop: 8s 3d 8h
+Turn: 6h
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, 5d Ah
+Combination: Hafamir, Three Of A Kind ( 8s 8h 8d Ah 6h )
+Shows: Noli, Jd Qd
+Combination: Noli, Three Of A Kind ( 8s 8h 8d Qd Jd )
+Wins: Hafamir, chips: 200
+Wins: Noli, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Flop: 3c 5h Qd
+Turn: 2s
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, 3s Ah
+Combination: Hafamir, Pair ( 3s 3c Ah Qd 9h )
+Shows: Noli, Ac 6c
+Combination: Noli, High Card ( Ac Qd 9h 6c 5h )
+Wins: Hafamir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Folds: Hafamir
+Pot size: 300
+Boasts: Noli, 5c 5d
+Wins: Noli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Flop: 6h Ac Tc
+Turn: Qh
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, Js 3d
+Combination: Hafamir, High Card ( Ac Qh Js Tc 8d )
+Shows: Noli, 6c 5d
+Combination: Noli, Pair ( 6c 6h Ac Qh Tc )
+Wins: Hafamir, chips: 100
+Wins: Noli, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Flop: Kh 9s Kd
+Turn: Ah
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, 7c 2s
+Combination: Hafamir, Pair ( Kh Kd Ah Tc 9s )
+Shows: Noli, 4s 9h
+Combination: Noli, Two Pair ( Kh Kd 9h 9s Ah )
+Wins: Noli, chips: 300
+Quits: Hafamir, chips: 0
+Ranking: Noli, Place: 1, Score: 1000
+Reveal AI: Noli, AI: Random
+Ranking: Hafamir, Place: 2, Score: -1000
+Reveal AI: Hafamir, AI: AIMyBot1
+
+Player Stats for Hafamir, AI: AIMyBot1
+General: deals: 19, actions: 10, preflop actions: 10
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Player Stats for Noli, AI: Random
+General: deals: 19, actions: 3, preflop actions: 3
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 15, showdown: 5, bluff: 10
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0.0526316, 3Bet: 0.0526316
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.555556
+
+
+Date: 2022/10/25 13:45:36
+
+The game begins. The AI's of the players are: 
+Hafamir: AIMyBot1
+Noli: Random
+
+Joins: Hafamir, chips: 1000
+Joins: Noli, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Folds: Hafamir
+Pot size: 300
+Boasts: Noli, 8d Kc
+Wins: Noli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Calls: Noli
+DEBUG MESSAGE: INVALID ACTION FROM Hafamir (2 0)
+Folds: Hafamir
+Pot size: 400
+Boasts: Noli, Jd Ah
+Wins: Noli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Folds: Hafamir
+Pot size: 300
+Wins: Noli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Calls: Noli
+DEBUG MESSAGE: INVALID ACTION FROM Hafamir (2 0)
+Folds: Hafamir
+Pot size: 400
+Boasts: Noli, As 3s
+Wins: Noli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Folds: Hafamir
+Pot size: 300
+Boasts: Noli, Js 3s
+Wins: Noli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Raises: Noli, chips: 300
+Folds: Hafamir
+Pot size: 700
+Boasts: Noli, 8h Td
+Wins: Noli, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Flop: 6c Ts 2c
+Turn: 3d
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, 9d 2s
+Combination: Hafamir, Pair ( 2s 2c Qh Ts 9d )
+Shows: Noli, 7s 8c
+Combination: Noli, High Card ( Qh Ts 8c 7s 6c )
+Wins: Hafamir, chips: 200
+Wins: Noli, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Flop: 3h 3c As
+Turn: Jd
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, Jc Qs
+Combination: Hafamir, Two Pair ( Jc Jd 3h 3c As )
+Shows: Noli, Td Kh
+Combination: Noli, Pair ( 3h 3c As Kh Jd )
+Wins: Hafamir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Folds: Hafamir
+Pot size: 300
+Boasts: Noli, 5c 3c
+Wins: Noli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Flop: 4h Ad 2c
+Turn: 6h
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, 5h 7c
+Combination: Hafamir, Straight ( 7c 6h 5h 4h 3h )
+Shows: Noli, 5d 6d
+Combination: Noli, Straight ( 6d 5d 4h 3h 2c )
+Wins: Hafamir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Folds: Hafamir
+Pot size: 300
+Boasts: Noli, 6h Qs
+Wins: Noli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Flop: 7s 8s 6d
+Turn: 6s
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, Qh 6h
+Combination: Hafamir, Three Of A Kind ( 6h 6d 6s Kc Qh )
+Shows: Noli, 3d 7c
+Combination: Noli, Two Pair ( 7c 7s 6d 6s Kc )
+Wins: Hafamir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Folds: Hafamir
+Pot size: 300
+Boasts: Noli, 7s Ad
+Wins: Noli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Flop: Ah 2c 4c
+Turn: 8h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, 9d 3h
+Combination: Hafamir, Pair ( Ah Ac 9d 8h 4c )
+Shows: Noli, 4h 3c
+Combination: Noli, Two Pair ( Ah Ac 4h 4c 8h )
+Wins: Hafamir, chips: 100
+Wins: Noli, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Flop: 8s 3d 8h
+Turn: 6h
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, 5d Ah
+Combination: Hafamir, Three Of A Kind ( 8s 8h 8d Ah 6h )
+Shows: Noli, Jd Qd
+Combination: Noli, Three Of A Kind ( 8s 8h 8d Qd Jd )
+Wins: Hafamir, chips: 200
+Wins: Noli, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Flop: 3c 5h Qd
+Turn: 2s
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, 3s Ah
+Combination: Hafamir, Pair ( 3s 3c Ah Qd 9h )
+Shows: Noli, Ac 6c
+Combination: Noli, High Card ( Ac Qd 9h 6c 5h )
+Wins: Hafamir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Folds: Hafamir
+Pot size: 300
+Boasts: Noli, 5c 5d
+Wins: Noli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noli
+Small Blind: Noli, chips: 100
+Big Blind: Hafamir, chips: 200
+Flop: 6h Ac Tc
+Turn: Qh
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, Js 3d
+Combination: Hafamir, High Card ( Ac Qh Js Tc 8d )
+Shows: Noli, 6c 5d
+Combination: Noli, Pair ( 6c 6h Ac Qh Tc )
+Wins: Hafamir, chips: 100
+Wins: Noli, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hafamir
+Small Blind: Hafamir, chips: 100
+Big Blind: Noli, chips: 200
+Flop: Kh 9s Kd
+Turn: Ah
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Hafamir, 7c 2s
+Combination: Hafamir, Pair ( Kh Kd Ah Tc 9s )
+Shows: Noli, 4s 9h
+Combination: Noli, Two Pair ( Kh Kd 9h 9s Ah )
+Wins: Noli, chips: 300
+Quits: Hafamir, chips: 0
+Ranking: Noli, Place: 1, Score: 1000
+Reveal AI: Noli, AI: Random
+Ranking: Hafamir, Place: 2, Score: -1000
+Reveal AI: Hafamir, AI: AIMyBot1
+
+Player Stats for Hafamir, AI: AIMyBot1
+General: deals: 19, actions: 10, preflop actions: 10
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Player Stats for Noli, AI: Random
+General: deals: 19, actions: 3, preflop actions: 3
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 15, showdown: 5, bluff: 10
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0.0526316, 3Bet: 0.0526316
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.555556
+
+

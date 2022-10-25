@@ -1,0 +1,286 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Koe: AIMyBot1
+Boefudef: Random
+
+Joins: Koe, chips: 1000
+Joins: Boefudef, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Boefudef, chips: 200
+Folds: Koe
+Pot size: 300
+Boasts: Boefudef, 7d 9h
+Wins: Boefudef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefudef
+Small Blind: Boefudef, chips: 100
+Big Blind: Koe, chips: 200
+Calls: Boefudef
+DEBUG MESSAGE: INVALID ACTION FROM Koe (2 0)
+Folds: Koe
+Pot size: 400
+Boasts: Boefudef, 6s Ah
+Wins: Boefudef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Boefudef, chips: 200
+Folds: Koe
+Pot size: 300
+Boasts: Boefudef, Tc 4c
+Wins: Boefudef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefudef
+Small Blind: Boefudef, chips: 100
+Big Blind: Koe, chips: 200
+Folds: Boefudef
+Pot size: 300
+Wins: Koe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Boefudef, chips: 200
+Folds: Koe
+Pot size: 300
+Boasts: Boefudef, As 7s
+Wins: Boefudef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefudef
+Small Blind: Boefudef, chips: 100
+Big Blind: Koe, chips: 200
+Calls: Boefudef
+DEBUG MESSAGE: INVALID ACTION FROM Koe (2 0)
+Folds: Koe
+Pot size: 400
+Boasts: Boefudef, Jh 3s
+Wins: Boefudef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Boefudef, chips: 200
+Folds: Koe
+Pot size: 300
+Wins: Boefudef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefudef
+Small Blind: Boefudef, chips: 100
+Big Blind: Koe, chips: 200
+Raises: Boefudef, chips: 1500
+Folds: Koe
+Pot size: 1900
+Wins: Boefudef, chips: 1900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Boefudef, chips: 200
+Flop: 5c 9d Tc
+Turn: 9h
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Koe, Ad Qh
+Combination: Koe, Pair ( 9d 9h Ad Qh Tc )
+Shows: Boefudef, 7h 6d
+Combination: Boefudef, Pair ( 9d 9h Tc 7h 6d )
+Wins: Koe, chips: 200
+Wins: Boefudef, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefudef
+Small Blind: Boefudef, chips: 100
+Big Blind: Koe, chips: 200
+Flop: Jh 5d 6h
+Turn: Tc
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Koe, 8d Ac
+Combination: Koe, High Card ( Ac Jh Tc 8d 7c )
+Shows: Boefudef, Js 4c
+Combination: Boefudef, Pair ( Js Jh Tc 7c 6h )
+Wins: Koe, chips: 100
+Wins: Boefudef, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Boefudef, chips: 200
+Flop: 9h 8s 3h
+Turn: 6d
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Koe, Js Kc
+Combination: Koe, High Card ( Ac Kc Js 9h 8s )
+Shows: Boefudef, 6h 9s
+Combination: Boefudef, Two Pair ( 9s 9h 6h 6d Ac )
+Wins: Boefudef, chips: 300
+Quits: Koe, chips: 0
+Ranking: Boefudef, Place: 1, Score: 1000
+Reveal AI: Boefudef, AI: Random
+Ranking: Koe, Place: 2, Score: -1000
+Reveal AI: Koe, AI: AIMyBot1
+
+Player Stats for Boefudef, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Koe, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:03
+
+The game begins. The AI's of the players are: 
+Koe: AIMyBot1
+Boefudef: Random
+
+Joins: Koe, chips: 1000
+Joins: Boefudef, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Boefudef, chips: 200
+Folds: Koe
+Pot size: 300
+Boasts: Boefudef, 7d 9h
+Wins: Boefudef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefudef
+Small Blind: Boefudef, chips: 100
+Big Blind: Koe, chips: 200
+Calls: Boefudef
+DEBUG MESSAGE: INVALID ACTION FROM Koe (2 0)
+Folds: Koe
+Pot size: 400
+Boasts: Boefudef, 6s Ah
+Wins: Boefudef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Boefudef, chips: 200
+Folds: Koe
+Pot size: 300
+Boasts: Boefudef, Tc 4c
+Wins: Boefudef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefudef
+Small Blind: Boefudef, chips: 100
+Big Blind: Koe, chips: 200
+Folds: Boefudef
+Pot size: 300
+Wins: Koe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Boefudef, chips: 200
+Folds: Koe
+Pot size: 300
+Boasts: Boefudef, As 7s
+Wins: Boefudef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefudef
+Small Blind: Boefudef, chips: 100
+Big Blind: Koe, chips: 200
+Calls: Boefudef
+DEBUG MESSAGE: INVALID ACTION FROM Koe (2 0)
+Folds: Koe
+Pot size: 400
+Boasts: Boefudef, Jh 3s
+Wins: Boefudef, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Boefudef, chips: 200
+Folds: Koe
+Pot size: 300
+Wins: Boefudef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefudef
+Small Blind: Boefudef, chips: 100
+Big Blind: Koe, chips: 200
+Raises: Boefudef, chips: 1500
+Folds: Koe
+Pot size: 1900
+Wins: Boefudef, chips: 1900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Boefudef, chips: 200
+Flop: 5c 9d Tc
+Turn: 9h
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Koe, Ad Qh
+Combination: Koe, Pair ( 9d 9h Ad Qh Tc )
+Shows: Boefudef, 7h 6d
+Combination: Boefudef, Pair ( 9d 9h Tc 7h 6d )
+Wins: Koe, chips: 200
+Wins: Boefudef, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boefudef
+Small Blind: Boefudef, chips: 100
+Big Blind: Koe, chips: 200
+Flop: Jh 5d 6h
+Turn: Tc
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Koe, 8d Ac
+Combination: Koe, High Card ( Ac Jh Tc 8d 7c )
+Shows: Boefudef, Js 4c
+Combination: Boefudef, Pair ( Js Jh Tc 7c 6h )
+Wins: Koe, chips: 100
+Wins: Boefudef, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Boefudef, chips: 200
+Flop: 9h 8s 3h
+Turn: 6d
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Koe, Js Kc
+Combination: Koe, High Card ( Ac Kc Js 9h 8s )
+Shows: Boefudef, 6h 9s
+Combination: Boefudef, Two Pair ( 9s 9h 6h 6d Ac )
+Wins: Boefudef, chips: 300
+Quits: Koe, chips: 0
+Ranking: Boefudef, Place: 1, Score: 1000
+Reveal AI: Boefudef, AI: Random
+Ranking: Koe, Place: 2, Score: -1000
+Reveal AI: Koe, AI: AIMyBot1
+
+Player Stats for Boefudef, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Koe, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

@@ -1,0 +1,456 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gettef: AIMyBot1
+Kitte: Random
+
+Joins: Gettef, chips: 1000
+Joins: Kitte, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Folds: Gettef
+Pot size: 300
+Wins: Kitte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kitte
+Small Blind: Kitte, chips: 100
+Big Blind: Gettef, chips: 200
+Calls: Kitte
+DEBUG MESSAGE: INVALID ACTION FROM Gettef (2 0)
+Folds: Gettef
+Pot size: 400
+Wins: Kitte, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Folds: Gettef
+Pot size: 300
+Wins: Kitte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kitte
+Small Blind: Kitte, chips: 100
+Big Blind: Gettef, chips: 200
+Calls: Kitte
+DEBUG MESSAGE: INVALID ACTION FROM Gettef (2 0)
+Folds: Gettef
+Pot size: 400
+Wins: Kitte, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Folds: Gettef
+Pot size: 300
+Wins: Kitte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kitte
+Small Blind: Kitte, chips: 100
+Big Blind: Gettef, chips: 200
+Calls: Kitte
+DEBUG MESSAGE: INVALID ACTION FROM Gettef (2 0)
+Folds: Gettef
+Pot size: 400
+Boasts: Kitte, 7d Kc
+Wins: Kitte, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Flop: Th 3h 7c
+Turn: 6s
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Gettef, 6h 9d
+Combination: Gettef, Pair ( 6h 6s Th 9d 7c )
+Shows: Kitte, Qd 2d
+Combination: Kitte, High Card ( Qd Th 7c 6s 4s )
+Wins: Gettef, chips: 200
+Wins: Kitte, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kitte
+Small Blind: Kitte, chips: 100
+Big Blind: Gettef, chips: 200
+Flop: Kd 4d 6c
+Turn: 6s
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Gettef, Th 9h
+Combination: Gettef, Pair ( 6c 6s Kd Jc Th )
+Shows: Kitte, Qd 5s
+Combination: Kitte, Pair ( 6c 6s Kd Qd Jc )
+Wins: Gettef, chips: 100
+Wins: Kitte, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Flop: 2c 5c Kc
+Turn: Qh
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Gettef, 4s Ad
+Combination: Gettef, Pair ( 2c 2d Ad Kc Qh )
+Shows: Kitte, 6h 4d
+Combination: Kitte, Pair ( 2c 2d Kc Qh 6h )
+Wins: Gettef, chips: 200
+Wins: Kitte, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kitte
+Small Blind: Kitte, chips: 100
+Big Blind: Gettef, chips: 200
+Flop: Th 6d Ad
+Turn: Qc
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Gettef, 5s Qh
+Combination: Gettef, Pair ( Qh Qc Ad Kc Th )
+Shows: Kitte, 3d 3c
+Combination: Kitte, Pair ( 3d 3c Ad Kc Qc )
+Wins: Gettef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Folds: Gettef
+Pot size: 300
+Wins: Kitte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kitte
+Small Blind: Kitte, chips: 100
+Big Blind: Gettef, chips: 200
+Flop: 8c As 2h
+Turn: 6h
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Gettef, 9h 7s
+Combination: Gettef, High Card ( As Kc 9h 8c 7s )
+Shows: Kitte, 2d 9d
+Combination: Kitte, Pair ( 2d 2h As Kc 9d )
+Wins: Gettef, chips: 100
+Wins: Kitte, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Flop: Ah 4d 5d
+Turn: 5c
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Gettef, 7s 8c
+Combination: Gettef, Two Pair ( 7s 7h 5d 5c Ah )
+Shows: Kitte, 6d Kc
+Combination: Kitte, Pair ( 5d 5c Ah Kc 7h )
+Wins: Gettef, chips: 200
+Wins: Kitte, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kitte
+Small Blind: Kitte, chips: 100
+Big Blind: Gettef, chips: 200
+Flop: 7s 2d 6d
+Turn: Js
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Gettef, Tc Td
+Combination: Gettef, Pair ( Tc Td Js 7s 6d )
+Shows: Kitte, 3d 9d
+Combination: Kitte, High Card ( Js 9d 7s 6d 5h )
+Wins: Gettef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Folds: Gettef
+Pot size: 300
+Wins: Kitte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kitte
+Small Blind: Kitte, chips: 100
+Big Blind: Gettef, chips: 200
+Flop: Kd 8c 2s
+Turn: 6c
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Gettef, Ts 9c
+Combination: Gettef, High Card ( Kd Ts 9c 8c 6c )
+Shows: Kitte, Jc 3h
+Combination: Kitte, High Card ( Kd Jc 8c 6c 5c )
+Wins: Gettef, chips: 100
+Wins: Kitte, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Flop: 7s Ad 9s
+Turn: Th
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Gettef, Qd Kc
+Combination: Gettef, High Card ( Ad Kc Qd Th 9s )
+Shows: Kitte, Ks 7d
+Combination: Kitte, Pair ( 7d 7s Ad Ks Th )
+Wins: Kitte, chips: 300
+Quits: Gettef, chips: 0
+Ranking: Kitte, Place: 1, Score: 1000
+Reveal AI: Kitte, AI: Random
+Ranking: Gettef, Place: 2, Score: -1000
+Reveal AI: Gettef, AI: AIMyBot1
+
+Player Stats for Gettef, AI: AIMyBot1
+General: deals: 17, actions: 8, preflop actions: 8
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Player Stats for Kitte, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 15, showdown: 7, bluff: 8
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.777778
+
+
+Date: 2022/10/25 13:46:07
+
+The game begins. The AI's of the players are: 
+Gettef: AIMyBot1
+Kitte: Random
+
+Joins: Gettef, chips: 1000
+Joins: Kitte, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Folds: Gettef
+Pot size: 300
+Wins: Kitte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kitte
+Small Blind: Kitte, chips: 100
+Big Blind: Gettef, chips: 200
+Calls: Kitte
+DEBUG MESSAGE: INVALID ACTION FROM Gettef (2 0)
+Folds: Gettef
+Pot size: 400
+Wins: Kitte, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Folds: Gettef
+Pot size: 300
+Wins: Kitte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kitte
+Small Blind: Kitte, chips: 100
+Big Blind: Gettef, chips: 200
+Calls: Kitte
+DEBUG MESSAGE: INVALID ACTION FROM Gettef (2 0)
+Folds: Gettef
+Pot size: 400
+Wins: Kitte, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Folds: Gettef
+Pot size: 300
+Wins: Kitte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kitte
+Small Blind: Kitte, chips: 100
+Big Blind: Gettef, chips: 200
+Calls: Kitte
+DEBUG MESSAGE: INVALID ACTION FROM Gettef (2 0)
+Folds: Gettef
+Pot size: 400
+Boasts: Kitte, 7d Kc
+Wins: Kitte, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Flop: Th 3h 7c
+Turn: 6s
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Gettef, 6h 9d
+Combination: Gettef, Pair ( 6h 6s Th 9d 7c )
+Shows: Kitte, Qd 2d
+Combination: Kitte, High Card ( Qd Th 7c 6s 4s )
+Wins: Gettef, chips: 200
+Wins: Kitte, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kitte
+Small Blind: Kitte, chips: 100
+Big Blind: Gettef, chips: 200
+Flop: Kd 4d 6c
+Turn: 6s
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Gettef, Th 9h
+Combination: Gettef, Pair ( 6c 6s Kd Jc Th )
+Shows: Kitte, Qd 5s
+Combination: Kitte, Pair ( 6c 6s Kd Qd Jc )
+Wins: Gettef, chips: 100
+Wins: Kitte, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Flop: 2c 5c Kc
+Turn: Qh
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Gettef, 4s Ad
+Combination: Gettef, Pair ( 2c 2d Ad Kc Qh )
+Shows: Kitte, 6h 4d
+Combination: Kitte, Pair ( 2c 2d Kc Qh 6h )
+Wins: Gettef, chips: 200
+Wins: Kitte, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kitte
+Small Blind: Kitte, chips: 100
+Big Blind: Gettef, chips: 200
+Flop: Th 6d Ad
+Turn: Qc
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Gettef, 5s Qh
+Combination: Gettef, Pair ( Qh Qc Ad Kc Th )
+Shows: Kitte, 3d 3c
+Combination: Kitte, Pair ( 3d 3c Ad Kc Qc )
+Wins: Gettef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Folds: Gettef
+Pot size: 300
+Wins: Kitte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kitte
+Small Blind: Kitte, chips: 100
+Big Blind: Gettef, chips: 200
+Flop: 8c As 2h
+Turn: 6h
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Gettef, 9h 7s
+Combination: Gettef, High Card ( As Kc 9h 8c 7s )
+Shows: Kitte, 2d 9d
+Combination: Kitte, Pair ( 2d 2h As Kc 9d )
+Wins: Gettef, chips: 100
+Wins: Kitte, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Flop: Ah 4d 5d
+Turn: 5c
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Gettef, 7s 8c
+Combination: Gettef, Two Pair ( 7s 7h 5d 5c Ah )
+Shows: Kitte, 6d Kc
+Combination: Kitte, Pair ( 5d 5c Ah Kc 7h )
+Wins: Gettef, chips: 200
+Wins: Kitte, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kitte
+Small Blind: Kitte, chips: 100
+Big Blind: Gettef, chips: 200
+Flop: 7s 2d 6d
+Turn: Js
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Gettef, Tc Td
+Combination: Gettef, Pair ( Tc Td Js 7s 6d )
+Shows: Kitte, 3d 9d
+Combination: Kitte, High Card ( Js 9d 7s 6d 5h )
+Wins: Gettef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Folds: Gettef
+Pot size: 300
+Wins: Kitte, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kitte
+Small Blind: Kitte, chips: 100
+Big Blind: Gettef, chips: 200
+Flop: Kd 8c 2s
+Turn: 6c
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Gettef, Ts 9c
+Combination: Gettef, High Card ( Kd Ts 9c 8c 6c )
+Shows: Kitte, Jc 3h
+Combination: Kitte, High Card ( Kd Jc 8c 6c 5c )
+Wins: Gettef, chips: 100
+Wins: Kitte, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gettef
+Small Blind: Gettef, chips: 100
+Big Blind: Kitte, chips: 200
+Flop: 7s Ad 9s
+Turn: Th
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Gettef, Qd Kc
+Combination: Gettef, High Card ( Ad Kc Qd Th 9s )
+Shows: Kitte, Ks 7d
+Combination: Kitte, Pair ( 7d 7s Ad Ks Th )
+Wins: Kitte, chips: 300
+Quits: Gettef, chips: 0
+Ranking: Kitte, Place: 1, Score: 1000
+Reveal AI: Kitte, AI: Random
+Ranking: Gettef, Place: 2, Score: -1000
+Reveal AI: Gettef, AI: AIMyBot1
+
+Player Stats for Gettef, AI: AIMyBot1
+General: deals: 17, actions: 8, preflop actions: 8
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Player Stats for Kitte, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 15, showdown: 7, bluff: 8
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.777778
+
+

@@ -1,0 +1,264 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Doekenoen: AIMyBot1
+Toepee: Random
+
+Joins: Doekenoen, chips: 1000
+Joins: Toepee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toepee
+Small Blind: Toepee, chips: 100
+Big Blind: Doekenoen, chips: 200
+Raises: Toepee, chips: 300
+Folds: Doekenoen
+Pot size: 700
+Boasts: Toepee, 7h 4c
+Wins: Toepee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doekenoen
+Small Blind: Doekenoen, chips: 100
+Big Blind: Toepee, chips: 200
+Folds: Doekenoen
+Pot size: 300
+Wins: Toepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toepee
+Small Blind: Toepee, chips: 100
+Big Blind: Doekenoen, chips: 200
+Folds: Toepee
+Pot size: 300
+Boasts: Toepee, 2d 3h
+Wins: Doekenoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doekenoen
+Small Blind: Doekenoen, chips: 100
+Big Blind: Toepee, chips: 200
+Folds: Doekenoen
+Pot size: 300
+Boasts: Toepee, 9s 8s
+Wins: Toepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toepee
+Small Blind: Toepee, chips: 100
+Big Blind: Doekenoen, chips: 200
+Raises: Toepee, chips: 300
+Folds: Doekenoen
+Pot size: 700
+Boasts: Toepee, Qs Qc
+Wins: Toepee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doekenoen
+Small Blind: Doekenoen, chips: 100
+Big Blind: Toepee, chips: 200
+Folds: Doekenoen
+Pot size: 300
+Wins: Toepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toepee
+Small Blind: Toepee, chips: 100
+Big Blind: Doekenoen, chips: 200
+Raises: Toepee, chips: 300
+Folds: Doekenoen
+Pot size: 700
+Boasts: Toepee, Td 6d
+Wins: Toepee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doekenoen
+Small Blind: Doekenoen, chips: 100
+Big Blind: Toepee, chips: 200
+Folds: Doekenoen
+Pot size: 300
+Wins: Toepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toepee
+Small Blind: Toepee, chips: 100
+Big Blind: Doekenoen, chips: 100
+Flop: 2h 4d 9d
+Turn: 5c
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Doekenoen, Js Jc
+Combination: Doekenoen, Pair ( Js Jc Ad 9d 5c )
+Shows: Toepee, 8s Td
+Combination: Toepee, High Card ( Ad Td 9d 8s 5c )
+Wins: Doekenoen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doekenoen
+Small Blind: Doekenoen, chips: 100
+Big Blind: Toepee, chips: 200
+Folds: Doekenoen
+Pot size: 300
+Wins: Toepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toepee
+Small Blind: Toepee, chips: 100
+Big Blind: Doekenoen, chips: 100
+Flop: 8c Qc 4c
+Turn: Js
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Doekenoen, Ad 8s
+Combination: Doekenoen, Pair ( 8s 8c Ad Qc Js )
+Shows: Toepee, 4d 8h
+Combination: Toepee, Two Pair ( 8h 8c 4d 4c Qc )
+Wins: Toepee, chips: 200
+Quits: Doekenoen, chips: 0
+Ranking: Toepee, Place: 1, Score: 1000
+Reveal AI: Toepee, AI: Random
+Ranking: Doekenoen, Place: 2, Score: -1000
+Reveal AI: Doekenoen, AI: AIMyBot1
+
+Player Stats for Doekenoen, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Toepee, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.272727, 3Bet: 0.272727
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:02
+
+The game begins. The AI's of the players are: 
+Doekenoen: AIMyBot1
+Toepee: Random
+
+Joins: Doekenoen, chips: 1000
+Joins: Toepee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toepee
+Small Blind: Toepee, chips: 100
+Big Blind: Doekenoen, chips: 200
+Raises: Toepee, chips: 300
+Folds: Doekenoen
+Pot size: 700
+Boasts: Toepee, 7h 4c
+Wins: Toepee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doekenoen
+Small Blind: Doekenoen, chips: 100
+Big Blind: Toepee, chips: 200
+Folds: Doekenoen
+Pot size: 300
+Wins: Toepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toepee
+Small Blind: Toepee, chips: 100
+Big Blind: Doekenoen, chips: 200
+Folds: Toepee
+Pot size: 300
+Boasts: Toepee, 2d 3h
+Wins: Doekenoen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doekenoen
+Small Blind: Doekenoen, chips: 100
+Big Blind: Toepee, chips: 200
+Folds: Doekenoen
+Pot size: 300
+Boasts: Toepee, 9s 8s
+Wins: Toepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toepee
+Small Blind: Toepee, chips: 100
+Big Blind: Doekenoen, chips: 200
+Raises: Toepee, chips: 300
+Folds: Doekenoen
+Pot size: 700
+Boasts: Toepee, Qs Qc
+Wins: Toepee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doekenoen
+Small Blind: Doekenoen, chips: 100
+Big Blind: Toepee, chips: 200
+Folds: Doekenoen
+Pot size: 300
+Wins: Toepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toepee
+Small Blind: Toepee, chips: 100
+Big Blind: Doekenoen, chips: 200
+Raises: Toepee, chips: 300
+Folds: Doekenoen
+Pot size: 700
+Boasts: Toepee, Td 6d
+Wins: Toepee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doekenoen
+Small Blind: Doekenoen, chips: 100
+Big Blind: Toepee, chips: 200
+Folds: Doekenoen
+Pot size: 300
+Wins: Toepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toepee
+Small Blind: Toepee, chips: 100
+Big Blind: Doekenoen, chips: 100
+Flop: 2h 4d 9d
+Turn: 5c
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Doekenoen, Js Jc
+Combination: Doekenoen, Pair ( Js Jc Ad 9d 5c )
+Shows: Toepee, 8s Td
+Combination: Toepee, High Card ( Ad Td 9d 8s 5c )
+Wins: Doekenoen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Doekenoen
+Small Blind: Doekenoen, chips: 100
+Big Blind: Toepee, chips: 200
+Folds: Doekenoen
+Pot size: 300
+Wins: Toepee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toepee
+Small Blind: Toepee, chips: 100
+Big Blind: Doekenoen, chips: 100
+Flop: 8c Qc 4c
+Turn: Js
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Doekenoen, Ad 8s
+Combination: Doekenoen, Pair ( 8s 8c Ad Qc Js )
+Shows: Toepee, 4d 8h
+Combination: Toepee, Two Pair ( 8h 8c 4d 4c Qc )
+Wins: Toepee, chips: 200
+Quits: Doekenoen, chips: 0
+Ranking: Toepee, Place: 1, Score: 1000
+Reveal AI: Toepee, AI: Random
+Ranking: Doekenoen, Place: 2, Score: -1000
+Reveal AI: Doekenoen, AI: AIMyBot1
+
+Player Stats for Doekenoen, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Toepee, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.272727, 3Bet: 0.272727
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

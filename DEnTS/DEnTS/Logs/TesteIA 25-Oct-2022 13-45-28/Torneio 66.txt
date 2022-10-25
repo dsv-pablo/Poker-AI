@@ -1,0 +1,190 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Goni: Random
+Nehekoel: AIMyBot1
+
+Joins: Goni, chips: 1000
+Joins: Nehekoel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nehekoel
+Small Blind: Nehekoel, chips: 100
+Big Blind: Goni, chips: 200
+Folds: Nehekoel
+Pot size: 300
+Wins: Goni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goni
+Small Blind: Goni, chips: 100
+Big Blind: Nehekoel, chips: 200
+Calls: Goni
+DEBUG MESSAGE: INVALID ACTION FROM Nehekoel (2 0)
+Folds: Nehekoel
+Pot size: 400
+Wins: Goni, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nehekoel
+Small Blind: Nehekoel, chips: 100
+Big Blind: Goni, chips: 200
+Folds: Nehekoel
+Pot size: 300
+Wins: Goni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goni
+Small Blind: Goni, chips: 100
+Big Blind: Nehekoel, chips: 200
+Raises: Goni, chips: 300
+Folds: Nehekoel
+Pot size: 700
+Boasts: Goni, 4c Jd
+Wins: Goni, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nehekoel
+Small Blind: Nehekoel, chips: 100
+Big Blind: Goni, chips: 200
+Folds: Nehekoel
+Pot size: 300
+Wins: Goni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goni
+Small Blind: Goni, chips: 100
+Big Blind: Nehekoel, chips: 200
+Calls: Goni
+DEBUG MESSAGE: INVALID ACTION FROM Nehekoel (2 0)
+Folds: Nehekoel
+Pot size: 400
+Wins: Goni, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nehekoel
+Small Blind: Nehekoel, chips: 100
+Big Blind: Goni, chips: 200
+Flop: Qh 9c 8h
+Turn: 7c
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Goni, 2h 6h
+Combination: Goni, Straight ( 9c 8h 7c 6h 5s )
+Shows: Nehekoel, 9d Jd
+Combination: Nehekoel, Pair ( 9d 9c Qh Jd 8h )
+Wins: Goni, chips: 300
+Quits: Nehekoel, chips: 0
+Ranking: Goni, Place: 1, Score: 1000
+Reveal AI: Goni, AI: Random
+Ranking: Nehekoel, Place: 2, Score: -1000
+Reveal AI: Nehekoel, AI: AIMyBot1
+
+Player Stats for Goni, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Nehekoel, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:34
+
+The game begins. The AI's of the players are: 
+Goni: Random
+Nehekoel: AIMyBot1
+
+Joins: Goni, chips: 1000
+Joins: Nehekoel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nehekoel
+Small Blind: Nehekoel, chips: 100
+Big Blind: Goni, chips: 200
+Folds: Nehekoel
+Pot size: 300
+Wins: Goni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goni
+Small Blind: Goni, chips: 100
+Big Blind: Nehekoel, chips: 200
+Calls: Goni
+DEBUG MESSAGE: INVALID ACTION FROM Nehekoel (2 0)
+Folds: Nehekoel
+Pot size: 400
+Wins: Goni, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nehekoel
+Small Blind: Nehekoel, chips: 100
+Big Blind: Goni, chips: 200
+Folds: Nehekoel
+Pot size: 300
+Wins: Goni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goni
+Small Blind: Goni, chips: 100
+Big Blind: Nehekoel, chips: 200
+Raises: Goni, chips: 300
+Folds: Nehekoel
+Pot size: 700
+Boasts: Goni, 4c Jd
+Wins: Goni, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nehekoel
+Small Blind: Nehekoel, chips: 100
+Big Blind: Goni, chips: 200
+Folds: Nehekoel
+Pot size: 300
+Wins: Goni, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goni
+Small Blind: Goni, chips: 100
+Big Blind: Nehekoel, chips: 200
+Calls: Goni
+DEBUG MESSAGE: INVALID ACTION FROM Nehekoel (2 0)
+Folds: Nehekoel
+Pot size: 400
+Wins: Goni, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nehekoel
+Small Blind: Nehekoel, chips: 100
+Big Blind: Goni, chips: 200
+Flop: Qh 9c 8h
+Turn: 7c
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Goni, 2h 6h
+Combination: Goni, Straight ( 9c 8h 7c 6h 5s )
+Shows: Nehekoel, 9d Jd
+Combination: Nehekoel, Pair ( 9d 9c Qh Jd 8h )
+Wins: Goni, chips: 300
+Quits: Nehekoel, chips: 0
+Ranking: Goni, Place: 1, Score: 1000
+Reveal AI: Goni, AI: Random
+Ranking: Nehekoel, Place: 2, Score: -1000
+Reveal AI: Nehekoel, AI: AIMyBot1
+
+Player Stats for Goni, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Nehekoel, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

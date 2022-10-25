@@ -1,0 +1,194 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Weewra: Random
+Chuvadoer: AIMyBot1
+
+Joins: Weewra, chips: 1000
+Joins: Chuvadoer, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewra
+Small Blind: Weewra, chips: 100
+Big Blind: Chuvadoer, chips: 200
+Raises: Weewra, chips: 300
+Folds: Chuvadoer
+Pot size: 700
+Boasts: Weewra, Ks Th
+Wins: Weewra, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuvadoer
+Small Blind: Chuvadoer, chips: 100
+Big Blind: Weewra, chips: 200
+Folds: Chuvadoer
+Pot size: 300
+Boasts: Weewra, 7s Kc
+Wins: Weewra, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewra
+Small Blind: Weewra, chips: 100
+Big Blind: Chuvadoer, chips: 200
+Raises: Weewra, chips: 300
+Folds: Chuvadoer
+Pot size: 700
+Boasts: Weewra, 3h 8d
+Wins: Weewra, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuvadoer
+Small Blind: Chuvadoer, chips: 100
+Big Blind: Weewra, chips: 200
+Folds: Chuvadoer
+Pot size: 300
+Wins: Weewra, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewra
+Small Blind: Weewra, chips: 100
+Big Blind: Chuvadoer, chips: 200
+Calls: Weewra
+DEBUG MESSAGE: INVALID ACTION FROM Chuvadoer (2 0)
+Folds: Chuvadoer
+Pot size: 400
+Wins: Weewra, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuvadoer
+Small Blind: Chuvadoer, chips: 100
+Big Blind: Weewra, chips: 200
+Folds: Chuvadoer
+Pot size: 300
+Boasts: Weewra, Kh 9h
+Wins: Weewra, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewra
+Small Blind: Weewra, chips: 100
+Big Blind: Chuvadoer, chips: 100
+Flop: Ts 7s 5d
+Turn: 8s
+River: 6c
+Pot size: 200
+Showdown Reached
+Shows: Weewra, 3h 8h
+Combination: Weewra, Pair ( 8h 8s Ts 7s 6c )
+Shows: Chuvadoer, 3s 3d
+Combination: Chuvadoer, Pair ( 3s 3d Ts 8s 7s )
+Wins: Weewra, chips: 200
+Quits: Chuvadoer, chips: 0
+Ranking: Weewra, Place: 1, Score: 1000
+Reveal AI: Weewra, AI: Random
+Ranking: Chuvadoer, Place: 2, Score: -1000
+Reveal AI: Chuvadoer, AI: AIMyBot1
+
+Player Stats for Chuvadoer, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Weewra, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:44
+
+The game begins. The AI's of the players are: 
+Weewra: Random
+Chuvadoer: AIMyBot1
+
+Joins: Weewra, chips: 1000
+Joins: Chuvadoer, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewra
+Small Blind: Weewra, chips: 100
+Big Blind: Chuvadoer, chips: 200
+Raises: Weewra, chips: 300
+Folds: Chuvadoer
+Pot size: 700
+Boasts: Weewra, Ks Th
+Wins: Weewra, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuvadoer
+Small Blind: Chuvadoer, chips: 100
+Big Blind: Weewra, chips: 200
+Folds: Chuvadoer
+Pot size: 300
+Boasts: Weewra, 7s Kc
+Wins: Weewra, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewra
+Small Blind: Weewra, chips: 100
+Big Blind: Chuvadoer, chips: 200
+Raises: Weewra, chips: 300
+Folds: Chuvadoer
+Pot size: 700
+Boasts: Weewra, 3h 8d
+Wins: Weewra, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuvadoer
+Small Blind: Chuvadoer, chips: 100
+Big Blind: Weewra, chips: 200
+Folds: Chuvadoer
+Pot size: 300
+Wins: Weewra, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewra
+Small Blind: Weewra, chips: 100
+Big Blind: Chuvadoer, chips: 200
+Calls: Weewra
+DEBUG MESSAGE: INVALID ACTION FROM Chuvadoer (2 0)
+Folds: Chuvadoer
+Pot size: 400
+Wins: Weewra, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chuvadoer
+Small Blind: Chuvadoer, chips: 100
+Big Blind: Weewra, chips: 200
+Folds: Chuvadoer
+Pot size: 300
+Boasts: Weewra, Kh 9h
+Wins: Weewra, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weewra
+Small Blind: Weewra, chips: 100
+Big Blind: Chuvadoer, chips: 100
+Flop: Ts 7s 5d
+Turn: 8s
+River: 6c
+Pot size: 200
+Showdown Reached
+Shows: Weewra, 3h 8h
+Combination: Weewra, Pair ( 8h 8s Ts 7s 6c )
+Shows: Chuvadoer, 3s 3d
+Combination: Chuvadoer, Pair ( 3s 3d Ts 8s 7s )
+Wins: Weewra, chips: 200
+Quits: Chuvadoer, chips: 0
+Ranking: Weewra, Place: 1, Score: 1000
+Reveal AI: Weewra, AI: Random
+Ranking: Chuvadoer, Place: 2, Score: -1000
+Reveal AI: Chuvadoer, AI: AIMyBot1
+
+Player Stats for Chuvadoer, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Weewra, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

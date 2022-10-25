@@ -1,0 +1,312 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Lee: AIMyBot1
+Joettenhoenny: Random
+
+Joins: Lee, chips: 1000
+Joins: Joettenhoenny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joettenhoenny
+Small Blind: Joettenhoenny, chips: 100
+Big Blind: Lee, chips: 200
+Raises: Joettenhoenny, chips: 300
+Folds: Lee
+Pot size: 700
+Boasts: Joettenhoenny, 9h 5d
+Wins: Joettenhoenny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lee
+Small Blind: Lee, chips: 100
+Big Blind: Joettenhoenny, chips: 200
+Folds: Lee
+Pot size: 300
+Boasts: Joettenhoenny, Qh 5s
+Wins: Joettenhoenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joettenhoenny
+Small Blind: Joettenhoenny, chips: 100
+Big Blind: Lee, chips: 200
+Calls: Joettenhoenny
+DEBUG MESSAGE: INVALID ACTION FROM Lee (2 0)
+Folds: Lee
+Pot size: 400
+Boasts: Joettenhoenny, Jh 9c
+Wins: Joettenhoenny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lee
+Small Blind: Lee, chips: 100
+Big Blind: Joettenhoenny, chips: 200
+Folds: Lee
+Pot size: 300
+Boasts: Joettenhoenny, Kd 7c
+Wins: Joettenhoenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joettenhoenny
+Small Blind: Joettenhoenny, chips: 100
+Big Blind: Lee, chips: 200
+Folds: Joettenhoenny
+Pot size: 300
+Boasts: Joettenhoenny, 3c 9c
+Wins: Lee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lee
+Small Blind: Lee, chips: 100
+Big Blind: Joettenhoenny, chips: 200
+Folds: Lee
+Pot size: 300
+Wins: Joettenhoenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joettenhoenny
+Small Blind: Joettenhoenny, chips: 100
+Big Blind: Lee, chips: 200
+Calls: Joettenhoenny
+DEBUG MESSAGE: INVALID ACTION FROM Lee (2 0)
+Folds: Lee
+Pot size: 400
+Wins: Joettenhoenny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lee
+Small Blind: Lee, chips: 100
+Big Blind: Joettenhoenny, chips: 200
+Folds: Lee
+Pot size: 300
+Boasts: Joettenhoenny, 3s 2d
+Wins: Joettenhoenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joettenhoenny
+Small Blind: Joettenhoenny, chips: 100
+Big Blind: Lee, chips: 100
+Flop: 7s 7d 8d
+Turn: Kh
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Lee, 7h 4s
+Combination: Lee, Three Of A Kind ( 7h 7s 7d Kh 8d )
+Shows: Joettenhoenny, 5s 2d
+Combination: Joettenhoenny, Two Pair ( 7s 7d 5s 5d Kh )
+Wins: Lee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lee
+Small Blind: Lee, chips: 100
+Big Blind: Joettenhoenny, chips: 200
+Folds: Lee
+Pot size: 300
+Wins: Joettenhoenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joettenhoenny
+Small Blind: Joettenhoenny, chips: 100
+Big Blind: Lee, chips: 100
+Flop: 3h Jd Td
+Turn: Kc
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Lee, 3s 6s
+Combination: Lee, Pair ( 3s 3h Kc Jd Td )
+Shows: Joettenhoenny, Ad 4d
+Combination: Joettenhoenny, High Card ( Ad Kc Jd Td 8s )
+Wins: Lee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lee
+Small Blind: Lee, chips: 100
+Big Blind: Joettenhoenny, chips: 200
+Folds: Lee
+Pot size: 300
+Wins: Joettenhoenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joettenhoenny
+Small Blind: Joettenhoenny, chips: 100
+Big Blind: Lee, chips: 100
+Flop: 2c 9c 3s
+Turn: Td
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Lee, 2d Ah
+Combination: Lee, Pair ( 2d 2c Ah Td 9c )
+Shows: Joettenhoenny, 9s 2s
+Combination: Joettenhoenny, Two Pair ( 9s 9c 2s 2c Td )
+Wins: Joettenhoenny, chips: 200
+Quits: Lee, chips: 0
+Ranking: Joettenhoenny, Place: 1, Score: 1000
+Reveal AI: Joettenhoenny, AI: Random
+Ranking: Lee, Place: 2, Score: -1000
+Reveal AI: Lee, AI: AIMyBot1
+
+Player Stats for Joettenhoenny, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Lee, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:31
+
+The game begins. The AI's of the players are: 
+Lee: AIMyBot1
+Joettenhoenny: Random
+
+Joins: Lee, chips: 1000
+Joins: Joettenhoenny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joettenhoenny
+Small Blind: Joettenhoenny, chips: 100
+Big Blind: Lee, chips: 200
+Raises: Joettenhoenny, chips: 300
+Folds: Lee
+Pot size: 700
+Boasts: Joettenhoenny, 9h 5d
+Wins: Joettenhoenny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lee
+Small Blind: Lee, chips: 100
+Big Blind: Joettenhoenny, chips: 200
+Folds: Lee
+Pot size: 300
+Boasts: Joettenhoenny, Qh 5s
+Wins: Joettenhoenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joettenhoenny
+Small Blind: Joettenhoenny, chips: 100
+Big Blind: Lee, chips: 200
+Calls: Joettenhoenny
+DEBUG MESSAGE: INVALID ACTION FROM Lee (2 0)
+Folds: Lee
+Pot size: 400
+Boasts: Joettenhoenny, Jh 9c
+Wins: Joettenhoenny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lee
+Small Blind: Lee, chips: 100
+Big Blind: Joettenhoenny, chips: 200
+Folds: Lee
+Pot size: 300
+Boasts: Joettenhoenny, Kd 7c
+Wins: Joettenhoenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joettenhoenny
+Small Blind: Joettenhoenny, chips: 100
+Big Blind: Lee, chips: 200
+Folds: Joettenhoenny
+Pot size: 300
+Boasts: Joettenhoenny, 3c 9c
+Wins: Lee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lee
+Small Blind: Lee, chips: 100
+Big Blind: Joettenhoenny, chips: 200
+Folds: Lee
+Pot size: 300
+Wins: Joettenhoenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joettenhoenny
+Small Blind: Joettenhoenny, chips: 100
+Big Blind: Lee, chips: 200
+Calls: Joettenhoenny
+DEBUG MESSAGE: INVALID ACTION FROM Lee (2 0)
+Folds: Lee
+Pot size: 400
+Wins: Joettenhoenny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lee
+Small Blind: Lee, chips: 100
+Big Blind: Joettenhoenny, chips: 200
+Folds: Lee
+Pot size: 300
+Boasts: Joettenhoenny, 3s 2d
+Wins: Joettenhoenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joettenhoenny
+Small Blind: Joettenhoenny, chips: 100
+Big Blind: Lee, chips: 100
+Flop: 7s 7d 8d
+Turn: Kh
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Lee, 7h 4s
+Combination: Lee, Three Of A Kind ( 7h 7s 7d Kh 8d )
+Shows: Joettenhoenny, 5s 2d
+Combination: Joettenhoenny, Two Pair ( 7s 7d 5s 5d Kh )
+Wins: Lee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lee
+Small Blind: Lee, chips: 100
+Big Blind: Joettenhoenny, chips: 200
+Folds: Lee
+Pot size: 300
+Wins: Joettenhoenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joettenhoenny
+Small Blind: Joettenhoenny, chips: 100
+Big Blind: Lee, chips: 100
+Flop: 3h Jd Td
+Turn: Kc
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Lee, 3s 6s
+Combination: Lee, Pair ( 3s 3h Kc Jd Td )
+Shows: Joettenhoenny, Ad 4d
+Combination: Joettenhoenny, High Card ( Ad Kc Jd Td 8s )
+Wins: Lee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lee
+Small Blind: Lee, chips: 100
+Big Blind: Joettenhoenny, chips: 200
+Folds: Lee
+Pot size: 300
+Wins: Joettenhoenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joettenhoenny
+Small Blind: Joettenhoenny, chips: 100
+Big Blind: Lee, chips: 100
+Flop: 2c 9c 3s
+Turn: Td
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Lee, 2d Ah
+Combination: Lee, Pair ( 2d 2c Ah Td 9c )
+Shows: Joettenhoenny, 9s 2s
+Combination: Joettenhoenny, Two Pair ( 9s 9c 2s 2c Td )
+Wins: Joettenhoenny, chips: 200
+Quits: Lee, chips: 0
+Ranking: Joettenhoenny, Place: 1, Score: 1000
+Reveal AI: Joettenhoenny, AI: Random
+Ranking: Lee, Place: 2, Score: -1000
+Reveal AI: Lee, AI: AIMyBot1
+
+Player Stats for Joettenhoenny, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Lee, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

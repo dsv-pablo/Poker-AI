@@ -1,0 +1,294 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Soette: Random
+Weekoer: AIMyBot1
+
+Joins: Soette, chips: 1000
+Joins: Weekoer, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weekoer
+Small Blind: Weekoer, chips: 100
+Big Blind: Soette, chips: 200
+Folds: Weekoer
+Pot size: 300
+Wins: Soette, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soette
+Small Blind: Soette, chips: 100
+Big Blind: Weekoer, chips: 200
+Raises: Soette, chips: 300
+Folds: Weekoer
+Pot size: 700
+Boasts: Soette, 4d 9h
+Wins: Soette, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weekoer
+Small Blind: Weekoer, chips: 100
+Big Blind: Soette, chips: 200
+Folds: Weekoer
+Pot size: 300
+Boasts: Soette, Qh 7c
+Wins: Soette, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soette
+Small Blind: Soette, chips: 100
+Big Blind: Weekoer, chips: 200
+Raises: Soette, chips: 300
+Folds: Weekoer
+Pot size: 700
+Wins: Soette, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weekoer
+Small Blind: Weekoer, chips: 100
+Big Blind: Soette, chips: 200
+Folds: Weekoer
+Pot size: 300
+Boasts: Soette, 3h Kd
+Wins: Soette, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soette
+Small Blind: Soette, chips: 100
+Big Blind: Weekoer, chips: 200
+Raises: Soette, chips: 300
+Folds: Weekoer
+Pot size: 700
+Wins: Soette, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weekoer
+Small Blind: Weekoer, chips: 100
+Big Blind: Soette, chips: 200
+Flop: Qd 9h 4h
+Turn: Jh
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Soette, Js Qc
+Combination: Soette, Two Pair ( Qc Qd Js Jh Kh )
+Shows: Weekoer, 3s Ts
+Combination: Weekoer, Straight ( Kh Qd Jh Ts 9h )
+Wins: Soette, chips: 100
+Wins: Weekoer, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soette
+Small Blind: Soette, chips: 100
+Big Blind: Weekoer, chips: 200
+Flop: Ad 5s Tc
+Turn: Th
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Soette, Kd 2d
+Combination: Soette, Pair ( Tc Th Ad Kd 6d )
+Shows: Weekoer, Ah 2h
+Combination: Weekoer, Two Pair ( Ah Ad Tc Th 6d )
+Wins: Weekoer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weekoer
+Small Blind: Weekoer, chips: 100
+Big Blind: Soette, chips: 200
+Folds: Weekoer
+Pot size: 300
+Boasts: Soette, As Tc
+Wins: Soette, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soette
+Small Blind: Soette, chips: 100
+Big Blind: Weekoer, chips: 200
+Flop: As 9c 7c
+Turn: 6c
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Soette, 2c 9d
+Combination: Soette, Pair ( 9d 9c As Js 7c )
+Shows: Weekoer, Qh 2s
+Combination: Weekoer, High Card ( As Qh Js 9c 7c )
+Wins: Soette, chips: 200
+Wins: Weekoer, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weekoer
+Small Blind: Weekoer, chips: 100
+Big Blind: Soette, chips: 200
+Flop: 5d 3s 2s
+Turn: 9s
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Soette, Kc Qd
+Combination: Soette, High Card ( Kc Qd Th 9s 5d )
+Shows: Weekoer, 8s Jh
+Combination: Weekoer, High Card ( Jh Th 9s 8s 5d )
+Wins: Soette, chips: 300
+Quits: Weekoer, chips: 0
+Ranking: Soette, Place: 1, Score: 1000
+Reveal AI: Soette, AI: Random
+Ranking: Weekoer, Place: 2, Score: -1000
+Reveal AI: Weekoer, AI: AIMyBot1
+
+Player Stats for Soette, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.272727, 3Bet: 0.272727
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Weekoer, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:32
+
+The game begins. The AI's of the players are: 
+Soette: Random
+Weekoer: AIMyBot1
+
+Joins: Soette, chips: 1000
+Joins: Weekoer, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weekoer
+Small Blind: Weekoer, chips: 100
+Big Blind: Soette, chips: 200
+Folds: Weekoer
+Pot size: 300
+Wins: Soette, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soette
+Small Blind: Soette, chips: 100
+Big Blind: Weekoer, chips: 200
+Raises: Soette, chips: 300
+Folds: Weekoer
+Pot size: 700
+Boasts: Soette, 4d 9h
+Wins: Soette, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weekoer
+Small Blind: Weekoer, chips: 100
+Big Blind: Soette, chips: 200
+Folds: Weekoer
+Pot size: 300
+Boasts: Soette, Qh 7c
+Wins: Soette, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soette
+Small Blind: Soette, chips: 100
+Big Blind: Weekoer, chips: 200
+Raises: Soette, chips: 300
+Folds: Weekoer
+Pot size: 700
+Wins: Soette, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weekoer
+Small Blind: Weekoer, chips: 100
+Big Blind: Soette, chips: 200
+Folds: Weekoer
+Pot size: 300
+Boasts: Soette, 3h Kd
+Wins: Soette, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soette
+Small Blind: Soette, chips: 100
+Big Blind: Weekoer, chips: 200
+Raises: Soette, chips: 300
+Folds: Weekoer
+Pot size: 700
+Wins: Soette, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weekoer
+Small Blind: Weekoer, chips: 100
+Big Blind: Soette, chips: 200
+Flop: Qd 9h 4h
+Turn: Jh
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Soette, Js Qc
+Combination: Soette, Two Pair ( Qc Qd Js Jh Kh )
+Shows: Weekoer, 3s Ts
+Combination: Weekoer, Straight ( Kh Qd Jh Ts 9h )
+Wins: Soette, chips: 100
+Wins: Weekoer, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soette
+Small Blind: Soette, chips: 100
+Big Blind: Weekoer, chips: 200
+Flop: Ad 5s Tc
+Turn: Th
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Soette, Kd 2d
+Combination: Soette, Pair ( Tc Th Ad Kd 6d )
+Shows: Weekoer, Ah 2h
+Combination: Weekoer, Two Pair ( Ah Ad Tc Th 6d )
+Wins: Weekoer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weekoer
+Small Blind: Weekoer, chips: 100
+Big Blind: Soette, chips: 200
+Folds: Weekoer
+Pot size: 300
+Boasts: Soette, As Tc
+Wins: Soette, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soette
+Small Blind: Soette, chips: 100
+Big Blind: Weekoer, chips: 200
+Flop: As 9c 7c
+Turn: 6c
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Soette, 2c 9d
+Combination: Soette, Pair ( 9d 9c As Js 7c )
+Shows: Weekoer, Qh 2s
+Combination: Weekoer, High Card ( As Qh Js 9c 7c )
+Wins: Soette, chips: 200
+Wins: Weekoer, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weekoer
+Small Blind: Weekoer, chips: 100
+Big Blind: Soette, chips: 200
+Flop: 5d 3s 2s
+Turn: 9s
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Soette, Kc Qd
+Combination: Soette, High Card ( Kc Qd Th 9s 5d )
+Shows: Weekoer, 8s Jh
+Combination: Weekoer, High Card ( Jh Th 9s 8s 5d )
+Wins: Soette, chips: 300
+Quits: Weekoer, chips: 0
+Ranking: Soette, Place: 1, Score: 1000
+Reveal AI: Soette, AI: Random
+Ranking: Weekoer, Place: 2, Score: -1000
+Reveal AI: Weekoer, AI: AIMyBot1
+
+Player Stats for Soette, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.272727, 3Bet: 0.272727
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Weekoer, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

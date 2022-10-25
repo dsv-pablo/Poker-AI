@@ -1,0 +1,5168 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jofe: AIMyBot1
+Feerer: AIMyBot3
+Soevowru: AIMyBot4
+Busa: AIMyBot2
+Bodagoe: AIMyBot6
+Tuteebuk: AIMyBot7
+Jipun: AIMyBot5
+
+Joins: Jofe, chips: 1000
+Joins: Feerer, chips: 1000
+Joins: Soevowru, chips: 1000
+Joins: Busa, chips: 1000
+Joins: Bodagoe, chips: 1000
+Joins: Tuteebuk, chips: 1000
+Joins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jofe, chips: 100
+Big Blind: Feerer, chips: 200
+Calls: Soevowru
+Folds: Busa
+Folds: Bodagoe
+Folds: Tuteebuk
+Folds: Jipun
+Calls: Jofe
+DEBUG MESSAGE: INVALID ACTION FROM Feerer (2 0)
+Folds: Feerer
+Flop: 5d 9h Td
+Checks: Jofe
+Checks: Soevowru
+Turn: 4d
+Checks: Jofe
+Checks: Soevowru
+River: 4h
+Checks: Jofe
+Checks: Soevowru
+Pot size: 600
+Showdown Reached
+Shows: Jofe, Qc Kh
+Combination: Jofe, Pair ( 4d 4h Kh Qc Td )
+Shows: Soevowru, Jc 6h
+Combination: Soevowru, Pair ( 4d 4h Jc Td 9h )
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Feerer, chips: 100
+Big Blind: Soevowru, chips: 200
+Folds: Busa
+Folds: Bodagoe
+Raises: Tuteebuk, chips: 800
+Folds: Jipun
+Folds: Jofe
+Calls: Feerer
+Calls: Soevowru
+Flop: Ks 2h Kc
+Turn: Jd
+River: 3h
+Pot size: 2600
+Showdown Reached
+Shows: Feerer, Js 5d
+Combination: Feerer, Two Pair ( Ks Kc Js Jd 5d )
+Shows: Soevowru, 2c 5c
+Combination: Soevowru, Two Pair ( Ks Kc 2c 2h Jd )
+Shows: Tuteebuk, As 9s
+Combination: Tuteebuk, Pair ( Ks Kc As Jd 9s )
+Wins: Feerer, chips: 2400
+Wins: Tuteebuk, chips: 200
+Quits: Soevowru, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feerer
+Small Blind: Busa, chips: 100
+Big Blind: Bodagoe, chips: 200
+Calls: Tuteebuk
+Calls: Jipun
+Calls: Jofe
+Folds: Feerer
+Calls: Busa
+DEBUG MESSAGE: INVALID ACTION FROM Bodagoe (2 0)
+Folds: Bodagoe
+Flop: 6c Qs 5h
+DEBUG MESSAGE: INVALID ACTION FROM Busa (2 0)
+Folds: Busa
+Checks: Jipun
+Checks: Jofe
+Turn: 4d
+Checks: Jipun
+Checks: Jofe
+River: 6h
+Checks: Jipun
+Checks: Jofe
+Pot size: 1000
+Showdown Reached
+Shows: Jofe, 8s 3d
+Combination: Jofe, Pair ( 6c 6h Qs 8s 5h )
+Shows: Tuteebuk, Ks Jd
+Combination: Tuteebuk, Pair ( 6c 6h Ks Qs Jd )
+Shows: Jipun, 7d Ac
+Combination: Jipun, Pair ( 6c 6h Ac Qs 7d )
+Wins: Jipun, chips: 1000
+Quits: Tuteebuk, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Busa
+Small Blind: Bodagoe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Folds: Feerer
+Folds: Busa
+Folds: Bodagoe
+Checks: Jipun
+Flop: 2d Ks Tc
+Checks: Jipun
+Checks: Jofe
+Turn: Jh
+Checks: Jipun
+Checks: Jofe
+River: 8d
+Checks: Jipun
+Checks: Jofe
+Pot size: 500
+Showdown Reached
+Shows: Jofe, 4d 9d
+Combination: Jofe, High Card ( Ks Jh Tc 9d 8d )
+Shows: Jipun, 9h Jd
+Combination: Jipun, Pair ( Jd Jh Ks Tc 9h )
+Wins: Jipun, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bodagoe
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Feerer
+Folds: Busa
+Folds: Bodagoe
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jofe, chips: 100
+Big Blind: Feerer, chips: 200
+Folds: Busa
+Folds: Bodagoe
+Folds: Jipun
+Calls: Jofe
+DEBUG MESSAGE: INVALID ACTION FROM Feerer (2 0)
+Folds: Feerer
+Pot size: 400
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Feerer, chips: 100
+Big Blind: Busa, chips: 200
+Folds: Bodagoe
+Folds: Jipun
+Calls: Jofe
+Calls: Feerer
+DEBUG MESSAGE: INVALID ACTION FROM Busa (2 0)
+Folds: Busa
+Flop: 3h Kd Jc
+DEBUG MESSAGE: INVALID ACTION FROM Feerer (2 0)
+Folds: Feerer
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feerer
+Small Blind: Busa, chips: 100
+Big Blind: Bodagoe, chips: 200
+Calls: Jipun
+Calls: Jofe
+Folds: Feerer
+Folds: Busa
+DEBUG MESSAGE: INVALID ACTION FROM Bodagoe (2 0)
+Folds: Bodagoe
+Flop: Ks 5c 9h
+Checks: Jipun
+Checks: Jofe
+Turn: 6h
+Checks: Jipun
+Checks: Jofe
+River: 8d
+Checks: Jipun
+Checks: Jofe
+Pot size: 700
+Showdown Reached
+Shows: Jofe, 5d 5s
+Combination: Jofe, Three Of A Kind ( 5d 5s 5c Ks 9h )
+Shows: Jipun, 9d Ts
+Combination: Jipun, Pair ( 9d 9h Ks Ts 8d )
+Wins: Jofe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Busa
+Small Blind: Bodagoe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Folds: Feerer
+Folds: Busa
+Folds: Bodagoe
+Checks: Jipun
+Flop: Qd 5d Qc
+Checks: Jipun
+Checks: Jofe
+Turn: 3h
+Checks: Jipun
+Checks: Jofe
+River: 5s
+Checks: Jipun
+Checks: Jofe
+Pot size: 500
+Showdown Reached
+Shows: Jofe, 9c Js
+Combination: Jofe, Two Pair ( Qd Qc 5d 5s Js )
+Shows: Jipun, Ks 2c
+Combination: Jipun, Two Pair ( Qd Qc 5d 5s Ks )
+Wins: Jipun, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bodagoe
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Feerer
+Folds: Busa
+Folds: Bodagoe
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jofe, chips: 100
+Big Blind: Feerer, chips: 200
+Folds: Busa
+Folds: Bodagoe
+Calls: Jipun
+Calls: Jofe
+DEBUG MESSAGE: INVALID ACTION FROM Feerer (2 0)
+Folds: Feerer
+Flop: 6s 6c 8d
+Checks: Jofe
+Checks: Jipun
+Turn: Jc
+Checks: Jofe
+Checks: Jipun
+River: As
+Checks: Jofe
+Checks: Jipun
+Pot size: 600
+Showdown Reached
+Shows: Jofe, Qh 7c
+Combination: Jofe, Pair ( 6s 6c As Qh Jc )
+Shows: Jipun, 4c 4s
+Combination: Jipun, Two Pair ( 6s 6c 4c 4s As )
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Feerer, chips: 100
+Big Blind: Busa, chips: 200
+Folds: Bodagoe
+Raises: Jipun, chips: 400
+Folds: Jofe
+Calls: Feerer
+Folds: Busa
+Flop: Jd Tc 3d
+Raises: Feerer, chips: 808
+Raises: Jipun, chips: 792
+Calls: Feerer
+Turn: Ad
+River: Ts
+Pot size: 4200
+Showdown Reached
+Shows: Feerer, 6s 9d
+Combination: Feerer, Pair ( Tc Ts Ad Jd 9d )
+Shows: Jipun, Kc Qh
+Combination: Jipun, Straight ( Ad Kc Qh Jd Tc )
+Wins: Jipun, chips: 4200
+Quits: Feerer, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Busa
+Small Blind: Bodagoe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Folds: Busa
+Folds: Bodagoe
+Checks: Jipun
+Flop: 6s 3h Ah
+Checks: Jipun
+Checks: Jofe
+Turn: Td
+Checks: Jipun
+Checks: Jofe
+River: 8h
+Checks: Jipun
+Checks: Jofe
+Pot size: 500
+Showdown Reached
+Shows: Jofe, Qc Jc
+Combination: Jofe, High Card ( Ah Qc Jc Td 8h )
+Shows: Jipun, Qs 4d
+Combination: Jipun, High Card ( Ah Qs Td 8h 6s )
+Wins: Jofe, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bodagoe
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Busa
+Folds: Bodagoe
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jofe, chips: 100
+Big Blind: Busa, chips: 200
+Folds: Bodagoe
+Folds: Jipun
+Calls: Jofe
+DEBUG MESSAGE: INVALID ACTION FROM Busa (2 0)
+Folds: Busa
+Pot size: 400
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Busa, chips: 100
+Big Blind: Bodagoe, chips: 200
+Folds: Jipun
+Calls: Jofe
+DEBUG MESSAGE: INVALID ACTION FROM Bodagoe (2 0)
+Folds: Bodagoe
+Flop: 3d 6s Kh
+Turn: 4d
+River: Th
+Pot size: 500
+Showdown Reached
+Shows: Jofe, 9s 5h
+Combination: Jofe, High Card ( Kh Th 9s 6s 5h )
+Shows: Busa, 4h 3h
+Combination: Busa, Two Pair ( 4h 4d 3h 3d Kh )
+Wins: Jofe, chips: 200
+Wins: Busa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Busa
+Small Blind: Bodagoe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Folds: Busa
+Checks: Jipun
+Flop: 5s 8h As
+Checks: Jipun
+Checks: Jofe
+Turn: 9h
+Checks: Jipun
+Checks: Jofe
+River: Td
+Checks: Jipun
+Checks: Jofe
+Pot size: 500
+Showdown Reached
+Shows: Jofe, Qd 3h
+Combination: Jofe, High Card ( As Qd Td 9h 8h )
+Shows: Bodagoe, 2s 2h
+Combination: Bodagoe, Pair ( 2s 2h As Td 9h )
+Shows: Jipun, Tc 2c
+Combination: Jipun, Pair ( Tc Td As 9h 8h )
+Wins: Jipun, chips: 500
+Quits: Bodagoe, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jofe, chips: 100
+Big Blind: Busa, chips: 200
+Folds: Jipun
+Calls: Jofe
+Raises: Busa, chips: 100
+Folds: Jofe
+Pot size: 500
+Wins: Busa, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Busa, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Folds: Busa
+Checks: Jipun
+Flop: 4c Ts 9s
+Checks: Jipun
+Checks: Jofe
+Turn: Kc
+Checks: Jipun
+Checks: Jofe
+River: 6c
+Checks: Jipun
+Checks: Jofe
+Pot size: 500
+Showdown Reached
+Shows: Jofe, Qs 9d
+Combination: Jofe, Pair ( 9d 9s Kc Qs Ts )
+Shows: Jipun, 7h 7c
+Combination: Jipun, Pair ( 7h 7c Kc Ts 9s )
+Wins: Jofe, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Busa
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Busa
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jofe, chips: 100
+Big Blind: Busa, chips: 200
+Raises: Jipun, chips: 400
+Folds: Jofe
+Folds: Busa
+Pot size: 900
+Wins: Jipun, chips: 900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Busa, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Calls: Busa
+Checks: Jipun
+Flop: Qc Kd Jd
+Checks: Jipun
+Checks: Jofe
+Turn: 4s
+Checks: Jipun
+Checks: Jofe
+River: 5c
+Checks: Jipun
+Checks: Jofe
+Pot size: 600
+Showdown Reached
+Shows: Jofe, 6h 7d
+Combination: Jofe, High Card ( Kd Qc Jd 7d 6h )
+Shows: Busa, 9d 8s
+Combination: Busa, High Card ( Kd Qc Jd 9d 8s )
+Shows: Jipun, 3c Ts
+Combination: Jipun, High Card ( Kd Qc Jd Ts 5c )
+Wins: Jipun, chips: 600
+Quits: Busa, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 3h 8s 2h
+Checks: Jipun
+Checks: Jofe
+Turn: Jh
+Checks: Jipun
+Checks: Jofe
+River: 4s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Kc 5c
+Combination: Jofe, High Card ( Kc Jh 8s 5c 4s )
+Shows: Jipun, Qd 5d
+Combination: Jipun, High Card ( Qd Jh 8s 5d 4s )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 5c Js 9h
+Checks: Jipun
+Checks: Jofe
+Turn: 9c
+Checks: Jipun
+Checks: Jofe
+River: 4s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 8c 8h
+Combination: Jofe, Two Pair ( 9h 9c 8c 8h Js )
+Shows: Jipun, 5h 4h
+Combination: Jipun, Two Pair ( 9h 9c 5h 5c Js )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Ks 3c 5c
+Checks: Jipun
+Checks: Jofe
+Turn: Kd
+Checks: Jipun
+Checks: Jofe
+River: Qs
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Tc 3d
+Combination: Jofe, Two Pair ( Ks Kd 3d 3c Qs )
+Shows: Jipun, Js 9h
+Combination: Jipun, Pair ( Ks Kd Qs Js 9h )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Td 5c As
+Checks: Jipun
+Checks: Jofe
+Turn: Kh
+Checks: Jipun
+Checks: Jofe
+River: 5s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 4c 2c
+Combination: Jofe, Pair ( 5c 5s As Kh Td )
+Shows: Jipun, 4h Ts
+Combination: Jipun, Two Pair ( Ts Td 5c 5s As )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 6d 9d Kh
+Checks: Jipun
+Checks: Jofe
+Turn: 7d
+Checks: Jipun
+Checks: Jofe
+River: Td
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 8d Ts
+Combination: Jofe, Straight Flush ( Td 9d 8d 7d 6d )
+Shows: Jipun, 2h 6s
+Combination: Jipun, Pair ( 6s 6d Kh Td 9d )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Ts 7s Qh
+Checks: Jipun
+Checks: Jofe
+Turn: 2h
+Checks: Jipun
+Checks: Jofe
+River: 4c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 6h 7d
+Combination: Jofe, Pair ( 7d 7s Qh Ts 6h )
+Shows: Jipun, 3c Jc
+Combination: Jipun, High Card ( Qh Jc Ts 7s 4c )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Calls: Jipun
+Flop: 3d 4c 4h
+Checks: Jofe
+Checks: Jipun
+Turn: Jd
+Checks: Jofe
+Checks: Jipun
+River: 9c
+Checks: Jofe
+Checks: Jipun
+Pot size: 800
+Showdown Reached
+Shows: Jofe, 5c 2h
+Combination: Jofe, Pair ( 4c 4h Jd 9c 5c )
+Shows: Jipun, Js 4s
+Combination: Jipun, Full House ( 4s 4c 4h Js Jd )
+Wins: Jipun, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Jc 5d 9s
+Checks: Jipun
+Checks: Jofe
+Turn: 2c
+Checks: Jipun
+Checks: Jofe
+River: 6c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Th 3s
+Combination: Jofe, High Card ( Jc Th 9s 6c 5d )
+Shows: Jipun, 8d 6h
+Combination: Jipun, Pair ( 6h 6c Jc 9s 8d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Tc Ts 7d
+Checks: Jipun
+Checks: Jofe
+Turn: 2s
+Checks: Jipun
+Checks: Jofe
+River: 3h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Js 4d
+Combination: Jofe, Pair ( Tc Ts Js 7d 4d )
+Shows: Jipun, Qc 8s
+Combination: Jipun, Pair ( Tc Ts Qc 8s 7d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 4h Ah Jd
+Checks: Jipun
+Checks: Jofe
+Turn: 5c
+Checks: Jipun
+Checks: Jofe
+River: 6s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 6h 6c
+Combination: Jofe, Three Of A Kind ( 6h 6c 6s Ah Jd )
+Shows: Jipun, Qs 6d
+Combination: Jipun, Pair ( 6d 6s Ah Qs Jd )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Jh 3c Qh
+Checks: Jipun
+Checks: Jofe
+Turn: 6s
+Checks: Jipun
+Checks: Jofe
+River: Kd
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 4d 9s
+Combination: Jofe, High Card ( Kd Qh Jh 9s 6s )
+Shows: Jipun, 8d 3d
+Combination: Jipun, Pair ( 3d 3c Kd Qh Jh )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 2s Kc 8d
+Checks: Jipun
+Checks: Jofe
+Turn: 2c
+Checks: Jipun
+Checks: Jofe
+River: Js
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 2d Tc
+Combination: Jofe, Three Of A Kind ( 2d 2s 2c Kc Js )
+Shows: Jipun, 8c Qh
+Combination: Jipun, Two Pair ( 8c 8d 2s 2c Kc )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 5s 4c 8c
+Checks: Jipun
+Checks: Jofe
+Turn: 7h
+Checks: Jipun
+Checks: Jofe
+River: Qd
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Kh Tc
+Combination: Jofe, High Card ( Kh Qd Tc 8c 7h )
+Shows: Jipun, 6h 7d
+Combination: Jipun, Straight ( 8c 7d 6h 5s 4c )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Jh 6c 6d
+Checks: Jipun
+Checks: Jofe
+Turn: Kh
+Checks: Jipun
+Checks: Jofe
+River: Th
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 3c Jd
+Combination: Jofe, Two Pair ( Jd Jh 6c 6d Kh )
+Shows: Jipun, 5s 4h
+Combination: Jipun, Pair ( 6c 6d Kh Jh Th )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 6c 5s 3d
+Checks: Jipun
+Checks: Jofe
+Turn: 2h
+Checks: Jipun
+Checks: Jofe
+River: Js
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 4c 8c
+Combination: Jofe, Straight ( 6c 5s 4c 3d 2h )
+Shows: Jipun, Qh 5c
+Combination: Jipun, Pair ( 5c 5s Qh Js 6c )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 7c 2s Qs
+Checks: Jipun
+Checks: Jofe
+Turn: 4s
+Checks: Jipun
+Checks: Jofe
+River: 5d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 4c Qc
+Combination: Jofe, Two Pair ( Qc Qs 4c 4s 7c )
+Shows: Jipun, 2c 9s
+Combination: Jipun, Pair ( 2c 2s Qs 9s 7c )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Ah 9d 8c
+Checks: Jipun
+Checks: Jofe
+Turn: Jd
+Checks: Jipun
+Checks: Jofe
+River: 7c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Js Jh
+Combination: Jofe, Three Of A Kind ( Js Jh Jd Ah 9d )
+Shows: Jipun, 6c 6s
+Combination: Jipun, Pair ( 6c 6s Ah Jd 9d )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 9d 5d Ah
+Checks: Jipun
+Checks: Jofe
+Turn: 9s
+Checks: Jipun
+Checks: Jofe
+River: Ac
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 7h 2d
+Combination: Jofe, Two Pair ( Ah Ac 9d 9s 7h )
+Shows: Jipun, 5s 5c
+Combination: Jipun, Full House ( 5s 5c 5d Ah Ac )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Tc 3s 3c
+Checks: Jipun
+Checks: Jofe
+Turn: Ad
+Checks: Jipun
+Checks: Jofe
+River: 6s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 2h 8c
+Combination: Jofe, Pair ( 3s 3c Ad Tc 8c )
+Shows: Jipun, 4s 2c
+Combination: Jipun, Pair ( 3s 3c Ad Tc 6s )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 6c Qs 2c
+Checks: Jipun
+Checks: Jofe
+Turn: Ah
+Checks: Jipun
+Checks: Jofe
+River: 5h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 3s Ts
+Combination: Jofe, High Card ( Ah Qs Ts 6c 5h )
+Shows: Jipun, 2h 8h
+Combination: Jipun, Pair ( 2h 2c Ah Qs 8h )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Ks Ad 7s
+Checks: Jipun
+Checks: Jofe
+Turn: Qc
+Checks: Jipun
+Checks: Jofe
+River: Qd
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 6d 2h
+Combination: Jofe, Pair ( Qc Qd Ad Ks 7s )
+Shows: Jipun, 4s 9d
+Combination: Jipun, Pair ( Qc Qd Ad Ks 9d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Jh 7c 4h
+Checks: Jipun
+Checks: Jofe
+Turn: 4s
+Checks: Jipun
+Checks: Jofe
+River: 2h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 8h Ah
+Combination: Jofe, Flush ( Ah Jh 8h 4h 2h )
+Shows: Jipun, 8s 3s
+Combination: Jipun, Pair ( 4h 4s Jh 8s 7c )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Kh Th 7c
+Checks: Jipun
+Checks: Jofe
+Turn: 8d
+Checks: Jipun
+Checks: Jofe
+River: 6c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 7h Jh
+Combination: Jofe, Pair ( 7h 7c Kh Jh Th )
+Shows: Jipun, Qd 7d
+Combination: Jipun, Pair ( 7d 7c Kh Qd Th )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Tc Ac 5d
+Checks: Jipun
+Checks: Jofe
+Turn: 5h
+Checks: Jipun
+Checks: Jofe
+River: 4c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 8d 4d
+Combination: Jofe, Two Pair ( 5d 5h 4d 4c Ac )
+Shows: Jipun, 3d 9h
+Combination: Jipun, Pair ( 5d 5h Ac Tc 9h )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 3c 2c 3s
+Checks: Jipun
+Checks: Jofe
+Turn: 7s
+Checks: Jipun
+Checks: Jofe
+River: 5h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 9s Jh
+Combination: Jofe, Pair ( 3c 3s Jh 9s 7s )
+Shows: Jipun, 6d 5d
+Combination: Jipun, Two Pair ( 5d 5h 3c 3s 7s )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 7s Kd 2d
+Checks: Jipun
+Checks: Jofe
+Turn: Jd
+Checks: Jipun
+Checks: Jofe
+River: 4d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 5h Ah
+Combination: Jofe, High Card ( Ah Kd Jd 7s 5h )
+Shows: Jipun, 8d Qc
+Combination: Jipun, Flush ( Kd Jd 8d 4d 2d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Calls: Jipun
+Flop: Tc Ad Qc
+Checks: Jofe
+Checks: Jipun
+Turn: 6c
+Checks: Jofe
+Checks: Jipun
+River: Td
+Checks: Jofe
+Checks: Jipun
+Pot size: 800
+Showdown Reached
+Shows: Jofe, Ks Qs
+Combination: Jofe, Two Pair ( Qs Qc Tc Td Ad )
+Shows: Jipun, 2c 2s
+Combination: Jipun, Two Pair ( Tc Td 2c 2s Ad )
+Wins: Jofe, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 2c 5c Qd
+Checks: Jipun
+Checks: Jofe
+Turn: 9s
+Checks: Jipun
+Checks: Jofe
+River: Ad
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 4s 9h
+Combination: Jofe, Pair ( 9h 9s Ad Qd 5c )
+Shows: Jipun, Qh 6c
+Combination: Jipun, Pair ( Qh Qd Ad 9s 6c )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 7s 9c Qc
+Checks: Jipun
+Checks: Jofe
+Turn: Kd
+Checks: Jipun
+Checks: Jofe
+River: 4c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Ac Ad
+Combination: Jofe, Pair ( Ac Ad Kd Qc 9c )
+Shows: Jipun, Ts Th
+Combination: Jipun, Pair ( Ts Th Kd Qc 9c )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Ts 3h 5c
+Checks: Jipun
+Checks: Jofe
+Turn: 7s
+Checks: Jipun
+Checks: Jofe
+River: 7h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 3c 6s
+Combination: Jofe, Two Pair ( 7s 7h 3c 3h Ts )
+Shows: Jipun, Qh 7c
+Combination: Jipun, Three Of A Kind ( 7c 7s 7h Qh Ts )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 9s Qd Kh
+Checks: Jipun
+Checks: Jofe
+Turn: 5h
+Checks: Jipun
+Checks: Jofe
+River: 8h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Qh 7c
+Combination: Jofe, Pair ( Qh Qd Kh 9s 8h )
+Shows: Jipun, 4s Jc
+Combination: Jipun, High Card ( Kh Qd Jc 9s 8h )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 246
+Folds: Jofe
+Pot size: 646
+Wins: Jipun, chips: 646
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Tc Kc 4h
+Checks: Jipun
+Checks: Jofe
+Turn: 5d
+Checks: Jipun
+Checks: Jofe
+River: Qc
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 7s 4s
+Combination: Jofe, Pair ( 4s 4h Kc Qc Tc )
+Shows: Jipun, 3h Jh
+Combination: Jipun, High Card ( Kc Qc Jh Tc 5d )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 5s 2h Ac
+Checks: Jipun
+Checks: Jofe
+Turn: 4c
+Checks: Jipun
+Checks: Jofe
+River: 3h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 4s Js
+Combination: Jofe, Straight ( 5s 4s 3h 2h Ac )
+Shows: Jipun, 9d 4d
+Combination: Jipun, Straight ( 5s 4d 3h 2h Ac )
+Wins: Jofe, chips: 200
+Wins: Jipun, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 6h 8s 7s
+Checks: Jipun
+Checks: Jofe
+Turn: Qh
+Checks: Jipun
+Checks: Jofe
+River: 6d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 5d 3c
+Combination: Jofe, Pair ( 6h 6d Qh 8s 7s )
+Shows: Jipun, 4s 7d
+Combination: Jipun, Two Pair ( 7d 7s 6h 6d Qh )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Ad 7c 3s
+Checks: Jipun
+Checks: Jofe
+Turn: Jd
+Checks: Jipun
+Checks: Jofe
+River: 8h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Kh Ac
+Combination: Jofe, Pair ( Ac Ad Kh Jd 8h )
+Shows: Jipun, 9c 4c
+Combination: Jipun, High Card ( Ad Jd 9c 8h 7c )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Kc 6s Th
+Checks: Jipun
+Checks: Jofe
+Turn: Kh
+Checks: Jipun
+Checks: Jofe
+River: 5h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 6c 2c
+Combination: Jofe, Two Pair ( Kc Kh 6c 6s Th )
+Shows: Jipun, Qh Qc
+Combination: Jipun, Two Pair ( Kc Kh Qh Qc Th )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 9h 7d 9s
+Checks: Jipun
+Checks: Jofe
+Turn: 2c
+Checks: Jipun
+Checks: Jofe
+River: Th
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 7c 6d
+Combination: Jofe, Two Pair ( 9h 9s 7c 7d Th )
+Shows: Jipun, 6h 5d
+Combination: Jipun, Pair ( 9h 9s Th 7d 6h )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Calls: Jipun
+Flop: Ah Ad 8h
+Checks: Jofe
+Checks: Jipun
+Turn: 2d
+Checks: Jofe
+Checks: Jipun
+River: 6d
+Checks: Jofe
+Checks: Jipun
+Pot size: 800
+Showdown Reached
+Shows: Jofe, As 4c
+Combination: Jofe, Three Of A Kind ( As Ah Ad 8h 6d )
+Shows: Jipun, 3s Th
+Combination: Jipun, Pair ( Ah Ad Th 8h 6d )
+Wins: Jofe, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 8h Ac 9s
+Checks: Jipun
+Checks: Jofe
+Turn: Td
+Checks: Jipun
+Checks: Jofe
+River: 4s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, As 4c
+Combination: Jofe, Two Pair ( As Ac 4c 4s Td )
+Shows: Jipun, 2c 8d
+Combination: Jipun, Pair ( 8d 8h Ac Td 9s )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 6c Ts 7d
+Checks: Jipun
+Checks: Jofe
+Turn: Ks
+Checks: Jipun
+Checks: Jofe
+River: 9c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 8d 5h
+Combination: Jofe, Straight ( Ts 9c 8d 7d 6c )
+Shows: Jipun, 4d 3h
+Combination: Jipun, High Card ( Ks Ts 9c 7d 6c )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Jd Ad Js
+Checks: Jipun
+Checks: Jofe
+Turn: Qd
+Checks: Jipun
+Checks: Jofe
+River: 7d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Ks 8c
+Combination: Jofe, Pair ( Jd Js Ad Ks Qd )
+Shows: Jipun, 9h 3h
+Combination: Jipun, Pair ( Jd Js Ad Qd 9h )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 5s 5d As
+Checks: Jipun
+Checks: Jofe
+Turn: Kh
+Checks: Jipun
+Checks: Jofe
+River: 3h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 7h Ah
+Combination: Jofe, Two Pair ( Ah As 5s 5d Kh )
+Shows: Jipun, 4c 7s
+Combination: Jipun, Pair ( 5s 5d As Kh 7s )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 5d 2d Ks
+Checks: Jipun
+Checks: Jofe
+Turn: 6c
+Checks: Jipun
+Checks: Jofe
+River: Kd
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 7d 8h
+Combination: Jofe, Pair ( Ks Kd 8h 7d 6c )
+Shows: Jipun, 9d 4h
+Combination: Jipun, Pair ( Ks Kd 9d 6c 5d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Ad 7c 8c
+Checks: Jipun
+Checks: Jofe
+Turn: Qh
+Checks: Jipun
+Checks: Jofe
+River: 7s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Jh Kc
+Combination: Jofe, Pair ( 7c 7s Ad Kc Qh )
+Shows: Jipun, Qs 6d
+Combination: Jipun, Two Pair ( Qs Qh 7c 7s Ad )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Raises: Jipun, chips: 272
+Folds: Jofe
+Pot size: 1072
+Wins: Jipun, chips: 1072
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 8h 2c Jc
+Checks: Jipun
+Checks: Jofe
+Turn: 4s
+Checks: Jipun
+Checks: Jofe
+River: 3c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 2d Kc
+Combination: Jofe, Pair ( 2d 2c Kc Jc 8h )
+Shows: Jipun, 7h 3d
+Combination: Jipun, Pair ( 3d 3c Jc 8h 7h )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Ad Ac Jh
+Checks: Jipun
+Checks: Jofe
+Turn: 7c
+Checks: Jipun
+Checks: Jofe
+River: 4s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 8d Kd
+Combination: Jofe, Pair ( Ad Ac Kd Jh 8d )
+Shows: Jipun, 9d 5c
+Combination: Jipun, Pair ( Ad Ac Jh 9d 7c )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 8h Jd 7s
+Checks: Jipun
+Checks: Jofe
+Turn: 3c
+Checks: Jipun
+Checks: Jofe
+River: Qh
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Qc 5c
+Combination: Jofe, Pair ( Qc Qh Jd 8h 7s )
+Shows: Jipun, Jc 6d
+Combination: Jipun, Pair ( Jc Jd Qh 8h 7s )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Qh 4c 4d
+Checks: Jipun
+Checks: Jofe
+Turn: Qd
+Checks: Jipun
+Checks: Jofe
+River: 5d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 9h 2d
+Combination: Jofe, Two Pair ( Qh Qd 4c 4d 9h )
+Shows: Jipun, Qc 3d
+Combination: Jipun, Full House ( Qc Qh Qd 4c 4d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Qc 3c Jh
+Checks: Jipun
+Checks: Jofe
+Turn: As
+Checks: Jipun
+Checks: Jofe
+River: 9s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Tc 7s
+Combination: Jofe, High Card ( As Qc Jh Tc 9s )
+Shows: Jipun, 6h 5d
+Combination: Jipun, High Card ( As Qc Jh 9s 6h )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 5d 5c Qc
+Checks: Jipun
+Checks: Jofe
+Turn: Kc
+Checks: Jipun
+Checks: Jofe
+River: 6d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Kd Qh
+Combination: Jofe, Two Pair ( Kd Kc Qh Qc 6d )
+Shows: Jipun, 3c Ts
+Combination: Jipun, Pair ( 5d 5c Kc Qc Ts )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 7s 7d Ks
+Checks: Jipun
+Checks: Jofe
+Turn: Jd
+Checks: Jipun
+Checks: Jofe
+River: 7c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Qs Ah
+Combination: Jofe, Three Of A Kind ( 7s 7d 7c Ah Ks )
+Shows: Jipun, 5c 3s
+Combination: Jipun, Three Of A Kind ( 7s 7d 7c Ks Jd )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 8s Jh Qd
+Checks: Jipun
+Checks: Jofe
+Turn: 4c
+Checks: Jipun
+Checks: Jofe
+River: Ah
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 8d 7h
+Combination: Jofe, Pair ( 8d 8s Ah Qd Jh )
+Shows: Jipun, Th 3d
+Combination: Jipun, High Card ( Ah Qd Jh Th 8s )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Kh Ts 8d
+Checks: Jipun
+Checks: Jofe
+Turn: 4s
+Checks: Jipun
+Checks: Jofe
+River: Th
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 9c Qd
+Combination: Jofe, Pair ( Ts Th Kh Qd 9c )
+Shows: Jipun, As 3h
+Combination: Jipun, Pair ( Ts Th As Kh 8d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 2c 7d Tc
+Checks: Jipun
+Checks: Jofe
+Turn: 8s
+Checks: Jipun
+Checks: Jofe
+River: 4d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 4h 6s
+Combination: Jofe, Pair ( 4h 4d Tc 8s 7d )
+Shows: Jipun, 9c Th
+Combination: Jipun, Pair ( Th Tc 9c 8s 7d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Kc 4h 6c
+Checks: Jipun
+Checks: Jofe
+Turn: 5s
+Checks: Jipun
+Checks: Jofe
+River: 5c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Jc Td
+Combination: Jofe, Pair ( 5s 5c Kc Jc Td )
+Shows: Jipun, 7c 2c
+Combination: Jipun, Flush ( Kc 7c 6c 5c 2c )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Calls: Jipun
+Flop: 3h Jh 4c
+Checks: Jofe
+Checks: Jipun
+Turn: 2d
+Checks: Jofe
+Checks: Jipun
+River: Ts
+Checks: Jofe
+Checks: Jipun
+Pot size: 800
+Showdown Reached
+Shows: Jofe, 9c Qh
+Combination: Jofe, High Card ( Qh Jh Ts 9c 4c )
+Shows: Jipun, 9s 6c
+Combination: Jipun, High Card ( Jh Ts 9s 6c 4c )
+Wins: Jofe, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 6c Qh Kc
+Checks: Jipun
+Checks: Jofe
+Turn: 2h
+Checks: Jipun
+Checks: Jofe
+River: Ts
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 8h 5s
+Combination: Jofe, High Card ( Kc Qh Ts 8h 6c )
+Shows: Jipun, 7d Jc
+Combination: Jipun, High Card ( Kc Qh Jc Ts 7d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Jh 9c 3h
+Checks: Jipun
+Checks: Jofe
+Turn: 2h
+Checks: Jipun
+Checks: Jofe
+River: 9d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Qh Kd
+Combination: Jofe, Pair ( 9c 9d Kd Qh Jh )
+Shows: Jipun, 5h Jc
+Combination: Jipun, Two Pair ( Jc Jh 9c 9d 5h )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Calls: Jipun
+Flop: 2d 3s 9c
+Checks: Jofe
+Checks: Jipun
+Turn: 6h
+Checks: Jofe
+Checks: Jipun
+River: Ad
+Checks: Jofe
+Checks: Jipun
+Pot size: 800
+Showdown Reached
+Shows: Jofe, 8d 7d
+Combination: Jofe, High Card ( Ad 9c 8d 7d 6h )
+Shows: Jipun, 9s 7h
+Combination: Jipun, Pair ( 9s 9c Ad 7h 6h )
+Wins: Jipun, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 8h 7c Kd
+Checks: Jipun
+Checks: Jofe
+Turn: 9d
+Checks: Jipun
+Checks: Jofe
+River: Kh
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 5d 9c
+Combination: Jofe, Two Pair ( Kd Kh 9c 9d 8h )
+Shows: Jipun, Qc 4d
+Combination: Jipun, Pair ( Kd Kh Qc 9d 8h )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 3s 8d As
+Checks: Jipun
+Checks: Jofe
+Turn: Ac
+Checks: Jipun
+Checks: Jofe
+River: 7d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 2h 6c
+Combination: Jofe, Pair ( As Ac 8d 7d 6c )
+Shows: Jipun, Qs Td
+Combination: Jipun, Pair ( As Ac Qs Td 8d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Flop: 9d Qc 3h
+Turn: Jh
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Jofe, Kd Ac
+Combination: Jofe, High Card ( Ac Kd Qc Jh 9d )
+Shows: Jipun, 3d Qs
+Combination: Jipun, Two Pair ( Qs Qc 3d 3h Jh )
+Wins: Jipun, chips: 300
+Quits: Jofe, chips: 0
+Ranking: Jipun, Place: 1, Score: 6000
+Reveal AI: Jipun, AI: AIMyBot5
+Ranking: Jofe, Place: 2, Score: -1000
+Reveal AI: Jofe, AI: AIMyBot1
+Ranking: Busa, Place: 3, Score: -1000
+Reveal AI: Busa, AI: AIMyBot2
+Ranking: Bodagoe, Place: 4, Score: -1000
+Reveal AI: Bodagoe, AI: AIMyBot6
+Ranking: Feerer, Place: 5, Score: -1000
+Reveal AI: Feerer, AI: AIMyBot3
+Ranking: Tuteebuk, Place: 6, Score: -1000
+Reveal AI: Tuteebuk, AI: AIMyBot7
+Ranking: Soevowru, Place: 7, Score: -1000
+Reveal AI: Soevowru, AI: AIMyBot4
+
+Player Stats for Bodagoe, AI: AIMyBot6
+General: deals: 17, actions: 16, preflop actions: 16
+Rounds Seen: flops: 65, turns: 65, rivers: 65, showdowns: 65
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Busa, AI: AIMyBot2
+General: deals: 22, actions: 22, preflop actions: 21
+Rounds Seen: flops: 65, turns: 64, rivers: 64, showdowns: 64
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.136364, PFR: 0.0454545, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.984615, WSDW: 0.015625
+
+
+Player Stats for Feerer, AI: AIMyBot3
+General: deals: 12, actions: 15, preflop actions: 12
+Rounds Seen: flops: 70, turns: 69, rivers: 69, showdowns: 69
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 2400, lost: 4000, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 1, WSD: 0.985714, WSDW: 0.0144928
+
+
+Player Stats for Jipun, AI: AIMyBot5
+General: deals: 172, actions: 399, preflop actions: 188
+Rounds Seen: flops: 72, turns: 72, rivers: 72, showdowns: 72
+Wins: total: 81, showdown: 36, bluff: 45
+Chips: won: 55018, lost: 49018, bought: 1000, forced bets: 24100
+Pre-Flop Stats: VP$IP: 0.377907, PFR: 0.267442, 3Bet: 0.162791
+Post-Flop Stats: AF: 1.#INF, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Jofe, AI: AIMyBot1
+General: deals: 172, actions: 367, preflop actions: 154
+Rounds Seen: flops: 74, turns: 73, rivers: 73, showdowns: 73
+Wins: total: 90, showdown: 39, bluff: 51
+Chips: won: 36200, lost: 37200, bought: 1000, forced bets: 23900
+Pre-Flop Stats: VP$IP: 0.616279, PFR: 0.0988372, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.986486, WSDW: 0.534247
+
+
+Player Stats for Soevowru, AI: AIMyBot4
+General: deals: 2, actions: 5, preflop actions: 2
+Rounds Seen: flops: 76, turns: 75, rivers: 75, showdowns: 75
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1200, bought: 1000, forced bets: 200
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.986842, WSDW: 0
+
+
+Player Stats for Tuteebuk, AI: AIMyBot7
+General: deals: 3, actions: 3, preflop actions: 3
+Rounds Seen: flops: 75, turns: 74, rivers: 74, showdowns: 74
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 0.666667, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 0.986667, WSDW: 0.0135135
+
+
+Date: 2018/06/11 13:41:41
+
+The game begins. The AI's of the players are: 
+Jofe: AIMyBot1
+Feerer: AIMyBot3
+Soevowru: AIMyBot4
+Busa: AIMyBot2
+Bodagoe: AIMyBot6
+Tuteebuk: AIMyBot7
+Jipun: AIMyBot5
+
+Joins: Jofe, chips: 1000
+Joins: Feerer, chips: 1000
+Joins: Soevowru, chips: 1000
+Joins: Busa, chips: 1000
+Joins: Bodagoe, chips: 1000
+Joins: Tuteebuk, chips: 1000
+Joins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jofe, chips: 100
+Big Blind: Feerer, chips: 200
+Calls: Soevowru
+Folds: Busa
+Folds: Bodagoe
+Folds: Tuteebuk
+Folds: Jipun
+Calls: Jofe
+DEBUG MESSAGE: INVALID ACTION FROM Feerer (2 0)
+Folds: Feerer
+Flop: 5d 9h Td
+Checks: Jofe
+Checks: Soevowru
+Turn: 4d
+Checks: Jofe
+Checks: Soevowru
+River: 4h
+Checks: Jofe
+Checks: Soevowru
+Pot size: 600
+Showdown Reached
+Shows: Jofe, Qc Kh
+Combination: Jofe, Pair ( 4d 4h Kh Qc Td )
+Shows: Soevowru, Jc 6h
+Combination: Soevowru, Pair ( 4d 4h Jc Td 9h )
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Feerer, chips: 100
+Big Blind: Soevowru, chips: 200
+Folds: Busa
+Folds: Bodagoe
+Raises: Tuteebuk, chips: 800
+Folds: Jipun
+Folds: Jofe
+Calls: Feerer
+Calls: Soevowru
+Flop: Ks 2h Kc
+Turn: Jd
+River: 3h
+Pot size: 2600
+Showdown Reached
+Shows: Feerer, Js 5d
+Combination: Feerer, Two Pair ( Ks Kc Js Jd 5d )
+Shows: Soevowru, 2c 5c
+Combination: Soevowru, Two Pair ( Ks Kc 2c 2h Jd )
+Shows: Tuteebuk, As 9s
+Combination: Tuteebuk, Pair ( Ks Kc As Jd 9s )
+Wins: Feerer, chips: 2400
+Wins: Tuteebuk, chips: 200
+Quits: Soevowru, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feerer
+Small Blind: Busa, chips: 100
+Big Blind: Bodagoe, chips: 200
+Calls: Tuteebuk
+Calls: Jipun
+Calls: Jofe
+Folds: Feerer
+Calls: Busa
+DEBUG MESSAGE: INVALID ACTION FROM Bodagoe (2 0)
+Folds: Bodagoe
+Flop: 6c Qs 5h
+DEBUG MESSAGE: INVALID ACTION FROM Busa (2 0)
+Folds: Busa
+Checks: Jipun
+Checks: Jofe
+Turn: 4d
+Checks: Jipun
+Checks: Jofe
+River: 6h
+Checks: Jipun
+Checks: Jofe
+Pot size: 1000
+Showdown Reached
+Shows: Jofe, 8s 3d
+Combination: Jofe, Pair ( 6c 6h Qs 8s 5h )
+Shows: Tuteebuk, Ks Jd
+Combination: Tuteebuk, Pair ( 6c 6h Ks Qs Jd )
+Shows: Jipun, 7d Ac
+Combination: Jipun, Pair ( 6c 6h Ac Qs 7d )
+Wins: Jipun, chips: 1000
+Quits: Tuteebuk, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Busa
+Small Blind: Bodagoe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Folds: Feerer
+Folds: Busa
+Folds: Bodagoe
+Checks: Jipun
+Flop: 2d Ks Tc
+Checks: Jipun
+Checks: Jofe
+Turn: Jh
+Checks: Jipun
+Checks: Jofe
+River: 8d
+Checks: Jipun
+Checks: Jofe
+Pot size: 500
+Showdown Reached
+Shows: Jofe, 4d 9d
+Combination: Jofe, High Card ( Ks Jh Tc 9d 8d )
+Shows: Jipun, 9h Jd
+Combination: Jipun, Pair ( Jd Jh Ks Tc 9h )
+Wins: Jipun, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bodagoe
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Feerer
+Folds: Busa
+Folds: Bodagoe
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jofe, chips: 100
+Big Blind: Feerer, chips: 200
+Folds: Busa
+Folds: Bodagoe
+Folds: Jipun
+Calls: Jofe
+DEBUG MESSAGE: INVALID ACTION FROM Feerer (2 0)
+Folds: Feerer
+Pot size: 400
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Feerer, chips: 100
+Big Blind: Busa, chips: 200
+Folds: Bodagoe
+Folds: Jipun
+Calls: Jofe
+Calls: Feerer
+DEBUG MESSAGE: INVALID ACTION FROM Busa (2 0)
+Folds: Busa
+Flop: 3h Kd Jc
+DEBUG MESSAGE: INVALID ACTION FROM Feerer (2 0)
+Folds: Feerer
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feerer
+Small Blind: Busa, chips: 100
+Big Blind: Bodagoe, chips: 200
+Calls: Jipun
+Calls: Jofe
+Folds: Feerer
+Folds: Busa
+DEBUG MESSAGE: INVALID ACTION FROM Bodagoe (2 0)
+Folds: Bodagoe
+Flop: Ks 5c 9h
+Checks: Jipun
+Checks: Jofe
+Turn: 6h
+Checks: Jipun
+Checks: Jofe
+River: 8d
+Checks: Jipun
+Checks: Jofe
+Pot size: 700
+Showdown Reached
+Shows: Jofe, 5d 5s
+Combination: Jofe, Three Of A Kind ( 5d 5s 5c Ks 9h )
+Shows: Jipun, 9d Ts
+Combination: Jipun, Pair ( 9d 9h Ks Ts 8d )
+Wins: Jofe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Busa
+Small Blind: Bodagoe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Folds: Feerer
+Folds: Busa
+Folds: Bodagoe
+Checks: Jipun
+Flop: Qd 5d Qc
+Checks: Jipun
+Checks: Jofe
+Turn: 3h
+Checks: Jipun
+Checks: Jofe
+River: 5s
+Checks: Jipun
+Checks: Jofe
+Pot size: 500
+Showdown Reached
+Shows: Jofe, 9c Js
+Combination: Jofe, Two Pair ( Qd Qc 5d 5s Js )
+Shows: Jipun, Ks 2c
+Combination: Jipun, Two Pair ( Qd Qc 5d 5s Ks )
+Wins: Jipun, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bodagoe
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Feerer
+Folds: Busa
+Folds: Bodagoe
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jofe, chips: 100
+Big Blind: Feerer, chips: 200
+Folds: Busa
+Folds: Bodagoe
+Calls: Jipun
+Calls: Jofe
+DEBUG MESSAGE: INVALID ACTION FROM Feerer (2 0)
+Folds: Feerer
+Flop: 6s 6c 8d
+Checks: Jofe
+Checks: Jipun
+Turn: Jc
+Checks: Jofe
+Checks: Jipun
+River: As
+Checks: Jofe
+Checks: Jipun
+Pot size: 600
+Showdown Reached
+Shows: Jofe, Qh 7c
+Combination: Jofe, Pair ( 6s 6c As Qh Jc )
+Shows: Jipun, 4c 4s
+Combination: Jipun, Two Pair ( 6s 6c 4c 4s As )
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Feerer, chips: 100
+Big Blind: Busa, chips: 200
+Folds: Bodagoe
+Raises: Jipun, chips: 400
+Folds: Jofe
+Calls: Feerer
+Folds: Busa
+Flop: Jd Tc 3d
+Raises: Feerer, chips: 808
+Raises: Jipun, chips: 792
+Calls: Feerer
+Turn: Ad
+River: Ts
+Pot size: 4200
+Showdown Reached
+Shows: Feerer, 6s 9d
+Combination: Feerer, Pair ( Tc Ts Ad Jd 9d )
+Shows: Jipun, Kc Qh
+Combination: Jipun, Straight ( Ad Kc Qh Jd Tc )
+Wins: Jipun, chips: 4200
+Quits: Feerer, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Busa
+Small Blind: Bodagoe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Folds: Busa
+Folds: Bodagoe
+Checks: Jipun
+Flop: 6s 3h Ah
+Checks: Jipun
+Checks: Jofe
+Turn: Td
+Checks: Jipun
+Checks: Jofe
+River: 8h
+Checks: Jipun
+Checks: Jofe
+Pot size: 500
+Showdown Reached
+Shows: Jofe, Qc Jc
+Combination: Jofe, High Card ( Ah Qc Jc Td 8h )
+Shows: Jipun, Qs 4d
+Combination: Jipun, High Card ( Ah Qs Td 8h 6s )
+Wins: Jofe, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bodagoe
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Busa
+Folds: Bodagoe
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jofe, chips: 100
+Big Blind: Busa, chips: 200
+Folds: Bodagoe
+Folds: Jipun
+Calls: Jofe
+DEBUG MESSAGE: INVALID ACTION FROM Busa (2 0)
+Folds: Busa
+Pot size: 400
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Busa, chips: 100
+Big Blind: Bodagoe, chips: 200
+Folds: Jipun
+Calls: Jofe
+DEBUG MESSAGE: INVALID ACTION FROM Bodagoe (2 0)
+Folds: Bodagoe
+Flop: 3d 6s Kh
+Turn: 4d
+River: Th
+Pot size: 500
+Showdown Reached
+Shows: Jofe, 9s 5h
+Combination: Jofe, High Card ( Kh Th 9s 6s 5h )
+Shows: Busa, 4h 3h
+Combination: Busa, Two Pair ( 4h 4d 3h 3d Kh )
+Wins: Jofe, chips: 200
+Wins: Busa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Busa
+Small Blind: Bodagoe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Folds: Busa
+Checks: Jipun
+Flop: 5s 8h As
+Checks: Jipun
+Checks: Jofe
+Turn: 9h
+Checks: Jipun
+Checks: Jofe
+River: Td
+Checks: Jipun
+Checks: Jofe
+Pot size: 500
+Showdown Reached
+Shows: Jofe, Qd 3h
+Combination: Jofe, High Card ( As Qd Td 9h 8h )
+Shows: Bodagoe, 2s 2h
+Combination: Bodagoe, Pair ( 2s 2h As Td 9h )
+Shows: Jipun, Tc 2c
+Combination: Jipun, Pair ( Tc Td As 9h 8h )
+Wins: Jipun, chips: 500
+Quits: Bodagoe, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jofe, chips: 100
+Big Blind: Busa, chips: 200
+Folds: Jipun
+Calls: Jofe
+Raises: Busa, chips: 100
+Folds: Jofe
+Pot size: 500
+Wins: Busa, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Busa, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Folds: Busa
+Checks: Jipun
+Flop: 4c Ts 9s
+Checks: Jipun
+Checks: Jofe
+Turn: Kc
+Checks: Jipun
+Checks: Jofe
+River: 6c
+Checks: Jipun
+Checks: Jofe
+Pot size: 500
+Showdown Reached
+Shows: Jofe, Qs 9d
+Combination: Jofe, Pair ( 9d 9s Kc Qs Ts )
+Shows: Jipun, 7h 7c
+Combination: Jipun, Pair ( 7h 7c Kc Ts 9s )
+Wins: Jofe, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Busa
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Busa
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jofe, chips: 100
+Big Blind: Busa, chips: 200
+Raises: Jipun, chips: 400
+Folds: Jofe
+Folds: Busa
+Pot size: 900
+Wins: Jipun, chips: 900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Busa, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Calls: Busa
+Checks: Jipun
+Flop: Qc Kd Jd
+Checks: Jipun
+Checks: Jofe
+Turn: 4s
+Checks: Jipun
+Checks: Jofe
+River: 5c
+Checks: Jipun
+Checks: Jofe
+Pot size: 600
+Showdown Reached
+Shows: Jofe, 6h 7d
+Combination: Jofe, High Card ( Kd Qc Jd 7d 6h )
+Shows: Busa, 9d 8s
+Combination: Busa, High Card ( Kd Qc Jd 9d 8s )
+Shows: Jipun, 3c Ts
+Combination: Jipun, High Card ( Kd Qc Jd Ts 5c )
+Wins: Jipun, chips: 600
+Quits: Busa, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 3h 8s 2h
+Checks: Jipun
+Checks: Jofe
+Turn: Jh
+Checks: Jipun
+Checks: Jofe
+River: 4s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Kc 5c
+Combination: Jofe, High Card ( Kc Jh 8s 5c 4s )
+Shows: Jipun, Qd 5d
+Combination: Jipun, High Card ( Qd Jh 8s 5d 4s )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 5c Js 9h
+Checks: Jipun
+Checks: Jofe
+Turn: 9c
+Checks: Jipun
+Checks: Jofe
+River: 4s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 8c 8h
+Combination: Jofe, Two Pair ( 9h 9c 8c 8h Js )
+Shows: Jipun, 5h 4h
+Combination: Jipun, Two Pair ( 9h 9c 5h 5c Js )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Ks 3c 5c
+Checks: Jipun
+Checks: Jofe
+Turn: Kd
+Checks: Jipun
+Checks: Jofe
+River: Qs
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Tc 3d
+Combination: Jofe, Two Pair ( Ks Kd 3d 3c Qs )
+Shows: Jipun, Js 9h
+Combination: Jipun, Pair ( Ks Kd Qs Js 9h )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Td 5c As
+Checks: Jipun
+Checks: Jofe
+Turn: Kh
+Checks: Jipun
+Checks: Jofe
+River: 5s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 4c 2c
+Combination: Jofe, Pair ( 5c 5s As Kh Td )
+Shows: Jipun, 4h Ts
+Combination: Jipun, Two Pair ( Ts Td 5c 5s As )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 6d 9d Kh
+Checks: Jipun
+Checks: Jofe
+Turn: 7d
+Checks: Jipun
+Checks: Jofe
+River: Td
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 8d Ts
+Combination: Jofe, Straight Flush ( Td 9d 8d 7d 6d )
+Shows: Jipun, 2h 6s
+Combination: Jipun, Pair ( 6s 6d Kh Td 9d )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Ts 7s Qh
+Checks: Jipun
+Checks: Jofe
+Turn: 2h
+Checks: Jipun
+Checks: Jofe
+River: 4c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 6h 7d
+Combination: Jofe, Pair ( 7d 7s Qh Ts 6h )
+Shows: Jipun, 3c Jc
+Combination: Jipun, High Card ( Qh Jc Ts 7s 4c )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Calls: Jipun
+Flop: 3d 4c 4h
+Checks: Jofe
+Checks: Jipun
+Turn: Jd
+Checks: Jofe
+Checks: Jipun
+River: 9c
+Checks: Jofe
+Checks: Jipun
+Pot size: 800
+Showdown Reached
+Shows: Jofe, 5c 2h
+Combination: Jofe, Pair ( 4c 4h Jd 9c 5c )
+Shows: Jipun, Js 4s
+Combination: Jipun, Full House ( 4s 4c 4h Js Jd )
+Wins: Jipun, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Jc 5d 9s
+Checks: Jipun
+Checks: Jofe
+Turn: 2c
+Checks: Jipun
+Checks: Jofe
+River: 6c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Th 3s
+Combination: Jofe, High Card ( Jc Th 9s 6c 5d )
+Shows: Jipun, 8d 6h
+Combination: Jipun, Pair ( 6h 6c Jc 9s 8d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Tc Ts 7d
+Checks: Jipun
+Checks: Jofe
+Turn: 2s
+Checks: Jipun
+Checks: Jofe
+River: 3h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Js 4d
+Combination: Jofe, Pair ( Tc Ts Js 7d 4d )
+Shows: Jipun, Qc 8s
+Combination: Jipun, Pair ( Tc Ts Qc 8s 7d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 4h Ah Jd
+Checks: Jipun
+Checks: Jofe
+Turn: 5c
+Checks: Jipun
+Checks: Jofe
+River: 6s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 6h 6c
+Combination: Jofe, Three Of A Kind ( 6h 6c 6s Ah Jd )
+Shows: Jipun, Qs 6d
+Combination: Jipun, Pair ( 6d 6s Ah Qs Jd )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Jh 3c Qh
+Checks: Jipun
+Checks: Jofe
+Turn: 6s
+Checks: Jipun
+Checks: Jofe
+River: Kd
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 4d 9s
+Combination: Jofe, High Card ( Kd Qh Jh 9s 6s )
+Shows: Jipun, 8d 3d
+Combination: Jipun, Pair ( 3d 3c Kd Qh Jh )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 2s Kc 8d
+Checks: Jipun
+Checks: Jofe
+Turn: 2c
+Checks: Jipun
+Checks: Jofe
+River: Js
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 2d Tc
+Combination: Jofe, Three Of A Kind ( 2d 2s 2c Kc Js )
+Shows: Jipun, 8c Qh
+Combination: Jipun, Two Pair ( 8c 8d 2s 2c Kc )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 5s 4c 8c
+Checks: Jipun
+Checks: Jofe
+Turn: 7h
+Checks: Jipun
+Checks: Jofe
+River: Qd
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Kh Tc
+Combination: Jofe, High Card ( Kh Qd Tc 8c 7h )
+Shows: Jipun, 6h 7d
+Combination: Jipun, Straight ( 8c 7d 6h 5s 4c )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Jh 6c 6d
+Checks: Jipun
+Checks: Jofe
+Turn: Kh
+Checks: Jipun
+Checks: Jofe
+River: Th
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 3c Jd
+Combination: Jofe, Two Pair ( Jd Jh 6c 6d Kh )
+Shows: Jipun, 5s 4h
+Combination: Jipun, Pair ( 6c 6d Kh Jh Th )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 6c 5s 3d
+Checks: Jipun
+Checks: Jofe
+Turn: 2h
+Checks: Jipun
+Checks: Jofe
+River: Js
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 4c 8c
+Combination: Jofe, Straight ( 6c 5s 4c 3d 2h )
+Shows: Jipun, Qh 5c
+Combination: Jipun, Pair ( 5c 5s Qh Js 6c )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 7c 2s Qs
+Checks: Jipun
+Checks: Jofe
+Turn: 4s
+Checks: Jipun
+Checks: Jofe
+River: 5d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 4c Qc
+Combination: Jofe, Two Pair ( Qc Qs 4c 4s 7c )
+Shows: Jipun, 2c 9s
+Combination: Jipun, Pair ( 2c 2s Qs 9s 7c )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Ah 9d 8c
+Checks: Jipun
+Checks: Jofe
+Turn: Jd
+Checks: Jipun
+Checks: Jofe
+River: 7c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Js Jh
+Combination: Jofe, Three Of A Kind ( Js Jh Jd Ah 9d )
+Shows: Jipun, 6c 6s
+Combination: Jipun, Pair ( 6c 6s Ah Jd 9d )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 9d 5d Ah
+Checks: Jipun
+Checks: Jofe
+Turn: 9s
+Checks: Jipun
+Checks: Jofe
+River: Ac
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 7h 2d
+Combination: Jofe, Two Pair ( Ah Ac 9d 9s 7h )
+Shows: Jipun, 5s 5c
+Combination: Jipun, Full House ( 5s 5c 5d Ah Ac )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Tc 3s 3c
+Checks: Jipun
+Checks: Jofe
+Turn: Ad
+Checks: Jipun
+Checks: Jofe
+River: 6s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 2h 8c
+Combination: Jofe, Pair ( 3s 3c Ad Tc 8c )
+Shows: Jipun, 4s 2c
+Combination: Jipun, Pair ( 3s 3c Ad Tc 6s )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 6c Qs 2c
+Checks: Jipun
+Checks: Jofe
+Turn: Ah
+Checks: Jipun
+Checks: Jofe
+River: 5h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 3s Ts
+Combination: Jofe, High Card ( Ah Qs Ts 6c 5h )
+Shows: Jipun, 2h 8h
+Combination: Jipun, Pair ( 2h 2c Ah Qs 8h )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Ks Ad 7s
+Checks: Jipun
+Checks: Jofe
+Turn: Qc
+Checks: Jipun
+Checks: Jofe
+River: Qd
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 6d 2h
+Combination: Jofe, Pair ( Qc Qd Ad Ks 7s )
+Shows: Jipun, 4s 9d
+Combination: Jipun, Pair ( Qc Qd Ad Ks 9d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Jh 7c 4h
+Checks: Jipun
+Checks: Jofe
+Turn: 4s
+Checks: Jipun
+Checks: Jofe
+River: 2h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 8h Ah
+Combination: Jofe, Flush ( Ah Jh 8h 4h 2h )
+Shows: Jipun, 8s 3s
+Combination: Jipun, Pair ( 4h 4s Jh 8s 7c )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Kh Th 7c
+Checks: Jipun
+Checks: Jofe
+Turn: 8d
+Checks: Jipun
+Checks: Jofe
+River: 6c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 7h Jh
+Combination: Jofe, Pair ( 7h 7c Kh Jh Th )
+Shows: Jipun, Qd 7d
+Combination: Jipun, Pair ( 7d 7c Kh Qd Th )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Tc Ac 5d
+Checks: Jipun
+Checks: Jofe
+Turn: 5h
+Checks: Jipun
+Checks: Jofe
+River: 4c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 8d 4d
+Combination: Jofe, Two Pair ( 5d 5h 4d 4c Ac )
+Shows: Jipun, 3d 9h
+Combination: Jipun, Pair ( 5d 5h Ac Tc 9h )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 3c 2c 3s
+Checks: Jipun
+Checks: Jofe
+Turn: 7s
+Checks: Jipun
+Checks: Jofe
+River: 5h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 9s Jh
+Combination: Jofe, Pair ( 3c 3s Jh 9s 7s )
+Shows: Jipun, 6d 5d
+Combination: Jipun, Two Pair ( 5d 5h 3c 3s 7s )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 7s Kd 2d
+Checks: Jipun
+Checks: Jofe
+Turn: Jd
+Checks: Jipun
+Checks: Jofe
+River: 4d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 5h Ah
+Combination: Jofe, High Card ( Ah Kd Jd 7s 5h )
+Shows: Jipun, 8d Qc
+Combination: Jipun, Flush ( Kd Jd 8d 4d 2d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Calls: Jipun
+Flop: Tc Ad Qc
+Checks: Jofe
+Checks: Jipun
+Turn: 6c
+Checks: Jofe
+Checks: Jipun
+River: Td
+Checks: Jofe
+Checks: Jipun
+Pot size: 800
+Showdown Reached
+Shows: Jofe, Ks Qs
+Combination: Jofe, Two Pair ( Qs Qc Tc Td Ad )
+Shows: Jipun, 2c 2s
+Combination: Jipun, Two Pair ( Tc Td 2c 2s Ad )
+Wins: Jofe, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 2c 5c Qd
+Checks: Jipun
+Checks: Jofe
+Turn: 9s
+Checks: Jipun
+Checks: Jofe
+River: Ad
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 4s 9h
+Combination: Jofe, Pair ( 9h 9s Ad Qd 5c )
+Shows: Jipun, Qh 6c
+Combination: Jipun, Pair ( Qh Qd Ad 9s 6c )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 7s 9c Qc
+Checks: Jipun
+Checks: Jofe
+Turn: Kd
+Checks: Jipun
+Checks: Jofe
+River: 4c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Ac Ad
+Combination: Jofe, Pair ( Ac Ad Kd Qc 9c )
+Shows: Jipun, Ts Th
+Combination: Jipun, Pair ( Ts Th Kd Qc 9c )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Ts 3h 5c
+Checks: Jipun
+Checks: Jofe
+Turn: 7s
+Checks: Jipun
+Checks: Jofe
+River: 7h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 3c 6s
+Combination: Jofe, Two Pair ( 7s 7h 3c 3h Ts )
+Shows: Jipun, Qh 7c
+Combination: Jipun, Three Of A Kind ( 7c 7s 7h Qh Ts )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 9s Qd Kh
+Checks: Jipun
+Checks: Jofe
+Turn: 5h
+Checks: Jipun
+Checks: Jofe
+River: 8h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Qh 7c
+Combination: Jofe, Pair ( Qh Qd Kh 9s 8h )
+Shows: Jipun, 4s Jc
+Combination: Jipun, High Card ( Kh Qd Jc 9s 8h )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 246
+Folds: Jofe
+Pot size: 646
+Wins: Jipun, chips: 646
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Tc Kc 4h
+Checks: Jipun
+Checks: Jofe
+Turn: 5d
+Checks: Jipun
+Checks: Jofe
+River: Qc
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 7s 4s
+Combination: Jofe, Pair ( 4s 4h Kc Qc Tc )
+Shows: Jipun, 3h Jh
+Combination: Jipun, High Card ( Kc Qc Jh Tc 5d )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 5s 2h Ac
+Checks: Jipun
+Checks: Jofe
+Turn: 4c
+Checks: Jipun
+Checks: Jofe
+River: 3h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 4s Js
+Combination: Jofe, Straight ( 5s 4s 3h 2h Ac )
+Shows: Jipun, 9d 4d
+Combination: Jipun, Straight ( 5s 4d 3h 2h Ac )
+Wins: Jofe, chips: 200
+Wins: Jipun, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 6h 8s 7s
+Checks: Jipun
+Checks: Jofe
+Turn: Qh
+Checks: Jipun
+Checks: Jofe
+River: 6d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 5d 3c
+Combination: Jofe, Pair ( 6h 6d Qh 8s 7s )
+Shows: Jipun, 4s 7d
+Combination: Jipun, Two Pair ( 7d 7s 6h 6d Qh )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Ad 7c 3s
+Checks: Jipun
+Checks: Jofe
+Turn: Jd
+Checks: Jipun
+Checks: Jofe
+River: 8h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Kh Ac
+Combination: Jofe, Pair ( Ac Ad Kh Jd 8h )
+Shows: Jipun, 9c 4c
+Combination: Jipun, High Card ( Ad Jd 9c 8h 7c )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Kc 6s Th
+Checks: Jipun
+Checks: Jofe
+Turn: Kh
+Checks: Jipun
+Checks: Jofe
+River: 5h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 6c 2c
+Combination: Jofe, Two Pair ( Kc Kh 6c 6s Th )
+Shows: Jipun, Qh Qc
+Combination: Jipun, Two Pair ( Kc Kh Qh Qc Th )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 9h 7d 9s
+Checks: Jipun
+Checks: Jofe
+Turn: 2c
+Checks: Jipun
+Checks: Jofe
+River: Th
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 7c 6d
+Combination: Jofe, Two Pair ( 9h 9s 7c 7d Th )
+Shows: Jipun, 6h 5d
+Combination: Jipun, Pair ( 9h 9s Th 7d 6h )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Calls: Jipun
+Flop: Ah Ad 8h
+Checks: Jofe
+Checks: Jipun
+Turn: 2d
+Checks: Jofe
+Checks: Jipun
+River: 6d
+Checks: Jofe
+Checks: Jipun
+Pot size: 800
+Showdown Reached
+Shows: Jofe, As 4c
+Combination: Jofe, Three Of A Kind ( As Ah Ad 8h 6d )
+Shows: Jipun, 3s Th
+Combination: Jipun, Pair ( Ah Ad Th 8h 6d )
+Wins: Jofe, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 8h Ac 9s
+Checks: Jipun
+Checks: Jofe
+Turn: Td
+Checks: Jipun
+Checks: Jofe
+River: 4s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, As 4c
+Combination: Jofe, Two Pair ( As Ac 4c 4s Td )
+Shows: Jipun, 2c 8d
+Combination: Jipun, Pair ( 8d 8h Ac Td 9s )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 6c Ts 7d
+Checks: Jipun
+Checks: Jofe
+Turn: Ks
+Checks: Jipun
+Checks: Jofe
+River: 9c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 8d 5h
+Combination: Jofe, Straight ( Ts 9c 8d 7d 6c )
+Shows: Jipun, 4d 3h
+Combination: Jipun, High Card ( Ks Ts 9c 7d 6c )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Jd Ad Js
+Checks: Jipun
+Checks: Jofe
+Turn: Qd
+Checks: Jipun
+Checks: Jofe
+River: 7d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Ks 8c
+Combination: Jofe, Pair ( Jd Js Ad Ks Qd )
+Shows: Jipun, 9h 3h
+Combination: Jipun, Pair ( Jd Js Ad Qd 9h )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 5s 5d As
+Checks: Jipun
+Checks: Jofe
+Turn: Kh
+Checks: Jipun
+Checks: Jofe
+River: 3h
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 7h Ah
+Combination: Jofe, Two Pair ( Ah As 5s 5d Kh )
+Shows: Jipun, 4c 7s
+Combination: Jipun, Pair ( 5s 5d As Kh 7s )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 5d 2d Ks
+Checks: Jipun
+Checks: Jofe
+Turn: 6c
+Checks: Jipun
+Checks: Jofe
+River: Kd
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 7d 8h
+Combination: Jofe, Pair ( Ks Kd 8h 7d 6c )
+Shows: Jipun, 9d 4h
+Combination: Jipun, Pair ( Ks Kd 9d 6c 5d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Ad 7c 8c
+Checks: Jipun
+Checks: Jofe
+Turn: Qh
+Checks: Jipun
+Checks: Jofe
+River: 7s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Jh Kc
+Combination: Jofe, Pair ( 7c 7s Ad Kc Qh )
+Shows: Jipun, Qs 6d
+Combination: Jipun, Two Pair ( Qs Qh 7c 7s Ad )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Raises: Jipun, chips: 272
+Folds: Jofe
+Pot size: 1072
+Wins: Jipun, chips: 1072
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 8h 2c Jc
+Checks: Jipun
+Checks: Jofe
+Turn: 4s
+Checks: Jipun
+Checks: Jofe
+River: 3c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 2d Kc
+Combination: Jofe, Pair ( 2d 2c Kc Jc 8h )
+Shows: Jipun, 7h 3d
+Combination: Jipun, Pair ( 3d 3c Jc 8h 7h )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Ad Ac Jh
+Checks: Jipun
+Checks: Jofe
+Turn: 7c
+Checks: Jipun
+Checks: Jofe
+River: 4s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 8d Kd
+Combination: Jofe, Pair ( Ad Ac Kd Jh 8d )
+Shows: Jipun, 9d 5c
+Combination: Jipun, Pair ( Ad Ac Jh 9d 7c )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 8h Jd 7s
+Checks: Jipun
+Checks: Jofe
+Turn: 3c
+Checks: Jipun
+Checks: Jofe
+River: Qh
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Qc 5c
+Combination: Jofe, Pair ( Qc Qh Jd 8h 7s )
+Shows: Jipun, Jc 6d
+Combination: Jipun, Pair ( Jc Jd Qh 8h 7s )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Qh 4c 4d
+Checks: Jipun
+Checks: Jofe
+Turn: Qd
+Checks: Jipun
+Checks: Jofe
+River: 5d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 9h 2d
+Combination: Jofe, Two Pair ( Qh Qd 4c 4d 9h )
+Shows: Jipun, Qc 3d
+Combination: Jipun, Full House ( Qc Qh Qd 4c 4d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Qc 3c Jh
+Checks: Jipun
+Checks: Jofe
+Turn: As
+Checks: Jipun
+Checks: Jofe
+River: 9s
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Tc 7s
+Combination: Jofe, High Card ( As Qc Jh Tc 9s )
+Shows: Jipun, 6h 5d
+Combination: Jipun, High Card ( As Qc Jh 9s 6h )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 5d 5c Qc
+Checks: Jipun
+Checks: Jofe
+Turn: Kc
+Checks: Jipun
+Checks: Jofe
+River: 6d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Kd Qh
+Combination: Jofe, Two Pair ( Kd Kc Qh Qc 6d )
+Shows: Jipun, 3c Ts
+Combination: Jipun, Pair ( 5d 5c Kc Qc Ts )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 7s 7d Ks
+Checks: Jipun
+Checks: Jofe
+Turn: Jd
+Checks: Jipun
+Checks: Jofe
+River: 7c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Qs Ah
+Combination: Jofe, Three Of A Kind ( 7s 7d 7c Ah Ks )
+Shows: Jipun, 5c 3s
+Combination: Jipun, Three Of A Kind ( 7s 7d 7c Ks Jd )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 8s Jh Qd
+Checks: Jipun
+Checks: Jofe
+Turn: 4c
+Checks: Jipun
+Checks: Jofe
+River: Ah
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 8d 7h
+Combination: Jofe, Pair ( 8d 8s Ah Qd Jh )
+Shows: Jipun, Th 3d
+Combination: Jipun, High Card ( Ah Qd Jh Th 8s )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Kh Ts 8d
+Checks: Jipun
+Checks: Jofe
+Turn: 4s
+Checks: Jipun
+Checks: Jofe
+River: Th
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 9c Qd
+Combination: Jofe, Pair ( Ts Th Kh Qd 9c )
+Shows: Jipun, As 3h
+Combination: Jipun, Pair ( Ts Th As Kh 8d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Folds: Jipun
+Pot size: 600
+Wins: Jofe, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 2c 7d Tc
+Checks: Jipun
+Checks: Jofe
+Turn: 8s
+Checks: Jipun
+Checks: Jofe
+River: 4d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 4h 6s
+Combination: Jofe, Pair ( 4h 4d Tc 8s 7d )
+Shows: Jipun, 9c Th
+Combination: Jipun, Pair ( Th Tc 9c 8s 7d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Kc 4h 6c
+Checks: Jipun
+Checks: Jofe
+Turn: 5s
+Checks: Jipun
+Checks: Jofe
+River: 5c
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Jc Td
+Combination: Jofe, Pair ( 5s 5c Kc Jc Td )
+Shows: Jipun, 7c 2c
+Combination: Jipun, Flush ( Kc 7c 6c 5c 2c )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Calls: Jipun
+Flop: 3h Jh 4c
+Checks: Jofe
+Checks: Jipun
+Turn: 2d
+Checks: Jofe
+Checks: Jipun
+River: Ts
+Checks: Jofe
+Checks: Jipun
+Pot size: 800
+Showdown Reached
+Shows: Jofe, 9c Qh
+Combination: Jofe, High Card ( Qh Jh Ts 9c 4c )
+Shows: Jipun, 9s 6c
+Combination: Jipun, High Card ( Jh Ts 9s 6c 4c )
+Wins: Jofe, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 6c Qh Kc
+Checks: Jipun
+Checks: Jofe
+Turn: 2h
+Checks: Jipun
+Checks: Jofe
+River: Ts
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 8h 5s
+Combination: Jofe, High Card ( Kc Qh Ts 8h 6c )
+Shows: Jipun, 7d Jc
+Combination: Jipun, High Card ( Kc Qh Jc Ts 7d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: Jh 9c 3h
+Checks: Jipun
+Checks: Jofe
+Turn: 2h
+Checks: Jipun
+Checks: Jofe
+River: 9d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, Qh Kd
+Combination: Jofe, Pair ( 9c 9d Kd Qh Jh )
+Shows: Jipun, 5h Jc
+Combination: Jipun, Two Pair ( Jc Jh 9c 9d 5h )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Calls: Jipun
+Raises: Jofe, chips: 200
+Calls: Jipun
+Flop: 2d 3s 9c
+Checks: Jofe
+Checks: Jipun
+Turn: 6h
+Checks: Jofe
+Checks: Jipun
+River: Ad
+Checks: Jofe
+Checks: Jipun
+Pot size: 800
+Showdown Reached
+Shows: Jofe, 8d 7d
+Combination: Jofe, High Card ( Ad 9c 8d 7d 6h )
+Shows: Jipun, 9s 7h
+Combination: Jipun, Pair ( 9s 9c Ad 7h 6h )
+Wins: Jipun, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 8h 7c Kd
+Checks: Jipun
+Checks: Jofe
+Turn: 9d
+Checks: Jipun
+Checks: Jofe
+River: Kh
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 5d 9c
+Combination: Jofe, Two Pair ( Kd Kh 9c 9d 8h )
+Shows: Jipun, Qc 4d
+Combination: Jipun, Pair ( Kd Kh Qc 9d 8h )
+Wins: Jofe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Checks: Jipun
+Flop: 3s 8d As
+Checks: Jipun
+Checks: Jofe
+Turn: Ac
+Checks: Jipun
+Checks: Jofe
+River: 7d
+Checks: Jipun
+Checks: Jofe
+Pot size: 400
+Showdown Reached
+Shows: Jofe, 2h 6c
+Combination: Jofe, Pair ( As Ac 8d 7d 6c )
+Shows: Jipun, Qs Td
+Combination: Jipun, Pair ( As Ac Qs Td 8d )
+Wins: Jipun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Folds: Jipun
+Pot size: 300
+Wins: Jofe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Calls: Jofe
+Raises: Jipun, chips: 600
+Folds: Jofe
+Pot size: 1000
+Wins: Jipun, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jipun
+Small Blind: Jipun, chips: 100
+Big Blind: Jofe, chips: 200
+Raises: Jipun, chips: 200
+Folds: Jofe
+Pot size: 600
+Wins: Jipun, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jofe
+Small Blind: Jofe, chips: 100
+Big Blind: Jipun, chips: 200
+Flop: 9d Qc 3h
+Turn: Jh
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Jofe, Kd Ac
+Combination: Jofe, High Card ( Ac Kd Qc Jh 9d )
+Shows: Jipun, 3d Qs
+Combination: Jipun, Two Pair ( Qs Qc 3d 3h Jh )
+Wins: Jipun, chips: 300
+Quits: Jofe, chips: 0
+Ranking: Jipun, Place: 1, Score: 6000
+Reveal AI: Jipun, AI: AIMyBot5
+Ranking: Jofe, Place: 2, Score: -1000
+Reveal AI: Jofe, AI: AIMyBot1
+Ranking: Busa, Place: 3, Score: -1000
+Reveal AI: Busa, AI: AIMyBot2
+Ranking: Bodagoe, Place: 4, Score: -1000
+Reveal AI: Bodagoe, AI: AIMyBot6
+Ranking: Feerer, Place: 5, Score: -1000
+Reveal AI: Feerer, AI: AIMyBot3
+Ranking: Tuteebuk, Place: 6, Score: -1000
+Reveal AI: Tuteebuk, AI: AIMyBot7
+Ranking: Soevowru, Place: 7, Score: -1000
+Reveal AI: Soevowru, AI: AIMyBot4
+
+Player Stats for Bodagoe, AI: AIMyBot6
+General: deals: 17, actions: 16, preflop actions: 16
+Rounds Seen: flops: 65, turns: 65, rivers: 65, showdowns: 65
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Busa, AI: AIMyBot2
+General: deals: 22, actions: 22, preflop actions: 21
+Rounds Seen: flops: 65, turns: 64, rivers: 64, showdowns: 64
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.136364, PFR: 0.0454545, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.984615, WSDW: 0.015625
+
+
+Player Stats for Feerer, AI: AIMyBot3
+General: deals: 12, actions: 15, preflop actions: 12
+Rounds Seen: flops: 70, turns: 69, rivers: 69, showdowns: 69
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 2400, lost: 4000, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 1, WSD: 0.985714, WSDW: 0.0144928
+
+
+Player Stats for Jipun, AI: AIMyBot5
+General: deals: 172, actions: 399, preflop actions: 188
+Rounds Seen: flops: 72, turns: 72, rivers: 72, showdowns: 72
+Wins: total: 81, showdown: 36, bluff: 45
+Chips: won: 55018, lost: 49018, bought: 1000, forced bets: 24100
+Pre-Flop Stats: VP$IP: 0.377907, PFR: 0.267442, 3Bet: 0.162791
+Post-Flop Stats: AF: 1.#INF, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Jofe, AI: AIMyBot1
+General: deals: 172, actions: 367, preflop actions: 154
+Rounds Seen: flops: 74, turns: 73, rivers: 73, showdowns: 73
+Wins: total: 90, showdown: 39, bluff: 51
+Chips: won: 36200, lost: 37200, bought: 1000, forced bets: 23900
+Pre-Flop Stats: VP$IP: 0.616279, PFR: 0.0988372, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.986486, WSDW: 0.534247
+
+
+Player Stats for Soevowru, AI: AIMyBot4
+General: deals: 2, actions: 5, preflop actions: 2
+Rounds Seen: flops: 76, turns: 75, rivers: 75, showdowns: 75
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1200, bought: 1000, forced bets: 200
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.986842, WSDW: 0
+
+
+Player Stats for Tuteebuk, AI: AIMyBot7
+General: deals: 3, actions: 3, preflop actions: 3
+Rounds Seen: flops: 75, turns: 74, rivers: 74, showdowns: 74
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 0.666667, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 0.986667, WSDW: 0.0135135
+
+

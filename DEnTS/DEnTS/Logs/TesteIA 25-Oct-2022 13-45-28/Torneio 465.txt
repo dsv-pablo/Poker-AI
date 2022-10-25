@@ -1,0 +1,224 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hakar: Random
+Tebeeki: AIMyBot1
+
+Joins: Hakar, chips: 1000
+Joins: Tebeeki, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hakar
+Small Blind: Hakar, chips: 100
+Big Blind: Tebeeki, chips: 200
+Folds: Hakar
+Pot size: 300
+Wins: Tebeeki, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tebeeki
+Small Blind: Tebeeki, chips: 100
+Big Blind: Hakar, chips: 200
+Folds: Tebeeki
+Pot size: 300
+Boasts: Hakar, 3d 3h
+Wins: Hakar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hakar
+Small Blind: Hakar, chips: 100
+Big Blind: Tebeeki, chips: 200
+Calls: Hakar
+DEBUG MESSAGE: INVALID ACTION FROM Tebeeki (2 0)
+Folds: Tebeeki
+Pot size: 400
+Boasts: Hakar, 4s 8s
+Wins: Hakar, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tebeeki
+Small Blind: Tebeeki, chips: 100
+Big Blind: Hakar, chips: 200
+Folds: Tebeeki
+Pot size: 300
+Boasts: Hakar, 4s 2h
+Wins: Hakar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hakar
+Small Blind: Hakar, chips: 100
+Big Blind: Tebeeki, chips: 200
+Raises: Hakar, chips: 300
+Folds: Tebeeki
+Pot size: 700
+Wins: Hakar, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tebeeki
+Small Blind: Tebeeki, chips: 100
+Big Blind: Hakar, chips: 200
+Folds: Tebeeki
+Pot size: 300
+Boasts: Hakar, Ad 5s
+Wins: Hakar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hakar
+Small Blind: Hakar, chips: 100
+Big Blind: Tebeeki, chips: 200
+Raises: Hakar, chips: 300
+Folds: Tebeeki
+Pot size: 700
+Boasts: Hakar, 4h As
+Wins: Hakar, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tebeeki
+Small Blind: Tebeeki, chips: 100
+Big Blind: Hakar, chips: 200
+Folds: Tebeeki
+Pot size: 300
+Wins: Hakar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hakar
+Small Blind: Hakar, chips: 100
+Big Blind: Tebeeki, chips: 100
+Flop: Kh Qc 2d
+Turn: Jh
+River: Th
+Pot size: 200
+Showdown Reached
+Shows: Hakar, Ad 6s
+Combination: Hakar, Straight ( Ad Kh Qc Jh Th )
+Shows: Tebeeki, 9c 6c
+Combination: Tebeeki, Straight ( Kh Qc Jh Th 9c )
+Wins: Hakar, chips: 200
+Quits: Tebeeki, chips: 0
+Ranking: Hakar, Place: 1, Score: 1000
+Reveal AI: Hakar, AI: Random
+Ranking: Tebeeki, Place: 2, Score: -1000
+Reveal AI: Tebeeki, AI: AIMyBot1
+
+Player Stats for Hakar, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Tebeeki, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:00
+
+The game begins. The AI's of the players are: 
+Hakar: Random
+Tebeeki: AIMyBot1
+
+Joins: Hakar, chips: 1000
+Joins: Tebeeki, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hakar
+Small Blind: Hakar, chips: 100
+Big Blind: Tebeeki, chips: 200
+Folds: Hakar
+Pot size: 300
+Wins: Tebeeki, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tebeeki
+Small Blind: Tebeeki, chips: 100
+Big Blind: Hakar, chips: 200
+Folds: Tebeeki
+Pot size: 300
+Boasts: Hakar, 3d 3h
+Wins: Hakar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hakar
+Small Blind: Hakar, chips: 100
+Big Blind: Tebeeki, chips: 200
+Calls: Hakar
+DEBUG MESSAGE: INVALID ACTION FROM Tebeeki (2 0)
+Folds: Tebeeki
+Pot size: 400
+Boasts: Hakar, 4s 8s
+Wins: Hakar, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tebeeki
+Small Blind: Tebeeki, chips: 100
+Big Blind: Hakar, chips: 200
+Folds: Tebeeki
+Pot size: 300
+Boasts: Hakar, 4s 2h
+Wins: Hakar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hakar
+Small Blind: Hakar, chips: 100
+Big Blind: Tebeeki, chips: 200
+Raises: Hakar, chips: 300
+Folds: Tebeeki
+Pot size: 700
+Wins: Hakar, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tebeeki
+Small Blind: Tebeeki, chips: 100
+Big Blind: Hakar, chips: 200
+Folds: Tebeeki
+Pot size: 300
+Boasts: Hakar, Ad 5s
+Wins: Hakar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hakar
+Small Blind: Hakar, chips: 100
+Big Blind: Tebeeki, chips: 200
+Raises: Hakar, chips: 300
+Folds: Tebeeki
+Pot size: 700
+Boasts: Hakar, 4h As
+Wins: Hakar, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tebeeki
+Small Blind: Tebeeki, chips: 100
+Big Blind: Hakar, chips: 200
+Folds: Tebeeki
+Pot size: 300
+Wins: Hakar, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hakar
+Small Blind: Hakar, chips: 100
+Big Blind: Tebeeki, chips: 100
+Flop: Kh Qc 2d
+Turn: Jh
+River: Th
+Pot size: 200
+Showdown Reached
+Shows: Hakar, Ad 6s
+Combination: Hakar, Straight ( Ad Kh Qc Jh Th )
+Shows: Tebeeki, 9c 6c
+Combination: Tebeeki, Straight ( Kh Qc Jh Th 9c )
+Wins: Hakar, chips: 200
+Quits: Tebeeki, chips: 0
+Ranking: Hakar, Place: 1, Score: 1000
+Reveal AI: Hakar, AI: Random
+Ranking: Tebeeki, Place: 2, Score: -1000
+Reveal AI: Tebeeki, AI: AIMyBot1
+
+Player Stats for Hakar, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Tebeeki, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

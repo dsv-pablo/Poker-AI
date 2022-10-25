@@ -1,0 +1,282 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pedeenny: AIMyBot1
+Noewu: Random
+
+Joins: Pedeenny, chips: 1000
+Joins: Noewu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewu
+Small Blind: Noewu, chips: 100
+Big Blind: Pedeenny, chips: 200
+Raises: Noewu, chips: 300
+Folds: Pedeenny
+Pot size: 700
+Boasts: Noewu, 3h Js
+Wins: Noewu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pedeenny
+Small Blind: Pedeenny, chips: 100
+Big Blind: Noewu, chips: 200
+Folds: Pedeenny
+Pot size: 300
+Boasts: Noewu, 8d 9h
+Wins: Noewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewu
+Small Blind: Noewu, chips: 100
+Big Blind: Pedeenny, chips: 200
+Calls: Noewu
+DEBUG MESSAGE: INVALID ACTION FROM Pedeenny (2 0)
+Folds: Pedeenny
+Pot size: 400
+Boasts: Noewu, 9h 4c
+Wins: Noewu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pedeenny
+Small Blind: Pedeenny, chips: 100
+Big Blind: Noewu, chips: 200
+Folds: Pedeenny
+Pot size: 300
+Boasts: Noewu, Kh 5s
+Wins: Noewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewu
+Small Blind: Noewu, chips: 100
+Big Blind: Pedeenny, chips: 200
+Raises: Noewu, chips: 300
+Folds: Pedeenny
+Pot size: 700
+Boasts: Noewu, Ah 3s
+Wins: Noewu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pedeenny
+Small Blind: Pedeenny, chips: 100
+Big Blind: Noewu, chips: 200
+Folds: Pedeenny
+Pot size: 300
+Wins: Noewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewu
+Small Blind: Noewu, chips: 100
+Big Blind: Pedeenny, chips: 100
+Flop: Ah Jd 4h
+Turn: 6h
+River: 8d
+Pot size: 200
+Showdown Reached
+Shows: Pedeenny, 9h 8s
+Combination: Pedeenny, Pair ( 8s 8d Ah Jd 9h )
+Shows: Noewu, 3c 6s
+Combination: Noewu, Pair ( 6s 6h Ah Jd 8d )
+Wins: Pedeenny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pedeenny
+Small Blind: Pedeenny, chips: 100
+Big Blind: Noewu, chips: 200
+Folds: Pedeenny
+Pot size: 300
+Boasts: Noewu, 2c 2s
+Wins: Noewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewu
+Small Blind: Noewu, chips: 100
+Big Blind: Pedeenny, chips: 100
+Flop: Ks 9h 6c
+Turn: 6d
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Pedeenny, Kd Jh
+Combination: Pedeenny, Two Pair ( Kd Ks Jh Jd 9h )
+Shows: Noewu, 9s Tc
+Combination: Noewu, Two Pair ( 9s 9h 6c 6d Ks )
+Wins: Pedeenny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pedeenny
+Small Blind: Pedeenny, chips: 100
+Big Blind: Noewu, chips: 200
+Folds: Pedeenny
+Pot size: 300
+Wins: Noewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewu
+Small Blind: Noewu, chips: 100
+Big Blind: Pedeenny, chips: 100
+Flop: Js 6h 6s
+Turn: Ac
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Pedeenny, Kc 8d
+Combination: Pedeenny, Pair ( 6h 6s Ac Kc Js )
+Shows: Noewu, Tc 7s
+Combination: Noewu, Two Pair ( 7s 7c 6h 6s Ac )
+Wins: Noewu, chips: 200
+Quits: Pedeenny, chips: 0
+Ranking: Noewu, Place: 1, Score: 1000
+Reveal AI: Noewu, AI: Random
+Ranking: Pedeenny, Place: 2, Score: -1000
+Reveal AI: Pedeenny, AI: AIMyBot1
+
+Player Stats for Noewu, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Pedeenny, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:50
+
+The game begins. The AI's of the players are: 
+Pedeenny: AIMyBot1
+Noewu: Random
+
+Joins: Pedeenny, chips: 1000
+Joins: Noewu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewu
+Small Blind: Noewu, chips: 100
+Big Blind: Pedeenny, chips: 200
+Raises: Noewu, chips: 300
+Folds: Pedeenny
+Pot size: 700
+Boasts: Noewu, 3h Js
+Wins: Noewu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pedeenny
+Small Blind: Pedeenny, chips: 100
+Big Blind: Noewu, chips: 200
+Folds: Pedeenny
+Pot size: 300
+Boasts: Noewu, 8d 9h
+Wins: Noewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewu
+Small Blind: Noewu, chips: 100
+Big Blind: Pedeenny, chips: 200
+Calls: Noewu
+DEBUG MESSAGE: INVALID ACTION FROM Pedeenny (2 0)
+Folds: Pedeenny
+Pot size: 400
+Boasts: Noewu, 9h 4c
+Wins: Noewu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pedeenny
+Small Blind: Pedeenny, chips: 100
+Big Blind: Noewu, chips: 200
+Folds: Pedeenny
+Pot size: 300
+Boasts: Noewu, Kh 5s
+Wins: Noewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewu
+Small Blind: Noewu, chips: 100
+Big Blind: Pedeenny, chips: 200
+Raises: Noewu, chips: 300
+Folds: Pedeenny
+Pot size: 700
+Boasts: Noewu, Ah 3s
+Wins: Noewu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pedeenny
+Small Blind: Pedeenny, chips: 100
+Big Blind: Noewu, chips: 200
+Folds: Pedeenny
+Pot size: 300
+Wins: Noewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewu
+Small Blind: Noewu, chips: 100
+Big Blind: Pedeenny, chips: 100
+Flop: Ah Jd 4h
+Turn: 6h
+River: 8d
+Pot size: 200
+Showdown Reached
+Shows: Pedeenny, 9h 8s
+Combination: Pedeenny, Pair ( 8s 8d Ah Jd 9h )
+Shows: Noewu, 3c 6s
+Combination: Noewu, Pair ( 6s 6h Ah Jd 8d )
+Wins: Pedeenny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pedeenny
+Small Blind: Pedeenny, chips: 100
+Big Blind: Noewu, chips: 200
+Folds: Pedeenny
+Pot size: 300
+Boasts: Noewu, 2c 2s
+Wins: Noewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewu
+Small Blind: Noewu, chips: 100
+Big Blind: Pedeenny, chips: 100
+Flop: Ks 9h 6c
+Turn: 6d
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Pedeenny, Kd Jh
+Combination: Pedeenny, Two Pair ( Kd Ks Jh Jd 9h )
+Shows: Noewu, 9s Tc
+Combination: Noewu, Two Pair ( 9s 9h 6c 6d Ks )
+Wins: Pedeenny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pedeenny
+Small Blind: Pedeenny, chips: 100
+Big Blind: Noewu, chips: 200
+Folds: Pedeenny
+Pot size: 300
+Wins: Noewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewu
+Small Blind: Noewu, chips: 100
+Big Blind: Pedeenny, chips: 100
+Flop: Js 6h 6s
+Turn: Ac
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Pedeenny, Kc 8d
+Combination: Pedeenny, Pair ( 6h 6s Ac Kc Js )
+Shows: Noewu, Tc 7s
+Combination: Noewu, Two Pair ( 7s 7c 6h 6s Ac )
+Wins: Noewu, chips: 200
+Quits: Pedeenny, chips: 0
+Ranking: Noewu, Place: 1, Score: 1000
+Reveal AI: Noewu, AI: Random
+Ranking: Pedeenny, Place: 2, Score: -1000
+Reveal AI: Pedeenny, AI: AIMyBot1
+
+Player Stats for Noewu, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Pedeenny, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

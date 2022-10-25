@@ -1,0 +1,460 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wiwras: Random
+Naheekos: AIMyBot1
+
+Joins: Wiwras, chips: 1000
+Joins: Naheekos, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Folds: Naheekos
+Pot size: 300
+Boasts: Wiwras, As 7s
+Wins: Wiwras, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwras
+Small Blind: Wiwras, chips: 100
+Big Blind: Naheekos, chips: 200
+Raises: Wiwras, chips: 300
+Folds: Naheekos
+Pot size: 700
+Wins: Wiwras, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Folds: Naheekos
+Pot size: 300
+Wins: Wiwras, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwras
+Small Blind: Wiwras, chips: 100
+Big Blind: Naheekos, chips: 200
+Raises: Wiwras, chips: 300
+Folds: Naheekos
+Pot size: 700
+Boasts: Wiwras, 7d 6d
+Wins: Wiwras, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Folds: Naheekos
+Pot size: 300
+Wins: Wiwras, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwras
+Small Blind: Wiwras, chips: 100
+Big Blind: Naheekos, chips: 200
+Calls: Wiwras
+DEBUG MESSAGE: INVALID ACTION FROM Naheekos (2 0)
+Folds: Naheekos
+Pot size: 400
+Boasts: Wiwras, Ac 9h
+Wins: Wiwras, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Flop: 6h 8s Ac
+Turn: Js
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, 5s 3d
+Combination: Wiwras, High Card ( Ac Js 8s 6h 5s )
+Shows: Naheekos, 5c 7s
+Combination: Naheekos, High Card ( Ac Js 8s 7s 6h )
+Wins: Wiwras, chips: 100
+Wins: Naheekos, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwras
+Small Blind: Wiwras, chips: 100
+Big Blind: Naheekos, chips: 200
+Flop: 2c 6h Ah
+Turn: Qd
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, 9h 8c
+Combination: Wiwras, High Card ( Ah Qd Jd 9h 8c )
+Shows: Naheekos, Qs 5c
+Combination: Naheekos, Pair ( Qs Qd Ah Jd 6h )
+Wins: Naheekos, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Folds: Naheekos
+Pot size: 300
+Boasts: Wiwras, 5d Qd
+Wins: Wiwras, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwras
+Small Blind: Wiwras, chips: 100
+Big Blind: Naheekos, chips: 200
+Flop: 6c Js 5s
+Turn: Ad
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, Td Ks
+Combination: Wiwras, High Card ( Ad Ks Js Td 6c )
+Shows: Naheekos, Th As
+Combination: Naheekos, Pair ( As Ad Js Th 6c )
+Wins: Naheekos, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Folds: Naheekos
+Pot size: 300
+Boasts: Wiwras, 8s Tc
+Wins: Wiwras, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwras
+Small Blind: Wiwras, chips: 100
+Big Blind: Naheekos, chips: 200
+Flop: 5s Ks Jd
+Turn: Jh
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, 3h Qh
+Combination: Wiwras, Pair ( Jd Jh Ks Qh 9c )
+Shows: Naheekos, 4s 3s
+Combination: Naheekos, Pair ( Jd Jh Ks 9c 5s )
+Wins: Wiwras, chips: 200
+Wins: Naheekos, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Flop: 6c 9c 6d
+Turn: 7h
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, 3d 9s
+Combination: Wiwras, Two Pair ( 9s 9c 6c 6d Tc )
+Shows: Naheekos, 6h Qs
+Combination: Naheekos, Three Of A Kind ( 6h 6c 6d Qs Tc )
+Wins: Wiwras, chips: 100
+Wins: Naheekos, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwras
+Small Blind: Wiwras, chips: 100
+Big Blind: Naheekos, chips: 200
+Flop: 2c 2d 6h
+Turn: 2h
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, Kh Kc
+Combination: Wiwras, Full House ( 2c 2d 2h Kh Kc )
+Shows: Naheekos, Ah Js
+Combination: Naheekos, Three Of A Kind ( 2c 2d 2h Ah Js )
+Wins: Wiwras, chips: 200
+Wins: Naheekos, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Flop: 7h 5c Qh
+Turn: 6d
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, Ah 4c
+Combination: Wiwras, Pair ( 7h 7c Ah Qh 6d )
+Shows: Naheekos, 9c Qc
+Combination: Naheekos, Two Pair ( Qc Qh 7h 7c 9c )
+Wins: Wiwras, chips: 100
+Wins: Naheekos, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwras
+Small Blind: Wiwras, chips: 100
+Big Blind: Naheekos, chips: 200
+Flop: 4d 7s 6h
+Turn: 8d
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, Th 6d
+Combination: Wiwras, Pair ( 6d 6h Ah Th 8d )
+Shows: Naheekos, Kh 9c
+Combination: Naheekos, High Card ( Ah Kh 9c 8d 7s )
+Wins: Wiwras, chips: 200
+Wins: Naheekos, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Flop: 8s Ah Tc
+Turn: 2d
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, Th Jd
+Combination: Wiwras, Two Pair ( Th Tc 8s 8h Ah )
+Shows: Naheekos, Kd 5c
+Combination: Naheekos, Pair ( 8s 8h Ah Kd Tc )
+Wins: Wiwras, chips: 300
+Quits: Naheekos, chips: 0
+Ranking: Wiwras, Place: 1, Score: 1000
+Reveal AI: Wiwras, AI: Random
+Ranking: Naheekos, Place: 2, Score: -1000
+Reveal AI: Naheekos, AI: AIMyBot1
+
+Player Stats for Naheekos, AI: AIMyBot1
+General: deals: 17, actions: 8, preflop actions: 8
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Player Stats for Wiwras, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 15, showdown: 7, bluff: 8
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.777778
+
+
+Date: 2022/10/25 13:45:46
+
+The game begins. The AI's of the players are: 
+Wiwras: Random
+Naheekos: AIMyBot1
+
+Joins: Wiwras, chips: 1000
+Joins: Naheekos, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Folds: Naheekos
+Pot size: 300
+Boasts: Wiwras, As 7s
+Wins: Wiwras, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwras
+Small Blind: Wiwras, chips: 100
+Big Blind: Naheekos, chips: 200
+Raises: Wiwras, chips: 300
+Folds: Naheekos
+Pot size: 700
+Wins: Wiwras, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Folds: Naheekos
+Pot size: 300
+Wins: Wiwras, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwras
+Small Blind: Wiwras, chips: 100
+Big Blind: Naheekos, chips: 200
+Raises: Wiwras, chips: 300
+Folds: Naheekos
+Pot size: 700
+Boasts: Wiwras, 7d 6d
+Wins: Wiwras, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Folds: Naheekos
+Pot size: 300
+Wins: Wiwras, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwras
+Small Blind: Wiwras, chips: 100
+Big Blind: Naheekos, chips: 200
+Calls: Wiwras
+DEBUG MESSAGE: INVALID ACTION FROM Naheekos (2 0)
+Folds: Naheekos
+Pot size: 400
+Boasts: Wiwras, Ac 9h
+Wins: Wiwras, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Flop: 6h 8s Ac
+Turn: Js
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, 5s 3d
+Combination: Wiwras, High Card ( Ac Js 8s 6h 5s )
+Shows: Naheekos, 5c 7s
+Combination: Naheekos, High Card ( Ac Js 8s 7s 6h )
+Wins: Wiwras, chips: 100
+Wins: Naheekos, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwras
+Small Blind: Wiwras, chips: 100
+Big Blind: Naheekos, chips: 200
+Flop: 2c 6h Ah
+Turn: Qd
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, 9h 8c
+Combination: Wiwras, High Card ( Ah Qd Jd 9h 8c )
+Shows: Naheekos, Qs 5c
+Combination: Naheekos, Pair ( Qs Qd Ah Jd 6h )
+Wins: Naheekos, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Folds: Naheekos
+Pot size: 300
+Boasts: Wiwras, 5d Qd
+Wins: Wiwras, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwras
+Small Blind: Wiwras, chips: 100
+Big Blind: Naheekos, chips: 200
+Flop: 6c Js 5s
+Turn: Ad
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, Td Ks
+Combination: Wiwras, High Card ( Ad Ks Js Td 6c )
+Shows: Naheekos, Th As
+Combination: Naheekos, Pair ( As Ad Js Th 6c )
+Wins: Naheekos, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Folds: Naheekos
+Pot size: 300
+Boasts: Wiwras, 8s Tc
+Wins: Wiwras, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwras
+Small Blind: Wiwras, chips: 100
+Big Blind: Naheekos, chips: 200
+Flop: 5s Ks Jd
+Turn: Jh
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, 3h Qh
+Combination: Wiwras, Pair ( Jd Jh Ks Qh 9c )
+Shows: Naheekos, 4s 3s
+Combination: Naheekos, Pair ( Jd Jh Ks 9c 5s )
+Wins: Wiwras, chips: 200
+Wins: Naheekos, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Flop: 6c 9c 6d
+Turn: 7h
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, 3d 9s
+Combination: Wiwras, Two Pair ( 9s 9c 6c 6d Tc )
+Shows: Naheekos, 6h Qs
+Combination: Naheekos, Three Of A Kind ( 6h 6c 6d Qs Tc )
+Wins: Wiwras, chips: 100
+Wins: Naheekos, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwras
+Small Blind: Wiwras, chips: 100
+Big Blind: Naheekos, chips: 200
+Flop: 2c 2d 6h
+Turn: 2h
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, Kh Kc
+Combination: Wiwras, Full House ( 2c 2d 2h Kh Kc )
+Shows: Naheekos, Ah Js
+Combination: Naheekos, Three Of A Kind ( 2c 2d 2h Ah Js )
+Wins: Wiwras, chips: 200
+Wins: Naheekos, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Flop: 7h 5c Qh
+Turn: 6d
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, Ah 4c
+Combination: Wiwras, Pair ( 7h 7c Ah Qh 6d )
+Shows: Naheekos, 9c Qc
+Combination: Naheekos, Two Pair ( Qc Qh 7h 7c 9c )
+Wins: Wiwras, chips: 100
+Wins: Naheekos, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wiwras
+Small Blind: Wiwras, chips: 100
+Big Blind: Naheekos, chips: 200
+Flop: 4d 7s 6h
+Turn: 8d
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, Th 6d
+Combination: Wiwras, Pair ( 6d 6h Ah Th 8d )
+Shows: Naheekos, Kh 9c
+Combination: Naheekos, High Card ( Ah Kh 9c 8d 7s )
+Wins: Wiwras, chips: 200
+Wins: Naheekos, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Naheekos
+Small Blind: Naheekos, chips: 100
+Big Blind: Wiwras, chips: 200
+Flop: 8s Ah Tc
+Turn: 2d
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Wiwras, Th Jd
+Combination: Wiwras, Two Pair ( Th Tc 8s 8h Ah )
+Shows: Naheekos, Kd 5c
+Combination: Naheekos, Pair ( 8s 8h Ah Kd Tc )
+Wins: Wiwras, chips: 300
+Quits: Naheekos, chips: 0
+Ranking: Wiwras, Place: 1, Score: 1000
+Reveal AI: Wiwras, AI: Random
+Ranking: Naheekos, Place: 2, Score: -1000
+Reveal AI: Naheekos, AI: AIMyBot1
+
+Player Stats for Naheekos, AI: AIMyBot1
+General: deals: 17, actions: 8, preflop actions: 8
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Player Stats for Wiwras, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 15, showdown: 7, bluff: 8
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.777778
+
+

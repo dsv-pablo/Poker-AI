@@ -1,0 +1,224 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Take: Random
+Werle: AIMyBot1
+
+Joins: Take, chips: 1000
+Joins: Werle, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werle
+Small Blind: Werle, chips: 100
+Big Blind: Take, chips: 200
+Folds: Werle
+Pot size: 300
+Boasts: Take, 3s 8c
+Wins: Take, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Take
+Small Blind: Take, chips: 100
+Big Blind: Werle, chips: 200
+Calls: Take
+DEBUG MESSAGE: INVALID ACTION FROM Werle (2 0)
+Folds: Werle
+Pot size: 400
+Wins: Take, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werle
+Small Blind: Werle, chips: 100
+Big Blind: Take, chips: 200
+Folds: Werle
+Pot size: 300
+Boasts: Take, 9d Kd
+Wins: Take, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Take
+Small Blind: Take, chips: 100
+Big Blind: Werle, chips: 200
+Raises: Take, chips: 300
+Folds: Werle
+Pot size: 700
+Wins: Take, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werle
+Small Blind: Werle, chips: 100
+Big Blind: Take, chips: 200
+Folds: Werle
+Pot size: 300
+Boasts: Take, 8s 6h
+Wins: Take, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Take
+Small Blind: Take, chips: 100
+Big Blind: Werle, chips: 200
+Raises: Take, chips: 300
+Folds: Werle
+Pot size: 700
+Boasts: Take, 6c 2s
+Wins: Take, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werle
+Small Blind: Werle, chips: 100
+Big Blind: Take, chips: 200
+Flop: Qd 5h 3d
+Turn: 7s
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Take, 4d 9s
+Combination: Take, Straight ( 7s 6h 5h 4d 3d )
+Shows: Werle, Ad 4h
+Combination: Werle, Straight ( 7s 6h 5h 4h 3d )
+Wins: Take, chips: 200
+Wins: Werle, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Take
+Small Blind: Take, chips: 100
+Big Blind: Werle, chips: 100
+Flop: 5c 9c Ah
+Turn: 3h
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Take, Qh Qd
+Combination: Take, Three Of A Kind ( Qh Qd Qc Ah 9c )
+Shows: Werle, 2h 7d
+Combination: Werle, High Card ( Ah Qc 9c 7d 5c )
+Wins: Take, chips: 200
+Quits: Werle, chips: 0
+Ranking: Take, Place: 1, Score: 1000
+Reveal AI: Take, AI: Random
+Ranking: Werle, Place: 2, Score: -1000
+Reveal AI: Werle, AI: AIMyBot1
+
+Player Stats for Take, AI: Random
+General: deals: 8, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.25, 3Bet: 0.25
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Werle, AI: AIMyBot1
+General: deals: 8, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 100, lost: 1100, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:33
+
+The game begins. The AI's of the players are: 
+Take: Random
+Werle: AIMyBot1
+
+Joins: Take, chips: 1000
+Joins: Werle, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werle
+Small Blind: Werle, chips: 100
+Big Blind: Take, chips: 200
+Folds: Werle
+Pot size: 300
+Boasts: Take, 3s 8c
+Wins: Take, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Take
+Small Blind: Take, chips: 100
+Big Blind: Werle, chips: 200
+Calls: Take
+DEBUG MESSAGE: INVALID ACTION FROM Werle (2 0)
+Folds: Werle
+Pot size: 400
+Wins: Take, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werle
+Small Blind: Werle, chips: 100
+Big Blind: Take, chips: 200
+Folds: Werle
+Pot size: 300
+Boasts: Take, 9d Kd
+Wins: Take, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Take
+Small Blind: Take, chips: 100
+Big Blind: Werle, chips: 200
+Raises: Take, chips: 300
+Folds: Werle
+Pot size: 700
+Wins: Take, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werle
+Small Blind: Werle, chips: 100
+Big Blind: Take, chips: 200
+Folds: Werle
+Pot size: 300
+Boasts: Take, 8s 6h
+Wins: Take, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Take
+Small Blind: Take, chips: 100
+Big Blind: Werle, chips: 200
+Raises: Take, chips: 300
+Folds: Werle
+Pot size: 700
+Boasts: Take, 6c 2s
+Wins: Take, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Werle
+Small Blind: Werle, chips: 100
+Big Blind: Take, chips: 200
+Flop: Qd 5h 3d
+Turn: 7s
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Take, 4d 9s
+Combination: Take, Straight ( 7s 6h 5h 4d 3d )
+Shows: Werle, Ad 4h
+Combination: Werle, Straight ( 7s 6h 5h 4h 3d )
+Wins: Take, chips: 200
+Wins: Werle, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Take
+Small Blind: Take, chips: 100
+Big Blind: Werle, chips: 100
+Flop: 5c 9c Ah
+Turn: 3h
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Take, Qh Qd
+Combination: Take, Three Of A Kind ( Qh Qd Qc Ah 9c )
+Shows: Werle, 2h 7d
+Combination: Werle, High Card ( Ah Qc 9c 7d 5c )
+Wins: Take, chips: 200
+Quits: Werle, chips: 0
+Ranking: Take, Place: 1, Score: 1000
+Reveal AI: Take, AI: Random
+Ranking: Werle, Place: 2, Score: -1000
+Reveal AI: Werle, AI: AIMyBot1
+
+Player Stats for Take, AI: Random
+General: deals: 8, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.25, 3Bet: 0.25
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Werle, AI: AIMyBot1
+General: deals: 8, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 100, lost: 1100, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

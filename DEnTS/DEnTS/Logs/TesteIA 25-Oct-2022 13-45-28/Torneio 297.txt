@@ -1,0 +1,266 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Suttul: AIMyBot1
+Gucheer: Random
+
+Joins: Suttul, chips: 1000
+Joins: Gucheer, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gucheer
+Small Blind: Gucheer, chips: 100
+Big Blind: Suttul, chips: 200
+Raises: Gucheer, chips: 300
+Folds: Suttul
+Pot size: 700
+Wins: Gucheer, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suttul
+Small Blind: Suttul, chips: 100
+Big Blind: Gucheer, chips: 200
+Folds: Suttul
+Pot size: 300
+Boasts: Gucheer, 9s 8h
+Wins: Gucheer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gucheer
+Small Blind: Gucheer, chips: 100
+Big Blind: Suttul, chips: 200
+Raises: Gucheer, chips: 1100
+Folds: Suttul
+Pot size: 1500
+Boasts: Gucheer, Jc Ah
+Wins: Gucheer, chips: 1500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suttul
+Small Blind: Suttul, chips: 100
+Big Blind: Gucheer, chips: 200
+Folds: Suttul
+Pot size: 300
+Wins: Gucheer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gucheer
+Small Blind: Gucheer, chips: 100
+Big Blind: Suttul, chips: 200
+Folds: Gucheer
+Pot size: 300
+Wins: Suttul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suttul
+Small Blind: Suttul, chips: 100
+Big Blind: Gucheer, chips: 200
+Folds: Suttul
+Pot size: 300
+Boasts: Gucheer, 2d 5s
+Wins: Gucheer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gucheer
+Small Blind: Gucheer, chips: 100
+Big Blind: Suttul, chips: 200
+Calls: Gucheer
+DEBUG MESSAGE: INVALID ACTION FROM Suttul (2 0)
+Folds: Suttul
+Pot size: 400
+Wins: Gucheer, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suttul
+Small Blind: Suttul, chips: 100
+Big Blind: Gucheer, chips: 200
+Folds: Suttul
+Pot size: 300
+Boasts: Gucheer, 7h 4s
+Wins: Gucheer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gucheer
+Small Blind: Gucheer, chips: 100
+Big Blind: Suttul, chips: 100
+Flop: As 7h 7d
+Turn: Ah
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Suttul, 9h Ac
+Combination: Suttul, Full House ( Ac As Ah 7h 7d )
+Shows: Gucheer, Tc 4s
+Combination: Gucheer, Two Pair ( As Ah Tc Ts 7h )
+Wins: Suttul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suttul
+Small Blind: Suttul, chips: 100
+Big Blind: Gucheer, chips: 200
+Folds: Suttul
+Pot size: 300
+Boasts: Gucheer, 4s 3s
+Wins: Gucheer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gucheer
+Small Blind: Gucheer, chips: 100
+Big Blind: Suttul, chips: 100
+Flop: 7d Ad 8s
+Turn: 5d
+River: 7s
+Pot size: 200
+Showdown Reached
+Shows: Suttul, Kh 6d
+Combination: Suttul, Pair ( 7d 7s Ad Kh 8s )
+Shows: Gucheer, 4s 4d
+Combination: Gucheer, Two Pair ( 7d 7s 4s 4d Ad )
+Wins: Gucheer, chips: 200
+Quits: Suttul, chips: 0
+Ranking: Gucheer, Place: 1, Score: 1000
+Reveal AI: Gucheer, AI: Random
+Ranking: Suttul, Place: 2, Score: -1000
+Reveal AI: Suttul, AI: AIMyBot1
+
+Player Stats for Gucheer, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Suttul, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:49
+
+The game begins. The AI's of the players are: 
+Suttul: AIMyBot1
+Gucheer: Random
+
+Joins: Suttul, chips: 1000
+Joins: Gucheer, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gucheer
+Small Blind: Gucheer, chips: 100
+Big Blind: Suttul, chips: 200
+Raises: Gucheer, chips: 300
+Folds: Suttul
+Pot size: 700
+Wins: Gucheer, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suttul
+Small Blind: Suttul, chips: 100
+Big Blind: Gucheer, chips: 200
+Folds: Suttul
+Pot size: 300
+Boasts: Gucheer, 9s 8h
+Wins: Gucheer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gucheer
+Small Blind: Gucheer, chips: 100
+Big Blind: Suttul, chips: 200
+Raises: Gucheer, chips: 1100
+Folds: Suttul
+Pot size: 1500
+Boasts: Gucheer, Jc Ah
+Wins: Gucheer, chips: 1500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suttul
+Small Blind: Suttul, chips: 100
+Big Blind: Gucheer, chips: 200
+Folds: Suttul
+Pot size: 300
+Wins: Gucheer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gucheer
+Small Blind: Gucheer, chips: 100
+Big Blind: Suttul, chips: 200
+Folds: Gucheer
+Pot size: 300
+Wins: Suttul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suttul
+Small Blind: Suttul, chips: 100
+Big Blind: Gucheer, chips: 200
+Folds: Suttul
+Pot size: 300
+Boasts: Gucheer, 2d 5s
+Wins: Gucheer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gucheer
+Small Blind: Gucheer, chips: 100
+Big Blind: Suttul, chips: 200
+Calls: Gucheer
+DEBUG MESSAGE: INVALID ACTION FROM Suttul (2 0)
+Folds: Suttul
+Pot size: 400
+Wins: Gucheer, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suttul
+Small Blind: Suttul, chips: 100
+Big Blind: Gucheer, chips: 200
+Folds: Suttul
+Pot size: 300
+Boasts: Gucheer, 7h 4s
+Wins: Gucheer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gucheer
+Small Blind: Gucheer, chips: 100
+Big Blind: Suttul, chips: 100
+Flop: As 7h 7d
+Turn: Ah
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Suttul, 9h Ac
+Combination: Suttul, Full House ( Ac As Ah 7h 7d )
+Shows: Gucheer, Tc 4s
+Combination: Gucheer, Two Pair ( As Ah Tc Ts 7h )
+Wins: Suttul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suttul
+Small Blind: Suttul, chips: 100
+Big Blind: Gucheer, chips: 200
+Folds: Suttul
+Pot size: 300
+Boasts: Gucheer, 4s 3s
+Wins: Gucheer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gucheer
+Small Blind: Gucheer, chips: 100
+Big Blind: Suttul, chips: 100
+Flop: 7d Ad 8s
+Turn: 5d
+River: 7s
+Pot size: 200
+Showdown Reached
+Shows: Suttul, Kh 6d
+Combination: Suttul, Pair ( 7d 7s Ad Kh 8s )
+Shows: Gucheer, 4s 4d
+Combination: Gucheer, Two Pair ( 7d 7s 4s 4d Ad )
+Wins: Gucheer, chips: 200
+Quits: Suttul, chips: 0
+Ranking: Gucheer, Place: 1, Score: 1000
+Reveal AI: Gucheer, AI: Random
+Ranking: Suttul, Place: 2, Score: -1000
+Reveal AI: Suttul, AI: AIMyBot1
+
+Player Stats for Gucheer, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Suttul, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

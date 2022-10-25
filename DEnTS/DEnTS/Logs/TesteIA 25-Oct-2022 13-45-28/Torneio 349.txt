@@ -1,0 +1,236 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Rumup: Random
+Bovov: AIMyBot1
+
+Joins: Rumup, chips: 1000
+Joins: Bovov, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rumup
+Small Blind: Rumup, chips: 100
+Big Blind: Bovov, chips: 200
+Calls: Rumup
+DEBUG MESSAGE: INVALID ACTION FROM Bovov (2 0)
+Folds: Bovov
+Pot size: 400
+Boasts: Rumup, 4h 2c
+Wins: Rumup, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bovov
+Small Blind: Bovov, chips: 100
+Big Blind: Rumup, chips: 200
+Folds: Bovov
+Pot size: 300
+Boasts: Rumup, 2c 6c
+Wins: Rumup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rumup
+Small Blind: Rumup, chips: 100
+Big Blind: Bovov, chips: 200
+Raises: Rumup, chips: 300
+Folds: Bovov
+Pot size: 700
+Wins: Rumup, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bovov
+Small Blind: Bovov, chips: 100
+Big Blind: Rumup, chips: 200
+Folds: Bovov
+Pot size: 300
+Boasts: Rumup, Qd 2d
+Wins: Rumup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rumup
+Small Blind: Rumup, chips: 100
+Big Blind: Bovov, chips: 200
+Calls: Rumup
+DEBUG MESSAGE: INVALID ACTION FROM Bovov (2 0)
+Folds: Bovov
+Pot size: 400
+Wins: Rumup, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bovov
+Small Blind: Bovov, chips: 100
+Big Blind: Rumup, chips: 200
+Folds: Bovov
+Pot size: 300
+Wins: Rumup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rumup
+Small Blind: Rumup, chips: 100
+Big Blind: Bovov, chips: 100
+Flop: 8c As 7d
+Turn: 5d
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Rumup, 7h Th
+Combination: Rumup, Pair ( 7h 7d As Jd Th )
+Shows: Bovov, 3h Ad
+Combination: Bovov, Pair ( Ad As Jd 8c 7d )
+Wins: Bovov, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bovov
+Small Blind: Bovov, chips: 100
+Big Blind: Rumup, chips: 200
+Folds: Bovov
+Pot size: 300
+Wins: Rumup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rumup
+Small Blind: Rumup, chips: 100
+Big Blind: Bovov, chips: 100
+Flop: 7c 6h As
+Turn: Ts
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Rumup, 5h Ac
+Combination: Rumup, Pair ( Ac As Ts 7c 6h )
+Shows: Bovov, Tc Ks
+Combination: Bovov, Pair ( Tc Ts As Ks 7c )
+Wins: Rumup, chips: 200
+Quits: Bovov, chips: 0
+Ranking: Rumup, Place: 1, Score: 1000
+Reveal AI: Rumup, AI: Random
+Ranking: Bovov, Place: 2, Score: -1000
+Reveal AI: Bovov, AI: AIMyBot1
+
+Player Stats for Bovov, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Rumup, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:52
+
+The game begins. The AI's of the players are: 
+Rumup: Random
+Bovov: AIMyBot1
+
+Joins: Rumup, chips: 1000
+Joins: Bovov, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rumup
+Small Blind: Rumup, chips: 100
+Big Blind: Bovov, chips: 200
+Calls: Rumup
+DEBUG MESSAGE: INVALID ACTION FROM Bovov (2 0)
+Folds: Bovov
+Pot size: 400
+Boasts: Rumup, 4h 2c
+Wins: Rumup, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bovov
+Small Blind: Bovov, chips: 100
+Big Blind: Rumup, chips: 200
+Folds: Bovov
+Pot size: 300
+Boasts: Rumup, 2c 6c
+Wins: Rumup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rumup
+Small Blind: Rumup, chips: 100
+Big Blind: Bovov, chips: 200
+Raises: Rumup, chips: 300
+Folds: Bovov
+Pot size: 700
+Wins: Rumup, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bovov
+Small Blind: Bovov, chips: 100
+Big Blind: Rumup, chips: 200
+Folds: Bovov
+Pot size: 300
+Boasts: Rumup, Qd 2d
+Wins: Rumup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rumup
+Small Blind: Rumup, chips: 100
+Big Blind: Bovov, chips: 200
+Calls: Rumup
+DEBUG MESSAGE: INVALID ACTION FROM Bovov (2 0)
+Folds: Bovov
+Pot size: 400
+Wins: Rumup, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bovov
+Small Blind: Bovov, chips: 100
+Big Blind: Rumup, chips: 200
+Folds: Bovov
+Pot size: 300
+Wins: Rumup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rumup
+Small Blind: Rumup, chips: 100
+Big Blind: Bovov, chips: 100
+Flop: 8c As 7d
+Turn: 5d
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Rumup, 7h Th
+Combination: Rumup, Pair ( 7h 7d As Jd Th )
+Shows: Bovov, 3h Ad
+Combination: Bovov, Pair ( Ad As Jd 8c 7d )
+Wins: Bovov, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bovov
+Small Blind: Bovov, chips: 100
+Big Blind: Rumup, chips: 200
+Folds: Bovov
+Pot size: 300
+Wins: Rumup, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rumup
+Small Blind: Rumup, chips: 100
+Big Blind: Bovov, chips: 100
+Flop: 7c 6h As
+Turn: Ts
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Rumup, 5h Ac
+Combination: Rumup, Pair ( Ac As Ts 7c 6h )
+Shows: Bovov, Tc Ks
+Combination: Bovov, Pair ( Tc Ts As Ks 7c )
+Wins: Rumup, chips: 200
+Quits: Bovov, chips: 0
+Ranking: Rumup, Place: 1, Score: 1000
+Reveal AI: Rumup, AI: Random
+Ranking: Bovov, Place: 2, Score: -1000
+Reveal AI: Bovov, AI: AIMyBot1
+
+Player Stats for Bovov, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Rumup, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

@@ -1,0 +1,550 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Lufeloen: AIMyBot1
+Bimir: Random
+
+Joins: Lufeloen, chips: 1000
+Joins: Bimir, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Calls: Bimir
+DEBUG MESSAGE: INVALID ACTION FROM Lufeloen (2 0)
+Folds: Lufeloen
+Pot size: 400
+Wins: Bimir, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Calls: Bimir
+DEBUG MESSAGE: INVALID ACTION FROM Lufeloen (2 0)
+Folds: Lufeloen
+Pot size: 400
+Boasts: Bimir, 3s 5c
+Wins: Bimir, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Boasts: Bimir, Td 7c
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Raises: Bimir, chips: 300
+Calls: Lufeloen
+Flop: 6d 4d Tc
+Turn: 7h
+River: Ts
+Pot size: 800
+Showdown Reached
+Shows: Lufeloen, 2d 2s
+Combination: Lufeloen, Two Pair ( Tc Ts 2d 2s 7h )
+Shows: Bimir, 5d Qc
+Combination: Bimir, Pair ( Tc Ts Qc 7h 6d )
+Wins: Lufeloen, chips: 600
+Wins: Bimir, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Boasts: Bimir, Th Qh
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Folds: Bimir
+Pot size: 300
+Boasts: Bimir, Th 4d
+Wins: Lufeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Raises: Bimir, chips: 300
+Folds: Lufeloen
+Pot size: 700
+Wins: Bimir, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Flop: 9d Qc Ah
+Turn: 2s
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Lufeloen, Ac 4d
+Combination: Lufeloen, Pair ( Ac Ah Ks Qc 9d )
+Shows: Bimir, Jh 7c
+Combination: Bimir, High Card ( Ah Ks Qc Jh 9d )
+Wins: Lufeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Flop: 3c Qs 7h
+Turn: Tc
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Lufeloen, Ah 6s
+Combination: Lufeloen, Pair ( 6s 6c Ah Qs Tc )
+Shows: Bimir, Ac 8d
+Combination: Bimir, High Card ( Ac Qs Tc 8d 7h )
+Wins: Lufeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Boasts: Bimir, 3s 4c
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Flop: 9d 7s 4h
+Turn: 6h
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Lufeloen, 4c 3d
+Combination: Lufeloen, Pair ( 4c 4h 9d 7s 6h )
+Shows: Bimir, 3s 2s
+Combination: Bimir, Pair ( 2s 2c 9d 7s 6h )
+Wins: Lufeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Boasts: Bimir, Qh 9h
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Flop: Jc Ks 2s
+Turn: Qc
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Lufeloen, 7d Ad
+Combination: Lufeloen, Pair ( Ks Kc Ad Qc Jc )
+Shows: Bimir, 3c 5h
+Combination: Bimir, Pair ( Ks Kc Qc Jc 5h )
+Wins: Lufeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Boasts: Bimir, Kc Kd
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Flop: 9d 3s Ks
+Turn: Ts
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Lufeloen, Jh 4d
+Combination: Lufeloen, High Card ( Ah Ks Jh Ts 9d )
+Shows: Bimir, 2c Ac
+Combination: Bimir, Pair ( Ac Ah Ks Ts 9d )
+Wins: Lufeloen, chips: 100
+Wins: Bimir, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Flop: 6s As Ac
+Turn: Th
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Lufeloen, 7c Ad
+Combination: Lufeloen, Three Of A Kind ( Ad As Ac Kh Th )
+Shows: Bimir, 3h 9s
+Combination: Bimir, Pair ( As Ac Kh Th 9s )
+Wins: Lufeloen, chips: 200
+Wins: Bimir, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Flop: Js 5s 2d
+Turn: 4s
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Lufeloen, 8s 2c
+Combination: Lufeloen, Two Pair ( 4s 4c 2c 2d Js )
+Shows: Bimir, 6s Jc
+Combination: Bimir, Two Pair ( Jc Js 4s 4c 6s )
+Wins: Lufeloen, chips: 100
+Wins: Bimir, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Flop: 9c Qs Ac
+Turn: 6h
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Lufeloen, 4d 7c
+Combination: Lufeloen, High Card ( Ac Qs Jd 9c 7c )
+Shows: Bimir, 3h Qh
+Combination: Bimir, Pair ( Qh Qs Ac Jd 9c )
+Wins: Bimir, chips: 300
+Quits: Lufeloen, chips: 0
+Ranking: Bimir, Place: 1, Score: 1000
+Reveal AI: Bimir, AI: Random
+Ranking: Lufeloen, Place: 2, Score: -1000
+Reveal AI: Lufeloen, AI: AIMyBot1
+
+Player Stats for Bimir, AI: Random
+General: deals: 23, actions: 5, preflop actions: 5
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 18, showdown: 5, bluff: 13
+Chips: won: 5500, lost: 4500, bought: 1000, forced bets: 3500
+Pre-Flop Stats: VP$IP: 0.173913, PFR: 0.0869565, 3Bet: 0.0869565
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.555556
+
+
+Player Stats for Lufeloen, AI: AIMyBot1
+General: deals: 23, actions: 14, preflop actions: 14
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 9, showdown: 8, bluff: 1
+Chips: won: 2500, lost: 3700, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0.0434783, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Date: 2022/10/25 13:45:54
+
+The game begins. The AI's of the players are: 
+Lufeloen: AIMyBot1
+Bimir: Random
+
+Joins: Lufeloen, chips: 1000
+Joins: Bimir, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Calls: Bimir
+DEBUG MESSAGE: INVALID ACTION FROM Lufeloen (2 0)
+Folds: Lufeloen
+Pot size: 400
+Wins: Bimir, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Calls: Bimir
+DEBUG MESSAGE: INVALID ACTION FROM Lufeloen (2 0)
+Folds: Lufeloen
+Pot size: 400
+Boasts: Bimir, 3s 5c
+Wins: Bimir, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Boasts: Bimir, Td 7c
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Raises: Bimir, chips: 300
+Calls: Lufeloen
+Flop: 6d 4d Tc
+Turn: 7h
+River: Ts
+Pot size: 800
+Showdown Reached
+Shows: Lufeloen, 2d 2s
+Combination: Lufeloen, Two Pair ( Tc Ts 2d 2s 7h )
+Shows: Bimir, 5d Qc
+Combination: Bimir, Pair ( Tc Ts Qc 7h 6d )
+Wins: Lufeloen, chips: 600
+Wins: Bimir, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Boasts: Bimir, Th Qh
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Folds: Bimir
+Pot size: 300
+Boasts: Bimir, Th 4d
+Wins: Lufeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Raises: Bimir, chips: 300
+Folds: Lufeloen
+Pot size: 700
+Wins: Bimir, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Flop: 9d Qc Ah
+Turn: 2s
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Lufeloen, Ac 4d
+Combination: Lufeloen, Pair ( Ac Ah Ks Qc 9d )
+Shows: Bimir, Jh 7c
+Combination: Bimir, High Card ( Ah Ks Qc Jh 9d )
+Wins: Lufeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Flop: 3c Qs 7h
+Turn: Tc
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Lufeloen, Ah 6s
+Combination: Lufeloen, Pair ( 6s 6c Ah Qs Tc )
+Shows: Bimir, Ac 8d
+Combination: Bimir, High Card ( Ac Qs Tc 8d 7h )
+Wins: Lufeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Boasts: Bimir, 3s 4c
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Flop: 9d 7s 4h
+Turn: 6h
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Lufeloen, 4c 3d
+Combination: Lufeloen, Pair ( 4c 4h 9d 7s 6h )
+Shows: Bimir, 3s 2s
+Combination: Bimir, Pair ( 2s 2c 9d 7s 6h )
+Wins: Lufeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Boasts: Bimir, Qh 9h
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Flop: Jc Ks 2s
+Turn: Qc
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Lufeloen, 7d Ad
+Combination: Lufeloen, Pair ( Ks Kc Ad Qc Jc )
+Shows: Bimir, 3c 5h
+Combination: Bimir, Pair ( Ks Kc Qc Jc 5h )
+Wins: Lufeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Folds: Lufeloen
+Pot size: 300
+Boasts: Bimir, Kc Kd
+Wins: Bimir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Flop: 9d 3s Ks
+Turn: Ts
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Lufeloen, Jh 4d
+Combination: Lufeloen, High Card ( Ah Ks Jh Ts 9d )
+Shows: Bimir, 2c Ac
+Combination: Bimir, Pair ( Ac Ah Ks Ts 9d )
+Wins: Lufeloen, chips: 100
+Wins: Bimir, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Flop: 6s As Ac
+Turn: Th
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Lufeloen, 7c Ad
+Combination: Lufeloen, Three Of A Kind ( Ad As Ac Kh Th )
+Shows: Bimir, 3h 9s
+Combination: Bimir, Pair ( As Ac Kh Th 9s )
+Wins: Lufeloen, chips: 200
+Wins: Bimir, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bimir
+Small Blind: Bimir, chips: 100
+Big Blind: Lufeloen, chips: 200
+Flop: Js 5s 2d
+Turn: 4s
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Lufeloen, 8s 2c
+Combination: Lufeloen, Two Pair ( 4s 4c 2c 2d Js )
+Shows: Bimir, 6s Jc
+Combination: Bimir, Two Pair ( Jc Js 4s 4c 6s )
+Wins: Lufeloen, chips: 100
+Wins: Bimir, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lufeloen
+Small Blind: Lufeloen, chips: 100
+Big Blind: Bimir, chips: 200
+Flop: 9c Qs Ac
+Turn: 6h
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Lufeloen, 4d 7c
+Combination: Lufeloen, High Card ( Ac Qs Jd 9c 7c )
+Shows: Bimir, 3h Qh
+Combination: Bimir, Pair ( Qh Qs Ac Jd 9c )
+Wins: Bimir, chips: 300
+Quits: Lufeloen, chips: 0
+Ranking: Bimir, Place: 1, Score: 1000
+Reveal AI: Bimir, AI: Random
+Ranking: Lufeloen, Place: 2, Score: -1000
+Reveal AI: Lufeloen, AI: AIMyBot1
+
+Player Stats for Bimir, AI: Random
+General: deals: 23, actions: 5, preflop actions: 5
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 18, showdown: 5, bluff: 13
+Chips: won: 5500, lost: 4500, bought: 1000, forced bets: 3500
+Pre-Flop Stats: VP$IP: 0.173913, PFR: 0.0869565, 3Bet: 0.0869565
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.555556
+
+
+Player Stats for Lufeloen, AI: AIMyBot1
+General: deals: 23, actions: 14, preflop actions: 14
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 9, showdown: 8, bluff: 1
+Chips: won: 2500, lost: 3700, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0.0434783, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+

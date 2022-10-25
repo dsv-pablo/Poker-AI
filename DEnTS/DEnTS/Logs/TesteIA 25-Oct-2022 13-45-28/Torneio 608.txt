@@ -1,0 +1,306 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Sotoet: Random
+Lowof: AIMyBot1
+
+Joins: Sotoet, chips: 1000
+Joins: Lowof, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sotoet
+Small Blind: Sotoet, chips: 100
+Big Blind: Lowof, chips: 200
+Calls: Sotoet
+DEBUG MESSAGE: INVALID ACTION FROM Lowof (2 0)
+Folds: Lowof
+Pot size: 400
+Boasts: Sotoet, Tc Ac
+Wins: Sotoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowof
+Small Blind: Lowof, chips: 100
+Big Blind: Sotoet, chips: 200
+Folds: Lowof
+Pot size: 300
+Wins: Sotoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sotoet
+Small Blind: Sotoet, chips: 100
+Big Blind: Lowof, chips: 200
+Raises: Sotoet, chips: 300
+Folds: Lowof
+Pot size: 700
+Wins: Sotoet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowof
+Small Blind: Lowof, chips: 100
+Big Blind: Sotoet, chips: 200
+Folds: Lowof
+Pot size: 300
+Boasts: Sotoet, 6c 4c
+Wins: Sotoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sotoet
+Small Blind: Sotoet, chips: 100
+Big Blind: Lowof, chips: 200
+Folds: Sotoet
+Pot size: 300
+Wins: Lowof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowof
+Small Blind: Lowof, chips: 100
+Big Blind: Sotoet, chips: 200
+Folds: Lowof
+Pot size: 300
+Wins: Sotoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sotoet
+Small Blind: Sotoet, chips: 100
+Big Blind: Lowof, chips: 200
+Calls: Sotoet
+DEBUG MESSAGE: INVALID ACTION FROM Lowof (2 0)
+Folds: Lowof
+Pot size: 400
+Wins: Sotoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowof
+Small Blind: Lowof, chips: 100
+Big Blind: Sotoet, chips: 200
+Folds: Lowof
+Pot size: 300
+Wins: Sotoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sotoet
+Small Blind: Sotoet, chips: 100
+Big Blind: Lowof, chips: 100
+Flop: 9h Qs As
+Turn: Ks
+River: 3h
+Pot size: 200
+Showdown Reached
+Shows: Sotoet, Td 8h
+Combination: Sotoet, High Card ( As Ks Qs Td 9h )
+Shows: Lowof, 5h Jh
+Combination: Lowof, High Card ( As Ks Qs Jh 9h )
+Wins: Lowof, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowof
+Small Blind: Lowof, chips: 100
+Big Blind: Sotoet, chips: 200
+Folds: Lowof
+Pot size: 300
+Wins: Sotoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sotoet
+Small Blind: Sotoet, chips: 100
+Big Blind: Lowof, chips: 100
+Flop: Ah 3h 8s
+Turn: 6s
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Sotoet, Jh 7d
+Combination: Sotoet, High Card ( Ah Jh 8s 7d 6s )
+Shows: Lowof, 2c Ac
+Combination: Lowof, Pair ( Ac Ah 8s 6s 5d )
+Wins: Lowof, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowof
+Small Blind: Lowof, chips: 100
+Big Blind: Sotoet, chips: 200
+Folds: Lowof
+Pot size: 300
+Boasts: Sotoet, Th Ad
+Wins: Sotoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sotoet
+Small Blind: Sotoet, chips: 100
+Big Blind: Lowof, chips: 100
+Flop: Ah Ad 2s
+Turn: 2c
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Sotoet, 9s Jc
+Combination: Sotoet, Two Pair ( Ah Ad 2s 2c Jc )
+Shows: Lowof, Ts 8d
+Combination: Lowof, Two Pair ( Ah Ad 2s 2c Ts )
+Wins: Sotoet, chips: 200
+Quits: Lowof, chips: 0
+Ranking: Sotoet, Place: 1, Score: 1000
+Reveal AI: Sotoet, AI: Random
+Ranking: Lowof, Place: 2, Score: -1000
+Reveal AI: Lowof, AI: AIMyBot1
+
+Player Stats for Lowof, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Sotoet, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Date: 2022/10/25 13:46:09
+
+The game begins. The AI's of the players are: 
+Sotoet: Random
+Lowof: AIMyBot1
+
+Joins: Sotoet, chips: 1000
+Joins: Lowof, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sotoet
+Small Blind: Sotoet, chips: 100
+Big Blind: Lowof, chips: 200
+Calls: Sotoet
+DEBUG MESSAGE: INVALID ACTION FROM Lowof (2 0)
+Folds: Lowof
+Pot size: 400
+Boasts: Sotoet, Tc Ac
+Wins: Sotoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowof
+Small Blind: Lowof, chips: 100
+Big Blind: Sotoet, chips: 200
+Folds: Lowof
+Pot size: 300
+Wins: Sotoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sotoet
+Small Blind: Sotoet, chips: 100
+Big Blind: Lowof, chips: 200
+Raises: Sotoet, chips: 300
+Folds: Lowof
+Pot size: 700
+Wins: Sotoet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowof
+Small Blind: Lowof, chips: 100
+Big Blind: Sotoet, chips: 200
+Folds: Lowof
+Pot size: 300
+Boasts: Sotoet, 6c 4c
+Wins: Sotoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sotoet
+Small Blind: Sotoet, chips: 100
+Big Blind: Lowof, chips: 200
+Folds: Sotoet
+Pot size: 300
+Wins: Lowof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowof
+Small Blind: Lowof, chips: 100
+Big Blind: Sotoet, chips: 200
+Folds: Lowof
+Pot size: 300
+Wins: Sotoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sotoet
+Small Blind: Sotoet, chips: 100
+Big Blind: Lowof, chips: 200
+Calls: Sotoet
+DEBUG MESSAGE: INVALID ACTION FROM Lowof (2 0)
+Folds: Lowof
+Pot size: 400
+Wins: Sotoet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowof
+Small Blind: Lowof, chips: 100
+Big Blind: Sotoet, chips: 200
+Folds: Lowof
+Pot size: 300
+Wins: Sotoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sotoet
+Small Blind: Sotoet, chips: 100
+Big Blind: Lowof, chips: 100
+Flop: 9h Qs As
+Turn: Ks
+River: 3h
+Pot size: 200
+Showdown Reached
+Shows: Sotoet, Td 8h
+Combination: Sotoet, High Card ( As Ks Qs Td 9h )
+Shows: Lowof, 5h Jh
+Combination: Lowof, High Card ( As Ks Qs Jh 9h )
+Wins: Lowof, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowof
+Small Blind: Lowof, chips: 100
+Big Blind: Sotoet, chips: 200
+Folds: Lowof
+Pot size: 300
+Wins: Sotoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sotoet
+Small Blind: Sotoet, chips: 100
+Big Blind: Lowof, chips: 100
+Flop: Ah 3h 8s
+Turn: 6s
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Sotoet, Jh 7d
+Combination: Sotoet, High Card ( Ah Jh 8s 7d 6s )
+Shows: Lowof, 2c Ac
+Combination: Lowof, Pair ( Ac Ah 8s 6s 5d )
+Wins: Lowof, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lowof
+Small Blind: Lowof, chips: 100
+Big Blind: Sotoet, chips: 200
+Folds: Lowof
+Pot size: 300
+Boasts: Sotoet, Th Ad
+Wins: Sotoet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sotoet
+Small Blind: Sotoet, chips: 100
+Big Blind: Lowof, chips: 100
+Flop: Ah Ad 2s
+Turn: 2c
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Sotoet, 9s Jc
+Combination: Sotoet, Two Pair ( Ah Ad 2s 2c Jc )
+Shows: Lowof, Ts 8d
+Combination: Lowof, Two Pair ( Ah Ad 2s 2c Ts )
+Wins: Sotoet, chips: 200
+Quits: Lowof, chips: 0
+Ranking: Sotoet, Place: 1, Score: 1000
+Reveal AI: Sotoet, AI: Random
+Ranking: Lowof, Place: 2, Score: -1000
+Reveal AI: Lowof, AI: AIMyBot1
+
+Player Stats for Lowof, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Sotoet, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+

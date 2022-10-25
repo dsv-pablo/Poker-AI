@@ -1,0 +1,310 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Tahil: Random
+Teecheer: AIMyBot1
+
+Joins: Tahil, chips: 1000
+Joins: Teecheer, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teecheer
+Small Blind: Teecheer, chips: 100
+Big Blind: Tahil, chips: 200
+Folds: Teecheer
+Pot size: 300
+Wins: Tahil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahil
+Small Blind: Tahil, chips: 100
+Big Blind: Teecheer, chips: 200
+Raises: Tahil, chips: 300
+Folds: Teecheer
+Pot size: 700
+Wins: Tahil, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teecheer
+Small Blind: Teecheer, chips: 100
+Big Blind: Tahil, chips: 200
+Folds: Teecheer
+Pot size: 300
+Wins: Tahil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahil
+Small Blind: Tahil, chips: 100
+Big Blind: Teecheer, chips: 200
+Calls: Tahil
+DEBUG MESSAGE: INVALID ACTION FROM Teecheer (2 0)
+Folds: Teecheer
+Pot size: 400
+Wins: Tahil, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teecheer
+Small Blind: Teecheer, chips: 100
+Big Blind: Tahil, chips: 200
+Folds: Teecheer
+Pot size: 300
+Boasts: Tahil, 9c 5s
+Wins: Tahil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahil
+Small Blind: Tahil, chips: 100
+Big Blind: Teecheer, chips: 200
+Raises: Tahil, chips: 300
+Folds: Teecheer
+Pot size: 700
+Boasts: Tahil, Ks 4h
+Wins: Tahil, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teecheer
+Small Blind: Teecheer, chips: 100
+Big Blind: Tahil, chips: 200
+Flop: Th 4d As
+Turn: 8d
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Tahil, Jc Qd
+Combination: Tahil, High Card ( As Qd Jc Th 8d )
+Shows: Teecheer, 2d Kh
+Combination: Teecheer, High Card ( As Kh Th 8d 7d )
+Wins: Tahil, chips: 100
+Wins: Teecheer, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahil
+Small Blind: Tahil, chips: 100
+Big Blind: Teecheer, chips: 200
+Flop: Ad Ah 9s
+Turn: 8s
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Tahil, Tc 6c
+Combination: Tahil, Straight ( Tc 9s 8s 7h 6c )
+Shows: Teecheer, Kh 6d
+Combination: Teecheer, Pair ( Ad Ah Kh 9s 8s )
+Wins: Tahil, chips: 200
+Wins: Teecheer, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teecheer
+Small Blind: Teecheer, chips: 100
+Big Blind: Tahil, chips: 200
+Flop: 2d Jh Th
+Turn: 6c
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Tahil, 2h 5s
+Combination: Tahil, Pair ( 2h 2d Qc Jh Th )
+Shows: Teecheer, 9c 9d
+Combination: Teecheer, Pair ( 9c 9d Qc Jh Th )
+Wins: Tahil, chips: 100
+Wins: Teecheer, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahil
+Small Blind: Tahil, chips: 100
+Big Blind: Teecheer, chips: 200
+Flop: 6h 4s Ts
+Turn: Jd
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Tahil, As Qh
+Combination: Tahil, Pair ( Jd Js As Qh Ts )
+Shows: Teecheer, 8s 9h
+Combination: Teecheer, Pair ( Jd Js Ts 9h 8s )
+Wins: Tahil, chips: 200
+Wins: Teecheer, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teecheer
+Small Blind: Teecheer, chips: 100
+Big Blind: Tahil, chips: 200
+Flop: Td 4h 8d
+Turn: 3h
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Tahil, 8s Kh
+Combination: Tahil, Pair ( 8s 8d Kh Td 7s )
+Shows: Teecheer, 5s 8h
+Combination: Teecheer, Pair ( 8h 8d Td 7s 5s )
+Wins: Tahil, chips: 300
+Quits: Teecheer, chips: 0
+Ranking: Tahil, Place: 1, Score: 1000
+Reveal AI: Tahil, AI: Random
+Ranking: Teecheer, Place: 2, Score: -1000
+Reveal AI: Teecheer, AI: AIMyBot1
+
+Player Stats for Tahil, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 5, bluff: 6
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Teecheer, AI: AIMyBot1
+General: deals: 11, actions: 6, preflop actions: 6
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Date: 2022/10/25 13:46:24
+
+The game begins. The AI's of the players are: 
+Tahil: Random
+Teecheer: AIMyBot1
+
+Joins: Tahil, chips: 1000
+Joins: Teecheer, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teecheer
+Small Blind: Teecheer, chips: 100
+Big Blind: Tahil, chips: 200
+Folds: Teecheer
+Pot size: 300
+Wins: Tahil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahil
+Small Blind: Tahil, chips: 100
+Big Blind: Teecheer, chips: 200
+Raises: Tahil, chips: 300
+Folds: Teecheer
+Pot size: 700
+Wins: Tahil, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teecheer
+Small Blind: Teecheer, chips: 100
+Big Blind: Tahil, chips: 200
+Folds: Teecheer
+Pot size: 300
+Wins: Tahil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahil
+Small Blind: Tahil, chips: 100
+Big Blind: Teecheer, chips: 200
+Calls: Tahil
+DEBUG MESSAGE: INVALID ACTION FROM Teecheer (2 0)
+Folds: Teecheer
+Pot size: 400
+Wins: Tahil, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teecheer
+Small Blind: Teecheer, chips: 100
+Big Blind: Tahil, chips: 200
+Folds: Teecheer
+Pot size: 300
+Boasts: Tahil, 9c 5s
+Wins: Tahil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahil
+Small Blind: Tahil, chips: 100
+Big Blind: Teecheer, chips: 200
+Raises: Tahil, chips: 300
+Folds: Teecheer
+Pot size: 700
+Boasts: Tahil, Ks 4h
+Wins: Tahil, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teecheer
+Small Blind: Teecheer, chips: 100
+Big Blind: Tahil, chips: 200
+Flop: Th 4d As
+Turn: 8d
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Tahil, Jc Qd
+Combination: Tahil, High Card ( As Qd Jc Th 8d )
+Shows: Teecheer, 2d Kh
+Combination: Teecheer, High Card ( As Kh Th 8d 7d )
+Wins: Tahil, chips: 100
+Wins: Teecheer, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahil
+Small Blind: Tahil, chips: 100
+Big Blind: Teecheer, chips: 200
+Flop: Ad Ah 9s
+Turn: 8s
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Tahil, Tc 6c
+Combination: Tahil, Straight ( Tc 9s 8s 7h 6c )
+Shows: Teecheer, Kh 6d
+Combination: Teecheer, Pair ( Ad Ah Kh 9s 8s )
+Wins: Tahil, chips: 200
+Wins: Teecheer, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teecheer
+Small Blind: Teecheer, chips: 100
+Big Blind: Tahil, chips: 200
+Flop: 2d Jh Th
+Turn: 6c
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Tahil, 2h 5s
+Combination: Tahil, Pair ( 2h 2d Qc Jh Th )
+Shows: Teecheer, 9c 9d
+Combination: Teecheer, Pair ( 9c 9d Qc Jh Th )
+Wins: Tahil, chips: 100
+Wins: Teecheer, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahil
+Small Blind: Tahil, chips: 100
+Big Blind: Teecheer, chips: 200
+Flop: 6h 4s Ts
+Turn: Jd
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Tahil, As Qh
+Combination: Tahil, Pair ( Jd Js As Qh Ts )
+Shows: Teecheer, 8s 9h
+Combination: Teecheer, Pair ( Jd Js Ts 9h 8s )
+Wins: Tahil, chips: 200
+Wins: Teecheer, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teecheer
+Small Blind: Teecheer, chips: 100
+Big Blind: Tahil, chips: 200
+Flop: Td 4h 8d
+Turn: 3h
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Tahil, 8s Kh
+Combination: Tahil, Pair ( 8s 8d Kh Td 7s )
+Shows: Teecheer, 5s 8h
+Combination: Teecheer, Pair ( 8h 8d Td 7s 5s )
+Wins: Tahil, chips: 300
+Quits: Teecheer, chips: 0
+Ranking: Tahil, Place: 1, Score: 1000
+Reveal AI: Tahil, AI: Random
+Ranking: Teecheer, Place: 2, Score: -1000
+Reveal AI: Teecheer, AI: AIMyBot1
+
+Player Stats for Tahil, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 5, bluff: 6
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Teecheer, AI: AIMyBot1
+General: deals: 11, actions: 6, preflop actions: 6
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+

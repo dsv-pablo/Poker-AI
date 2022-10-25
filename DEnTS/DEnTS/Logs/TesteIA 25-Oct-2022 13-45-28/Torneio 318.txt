@@ -1,0 +1,426 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Muroes: AIMyBot1
+Letav: Random
+
+Joins: Muroes, chips: 1000
+Joins: Letav, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Letav
+Small Blind: Letav, chips: 100
+Big Blind: Muroes, chips: 200
+Raises: Letav, chips: 300
+Folds: Muroes
+Pot size: 700
+Wins: Letav, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muroes
+Small Blind: Muroes, chips: 100
+Big Blind: Letav, chips: 200
+Folds: Muroes
+Pot size: 300
+Wins: Letav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Letav
+Small Blind: Letav, chips: 100
+Big Blind: Muroes, chips: 200
+Calls: Letav
+DEBUG MESSAGE: INVALID ACTION FROM Muroes (2 0)
+Folds: Muroes
+Pot size: 400
+Wins: Letav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muroes
+Small Blind: Muroes, chips: 100
+Big Blind: Letav, chips: 200
+Folds: Muroes
+Pot size: 300
+Wins: Letav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Letav
+Small Blind: Letav, chips: 100
+Big Blind: Muroes, chips: 200
+Calls: Letav
+DEBUG MESSAGE: INVALID ACTION FROM Muroes (2 0)
+Folds: Muroes
+Pot size: 400
+Boasts: Letav, 4c Qh
+Wins: Letav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muroes
+Small Blind: Muroes, chips: 100
+Big Blind: Letav, chips: 200
+Folds: Muroes
+Pot size: 300
+Wins: Letav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Letav
+Small Blind: Letav, chips: 100
+Big Blind: Muroes, chips: 100
+Flop: 8c Th 6d
+Turn: Ts
+River: 5c
+Pot size: 200
+Showdown Reached
+Shows: Muroes, 7d 8d
+Combination: Muroes, Two Pair ( Th Ts 8d 8c 7d )
+Shows: Letav, 9h 2s
+Combination: Letav, Pair ( Th Ts 9h 8c 6d )
+Wins: Muroes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muroes
+Small Blind: Muroes, chips: 100
+Big Blind: Letav, chips: 200
+Folds: Muroes
+Pot size: 300
+Wins: Letav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Letav
+Small Blind: Letav, chips: 100
+Big Blind: Muroes, chips: 100
+Flop: Kd 3c 5h
+Turn: 7h
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Muroes, Qs 4d
+Combination: Muroes, Pair ( Kd Kc Qs 7h 5h )
+Shows: Letav, Qc 2c
+Combination: Letav, Pair ( Kd Kc Qc 7h 5h )
+Wins: Muroes, chips: 100
+Wins: Letav, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muroes
+Small Blind: Muroes, chips: 100
+Big Blind: Letav, chips: 200
+Flop: 8c 9d Ah
+Turn: Jc
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Muroes, Qd 8d
+Combination: Muroes, Pair ( 8d 8c Ah Qd Jc )
+Shows: Letav, 5d Tc
+Combination: Letav, Pair ( 5d 5c Ah Jc Tc )
+Wins: Muroes, chips: 200
+Wins: Letav, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Letav
+Small Blind: Letav, chips: 100
+Big Blind: Muroes, chips: 200
+Flop: Td Qc 9d
+Turn: 7c
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Muroes, Kh 8h
+Combination: Muroes, Pair ( 8h 8c Kh Qc Td )
+Shows: Letav, 4h 4d
+Combination: Letav, Pair ( 4h 4d Qc Td 9d )
+Wins: Muroes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muroes
+Small Blind: Muroes, chips: 100
+Big Blind: Letav, chips: 200
+Folds: Muroes
+Pot size: 300
+Boasts: Letav, Kc 3h
+Wins: Letav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Letav
+Small Blind: Letav, chips: 100
+Big Blind: Muroes, chips: 200
+Flop: Qh 7c 8c
+Turn: Js
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Muroes, 4d Ad
+Combination: Muroes, High Card ( Ad Qh Js Th 8c )
+Shows: Letav, Tc 6c
+Combination: Letav, Pair ( Tc Th Qh Js 8c )
+Wins: Muroes, chips: 100
+Wins: Letav, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muroes
+Small Blind: Muroes, chips: 100
+Big Blind: Letav, chips: 200
+Flop: 9s Ah 3s
+Turn: 5s
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Muroes, 6s 7s
+Combination: Muroes, Flush ( 9s 7s 6s 5s 3s )
+Shows: Letav, 4s 4h
+Combination: Letav, Pair ( 4s 4h Ah Qd 9s )
+Wins: Muroes, chips: 200
+Wins: Letav, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Letav
+Small Blind: Letav, chips: 100
+Big Blind: Muroes, chips: 200
+Flop: Ts 9s Jc
+Turn: Kc
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Muroes, 8s Kh
+Combination: Muroes, Pair ( Kh Kc Jc Ts 9s )
+Shows: Letav, Qs Td
+Combination: Letav, Straight ( Kc Qs Jc Td 9s )
+Wins: Muroes, chips: 100
+Wins: Letav, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muroes
+Small Blind: Muroes, chips: 100
+Big Blind: Letav, chips: 200
+Flop: Ac 3c Kd
+Turn: 3s
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Muroes, 5d 2h
+Combination: Muroes, Pair ( 3c 3s Ac Kd 7h )
+Shows: Letav, 7d Qc
+Combination: Letav, Two Pair ( 7d 7h 3c 3s Ac )
+Wins: Letav, chips: 300
+Quits: Muroes, chips: 0
+Ranking: Letav, Place: 1, Score: 1000
+Reveal AI: Letav, AI: Random
+Ranking: Muroes, Place: 2, Score: -1000
+Reveal AI: Muroes, AI: AIMyBot1
+
+Player Stats for Letav, AI: Random
+General: deals: 16, actions: 3, preflop actions: 3
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 14, showdown: 6, bluff: 8
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.1875, PFR: 0.0625, 3Bet: 0.0625
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Muroes, AI: AIMyBot1
+General: deals: 16, actions: 8, preflop actions: 8
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Date: 2022/10/25 13:45:50
+
+The game begins. The AI's of the players are: 
+Muroes: AIMyBot1
+Letav: Random
+
+Joins: Muroes, chips: 1000
+Joins: Letav, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Letav
+Small Blind: Letav, chips: 100
+Big Blind: Muroes, chips: 200
+Raises: Letav, chips: 300
+Folds: Muroes
+Pot size: 700
+Wins: Letav, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muroes
+Small Blind: Muroes, chips: 100
+Big Blind: Letav, chips: 200
+Folds: Muroes
+Pot size: 300
+Wins: Letav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Letav
+Small Blind: Letav, chips: 100
+Big Blind: Muroes, chips: 200
+Calls: Letav
+DEBUG MESSAGE: INVALID ACTION FROM Muroes (2 0)
+Folds: Muroes
+Pot size: 400
+Wins: Letav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muroes
+Small Blind: Muroes, chips: 100
+Big Blind: Letav, chips: 200
+Folds: Muroes
+Pot size: 300
+Wins: Letav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Letav
+Small Blind: Letav, chips: 100
+Big Blind: Muroes, chips: 200
+Calls: Letav
+DEBUG MESSAGE: INVALID ACTION FROM Muroes (2 0)
+Folds: Muroes
+Pot size: 400
+Boasts: Letav, 4c Qh
+Wins: Letav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muroes
+Small Blind: Muroes, chips: 100
+Big Blind: Letav, chips: 200
+Folds: Muroes
+Pot size: 300
+Wins: Letav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Letav
+Small Blind: Letav, chips: 100
+Big Blind: Muroes, chips: 100
+Flop: 8c Th 6d
+Turn: Ts
+River: 5c
+Pot size: 200
+Showdown Reached
+Shows: Muroes, 7d 8d
+Combination: Muroes, Two Pair ( Th Ts 8d 8c 7d )
+Shows: Letav, 9h 2s
+Combination: Letav, Pair ( Th Ts 9h 8c 6d )
+Wins: Muroes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muroes
+Small Blind: Muroes, chips: 100
+Big Blind: Letav, chips: 200
+Folds: Muroes
+Pot size: 300
+Wins: Letav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Letav
+Small Blind: Letav, chips: 100
+Big Blind: Muroes, chips: 100
+Flop: Kd 3c 5h
+Turn: 7h
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Muroes, Qs 4d
+Combination: Muroes, Pair ( Kd Kc Qs 7h 5h )
+Shows: Letav, Qc 2c
+Combination: Letav, Pair ( Kd Kc Qc 7h 5h )
+Wins: Muroes, chips: 100
+Wins: Letav, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muroes
+Small Blind: Muroes, chips: 100
+Big Blind: Letav, chips: 200
+Flop: 8c 9d Ah
+Turn: Jc
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Muroes, Qd 8d
+Combination: Muroes, Pair ( 8d 8c Ah Qd Jc )
+Shows: Letav, 5d Tc
+Combination: Letav, Pair ( 5d 5c Ah Jc Tc )
+Wins: Muroes, chips: 200
+Wins: Letav, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Letav
+Small Blind: Letav, chips: 100
+Big Blind: Muroes, chips: 200
+Flop: Td Qc 9d
+Turn: 7c
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Muroes, Kh 8h
+Combination: Muroes, Pair ( 8h 8c Kh Qc Td )
+Shows: Letav, 4h 4d
+Combination: Letav, Pair ( 4h 4d Qc Td 9d )
+Wins: Muroes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muroes
+Small Blind: Muroes, chips: 100
+Big Blind: Letav, chips: 200
+Folds: Muroes
+Pot size: 300
+Boasts: Letav, Kc 3h
+Wins: Letav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Letav
+Small Blind: Letav, chips: 100
+Big Blind: Muroes, chips: 200
+Flop: Qh 7c 8c
+Turn: Js
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Muroes, 4d Ad
+Combination: Muroes, High Card ( Ad Qh Js Th 8c )
+Shows: Letav, Tc 6c
+Combination: Letav, Pair ( Tc Th Qh Js 8c )
+Wins: Muroes, chips: 100
+Wins: Letav, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muroes
+Small Blind: Muroes, chips: 100
+Big Blind: Letav, chips: 200
+Flop: 9s Ah 3s
+Turn: 5s
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Muroes, 6s 7s
+Combination: Muroes, Flush ( 9s 7s 6s 5s 3s )
+Shows: Letav, 4s 4h
+Combination: Letav, Pair ( 4s 4h Ah Qd 9s )
+Wins: Muroes, chips: 200
+Wins: Letav, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Letav
+Small Blind: Letav, chips: 100
+Big Blind: Muroes, chips: 200
+Flop: Ts 9s Jc
+Turn: Kc
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Muroes, 8s Kh
+Combination: Muroes, Pair ( Kh Kc Jc Ts 9s )
+Shows: Letav, Qs Td
+Combination: Letav, Straight ( Kc Qs Jc Td 9s )
+Wins: Muroes, chips: 100
+Wins: Letav, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Muroes
+Small Blind: Muroes, chips: 100
+Big Blind: Letav, chips: 200
+Flop: Ac 3c Kd
+Turn: 3s
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Muroes, 5d 2h
+Combination: Muroes, Pair ( 3c 3s Ac Kd 7h )
+Shows: Letav, 7d Qc
+Combination: Letav, Two Pair ( 7d 7h 3c 3s Ac )
+Wins: Letav, chips: 300
+Quits: Muroes, chips: 0
+Ranking: Letav, Place: 1, Score: 1000
+Reveal AI: Letav, AI: Random
+Ranking: Muroes, Place: 2, Score: -1000
+Reveal AI: Muroes, AI: AIMyBot1
+
+Player Stats for Letav, AI: Random
+General: deals: 16, actions: 3, preflop actions: 3
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 14, showdown: 6, bluff: 8
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.1875, PFR: 0.0625, 3Bet: 0.0625
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Muroes, AI: AIMyBot1
+General: deals: 16, actions: 8, preflop actions: 8
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+

@@ -1,0 +1,610 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Lerlinhetry: AIMyBot1
+Fettu: Random
+
+Joins: Lerlinhetry, chips: 1000
+Joins: Fettu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Folds: Fettu
+Pot size: 300
+Wins: Lerlinhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Calls: Fettu
+DEBUG MESSAGE: INVALID ACTION FROM Lerlinhetry (2 0)
+Folds: Lerlinhetry
+Pot size: 400
+Wins: Fettu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Calls: Fettu
+DEBUG MESSAGE: INVALID ACTION FROM Lerlinhetry (2 0)
+Folds: Lerlinhetry
+Pot size: 400
+Boasts: Fettu, 5d 8d
+Wins: Fettu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Boasts: Fettu, 6h 4s
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Folds: Fettu
+Pot size: 300
+Boasts: Fettu, 3h 5d
+Wins: Lerlinhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Calls: Fettu
+DEBUG MESSAGE: INVALID ACTION FROM Lerlinhetry (2 0)
+Folds: Lerlinhetry
+Pot size: 400
+Boasts: Fettu, 3c 2d
+Wins: Fettu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Flop: 8d 9h 4h
+Turn: 7d
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, Tc Jh
+Combination: Lerlinhetry, Straight ( Jh Tc 9h 8d 7d )
+Shows: Fettu, 9c Ac
+Combination: Fettu, Pair ( 9c 9h Ac 8d 7d )
+Wins: Lerlinhetry, chips: 200
+Wins: Fettu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Flop: 4d 2h As
+Turn: 8c
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, Qh 8s
+Combination: Lerlinhetry, Two Pair ( 8s 8c 2h 2c As )
+Shows: Fettu, Qs Ts
+Combination: Fettu, Pair ( 2h 2c As Qs Ts )
+Wins: Lerlinhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Flop: 3d 4d Js
+Turn: 7c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, 6d 8s
+Combination: Lerlinhetry, Pair ( 8s 8d Js 7c 6d )
+Shows: Fettu, Ts Kd
+Combination: Fettu, High Card ( Kd Js Ts 8d 7c )
+Wins: Lerlinhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Flop: 7h 9h 4h
+Turn: 6h
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, 4s 6c
+Combination: Lerlinhetry, Two Pair ( 6c 6h 4s 4h 9h )
+Shows: Fettu, 9c Qs
+Combination: Fettu, Pair ( 9c 9h Qs 8d 7h )
+Wins: Lerlinhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Flop: 9h 3c Kh
+Turn: Tc
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, Ks 7d
+Combination: Lerlinhetry, Pair ( Ks Kh Tc 9h 7d )
+Shows: Fettu, 9c 7c
+Combination: Fettu, Pair ( 9c 9h Kh Tc 7c )
+Wins: Lerlinhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Flop: Ah 5d 4c
+Turn: Kc
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, 8d 8c
+Combination: Lerlinhetry, Two Pair ( Kc Kh 8d 8c Ah )
+Shows: Fettu, 7h 6d
+Combination: Fettu, Pair ( Kc Kh Ah 7h 6d )
+Wins: Lerlinhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Flop: Ad Jc 4d
+Turn: Tc
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, Ah 3c
+Combination: Lerlinhetry, Pair ( Ah Ad Jc Tc 4d )
+Shows: Fettu, 2s 3d
+Combination: Fettu, Pair ( 2s 2c Ad Jc Tc )
+Wins: Lerlinhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Flop: Jc 2d 8d
+Turn: Jd
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, 2s 7c
+Combination: Lerlinhetry, Two Pair ( Jc Jd 2s 2d Ad )
+Shows: Fettu, 2h 9s
+Combination: Fettu, Two Pair ( Jc Jd 2h 2d Ad )
+Wins: Lerlinhetry, chips: 200
+Wins: Fettu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 100
+Flop: 9h Ks 8c
+Turn: Qc
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Lerlinhetry, 5d Kc
+Combination: Lerlinhetry, Pair ( Kc Ks Qc 9h 8c )
+Shows: Fettu, Kh 2c
+Combination: Fettu, Pair ( Kh Ks Qc 9h 8c )
+Wins: Lerlinhetry, chips: 100
+Wins: Fettu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Flop: Ts Jh Ah
+Turn: 6c
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, Ks Kc
+Combination: Lerlinhetry, Two Pair ( Ah Ac Ks Kc Jh )
+Shows: Fettu, Jc Ad
+Combination: Fettu, Full House ( Ad Ah Ac Jc Jh )
+Wins: Fettu, chips: 300
+Quits: Lerlinhetry, chips: 0
+Ranking: Fettu, Place: 1, Score: 1000
+Reveal AI: Fettu, AI: Random
+Ranking: Lerlinhetry, Place: 2, Score: -1000
+Reveal AI: Lerlinhetry, AI: AIMyBot1
+
+Player Stats for Fettu, AI: Random
+General: deals: 27, actions: 5, preflop actions: 5
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 19, showdown: 4, bluff: 15
+Chips: won: 5400, lost: 4400, bought: 1000, forced bets: 4100
+Pre-Flop Stats: VP$IP: 0.111111, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.4
+
+
+Player Stats for Lerlinhetry, AI: AIMyBot1
+General: deals: 27, actions: 15, preflop actions: 15
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 11, showdown: 9, bluff: 2
+Chips: won: 2900, lost: 3900, bought: 1000, forced bets: 3900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9
+
+
+Date: 2022/10/25 13:45:48
+
+The game begins. The AI's of the players are: 
+Lerlinhetry: AIMyBot1
+Fettu: Random
+
+Joins: Lerlinhetry, chips: 1000
+Joins: Fettu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Folds: Fettu
+Pot size: 300
+Wins: Lerlinhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Calls: Fettu
+DEBUG MESSAGE: INVALID ACTION FROM Lerlinhetry (2 0)
+Folds: Lerlinhetry
+Pot size: 400
+Wins: Fettu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Calls: Fettu
+DEBUG MESSAGE: INVALID ACTION FROM Lerlinhetry (2 0)
+Folds: Lerlinhetry
+Pot size: 400
+Boasts: Fettu, 5d 8d
+Wins: Fettu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Boasts: Fettu, 6h 4s
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Folds: Fettu
+Pot size: 300
+Boasts: Fettu, 3h 5d
+Wins: Lerlinhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Calls: Fettu
+DEBUG MESSAGE: INVALID ACTION FROM Lerlinhetry (2 0)
+Folds: Lerlinhetry
+Pot size: 400
+Boasts: Fettu, 3c 2d
+Wins: Fettu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Flop: 8d 9h 4h
+Turn: 7d
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, Tc Jh
+Combination: Lerlinhetry, Straight ( Jh Tc 9h 8d 7d )
+Shows: Fettu, 9c Ac
+Combination: Fettu, Pair ( 9c 9h Ac 8d 7d )
+Wins: Lerlinhetry, chips: 200
+Wins: Fettu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Flop: 4d 2h As
+Turn: 8c
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, Qh 8s
+Combination: Lerlinhetry, Two Pair ( 8s 8c 2h 2c As )
+Shows: Fettu, Qs Ts
+Combination: Fettu, Pair ( 2h 2c As Qs Ts )
+Wins: Lerlinhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Flop: 3d 4d Js
+Turn: 7c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, 6d 8s
+Combination: Lerlinhetry, Pair ( 8s 8d Js 7c 6d )
+Shows: Fettu, Ts Kd
+Combination: Fettu, High Card ( Kd Js Ts 8d 7c )
+Wins: Lerlinhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Flop: 7h 9h 4h
+Turn: 6h
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, 4s 6c
+Combination: Lerlinhetry, Two Pair ( 6c 6h 4s 4h 9h )
+Shows: Fettu, 9c Qs
+Combination: Fettu, Pair ( 9c 9h Qs 8d 7h )
+Wins: Lerlinhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Flop: 9h 3c Kh
+Turn: Tc
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, Ks 7d
+Combination: Lerlinhetry, Pair ( Ks Kh Tc 9h 7d )
+Shows: Fettu, 9c 7c
+Combination: Fettu, Pair ( 9c 9h Kh Tc 7c )
+Wins: Lerlinhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Flop: Ah 5d 4c
+Turn: Kc
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, 8d 8c
+Combination: Lerlinhetry, Two Pair ( Kc Kh 8d 8c Ah )
+Shows: Fettu, 7h 6d
+Combination: Fettu, Pair ( Kc Kh Ah 7h 6d )
+Wins: Lerlinhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Flop: Ad Jc 4d
+Turn: Tc
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, Ah 3c
+Combination: Lerlinhetry, Pair ( Ah Ad Jc Tc 4d )
+Shows: Fettu, 2s 3d
+Combination: Fettu, Pair ( 2s 2c Ad Jc Tc )
+Wins: Lerlinhetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 200
+Flop: Jc 2d 8d
+Turn: Jd
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, 2s 7c
+Combination: Lerlinhetry, Two Pair ( Jc Jd 2s 2d Ad )
+Shows: Fettu, 2h 9s
+Combination: Fettu, Two Pair ( Jc Jd 2h 2d Ad )
+Wins: Lerlinhetry, chips: 200
+Wins: Fettu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Folds: Lerlinhetry
+Pot size: 300
+Wins: Fettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fettu
+Small Blind: Fettu, chips: 100
+Big Blind: Lerlinhetry, chips: 100
+Flop: 9h Ks 8c
+Turn: Qc
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Lerlinhetry, 5d Kc
+Combination: Lerlinhetry, Pair ( Kc Ks Qc 9h 8c )
+Shows: Fettu, Kh 2c
+Combination: Fettu, Pair ( Kh Ks Qc 9h 8c )
+Wins: Lerlinhetry, chips: 100
+Wins: Fettu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lerlinhetry
+Small Blind: Lerlinhetry, chips: 100
+Big Blind: Fettu, chips: 200
+Flop: Ts Jh Ah
+Turn: 6c
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Lerlinhetry, Ks Kc
+Combination: Lerlinhetry, Two Pair ( Ah Ac Ks Kc Jh )
+Shows: Fettu, Jc Ad
+Combination: Fettu, Full House ( Ad Ah Ac Jc Jh )
+Wins: Fettu, chips: 300
+Quits: Lerlinhetry, chips: 0
+Ranking: Fettu, Place: 1, Score: 1000
+Reveal AI: Fettu, AI: Random
+Ranking: Lerlinhetry, Place: 2, Score: -1000
+Reveal AI: Lerlinhetry, AI: AIMyBot1
+
+Player Stats for Fettu, AI: Random
+General: deals: 27, actions: 5, preflop actions: 5
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 19, showdown: 4, bluff: 15
+Chips: won: 5400, lost: 4400, bought: 1000, forced bets: 4100
+Pre-Flop Stats: VP$IP: 0.111111, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.4
+
+
+Player Stats for Lerlinhetry, AI: AIMyBot1
+General: deals: 27, actions: 15, preflop actions: 15
+Rounds Seen: flops: 10, turns: 10, rivers: 10, showdowns: 10
+Wins: total: 11, showdown: 9, bluff: 2
+Chips: won: 2900, lost: 3900, bought: 1000, forced bets: 3900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.9
+
+

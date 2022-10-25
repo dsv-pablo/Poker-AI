@@ -1,0 +1,346 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wittee: Random
+Peevafoek: AIMyBot1
+
+Joins: Wittee, chips: 1000
+Joins: Peevafoek, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peevafoek
+Small Blind: Peevafoek, chips: 100
+Big Blind: Wittee, chips: 200
+Folds: Peevafoek
+Pot size: 300
+Wins: Wittee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wittee
+Small Blind: Wittee, chips: 100
+Big Blind: Peevafoek, chips: 200
+Folds: Wittee
+Pot size: 300
+Boasts: Wittee, Qd 5h
+Wins: Peevafoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peevafoek
+Small Blind: Peevafoek, chips: 100
+Big Blind: Wittee, chips: 200
+Folds: Peevafoek
+Pot size: 300
+Wins: Wittee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wittee
+Small Blind: Wittee, chips: 100
+Big Blind: Peevafoek, chips: 200
+Calls: Wittee
+DEBUG MESSAGE: INVALID ACTION FROM Peevafoek (2 0)
+Folds: Peevafoek
+Pot size: 400
+Boasts: Wittee, Ac 7c
+Wins: Wittee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peevafoek
+Small Blind: Peevafoek, chips: 100
+Big Blind: Wittee, chips: 200
+Folds: Peevafoek
+Pot size: 300
+Boasts: Wittee, Ah 2c
+Wins: Wittee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wittee
+Small Blind: Wittee, chips: 100
+Big Blind: Peevafoek, chips: 200
+Calls: Wittee
+DEBUG MESSAGE: INVALID ACTION FROM Peevafoek (2 0)
+Folds: Peevafoek
+Pot size: 400
+Boasts: Wittee, Td Ad
+Wins: Wittee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peevafoek
+Small Blind: Peevafoek, chips: 100
+Big Blind: Wittee, chips: 200
+Folds: Peevafoek
+Pot size: 300
+Boasts: Wittee, 3s 4h
+Wins: Wittee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wittee
+Small Blind: Wittee, chips: 100
+Big Blind: Peevafoek, chips: 200
+Calls: Wittee
+DEBUG MESSAGE: INVALID ACTION FROM Peevafoek (2 0)
+Folds: Peevafoek
+Pot size: 400
+Wins: Wittee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peevafoek
+Small Blind: Peevafoek, chips: 100
+Big Blind: Wittee, chips: 200
+Flop: 4c Jc 3h
+Turn: Jd
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Wittee, Qd 2c
+Combination: Wittee, Pair ( Jc Jd Qd Td 4c )
+Shows: Peevafoek, 4h 5s
+Combination: Peevafoek, Two Pair ( Jc Jd 4h 4c Td )
+Wins: Wittee, chips: 100
+Wins: Peevafoek, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wittee
+Small Blind: Wittee, chips: 100
+Big Blind: Peevafoek, chips: 200
+Flop: 9s Ac Qc
+Turn: 7c
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Wittee, Qh 6s
+Combination: Wittee, Pair ( Qh Qc Ac 9s 7c )
+Shows: Peevafoek, 9h 7d
+Combination: Peevafoek, Two Pair ( 9h 9s 7d 7c Ac )
+Wins: Peevafoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peevafoek
+Small Blind: Peevafoek, chips: 100
+Big Blind: Wittee, chips: 200
+Folds: Peevafoek
+Pot size: 300
+Boasts: Wittee, 7s 6h
+Wins: Wittee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wittee
+Small Blind: Wittee, chips: 100
+Big Blind: Peevafoek, chips: 200
+Flop: 9h 8s Qh
+Turn: Ac
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Wittee, 5h 3h
+Combination: Wittee, High Card ( Ac Qh Td 9h 8s )
+Shows: Peevafoek, 4s 3d
+Combination: Peevafoek, High Card ( Ac Qh Td 9h 8s )
+Wins: Wittee, chips: 100
+Wins: Peevafoek, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peevafoek
+Small Blind: Peevafoek, chips: 100
+Big Blind: Wittee, chips: 200
+Folds: Peevafoek
+Pot size: 300
+Wins: Wittee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wittee
+Small Blind: Wittee, chips: 100
+Big Blind: Peevafoek, chips: 100
+Flop: 6d Qc 7c
+Turn: Kh
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Wittee, Qh 7s
+Combination: Wittee, Full House ( 7s 7c 7d Qh Qc )
+Shows: Peevafoek, Tc 5c
+Combination: Peevafoek, Pair ( 7c 7d Kh Qc Tc )
+Wins: Wittee, chips: 200
+Quits: Peevafoek, chips: 0
+Ranking: Wittee, Place: 1, Score: 1000
+Reveal AI: Wittee, AI: Random
+Ranking: Peevafoek, Place: 2, Score: -1000
+Reveal AI: Peevafoek, AI: AIMyBot1
+
+Player Stats for Peevafoek, AI: AIMyBot1
+General: deals: 14, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 1000, lost: 2000, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Wittee, AI: Random
+General: deals: 14, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:03
+
+The game begins. The AI's of the players are: 
+Wittee: Random
+Peevafoek: AIMyBot1
+
+Joins: Wittee, chips: 1000
+Joins: Peevafoek, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peevafoek
+Small Blind: Peevafoek, chips: 100
+Big Blind: Wittee, chips: 200
+Folds: Peevafoek
+Pot size: 300
+Wins: Wittee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wittee
+Small Blind: Wittee, chips: 100
+Big Blind: Peevafoek, chips: 200
+Folds: Wittee
+Pot size: 300
+Boasts: Wittee, Qd 5h
+Wins: Peevafoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peevafoek
+Small Blind: Peevafoek, chips: 100
+Big Blind: Wittee, chips: 200
+Folds: Peevafoek
+Pot size: 300
+Wins: Wittee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wittee
+Small Blind: Wittee, chips: 100
+Big Blind: Peevafoek, chips: 200
+Calls: Wittee
+DEBUG MESSAGE: INVALID ACTION FROM Peevafoek (2 0)
+Folds: Peevafoek
+Pot size: 400
+Boasts: Wittee, Ac 7c
+Wins: Wittee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peevafoek
+Small Blind: Peevafoek, chips: 100
+Big Blind: Wittee, chips: 200
+Folds: Peevafoek
+Pot size: 300
+Boasts: Wittee, Ah 2c
+Wins: Wittee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wittee
+Small Blind: Wittee, chips: 100
+Big Blind: Peevafoek, chips: 200
+Calls: Wittee
+DEBUG MESSAGE: INVALID ACTION FROM Peevafoek (2 0)
+Folds: Peevafoek
+Pot size: 400
+Boasts: Wittee, Td Ad
+Wins: Wittee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peevafoek
+Small Blind: Peevafoek, chips: 100
+Big Blind: Wittee, chips: 200
+Folds: Peevafoek
+Pot size: 300
+Boasts: Wittee, 3s 4h
+Wins: Wittee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wittee
+Small Blind: Wittee, chips: 100
+Big Blind: Peevafoek, chips: 200
+Calls: Wittee
+DEBUG MESSAGE: INVALID ACTION FROM Peevafoek (2 0)
+Folds: Peevafoek
+Pot size: 400
+Wins: Wittee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peevafoek
+Small Blind: Peevafoek, chips: 100
+Big Blind: Wittee, chips: 200
+Flop: 4c Jc 3h
+Turn: Jd
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Wittee, Qd 2c
+Combination: Wittee, Pair ( Jc Jd Qd Td 4c )
+Shows: Peevafoek, 4h 5s
+Combination: Peevafoek, Two Pair ( Jc Jd 4h 4c Td )
+Wins: Wittee, chips: 100
+Wins: Peevafoek, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wittee
+Small Blind: Wittee, chips: 100
+Big Blind: Peevafoek, chips: 200
+Flop: 9s Ac Qc
+Turn: 7c
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Wittee, Qh 6s
+Combination: Wittee, Pair ( Qh Qc Ac 9s 7c )
+Shows: Peevafoek, 9h 7d
+Combination: Peevafoek, Two Pair ( 9h 9s 7d 7c Ac )
+Wins: Peevafoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peevafoek
+Small Blind: Peevafoek, chips: 100
+Big Blind: Wittee, chips: 200
+Folds: Peevafoek
+Pot size: 300
+Boasts: Wittee, 7s 6h
+Wins: Wittee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wittee
+Small Blind: Wittee, chips: 100
+Big Blind: Peevafoek, chips: 200
+Flop: 9h 8s Qh
+Turn: Ac
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Wittee, 5h 3h
+Combination: Wittee, High Card ( Ac Qh Td 9h 8s )
+Shows: Peevafoek, 4s 3d
+Combination: Peevafoek, High Card ( Ac Qh Td 9h 8s )
+Wins: Wittee, chips: 100
+Wins: Peevafoek, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peevafoek
+Small Blind: Peevafoek, chips: 100
+Big Blind: Wittee, chips: 200
+Folds: Peevafoek
+Pot size: 300
+Wins: Wittee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wittee
+Small Blind: Wittee, chips: 100
+Big Blind: Peevafoek, chips: 100
+Flop: 6d Qc 7c
+Turn: Kh
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Wittee, Qh 7s
+Combination: Wittee, Full House ( 7s 7c 7d Qh Qc )
+Shows: Peevafoek, Tc 5c
+Combination: Peevafoek, Pair ( 7c 7d Kh Qc Tc )
+Wins: Wittee, chips: 200
+Quits: Peevafoek, chips: 0
+Ranking: Wittee, Place: 1, Score: 1000
+Reveal AI: Wittee, AI: Random
+Ranking: Peevafoek, Place: 2, Score: -1000
+Reveal AI: Peevafoek, AI: AIMyBot1
+
+Player Stats for Peevafoek, AI: AIMyBot1
+General: deals: 14, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 1000, lost: 2000, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Wittee, AI: Random
+General: deals: 14, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

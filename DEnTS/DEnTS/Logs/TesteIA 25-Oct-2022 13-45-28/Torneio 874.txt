@@ -1,0 +1,222 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Megi: AIMyBot1
+Peeheehee: Random
+
+Joins: Megi, chips: 1000
+Joins: Peeheehee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megi
+Small Blind: Megi, chips: 100
+Big Blind: Peeheehee, chips: 200
+Folds: Megi
+Pot size: 300
+Wins: Peeheehee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeheehee
+Small Blind: Peeheehee, chips: 100
+Big Blind: Megi, chips: 200
+Folds: Peeheehee
+Pot size: 300
+Boasts: Peeheehee, As 5s
+Wins: Megi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megi
+Small Blind: Megi, chips: 100
+Big Blind: Peeheehee, chips: 200
+Folds: Megi
+Pot size: 300
+Boasts: Peeheehee, 5s 4d
+Wins: Peeheehee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeheehee
+Small Blind: Peeheehee, chips: 100
+Big Blind: Megi, chips: 200
+Raises: Peeheehee, chips: 300
+Folds: Megi
+Pot size: 700
+Boasts: Peeheehee, Qs Kh
+Wins: Peeheehee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megi
+Small Blind: Megi, chips: 100
+Big Blind: Peeheehee, chips: 200
+Folds: Megi
+Pot size: 300
+Wins: Peeheehee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeheehee
+Small Blind: Peeheehee, chips: 100
+Big Blind: Megi, chips: 200
+Raises: Peeheehee, chips: 300
+Folds: Megi
+Pot size: 700
+Boasts: Peeheehee, 5d 4s
+Wins: Peeheehee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megi
+Small Blind: Megi, chips: 100
+Big Blind: Peeheehee, chips: 200
+Folds: Megi
+Pot size: 300
+Wins: Peeheehee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeheehee
+Small Blind: Peeheehee, chips: 100
+Big Blind: Megi, chips: 200
+Raises: Peeheehee, chips: 1500
+Folds: Megi
+Pot size: 1900
+Boasts: Peeheehee, 6h 5d
+Wins: Peeheehee, chips: 1900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megi
+Small Blind: Megi, chips: 100
+Big Blind: Peeheehee, chips: 200
+Flop: 3s 6s 3c
+Turn: 7s
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Megi, Jc 9s
+Combination: Megi, Pair ( 3s 3c Jc 9s 8h )
+Shows: Peeheehee, Ah Qs
+Combination: Peeheehee, Pair ( 3s 3c Ah Qs 8h )
+Wins: Peeheehee, chips: 300
+Quits: Megi, chips: 0
+Ranking: Peeheehee, Place: 1, Score: 1000
+Reveal AI: Peeheehee, AI: Random
+Ranking: Megi, Place: 2, Score: -1000
+Reveal AI: Megi, AI: AIMyBot1
+
+Player Stats for Megi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Peeheehee, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 4800, lost: 3800, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:27
+
+The game begins. The AI's of the players are: 
+Megi: AIMyBot1
+Peeheehee: Random
+
+Joins: Megi, chips: 1000
+Joins: Peeheehee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megi
+Small Blind: Megi, chips: 100
+Big Blind: Peeheehee, chips: 200
+Folds: Megi
+Pot size: 300
+Wins: Peeheehee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeheehee
+Small Blind: Peeheehee, chips: 100
+Big Blind: Megi, chips: 200
+Folds: Peeheehee
+Pot size: 300
+Boasts: Peeheehee, As 5s
+Wins: Megi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megi
+Small Blind: Megi, chips: 100
+Big Blind: Peeheehee, chips: 200
+Folds: Megi
+Pot size: 300
+Boasts: Peeheehee, 5s 4d
+Wins: Peeheehee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeheehee
+Small Blind: Peeheehee, chips: 100
+Big Blind: Megi, chips: 200
+Raises: Peeheehee, chips: 300
+Folds: Megi
+Pot size: 700
+Boasts: Peeheehee, Qs Kh
+Wins: Peeheehee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megi
+Small Blind: Megi, chips: 100
+Big Blind: Peeheehee, chips: 200
+Folds: Megi
+Pot size: 300
+Wins: Peeheehee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeheehee
+Small Blind: Peeheehee, chips: 100
+Big Blind: Megi, chips: 200
+Raises: Peeheehee, chips: 300
+Folds: Megi
+Pot size: 700
+Boasts: Peeheehee, 5d 4s
+Wins: Peeheehee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megi
+Small Blind: Megi, chips: 100
+Big Blind: Peeheehee, chips: 200
+Folds: Megi
+Pot size: 300
+Wins: Peeheehee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peeheehee
+Small Blind: Peeheehee, chips: 100
+Big Blind: Megi, chips: 200
+Raises: Peeheehee, chips: 1500
+Folds: Megi
+Pot size: 1900
+Boasts: Peeheehee, 6h 5d
+Wins: Peeheehee, chips: 1900
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megi
+Small Blind: Megi, chips: 100
+Big Blind: Peeheehee, chips: 200
+Flop: 3s 6s 3c
+Turn: 7s
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Megi, Jc 9s
+Combination: Megi, Pair ( 3s 3c Jc 9s 8h )
+Shows: Peeheehee, Ah Qs
+Combination: Peeheehee, Pair ( 3s 3c Ah Qs 8h )
+Wins: Peeheehee, chips: 300
+Quits: Megi, chips: 0
+Ranking: Peeheehee, Place: 1, Score: 1000
+Reveal AI: Peeheehee, AI: Random
+Ranking: Megi, Place: 2, Score: -1000
+Reveal AI: Megi, AI: AIMyBot1
+
+Player Stats for Megi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Peeheehee, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 4800, lost: 3800, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

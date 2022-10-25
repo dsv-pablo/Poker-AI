@@ -1,0 +1,448 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Moegoenet: AIMyBot1
+Bamav: Random
+
+Joins: Moegoenet, chips: 1000
+Joins: Bamav, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Folds: Moegoenet
+Pot size: 300
+Wins: Bamav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bamav
+Small Blind: Bamav, chips: 100
+Big Blind: Moegoenet, chips: 200
+Calls: Bamav
+DEBUG MESSAGE: INVALID ACTION FROM Moegoenet (2 0)
+Folds: Moegoenet
+Pot size: 400
+Boasts: Bamav, Qc 4h
+Wins: Bamav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Folds: Moegoenet
+Pot size: 300
+Boasts: Bamav, 7c 4c
+Wins: Bamav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bamav
+Small Blind: Bamav, chips: 100
+Big Blind: Moegoenet, chips: 200
+Calls: Bamav
+DEBUG MESSAGE: INVALID ACTION FROM Moegoenet (2 0)
+Folds: Moegoenet
+Pot size: 400
+Wins: Bamav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Folds: Moegoenet
+Pot size: 300
+Wins: Bamav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bamav
+Small Blind: Bamav, chips: 100
+Big Blind: Moegoenet, chips: 200
+Calls: Bamav
+DEBUG MESSAGE: INVALID ACTION FROM Moegoenet (2 0)
+Folds: Moegoenet
+Pot size: 400
+Boasts: Bamav, Qc Ah
+Wins: Bamav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Flop: Qc Jh Ah
+Turn: 3c
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Moegoenet, 3d As
+Combination: Moegoenet, Two Pair ( As Ah 3d 3c Qc )
+Shows: Bamav, 9h Th
+Combination: Bamav, High Card ( Ah Qc Jh Th 9h )
+Wins: Moegoenet, chips: 200
+Wins: Bamav, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bamav
+Small Blind: Bamav, chips: 100
+Big Blind: Moegoenet, chips: 200
+Flop: Jh 4c 7s
+Turn: Qh
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Moegoenet, Kd 2c
+Combination: Moegoenet, Pair ( Qh Qd Kd Jh 7s )
+Shows: Bamav, Td 7c
+Combination: Bamav, Two Pair ( Qh Qd 7c 7s Jh )
+Wins: Moegoenet, chips: 100
+Wins: Bamav, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Flop: 7d 9s 8h
+Turn: Ks
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Moegoenet, 8s Td
+Combination: Moegoenet, Pair ( 8s 8h Ks Qs Td )
+Shows: Bamav, 5h 3s
+Combination: Bamav, High Card ( Ks Qs 9s 8h 7d )
+Wins: Moegoenet, chips: 200
+Wins: Bamav, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bamav
+Small Blind: Bamav, chips: 100
+Big Blind: Moegoenet, chips: 200
+Flop: 2c As 6d
+Turn: 8s
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Moegoenet, Kd Th
+Combination: Moegoenet, Pair ( Kd Kh As Th 8s )
+Shows: Bamav, 6s 5d
+Combination: Bamav, Pair ( 6s 6d As Kh 8s )
+Wins: Moegoenet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Folds: Moegoenet
+Pot size: 300
+Boasts: Bamav, 4s 9c
+Wins: Bamav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bamav
+Small Blind: Bamav, chips: 100
+Big Blind: Moegoenet, chips: 200
+Flop: 3s Jd 6h
+Turn: Ac
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Moegoenet, 9c 6d
+Combination: Moegoenet, Pair ( 6d 6h Ac Jd 9c )
+Shows: Bamav, Kh 2s
+Combination: Bamav, High Card ( Ac Kh Jd 7s 6h )
+Wins: Moegoenet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Folds: Moegoenet
+Pot size: 300
+Boasts: Bamav, 8d Tc
+Wins: Bamav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bamav
+Small Blind: Bamav, chips: 100
+Big Blind: Moegoenet, chips: 200
+Flop: 7d Tc 3c
+Turn: Jd
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Moegoenet, Ac 9s
+Combination: Moegoenet, High Card ( Ac Jd Tc 9s 7d )
+Shows: Bamav, 8d As
+Combination: Bamav, High Card ( As Jd Tc 8d 7d )
+Wins: Moegoenet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Folds: Moegoenet
+Pot size: 300
+Boasts: Bamav, Ac Qh
+Wins: Bamav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bamav
+Small Blind: Bamav, chips: 100
+Big Blind: Moegoenet, chips: 200
+Flop: Ah Js 3d
+Turn: Jc
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Moegoenet, As 4d
+Combination: Moegoenet, Two Pair ( As Ah Js Jc Kd )
+Shows: Bamav, Jh 9h
+Combination: Bamav, Three Of A Kind ( Jh Js Jc Ah Kd )
+Wins: Moegoenet, chips: 100
+Wins: Bamav, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Flop: Js Jd 6c
+Turn: As
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Moegoenet, Ah 5s
+Combination: Moegoenet, Two Pair ( Ah As Js Jd 6c )
+Shows: Bamav, Ad 7s
+Combination: Bamav, Two Pair ( Ad As Js Jd 7s )
+Wins: Bamav, chips: 300
+Quits: Moegoenet, chips: 0
+Ranking: Bamav, Place: 1, Score: 1000
+Reveal AI: Bamav, AI: Random
+Ranking: Moegoenet, Place: 2, Score: -1000
+Reveal AI: Moegoenet, AI: AIMyBot1
+
+Player Stats for Bamav, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 14, showdown: 5, bluff: 9
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+
+Player Stats for Moegoenet, AI: AIMyBot1
+General: deals: 17, actions: 9, preflop actions: 9
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Date: 2022/10/25 13:45:38
+
+The game begins. The AI's of the players are: 
+Moegoenet: AIMyBot1
+Bamav: Random
+
+Joins: Moegoenet, chips: 1000
+Joins: Bamav, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Folds: Moegoenet
+Pot size: 300
+Wins: Bamav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bamav
+Small Blind: Bamav, chips: 100
+Big Blind: Moegoenet, chips: 200
+Calls: Bamav
+DEBUG MESSAGE: INVALID ACTION FROM Moegoenet (2 0)
+Folds: Moegoenet
+Pot size: 400
+Boasts: Bamav, Qc 4h
+Wins: Bamav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Folds: Moegoenet
+Pot size: 300
+Boasts: Bamav, 7c 4c
+Wins: Bamav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bamav
+Small Blind: Bamav, chips: 100
+Big Blind: Moegoenet, chips: 200
+Calls: Bamav
+DEBUG MESSAGE: INVALID ACTION FROM Moegoenet (2 0)
+Folds: Moegoenet
+Pot size: 400
+Wins: Bamav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Folds: Moegoenet
+Pot size: 300
+Wins: Bamav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bamav
+Small Blind: Bamav, chips: 100
+Big Blind: Moegoenet, chips: 200
+Calls: Bamav
+DEBUG MESSAGE: INVALID ACTION FROM Moegoenet (2 0)
+Folds: Moegoenet
+Pot size: 400
+Boasts: Bamav, Qc Ah
+Wins: Bamav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Flop: Qc Jh Ah
+Turn: 3c
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Moegoenet, 3d As
+Combination: Moegoenet, Two Pair ( As Ah 3d 3c Qc )
+Shows: Bamav, 9h Th
+Combination: Bamav, High Card ( Ah Qc Jh Th 9h )
+Wins: Moegoenet, chips: 200
+Wins: Bamav, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bamav
+Small Blind: Bamav, chips: 100
+Big Blind: Moegoenet, chips: 200
+Flop: Jh 4c 7s
+Turn: Qh
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Moegoenet, Kd 2c
+Combination: Moegoenet, Pair ( Qh Qd Kd Jh 7s )
+Shows: Bamav, Td 7c
+Combination: Bamav, Two Pair ( Qh Qd 7c 7s Jh )
+Wins: Moegoenet, chips: 100
+Wins: Bamav, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Flop: 7d 9s 8h
+Turn: Ks
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Moegoenet, 8s Td
+Combination: Moegoenet, Pair ( 8s 8h Ks Qs Td )
+Shows: Bamav, 5h 3s
+Combination: Bamav, High Card ( Ks Qs 9s 8h 7d )
+Wins: Moegoenet, chips: 200
+Wins: Bamav, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bamav
+Small Blind: Bamav, chips: 100
+Big Blind: Moegoenet, chips: 200
+Flop: 2c As 6d
+Turn: 8s
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Moegoenet, Kd Th
+Combination: Moegoenet, Pair ( Kd Kh As Th 8s )
+Shows: Bamav, 6s 5d
+Combination: Bamav, Pair ( 6s 6d As Kh 8s )
+Wins: Moegoenet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Folds: Moegoenet
+Pot size: 300
+Boasts: Bamav, 4s 9c
+Wins: Bamav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bamav
+Small Blind: Bamav, chips: 100
+Big Blind: Moegoenet, chips: 200
+Flop: 3s Jd 6h
+Turn: Ac
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Moegoenet, 9c 6d
+Combination: Moegoenet, Pair ( 6d 6h Ac Jd 9c )
+Shows: Bamav, Kh 2s
+Combination: Bamav, High Card ( Ac Kh Jd 7s 6h )
+Wins: Moegoenet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Folds: Moegoenet
+Pot size: 300
+Boasts: Bamav, 8d Tc
+Wins: Bamav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bamav
+Small Blind: Bamav, chips: 100
+Big Blind: Moegoenet, chips: 200
+Flop: 7d Tc 3c
+Turn: Jd
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Moegoenet, Ac 9s
+Combination: Moegoenet, High Card ( Ac Jd Tc 9s 7d )
+Shows: Bamav, 8d As
+Combination: Bamav, High Card ( As Jd Tc 8d 7d )
+Wins: Moegoenet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Folds: Moegoenet
+Pot size: 300
+Boasts: Bamav, Ac Qh
+Wins: Bamav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bamav
+Small Blind: Bamav, chips: 100
+Big Blind: Moegoenet, chips: 200
+Flop: Ah Js 3d
+Turn: Jc
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Moegoenet, As 4d
+Combination: Moegoenet, Two Pair ( As Ah Js Jc Kd )
+Shows: Bamav, Jh 9h
+Combination: Bamav, Three Of A Kind ( Jh Js Jc Ah Kd )
+Wins: Moegoenet, chips: 100
+Wins: Bamav, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moegoenet
+Small Blind: Moegoenet, chips: 100
+Big Blind: Bamav, chips: 200
+Flop: Js Jd 6c
+Turn: As
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Moegoenet, Ah 5s
+Combination: Moegoenet, Two Pair ( Ah As Js Jd 6c )
+Shows: Bamav, Ad 7s
+Combination: Bamav, Two Pair ( Ad As Js Jd 7s )
+Wins: Bamav, chips: 300
+Quits: Moegoenet, chips: 0
+Ranking: Bamav, Place: 1, Score: 1000
+Reveal AI: Bamav, AI: Random
+Ranking: Moegoenet, Place: 2, Score: -1000
+Reveal AI: Moegoenet, AI: AIMyBot1
+
+Player Stats for Bamav, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 14, showdown: 5, bluff: 9
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+
+Player Stats for Moegoenet, AI: AIMyBot1
+General: deals: 17, actions: 9, preflop actions: 9
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+

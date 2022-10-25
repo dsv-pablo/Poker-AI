@@ -1,0 +1,222 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Mosam: AIMyBot1
+Bowro: Random
+
+Joins: Mosam, chips: 1000
+Joins: Bowro, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bowro
+Small Blind: Bowro, chips: 100
+Big Blind: Mosam, chips: 200
+Folds: Bowro
+Pot size: 300
+Wins: Mosam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mosam
+Small Blind: Mosam, chips: 100
+Big Blind: Bowro, chips: 200
+Folds: Mosam
+Pot size: 300
+Wins: Bowro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bowro
+Small Blind: Bowro, chips: 100
+Big Blind: Mosam, chips: 200
+Calls: Bowro
+DEBUG MESSAGE: INVALID ACTION FROM Mosam (2 0)
+Folds: Mosam
+Pot size: 400
+Boasts: Bowro, Ac 5h
+Wins: Bowro, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mosam
+Small Blind: Mosam, chips: 100
+Big Blind: Bowro, chips: 200
+Folds: Mosam
+Pot size: 300
+Wins: Bowro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bowro
+Small Blind: Bowro, chips: 100
+Big Blind: Mosam, chips: 200
+Calls: Bowro
+DEBUG MESSAGE: INVALID ACTION FROM Mosam (2 0)
+Folds: Mosam
+Pot size: 400
+Boasts: Bowro, Th 4d
+Wins: Bowro, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mosam
+Small Blind: Mosam, chips: 100
+Big Blind: Bowro, chips: 200
+Folds: Mosam
+Pot size: 300
+Wins: Bowro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bowro
+Small Blind: Bowro, chips: 100
+Big Blind: Mosam, chips: 200
+Raises: Bowro, chips: 300
+Folds: Mosam
+Pot size: 700
+Wins: Bowro, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mosam
+Small Blind: Mosam, chips: 100
+Big Blind: Bowro, chips: 200
+Folds: Mosam
+Pot size: 300
+Boasts: Bowro, 7h Kd
+Wins: Bowro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bowro
+Small Blind: Bowro, chips: 100
+Big Blind: Mosam, chips: 100
+Flop: 5h 4s 3s
+Turn: 8d
+River: 6c
+Pot size: 200
+Showdown Reached
+Shows: Mosam, Js Kc
+Combination: Mosam, High Card ( Kc Js 8d 6c 5h )
+Shows: Bowro, 7s 6h
+Combination: Bowro, Straight ( 8d 7s 6h 5h 4s )
+Wins: Bowro, chips: 200
+Quits: Mosam, chips: 0
+Ranking: Bowro, Place: 1, Score: 1000
+Reveal AI: Bowro, AI: Random
+Ranking: Mosam, Place: 2, Score: -1000
+Reveal AI: Mosam, AI: AIMyBot1
+
+Player Stats for Bowro, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Mosam, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:52
+
+The game begins. The AI's of the players are: 
+Mosam: AIMyBot1
+Bowro: Random
+
+Joins: Mosam, chips: 1000
+Joins: Bowro, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bowro
+Small Blind: Bowro, chips: 100
+Big Blind: Mosam, chips: 200
+Folds: Bowro
+Pot size: 300
+Wins: Mosam, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mosam
+Small Blind: Mosam, chips: 100
+Big Blind: Bowro, chips: 200
+Folds: Mosam
+Pot size: 300
+Wins: Bowro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bowro
+Small Blind: Bowro, chips: 100
+Big Blind: Mosam, chips: 200
+Calls: Bowro
+DEBUG MESSAGE: INVALID ACTION FROM Mosam (2 0)
+Folds: Mosam
+Pot size: 400
+Boasts: Bowro, Ac 5h
+Wins: Bowro, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mosam
+Small Blind: Mosam, chips: 100
+Big Blind: Bowro, chips: 200
+Folds: Mosam
+Pot size: 300
+Wins: Bowro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bowro
+Small Blind: Bowro, chips: 100
+Big Blind: Mosam, chips: 200
+Calls: Bowro
+DEBUG MESSAGE: INVALID ACTION FROM Mosam (2 0)
+Folds: Mosam
+Pot size: 400
+Boasts: Bowro, Th 4d
+Wins: Bowro, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mosam
+Small Blind: Mosam, chips: 100
+Big Blind: Bowro, chips: 200
+Folds: Mosam
+Pot size: 300
+Wins: Bowro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bowro
+Small Blind: Bowro, chips: 100
+Big Blind: Mosam, chips: 200
+Raises: Bowro, chips: 300
+Folds: Mosam
+Pot size: 700
+Wins: Bowro, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mosam
+Small Blind: Mosam, chips: 100
+Big Blind: Bowro, chips: 200
+Folds: Mosam
+Pot size: 300
+Boasts: Bowro, 7h Kd
+Wins: Bowro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bowro
+Small Blind: Bowro, chips: 100
+Big Blind: Mosam, chips: 100
+Flop: 5h 4s 3s
+Turn: 8d
+River: 6c
+Pot size: 200
+Showdown Reached
+Shows: Mosam, Js Kc
+Combination: Mosam, High Card ( Kc Js 8d 6c 5h )
+Shows: Bowro, 7s 6h
+Combination: Bowro, Straight ( 8d 7s 6h 5h 4s )
+Wins: Bowro, chips: 200
+Quits: Mosam, chips: 0
+Ranking: Bowro, Place: 1, Score: 1000
+Reveal AI: Bowro, AI: Random
+Ranking: Mosam, Place: 2, Score: -1000
+Reveal AI: Mosam, AI: AIMyBot1
+
+Player Stats for Bowro, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Mosam, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

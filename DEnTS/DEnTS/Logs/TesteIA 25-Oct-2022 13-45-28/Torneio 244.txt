@@ -1,0 +1,266 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Totoe: Random
+Chahisu: AIMyBot1
+
+Joins: Totoe, chips: 1000
+Joins: Chahisu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Totoe
+Small Blind: Totoe, chips: 100
+Big Blind: Chahisu, chips: 200
+Raises: Totoe, chips: 300
+Folds: Chahisu
+Pot size: 700
+Wins: Totoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chahisu
+Small Blind: Chahisu, chips: 100
+Big Blind: Totoe, chips: 200
+Folds: Chahisu
+Pot size: 300
+Boasts: Totoe, 5c 2h
+Wins: Totoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Totoe
+Small Blind: Totoe, chips: 100
+Big Blind: Chahisu, chips: 200
+Calls: Totoe
+DEBUG MESSAGE: INVALID ACTION FROM Chahisu (2 0)
+Folds: Chahisu
+Pot size: 400
+Wins: Totoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chahisu
+Small Blind: Chahisu, chips: 100
+Big Blind: Totoe, chips: 200
+Folds: Chahisu
+Pot size: 300
+Boasts: Totoe, 5d 9h
+Wins: Totoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Totoe
+Small Blind: Totoe, chips: 100
+Big Blind: Chahisu, chips: 200
+Folds: Totoe
+Pot size: 300
+Boasts: Totoe, Ad 6h
+Wins: Chahisu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chahisu
+Small Blind: Chahisu, chips: 100
+Big Blind: Totoe, chips: 200
+Folds: Chahisu
+Pot size: 300
+Boasts: Totoe, 9c 7d
+Wins: Totoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Totoe
+Small Blind: Totoe, chips: 100
+Big Blind: Chahisu, chips: 200
+Raises: Totoe, chips: 300
+Folds: Chahisu
+Pot size: 700
+Wins: Totoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chahisu
+Small Blind: Chahisu, chips: 100
+Big Blind: Totoe, chips: 200
+Folds: Chahisu
+Pot size: 300
+Wins: Totoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Totoe
+Small Blind: Totoe, chips: 100
+Big Blind: Chahisu, chips: 100
+Flop: 2h Tc 8c
+Turn: 9d
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Totoe, 7h 9h
+Combination: Totoe, Pair ( 9h 9d Qc Tc 8c )
+Shows: Chahisu, Ac Kc
+Combination: Chahisu, Flush ( Ac Kc Qc Tc 8c )
+Wins: Chahisu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chahisu
+Small Blind: Chahisu, chips: 100
+Big Blind: Totoe, chips: 200
+Folds: Chahisu
+Pot size: 300
+Boasts: Totoe, 3s Jc
+Wins: Totoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Totoe
+Small Blind: Totoe, chips: 100
+Big Blind: Chahisu, chips: 100
+Flop: 7s Jh Kc
+Turn: 4d
+River: Ah
+Pot size: 200
+Showdown Reached
+Shows: Totoe, As Jd
+Combination: Totoe, Two Pair ( As Ah Jd Jh Kc )
+Shows: Chahisu, Ks 9c
+Combination: Chahisu, Pair ( Ks Kc Ah Jh 9c )
+Wins: Totoe, chips: 200
+Quits: Chahisu, chips: 0
+Ranking: Totoe, Place: 1, Score: 1000
+Reveal AI: Totoe, AI: Random
+Ranking: Chahisu, Place: 2, Score: -1000
+Reveal AI: Chahisu, AI: AIMyBot1
+
+Player Stats for Chahisu, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Totoe, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:45
+
+The game begins. The AI's of the players are: 
+Totoe: Random
+Chahisu: AIMyBot1
+
+Joins: Totoe, chips: 1000
+Joins: Chahisu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Totoe
+Small Blind: Totoe, chips: 100
+Big Blind: Chahisu, chips: 200
+Raises: Totoe, chips: 300
+Folds: Chahisu
+Pot size: 700
+Wins: Totoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chahisu
+Small Blind: Chahisu, chips: 100
+Big Blind: Totoe, chips: 200
+Folds: Chahisu
+Pot size: 300
+Boasts: Totoe, 5c 2h
+Wins: Totoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Totoe
+Small Blind: Totoe, chips: 100
+Big Blind: Chahisu, chips: 200
+Calls: Totoe
+DEBUG MESSAGE: INVALID ACTION FROM Chahisu (2 0)
+Folds: Chahisu
+Pot size: 400
+Wins: Totoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chahisu
+Small Blind: Chahisu, chips: 100
+Big Blind: Totoe, chips: 200
+Folds: Chahisu
+Pot size: 300
+Boasts: Totoe, 5d 9h
+Wins: Totoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Totoe
+Small Blind: Totoe, chips: 100
+Big Blind: Chahisu, chips: 200
+Folds: Totoe
+Pot size: 300
+Boasts: Totoe, Ad 6h
+Wins: Chahisu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chahisu
+Small Blind: Chahisu, chips: 100
+Big Blind: Totoe, chips: 200
+Folds: Chahisu
+Pot size: 300
+Boasts: Totoe, 9c 7d
+Wins: Totoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Totoe
+Small Blind: Totoe, chips: 100
+Big Blind: Chahisu, chips: 200
+Raises: Totoe, chips: 300
+Folds: Chahisu
+Pot size: 700
+Wins: Totoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chahisu
+Small Blind: Chahisu, chips: 100
+Big Blind: Totoe, chips: 200
+Folds: Chahisu
+Pot size: 300
+Wins: Totoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Totoe
+Small Blind: Totoe, chips: 100
+Big Blind: Chahisu, chips: 100
+Flop: 2h Tc 8c
+Turn: 9d
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Totoe, 7h 9h
+Combination: Totoe, Pair ( 9h 9d Qc Tc 8c )
+Shows: Chahisu, Ac Kc
+Combination: Chahisu, Flush ( Ac Kc Qc Tc 8c )
+Wins: Chahisu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chahisu
+Small Blind: Chahisu, chips: 100
+Big Blind: Totoe, chips: 200
+Folds: Chahisu
+Pot size: 300
+Boasts: Totoe, 3s Jc
+Wins: Totoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Totoe
+Small Blind: Totoe, chips: 100
+Big Blind: Chahisu, chips: 100
+Flop: 7s Jh Kc
+Turn: 4d
+River: Ah
+Pot size: 200
+Showdown Reached
+Shows: Totoe, As Jd
+Combination: Totoe, Two Pair ( As Ah Jd Jh Kc )
+Shows: Chahisu, Ks 9c
+Combination: Chahisu, Pair ( Ks Kc Ah Jh 9c )
+Wins: Totoe, chips: 200
+Quits: Chahisu, chips: 0
+Ranking: Totoe, Place: 1, Score: 1000
+Reveal AI: Totoe, AI: Random
+Ranking: Chahisu, Place: 2, Score: -1000
+Reveal AI: Chahisu, AI: AIMyBot1
+
+Player Stats for Chahisu, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Totoe, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

@@ -1,0 +1,294 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Roener: AIMyBot1
+Juboek: Random
+
+Joins: Roener, chips: 1000
+Joins: Juboek, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juboek
+Small Blind: Juboek, chips: 100
+Big Blind: Roener, chips: 200
+Folds: Juboek
+Pot size: 300
+Wins: Roener, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roener
+Small Blind: Roener, chips: 100
+Big Blind: Juboek, chips: 200
+Folds: Roener
+Pot size: 300
+Wins: Juboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juboek
+Small Blind: Juboek, chips: 100
+Big Blind: Roener, chips: 200
+Folds: Juboek
+Pot size: 300
+Wins: Roener, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roener
+Small Blind: Roener, chips: 100
+Big Blind: Juboek, chips: 200
+Folds: Roener
+Pot size: 300
+Boasts: Juboek, 3c 6h
+Wins: Juboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juboek
+Small Blind: Juboek, chips: 100
+Big Blind: Roener, chips: 200
+Calls: Juboek
+DEBUG MESSAGE: INVALID ACTION FROM Roener (2 0)
+Folds: Roener
+Pot size: 400
+Wins: Juboek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roener
+Small Blind: Roener, chips: 100
+Big Blind: Juboek, chips: 200
+Folds: Roener
+Pot size: 300
+Boasts: Juboek, 2c 6d
+Wins: Juboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juboek
+Small Blind: Juboek, chips: 100
+Big Blind: Roener, chips: 200
+Calls: Juboek
+DEBUG MESSAGE: INVALID ACTION FROM Roener (2 0)
+Folds: Roener
+Pot size: 400
+Wins: Juboek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roener
+Small Blind: Roener, chips: 100
+Big Blind: Juboek, chips: 200
+Folds: Roener
+Pot size: 300
+Wins: Juboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juboek
+Small Blind: Juboek, chips: 100
+Big Blind: Roener, chips: 200
+Raises: Juboek, chips: 300
+Folds: Roener
+Pot size: 700
+Boasts: Juboek, 3s 6c
+Wins: Juboek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roener
+Small Blind: Roener, chips: 100
+Big Blind: Juboek, chips: 200
+Folds: Roener
+Pot size: 300
+Boasts: Juboek, 7h Th
+Wins: Juboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juboek
+Small Blind: Juboek, chips: 100
+Big Blind: Roener, chips: 100
+Flop: 2c Jh 9c
+Turn: 5s
+River: 6d
+Pot size: 200
+Showdown Reached
+Shows: Roener, Jd 2d
+Combination: Roener, Two Pair ( Jd Jh 2d 2c 9c )
+Shows: Juboek, Qh 8d
+Combination: Juboek, High Card ( Qh Jh 9c 8d 6d )
+Wins: Roener, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roener
+Small Blind: Roener, chips: 100
+Big Blind: Juboek, chips: 200
+Folds: Roener
+Pot size: 300
+Wins: Juboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juboek
+Small Blind: Juboek, chips: 100
+Big Blind: Roener, chips: 100
+Flop: Kd 4c Td
+Turn: 5s
+River: 4s
+Pot size: 200
+Showdown Reached
+Shows: Roener, 2c 7s
+Combination: Roener, Pair ( 4c 4s Kd Td 7s )
+Shows: Juboek, 9h 5d
+Combination: Juboek, Two Pair ( 5d 5s 4c 4s Kd )
+Wins: Juboek, chips: 200
+Quits: Roener, chips: 0
+Ranking: Juboek, Place: 1, Score: 1000
+Reveal AI: Juboek, AI: Random
+Ranking: Roener, Place: 2, Score: -1000
+Reveal AI: Roener, AI: AIMyBot1
+
+Player Stats for Juboek, AI: Random
+General: deals: 13, actions: 5, preflop actions: 5
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Roener, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:26
+
+The game begins. The AI's of the players are: 
+Roener: AIMyBot1
+Juboek: Random
+
+Joins: Roener, chips: 1000
+Joins: Juboek, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juboek
+Small Blind: Juboek, chips: 100
+Big Blind: Roener, chips: 200
+Folds: Juboek
+Pot size: 300
+Wins: Roener, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roener
+Small Blind: Roener, chips: 100
+Big Blind: Juboek, chips: 200
+Folds: Roener
+Pot size: 300
+Wins: Juboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juboek
+Small Blind: Juboek, chips: 100
+Big Blind: Roener, chips: 200
+Folds: Juboek
+Pot size: 300
+Wins: Roener, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roener
+Small Blind: Roener, chips: 100
+Big Blind: Juboek, chips: 200
+Folds: Roener
+Pot size: 300
+Boasts: Juboek, 3c 6h
+Wins: Juboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juboek
+Small Blind: Juboek, chips: 100
+Big Blind: Roener, chips: 200
+Calls: Juboek
+DEBUG MESSAGE: INVALID ACTION FROM Roener (2 0)
+Folds: Roener
+Pot size: 400
+Wins: Juboek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roener
+Small Blind: Roener, chips: 100
+Big Blind: Juboek, chips: 200
+Folds: Roener
+Pot size: 300
+Boasts: Juboek, 2c 6d
+Wins: Juboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juboek
+Small Blind: Juboek, chips: 100
+Big Blind: Roener, chips: 200
+Calls: Juboek
+DEBUG MESSAGE: INVALID ACTION FROM Roener (2 0)
+Folds: Roener
+Pot size: 400
+Wins: Juboek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roener
+Small Blind: Roener, chips: 100
+Big Blind: Juboek, chips: 200
+Folds: Roener
+Pot size: 300
+Wins: Juboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juboek
+Small Blind: Juboek, chips: 100
+Big Blind: Roener, chips: 200
+Raises: Juboek, chips: 300
+Folds: Roener
+Pot size: 700
+Boasts: Juboek, 3s 6c
+Wins: Juboek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roener
+Small Blind: Roener, chips: 100
+Big Blind: Juboek, chips: 200
+Folds: Roener
+Pot size: 300
+Boasts: Juboek, 7h Th
+Wins: Juboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juboek
+Small Blind: Juboek, chips: 100
+Big Blind: Roener, chips: 100
+Flop: 2c Jh 9c
+Turn: 5s
+River: 6d
+Pot size: 200
+Showdown Reached
+Shows: Roener, Jd 2d
+Combination: Roener, Two Pair ( Jd Jh 2d 2c 9c )
+Shows: Juboek, Qh 8d
+Combination: Juboek, High Card ( Qh Jh 9c 8d 6d )
+Wins: Roener, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roener
+Small Blind: Roener, chips: 100
+Big Blind: Juboek, chips: 200
+Folds: Roener
+Pot size: 300
+Wins: Juboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Juboek
+Small Blind: Juboek, chips: 100
+Big Blind: Roener, chips: 100
+Flop: Kd 4c Td
+Turn: 5s
+River: 4s
+Pot size: 200
+Showdown Reached
+Shows: Roener, 2c 7s
+Combination: Roener, Pair ( 4c 4s Kd Td 7s )
+Shows: Juboek, 9h 5d
+Combination: Juboek, Two Pair ( 5d 5s 4c 4s Kd )
+Wins: Juboek, chips: 200
+Quits: Roener, chips: 0
+Ranking: Juboek, Place: 1, Score: 1000
+Reveal AI: Juboek, AI: Random
+Ranking: Roener, Place: 2, Score: -1000
+Reveal AI: Roener, AI: AIMyBot1
+
+Player Stats for Juboek, AI: Random
+General: deals: 13, actions: 5, preflop actions: 5
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Roener, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

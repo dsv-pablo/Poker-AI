@@ -1,0 +1,276 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Joewabos: AIMyBot1
+Neho: Random
+
+Joins: Joewabos, chips: 1000
+Joins: Neho, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neho
+Small Blind: Neho, chips: 100
+Big Blind: Joewabos, chips: 200
+Raises: Neho, chips: 300
+Folds: Joewabos
+Pot size: 700
+Boasts: Neho, As 9h
+Wins: Neho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joewabos
+Small Blind: Joewabos, chips: 100
+Big Blind: Neho, chips: 200
+Folds: Joewabos
+Pot size: 300
+Boasts: Neho, Jc 9s
+Wins: Neho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neho
+Small Blind: Neho, chips: 100
+Big Blind: Joewabos, chips: 200
+Calls: Neho
+DEBUG MESSAGE: INVALID ACTION FROM Joewabos (2 0)
+Folds: Joewabos
+Pot size: 400
+Wins: Neho, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joewabos
+Small Blind: Joewabos, chips: 100
+Big Blind: Neho, chips: 200
+Folds: Joewabos
+Pot size: 300
+Wins: Neho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neho
+Small Blind: Neho, chips: 100
+Big Blind: Joewabos, chips: 200
+Calls: Neho
+DEBUG MESSAGE: INVALID ACTION FROM Joewabos (2 0)
+Folds: Joewabos
+Pot size: 400
+Wins: Neho, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joewabos
+Small Blind: Joewabos, chips: 100
+Big Blind: Neho, chips: 200
+Folds: Joewabos
+Pot size: 300
+Wins: Neho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neho
+Small Blind: Neho, chips: 100
+Big Blind: Joewabos, chips: 100
+Flop: Ks 8s 7d
+Turn: 3d
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Joewabos, 5s Js
+Combination: Joewabos, Flush ( Ks Js 8s 5s 3s )
+Shows: Neho, 8h 6s
+Combination: Neho, Two Pair ( 8h 8s 3d 3s Ks )
+Wins: Joewabos, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joewabos
+Small Blind: Joewabos, chips: 100
+Big Blind: Neho, chips: 200
+Folds: Joewabos
+Pot size: 300
+Wins: Neho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neho
+Small Blind: Neho, chips: 100
+Big Blind: Joewabos, chips: 100
+Flop: 9s 7s As
+Turn: 9h
+River: 8c
+Pot size: 200
+Showdown Reached
+Shows: Joewabos, 7c Qh
+Combination: Joewabos, Two Pair ( 9s 9h 7c 7s As )
+Shows: Neho, 3c 2h
+Combination: Neho, Pair ( 9s 9h As 8c 7s )
+Wins: Joewabos, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joewabos
+Small Blind: Joewabos, chips: 100
+Big Blind: Neho, chips: 200
+Folds: Joewabos
+Pot size: 300
+Wins: Neho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neho
+Small Blind: Neho, chips: 100
+Big Blind: Joewabos, chips: 100
+Flop: 3c 7c 7d
+Turn: 7h
+River: Ah
+Pot size: 200
+Showdown Reached
+Shows: Joewabos, Kh 5s
+Combination: Joewabos, Three Of A Kind ( 7c 7d 7h Ah Kh )
+Shows: Neho, Th 7s
+Combination: Neho, Four Of A Kind ( 7s 7c 7d 7h Ah )
+Wins: Neho, chips: 200
+Quits: Joewabos, chips: 0
+Ranking: Neho, Place: 1, Score: 1000
+Reveal AI: Neho, AI: Random
+Ranking: Joewabos, Place: 2, Score: -1000
+Reveal AI: Joewabos, AI: AIMyBot1
+
+Player Stats for Joewabos, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Neho, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Date: 2022/10/25 13:46:13
+
+The game begins. The AI's of the players are: 
+Joewabos: AIMyBot1
+Neho: Random
+
+Joins: Joewabos, chips: 1000
+Joins: Neho, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neho
+Small Blind: Neho, chips: 100
+Big Blind: Joewabos, chips: 200
+Raises: Neho, chips: 300
+Folds: Joewabos
+Pot size: 700
+Boasts: Neho, As 9h
+Wins: Neho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joewabos
+Small Blind: Joewabos, chips: 100
+Big Blind: Neho, chips: 200
+Folds: Joewabos
+Pot size: 300
+Boasts: Neho, Jc 9s
+Wins: Neho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neho
+Small Blind: Neho, chips: 100
+Big Blind: Joewabos, chips: 200
+Calls: Neho
+DEBUG MESSAGE: INVALID ACTION FROM Joewabos (2 0)
+Folds: Joewabos
+Pot size: 400
+Wins: Neho, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joewabos
+Small Blind: Joewabos, chips: 100
+Big Blind: Neho, chips: 200
+Folds: Joewabos
+Pot size: 300
+Wins: Neho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neho
+Small Blind: Neho, chips: 100
+Big Blind: Joewabos, chips: 200
+Calls: Neho
+DEBUG MESSAGE: INVALID ACTION FROM Joewabos (2 0)
+Folds: Joewabos
+Pot size: 400
+Wins: Neho, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joewabos
+Small Blind: Joewabos, chips: 100
+Big Blind: Neho, chips: 200
+Folds: Joewabos
+Pot size: 300
+Wins: Neho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neho
+Small Blind: Neho, chips: 100
+Big Blind: Joewabos, chips: 100
+Flop: Ks 8s 7d
+Turn: 3d
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Joewabos, 5s Js
+Combination: Joewabos, Flush ( Ks Js 8s 5s 3s )
+Shows: Neho, 8h 6s
+Combination: Neho, Two Pair ( 8h 8s 3d 3s Ks )
+Wins: Joewabos, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joewabos
+Small Blind: Joewabos, chips: 100
+Big Blind: Neho, chips: 200
+Folds: Joewabos
+Pot size: 300
+Wins: Neho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neho
+Small Blind: Neho, chips: 100
+Big Blind: Joewabos, chips: 100
+Flop: 9s 7s As
+Turn: 9h
+River: 8c
+Pot size: 200
+Showdown Reached
+Shows: Joewabos, 7c Qh
+Combination: Joewabos, Two Pair ( 9s 9h 7c 7s As )
+Shows: Neho, 3c 2h
+Combination: Neho, Pair ( 9s 9h As 8c 7s )
+Wins: Joewabos, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Joewabos
+Small Blind: Joewabos, chips: 100
+Big Blind: Neho, chips: 200
+Folds: Joewabos
+Pot size: 300
+Wins: Neho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Neho
+Small Blind: Neho, chips: 100
+Big Blind: Joewabos, chips: 100
+Flop: 3c 7c 7d
+Turn: 7h
+River: Ah
+Pot size: 200
+Showdown Reached
+Shows: Joewabos, Kh 5s
+Combination: Joewabos, Three Of A Kind ( 7c 7d 7h Ah Kh )
+Shows: Neho, Th 7s
+Combination: Neho, Four Of A Kind ( 7s 7c 7d 7h Ah )
+Wins: Neho, chips: 200
+Quits: Joewabos, chips: 0
+Ranking: Neho, Place: 1, Score: 1000
+Reveal AI: Neho, AI: Random
+Ranking: Joewabos, Place: 2, Score: -1000
+Reveal AI: Joewabos, AI: AIMyBot1
+
+Player Stats for Joewabos, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Neho, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+

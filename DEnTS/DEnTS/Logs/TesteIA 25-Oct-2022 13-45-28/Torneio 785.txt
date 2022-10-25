@@ -1,0 +1,322 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Newroe: Random
+Tipeer: AIMyBot1
+
+Joins: Newroe, chips: 1000
+Joins: Tipeer, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Newroe
+Small Blind: Newroe, chips: 100
+Big Blind: Tipeer, chips: 200
+Folds: Newroe
+Pot size: 300
+Wins: Tipeer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tipeer
+Small Blind: Tipeer, chips: 100
+Big Blind: Newroe, chips: 200
+Folds: Tipeer
+Pot size: 300
+Boasts: Newroe, 8h Tc
+Wins: Newroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Newroe
+Small Blind: Newroe, chips: 100
+Big Blind: Tipeer, chips: 200
+Folds: Newroe
+Pot size: 300
+Wins: Tipeer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tipeer
+Small Blind: Tipeer, chips: 100
+Big Blind: Newroe, chips: 200
+Folds: Tipeer
+Pot size: 300
+Boasts: Newroe, 4s Ad
+Wins: Newroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Newroe
+Small Blind: Newroe, chips: 100
+Big Blind: Tipeer, chips: 200
+Folds: Newroe
+Pot size: 300
+Wins: Tipeer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tipeer
+Small Blind: Tipeer, chips: 100
+Big Blind: Newroe, chips: 200
+Folds: Tipeer
+Pot size: 300
+Boasts: Newroe, 9h 4d
+Wins: Newroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Newroe
+Small Blind: Newroe, chips: 100
+Big Blind: Tipeer, chips: 200
+Raises: Newroe, chips: 300
+Folds: Tipeer
+Pot size: 700
+Wins: Newroe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tipeer
+Small Blind: Tipeer, chips: 100
+Big Blind: Newroe, chips: 200
+Folds: Tipeer
+Pot size: 300
+Boasts: Newroe, 5s Ad
+Wins: Newroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Newroe
+Small Blind: Newroe, chips: 100
+Big Blind: Tipeer, chips: 200
+Raises: Newroe, chips: 300
+Folds: Tipeer
+Pot size: 700
+Boasts: Newroe, Tc Jc
+Wins: Newroe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tipeer
+Small Blind: Tipeer, chips: 100
+Big Blind: Newroe, chips: 200
+Folds: Tipeer
+Pot size: 300
+Wins: Newroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Newroe
+Small Blind: Newroe, chips: 100
+Big Blind: Tipeer, chips: 200
+Raises: Newroe, chips: 300
+Folds: Tipeer
+Pot size: 700
+Boasts: Newroe, Tc Td
+Wins: Newroe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tipeer
+Small Blind: Tipeer, chips: 100
+Big Blind: Newroe, chips: 200
+Folds: Tipeer
+Pot size: 300
+Wins: Newroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Newroe
+Small Blind: Newroe, chips: 100
+Big Blind: Tipeer, chips: 100
+Flop: Kc 4c 5h
+Turn: 3c
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Newroe, 9d Jc
+Combination: Newroe, High Card ( Kc Jc 9d 5h 4c )
+Shows: Tipeer, 5c Td
+Combination: Tipeer, Pair ( 5c 5h Kc Td 4c )
+Wins: Tipeer, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tipeer
+Small Blind: Tipeer, chips: 100
+Big Blind: Newroe, chips: 200
+Folds: Tipeer
+Pot size: 300
+Wins: Newroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Newroe
+Small Blind: Newroe, chips: 100
+Big Blind: Tipeer, chips: 100
+Flop: 3h Jh Qc
+Turn: Tc
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Newroe, 4s Qh
+Combination: Newroe, Pair ( Qh Qc Jh Tc 5h )
+Shows: Tipeer, 4c Ac
+Combination: Tipeer, High Card ( Ac Qc Jh Tc 5h )
+Wins: Newroe, chips: 200
+Quits: Tipeer, chips: 0
+Ranking: Newroe, Place: 1, Score: 1000
+Reveal AI: Newroe, AI: Random
+Ranking: Tipeer, Place: 2, Score: -1000
+Reveal AI: Tipeer, AI: AIMyBot1
+
+Player Stats for Newroe, AI: Random
+General: deals: 15, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 4400, lost: 3400, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.2, 3Bet: 0.2
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Tipeer, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 4, showdown: 1, bluff: 3
+Chips: won: 1100, lost: 2100, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:21
+
+The game begins. The AI's of the players are: 
+Newroe: Random
+Tipeer: AIMyBot1
+
+Joins: Newroe, chips: 1000
+Joins: Tipeer, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Newroe
+Small Blind: Newroe, chips: 100
+Big Blind: Tipeer, chips: 200
+Folds: Newroe
+Pot size: 300
+Wins: Tipeer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tipeer
+Small Blind: Tipeer, chips: 100
+Big Blind: Newroe, chips: 200
+Folds: Tipeer
+Pot size: 300
+Boasts: Newroe, 8h Tc
+Wins: Newroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Newroe
+Small Blind: Newroe, chips: 100
+Big Blind: Tipeer, chips: 200
+Folds: Newroe
+Pot size: 300
+Wins: Tipeer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tipeer
+Small Blind: Tipeer, chips: 100
+Big Blind: Newroe, chips: 200
+Folds: Tipeer
+Pot size: 300
+Boasts: Newroe, 4s Ad
+Wins: Newroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Newroe
+Small Blind: Newroe, chips: 100
+Big Blind: Tipeer, chips: 200
+Folds: Newroe
+Pot size: 300
+Wins: Tipeer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tipeer
+Small Blind: Tipeer, chips: 100
+Big Blind: Newroe, chips: 200
+Folds: Tipeer
+Pot size: 300
+Boasts: Newroe, 9h 4d
+Wins: Newroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Newroe
+Small Blind: Newroe, chips: 100
+Big Blind: Tipeer, chips: 200
+Raises: Newroe, chips: 300
+Folds: Tipeer
+Pot size: 700
+Wins: Newroe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tipeer
+Small Blind: Tipeer, chips: 100
+Big Blind: Newroe, chips: 200
+Folds: Tipeer
+Pot size: 300
+Boasts: Newroe, 5s Ad
+Wins: Newroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Newroe
+Small Blind: Newroe, chips: 100
+Big Blind: Tipeer, chips: 200
+Raises: Newroe, chips: 300
+Folds: Tipeer
+Pot size: 700
+Boasts: Newroe, Tc Jc
+Wins: Newroe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tipeer
+Small Blind: Tipeer, chips: 100
+Big Blind: Newroe, chips: 200
+Folds: Tipeer
+Pot size: 300
+Wins: Newroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Newroe
+Small Blind: Newroe, chips: 100
+Big Blind: Tipeer, chips: 200
+Raises: Newroe, chips: 300
+Folds: Tipeer
+Pot size: 700
+Boasts: Newroe, Tc Td
+Wins: Newroe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tipeer
+Small Blind: Tipeer, chips: 100
+Big Blind: Newroe, chips: 200
+Folds: Tipeer
+Pot size: 300
+Wins: Newroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Newroe
+Small Blind: Newroe, chips: 100
+Big Blind: Tipeer, chips: 100
+Flop: Kc 4c 5h
+Turn: 3c
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Newroe, 9d Jc
+Combination: Newroe, High Card ( Kc Jc 9d 5h 4c )
+Shows: Tipeer, 5c Td
+Combination: Tipeer, Pair ( 5c 5h Kc Td 4c )
+Wins: Tipeer, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tipeer
+Small Blind: Tipeer, chips: 100
+Big Blind: Newroe, chips: 200
+Folds: Tipeer
+Pot size: 300
+Wins: Newroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Newroe
+Small Blind: Newroe, chips: 100
+Big Blind: Tipeer, chips: 100
+Flop: 3h Jh Qc
+Turn: Tc
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Newroe, 4s Qh
+Combination: Newroe, Pair ( Qh Qc Jh Tc 5h )
+Shows: Tipeer, 4c Ac
+Combination: Tipeer, High Card ( Ac Qc Jh Tc 5h )
+Wins: Newroe, chips: 200
+Quits: Tipeer, chips: 0
+Ranking: Newroe, Place: 1, Score: 1000
+Reveal AI: Newroe, AI: Random
+Ranking: Tipeer, Place: 2, Score: -1000
+Reveal AI: Tipeer, AI: AIMyBot1
+
+Player Stats for Newroe, AI: Random
+General: deals: 15, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 4400, lost: 3400, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.2, 3Bet: 0.2
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Tipeer, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 4, showdown: 1, bluff: 3
+Chips: won: 1100, lost: 2100, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

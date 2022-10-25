@@ -1,0 +1,312 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Weeboek: AIMyBot1
+Rigoek: Random
+
+Joins: Weeboek, chips: 1000
+Joins: Rigoek, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weeboek
+Small Blind: Weeboek, chips: 100
+Big Blind: Rigoek, chips: 200
+Folds: Weeboek
+Pot size: 300
+Wins: Rigoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rigoek
+Small Blind: Rigoek, chips: 100
+Big Blind: Weeboek, chips: 200
+Calls: Rigoek
+DEBUG MESSAGE: INVALID ACTION FROM Weeboek (2 0)
+Folds: Weeboek
+Pot size: 400
+Boasts: Rigoek, 4s 9h
+Wins: Rigoek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weeboek
+Small Blind: Weeboek, chips: 100
+Big Blind: Rigoek, chips: 200
+Folds: Weeboek
+Pot size: 300
+Boasts: Rigoek, Qh Td
+Wins: Rigoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rigoek
+Small Blind: Rigoek, chips: 100
+Big Blind: Weeboek, chips: 200
+Folds: Rigoek
+Pot size: 300
+Wins: Weeboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weeboek
+Small Blind: Weeboek, chips: 100
+Big Blind: Rigoek, chips: 200
+Folds: Weeboek
+Pot size: 300
+Boasts: Rigoek, 6s 4d
+Wins: Rigoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rigoek
+Small Blind: Rigoek, chips: 100
+Big Blind: Weeboek, chips: 200
+Folds: Rigoek
+Pot size: 300
+Wins: Weeboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weeboek
+Small Blind: Weeboek, chips: 100
+Big Blind: Rigoek, chips: 200
+Folds: Weeboek
+Pot size: 300
+Wins: Rigoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rigoek
+Small Blind: Rigoek, chips: 100
+Big Blind: Weeboek, chips: 200
+Folds: Rigoek
+Pot size: 300
+Wins: Weeboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weeboek
+Small Blind: Weeboek, chips: 100
+Big Blind: Rigoek, chips: 200
+Folds: Weeboek
+Pot size: 300
+Wins: Rigoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rigoek
+Small Blind: Rigoek, chips: 100
+Big Blind: Weeboek, chips: 200
+Folds: Rigoek
+Pot size: 300
+Wins: Weeboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weeboek
+Small Blind: Weeboek, chips: 100
+Big Blind: Rigoek, chips: 200
+Folds: Weeboek
+Pot size: 300
+Wins: Rigoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rigoek
+Small Blind: Rigoek, chips: 100
+Big Blind: Weeboek, chips: 200
+Calls: Rigoek
+DEBUG MESSAGE: INVALID ACTION FROM Weeboek (2 0)
+Folds: Weeboek
+Pot size: 400
+Wins: Rigoek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weeboek
+Small Blind: Weeboek, chips: 100
+Big Blind: Rigoek, chips: 200
+Folds: Weeboek
+Pot size: 300
+Boasts: Rigoek, 2c 8h
+Wins: Rigoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rigoek
+Small Blind: Rigoek, chips: 100
+Big Blind: Weeboek, chips: 200
+Calls: Rigoek
+DEBUG MESSAGE: INVALID ACTION FROM Weeboek (2 0)
+Folds: Weeboek
+Pot size: 400
+Boasts: Rigoek, 6d 3c
+Wins: Rigoek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weeboek
+Small Blind: Weeboek, chips: 100
+Big Blind: Rigoek, chips: 200
+Flop: Kh 9d 6d
+Turn: Ad
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Weeboek, Ts Ks
+Combination: Weeboek, Pair ( Ks Kh Ad Jd Ts )
+Shows: Rigoek, 3s 2d
+Combination: Rigoek, Flush ( Ad Jd 9d 6d 2d )
+Wins: Rigoek, chips: 300
+Quits: Weeboek, chips: 0
+Ranking: Rigoek, Place: 1, Score: 1000
+Reveal AI: Rigoek, AI: Random
+Ranking: Weeboek, Place: 2, Score: -1000
+Reveal AI: Weeboek, AI: AIMyBot1
+
+Player Stats for Rigoek, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Weeboek, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:37
+
+The game begins. The AI's of the players are: 
+Weeboek: AIMyBot1
+Rigoek: Random
+
+Joins: Weeboek, chips: 1000
+Joins: Rigoek, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weeboek
+Small Blind: Weeboek, chips: 100
+Big Blind: Rigoek, chips: 200
+Folds: Weeboek
+Pot size: 300
+Wins: Rigoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rigoek
+Small Blind: Rigoek, chips: 100
+Big Blind: Weeboek, chips: 200
+Calls: Rigoek
+DEBUG MESSAGE: INVALID ACTION FROM Weeboek (2 0)
+Folds: Weeboek
+Pot size: 400
+Boasts: Rigoek, 4s 9h
+Wins: Rigoek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weeboek
+Small Blind: Weeboek, chips: 100
+Big Blind: Rigoek, chips: 200
+Folds: Weeboek
+Pot size: 300
+Boasts: Rigoek, Qh Td
+Wins: Rigoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rigoek
+Small Blind: Rigoek, chips: 100
+Big Blind: Weeboek, chips: 200
+Folds: Rigoek
+Pot size: 300
+Wins: Weeboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weeboek
+Small Blind: Weeboek, chips: 100
+Big Blind: Rigoek, chips: 200
+Folds: Weeboek
+Pot size: 300
+Boasts: Rigoek, 6s 4d
+Wins: Rigoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rigoek
+Small Blind: Rigoek, chips: 100
+Big Blind: Weeboek, chips: 200
+Folds: Rigoek
+Pot size: 300
+Wins: Weeboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weeboek
+Small Blind: Weeboek, chips: 100
+Big Blind: Rigoek, chips: 200
+Folds: Weeboek
+Pot size: 300
+Wins: Rigoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rigoek
+Small Blind: Rigoek, chips: 100
+Big Blind: Weeboek, chips: 200
+Folds: Rigoek
+Pot size: 300
+Wins: Weeboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weeboek
+Small Blind: Weeboek, chips: 100
+Big Blind: Rigoek, chips: 200
+Folds: Weeboek
+Pot size: 300
+Wins: Rigoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rigoek
+Small Blind: Rigoek, chips: 100
+Big Blind: Weeboek, chips: 200
+Folds: Rigoek
+Pot size: 300
+Wins: Weeboek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weeboek
+Small Blind: Weeboek, chips: 100
+Big Blind: Rigoek, chips: 200
+Folds: Weeboek
+Pot size: 300
+Wins: Rigoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rigoek
+Small Blind: Rigoek, chips: 100
+Big Blind: Weeboek, chips: 200
+Calls: Rigoek
+DEBUG MESSAGE: INVALID ACTION FROM Weeboek (2 0)
+Folds: Weeboek
+Pot size: 400
+Wins: Rigoek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weeboek
+Small Blind: Weeboek, chips: 100
+Big Blind: Rigoek, chips: 200
+Folds: Weeboek
+Pot size: 300
+Boasts: Rigoek, 2c 8h
+Wins: Rigoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rigoek
+Small Blind: Rigoek, chips: 100
+Big Blind: Weeboek, chips: 200
+Calls: Rigoek
+DEBUG MESSAGE: INVALID ACTION FROM Weeboek (2 0)
+Folds: Weeboek
+Pot size: 400
+Boasts: Rigoek, 6d 3c
+Wins: Rigoek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weeboek
+Small Blind: Weeboek, chips: 100
+Big Blind: Rigoek, chips: 200
+Flop: Kh 9d 6d
+Turn: Ad
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Weeboek, Ts Ks
+Combination: Weeboek, Pair ( Ks Kh Ad Jd Ts )
+Shows: Rigoek, 3s 2d
+Combination: Rigoek, Flush ( Ad Jd 9d 6d 2d )
+Wins: Rigoek, chips: 300
+Quits: Weeboek, chips: 0
+Ranking: Rigoek, Place: 1, Score: 1000
+Reveal AI: Rigoek, AI: Random
+Ranking: Weeboek, Place: 2, Score: -1000
+Reveal AI: Weeboek, AI: AIMyBot1
+
+Player Stats for Rigoek, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Weeboek, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

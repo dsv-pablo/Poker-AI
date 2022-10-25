@@ -1,0 +1,194 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pugee: AIMyBot1
+Ninhonny: Random
+
+Joins: Pugee, chips: 1000
+Joins: Ninhonny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhonny
+Small Blind: Ninhonny, chips: 100
+Big Blind: Pugee, chips: 200
+Raises: Ninhonny, chips: 300
+Folds: Pugee
+Pot size: 700
+Boasts: Ninhonny, Ts 9d
+Wins: Ninhonny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pugee
+Small Blind: Pugee, chips: 100
+Big Blind: Ninhonny, chips: 200
+Folds: Pugee
+Pot size: 300
+Wins: Ninhonny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhonny
+Small Blind: Ninhonny, chips: 100
+Big Blind: Pugee, chips: 200
+Calls: Ninhonny
+DEBUG MESSAGE: INVALID ACTION FROM Pugee (2 0)
+Folds: Pugee
+Pot size: 400
+Wins: Ninhonny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pugee
+Small Blind: Pugee, chips: 100
+Big Blind: Ninhonny, chips: 200
+Folds: Pugee
+Pot size: 300
+Wins: Ninhonny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhonny
+Small Blind: Ninhonny, chips: 100
+Big Blind: Pugee, chips: 200
+Calls: Ninhonny
+DEBUG MESSAGE: INVALID ACTION FROM Pugee (2 0)
+Folds: Pugee
+Pot size: 400
+Boasts: Ninhonny, 6c 8d
+Wins: Ninhonny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pugee
+Small Blind: Pugee, chips: 100
+Big Blind: Ninhonny, chips: 200
+Folds: Pugee
+Pot size: 300
+Boasts: Ninhonny, Jd 3s
+Wins: Ninhonny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhonny
+Small Blind: Ninhonny, chips: 100
+Big Blind: Pugee, chips: 100
+Flop: 5s 3c 5c
+Turn: Js
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Pugee, Kh 3s
+Combination: Pugee, Two Pair ( 5s 5c 3s 3c Kh )
+Shows: Ninhonny, Qc 4h
+Combination: Ninhonny, Two Pair ( 5s 5c 4h 4c Qc )
+Wins: Ninhonny, chips: 200
+Quits: Pugee, chips: 0
+Ranking: Ninhonny, Place: 1, Score: 1000
+Reveal AI: Ninhonny, AI: Random
+Ranking: Pugee, Place: 2, Score: -1000
+Reveal AI: Pugee, AI: AIMyBot1
+
+Player Stats for Ninhonny, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Pugee, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:27
+
+The game begins. The AI's of the players are: 
+Pugee: AIMyBot1
+Ninhonny: Random
+
+Joins: Pugee, chips: 1000
+Joins: Ninhonny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhonny
+Small Blind: Ninhonny, chips: 100
+Big Blind: Pugee, chips: 200
+Raises: Ninhonny, chips: 300
+Folds: Pugee
+Pot size: 700
+Boasts: Ninhonny, Ts 9d
+Wins: Ninhonny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pugee
+Small Blind: Pugee, chips: 100
+Big Blind: Ninhonny, chips: 200
+Folds: Pugee
+Pot size: 300
+Wins: Ninhonny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhonny
+Small Blind: Ninhonny, chips: 100
+Big Blind: Pugee, chips: 200
+Calls: Ninhonny
+DEBUG MESSAGE: INVALID ACTION FROM Pugee (2 0)
+Folds: Pugee
+Pot size: 400
+Wins: Ninhonny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pugee
+Small Blind: Pugee, chips: 100
+Big Blind: Ninhonny, chips: 200
+Folds: Pugee
+Pot size: 300
+Wins: Ninhonny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhonny
+Small Blind: Ninhonny, chips: 100
+Big Blind: Pugee, chips: 200
+Calls: Ninhonny
+DEBUG MESSAGE: INVALID ACTION FROM Pugee (2 0)
+Folds: Pugee
+Pot size: 400
+Boasts: Ninhonny, 6c 8d
+Wins: Ninhonny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pugee
+Small Blind: Pugee, chips: 100
+Big Blind: Ninhonny, chips: 200
+Folds: Pugee
+Pot size: 300
+Boasts: Ninhonny, Jd 3s
+Wins: Ninhonny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhonny
+Small Blind: Ninhonny, chips: 100
+Big Blind: Pugee, chips: 100
+Flop: 5s 3c 5c
+Turn: Js
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Pugee, Kh 3s
+Combination: Pugee, Two Pair ( 5s 5c 3s 3c Kh )
+Shows: Ninhonny, Qc 4h
+Combination: Ninhonny, Two Pair ( 5s 5c 4h 4c Qc )
+Wins: Ninhonny, chips: 200
+Quits: Pugee, chips: 0
+Ranking: Ninhonny, Place: 1, Score: 1000
+Reveal AI: Ninhonny, AI: Random
+Ranking: Pugee, Place: 2, Score: -1000
+Reveal AI: Pugee, AI: AIMyBot1
+
+Player Stats for Ninhonny, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Pugee, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

@@ -1,0 +1,190 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Noekarlo: AIMyBot1
+Ho: Random
+
+Joins: Noekarlo, chips: 1000
+Joins: Ho, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Noekarlo, chips: 200
+Raises: Ho, chips: 300
+Folds: Noekarlo
+Pot size: 700
+Wins: Ho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noekarlo
+Small Blind: Noekarlo, chips: 100
+Big Blind: Ho, chips: 200
+Folds: Noekarlo
+Pot size: 300
+Wins: Ho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Noekarlo, chips: 200
+Raises: Ho, chips: 300
+Folds: Noekarlo
+Pot size: 700
+Wins: Ho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noekarlo
+Small Blind: Noekarlo, chips: 100
+Big Blind: Ho, chips: 200
+Folds: Noekarlo
+Pot size: 300
+Boasts: Ho, 9s 8d
+Wins: Ho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Noekarlo, chips: 200
+Raises: Ho, chips: 300
+Folds: Noekarlo
+Pot size: 700
+Boasts: Ho, Jh 7h
+Wins: Ho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noekarlo
+Small Blind: Noekarlo, chips: 100
+Big Blind: Ho, chips: 200
+Folds: Noekarlo
+Pot size: 300
+Boasts: Ho, 4c Ac
+Wins: Ho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Noekarlo, chips: 100
+Flop: Kd 6d Ks
+Turn: 9h
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Noekarlo, 2c 7c
+Combination: Noekarlo, Pair ( Kd Ks 9h 7c 6d )
+Shows: Ho, 8s Qc
+Combination: Ho, Pair ( Kd Ks Qc 9h 8s )
+Wins: Ho, chips: 200
+Quits: Noekarlo, chips: 0
+Ranking: Ho, Place: 1, Score: 1000
+Reveal AI: Ho, AI: Random
+Ranking: Noekarlo, Place: 2, Score: -1000
+Reveal AI: Noekarlo, AI: AIMyBot1
+
+Player Stats for Ho, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.428571, 3Bet: 0.428571
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Noekarlo, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:23
+
+The game begins. The AI's of the players are: 
+Noekarlo: AIMyBot1
+Ho: Random
+
+Joins: Noekarlo, chips: 1000
+Joins: Ho, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Noekarlo, chips: 200
+Raises: Ho, chips: 300
+Folds: Noekarlo
+Pot size: 700
+Wins: Ho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noekarlo
+Small Blind: Noekarlo, chips: 100
+Big Blind: Ho, chips: 200
+Folds: Noekarlo
+Pot size: 300
+Wins: Ho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Noekarlo, chips: 200
+Raises: Ho, chips: 300
+Folds: Noekarlo
+Pot size: 700
+Wins: Ho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noekarlo
+Small Blind: Noekarlo, chips: 100
+Big Blind: Ho, chips: 200
+Folds: Noekarlo
+Pot size: 300
+Boasts: Ho, 9s 8d
+Wins: Ho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Noekarlo, chips: 200
+Raises: Ho, chips: 300
+Folds: Noekarlo
+Pot size: 700
+Boasts: Ho, Jh 7h
+Wins: Ho, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noekarlo
+Small Blind: Noekarlo, chips: 100
+Big Blind: Ho, chips: 200
+Folds: Noekarlo
+Pot size: 300
+Boasts: Ho, 4c Ac
+Wins: Ho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ho
+Small Blind: Ho, chips: 100
+Big Blind: Noekarlo, chips: 100
+Flop: Kd 6d Ks
+Turn: 9h
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Noekarlo, 2c 7c
+Combination: Noekarlo, Pair ( Kd Ks 9h 7c 6d )
+Shows: Ho, 8s Qc
+Combination: Ho, Pair ( Kd Ks Qc 9h 8s )
+Wins: Ho, chips: 200
+Quits: Noekarlo, chips: 0
+Ranking: Ho, Place: 1, Score: 1000
+Reveal AI: Ho, AI: Random
+Ranking: Noekarlo, Place: 2, Score: -1000
+Reveal AI: Noekarlo, AI: AIMyBot1
+
+Player Stats for Ho, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.428571, 3Bet: 0.428571
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Noekarlo, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

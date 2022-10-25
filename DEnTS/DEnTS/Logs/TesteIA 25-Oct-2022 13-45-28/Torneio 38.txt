@@ -1,0 +1,368 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pemofeenny: AIMyBot1
+Fee: Random
+
+Joins: Pemofeenny, chips: 1000
+Joins: Fee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 200
+Folds: Fee
+Pot size: 300
+Boasts: Fee, 7d Kc
+Wins: Pemofeenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pemofeenny
+Small Blind: Pemofeenny, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Pemofeenny
+Pot size: 300
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 200
+Folds: Fee
+Pot size: 300
+Wins: Pemofeenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pemofeenny
+Small Blind: Pemofeenny, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Pemofeenny
+Pot size: 300
+Boasts: Fee, 2c 9c
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 200
+Raises: Fee, chips: 300
+Folds: Pemofeenny
+Pot size: 700
+Boasts: Fee, 4c 6d
+Wins: Fee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pemofeenny
+Small Blind: Pemofeenny, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Pemofeenny
+Pot size: 300
+Boasts: Fee, Kh 8d
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 200
+Raises: Fee, chips: 300
+Folds: Pemofeenny
+Pot size: 700
+Wins: Fee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pemofeenny
+Small Blind: Pemofeenny, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Pemofeenny
+Pot size: 300
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 200
+Folds: Fee
+Pot size: 300
+Boasts: Fee, 8h Ts
+Wins: Pemofeenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pemofeenny
+Small Blind: Pemofeenny, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Pemofeenny
+Pot size: 300
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 200
+Calls: Fee
+DEBUG MESSAGE: INVALID ACTION FROM Pemofeenny (2 0)
+Folds: Pemofeenny
+Pot size: 400
+Wins: Fee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pemofeenny
+Small Blind: Pemofeenny, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Pemofeenny
+Pot size: 300
+Boasts: Fee, 3c 8s
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 100
+Flop: 2h 4s 3s
+Turn: Qd
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Pemofeenny, Qh 2d
+Combination: Pemofeenny, Two Pair ( Qh Qd 3s 3c 4s )
+Shows: Fee, 7c 4c
+Combination: Fee, Two Pair ( 4c 4s 3s 3c Qd )
+Wins: Pemofeenny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pemofeenny
+Small Blind: Pemofeenny, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Pemofeenny
+Pot size: 300
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 100
+Flop: 4h 6c 6d
+Turn: Qd
+River: 6h
+Pot size: 200
+Showdown Reached
+Shows: Pemofeenny, Kh Ah
+Combination: Pemofeenny, Three Of A Kind ( 6c 6d 6h Ah Kh )
+Shows: Fee, 2s 8h
+Combination: Fee, Three Of A Kind ( 6c 6d 6h Qd 8h )
+Wins: Pemofeenny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pemofeenny
+Small Blind: Pemofeenny, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Pemofeenny
+Pot size: 300
+Boasts: Fee, 2h 9h
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 100
+Flop: 7s Tc Jc
+Turn: Qs
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Pemofeenny, 3d Qd
+Combination: Pemofeenny, Pair ( Qd Qs Jc Tc 8h )
+Shows: Fee, Th 8c
+Combination: Fee, Two Pair ( Th Tc 8c 8h Qs )
+Wins: Fee, chips: 200
+Quits: Pemofeenny, chips: 0
+Ranking: Fee, Place: 1, Score: 1000
+Reveal AI: Fee, AI: Random
+Ranking: Pemofeenny, Place: 2, Score: -1000
+Reveal AI: Pemofeenny, AI: AIMyBot1
+
+Player Stats for Fee, AI: Random
+General: deals: 17, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4400, lost: 3400, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Pemofeenny, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1300, lost: 2300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:32
+
+The game begins. The AI's of the players are: 
+Pemofeenny: AIMyBot1
+Fee: Random
+
+Joins: Pemofeenny, chips: 1000
+Joins: Fee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 200
+Folds: Fee
+Pot size: 300
+Boasts: Fee, 7d Kc
+Wins: Pemofeenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pemofeenny
+Small Blind: Pemofeenny, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Pemofeenny
+Pot size: 300
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 200
+Folds: Fee
+Pot size: 300
+Wins: Pemofeenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pemofeenny
+Small Blind: Pemofeenny, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Pemofeenny
+Pot size: 300
+Boasts: Fee, 2c 9c
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 200
+Raises: Fee, chips: 300
+Folds: Pemofeenny
+Pot size: 700
+Boasts: Fee, 4c 6d
+Wins: Fee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pemofeenny
+Small Blind: Pemofeenny, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Pemofeenny
+Pot size: 300
+Boasts: Fee, Kh 8d
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 200
+Raises: Fee, chips: 300
+Folds: Pemofeenny
+Pot size: 700
+Wins: Fee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pemofeenny
+Small Blind: Pemofeenny, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Pemofeenny
+Pot size: 300
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 200
+Folds: Fee
+Pot size: 300
+Boasts: Fee, 8h Ts
+Wins: Pemofeenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pemofeenny
+Small Blind: Pemofeenny, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Pemofeenny
+Pot size: 300
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 200
+Calls: Fee
+DEBUG MESSAGE: INVALID ACTION FROM Pemofeenny (2 0)
+Folds: Pemofeenny
+Pot size: 400
+Wins: Fee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pemofeenny
+Small Blind: Pemofeenny, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Pemofeenny
+Pot size: 300
+Boasts: Fee, 3c 8s
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 100
+Flop: 2h 4s 3s
+Turn: Qd
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Pemofeenny, Qh 2d
+Combination: Pemofeenny, Two Pair ( Qh Qd 3s 3c 4s )
+Shows: Fee, 7c 4c
+Combination: Fee, Two Pair ( 4c 4s 3s 3c Qd )
+Wins: Pemofeenny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pemofeenny
+Small Blind: Pemofeenny, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Pemofeenny
+Pot size: 300
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 100
+Flop: 4h 6c 6d
+Turn: Qd
+River: 6h
+Pot size: 200
+Showdown Reached
+Shows: Pemofeenny, Kh Ah
+Combination: Pemofeenny, Three Of A Kind ( 6c 6d 6h Ah Kh )
+Shows: Fee, 2s 8h
+Combination: Fee, Three Of A Kind ( 6c 6d 6h Qd 8h )
+Wins: Pemofeenny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pemofeenny
+Small Blind: Pemofeenny, chips: 100
+Big Blind: Fee, chips: 200
+Folds: Pemofeenny
+Pot size: 300
+Boasts: Fee, 2h 9h
+Wins: Fee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fee
+Small Blind: Fee, chips: 100
+Big Blind: Pemofeenny, chips: 100
+Flop: 7s Tc Jc
+Turn: Qs
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Pemofeenny, 3d Qd
+Combination: Pemofeenny, Pair ( Qd Qs Jc Tc 8h )
+Shows: Fee, Th 8c
+Combination: Fee, Two Pair ( Th Tc 8c 8h Qs )
+Wins: Fee, chips: 200
+Quits: Pemofeenny, chips: 0
+Ranking: Fee, Place: 1, Score: 1000
+Reveal AI: Fee, AI: Random
+Ranking: Pemofeenny, Place: 2, Score: -1000
+Reveal AI: Pemofeenny, AI: AIMyBot1
+
+Player Stats for Fee, AI: Random
+General: deals: 17, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4400, lost: 3400, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Pemofeenny, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1300, lost: 2300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

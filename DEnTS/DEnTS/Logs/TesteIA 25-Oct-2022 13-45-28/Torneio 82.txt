@@ -1,0 +1,410 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Memefem: AIMyBot1
+Megilor: Random
+
+Joins: Memefem, chips: 1000
+Joins: Megilor, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 200
+Calls: Megilor
+DEBUG MESSAGE: INVALID ACTION FROM Memefem (2 0)
+Folds: Memefem
+Pot size: 400
+Boasts: Megilor, Qc 5c
+Wins: Megilor, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 200
+Folds: Megilor
+Pot size: 300
+Boasts: Megilor, 8c Ad
+Wins: Memefem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 200
+Folds: Megilor
+Pot size: 300
+Wins: Memefem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 200
+Folds: Megilor
+Pot size: 300
+Boasts: Megilor, 9d As
+Wins: Memefem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 200
+Calls: Megilor
+DEBUG MESSAGE: INVALID ACTION FROM Memefem (2 0)
+Folds: Memefem
+Pot size: 400
+Boasts: Megilor, Ad 8d
+Wins: Megilor, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Boasts: Megilor, Ac 7d
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 200
+Raises: Megilor, chips: 300
+Calls: Memefem
+Flop: Th 6d Jd
+Turn: 2d
+River: 7c
+Pot size: 900
+Showdown Reached
+Shows: Memefem, Qc Js
+Combination: Memefem, Pair ( Js Jd Qc Th 7c )
+Shows: Megilor, 2s 3d
+Combination: Megilor, Pair ( 2s 2d Jd Th 7c )
+Wins: Memefem, chips: 800
+Wins: Megilor, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 200
+Calls: Megilor
+DEBUG MESSAGE: INVALID ACTION FROM Memefem (2 0)
+Folds: Memefem
+Pot size: 400
+Wins: Megilor, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 200
+Raises: Megilor, chips: 300
+Folds: Memefem
+Pot size: 700
+Boasts: Megilor, 5c Th
+Wins: Megilor, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Boasts: Megilor, Kd 6s
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 100
+Flop: Jh 4c 9d
+Turn: 2h
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Memefem, 6h 4d
+Combination: Memefem, Three Of A Kind ( 4d 4c 4h Jh 9d )
+Shows: Megilor, Th 7d
+Combination: Megilor, Pair ( 4c 4h Jh Th 9d )
+Wins: Memefem, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Boasts: Megilor, 6s 7h
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 100
+Flop: 5c Jc 5h
+Turn: Th
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Memefem, 4d 6c
+Combination: Memefem, Two Pair ( Jc Jd 5c 5h Th )
+Shows: Megilor, Ks 5s
+Combination: Megilor, Full House ( 5s 5c 5h Jc Jd )
+Wins: Megilor, chips: 200
+Quits: Memefem, chips: 0
+Ranking: Megilor, Place: 1, Score: 1000
+Reveal AI: Megilor, AI: Random
+Ranking: Memefem, Place: 2, Score: -1000
+Reveal AI: Memefem, AI: AIMyBot1
+
+Player Stats for Megilor, AI: Random
+General: deals: 19, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 15, showdown: 2, bluff: 13
+Chips: won: 4900, lost: 3900, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.263158, PFR: 0.105263, 3Bet: 0.105263
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Memefem, AI: AIMyBot1
+General: deals: 19, actions: 14, preflop actions: 14
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1900, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.0526316, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:35
+
+The game begins. The AI's of the players are: 
+Memefem: AIMyBot1
+Megilor: Random
+
+Joins: Memefem, chips: 1000
+Joins: Megilor, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 200
+Calls: Megilor
+DEBUG MESSAGE: INVALID ACTION FROM Memefem (2 0)
+Folds: Memefem
+Pot size: 400
+Boasts: Megilor, Qc 5c
+Wins: Megilor, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 200
+Folds: Megilor
+Pot size: 300
+Boasts: Megilor, 8c Ad
+Wins: Memefem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 200
+Folds: Megilor
+Pot size: 300
+Wins: Memefem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 200
+Folds: Megilor
+Pot size: 300
+Boasts: Megilor, 9d As
+Wins: Memefem, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 200
+Calls: Megilor
+DEBUG MESSAGE: INVALID ACTION FROM Memefem (2 0)
+Folds: Memefem
+Pot size: 400
+Boasts: Megilor, Ad 8d
+Wins: Megilor, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Boasts: Megilor, Ac 7d
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 200
+Raises: Megilor, chips: 300
+Calls: Memefem
+Flop: Th 6d Jd
+Turn: 2d
+River: 7c
+Pot size: 900
+Showdown Reached
+Shows: Memefem, Qc Js
+Combination: Memefem, Pair ( Js Jd Qc Th 7c )
+Shows: Megilor, 2s 3d
+Combination: Megilor, Pair ( 2s 2d Jd Th 7c )
+Wins: Memefem, chips: 800
+Wins: Megilor, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 200
+Calls: Megilor
+DEBUG MESSAGE: INVALID ACTION FROM Memefem (2 0)
+Folds: Memefem
+Pot size: 400
+Wins: Megilor, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 200
+Raises: Megilor, chips: 300
+Folds: Memefem
+Pot size: 700
+Boasts: Megilor, 5c Th
+Wins: Megilor, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Boasts: Megilor, Kd 6s
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 100
+Flop: Jh 4c 9d
+Turn: 2h
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Memefem, 6h 4d
+Combination: Memefem, Three Of A Kind ( 4d 4c 4h Jh 9d )
+Shows: Megilor, Th 7d
+Combination: Megilor, Pair ( 4c 4h Jh Th 9d )
+Wins: Memefem, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Memefem
+Small Blind: Memefem, chips: 100
+Big Blind: Megilor, chips: 200
+Folds: Memefem
+Pot size: 300
+Boasts: Megilor, 6s 7h
+Wins: Megilor, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Megilor
+Small Blind: Megilor, chips: 100
+Big Blind: Memefem, chips: 100
+Flop: 5c Jc 5h
+Turn: Th
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Memefem, 4d 6c
+Combination: Memefem, Two Pair ( Jc Jd 5c 5h Th )
+Shows: Megilor, Ks 5s
+Combination: Megilor, Full House ( 5s 5c 5h Jc Jd )
+Wins: Megilor, chips: 200
+Quits: Memefem, chips: 0
+Ranking: Megilor, Place: 1, Score: 1000
+Reveal AI: Megilor, AI: Random
+Ranking: Memefem, Place: 2, Score: -1000
+Reveal AI: Memefem, AI: AIMyBot1
+
+Player Stats for Megilor, AI: Random
+General: deals: 19, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 15, showdown: 2, bluff: 13
+Chips: won: 4900, lost: 3900, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.263158, PFR: 0.105263, 3Bet: 0.105263
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Memefem, AI: AIMyBot1
+General: deals: 19, actions: 14, preflop actions: 14
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 5, showdown: 2, bluff: 3
+Chips: won: 1900, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.0526316, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

@@ -1,0 +1,436 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Tepil: AIMyBot1
+Chettum: Random
+
+Joins: Tepil, chips: 1000
+Joins: Chettum, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Folds: Tepil
+Pot size: 300
+Boasts: Chettum, Td Ad
+Wins: Chettum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 200
+Folds: Chettum
+Pot size: 300
+Boasts: Chettum, 3h 5c
+Wins: Tepil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Folds: Tepil
+Pot size: 300
+Wins: Chettum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 200
+Folds: Chettum
+Pot size: 300
+Boasts: Chettum, 6s 3s
+Wins: Tepil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Folds: Tepil
+Pot size: 300
+Boasts: Chettum, 8h 6s
+Wins: Chettum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 200
+Calls: Chettum
+DEBUG MESSAGE: INVALID ACTION FROM Tepil (2 0)
+Folds: Tepil
+Pot size: 400
+Wins: Chettum, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Folds: Tepil
+Pot size: 300
+Boasts: Chettum, Ks 3c
+Wins: Chettum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 200
+Calls: Chettum
+DEBUG MESSAGE: INVALID ACTION FROM Tepil (2 0)
+Folds: Tepil
+Pot size: 400
+Boasts: Chettum, 4d Jc
+Wins: Chettum, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Folds: Tepil
+Pot size: 300
+Wins: Chettum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 200
+Calls: Chettum
+DEBUG MESSAGE: INVALID ACTION FROM Tepil (2 0)
+Folds: Tepil
+Pot size: 400
+Wins: Chettum, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Flop: 7s Ad As
+Turn: 5h
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Tepil, 3h Ah
+Combination: Tepil, Three Of A Kind ( Ah Ad As 9h 7s )
+Shows: Chettum, Qd 6s
+Combination: Chettum, Pair ( Ad As Qd 9h 7s )
+Wins: Tepil, chips: 200
+Wins: Chettum, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 200
+Flop: 8d As Qd
+Turn: 4d
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Tepil, Th 9c
+Combination: Tepil, High Card ( As Qd Th 9c 8d )
+Shows: Chettum, Td Qc
+Combination: Chettum, Pair ( Qc Qd As Td 8d )
+Wins: Tepil, chips: 100
+Wins: Chettum, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Flop: Jd Ac 6s
+Turn: Js
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Tepil, Td 8c
+Combination: Tepil, Two Pair ( Jd Js 6s 6d Ac )
+Shows: Chettum, Kc 3c
+Combination: Chettum, Two Pair ( Jd Js 6s 6d Ac )
+Wins: Tepil, chips: 100
+Wins: Chettum, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 100
+Flop: 8c 7d 5h
+Turn: 6h
+River: Qs
+Pot size: 200
+Showdown Reached
+Shows: Tepil, 6s 8s
+Combination: Tepil, Two Pair ( 8s 8c 6s 6h Qs )
+Shows: Chettum, Qd 3d
+Combination: Chettum, Pair ( Qd Qs 8c 7d 6h )
+Wins: Tepil, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Folds: Tepil
+Pot size: 300
+Boasts: Chettum, Kh 7d
+Wins: Chettum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 100
+Flop: Th 9s 6s
+Turn: 2h
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Tepil, 5d 5s
+Combination: Tepil, Two Pair ( 5d 5s 2h 2d Th )
+Shows: Chettum, Jc 4h
+Combination: Chettum, Pair ( 2h 2d Jc Th 9s )
+Wins: Tepil, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Folds: Tepil
+Pot size: 300
+Boasts: Chettum, 3d Qh
+Wins: Chettum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 100
+Flop: Tc As Kd
+Turn: 6h
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Tepil, 6c 3d
+Combination: Tepil, Two Pair ( Tc Ts 6c 6h As )
+Shows: Chettum, Ah 3h
+Combination: Chettum, Two Pair ( Ah As Tc Ts Kd )
+Wins: Chettum, chips: 200
+Quits: Tepil, chips: 0
+Ranking: Chettum, Place: 1, Score: 1000
+Reveal AI: Chettum, AI: Random
+Ranking: Tepil, Place: 2, Score: -1000
+Reveal AI: Tepil, AI: AIMyBot1
+
+Player Stats for Chettum, AI: Random
+General: deals: 18, actions: 5, preflop actions: 5
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 14, showdown: 4, bluff: 10
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Tepil, AI: AIMyBot1
+General: deals: 18, actions: 10, preflop actions: 10
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 7, showdown: 5, bluff: 2
+Chips: won: 1400, lost: 2400, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:46:20
+
+The game begins. The AI's of the players are: 
+Tepil: AIMyBot1
+Chettum: Random
+
+Joins: Tepil, chips: 1000
+Joins: Chettum, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Folds: Tepil
+Pot size: 300
+Boasts: Chettum, Td Ad
+Wins: Chettum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 200
+Folds: Chettum
+Pot size: 300
+Boasts: Chettum, 3h 5c
+Wins: Tepil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Folds: Tepil
+Pot size: 300
+Wins: Chettum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 200
+Folds: Chettum
+Pot size: 300
+Boasts: Chettum, 6s 3s
+Wins: Tepil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Folds: Tepil
+Pot size: 300
+Boasts: Chettum, 8h 6s
+Wins: Chettum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 200
+Calls: Chettum
+DEBUG MESSAGE: INVALID ACTION FROM Tepil (2 0)
+Folds: Tepil
+Pot size: 400
+Wins: Chettum, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Folds: Tepil
+Pot size: 300
+Boasts: Chettum, Ks 3c
+Wins: Chettum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 200
+Calls: Chettum
+DEBUG MESSAGE: INVALID ACTION FROM Tepil (2 0)
+Folds: Tepil
+Pot size: 400
+Boasts: Chettum, 4d Jc
+Wins: Chettum, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Folds: Tepil
+Pot size: 300
+Wins: Chettum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 200
+Calls: Chettum
+DEBUG MESSAGE: INVALID ACTION FROM Tepil (2 0)
+Folds: Tepil
+Pot size: 400
+Wins: Chettum, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Flop: 7s Ad As
+Turn: 5h
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Tepil, 3h Ah
+Combination: Tepil, Three Of A Kind ( Ah Ad As 9h 7s )
+Shows: Chettum, Qd 6s
+Combination: Chettum, Pair ( Ad As Qd 9h 7s )
+Wins: Tepil, chips: 200
+Wins: Chettum, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 200
+Flop: 8d As Qd
+Turn: 4d
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Tepil, Th 9c
+Combination: Tepil, High Card ( As Qd Th 9c 8d )
+Shows: Chettum, Td Qc
+Combination: Chettum, Pair ( Qc Qd As Td 8d )
+Wins: Tepil, chips: 100
+Wins: Chettum, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Flop: Jd Ac 6s
+Turn: Js
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Tepil, Td 8c
+Combination: Tepil, Two Pair ( Jd Js 6s 6d Ac )
+Shows: Chettum, Kc 3c
+Combination: Chettum, Two Pair ( Jd Js 6s 6d Ac )
+Wins: Tepil, chips: 100
+Wins: Chettum, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 100
+Flop: 8c 7d 5h
+Turn: 6h
+River: Qs
+Pot size: 200
+Showdown Reached
+Shows: Tepil, 6s 8s
+Combination: Tepil, Two Pair ( 8s 8c 6s 6h Qs )
+Shows: Chettum, Qd 3d
+Combination: Chettum, Pair ( Qd Qs 8c 7d 6h )
+Wins: Tepil, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Folds: Tepil
+Pot size: 300
+Boasts: Chettum, Kh 7d
+Wins: Chettum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 100
+Flop: Th 9s 6s
+Turn: 2h
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Tepil, 5d 5s
+Combination: Tepil, Two Pair ( 5d 5s 2h 2d Th )
+Shows: Chettum, Jc 4h
+Combination: Chettum, Pair ( 2h 2d Jc Th 9s )
+Wins: Tepil, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tepil
+Small Blind: Tepil, chips: 100
+Big Blind: Chettum, chips: 200
+Folds: Tepil
+Pot size: 300
+Boasts: Chettum, 3d Qh
+Wins: Chettum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chettum
+Small Blind: Chettum, chips: 100
+Big Blind: Tepil, chips: 100
+Flop: Tc As Kd
+Turn: 6h
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Tepil, 6c 3d
+Combination: Tepil, Two Pair ( Tc Ts 6c 6h As )
+Shows: Chettum, Ah 3h
+Combination: Chettum, Two Pair ( Ah As Tc Ts Kd )
+Wins: Chettum, chips: 200
+Quits: Tepil, chips: 0
+Ranking: Chettum, Place: 1, Score: 1000
+Reveal AI: Chettum, AI: Random
+Ranking: Tepil, Place: 2, Score: -1000
+Reveal AI: Tepil, AI: AIMyBot1
+
+Player Stats for Chettum, AI: Random
+General: deals: 18, actions: 5, preflop actions: 5
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 14, showdown: 4, bluff: 10
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Tepil, AI: AIMyBot1
+General: deals: 18, actions: 10, preflop actions: 10
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 7, showdown: 5, bluff: 2
+Chips: won: 1400, lost: 2400, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

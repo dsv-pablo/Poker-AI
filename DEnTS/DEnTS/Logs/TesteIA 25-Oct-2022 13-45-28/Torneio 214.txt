@@ -1,0 +1,314 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Kuhinhe: Random
+Laree: AIMyBot1
+
+Joins: Kuhinhe, chips: 1000
+Joins: Laree, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Laree
+Small Blind: Laree, chips: 100
+Big Blind: Kuhinhe, chips: 200
+Folds: Laree
+Pot size: 300
+Boasts: Kuhinhe, 9s Qs
+Wins: Kuhinhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuhinhe
+Small Blind: Kuhinhe, chips: 100
+Big Blind: Laree, chips: 200
+Folds: Kuhinhe
+Pot size: 300
+Wins: Laree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Laree
+Small Blind: Laree, chips: 100
+Big Blind: Kuhinhe, chips: 200
+Folds: Laree
+Pot size: 300
+Wins: Kuhinhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuhinhe
+Small Blind: Kuhinhe, chips: 100
+Big Blind: Laree, chips: 200
+Raises: Kuhinhe, chips: 300
+Folds: Laree
+Pot size: 700
+Boasts: Kuhinhe, Qc 4h
+Wins: Kuhinhe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Laree
+Small Blind: Laree, chips: 100
+Big Blind: Kuhinhe, chips: 200
+Folds: Laree
+Pot size: 300
+Boasts: Kuhinhe, Ks 3s
+Wins: Kuhinhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuhinhe
+Small Blind: Kuhinhe, chips: 100
+Big Blind: Laree, chips: 200
+Folds: Kuhinhe
+Pot size: 300
+Wins: Laree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Laree
+Small Blind: Laree, chips: 100
+Big Blind: Kuhinhe, chips: 200
+Folds: Laree
+Pot size: 300
+Wins: Kuhinhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuhinhe
+Small Blind: Kuhinhe, chips: 100
+Big Blind: Laree, chips: 200
+Folds: Kuhinhe
+Pot size: 300
+Boasts: Kuhinhe, 9c Td
+Wins: Laree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Laree
+Small Blind: Laree, chips: 100
+Big Blind: Kuhinhe, chips: 200
+Folds: Laree
+Pot size: 300
+Boasts: Kuhinhe, Jc 9c
+Wins: Kuhinhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuhinhe
+Small Blind: Kuhinhe, chips: 100
+Big Blind: Laree, chips: 200
+Calls: Kuhinhe
+DEBUG MESSAGE: INVALID ACTION FROM Laree (2 0)
+Folds: Laree
+Pot size: 400
+Wins: Kuhinhe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Laree
+Small Blind: Laree, chips: 100
+Big Blind: Kuhinhe, chips: 200
+Folds: Laree
+Pot size: 300
+Boasts: Kuhinhe, 5d 3c
+Wins: Kuhinhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuhinhe
+Small Blind: Kuhinhe, chips: 100
+Big Blind: Laree, chips: 200
+Folds: Kuhinhe
+Pot size: 300
+Boasts: Kuhinhe, Jc Qc
+Wins: Laree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Laree
+Small Blind: Laree, chips: 100
+Big Blind: Kuhinhe, chips: 200
+Folds: Laree
+Pot size: 300
+Boasts: Kuhinhe, 5d 8h
+Wins: Kuhinhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuhinhe
+Small Blind: Kuhinhe, chips: 100
+Big Blind: Laree, chips: 200
+Raises: Kuhinhe, chips: 300
+Folds: Laree
+Pot size: 700
+Wins: Kuhinhe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Laree
+Small Blind: Laree, chips: 100
+Big Blind: Kuhinhe, chips: 200
+Flop: Js 9d Ad
+Turn: 6c
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Kuhinhe, Th 9s
+Combination: Kuhinhe, Pair ( 9s 9d Ad Js Th )
+Shows: Laree, Qs 3s
+Combination: Laree, High Card ( Ad Qs Js 9d 8h )
+Wins: Kuhinhe, chips: 300
+Quits: Laree, chips: 0
+Ranking: Kuhinhe, Place: 1, Score: 1000
+Reveal AI: Kuhinhe, AI: Random
+Ranking: Laree, Place: 2, Score: -1000
+Reveal AI: Laree, AI: AIMyBot1
+
+Player Stats for Kuhinhe, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Laree, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:43
+
+The game begins. The AI's of the players are: 
+Kuhinhe: Random
+Laree: AIMyBot1
+
+Joins: Kuhinhe, chips: 1000
+Joins: Laree, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Laree
+Small Blind: Laree, chips: 100
+Big Blind: Kuhinhe, chips: 200
+Folds: Laree
+Pot size: 300
+Boasts: Kuhinhe, 9s Qs
+Wins: Kuhinhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuhinhe
+Small Blind: Kuhinhe, chips: 100
+Big Blind: Laree, chips: 200
+Folds: Kuhinhe
+Pot size: 300
+Wins: Laree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Laree
+Small Blind: Laree, chips: 100
+Big Blind: Kuhinhe, chips: 200
+Folds: Laree
+Pot size: 300
+Wins: Kuhinhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuhinhe
+Small Blind: Kuhinhe, chips: 100
+Big Blind: Laree, chips: 200
+Raises: Kuhinhe, chips: 300
+Folds: Laree
+Pot size: 700
+Boasts: Kuhinhe, Qc 4h
+Wins: Kuhinhe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Laree
+Small Blind: Laree, chips: 100
+Big Blind: Kuhinhe, chips: 200
+Folds: Laree
+Pot size: 300
+Boasts: Kuhinhe, Ks 3s
+Wins: Kuhinhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuhinhe
+Small Blind: Kuhinhe, chips: 100
+Big Blind: Laree, chips: 200
+Folds: Kuhinhe
+Pot size: 300
+Wins: Laree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Laree
+Small Blind: Laree, chips: 100
+Big Blind: Kuhinhe, chips: 200
+Folds: Laree
+Pot size: 300
+Wins: Kuhinhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuhinhe
+Small Blind: Kuhinhe, chips: 100
+Big Blind: Laree, chips: 200
+Folds: Kuhinhe
+Pot size: 300
+Boasts: Kuhinhe, 9c Td
+Wins: Laree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Laree
+Small Blind: Laree, chips: 100
+Big Blind: Kuhinhe, chips: 200
+Folds: Laree
+Pot size: 300
+Boasts: Kuhinhe, Jc 9c
+Wins: Kuhinhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuhinhe
+Small Blind: Kuhinhe, chips: 100
+Big Blind: Laree, chips: 200
+Calls: Kuhinhe
+DEBUG MESSAGE: INVALID ACTION FROM Laree (2 0)
+Folds: Laree
+Pot size: 400
+Wins: Kuhinhe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Laree
+Small Blind: Laree, chips: 100
+Big Blind: Kuhinhe, chips: 200
+Folds: Laree
+Pot size: 300
+Boasts: Kuhinhe, 5d 3c
+Wins: Kuhinhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuhinhe
+Small Blind: Kuhinhe, chips: 100
+Big Blind: Laree, chips: 200
+Folds: Kuhinhe
+Pot size: 300
+Boasts: Kuhinhe, Jc Qc
+Wins: Laree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Laree
+Small Blind: Laree, chips: 100
+Big Blind: Kuhinhe, chips: 200
+Folds: Laree
+Pot size: 300
+Boasts: Kuhinhe, 5d 8h
+Wins: Kuhinhe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuhinhe
+Small Blind: Kuhinhe, chips: 100
+Big Blind: Laree, chips: 200
+Raises: Kuhinhe, chips: 300
+Folds: Laree
+Pot size: 700
+Wins: Kuhinhe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Laree
+Small Blind: Laree, chips: 100
+Big Blind: Kuhinhe, chips: 200
+Flop: Js 9d Ad
+Turn: 6c
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Kuhinhe, Th 9s
+Combination: Kuhinhe, Pair ( 9s 9d Ad Js Th )
+Shows: Laree, Qs 3s
+Combination: Laree, High Card ( Ad Qs Js 9d 8h )
+Wins: Kuhinhe, chips: 300
+Quits: Laree, chips: 0
+Ranking: Kuhinhe, Place: 1, Score: 1000
+Reveal AI: Kuhinhe, AI: Random
+Ranking: Laree, Place: 2, Score: -1000
+Reveal AI: Laree, AI: AIMyBot1
+
+Player Stats for Kuhinhe, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Laree, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

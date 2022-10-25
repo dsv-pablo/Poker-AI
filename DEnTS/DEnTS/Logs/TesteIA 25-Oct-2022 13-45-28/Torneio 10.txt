@@ -1,0 +1,348 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Weches: AIMyBot1
+Wowroemee: Random
+
+Joins: Weches, chips: 1000
+Joins: Wowroemee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weches
+Small Blind: Weches, chips: 100
+Big Blind: Wowroemee, chips: 200
+Folds: Weches
+Pot size: 300
+Boasts: Wowroemee, 4h 4d
+Wins: Wowroemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wowroemee
+Small Blind: Wowroemee, chips: 100
+Big Blind: Weches, chips: 200
+Calls: Wowroemee
+DEBUG MESSAGE: INVALID ACTION FROM Weches (2 0)
+Folds: Weches
+Pot size: 400
+Boasts: Wowroemee, 9h Kc
+Wins: Wowroemee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weches
+Small Blind: Weches, chips: 100
+Big Blind: Wowroemee, chips: 200
+Folds: Weches
+Pot size: 300
+Wins: Wowroemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wowroemee
+Small Blind: Wowroemee, chips: 100
+Big Blind: Weches, chips: 200
+Raises: Wowroemee, chips: 300
+Folds: Weches
+Pot size: 700
+Wins: Wowroemee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weches
+Small Blind: Weches, chips: 100
+Big Blind: Wowroemee, chips: 200
+Folds: Weches
+Pot size: 300
+Boasts: Wowroemee, 8h 8c
+Wins: Wowroemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wowroemee
+Small Blind: Wowroemee, chips: 100
+Big Blind: Weches, chips: 200
+Folds: Wowroemee
+Pot size: 300
+Boasts: Wowroemee, Td 8h
+Wins: Weches, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weches
+Small Blind: Weches, chips: 100
+Big Blind: Wowroemee, chips: 200
+Folds: Weches
+Pot size: 300
+Boasts: Wowroemee, Kc 9d
+Wins: Wowroemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wowroemee
+Small Blind: Wowroemee, chips: 100
+Big Blind: Weches, chips: 200
+Calls: Wowroemee
+DEBUG MESSAGE: INVALID ACTION FROM Weches (2 0)
+Folds: Weches
+Pot size: 400
+Boasts: Wowroemee, 4s 5h
+Wins: Wowroemee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weches
+Small Blind: Weches, chips: 100
+Big Blind: Wowroemee, chips: 200
+Flop: Td 8c 9d
+Turn: 5s
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Weches, Kd 6s
+Combination: Weches, Pair ( 6s 6c Kd Td 9d )
+Shows: Wowroemee, Qs 4d
+Combination: Wowroemee, High Card ( Qs Td 9d 8c 6c )
+Wins: Weches, chips: 200
+Wins: Wowroemee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wowroemee
+Small Blind: Wowroemee, chips: 100
+Big Blind: Weches, chips: 200
+Flop: 9c Ks 7h
+Turn: 3s
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Weches, Tc 2h
+Combination: Weches, High Card ( Ks Jc Tc 9c 7h )
+Shows: Wowroemee, Th Jh
+Combination: Wowroemee, Pair ( Jh Jc Ks Th 9c )
+Wins: Weches, chips: 100
+Wins: Wowroemee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weches
+Small Blind: Weches, chips: 100
+Big Blind: Wowroemee, chips: 200
+Flop: 5c Kc Kd
+Turn: Jc
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Weches, Ac Ah
+Combination: Weches, Two Pair ( Ac Ah Kc Kd Jc )
+Shows: Wowroemee, Qh 2h
+Combination: Wowroemee, Pair ( Kc Kd Qh Jc 8s )
+Wins: Weches, chips: 200
+Wins: Wowroemee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wowroemee
+Small Blind: Wowroemee, chips: 100
+Big Blind: Weches, chips: 200
+Flop: 4c 6h 2h
+Turn: Ac
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Weches, 9s 3c
+Combination: Weches, Pair ( Ac Ah 9s 6h 4c )
+Shows: Wowroemee, 9h Jc
+Combination: Wowroemee, Pair ( Ac Ah Jc 9h 6h )
+Wins: Weches, chips: 100
+Wins: Wowroemee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weches
+Small Blind: Weches, chips: 100
+Big Blind: Wowroemee, chips: 200
+Flop: 4d 6c Kd
+Turn: Th
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Weches, Kc 9d
+Combination: Weches, Two Pair ( Kc Kd 4d 4h Th )
+Shows: Wowroemee, Ks Ad
+Combination: Wowroemee, Two Pair ( Ks Kd 4d 4h Ad )
+Wins: Wowroemee, chips: 300
+Quits: Weches, chips: 0
+Ranking: Wowroemee, Place: 1, Score: 1000
+Reveal AI: Wowroemee, AI: Random
+Ranking: Weches, Place: 2, Score: -1000
+Reveal AI: Weches, AI: AIMyBot1
+
+Player Stats for Weches, AI: AIMyBot1
+General: deals: 13, actions: 7, preflop actions: 7
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Wowroemee, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 5, bluff: 7
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:30
+
+The game begins. The AI's of the players are: 
+Weches: AIMyBot1
+Wowroemee: Random
+
+Joins: Weches, chips: 1000
+Joins: Wowroemee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weches
+Small Blind: Weches, chips: 100
+Big Blind: Wowroemee, chips: 200
+Folds: Weches
+Pot size: 300
+Boasts: Wowroemee, 4h 4d
+Wins: Wowroemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wowroemee
+Small Blind: Wowroemee, chips: 100
+Big Blind: Weches, chips: 200
+Calls: Wowroemee
+DEBUG MESSAGE: INVALID ACTION FROM Weches (2 0)
+Folds: Weches
+Pot size: 400
+Boasts: Wowroemee, 9h Kc
+Wins: Wowroemee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weches
+Small Blind: Weches, chips: 100
+Big Blind: Wowroemee, chips: 200
+Folds: Weches
+Pot size: 300
+Wins: Wowroemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wowroemee
+Small Blind: Wowroemee, chips: 100
+Big Blind: Weches, chips: 200
+Raises: Wowroemee, chips: 300
+Folds: Weches
+Pot size: 700
+Wins: Wowroemee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weches
+Small Blind: Weches, chips: 100
+Big Blind: Wowroemee, chips: 200
+Folds: Weches
+Pot size: 300
+Boasts: Wowroemee, 8h 8c
+Wins: Wowroemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wowroemee
+Small Blind: Wowroemee, chips: 100
+Big Blind: Weches, chips: 200
+Folds: Wowroemee
+Pot size: 300
+Boasts: Wowroemee, Td 8h
+Wins: Weches, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weches
+Small Blind: Weches, chips: 100
+Big Blind: Wowroemee, chips: 200
+Folds: Weches
+Pot size: 300
+Boasts: Wowroemee, Kc 9d
+Wins: Wowroemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wowroemee
+Small Blind: Wowroemee, chips: 100
+Big Blind: Weches, chips: 200
+Calls: Wowroemee
+DEBUG MESSAGE: INVALID ACTION FROM Weches (2 0)
+Folds: Weches
+Pot size: 400
+Boasts: Wowroemee, 4s 5h
+Wins: Wowroemee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weches
+Small Blind: Weches, chips: 100
+Big Blind: Wowroemee, chips: 200
+Flop: Td 8c 9d
+Turn: 5s
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Weches, Kd 6s
+Combination: Weches, Pair ( 6s 6c Kd Td 9d )
+Shows: Wowroemee, Qs 4d
+Combination: Wowroemee, High Card ( Qs Td 9d 8c 6c )
+Wins: Weches, chips: 200
+Wins: Wowroemee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wowroemee
+Small Blind: Wowroemee, chips: 100
+Big Blind: Weches, chips: 200
+Flop: 9c Ks 7h
+Turn: 3s
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Weches, Tc 2h
+Combination: Weches, High Card ( Ks Jc Tc 9c 7h )
+Shows: Wowroemee, Th Jh
+Combination: Wowroemee, Pair ( Jh Jc Ks Th 9c )
+Wins: Weches, chips: 100
+Wins: Wowroemee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weches
+Small Blind: Weches, chips: 100
+Big Blind: Wowroemee, chips: 200
+Flop: 5c Kc Kd
+Turn: Jc
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Weches, Ac Ah
+Combination: Weches, Two Pair ( Ac Ah Kc Kd Jc )
+Shows: Wowroemee, Qh 2h
+Combination: Wowroemee, Pair ( Kc Kd Qh Jc 8s )
+Wins: Weches, chips: 200
+Wins: Wowroemee, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wowroemee
+Small Blind: Wowroemee, chips: 100
+Big Blind: Weches, chips: 200
+Flop: 4c 6h 2h
+Turn: Ac
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Weches, 9s 3c
+Combination: Weches, Pair ( Ac Ah 9s 6h 4c )
+Shows: Wowroemee, 9h Jc
+Combination: Wowroemee, Pair ( Ac Ah Jc 9h 6h )
+Wins: Weches, chips: 100
+Wins: Wowroemee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weches
+Small Blind: Weches, chips: 100
+Big Blind: Wowroemee, chips: 200
+Flop: 4d 6c Kd
+Turn: Th
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Weches, Kc 9d
+Combination: Weches, Two Pair ( Kc Kd 4d 4h Th )
+Shows: Wowroemee, Ks Ad
+Combination: Wowroemee, Two Pair ( Ks Kd 4d 4h Ad )
+Wins: Wowroemee, chips: 300
+Quits: Weches, chips: 0
+Ranking: Wowroemee, Place: 1, Score: 1000
+Reveal AI: Wowroemee, AI: Random
+Ranking: Weches, Place: 2, Score: -1000
+Reveal AI: Weches, AI: AIMyBot1
+
+Player Stats for Weches, AI: AIMyBot1
+General: deals: 13, actions: 7, preflop actions: 7
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Wowroemee, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 5, bluff: 7
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

@@ -1,0 +1,378 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Chufafu: AIMyBot1
+Weettok: Random
+
+Joins: Chufafu, chips: 1000
+Joins: Weettok, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufafu
+Small Blind: Chufafu, chips: 100
+Big Blind: Weettok, chips: 200
+Folds: Chufafu
+Pot size: 300
+Boasts: Weettok, 5d Ad
+Wins: Weettok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weettok
+Small Blind: Weettok, chips: 100
+Big Blind: Chufafu, chips: 200
+Calls: Weettok
+DEBUG MESSAGE: INVALID ACTION FROM Chufafu (2 0)
+Folds: Chufafu
+Pot size: 400
+Wins: Weettok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufafu
+Small Blind: Chufafu, chips: 100
+Big Blind: Weettok, chips: 200
+Folds: Chufafu
+Pot size: 300
+Boasts: Weettok, Td 6d
+Wins: Weettok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weettok
+Small Blind: Weettok, chips: 100
+Big Blind: Chufafu, chips: 200
+Calls: Weettok
+DEBUG MESSAGE: INVALID ACTION FROM Chufafu (2 0)
+Folds: Chufafu
+Pot size: 400
+Wins: Weettok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufafu
+Small Blind: Chufafu, chips: 100
+Big Blind: Weettok, chips: 200
+Folds: Chufafu
+Pot size: 300
+Boasts: Weettok, 5c Js
+Wins: Weettok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weettok
+Small Blind: Weettok, chips: 100
+Big Blind: Chufafu, chips: 200
+Calls: Weettok
+DEBUG MESSAGE: INVALID ACTION FROM Chufafu (2 0)
+Folds: Chufafu
+Pot size: 400
+Boasts: Weettok, Ad 6h
+Wins: Weettok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufafu
+Small Blind: Chufafu, chips: 100
+Big Blind: Weettok, chips: 200
+Flop: 3c 5c Ts
+Turn: 7h
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Chufafu, 4h 4s
+Combination: Chufafu, Straight ( 7h 6h 5c 4h 3c )
+Shows: Weettok, Ad 6c
+Combination: Weettok, Pair ( 6c 6h Ad Ts 7h )
+Wins: Chufafu, chips: 200
+Wins: Weettok, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weettok
+Small Blind: Weettok, chips: 100
+Big Blind: Chufafu, chips: 200
+Flop: 6h Qc 3s
+Turn: 5d
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Chufafu, 5s 6c
+Combination: Chufafu, Two Pair ( 6c 6h 5s 5d Qc )
+Shows: Weettok, 8c 5c
+Combination: Weettok, Two Pair ( 8c 8s 5c 5d Qc )
+Wins: Chufafu, chips: 100
+Wins: Weettok, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufafu
+Small Blind: Chufafu, chips: 100
+Big Blind: Weettok, chips: 200
+Flop: 5c Qd 6s
+Turn: 2h
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Chufafu, 5d Jc
+Combination: Chufafu, Pair ( 5d 5c Qd Jc 8c )
+Shows: Weettok, 7s Ah
+Combination: Weettok, High Card ( Ah Qd 8c 7s 6s )
+Wins: Chufafu, chips: 200
+Wins: Weettok, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weettok
+Small Blind: Weettok, chips: 100
+Big Blind: Chufafu, chips: 200
+Flop: 3c 2c 7c
+Turn: 3h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Chufafu, 6d Jh
+Combination: Chufafu, Pair ( 3c 3h As Jh 7c )
+Shows: Weettok, Ad Ah
+Combination: Weettok, Full House ( Ad Ah As 3c 3h )
+Wins: Chufafu, chips: 100
+Wins: Weettok, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufafu
+Small Blind: Chufafu, chips: 100
+Big Blind: Weettok, chips: 200
+Flop: 8c 9s 8s
+Turn: 3s
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Chufafu, 7s 9c
+Combination: Chufafu, Flush ( 9s 8s 7s 6s 3s )
+Shows: Weettok, Jh 4c
+Combination: Weettok, Pair ( 8c 8s Jh 9s 6s )
+Wins: Chufafu, chips: 200
+Wins: Weettok, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weettok
+Small Blind: Weettok, chips: 100
+Big Blind: Chufafu, chips: 200
+Flop: Td 5d 3h
+Turn: 9s
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Chufafu, Jc 7s
+Combination: Chufafu, High Card ( Jc Td 9s 7s 5d )
+Shows: Weettok, Kc Kh
+Combination: Weettok, Pair ( Kc Kh Td 9s 5d )
+Wins: Chufafu, chips: 100
+Wins: Weettok, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufafu
+Small Blind: Chufafu, chips: 100
+Big Blind: Weettok, chips: 200
+Flop: 7d 9h As
+Turn: 3h
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Chufafu, 4c 2s
+Combination: Chufafu, Pair ( 3h 3s As 9h 7d )
+Shows: Weettok, Ks 9d
+Combination: Weettok, Two Pair ( 9d 9h 3h 3s As )
+Wins: Weettok, chips: 300
+Quits: Chufafu, chips: 0
+Ranking: Weettok, Place: 1, Score: 1000
+Reveal AI: Weettok, AI: Random
+Ranking: Chufafu, Place: 2, Score: -1000
+Reveal AI: Chufafu, AI: AIMyBot1
+
+Player Stats for Chufafu, AI: AIMyBot1
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Weettok, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 13, showdown: 7, bluff: 6
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:11
+
+The game begins. The AI's of the players are: 
+Chufafu: AIMyBot1
+Weettok: Random
+
+Joins: Chufafu, chips: 1000
+Joins: Weettok, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufafu
+Small Blind: Chufafu, chips: 100
+Big Blind: Weettok, chips: 200
+Folds: Chufafu
+Pot size: 300
+Boasts: Weettok, 5d Ad
+Wins: Weettok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weettok
+Small Blind: Weettok, chips: 100
+Big Blind: Chufafu, chips: 200
+Calls: Weettok
+DEBUG MESSAGE: INVALID ACTION FROM Chufafu (2 0)
+Folds: Chufafu
+Pot size: 400
+Wins: Weettok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufafu
+Small Blind: Chufafu, chips: 100
+Big Blind: Weettok, chips: 200
+Folds: Chufafu
+Pot size: 300
+Boasts: Weettok, Td 6d
+Wins: Weettok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weettok
+Small Blind: Weettok, chips: 100
+Big Blind: Chufafu, chips: 200
+Calls: Weettok
+DEBUG MESSAGE: INVALID ACTION FROM Chufafu (2 0)
+Folds: Chufafu
+Pot size: 400
+Wins: Weettok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufafu
+Small Blind: Chufafu, chips: 100
+Big Blind: Weettok, chips: 200
+Folds: Chufafu
+Pot size: 300
+Boasts: Weettok, 5c Js
+Wins: Weettok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weettok
+Small Blind: Weettok, chips: 100
+Big Blind: Chufafu, chips: 200
+Calls: Weettok
+DEBUG MESSAGE: INVALID ACTION FROM Chufafu (2 0)
+Folds: Chufafu
+Pot size: 400
+Boasts: Weettok, Ad 6h
+Wins: Weettok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufafu
+Small Blind: Chufafu, chips: 100
+Big Blind: Weettok, chips: 200
+Flop: 3c 5c Ts
+Turn: 7h
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Chufafu, 4h 4s
+Combination: Chufafu, Straight ( 7h 6h 5c 4h 3c )
+Shows: Weettok, Ad 6c
+Combination: Weettok, Pair ( 6c 6h Ad Ts 7h )
+Wins: Chufafu, chips: 200
+Wins: Weettok, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weettok
+Small Blind: Weettok, chips: 100
+Big Blind: Chufafu, chips: 200
+Flop: 6h Qc 3s
+Turn: 5d
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Chufafu, 5s 6c
+Combination: Chufafu, Two Pair ( 6c 6h 5s 5d Qc )
+Shows: Weettok, 8c 5c
+Combination: Weettok, Two Pair ( 8c 8s 5c 5d Qc )
+Wins: Chufafu, chips: 100
+Wins: Weettok, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufafu
+Small Blind: Chufafu, chips: 100
+Big Blind: Weettok, chips: 200
+Flop: 5c Qd 6s
+Turn: 2h
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Chufafu, 5d Jc
+Combination: Chufafu, Pair ( 5d 5c Qd Jc 8c )
+Shows: Weettok, 7s Ah
+Combination: Weettok, High Card ( Ah Qd 8c 7s 6s )
+Wins: Chufafu, chips: 200
+Wins: Weettok, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weettok
+Small Blind: Weettok, chips: 100
+Big Blind: Chufafu, chips: 200
+Flop: 3c 2c 7c
+Turn: 3h
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Chufafu, 6d Jh
+Combination: Chufafu, Pair ( 3c 3h As Jh 7c )
+Shows: Weettok, Ad Ah
+Combination: Weettok, Full House ( Ad Ah As 3c 3h )
+Wins: Chufafu, chips: 100
+Wins: Weettok, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufafu
+Small Blind: Chufafu, chips: 100
+Big Blind: Weettok, chips: 200
+Flop: 8c 9s 8s
+Turn: 3s
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Chufafu, 7s 9c
+Combination: Chufafu, Flush ( 9s 8s 7s 6s 3s )
+Shows: Weettok, Jh 4c
+Combination: Weettok, Pair ( 8c 8s Jh 9s 6s )
+Wins: Chufafu, chips: 200
+Wins: Weettok, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weettok
+Small Blind: Weettok, chips: 100
+Big Blind: Chufafu, chips: 200
+Flop: Td 5d 3h
+Turn: 9s
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Chufafu, Jc 7s
+Combination: Chufafu, High Card ( Jc Td 9s 7s 5d )
+Shows: Weettok, Kc Kh
+Combination: Weettok, Pair ( Kc Kh Td 9s 5d )
+Wins: Chufafu, chips: 100
+Wins: Weettok, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chufafu
+Small Blind: Chufafu, chips: 100
+Big Blind: Weettok, chips: 200
+Flop: 7d 9h As
+Turn: 3h
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Chufafu, 4c 2s
+Combination: Chufafu, Pair ( 3h 3s As 9h 7d )
+Shows: Weettok, Ks 9d
+Combination: Weettok, Two Pair ( 9d 9h 3h 3s As )
+Wins: Weettok, chips: 300
+Quits: Chufafu, chips: 0
+Ranking: Weettok, Place: 1, Score: 1000
+Reveal AI: Weettok, AI: Random
+Ranking: Chufafu, Place: 2, Score: -1000
+Reveal AI: Chufafu, AI: AIMyBot1
+
+Player Stats for Chufafu, AI: AIMyBot1
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Weettok, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 13, showdown: 7, bluff: 6
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

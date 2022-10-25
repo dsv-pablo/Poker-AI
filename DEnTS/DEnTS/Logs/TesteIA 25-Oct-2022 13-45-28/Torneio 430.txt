@@ -1,0 +1,418 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Rawim: AIMyBot1
+Gani: Random
+
+Joins: Rawim, chips: 1000
+Joins: Gani, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gani
+Small Blind: Gani, chips: 100
+Big Blind: Rawim, chips: 200
+Folds: Gani
+Pot size: 300
+Boasts: Gani, 6c Ks
+Wins: Rawim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawim
+Small Blind: Rawim, chips: 100
+Big Blind: Gani, chips: 200
+Folds: Rawim
+Pot size: 300
+Boasts: Gani, 5d 6c
+Wins: Gani, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gani
+Small Blind: Gani, chips: 100
+Big Blind: Rawim, chips: 200
+Raises: Gani, chips: 300
+Folds: Rawim
+Pot size: 700
+Boasts: Gani, Ad 8s
+Wins: Gani, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawim
+Small Blind: Rawim, chips: 100
+Big Blind: Gani, chips: 200
+Folds: Rawim
+Pot size: 300
+Wins: Gani, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gani
+Small Blind: Gani, chips: 100
+Big Blind: Rawim, chips: 200
+Calls: Gani
+DEBUG MESSAGE: INVALID ACTION FROM Rawim (2 0)
+Folds: Rawim
+Pot size: 400
+Wins: Gani, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawim
+Small Blind: Rawim, chips: 100
+Big Blind: Gani, chips: 200
+Folds: Rawim
+Pot size: 300
+Wins: Gani, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gani
+Small Blind: Gani, chips: 100
+Big Blind: Rawim, chips: 200
+Calls: Gani
+DEBUG MESSAGE: INVALID ACTION FROM Rawim (2 0)
+Folds: Rawim
+Pot size: 400
+Boasts: Gani, Tc 3s
+Wins: Gani, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawim
+Small Blind: Rawim, chips: 100
+Big Blind: Gani, chips: 200
+Folds: Rawim
+Pot size: 300
+Wins: Gani, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gani
+Small Blind: Gani, chips: 100
+Big Blind: Rawim, chips: 100
+Flop: 4d 9c 8h
+Turn: 8c
+River: 6s
+Pot size: 200
+Showdown Reached
+Shows: Rawim, 5c Jd
+Combination: Rawim, Pair ( 8h 8c Jd 9c 6s )
+Shows: Gani, 5s 3c
+Combination: Gani, Pair ( 8h 8c 9c 6s 5s )
+Wins: Rawim, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawim
+Small Blind: Rawim, chips: 100
+Big Blind: Gani, chips: 200
+Folds: Rawim
+Pot size: 300
+Boasts: Gani, 7c 6s
+Wins: Gani, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gani
+Small Blind: Gani, chips: 100
+Big Blind: Rawim, chips: 100
+Flop: 9h 7c 5s
+Turn: 7s
+River: Ah
+Pot size: 200
+Showdown Reached
+Shows: Rawim, 9s Qs
+Combination: Rawim, Two Pair ( 9s 9h 7c 7s Ah )
+Shows: Gani, Js 9c
+Combination: Gani, Two Pair ( 9c 9h 7c 7s Ah )
+Wins: Rawim, chips: 100
+Wins: Gani, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawim
+Small Blind: Rawim, chips: 100
+Big Blind: Gani, chips: 200
+Flop: 7s 5s 5c
+Turn: As
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Rawim, 5h Js
+Combination: Rawim, Three Of A Kind ( 5h 5s 5c As Js )
+Shows: Gani, 7d 8h
+Combination: Gani, Two Pair ( 7d 7s 5s 5c As )
+Wins: Rawim, chips: 200
+Wins: Gani, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gani
+Small Blind: Gani, chips: 100
+Big Blind: Rawim, chips: 200
+Flop: Kc Jc Kh
+Turn: Ad
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Rawim, Td 9s
+Combination: Rawim, Pair ( Kc Kh Ad Jc Td )
+Shows: Gani, 8s 6c
+Combination: Gani, Two Pair ( Kc Kh 8s 8d Ad )
+Wins: Rawim, chips: 100
+Wins: Gani, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawim
+Small Blind: Rawim, chips: 100
+Big Blind: Gani, chips: 200
+Flop: 8d Qh Ac
+Turn: 5s
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Rawim, 2h 9c
+Combination: Rawim, Pair ( 9c 9h Ac Qh 8d )
+Shows: Gani, 5c Th
+Combination: Gani, Pair ( 5c 5s Ac Qh Th )
+Wins: Rawim, chips: 200
+Wins: Gani, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gani
+Small Blind: Gani, chips: 100
+Big Blind: Rawim, chips: 200
+Flop: 3s Qc 7h
+Turn: 4s
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Rawim, 3c 2h
+Combination: Rawim, Pair ( 3c 3s Qc 9d 7h )
+Shows: Gani, 9c 8h
+Combination: Gani, Pair ( 9c 9d Qc 8h 7h )
+Wins: Rawim, chips: 100
+Wins: Gani, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawim
+Small Blind: Rawim, chips: 100
+Big Blind: Gani, chips: 200
+Flop: 3h Ac 6s
+Turn: 4c
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Rawim, Ts 3d
+Combination: Rawim, Two Pair ( Ac Ah 3d 3h Ts )
+Shows: Gani, Js As
+Combination: Gani, Three Of A Kind ( As Ac Ah Js 6s )
+Wins: Gani, chips: 300
+Quits: Rawim, chips: 0
+Ranking: Gani, Place: 1, Score: 1000
+Reveal AI: Gani, AI: Random
+Ranking: Rawim, Place: 2, Score: -1000
+Reveal AI: Rawim, AI: AIMyBot1
+
+Player Stats for Gani, AI: Random
+General: deals: 16, actions: 4, preflop actions: 4
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 14, showdown: 6, bluff: 8
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.1875, PFR: 0.0625, 3Bet: 0.0625
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Rawim, AI: AIMyBot1
+General: deals: 16, actions: 8, preflop actions: 8
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 7, showdown: 6, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Date: 2022/10/25 13:45:57
+
+The game begins. The AI's of the players are: 
+Rawim: AIMyBot1
+Gani: Random
+
+Joins: Rawim, chips: 1000
+Joins: Gani, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gani
+Small Blind: Gani, chips: 100
+Big Blind: Rawim, chips: 200
+Folds: Gani
+Pot size: 300
+Boasts: Gani, 6c Ks
+Wins: Rawim, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawim
+Small Blind: Rawim, chips: 100
+Big Blind: Gani, chips: 200
+Folds: Rawim
+Pot size: 300
+Boasts: Gani, 5d 6c
+Wins: Gani, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gani
+Small Blind: Gani, chips: 100
+Big Blind: Rawim, chips: 200
+Raises: Gani, chips: 300
+Folds: Rawim
+Pot size: 700
+Boasts: Gani, Ad 8s
+Wins: Gani, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawim
+Small Blind: Rawim, chips: 100
+Big Blind: Gani, chips: 200
+Folds: Rawim
+Pot size: 300
+Wins: Gani, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gani
+Small Blind: Gani, chips: 100
+Big Blind: Rawim, chips: 200
+Calls: Gani
+DEBUG MESSAGE: INVALID ACTION FROM Rawim (2 0)
+Folds: Rawim
+Pot size: 400
+Wins: Gani, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawim
+Small Blind: Rawim, chips: 100
+Big Blind: Gani, chips: 200
+Folds: Rawim
+Pot size: 300
+Wins: Gani, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gani
+Small Blind: Gani, chips: 100
+Big Blind: Rawim, chips: 200
+Calls: Gani
+DEBUG MESSAGE: INVALID ACTION FROM Rawim (2 0)
+Folds: Rawim
+Pot size: 400
+Boasts: Gani, Tc 3s
+Wins: Gani, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawim
+Small Blind: Rawim, chips: 100
+Big Blind: Gani, chips: 200
+Folds: Rawim
+Pot size: 300
+Wins: Gani, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gani
+Small Blind: Gani, chips: 100
+Big Blind: Rawim, chips: 100
+Flop: 4d 9c 8h
+Turn: 8c
+River: 6s
+Pot size: 200
+Showdown Reached
+Shows: Rawim, 5c Jd
+Combination: Rawim, Pair ( 8h 8c Jd 9c 6s )
+Shows: Gani, 5s 3c
+Combination: Gani, Pair ( 8h 8c 9c 6s 5s )
+Wins: Rawim, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawim
+Small Blind: Rawim, chips: 100
+Big Blind: Gani, chips: 200
+Folds: Rawim
+Pot size: 300
+Boasts: Gani, 7c 6s
+Wins: Gani, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gani
+Small Blind: Gani, chips: 100
+Big Blind: Rawim, chips: 100
+Flop: 9h 7c 5s
+Turn: 7s
+River: Ah
+Pot size: 200
+Showdown Reached
+Shows: Rawim, 9s Qs
+Combination: Rawim, Two Pair ( 9s 9h 7c 7s Ah )
+Shows: Gani, Js 9c
+Combination: Gani, Two Pair ( 9c 9h 7c 7s Ah )
+Wins: Rawim, chips: 100
+Wins: Gani, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawim
+Small Blind: Rawim, chips: 100
+Big Blind: Gani, chips: 200
+Flop: 7s 5s 5c
+Turn: As
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Rawim, 5h Js
+Combination: Rawim, Three Of A Kind ( 5h 5s 5c As Js )
+Shows: Gani, 7d 8h
+Combination: Gani, Two Pair ( 7d 7s 5s 5c As )
+Wins: Rawim, chips: 200
+Wins: Gani, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gani
+Small Blind: Gani, chips: 100
+Big Blind: Rawim, chips: 200
+Flop: Kc Jc Kh
+Turn: Ad
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Rawim, Td 9s
+Combination: Rawim, Pair ( Kc Kh Ad Jc Td )
+Shows: Gani, 8s 6c
+Combination: Gani, Two Pair ( Kc Kh 8s 8d Ad )
+Wins: Rawim, chips: 100
+Wins: Gani, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawim
+Small Blind: Rawim, chips: 100
+Big Blind: Gani, chips: 200
+Flop: 8d Qh Ac
+Turn: 5s
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Rawim, 2h 9c
+Combination: Rawim, Pair ( 9c 9h Ac Qh 8d )
+Shows: Gani, 5c Th
+Combination: Gani, Pair ( 5c 5s Ac Qh Th )
+Wins: Rawim, chips: 200
+Wins: Gani, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gani
+Small Blind: Gani, chips: 100
+Big Blind: Rawim, chips: 200
+Flop: 3s Qc 7h
+Turn: 4s
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Rawim, 3c 2h
+Combination: Rawim, Pair ( 3c 3s Qc 9d 7h )
+Shows: Gani, 9c 8h
+Combination: Gani, Pair ( 9c 9d Qc 8h 7h )
+Wins: Rawim, chips: 100
+Wins: Gani, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawim
+Small Blind: Rawim, chips: 100
+Big Blind: Gani, chips: 200
+Flop: 3h Ac 6s
+Turn: 4c
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Rawim, Ts 3d
+Combination: Rawim, Two Pair ( Ac Ah 3d 3h Ts )
+Shows: Gani, Js As
+Combination: Gani, Three Of A Kind ( As Ac Ah Js 6s )
+Wins: Gani, chips: 300
+Quits: Rawim, chips: 0
+Ranking: Gani, Place: 1, Score: 1000
+Reveal AI: Gani, AI: Random
+Ranking: Rawim, Place: 2, Score: -1000
+Reveal AI: Rawim, AI: AIMyBot1
+
+Player Stats for Gani, AI: Random
+General: deals: 16, actions: 4, preflop actions: 4
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 14, showdown: 6, bluff: 8
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.1875, PFR: 0.0625, 3Bet: 0.0625
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Rawim, AI: AIMyBot1
+General: deals: 16, actions: 8, preflop actions: 8
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 7, showdown: 6, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+

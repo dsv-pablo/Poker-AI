@@ -1,0 +1,198 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Cheebol: AIMyBot1
+Soewren: Random
+
+Joins: Cheebol, chips: 1000
+Joins: Soewren, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soewren
+Small Blind: Soewren, chips: 100
+Big Blind: Cheebol, chips: 200
+Raises: Soewren, chips: 300
+Folds: Cheebol
+Pot size: 700
+Boasts: Soewren, Tc 2c
+Wins: Soewren, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheebol
+Small Blind: Cheebol, chips: 100
+Big Blind: Soewren, chips: 200
+Folds: Cheebol
+Pot size: 300
+Boasts: Soewren, 3d 7d
+Wins: Soewren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soewren
+Small Blind: Soewren, chips: 100
+Big Blind: Cheebol, chips: 200
+Calls: Soewren
+DEBUG MESSAGE: INVALID ACTION FROM Cheebol (2 0)
+Folds: Cheebol
+Pot size: 400
+Boasts: Soewren, Ks Tc
+Wins: Soewren, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheebol
+Small Blind: Cheebol, chips: 100
+Big Blind: Soewren, chips: 200
+Folds: Cheebol
+Pot size: 300
+Boasts: Soewren, Kd Tc
+Wins: Soewren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soewren
+Small Blind: Soewren, chips: 100
+Big Blind: Cheebol, chips: 200
+Calls: Soewren
+DEBUG MESSAGE: INVALID ACTION FROM Cheebol (2 0)
+Folds: Cheebol
+Pot size: 400
+Wins: Soewren, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheebol
+Small Blind: Cheebol, chips: 100
+Big Blind: Soewren, chips: 200
+Folds: Cheebol
+Pot size: 300
+Boasts: Soewren, Jc 3d
+Wins: Soewren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soewren
+Small Blind: Soewren, chips: 100
+Big Blind: Cheebol, chips: 100
+Flop: Td 4c Qc
+Turn: Ac
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Cheebol, 6h 8h
+Combination: Cheebol, High Card ( Ac Kh Qc Td 8h )
+Shows: Soewren, 2s As
+Combination: Soewren, Pair ( As Ac Kh Qc Td )
+Wins: Soewren, chips: 200
+Quits: Cheebol, chips: 0
+Ranking: Soewren, Place: 1, Score: 1000
+Reveal AI: Soewren, AI: Random
+Ranking: Cheebol, Place: 2, Score: -1000
+Reveal AI: Cheebol, AI: AIMyBot1
+
+Player Stats for Cheebol, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Soewren, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:35
+
+The game begins. The AI's of the players are: 
+Cheebol: AIMyBot1
+Soewren: Random
+
+Joins: Cheebol, chips: 1000
+Joins: Soewren, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soewren
+Small Blind: Soewren, chips: 100
+Big Blind: Cheebol, chips: 200
+Raises: Soewren, chips: 300
+Folds: Cheebol
+Pot size: 700
+Boasts: Soewren, Tc 2c
+Wins: Soewren, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheebol
+Small Blind: Cheebol, chips: 100
+Big Blind: Soewren, chips: 200
+Folds: Cheebol
+Pot size: 300
+Boasts: Soewren, 3d 7d
+Wins: Soewren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soewren
+Small Blind: Soewren, chips: 100
+Big Blind: Cheebol, chips: 200
+Calls: Soewren
+DEBUG MESSAGE: INVALID ACTION FROM Cheebol (2 0)
+Folds: Cheebol
+Pot size: 400
+Boasts: Soewren, Ks Tc
+Wins: Soewren, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheebol
+Small Blind: Cheebol, chips: 100
+Big Blind: Soewren, chips: 200
+Folds: Cheebol
+Pot size: 300
+Boasts: Soewren, Kd Tc
+Wins: Soewren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soewren
+Small Blind: Soewren, chips: 100
+Big Blind: Cheebol, chips: 200
+Calls: Soewren
+DEBUG MESSAGE: INVALID ACTION FROM Cheebol (2 0)
+Folds: Cheebol
+Pot size: 400
+Wins: Soewren, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheebol
+Small Blind: Cheebol, chips: 100
+Big Blind: Soewren, chips: 200
+Folds: Cheebol
+Pot size: 300
+Boasts: Soewren, Jc 3d
+Wins: Soewren, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soewren
+Small Blind: Soewren, chips: 100
+Big Blind: Cheebol, chips: 100
+Flop: Td 4c Qc
+Turn: Ac
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Cheebol, 6h 8h
+Combination: Cheebol, High Card ( Ac Kh Qc Td 8h )
+Shows: Soewren, 2s As
+Combination: Soewren, Pair ( As Ac Kh Qc Td )
+Wins: Soewren, chips: 200
+Quits: Cheebol, chips: 0
+Ranking: Soewren, Place: 1, Score: 1000
+Reveal AI: Soewren, AI: Random
+Ranking: Cheebol, Place: 2, Score: -1000
+Reveal AI: Cheebol, AI: AIMyBot1
+
+Player Stats for Cheebol, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Soewren, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

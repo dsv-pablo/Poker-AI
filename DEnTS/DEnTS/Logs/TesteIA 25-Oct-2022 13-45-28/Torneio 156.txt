@@ -1,0 +1,194 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Seeroe: Random
+Ju: AIMyBot1
+
+Joins: Seeroe, chips: 1000
+Joins: Ju, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Seeroe, chips: 200
+Folds: Ju
+Pot size: 300
+Wins: Seeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seeroe
+Small Blind: Seeroe, chips: 100
+Big Blind: Ju, chips: 200
+Raises: Seeroe, chips: 300
+Folds: Ju
+Pot size: 700
+Boasts: Seeroe, 6s 8c
+Wins: Seeroe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Seeroe, chips: 200
+Folds: Ju
+Pot size: 300
+Wins: Seeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seeroe
+Small Blind: Seeroe, chips: 100
+Big Blind: Ju, chips: 200
+Calls: Seeroe
+DEBUG MESSAGE: INVALID ACTION FROM Ju (2 0)
+Folds: Ju
+Pot size: 400
+Boasts: Seeroe, 6d 8c
+Wins: Seeroe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Seeroe, chips: 200
+Folds: Ju
+Pot size: 300
+Wins: Seeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seeroe
+Small Blind: Seeroe, chips: 100
+Big Blind: Ju, chips: 200
+Calls: Seeroe
+DEBUG MESSAGE: INVALID ACTION FROM Ju (2 0)
+Folds: Ju
+Pot size: 400
+Boasts: Seeroe, 2c 3c
+Wins: Seeroe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Seeroe, chips: 200
+Flop: 6h 3h Qd
+Turn: 2d
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Seeroe, Ts 2h
+Combination: Seeroe, Pair ( 2h 2d Qd Jc Ts )
+Shows: Ju, 4c 2s
+Combination: Ju, Pair ( 2s 2d Qd Jc 6h )
+Wins: Seeroe, chips: 300
+Quits: Ju, chips: 0
+Ranking: Seeroe, Place: 1, Score: 1000
+Reveal AI: Seeroe, AI: Random
+Ranking: Ju, Place: 2, Score: -1000
+Reveal AI: Ju, AI: AIMyBot1
+
+Player Stats for Ju, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Seeroe, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:40
+
+The game begins. The AI's of the players are: 
+Seeroe: Random
+Ju: AIMyBot1
+
+Joins: Seeroe, chips: 1000
+Joins: Ju, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Seeroe, chips: 200
+Folds: Ju
+Pot size: 300
+Wins: Seeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seeroe
+Small Blind: Seeroe, chips: 100
+Big Blind: Ju, chips: 200
+Raises: Seeroe, chips: 300
+Folds: Ju
+Pot size: 700
+Boasts: Seeroe, 6s 8c
+Wins: Seeroe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Seeroe, chips: 200
+Folds: Ju
+Pot size: 300
+Wins: Seeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seeroe
+Small Blind: Seeroe, chips: 100
+Big Blind: Ju, chips: 200
+Calls: Seeroe
+DEBUG MESSAGE: INVALID ACTION FROM Ju (2 0)
+Folds: Ju
+Pot size: 400
+Boasts: Seeroe, 6d 8c
+Wins: Seeroe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Seeroe, chips: 200
+Folds: Ju
+Pot size: 300
+Wins: Seeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seeroe
+Small Blind: Seeroe, chips: 100
+Big Blind: Ju, chips: 200
+Calls: Seeroe
+DEBUG MESSAGE: INVALID ACTION FROM Ju (2 0)
+Folds: Ju
+Pot size: 400
+Boasts: Seeroe, 2c 3c
+Wins: Seeroe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ju
+Small Blind: Ju, chips: 100
+Big Blind: Seeroe, chips: 200
+Flop: 6h 3h Qd
+Turn: 2d
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Seeroe, Ts 2h
+Combination: Seeroe, Pair ( 2h 2d Qd Jc Ts )
+Shows: Ju, 4c 2s
+Combination: Ju, Pair ( 2s 2d Qd Jc 6h )
+Wins: Seeroe, chips: 300
+Quits: Ju, chips: 0
+Ranking: Seeroe, Place: 1, Score: 1000
+Reveal AI: Seeroe, AI: Random
+Ranking: Ju, Place: 2, Score: -1000
+Reveal AI: Ju, AI: AIMyBot1
+
+Player Stats for Ju, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Seeroe, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

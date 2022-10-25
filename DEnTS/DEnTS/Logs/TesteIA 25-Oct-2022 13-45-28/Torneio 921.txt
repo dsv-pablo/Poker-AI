@@ -1,0 +1,374 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Veedafun: Random
+Poebif: AIMyBot1
+
+Joins: Veedafun, chips: 1000
+Joins: Poebif, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poebif
+Small Blind: Poebif, chips: 100
+Big Blind: Veedafun, chips: 200
+Folds: Poebif
+Pot size: 300
+Boasts: Veedafun, 4d Ts
+Wins: Veedafun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedafun
+Small Blind: Veedafun, chips: 100
+Big Blind: Poebif, chips: 200
+Raises: Veedafun, chips: 300
+Folds: Poebif
+Pot size: 700
+Wins: Veedafun, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poebif
+Small Blind: Poebif, chips: 100
+Big Blind: Veedafun, chips: 200
+Folds: Poebif
+Pot size: 300
+Boasts: Veedafun, Ts 2c
+Wins: Veedafun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedafun
+Small Blind: Veedafun, chips: 100
+Big Blind: Poebif, chips: 200
+Raises: Veedafun, chips: 300
+Folds: Poebif
+Pot size: 700
+Boasts: Veedafun, 9s 2c
+Wins: Veedafun, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poebif
+Small Blind: Poebif, chips: 100
+Big Blind: Veedafun, chips: 200
+Folds: Poebif
+Pot size: 300
+Boasts: Veedafun, 7s 9c
+Wins: Veedafun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedafun
+Small Blind: Veedafun, chips: 100
+Big Blind: Poebif, chips: 200
+Calls: Veedafun
+DEBUG MESSAGE: INVALID ACTION FROM Poebif (2 0)
+Folds: Poebif
+Pot size: 400
+Wins: Veedafun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poebif
+Small Blind: Poebif, chips: 100
+Big Blind: Veedafun, chips: 200
+Flop: 6d 6s 9c
+Turn: 7d
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Veedafun, 8s 4h
+Combination: Veedafun, Pair ( 6d 6s 9c 8s 7d )
+Shows: Poebif, 5d Kd
+Combination: Poebif, Pair ( 6d 6s Kd 9c 7d )
+Wins: Veedafun, chips: 100
+Wins: Poebif, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedafun
+Small Blind: Veedafun, chips: 100
+Big Blind: Poebif, chips: 200
+Flop: 6c Jd 4s
+Turn: 6s
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Veedafun, Qs 6h
+Combination: Veedafun, Three Of A Kind ( 6h 6c 6s Qs Jd )
+Shows: Poebif, 8s Kc
+Combination: Poebif, Pair ( 6c 6s Kc Jd 8s )
+Wins: Veedafun, chips: 200
+Wins: Poebif, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poebif
+Small Blind: Poebif, chips: 100
+Big Blind: Veedafun, chips: 200
+Flop: Jc Js 5s
+Turn: 5d
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Veedafun, 8s 3c
+Combination: Veedafun, Two Pair ( Jc Js 5s 5d 8s )
+Shows: Poebif, 7s Qd
+Combination: Poebif, Two Pair ( Jc Js 7s 7d Qd )
+Wins: Veedafun, chips: 100
+Wins: Poebif, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedafun
+Small Blind: Veedafun, chips: 100
+Big Blind: Poebif, chips: 200
+Flop: 8c Tc Jd
+Turn: 4c
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Veedafun, 7c 5c
+Combination: Veedafun, Flush ( Tc 8c 7c 5c 4c )
+Shows: Poebif, 5d Ts
+Combination: Poebif, Pair ( Ts Tc Jd 8c 7d )
+Wins: Veedafun, chips: 200
+Wins: Poebif, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poebif
+Small Blind: Poebif, chips: 100
+Big Blind: Veedafun, chips: 200
+Flop: 2d 8d Qd
+Turn: 7h
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Veedafun, 6c 8s
+Combination: Veedafun, Two Pair ( 8s 8d 2d 2c Qd )
+Shows: Poebif, Jd 2h
+Combination: Poebif, Three Of A Kind ( 2h 2d 2c Qd Jd )
+Wins: Veedafun, chips: 100
+Wins: Poebif, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedafun
+Small Blind: Veedafun, chips: 100
+Big Blind: Poebif, chips: 200
+Flop: Kc 5c Ad
+Turn: 4h
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Veedafun, 9s 9c
+Combination: Veedafun, Pair ( 9s 9c Ad Kc Td )
+Shows: Poebif, Jh 3c
+Combination: Poebif, High Card ( Ad Kc Jh Td 5c )
+Wins: Veedafun, chips: 200
+Wins: Poebif, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poebif
+Small Blind: Poebif, chips: 100
+Big Blind: Veedafun, chips: 200
+Flop: 5d 5s Ts
+Turn: Kh
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Veedafun, Jh Qc
+Combination: Veedafun, Straight ( Kh Qc Jh Ts 9d )
+Shows: Poebif, Kc Jc
+Combination: Poebif, Two Pair ( Kc Kh 5d 5s Jc )
+Wins: Veedafun, chips: 300
+Quits: Poebif, chips: 0
+Ranking: Veedafun, Place: 1, Score: 1000
+Reveal AI: Veedafun, AI: Random
+Ranking: Poebif, Place: 2, Score: -1000
+Reveal AI: Poebif, AI: AIMyBot1
+
+Player Stats for Poebif, AI: AIMyBot1
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Veedafun, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 13, showdown: 7, bluff: 6
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:30
+
+The game begins. The AI's of the players are: 
+Veedafun: Random
+Poebif: AIMyBot1
+
+Joins: Veedafun, chips: 1000
+Joins: Poebif, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poebif
+Small Blind: Poebif, chips: 100
+Big Blind: Veedafun, chips: 200
+Folds: Poebif
+Pot size: 300
+Boasts: Veedafun, 4d Ts
+Wins: Veedafun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedafun
+Small Blind: Veedafun, chips: 100
+Big Blind: Poebif, chips: 200
+Raises: Veedafun, chips: 300
+Folds: Poebif
+Pot size: 700
+Wins: Veedafun, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poebif
+Small Blind: Poebif, chips: 100
+Big Blind: Veedafun, chips: 200
+Folds: Poebif
+Pot size: 300
+Boasts: Veedafun, Ts 2c
+Wins: Veedafun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedafun
+Small Blind: Veedafun, chips: 100
+Big Blind: Poebif, chips: 200
+Raises: Veedafun, chips: 300
+Folds: Poebif
+Pot size: 700
+Boasts: Veedafun, 9s 2c
+Wins: Veedafun, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poebif
+Small Blind: Poebif, chips: 100
+Big Blind: Veedafun, chips: 200
+Folds: Poebif
+Pot size: 300
+Boasts: Veedafun, 7s 9c
+Wins: Veedafun, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedafun
+Small Blind: Veedafun, chips: 100
+Big Blind: Poebif, chips: 200
+Calls: Veedafun
+DEBUG MESSAGE: INVALID ACTION FROM Poebif (2 0)
+Folds: Poebif
+Pot size: 400
+Wins: Veedafun, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poebif
+Small Blind: Poebif, chips: 100
+Big Blind: Veedafun, chips: 200
+Flop: 6d 6s 9c
+Turn: 7d
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Veedafun, 8s 4h
+Combination: Veedafun, Pair ( 6d 6s 9c 8s 7d )
+Shows: Poebif, 5d Kd
+Combination: Poebif, Pair ( 6d 6s Kd 9c 7d )
+Wins: Veedafun, chips: 100
+Wins: Poebif, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedafun
+Small Blind: Veedafun, chips: 100
+Big Blind: Poebif, chips: 200
+Flop: 6c Jd 4s
+Turn: 6s
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Veedafun, Qs 6h
+Combination: Veedafun, Three Of A Kind ( 6h 6c 6s Qs Jd )
+Shows: Poebif, 8s Kc
+Combination: Poebif, Pair ( 6c 6s Kc Jd 8s )
+Wins: Veedafun, chips: 200
+Wins: Poebif, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poebif
+Small Blind: Poebif, chips: 100
+Big Blind: Veedafun, chips: 200
+Flop: Jc Js 5s
+Turn: 5d
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Veedafun, 8s 3c
+Combination: Veedafun, Two Pair ( Jc Js 5s 5d 8s )
+Shows: Poebif, 7s Qd
+Combination: Poebif, Two Pair ( Jc Js 7s 7d Qd )
+Wins: Veedafun, chips: 100
+Wins: Poebif, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedafun
+Small Blind: Veedafun, chips: 100
+Big Blind: Poebif, chips: 200
+Flop: 8c Tc Jd
+Turn: 4c
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Veedafun, 7c 5c
+Combination: Veedafun, Flush ( Tc 8c 7c 5c 4c )
+Shows: Poebif, 5d Ts
+Combination: Poebif, Pair ( Ts Tc Jd 8c 7d )
+Wins: Veedafun, chips: 200
+Wins: Poebif, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poebif
+Small Blind: Poebif, chips: 100
+Big Blind: Veedafun, chips: 200
+Flop: 2d 8d Qd
+Turn: 7h
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Veedafun, 6c 8s
+Combination: Veedafun, Two Pair ( 8s 8d 2d 2c Qd )
+Shows: Poebif, Jd 2h
+Combination: Poebif, Three Of A Kind ( 2h 2d 2c Qd Jd )
+Wins: Veedafun, chips: 100
+Wins: Poebif, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veedafun
+Small Blind: Veedafun, chips: 100
+Big Blind: Poebif, chips: 200
+Flop: Kc 5c Ad
+Turn: 4h
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Veedafun, 9s 9c
+Combination: Veedafun, Pair ( 9s 9c Ad Kc Td )
+Shows: Poebif, Jh 3c
+Combination: Poebif, High Card ( Ad Kc Jh Td 5c )
+Wins: Veedafun, chips: 200
+Wins: Poebif, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poebif
+Small Blind: Poebif, chips: 100
+Big Blind: Veedafun, chips: 200
+Flop: 5d 5s Ts
+Turn: Kh
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Veedafun, Jh Qc
+Combination: Veedafun, Straight ( Kh Qc Jh Ts 9d )
+Shows: Poebif, Kc Jc
+Combination: Poebif, Two Pair ( Kc Kh 5d 5s Jc )
+Wins: Veedafun, chips: 300
+Quits: Poebif, chips: 0
+Ranking: Veedafun, Place: 1, Score: 1000
+Reveal AI: Veedafun, AI: Random
+Ranking: Poebif, Place: 2, Score: -1000
+Reveal AI: Poebif, AI: AIMyBot1
+
+Player Stats for Poebif, AI: AIMyBot1
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Veedafun, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 13, showdown: 7, bluff: 6
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

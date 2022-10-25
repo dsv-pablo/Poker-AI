@@ -1,0 +1,390 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Dowri: Random
+Miro: AIMyBot1
+
+Joins: Dowri, chips: 1000
+Joins: Miro, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miro
+Small Blind: Miro, chips: 100
+Big Blind: Dowri, chips: 200
+Folds: Miro
+Pot size: 300
+Wins: Dowri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowri
+Small Blind: Dowri, chips: 100
+Big Blind: Miro, chips: 200
+Calls: Dowri
+DEBUG MESSAGE: INVALID ACTION FROM Miro (2 0)
+Folds: Miro
+Pot size: 400
+Boasts: Dowri, 5h Jh
+Wins: Dowri, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miro
+Small Blind: Miro, chips: 100
+Big Blind: Dowri, chips: 200
+Folds: Miro
+Pot size: 300
+Wins: Dowri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowri
+Small Blind: Dowri, chips: 100
+Big Blind: Miro, chips: 200
+Calls: Dowri
+DEBUG MESSAGE: INVALID ACTION FROM Miro (2 0)
+Folds: Miro
+Pot size: 400
+Boasts: Dowri, Kc Th
+Wins: Dowri, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miro
+Small Blind: Miro, chips: 100
+Big Blind: Dowri, chips: 200
+Folds: Miro
+Pot size: 300
+Boasts: Dowri, 9d Qc
+Wins: Dowri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowri
+Small Blind: Dowri, chips: 100
+Big Blind: Miro, chips: 200
+Folds: Dowri
+Pot size: 300
+Boasts: Dowri, 9d 2c
+Wins: Miro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miro
+Small Blind: Miro, chips: 100
+Big Blind: Dowri, chips: 200
+Folds: Miro
+Pot size: 300
+Wins: Dowri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowri
+Small Blind: Dowri, chips: 100
+Big Blind: Miro, chips: 200
+Calls: Dowri
+DEBUG MESSAGE: INVALID ACTION FROM Miro (2 0)
+Folds: Miro
+Pot size: 400
+Wins: Dowri, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miro
+Small Blind: Miro, chips: 100
+Big Blind: Dowri, chips: 200
+Flop: 3c As 2s
+Turn: Js
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Dowri, Ah 9s
+Combination: Dowri, Pair ( Ah As Js 9s 5c )
+Shows: Miro, 4h 5h
+Combination: Miro, Straight ( 5h 4h 3c 2s As )
+Wins: Dowri, chips: 100
+Wins: Miro, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowri
+Small Blind: Dowri, chips: 100
+Big Blind: Miro, chips: 200
+Flop: 9h 3c 3s
+Turn: 7c
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Dowri, 5d 6d
+Combination: Dowri, Pair ( 3c 3s 9h 7c 6d )
+Shows: Miro, 5h Kc
+Combination: Miro, Pair ( 3c 3s Kc 9h 7c )
+Wins: Miro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miro
+Small Blind: Miro, chips: 100
+Big Blind: Dowri, chips: 200
+Folds: Miro
+Pot size: 300
+Boasts: Dowri, 4s Ks
+Wins: Dowri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowri
+Small Blind: Dowri, chips: 100
+Big Blind: Miro, chips: 200
+Flop: As 2d 4s
+Turn: 5s
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Dowri, 2c 9c
+Combination: Dowri, Pair ( 2c 2d As Th 9c )
+Shows: Miro, Kc 8h
+Combination: Miro, High Card ( As Kc Th 8h 5s )
+Wins: Dowri, chips: 200
+Wins: Miro, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miro
+Small Blind: Miro, chips: 100
+Big Blind: Dowri, chips: 200
+Flop: Jd Jh 9d
+Turn: 2d
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Dowri, Tc 6h
+Combination: Dowri, Pair ( Jd Jh Tc 9d 6h )
+Shows: Miro, Th 7s
+Combination: Miro, Pair ( Jd Jh Th 9d 7s )
+Wins: Dowri, chips: 100
+Wins: Miro, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowri
+Small Blind: Dowri, chips: 100
+Big Blind: Miro, chips: 200
+Flop: 3d 6c 3s
+Turn: Qs
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Dowri, Ks 7h
+Combination: Dowri, Pair ( 3d 3s Ks Qs 7h )
+Shows: Miro, 7s 2c
+Combination: Miro, Pair ( 3d 3s Qs 7s 6c )
+Wins: Dowri, chips: 200
+Wins: Miro, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miro
+Small Blind: Miro, chips: 100
+Big Blind: Dowri, chips: 200
+Flop: 9h Qs 4s
+Turn: 5d
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Dowri, Jc 4c
+Combination: Dowri, Pair ( 4c 4s Kc Qs Jc )
+Shows: Miro, 7h 3h
+Combination: Miro, High Card ( Kc Qs 9h 7h 5d )
+Wins: Dowri, chips: 300
+Quits: Miro, chips: 0
+Ranking: Dowri, Place: 1, Score: 1000
+Reveal AI: Dowri, AI: Random
+Ranking: Miro, Place: 2, Score: -1000
+Reveal AI: Miro, AI: AIMyBot1
+
+Player Stats for Dowri, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 5, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Miro, AI: AIMyBot1
+General: deals: 15, actions: 8, preflop actions: 8
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:45:35
+
+The game begins. The AI's of the players are: 
+Dowri: Random
+Miro: AIMyBot1
+
+Joins: Dowri, chips: 1000
+Joins: Miro, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miro
+Small Blind: Miro, chips: 100
+Big Blind: Dowri, chips: 200
+Folds: Miro
+Pot size: 300
+Wins: Dowri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowri
+Small Blind: Dowri, chips: 100
+Big Blind: Miro, chips: 200
+Calls: Dowri
+DEBUG MESSAGE: INVALID ACTION FROM Miro (2 0)
+Folds: Miro
+Pot size: 400
+Boasts: Dowri, 5h Jh
+Wins: Dowri, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miro
+Small Blind: Miro, chips: 100
+Big Blind: Dowri, chips: 200
+Folds: Miro
+Pot size: 300
+Wins: Dowri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowri
+Small Blind: Dowri, chips: 100
+Big Blind: Miro, chips: 200
+Calls: Dowri
+DEBUG MESSAGE: INVALID ACTION FROM Miro (2 0)
+Folds: Miro
+Pot size: 400
+Boasts: Dowri, Kc Th
+Wins: Dowri, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miro
+Small Blind: Miro, chips: 100
+Big Blind: Dowri, chips: 200
+Folds: Miro
+Pot size: 300
+Boasts: Dowri, 9d Qc
+Wins: Dowri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowri
+Small Blind: Dowri, chips: 100
+Big Blind: Miro, chips: 200
+Folds: Dowri
+Pot size: 300
+Boasts: Dowri, 9d 2c
+Wins: Miro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miro
+Small Blind: Miro, chips: 100
+Big Blind: Dowri, chips: 200
+Folds: Miro
+Pot size: 300
+Wins: Dowri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowri
+Small Blind: Dowri, chips: 100
+Big Blind: Miro, chips: 200
+Calls: Dowri
+DEBUG MESSAGE: INVALID ACTION FROM Miro (2 0)
+Folds: Miro
+Pot size: 400
+Wins: Dowri, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miro
+Small Blind: Miro, chips: 100
+Big Blind: Dowri, chips: 200
+Flop: 3c As 2s
+Turn: Js
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Dowri, Ah 9s
+Combination: Dowri, Pair ( Ah As Js 9s 5c )
+Shows: Miro, 4h 5h
+Combination: Miro, Straight ( 5h 4h 3c 2s As )
+Wins: Dowri, chips: 100
+Wins: Miro, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowri
+Small Blind: Dowri, chips: 100
+Big Blind: Miro, chips: 200
+Flop: 9h 3c 3s
+Turn: 7c
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Dowri, 5d 6d
+Combination: Dowri, Pair ( 3c 3s 9h 7c 6d )
+Shows: Miro, 5h Kc
+Combination: Miro, Pair ( 3c 3s Kc 9h 7c )
+Wins: Miro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miro
+Small Blind: Miro, chips: 100
+Big Blind: Dowri, chips: 200
+Folds: Miro
+Pot size: 300
+Boasts: Dowri, 4s Ks
+Wins: Dowri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowri
+Small Blind: Dowri, chips: 100
+Big Blind: Miro, chips: 200
+Flop: As 2d 4s
+Turn: 5s
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Dowri, 2c 9c
+Combination: Dowri, Pair ( 2c 2d As Th 9c )
+Shows: Miro, Kc 8h
+Combination: Miro, High Card ( As Kc Th 8h 5s )
+Wins: Dowri, chips: 200
+Wins: Miro, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miro
+Small Blind: Miro, chips: 100
+Big Blind: Dowri, chips: 200
+Flop: Jd Jh 9d
+Turn: 2d
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Dowri, Tc 6h
+Combination: Dowri, Pair ( Jd Jh Tc 9d 6h )
+Shows: Miro, Th 7s
+Combination: Miro, Pair ( Jd Jh Th 9d 7s )
+Wins: Dowri, chips: 100
+Wins: Miro, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dowri
+Small Blind: Dowri, chips: 100
+Big Blind: Miro, chips: 200
+Flop: 3d 6c 3s
+Turn: Qs
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Dowri, Ks 7h
+Combination: Dowri, Pair ( 3d 3s Ks Qs 7h )
+Shows: Miro, 7s 2c
+Combination: Miro, Pair ( 3d 3s Qs 7s 6c )
+Wins: Dowri, chips: 200
+Wins: Miro, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miro
+Small Blind: Miro, chips: 100
+Big Blind: Dowri, chips: 200
+Flop: 9h Qs 4s
+Turn: 5d
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Dowri, Jc 4c
+Combination: Dowri, Pair ( 4c 4s Kc Qs Jc )
+Shows: Miro, 7h 3h
+Combination: Miro, High Card ( Kc Qs 9h 7h 5d )
+Wins: Dowri, chips: 300
+Quits: Miro, chips: 0
+Ranking: Dowri, Place: 1, Score: 1000
+Reveal AI: Dowri, AI: Random
+Ranking: Miro, Place: 2, Score: -1000
+Reveal AI: Miro, AI: AIMyBot1
+
+Player Stats for Dowri, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 5, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Miro, AI: AIMyBot1
+General: deals: 15, actions: 8, preflop actions: 8
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

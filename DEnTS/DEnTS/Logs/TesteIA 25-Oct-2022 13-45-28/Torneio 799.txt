@@ -1,0 +1,228 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Noseep: AIMyBot1
+Girobi: Random
+
+Joins: Noseep, chips: 1000
+Joins: Girobi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girobi
+Small Blind: Girobi, chips: 100
+Big Blind: Noseep, chips: 200
+Folds: Girobi
+Pot size: 300
+Boasts: Girobi, 2s 8s
+Wins: Noseep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noseep
+Small Blind: Noseep, chips: 100
+Big Blind: Girobi, chips: 200
+Folds: Noseep
+Pot size: 300
+Boasts: Girobi, 9h 7s
+Wins: Girobi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girobi
+Small Blind: Girobi, chips: 100
+Big Blind: Noseep, chips: 200
+Calls: Girobi
+DEBUG MESSAGE: INVALID ACTION FROM Noseep (2 0)
+Folds: Noseep
+Pot size: 400
+Boasts: Girobi, Th 2c
+Wins: Girobi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noseep
+Small Blind: Noseep, chips: 100
+Big Blind: Girobi, chips: 200
+Folds: Noseep
+Pot size: 300
+Boasts: Girobi, 6c 7h
+Wins: Girobi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girobi
+Small Blind: Girobi, chips: 100
+Big Blind: Noseep, chips: 200
+Calls: Girobi
+DEBUG MESSAGE: INVALID ACTION FROM Noseep (2 0)
+Folds: Noseep
+Pot size: 400
+Boasts: Girobi, 6h As
+Wins: Girobi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noseep
+Small Blind: Noseep, chips: 100
+Big Blind: Girobi, chips: 200
+Folds: Noseep
+Pot size: 300
+Wins: Girobi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girobi
+Small Blind: Girobi, chips: 100
+Big Blind: Noseep, chips: 200
+Raises: Girobi, chips: 300
+Folds: Noseep
+Pot size: 700
+Boasts: Girobi, 5h 4h
+Wins: Girobi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noseep
+Small Blind: Noseep, chips: 100
+Big Blind: Girobi, chips: 200
+Folds: Noseep
+Pot size: 300
+Wins: Girobi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girobi
+Small Blind: Girobi, chips: 100
+Big Blind: Noseep, chips: 100
+Flop: Jh 4c 8s
+Turn: 5h
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Noseep, 9d Kd
+Combination: Noseep, High Card ( Kd Jh Ts 9d 8s )
+Shows: Girobi, 3h As
+Combination: Girobi, High Card ( As Jh Ts 8s 5h )
+Wins: Girobi, chips: 200
+Quits: Noseep, chips: 0
+Ranking: Girobi, Place: 1, Score: 1000
+Reveal AI: Girobi, AI: Random
+Ranking: Noseep, Place: 2, Score: -1000
+Reveal AI: Noseep, AI: AIMyBot1
+
+Player Stats for Girobi, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Noseep, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:22
+
+The game begins. The AI's of the players are: 
+Noseep: AIMyBot1
+Girobi: Random
+
+Joins: Noseep, chips: 1000
+Joins: Girobi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girobi
+Small Blind: Girobi, chips: 100
+Big Blind: Noseep, chips: 200
+Folds: Girobi
+Pot size: 300
+Boasts: Girobi, 2s 8s
+Wins: Noseep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noseep
+Small Blind: Noseep, chips: 100
+Big Blind: Girobi, chips: 200
+Folds: Noseep
+Pot size: 300
+Boasts: Girobi, 9h 7s
+Wins: Girobi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girobi
+Small Blind: Girobi, chips: 100
+Big Blind: Noseep, chips: 200
+Calls: Girobi
+DEBUG MESSAGE: INVALID ACTION FROM Noseep (2 0)
+Folds: Noseep
+Pot size: 400
+Boasts: Girobi, Th 2c
+Wins: Girobi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noseep
+Small Blind: Noseep, chips: 100
+Big Blind: Girobi, chips: 200
+Folds: Noseep
+Pot size: 300
+Boasts: Girobi, 6c 7h
+Wins: Girobi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girobi
+Small Blind: Girobi, chips: 100
+Big Blind: Noseep, chips: 200
+Calls: Girobi
+DEBUG MESSAGE: INVALID ACTION FROM Noseep (2 0)
+Folds: Noseep
+Pot size: 400
+Boasts: Girobi, 6h As
+Wins: Girobi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noseep
+Small Blind: Noseep, chips: 100
+Big Blind: Girobi, chips: 200
+Folds: Noseep
+Pot size: 300
+Wins: Girobi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girobi
+Small Blind: Girobi, chips: 100
+Big Blind: Noseep, chips: 200
+Raises: Girobi, chips: 300
+Folds: Noseep
+Pot size: 700
+Boasts: Girobi, 5h 4h
+Wins: Girobi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noseep
+Small Blind: Noseep, chips: 100
+Big Blind: Girobi, chips: 200
+Folds: Noseep
+Pot size: 300
+Wins: Girobi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Girobi
+Small Blind: Girobi, chips: 100
+Big Blind: Noseep, chips: 100
+Flop: Jh 4c 8s
+Turn: 5h
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Noseep, 9d Kd
+Combination: Noseep, High Card ( Kd Jh Ts 9d 8s )
+Shows: Girobi, 3h As
+Combination: Girobi, High Card ( As Jh Ts 8s 5h )
+Wins: Girobi, chips: 200
+Quits: Noseep, chips: 0
+Ranking: Girobi, Place: 1, Score: 1000
+Reveal AI: Girobi, AI: Random
+Ranking: Noseep, Place: 2, Score: -1000
+Reveal AI: Noseep, AI: AIMyBot1
+
+Player Stats for Girobi, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Noseep, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

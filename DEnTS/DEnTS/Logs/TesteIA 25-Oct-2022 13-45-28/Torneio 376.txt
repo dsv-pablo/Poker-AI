@@ -1,0 +1,442 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jaka: AIMyBot1
+Honhet: Random
+
+Joins: Jaka, chips: 1000
+Joins: Honhet, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Folds: Jaka
+Pot size: 300
+Boasts: Honhet, Js 7d
+Wins: Honhet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Honhet
+Small Blind: Honhet, chips: 100
+Big Blind: Jaka, chips: 200
+Calls: Honhet
+DEBUG MESSAGE: INVALID ACTION FROM Jaka (2 0)
+Folds: Jaka
+Pot size: 400
+Wins: Honhet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Folds: Jaka
+Pot size: 300
+Wins: Honhet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Honhet
+Small Blind: Honhet, chips: 100
+Big Blind: Jaka, chips: 200
+Raises: Honhet, chips: 300
+Folds: Jaka
+Pot size: 700
+Boasts: Honhet, Qh 6d
+Wins: Honhet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Folds: Jaka
+Pot size: 300
+Wins: Honhet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Honhet
+Small Blind: Honhet, chips: 100
+Big Blind: Jaka, chips: 200
+Raises: Honhet, chips: 300
+Folds: Jaka
+Pot size: 700
+Wins: Honhet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Flop: 4d Jc 9c
+Turn: Th
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Jaka, 4s Qh
+Combination: Jaka, Two Pair ( Qh Qd 4s 4d Jc )
+Shows: Honhet, 3s Td
+Combination: Honhet, Pair ( Td Th Qd Jc 9c )
+Wins: Jaka, chips: 200
+Wins: Honhet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Honhet
+Small Blind: Honhet, chips: 100
+Big Blind: Jaka, chips: 200
+Flop: 3s 9c 8h
+Turn: 6s
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Jaka, Kc Ah
+Combination: Jaka, Pair ( 3s 3c Ah Kc 9c )
+Shows: Honhet, Jc 5c
+Combination: Honhet, Pair ( 3s 3c Jc 9c 8h )
+Wins: Jaka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Folds: Jaka
+Pot size: 300
+Boasts: Honhet, 6h 4s
+Wins: Honhet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Honhet
+Small Blind: Honhet, chips: 100
+Big Blind: Jaka, chips: 200
+Flop: 2c 8h 3c
+Turn: 4s
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Jaka, 4c 6c
+Combination: Jaka, Two Pair ( 6c 6d 4c 4s 8h )
+Shows: Honhet, 8s As
+Combination: Honhet, Pair ( 8s 8h As 6d 4s )
+Wins: Jaka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Folds: Jaka
+Pot size: 300
+Boasts: Honhet, 7h 7d
+Wins: Honhet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Honhet
+Small Blind: Honhet, chips: 100
+Big Blind: Jaka, chips: 200
+Flop: Jd Ad Kd
+Turn: Th
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Jaka, 5d 7d
+Combination: Jaka, Flush ( Ad Kd Jd 7d 5d )
+Shows: Honhet, 4d 3c
+Combination: Honhet, Pair ( 3c 3s Ad Kd Jd )
+Wins: Jaka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Folds: Jaka
+Pot size: 300
+Boasts: Honhet, Ts 8h
+Wins: Honhet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Honhet
+Small Blind: Honhet, chips: 100
+Big Blind: Jaka, chips: 200
+Flop: 2s Jc 3d
+Turn: 2h
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Jaka, 4s 9s
+Combination: Jaka, Pair ( 2s 2h Jc Td 9s )
+Shows: Honhet, 3c Ah
+Combination: Honhet, Two Pair ( 3c 3d 2s 2h Ah )
+Wins: Jaka, chips: 100
+Wins: Honhet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Flop: 6c 7s Ad
+Turn: Ts
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Jaka, 5d As
+Combination: Jaka, Pair ( As Ad Jc Ts 7s )
+Shows: Honhet, 3h 5s
+Combination: Honhet, High Card ( Ad Jc Ts 7s 6c )
+Wins: Jaka, chips: 200
+Wins: Honhet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Honhet
+Small Blind: Honhet, chips: 100
+Big Blind: Jaka, chips: 200
+Flop: Td 6h 5d
+Turn: 2d
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Jaka, 4h Jh
+Combination: Jaka, High Card ( Ks Jh Td 6h 5d )
+Shows: Honhet, 3h 5h
+Combination: Honhet, Pair ( 5h 5d Ks Td 6h )
+Wins: Jaka, chips: 100
+Wins: Honhet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Flop: 9h 5c 2c
+Turn: 7c
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Jaka, Kh Ad
+Combination: Jaka, Pair ( 9h 9s Ad Kh 7c )
+Shows: Honhet, 7d Td
+Combination: Honhet, Two Pair ( 9h 9s 7d 7c Td )
+Wins: Honhet, chips: 300
+Quits: Jaka, chips: 0
+Ranking: Honhet, Place: 1, Score: 1000
+Reveal AI: Honhet, AI: Random
+Ranking: Jaka, Place: 2, Score: -1000
+Reveal AI: Jaka, AI: AIMyBot1
+
+Player Stats for Honhet, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 14, showdown: 5, bluff: 9
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+
+Player Stats for Jaka, AI: AIMyBot1
+General: deals: 17, actions: 9, preflop actions: 9
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Date: 2022/10/25 13:45:54
+
+The game begins. The AI's of the players are: 
+Jaka: AIMyBot1
+Honhet: Random
+
+Joins: Jaka, chips: 1000
+Joins: Honhet, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Folds: Jaka
+Pot size: 300
+Boasts: Honhet, Js 7d
+Wins: Honhet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Honhet
+Small Blind: Honhet, chips: 100
+Big Blind: Jaka, chips: 200
+Calls: Honhet
+DEBUG MESSAGE: INVALID ACTION FROM Jaka (2 0)
+Folds: Jaka
+Pot size: 400
+Wins: Honhet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Folds: Jaka
+Pot size: 300
+Wins: Honhet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Honhet
+Small Blind: Honhet, chips: 100
+Big Blind: Jaka, chips: 200
+Raises: Honhet, chips: 300
+Folds: Jaka
+Pot size: 700
+Boasts: Honhet, Qh 6d
+Wins: Honhet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Folds: Jaka
+Pot size: 300
+Wins: Honhet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Honhet
+Small Blind: Honhet, chips: 100
+Big Blind: Jaka, chips: 200
+Raises: Honhet, chips: 300
+Folds: Jaka
+Pot size: 700
+Wins: Honhet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Flop: 4d Jc 9c
+Turn: Th
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Jaka, 4s Qh
+Combination: Jaka, Two Pair ( Qh Qd 4s 4d Jc )
+Shows: Honhet, 3s Td
+Combination: Honhet, Pair ( Td Th Qd Jc 9c )
+Wins: Jaka, chips: 200
+Wins: Honhet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Honhet
+Small Blind: Honhet, chips: 100
+Big Blind: Jaka, chips: 200
+Flop: 3s 9c 8h
+Turn: 6s
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Jaka, Kc Ah
+Combination: Jaka, Pair ( 3s 3c Ah Kc 9c )
+Shows: Honhet, Jc 5c
+Combination: Honhet, Pair ( 3s 3c Jc 9c 8h )
+Wins: Jaka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Folds: Jaka
+Pot size: 300
+Boasts: Honhet, 6h 4s
+Wins: Honhet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Honhet
+Small Blind: Honhet, chips: 100
+Big Blind: Jaka, chips: 200
+Flop: 2c 8h 3c
+Turn: 4s
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Jaka, 4c 6c
+Combination: Jaka, Two Pair ( 6c 6d 4c 4s 8h )
+Shows: Honhet, 8s As
+Combination: Honhet, Pair ( 8s 8h As 6d 4s )
+Wins: Jaka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Folds: Jaka
+Pot size: 300
+Boasts: Honhet, 7h 7d
+Wins: Honhet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Honhet
+Small Blind: Honhet, chips: 100
+Big Blind: Jaka, chips: 200
+Flop: Jd Ad Kd
+Turn: Th
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Jaka, 5d 7d
+Combination: Jaka, Flush ( Ad Kd Jd 7d 5d )
+Shows: Honhet, 4d 3c
+Combination: Honhet, Pair ( 3c 3s Ad Kd Jd )
+Wins: Jaka, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Folds: Jaka
+Pot size: 300
+Boasts: Honhet, Ts 8h
+Wins: Honhet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Honhet
+Small Blind: Honhet, chips: 100
+Big Blind: Jaka, chips: 200
+Flop: 2s Jc 3d
+Turn: 2h
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Jaka, 4s 9s
+Combination: Jaka, Pair ( 2s 2h Jc Td 9s )
+Shows: Honhet, 3c Ah
+Combination: Honhet, Two Pair ( 3c 3d 2s 2h Ah )
+Wins: Jaka, chips: 100
+Wins: Honhet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Flop: 6c 7s Ad
+Turn: Ts
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Jaka, 5d As
+Combination: Jaka, Pair ( As Ad Jc Ts 7s )
+Shows: Honhet, 3h 5s
+Combination: Honhet, High Card ( Ad Jc Ts 7s 6c )
+Wins: Jaka, chips: 200
+Wins: Honhet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Honhet
+Small Blind: Honhet, chips: 100
+Big Blind: Jaka, chips: 200
+Flop: Td 6h 5d
+Turn: 2d
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Jaka, 4h Jh
+Combination: Jaka, High Card ( Ks Jh Td 6h 5d )
+Shows: Honhet, 3h 5h
+Combination: Honhet, Pair ( 5h 5d Ks Td 6h )
+Wins: Jaka, chips: 100
+Wins: Honhet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jaka
+Small Blind: Jaka, chips: 100
+Big Blind: Honhet, chips: 200
+Flop: 9h 5c 2c
+Turn: 7c
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Jaka, Kh Ad
+Combination: Jaka, Pair ( 9h 9s Ad Kh 7c )
+Shows: Honhet, 7d Td
+Combination: Honhet, Two Pair ( 9h 9s 7d 7c Td )
+Wins: Honhet, chips: 300
+Quits: Jaka, chips: 0
+Ranking: Honhet, Place: 1, Score: 1000
+Reveal AI: Honhet, AI: Random
+Ranking: Jaka, Place: 2, Score: -1000
+Reveal AI: Jaka, AI: AIMyBot1
+
+Player Stats for Honhet, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 14, showdown: 5, bluff: 9
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+
+Player Stats for Jaka, AI: AIMyBot1
+General: deals: 17, actions: 9, preflop actions: 9
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+

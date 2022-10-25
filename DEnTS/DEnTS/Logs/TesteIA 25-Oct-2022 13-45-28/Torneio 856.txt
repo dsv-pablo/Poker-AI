@@ -1,0 +1,216 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Ditoef: AIMyBot1
+Fitteep: Random
+
+Joins: Ditoef, chips: 1000
+Joins: Fitteep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ditoef
+Small Blind: Ditoef, chips: 100
+Big Blind: Fitteep, chips: 200
+Folds: Ditoef
+Pot size: 300
+Wins: Fitteep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fitteep
+Small Blind: Fitteep, chips: 100
+Big Blind: Ditoef, chips: 200
+Folds: Fitteep
+Pot size: 300
+Wins: Ditoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ditoef
+Small Blind: Ditoef, chips: 100
+Big Blind: Fitteep, chips: 200
+Folds: Ditoef
+Pot size: 300
+Wins: Fitteep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fitteep
+Small Blind: Fitteep, chips: 100
+Big Blind: Ditoef, chips: 200
+Raises: Fitteep, chips: 300
+Folds: Ditoef
+Pot size: 700
+Wins: Fitteep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ditoef
+Small Blind: Ditoef, chips: 100
+Big Blind: Fitteep, chips: 200
+Folds: Ditoef
+Pot size: 300
+Wins: Fitteep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fitteep
+Small Blind: Fitteep, chips: 100
+Big Blind: Ditoef, chips: 200
+Calls: Fitteep
+DEBUG MESSAGE: INVALID ACTION FROM Ditoef (2 0)
+Folds: Ditoef
+Pot size: 400
+Wins: Fitteep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ditoef
+Small Blind: Ditoef, chips: 100
+Big Blind: Fitteep, chips: 200
+Folds: Ditoef
+Pot size: 300
+Boasts: Fitteep, 4d Qh
+Wins: Fitteep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fitteep
+Small Blind: Fitteep, chips: 100
+Big Blind: Ditoef, chips: 200
+Raises: Fitteep, chips: 300
+Folds: Ditoef
+Pot size: 700
+Wins: Fitteep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ditoef
+Small Blind: Ditoef, chips: 100
+Big Blind: Fitteep, chips: 200
+Flop: 8c 5d Td
+Turn: 5s
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Ditoef, Jd Js
+Combination: Ditoef, Two Pair ( Jd Js 8c 8h Td )
+Shows: Fitteep, 5h Qd
+Combination: Fitteep, Full House ( 5h 5d 5s 8c 8h )
+Wins: Fitteep, chips: 300
+Quits: Ditoef, chips: 0
+Ranking: Fitteep, Place: 1, Score: 1000
+Reveal AI: Fitteep, AI: Random
+Ranking: Ditoef, Place: 2, Score: -1000
+Reveal AI: Ditoef, AI: AIMyBot1
+
+Player Stats for Ditoef, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Fitteep, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:26
+
+The game begins. The AI's of the players are: 
+Ditoef: AIMyBot1
+Fitteep: Random
+
+Joins: Ditoef, chips: 1000
+Joins: Fitteep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ditoef
+Small Blind: Ditoef, chips: 100
+Big Blind: Fitteep, chips: 200
+Folds: Ditoef
+Pot size: 300
+Wins: Fitteep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fitteep
+Small Blind: Fitteep, chips: 100
+Big Blind: Ditoef, chips: 200
+Folds: Fitteep
+Pot size: 300
+Wins: Ditoef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ditoef
+Small Blind: Ditoef, chips: 100
+Big Blind: Fitteep, chips: 200
+Folds: Ditoef
+Pot size: 300
+Wins: Fitteep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fitteep
+Small Blind: Fitteep, chips: 100
+Big Blind: Ditoef, chips: 200
+Raises: Fitteep, chips: 300
+Folds: Ditoef
+Pot size: 700
+Wins: Fitteep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ditoef
+Small Blind: Ditoef, chips: 100
+Big Blind: Fitteep, chips: 200
+Folds: Ditoef
+Pot size: 300
+Wins: Fitteep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fitteep
+Small Blind: Fitteep, chips: 100
+Big Blind: Ditoef, chips: 200
+Calls: Fitteep
+DEBUG MESSAGE: INVALID ACTION FROM Ditoef (2 0)
+Folds: Ditoef
+Pot size: 400
+Wins: Fitteep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ditoef
+Small Blind: Ditoef, chips: 100
+Big Blind: Fitteep, chips: 200
+Folds: Ditoef
+Pot size: 300
+Boasts: Fitteep, 4d Qh
+Wins: Fitteep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fitteep
+Small Blind: Fitteep, chips: 100
+Big Blind: Ditoef, chips: 200
+Raises: Fitteep, chips: 300
+Folds: Ditoef
+Pot size: 700
+Wins: Fitteep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ditoef
+Small Blind: Ditoef, chips: 100
+Big Blind: Fitteep, chips: 200
+Flop: 8c 5d Td
+Turn: 5s
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Ditoef, Jd Js
+Combination: Ditoef, Two Pair ( Jd Js 8c 8h Td )
+Shows: Fitteep, 5h Qd
+Combination: Fitteep, Full House ( 5h 5d 5s 8c 8h )
+Wins: Fitteep, chips: 300
+Quits: Ditoef, chips: 0
+Ranking: Fitteep, Place: 1, Score: 1000
+Reveal AI: Fitteep, AI: Random
+Ranking: Ditoef, Place: 2, Score: -1000
+Reveal AI: Ditoef, AI: AIMyBot1
+
+Player Stats for Ditoef, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Fitteep, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

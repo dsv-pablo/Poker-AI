@@ -1,0 +1,438 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Fa: AIMyBot1
+Reelip: Random
+
+Joins: Fa, chips: 1000
+Joins: Reelip, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Reelip
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Boasts: Reelip, 8h 2s
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Reelip
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Boasts: Reelip, 4h Kc
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Reelip
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Boasts: Reelip, 6s 4c
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 200
+Calls: Reelip
+DEBUG MESSAGE: INVALID ACTION FROM Fa (2 0)
+Folds: Fa
+Pot size: 400
+Wins: Reelip, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 200
+Calls: Reelip
+DEBUG MESSAGE: INVALID ACTION FROM Fa (2 0)
+Folds: Fa
+Pot size: 400
+Wins: Reelip, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Reelip
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Boasts: Reelip, Qd Ad
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 200
+Calls: Reelip
+DEBUG MESSAGE: INVALID ACTION FROM Fa (2 0)
+Folds: Fa
+Pot size: 400
+Wins: Reelip, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 100
+Flop: 3d 7d 7s
+Turn: 8h
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Fa, Ah Tc
+Combination: Fa, Pair ( 7d 7s Ah Tc 9h )
+Shows: Reelip, Js Qs
+Combination: Reelip, Pair ( 7d 7s Qs Js 9h )
+Wins: Fa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 100
+Flop: 6d Td 5d
+Turn: Ac
+River: Qh
+Pot size: 200
+Showdown Reached
+Shows: Fa, Ks 2s
+Combination: Fa, High Card ( Ac Ks Qh Td 6d )
+Shows: Reelip, 3s 2h
+Combination: Reelip, High Card ( Ac Qh Td 6d 5d )
+Wins: Fa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Boasts: Reelip, 8s Ah
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 100
+Flop: Ts 5s Qh
+Turn: 8h
+River: 9c
+Pot size: 200
+Showdown Reached
+Shows: Fa, Jh 2s
+Combination: Fa, Straight ( Qh Jh Ts 9c 8h )
+Shows: Reelip, 4d Ks
+Combination: Reelip, High Card ( Ks Qh Ts 9c 8h )
+Wins: Fa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 100
+Flop: 7d 4s 5s
+Turn: 6c
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Fa, 5c Ts
+Combination: Fa, Pair ( 5c 5s Kh Ts 7d )
+Shows: Reelip, Qh Qc
+Combination: Reelip, Pair ( Qh Qc Kh 7d 6c )
+Wins: Reelip, chips: 200
+Quits: Fa, chips: 0
+Ranking: Reelip, Place: 1, Score: 1000
+Reveal AI: Reelip, AI: Random
+Ranking: Fa, Place: 2, Score: -1000
+Reveal AI: Fa, AI: AIMyBot1
+
+Player Stats for Fa, AI: AIMyBot1
+General: deals: 21, actions: 13, preflop actions: 13
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 7, showdown: 3, bluff: 4
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Reelip, AI: Random
+General: deals: 21, actions: 7, preflop actions: 7
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 14, showdown: 1, bluff: 13
+Chips: won: 4400, lost: 3400, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.25
+
+
+Date: 2022/10/25 13:45:39
+
+The game begins. The AI's of the players are: 
+Fa: AIMyBot1
+Reelip: Random
+
+Joins: Fa, chips: 1000
+Joins: Reelip, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Reelip
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Boasts: Reelip, 8h 2s
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Reelip
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Boasts: Reelip, 4h Kc
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Reelip
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Boasts: Reelip, 6s 4c
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 200
+Calls: Reelip
+DEBUG MESSAGE: INVALID ACTION FROM Fa (2 0)
+Folds: Fa
+Pot size: 400
+Wins: Reelip, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 200
+Calls: Reelip
+DEBUG MESSAGE: INVALID ACTION FROM Fa (2 0)
+Folds: Fa
+Pot size: 400
+Wins: Reelip, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Reelip
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Boasts: Reelip, Qd Ad
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 200
+Calls: Reelip
+DEBUG MESSAGE: INVALID ACTION FROM Fa (2 0)
+Folds: Fa
+Pot size: 400
+Wins: Reelip, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 100
+Flop: 3d 7d 7s
+Turn: 8h
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Fa, Ah Tc
+Combination: Fa, Pair ( 7d 7s Ah Tc 9h )
+Shows: Reelip, Js Qs
+Combination: Reelip, Pair ( 7d 7s Qs Js 9h )
+Wins: Fa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 100
+Flop: 6d Td 5d
+Turn: Ac
+River: Qh
+Pot size: 200
+Showdown Reached
+Shows: Fa, Ks 2s
+Combination: Fa, High Card ( Ac Ks Qh Td 6d )
+Shows: Reelip, 3s 2h
+Combination: Reelip, High Card ( Ac Qh Td 6d 5d )
+Wins: Fa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Boasts: Reelip, 8s Ah
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 100
+Flop: Ts 5s Qh
+Turn: 8h
+River: 9c
+Pot size: 200
+Showdown Reached
+Shows: Fa, Jh 2s
+Combination: Fa, Straight ( Qh Jh Ts 9c 8h )
+Shows: Reelip, 4d Ks
+Combination: Reelip, High Card ( Ks Qh Ts 9c 8h )
+Wins: Fa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Reelip, chips: 200
+Folds: Fa
+Pot size: 300
+Wins: Reelip, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reelip
+Small Blind: Reelip, chips: 100
+Big Blind: Fa, chips: 100
+Flop: 7d 4s 5s
+Turn: 6c
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Fa, 5c Ts
+Combination: Fa, Pair ( 5c 5s Kh Ts 7d )
+Shows: Reelip, Qh Qc
+Combination: Reelip, Pair ( Qh Qc Kh 7d 6c )
+Wins: Reelip, chips: 200
+Quits: Fa, chips: 0
+Ranking: Reelip, Place: 1, Score: 1000
+Reveal AI: Reelip, AI: Random
+Ranking: Fa, Place: 2, Score: -1000
+Reveal AI: Fa, AI: AIMyBot1
+
+Player Stats for Fa, AI: AIMyBot1
+General: deals: 21, actions: 13, preflop actions: 13
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 7, showdown: 3, bluff: 4
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Reelip, AI: Random
+General: deals: 21, actions: 7, preflop actions: 7
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 14, showdown: 1, bluff: 13
+Chips: won: 4400, lost: 3400, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.25
+
+

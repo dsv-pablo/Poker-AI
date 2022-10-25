@@ -1,0 +1,188 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Teda: AIMyBot1
+Jowa: Random
+
+Joins: Teda, chips: 1000
+Joins: Jowa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teda
+Small Blind: Teda, chips: 100
+Big Blind: Jowa, chips: 200
+Folds: Teda
+Pot size: 300
+Wins: Jowa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowa
+Small Blind: Jowa, chips: 100
+Big Blind: Teda, chips: 200
+Calls: Jowa
+DEBUG MESSAGE: INVALID ACTION FROM Teda (2 0)
+Folds: Teda
+Pot size: 400
+Boasts: Jowa, Ac 9h
+Wins: Jowa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teda
+Small Blind: Teda, chips: 100
+Big Blind: Jowa, chips: 200
+Folds: Teda
+Pot size: 300
+Wins: Jowa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowa
+Small Blind: Jowa, chips: 100
+Big Blind: Teda, chips: 200
+Raises: Jowa, chips: 300
+Folds: Teda
+Pot size: 700
+Wins: Jowa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teda
+Small Blind: Teda, chips: 100
+Big Blind: Jowa, chips: 200
+Folds: Teda
+Pot size: 300
+Wins: Jowa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowa
+Small Blind: Jowa, chips: 100
+Big Blind: Teda, chips: 200
+Raises: Jowa, chips: 300
+Folds: Teda
+Pot size: 700
+Wins: Jowa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teda
+Small Blind: Teda, chips: 100
+Big Blind: Jowa, chips: 200
+Flop: 8c Qh Td
+Turn: 4d
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Teda, 6d 3s
+Combination: Teda, High Card ( Qh Td 8c 6d 5s )
+Shows: Jowa, Js Ks
+Combination: Jowa, High Card ( Ks Qh Js Td 8c )
+Wins: Jowa, chips: 300
+Quits: Teda, chips: 0
+Ranking: Jowa, Place: 1, Score: 1000
+Reveal AI: Jowa, AI: Random
+Ranking: Teda, Place: 2, Score: -1000
+Reveal AI: Teda, AI: AIMyBot1
+
+Player Stats for Jowa, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Teda, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:42
+
+The game begins. The AI's of the players are: 
+Teda: AIMyBot1
+Jowa: Random
+
+Joins: Teda, chips: 1000
+Joins: Jowa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teda
+Small Blind: Teda, chips: 100
+Big Blind: Jowa, chips: 200
+Folds: Teda
+Pot size: 300
+Wins: Jowa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowa
+Small Blind: Jowa, chips: 100
+Big Blind: Teda, chips: 200
+Calls: Jowa
+DEBUG MESSAGE: INVALID ACTION FROM Teda (2 0)
+Folds: Teda
+Pot size: 400
+Boasts: Jowa, Ac 9h
+Wins: Jowa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teda
+Small Blind: Teda, chips: 100
+Big Blind: Jowa, chips: 200
+Folds: Teda
+Pot size: 300
+Wins: Jowa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowa
+Small Blind: Jowa, chips: 100
+Big Blind: Teda, chips: 200
+Raises: Jowa, chips: 300
+Folds: Teda
+Pot size: 700
+Wins: Jowa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teda
+Small Blind: Teda, chips: 100
+Big Blind: Jowa, chips: 200
+Folds: Teda
+Pot size: 300
+Wins: Jowa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jowa
+Small Blind: Jowa, chips: 100
+Big Blind: Teda, chips: 200
+Raises: Jowa, chips: 300
+Folds: Teda
+Pot size: 700
+Wins: Jowa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teda
+Small Blind: Teda, chips: 100
+Big Blind: Jowa, chips: 200
+Flop: 8c Qh Td
+Turn: 4d
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Teda, 6d 3s
+Combination: Teda, High Card ( Qh Td 8c 6d 5s )
+Shows: Jowa, Js Ks
+Combination: Jowa, High Card ( Ks Qh Js Td 8c )
+Wins: Jowa, chips: 300
+Quits: Teda, chips: 0
+Ranking: Jowa, Place: 1, Score: 1000
+Reveal AI: Jowa, AI: Random
+Ranking: Teda, Place: 2, Score: -1000
+Reveal AI: Teda, AI: AIMyBot1
+
+Player Stats for Jowa, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Teda, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

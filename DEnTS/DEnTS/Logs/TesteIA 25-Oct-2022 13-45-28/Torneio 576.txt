@@ -1,0 +1,468 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pegeroe: AIMyBot1
+Gubo: Random
+
+Joins: Pegeroe, chips: 1000
+Joins: Gubo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Calls: Gubo
+DEBUG MESSAGE: INVALID ACTION FROM Pegeroe (2 0)
+Folds: Pegeroe
+Pot size: 400
+Wins: Gubo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Boasts: Gubo, 7h Js
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Folds: Gubo
+Pot size: 300
+Boasts: Gubo, Qc 9h
+Wins: Pegeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Boasts: Gubo, 4d Ah
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Raises: Gubo, chips: 300
+Folds: Pegeroe
+Pot size: 700
+Boasts: Gubo, 2d 9c
+Wins: Gubo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Boasts: Gubo, 9c 4h
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Folds: Gubo
+Pot size: 300
+Wins: Pegeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Boasts: Gubo, 2d 7c
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Folds: Gubo
+Pot size: 300
+Boasts: Gubo, 8c Js
+Wins: Pegeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Folds: Gubo
+Pot size: 300
+Boasts: Gubo, 4h 4s
+Wins: Pegeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Boasts: Gubo, 2h Ad
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Folds: Gubo
+Pot size: 300
+Wins: Pegeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Folds: Gubo
+Pot size: 300
+Boasts: Gubo, Jh 9s
+Wins: Pegeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Boasts: Gubo, Jc 6s
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Calls: Gubo
+DEBUG MESSAGE: INVALID ACTION FROM Pegeroe (2 0)
+Folds: Pegeroe
+Pot size: 400
+Boasts: Gubo, 4h 2s
+Wins: Gubo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Boasts: Gubo, 8h 4s
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 100
+Flop: 4c 6h 8s
+Turn: 8c
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Pegeroe, 9c 6s
+Combination: Pegeroe, Two Pair ( 8s 8c 6s 6h Jd )
+Shows: Gubo, Tc 3d
+Combination: Gubo, Pair ( 8s 8c Jd Tc 6h )
+Wins: Pegeroe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 100
+Flop: 4s 7d 5c
+Turn: Ts
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Pegeroe, Kc Kd
+Combination: Pegeroe, Two Pair ( Kc Kd 4s 4h Ts )
+Shows: Gubo, Ac 5s
+Combination: Gubo, Two Pair ( 5s 5c 4s 4h Ac )
+Wins: Pegeroe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Boasts: Gubo, Qs 3h
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 100
+Flop: Js As Jd
+Turn: Qc
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Pegeroe, 9d 6c
+Combination: Pegeroe, Pair ( Js Jd As Kc Qc )
+Shows: Gubo, 8h Ad
+Combination: Gubo, Two Pair ( Ad As Js Jd Kc )
+Wins: Gubo, chips: 200
+Quits: Pegeroe, chips: 0
+Ranking: Gubo, Place: 1, Score: 1000
+Reveal AI: Gubo, AI: Random
+Ranking: Pegeroe, Place: 2, Score: -1000
+Reveal AI: Pegeroe, AI: AIMyBot1
+
+Player Stats for Gubo, AI: Random
+General: deals: 23, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 15, showdown: 1, bluff: 14
+Chips: won: 5000, lost: 4000, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.0434783, 3Bet: 0.0434783
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Pegeroe, AI: AIMyBot1
+General: deals: 23, actions: 14, preflop actions: 14
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 2200, lost: 3200, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:07
+
+The game begins. The AI's of the players are: 
+Pegeroe: AIMyBot1
+Gubo: Random
+
+Joins: Pegeroe, chips: 1000
+Joins: Gubo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Calls: Gubo
+DEBUG MESSAGE: INVALID ACTION FROM Pegeroe (2 0)
+Folds: Pegeroe
+Pot size: 400
+Wins: Gubo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Boasts: Gubo, 7h Js
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Folds: Gubo
+Pot size: 300
+Boasts: Gubo, Qc 9h
+Wins: Pegeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Boasts: Gubo, 4d Ah
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Raises: Gubo, chips: 300
+Folds: Pegeroe
+Pot size: 700
+Boasts: Gubo, 2d 9c
+Wins: Gubo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Boasts: Gubo, 9c 4h
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Folds: Gubo
+Pot size: 300
+Wins: Pegeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Boasts: Gubo, 2d 7c
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Folds: Gubo
+Pot size: 300
+Boasts: Gubo, 8c Js
+Wins: Pegeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Folds: Gubo
+Pot size: 300
+Boasts: Gubo, 4h 4s
+Wins: Pegeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Boasts: Gubo, 2h Ad
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Folds: Gubo
+Pot size: 300
+Wins: Pegeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Folds: Gubo
+Pot size: 300
+Boasts: Gubo, Jh 9s
+Wins: Pegeroe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Boasts: Gubo, Jc 6s
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 200
+Calls: Gubo
+DEBUG MESSAGE: INVALID ACTION FROM Pegeroe (2 0)
+Folds: Pegeroe
+Pot size: 400
+Boasts: Gubo, 4h 2s
+Wins: Gubo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Boasts: Gubo, 8h 4s
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 100
+Flop: 4c 6h 8s
+Turn: 8c
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Pegeroe, 9c 6s
+Combination: Pegeroe, Two Pair ( 8s 8c 6s 6h Jd )
+Shows: Gubo, Tc 3d
+Combination: Gubo, Pair ( 8s 8c Jd Tc 6h )
+Wins: Pegeroe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 100
+Flop: 4s 7d 5c
+Turn: Ts
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Pegeroe, Kc Kd
+Combination: Pegeroe, Two Pair ( Kc Kd 4s 4h Ts )
+Shows: Gubo, Ac 5s
+Combination: Gubo, Two Pair ( 5s 5c 4s 4h Ac )
+Wins: Pegeroe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pegeroe
+Small Blind: Pegeroe, chips: 100
+Big Blind: Gubo, chips: 200
+Folds: Pegeroe
+Pot size: 300
+Boasts: Gubo, Qs 3h
+Wins: Gubo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gubo
+Small Blind: Gubo, chips: 100
+Big Blind: Pegeroe, chips: 100
+Flop: Js As Jd
+Turn: Qc
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Pegeroe, 9d 6c
+Combination: Pegeroe, Pair ( Js Jd As Kc Qc )
+Shows: Gubo, 8h Ad
+Combination: Gubo, Two Pair ( Ad As Js Jd Kc )
+Wins: Gubo, chips: 200
+Quits: Pegeroe, chips: 0
+Ranking: Gubo, Place: 1, Score: 1000
+Reveal AI: Gubo, AI: Random
+Ranking: Pegeroe, Place: 2, Score: -1000
+Reveal AI: Pegeroe, AI: AIMyBot1
+
+Player Stats for Gubo, AI: Random
+General: deals: 23, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 15, showdown: 1, bluff: 14
+Chips: won: 5000, lost: 4000, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.0434783, 3Bet: 0.0434783
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Pegeroe, AI: AIMyBot1
+General: deals: 23, actions: 14, preflop actions: 14
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 2200, lost: 3200, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

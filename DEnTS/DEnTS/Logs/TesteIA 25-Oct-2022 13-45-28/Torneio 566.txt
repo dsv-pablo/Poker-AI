@@ -1,0 +1,296 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Puhil: AIMyBot1
+Jerol: Random
+
+Joins: Puhil, chips: 1000
+Joins: Jerol, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerol
+Small Blind: Jerol, chips: 100
+Big Blind: Puhil, chips: 200
+Calls: Jerol
+DEBUG MESSAGE: INVALID ACTION FROM Puhil (2 0)
+Folds: Puhil
+Pot size: 400
+Boasts: Jerol, 6s 8d
+Wins: Jerol, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puhil
+Small Blind: Puhil, chips: 100
+Big Blind: Jerol, chips: 200
+Folds: Puhil
+Pot size: 300
+Boasts: Jerol, 5c 7d
+Wins: Jerol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerol
+Small Blind: Jerol, chips: 100
+Big Blind: Puhil, chips: 200
+Folds: Jerol
+Pot size: 300
+Wins: Puhil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puhil
+Small Blind: Puhil, chips: 100
+Big Blind: Jerol, chips: 200
+Folds: Puhil
+Pot size: 300
+Wins: Jerol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerol
+Small Blind: Jerol, chips: 100
+Big Blind: Puhil, chips: 200
+Calls: Jerol
+DEBUG MESSAGE: INVALID ACTION FROM Puhil (2 0)
+Folds: Puhil
+Pot size: 400
+Boasts: Jerol, 5h Ac
+Wins: Jerol, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puhil
+Small Blind: Puhil, chips: 100
+Big Blind: Jerol, chips: 200
+Folds: Puhil
+Pot size: 300
+Boasts: Jerol, Qs 8d
+Wins: Jerol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerol
+Small Blind: Jerol, chips: 100
+Big Blind: Puhil, chips: 200
+Folds: Jerol
+Pot size: 300
+Wins: Puhil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puhil
+Small Blind: Puhil, chips: 100
+Big Blind: Jerol, chips: 200
+Folds: Puhil
+Pot size: 300
+Wins: Jerol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerol
+Small Blind: Jerol, chips: 100
+Big Blind: Puhil, chips: 200
+Calls: Jerol
+DEBUG MESSAGE: INVALID ACTION FROM Puhil (2 0)
+Folds: Puhil
+Pot size: 400
+Wins: Jerol, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puhil
+Small Blind: Puhil, chips: 100
+Big Blind: Jerol, chips: 200
+Folds: Puhil
+Pot size: 300
+Wins: Jerol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerol
+Small Blind: Jerol, chips: 100
+Big Blind: Puhil, chips: 100
+Flop: 7s Th Qs
+Turn: Ac
+River: 8d
+Pot size: 200
+Showdown Reached
+Shows: Puhil, 2s 9s
+Combination: Puhil, High Card ( Ac Qs Th 9s 8d )
+Shows: Jerol, 3d 5d
+Combination: Jerol, High Card ( Ac Qs Th 8d 7s )
+Wins: Puhil, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puhil
+Small Blind: Puhil, chips: 100
+Big Blind: Jerol, chips: 200
+Folds: Puhil
+Pot size: 300
+Wins: Jerol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerol
+Small Blind: Jerol, chips: 100
+Big Blind: Puhil, chips: 100
+Flop: Qh 9s 9d
+Turn: 5d
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Puhil, 8d Kh
+Combination: Puhil, Pair ( 9s 9d Kh Qh Td )
+Shows: Jerol, 6h Qd
+Combination: Jerol, Two Pair ( Qd Qh 9s 9d Td )
+Wins: Jerol, chips: 200
+Quits: Puhil, chips: 0
+Ranking: Jerol, Place: 1, Score: 1000
+Reveal AI: Jerol, AI: Random
+Ranking: Puhil, Place: 2, Score: -1000
+Reveal AI: Puhil, AI: AIMyBot1
+
+Player Stats for Jerol, AI: Random
+General: deals: 13, actions: 5, preflop actions: 5
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Puhil, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:07
+
+The game begins. The AI's of the players are: 
+Puhil: AIMyBot1
+Jerol: Random
+
+Joins: Puhil, chips: 1000
+Joins: Jerol, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerol
+Small Blind: Jerol, chips: 100
+Big Blind: Puhil, chips: 200
+Calls: Jerol
+DEBUG MESSAGE: INVALID ACTION FROM Puhil (2 0)
+Folds: Puhil
+Pot size: 400
+Boasts: Jerol, 6s 8d
+Wins: Jerol, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puhil
+Small Blind: Puhil, chips: 100
+Big Blind: Jerol, chips: 200
+Folds: Puhil
+Pot size: 300
+Boasts: Jerol, 5c 7d
+Wins: Jerol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerol
+Small Blind: Jerol, chips: 100
+Big Blind: Puhil, chips: 200
+Folds: Jerol
+Pot size: 300
+Wins: Puhil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puhil
+Small Blind: Puhil, chips: 100
+Big Blind: Jerol, chips: 200
+Folds: Puhil
+Pot size: 300
+Wins: Jerol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerol
+Small Blind: Jerol, chips: 100
+Big Blind: Puhil, chips: 200
+Calls: Jerol
+DEBUG MESSAGE: INVALID ACTION FROM Puhil (2 0)
+Folds: Puhil
+Pot size: 400
+Boasts: Jerol, 5h Ac
+Wins: Jerol, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puhil
+Small Blind: Puhil, chips: 100
+Big Blind: Jerol, chips: 200
+Folds: Puhil
+Pot size: 300
+Boasts: Jerol, Qs 8d
+Wins: Jerol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerol
+Small Blind: Jerol, chips: 100
+Big Blind: Puhil, chips: 200
+Folds: Jerol
+Pot size: 300
+Wins: Puhil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puhil
+Small Blind: Puhil, chips: 100
+Big Blind: Jerol, chips: 200
+Folds: Puhil
+Pot size: 300
+Wins: Jerol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerol
+Small Blind: Jerol, chips: 100
+Big Blind: Puhil, chips: 200
+Calls: Jerol
+DEBUG MESSAGE: INVALID ACTION FROM Puhil (2 0)
+Folds: Puhil
+Pot size: 400
+Wins: Jerol, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puhil
+Small Blind: Puhil, chips: 100
+Big Blind: Jerol, chips: 200
+Folds: Puhil
+Pot size: 300
+Wins: Jerol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerol
+Small Blind: Jerol, chips: 100
+Big Blind: Puhil, chips: 100
+Flop: 7s Th Qs
+Turn: Ac
+River: 8d
+Pot size: 200
+Showdown Reached
+Shows: Puhil, 2s 9s
+Combination: Puhil, High Card ( Ac Qs Th 9s 8d )
+Shows: Jerol, 3d 5d
+Combination: Jerol, High Card ( Ac Qs Th 8d 7s )
+Wins: Puhil, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puhil
+Small Blind: Puhil, chips: 100
+Big Blind: Jerol, chips: 200
+Folds: Puhil
+Pot size: 300
+Wins: Jerol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerol
+Small Blind: Jerol, chips: 100
+Big Blind: Puhil, chips: 100
+Flop: Qh 9s 9d
+Turn: 5d
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Puhil, 8d Kh
+Combination: Puhil, Pair ( 9s 9d Kh Qh Td )
+Shows: Jerol, 6h Qd
+Combination: Jerol, Two Pair ( Qd Qh 9s 9d Td )
+Wins: Jerol, chips: 200
+Quits: Puhil, chips: 0
+Ranking: Jerol, Place: 1, Score: 1000
+Reveal AI: Jerol, AI: Random
+Ranking: Puhil, Place: 2, Score: -1000
+Reveal AI: Puhil, AI: AIMyBot1
+
+Player Stats for Jerol, AI: Random
+General: deals: 13, actions: 5, preflop actions: 5
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Puhil, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 800, lost: 1800, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

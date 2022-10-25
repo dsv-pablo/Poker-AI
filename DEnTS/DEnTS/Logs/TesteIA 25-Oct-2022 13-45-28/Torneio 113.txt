@@ -1,0 +1,364 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Nemeli: Random
+Poepitry: AIMyBot1
+
+Joins: Nemeli, chips: 1000
+Joins: Poepitry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemeli
+Small Blind: Nemeli, chips: 100
+Big Blind: Poepitry, chips: 200
+Raises: Nemeli, chips: 300
+Folds: Poepitry
+Pot size: 700
+Boasts: Nemeli, Ac 4d
+Wins: Nemeli, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poepitry
+Small Blind: Poepitry, chips: 100
+Big Blind: Nemeli, chips: 200
+Folds: Poepitry
+Pot size: 300
+Boasts: Nemeli, 3s 8d
+Wins: Nemeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemeli
+Small Blind: Nemeli, chips: 100
+Big Blind: Poepitry, chips: 200
+Calls: Nemeli
+DEBUG MESSAGE: INVALID ACTION FROM Poepitry (2 0)
+Folds: Poepitry
+Pot size: 400
+Wins: Nemeli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poepitry
+Small Blind: Poepitry, chips: 100
+Big Blind: Nemeli, chips: 200
+Folds: Poepitry
+Pot size: 300
+Boasts: Nemeli, Ts 5d
+Wins: Nemeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemeli
+Small Blind: Nemeli, chips: 100
+Big Blind: Poepitry, chips: 200
+Raises: Nemeli, chips: 300
+Calls: Poepitry
+Flop: Kd 5d Qc
+Turn: Qh
+River: 5c
+Pot size: 900
+Showdown Reached
+Shows: Nemeli, 7c Th
+Combination: Nemeli, Two Pair ( Qc Qh 5d 5c Kd )
+Shows: Poepitry, 9d 5s
+Combination: Poepitry, Full House ( 5s 5d 5c Qc Qh )
+Wins: Nemeli, chips: 100
+Wins: Poepitry, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poepitry
+Small Blind: Poepitry, chips: 100
+Big Blind: Nemeli, chips: 200
+Folds: Poepitry
+Pot size: 300
+Boasts: Nemeli, As 3s
+Wins: Nemeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemeli
+Small Blind: Nemeli, chips: 100
+Big Blind: Poepitry, chips: 200
+Calls: Nemeli
+DEBUG MESSAGE: INVALID ACTION FROM Poepitry (2 0)
+Folds: Poepitry
+Pot size: 400
+Wins: Nemeli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poepitry
+Small Blind: Poepitry, chips: 100
+Big Blind: Nemeli, chips: 200
+Folds: Poepitry
+Pot size: 300
+Wins: Nemeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemeli
+Small Blind: Nemeli, chips: 100
+Big Blind: Poepitry, chips: 200
+Folds: Nemeli
+Pot size: 300
+Boasts: Nemeli, 3s 4h
+Wins: Poepitry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poepitry
+Small Blind: Poepitry, chips: 100
+Big Blind: Nemeli, chips: 200
+Folds: Poepitry
+Pot size: 300
+Wins: Nemeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemeli
+Small Blind: Nemeli, chips: 100
+Big Blind: Poepitry, chips: 200
+Folds: Nemeli
+Pot size: 300
+Wins: Poepitry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poepitry
+Small Blind: Poepitry, chips: 100
+Big Blind: Nemeli, chips: 200
+Folds: Poepitry
+Pot size: 300
+Boasts: Nemeli, 8d 5s
+Wins: Nemeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemeli
+Small Blind: Nemeli, chips: 100
+Big Blind: Poepitry, chips: 200
+Raises: Nemeli, chips: 300
+Folds: Poepitry
+Pot size: 700
+Wins: Nemeli, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poepitry
+Small Blind: Poepitry, chips: 100
+Big Blind: Nemeli, chips: 200
+Folds: Poepitry
+Pot size: 300
+Wins: Nemeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemeli
+Small Blind: Nemeli, chips: 100
+Big Blind: Poepitry, chips: 100
+Flop: 9d Jh 9h
+Turn: 9c
+River: 6h
+Pot size: 200
+Showdown Reached
+Shows: Nemeli, 4s 3d
+Combination: Nemeli, Three Of A Kind ( 9d 9h 9c Jh 6h )
+Shows: Poepitry, 4d 2c
+Combination: Poepitry, Three Of A Kind ( 9d 9h 9c Jh 6h )
+Wins: Nemeli, chips: 100
+Wins: Poepitry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poepitry
+Small Blind: Poepitry, chips: 100
+Big Blind: Nemeli, chips: 200
+Flop: Ah Ad Ac
+Turn: Td
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Nemeli, As 6s
+Combination: Nemeli, Four Of A Kind ( As Ah Ad Ac Qs )
+Shows: Poepitry, Jd 5c
+Combination: Poepitry, Three Of A Kind ( Ah Ad Ac Qs Jd )
+Wins: Nemeli, chips: 300
+Quits: Poepitry, chips: 0
+Ranking: Nemeli, Place: 1, Score: 1000
+Reveal AI: Nemeli, AI: Random
+Ranking: Poepitry, Place: 2, Score: -1000
+Reveal AI: Poepitry, AI: AIMyBot1
+
+Player Stats for Nemeli, AI: Random
+General: deals: 16, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 14, showdown: 3, bluff: 11
+Chips: won: 4800, lost: 3800, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.3125, PFR: 0.1875, 3Bet: 0.1875
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Poepitry, AI: AIMyBot1
+General: deals: 16, actions: 12, preflop actions: 12
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 4, showdown: 2, bluff: 2
+Chips: won: 1500, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.0625, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:37
+
+The game begins. The AI's of the players are: 
+Nemeli: Random
+Poepitry: AIMyBot1
+
+Joins: Nemeli, chips: 1000
+Joins: Poepitry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemeli
+Small Blind: Nemeli, chips: 100
+Big Blind: Poepitry, chips: 200
+Raises: Nemeli, chips: 300
+Folds: Poepitry
+Pot size: 700
+Boasts: Nemeli, Ac 4d
+Wins: Nemeli, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poepitry
+Small Blind: Poepitry, chips: 100
+Big Blind: Nemeli, chips: 200
+Folds: Poepitry
+Pot size: 300
+Boasts: Nemeli, 3s 8d
+Wins: Nemeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemeli
+Small Blind: Nemeli, chips: 100
+Big Blind: Poepitry, chips: 200
+Calls: Nemeli
+DEBUG MESSAGE: INVALID ACTION FROM Poepitry (2 0)
+Folds: Poepitry
+Pot size: 400
+Wins: Nemeli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poepitry
+Small Blind: Poepitry, chips: 100
+Big Blind: Nemeli, chips: 200
+Folds: Poepitry
+Pot size: 300
+Boasts: Nemeli, Ts 5d
+Wins: Nemeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemeli
+Small Blind: Nemeli, chips: 100
+Big Blind: Poepitry, chips: 200
+Raises: Nemeli, chips: 300
+Calls: Poepitry
+Flop: Kd 5d Qc
+Turn: Qh
+River: 5c
+Pot size: 900
+Showdown Reached
+Shows: Nemeli, 7c Th
+Combination: Nemeli, Two Pair ( Qc Qh 5d 5c Kd )
+Shows: Poepitry, 9d 5s
+Combination: Poepitry, Full House ( 5s 5d 5c Qc Qh )
+Wins: Nemeli, chips: 100
+Wins: Poepitry, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poepitry
+Small Blind: Poepitry, chips: 100
+Big Blind: Nemeli, chips: 200
+Folds: Poepitry
+Pot size: 300
+Boasts: Nemeli, As 3s
+Wins: Nemeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemeli
+Small Blind: Nemeli, chips: 100
+Big Blind: Poepitry, chips: 200
+Calls: Nemeli
+DEBUG MESSAGE: INVALID ACTION FROM Poepitry (2 0)
+Folds: Poepitry
+Pot size: 400
+Wins: Nemeli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poepitry
+Small Blind: Poepitry, chips: 100
+Big Blind: Nemeli, chips: 200
+Folds: Poepitry
+Pot size: 300
+Wins: Nemeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemeli
+Small Blind: Nemeli, chips: 100
+Big Blind: Poepitry, chips: 200
+Folds: Nemeli
+Pot size: 300
+Boasts: Nemeli, 3s 4h
+Wins: Poepitry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poepitry
+Small Blind: Poepitry, chips: 100
+Big Blind: Nemeli, chips: 200
+Folds: Poepitry
+Pot size: 300
+Wins: Nemeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemeli
+Small Blind: Nemeli, chips: 100
+Big Blind: Poepitry, chips: 200
+Folds: Nemeli
+Pot size: 300
+Wins: Poepitry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poepitry
+Small Blind: Poepitry, chips: 100
+Big Blind: Nemeli, chips: 200
+Folds: Poepitry
+Pot size: 300
+Boasts: Nemeli, 8d 5s
+Wins: Nemeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemeli
+Small Blind: Nemeli, chips: 100
+Big Blind: Poepitry, chips: 200
+Raises: Nemeli, chips: 300
+Folds: Poepitry
+Pot size: 700
+Wins: Nemeli, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poepitry
+Small Blind: Poepitry, chips: 100
+Big Blind: Nemeli, chips: 200
+Folds: Poepitry
+Pot size: 300
+Wins: Nemeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nemeli
+Small Blind: Nemeli, chips: 100
+Big Blind: Poepitry, chips: 100
+Flop: 9d Jh 9h
+Turn: 9c
+River: 6h
+Pot size: 200
+Showdown Reached
+Shows: Nemeli, 4s 3d
+Combination: Nemeli, Three Of A Kind ( 9d 9h 9c Jh 6h )
+Shows: Poepitry, 4d 2c
+Combination: Poepitry, Three Of A Kind ( 9d 9h 9c Jh 6h )
+Wins: Nemeli, chips: 100
+Wins: Poepitry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poepitry
+Small Blind: Poepitry, chips: 100
+Big Blind: Nemeli, chips: 200
+Flop: Ah Ad Ac
+Turn: Td
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Nemeli, As 6s
+Combination: Nemeli, Four Of A Kind ( As Ah Ad Ac Qs )
+Shows: Poepitry, Jd 5c
+Combination: Poepitry, Three Of A Kind ( Ah Ad Ac Qs Jd )
+Wins: Nemeli, chips: 300
+Quits: Poepitry, chips: 0
+Ranking: Nemeli, Place: 1, Score: 1000
+Reveal AI: Nemeli, AI: Random
+Ranking: Poepitry, Place: 2, Score: -1000
+Reveal AI: Poepitry, AI: AIMyBot1
+
+Player Stats for Nemeli, AI: Random
+General: deals: 16, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 14, showdown: 3, bluff: 11
+Chips: won: 4800, lost: 3800, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.3125, PFR: 0.1875, 3Bet: 0.1875
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Poepitry, AI: AIMyBot1
+General: deals: 16, actions: 12, preflop actions: 12
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 4, showdown: 2, bluff: 2
+Chips: won: 1500, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.0625, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

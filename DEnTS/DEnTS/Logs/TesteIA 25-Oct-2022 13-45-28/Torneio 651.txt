@@ -1,0 +1,280 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Mee: Random
+Ke: AIMyBot1
+
+Joins: Mee, chips: 1000
+Joins: Ke, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Mee, chips: 200
+Folds: Ke
+Pot size: 300
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Ke, chips: 200
+Raises: Mee, chips: 300
+Folds: Ke
+Pot size: 700
+Boasts: Mee, 2s Ks
+Wins: Mee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Mee, chips: 200
+Folds: Ke
+Pot size: 300
+Boasts: Mee, 2d 6c
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Ke, chips: 200
+Folds: Mee
+Pot size: 300
+Wins: Ke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Mee, chips: 200
+Folds: Ke
+Pot size: 300
+Boasts: Mee, 7h 9h
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Ke, chips: 200
+Raises: Mee, chips: 300
+Folds: Ke
+Pot size: 700
+Wins: Mee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Mee, chips: 200
+Folds: Ke
+Pot size: 300
+Boasts: Mee, Jc Qh
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Ke, chips: 200
+Raises: Mee, chips: 300
+Folds: Ke
+Pot size: 700
+Wins: Mee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Mee, chips: 200
+Flop: 6s Ad 7h
+Turn: 5h
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Mee, Kc 3h
+Combination: Mee, Straight ( 7h 6s 5h 4s 3h )
+Shows: Ke, 2d 8d
+Combination: Ke, Straight ( 8d 7h 6s 5h 4s )
+Wins: Mee, chips: 100
+Wins: Ke, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Ke, chips: 200
+Flop: 5h 9s Kh
+Turn: 2c
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Mee, 2d Ts
+Combination: Mee, Pair ( 2d 2c Kh Ts 9s )
+Shows: Ke, 8s 7h
+Combination: Ke, High Card ( Kh 9s 8s 7h 5h )
+Wins: Mee, chips: 200
+Wins: Ke, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Mee, chips: 200
+Flop: 4c Qc 2s
+Turn: 8c
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Mee, Qs 8s
+Combination: Mee, Two Pair ( Qs Qc 8s 8c Kd )
+Shows: Ke, Js 9h
+Combination: Ke, High Card ( Kd Qc Js 9h 8c )
+Wins: Mee, chips: 300
+Quits: Ke, chips: 0
+Ranking: Mee, Place: 1, Score: 1000
+Reveal AI: Mee, AI: Random
+Ranking: Ke, Place: 2, Score: -1000
+Reveal AI: Ke, AI: AIMyBot1
+
+Player Stats for Ke, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Mee, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.272727, 3Bet: 0.272727
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:12
+
+The game begins. The AI's of the players are: 
+Mee: Random
+Ke: AIMyBot1
+
+Joins: Mee, chips: 1000
+Joins: Ke, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Mee, chips: 200
+Folds: Ke
+Pot size: 300
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Ke, chips: 200
+Raises: Mee, chips: 300
+Folds: Ke
+Pot size: 700
+Boasts: Mee, 2s Ks
+Wins: Mee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Mee, chips: 200
+Folds: Ke
+Pot size: 300
+Boasts: Mee, 2d 6c
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Ke, chips: 200
+Folds: Mee
+Pot size: 300
+Wins: Ke, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Mee, chips: 200
+Folds: Ke
+Pot size: 300
+Boasts: Mee, 7h 9h
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Ke, chips: 200
+Raises: Mee, chips: 300
+Folds: Ke
+Pot size: 700
+Wins: Mee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Mee, chips: 200
+Folds: Ke
+Pot size: 300
+Boasts: Mee, Jc Qh
+Wins: Mee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Ke, chips: 200
+Raises: Mee, chips: 300
+Folds: Ke
+Pot size: 700
+Wins: Mee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Mee, chips: 200
+Flop: 6s Ad 7h
+Turn: 5h
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Mee, Kc 3h
+Combination: Mee, Straight ( 7h 6s 5h 4s 3h )
+Shows: Ke, 2d 8d
+Combination: Ke, Straight ( 8d 7h 6s 5h 4s )
+Wins: Mee, chips: 100
+Wins: Ke, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mee
+Small Blind: Mee, chips: 100
+Big Blind: Ke, chips: 200
+Flop: 5h 9s Kh
+Turn: 2c
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Mee, 2d Ts
+Combination: Mee, Pair ( 2d 2c Kh Ts 9s )
+Shows: Ke, 8s 7h
+Combination: Ke, High Card ( Kh 9s 8s 7h 5h )
+Wins: Mee, chips: 200
+Wins: Ke, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ke
+Small Blind: Ke, chips: 100
+Big Blind: Mee, chips: 200
+Flop: 4c Qc 2s
+Turn: 8c
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Mee, Qs 8s
+Combination: Mee, Two Pair ( Qs Qc 8s 8c Kd )
+Shows: Ke, Js 9h
+Combination: Ke, High Card ( Kd Qc Js 9h 8c )
+Wins: Mee, chips: 300
+Quits: Ke, chips: 0
+Ranking: Mee, Place: 1, Score: 1000
+Reveal AI: Mee, AI: Random
+Ranking: Ke, Place: 2, Score: -1000
+Reveal AI: Ke, AI: AIMyBot1
+
+Player Stats for Ke, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Mee, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.272727, 3Bet: 0.272727
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

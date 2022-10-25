@@ -1,0 +1,458 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Goerlo: Random
+Bawutry: AIMyBot1
+
+Joins: Goerlo, chips: 1000
+Joins: Bawutry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Folds: Bawutry
+Pot size: 300
+Wins: Goerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Raises: Goerlo, chips: 300
+Folds: Bawutry
+Pot size: 700
+Wins: Goerlo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Folds: Bawutry
+Pot size: 300
+Wins: Goerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Calls: Goerlo
+DEBUG MESSAGE: INVALID ACTION FROM Bawutry (2 0)
+Folds: Bawutry
+Pot size: 400
+Wins: Goerlo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Folds: Bawutry
+Pot size: 300
+Boasts: Goerlo, 9h 2d
+Wins: Goerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Raises: Goerlo, chips: 300
+Calls: Bawutry
+Flop: 5s Qs 3s
+Turn: 9h
+River: 7c
+Pot size: 800
+Showdown Reached
+Shows: Goerlo, Kd 4h
+Combination: Goerlo, High Card ( Kd Qs 9h 7c 5s )
+Shows: Bawutry, 3h 9s
+Combination: Bawutry, Two Pair ( 9s 9h 3h 3s Qs )
+Wins: Goerlo, chips: 200
+Wins: Bawutry, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Folds: Bawutry
+Pot size: 300
+Wins: Goerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Folds: Goerlo
+Pot size: 300
+Boasts: Goerlo, 2s 2h
+Wins: Bawutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Folds: Bawutry
+Pot size: 300
+Wins: Goerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Raises: Goerlo, chips: 300
+Folds: Bawutry
+Pot size: 700
+Wins: Goerlo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Folds: Bawutry
+Pot size: 300
+Boasts: Goerlo, Ts 2h
+Wins: Goerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Flop: 5h Ac 7d
+Turn: 3c
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Goerlo, As Ah
+Combination: Goerlo, Three Of A Kind ( As Ah Ac Jd 7d )
+Shows: Bawutry, 9h 4s
+Combination: Bawutry, High Card ( Ac Jd 9h 7d 5h )
+Wins: Goerlo, chips: 200
+Wins: Bawutry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Flop: 3s 2h Js
+Turn: 6s
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Goerlo, 5d 9c
+Combination: Goerlo, High Card ( Js 9c 8d 6s 5d )
+Shows: Bawutry, 4d 6h
+Combination: Bawutry, Pair ( 6h 6s Js 8d 4d )
+Wins: Goerlo, chips: 100
+Wins: Bawutry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Flop: 7d 6c Kh
+Turn: 2s
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Goerlo, Tc 4s
+Combination: Goerlo, Pair ( 6c 6s Kh Tc 7d )
+Shows: Bawutry, Qs As
+Combination: Bawutry, Pair ( 6c 6s As Kh Qs )
+Wins: Bawutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Folds: Bawutry
+Pot size: 300
+Boasts: Goerlo, 3h 5d
+Wins: Goerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Flop: 6c Th Kd
+Turn: Ah
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Goerlo, 4s 9s
+Combination: Goerlo, High Card ( Ah Kd Th 9s 8s )
+Shows: Bawutry, Jc 2s
+Combination: Bawutry, High Card ( Ah Kd Jc Th 8s )
+Wins: Bawutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Folds: Bawutry
+Pot size: 300
+Wins: Goerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Flop: 6d 4d Qs
+Turn: 3d
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Goerlo, 3s 4h
+Combination: Goerlo, Two Pair ( 6d 6s 4h 4d Qs )
+Shows: Bawutry, 2h Tc
+Combination: Bawutry, Pair ( 6d 6s Qs Tc 4d )
+Wins: Goerlo, chips: 200
+Wins: Bawutry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Flop: 3c 4d 8s
+Turn: 7d
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Goerlo, Th Js
+Combination: Goerlo, Pair ( 7d 7h Js Th 8s )
+Shows: Bawutry, 5s 2c
+Combination: Bawutry, Pair ( 7d 7h 8s 5s 4d )
+Wins: Goerlo, chips: 300
+Quits: Bawutry, chips: 0
+Ranking: Goerlo, Place: 1, Score: 1000
+Reveal AI: Goerlo, AI: Random
+Ranking: Bawutry, Place: 2, Score: -1000
+Reveal AI: Bawutry, AI: AIMyBot1
+
+Player Stats for Bawutry, AI: AIMyBot1
+General: deals: 19, actions: 12, preflop actions: 12
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 7, showdown: 6, bluff: 1
+Chips: won: 1900, lost: 3100, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.0526316, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Goerlo, AI: Random
+General: deals: 19, actions: 5, preflop actions: 5
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 16, showdown: 5, bluff: 11
+Chips: won: 5200, lost: 4200, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.210526, PFR: 0.157895, 3Bet: 0.157895
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.714286
+
+
+Date: 2022/10/25 13:46:15
+
+The game begins. The AI's of the players are: 
+Goerlo: Random
+Bawutry: AIMyBot1
+
+Joins: Goerlo, chips: 1000
+Joins: Bawutry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Folds: Bawutry
+Pot size: 300
+Wins: Goerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Raises: Goerlo, chips: 300
+Folds: Bawutry
+Pot size: 700
+Wins: Goerlo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Folds: Bawutry
+Pot size: 300
+Wins: Goerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Calls: Goerlo
+DEBUG MESSAGE: INVALID ACTION FROM Bawutry (2 0)
+Folds: Bawutry
+Pot size: 400
+Wins: Goerlo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Folds: Bawutry
+Pot size: 300
+Boasts: Goerlo, 9h 2d
+Wins: Goerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Raises: Goerlo, chips: 300
+Calls: Bawutry
+Flop: 5s Qs 3s
+Turn: 9h
+River: 7c
+Pot size: 800
+Showdown Reached
+Shows: Goerlo, Kd 4h
+Combination: Goerlo, High Card ( Kd Qs 9h 7c 5s )
+Shows: Bawutry, 3h 9s
+Combination: Bawutry, Two Pair ( 9s 9h 3h 3s Qs )
+Wins: Goerlo, chips: 200
+Wins: Bawutry, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Folds: Bawutry
+Pot size: 300
+Wins: Goerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Folds: Goerlo
+Pot size: 300
+Boasts: Goerlo, 2s 2h
+Wins: Bawutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Folds: Bawutry
+Pot size: 300
+Wins: Goerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Raises: Goerlo, chips: 300
+Folds: Bawutry
+Pot size: 700
+Wins: Goerlo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Folds: Bawutry
+Pot size: 300
+Boasts: Goerlo, Ts 2h
+Wins: Goerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Flop: 5h Ac 7d
+Turn: 3c
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Goerlo, As Ah
+Combination: Goerlo, Three Of A Kind ( As Ah Ac Jd 7d )
+Shows: Bawutry, 9h 4s
+Combination: Bawutry, High Card ( Ac Jd 9h 7d 5h )
+Wins: Goerlo, chips: 200
+Wins: Bawutry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Flop: 3s 2h Js
+Turn: 6s
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Goerlo, 5d 9c
+Combination: Goerlo, High Card ( Js 9c 8d 6s 5d )
+Shows: Bawutry, 4d 6h
+Combination: Bawutry, Pair ( 6h 6s Js 8d 4d )
+Wins: Goerlo, chips: 100
+Wins: Bawutry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Flop: 7d 6c Kh
+Turn: 2s
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Goerlo, Tc 4s
+Combination: Goerlo, Pair ( 6c 6s Kh Tc 7d )
+Shows: Bawutry, Qs As
+Combination: Bawutry, Pair ( 6c 6s As Kh Qs )
+Wins: Bawutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Folds: Bawutry
+Pot size: 300
+Boasts: Goerlo, 3h 5d
+Wins: Goerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Flop: 6c Th Kd
+Turn: Ah
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Goerlo, 4s 9s
+Combination: Goerlo, High Card ( Ah Kd Th 9s 8s )
+Shows: Bawutry, Jc 2s
+Combination: Bawutry, High Card ( Ah Kd Jc Th 8s )
+Wins: Bawutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Folds: Bawutry
+Pot size: 300
+Wins: Goerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goerlo
+Small Blind: Goerlo, chips: 100
+Big Blind: Bawutry, chips: 200
+Flop: 6d 4d Qs
+Turn: 3d
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Goerlo, 3s 4h
+Combination: Goerlo, Two Pair ( 6d 6s 4h 4d Qs )
+Shows: Bawutry, 2h Tc
+Combination: Bawutry, Pair ( 6d 6s Qs Tc 4d )
+Wins: Goerlo, chips: 200
+Wins: Bawutry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bawutry
+Small Blind: Bawutry, chips: 100
+Big Blind: Goerlo, chips: 200
+Flop: 3c 4d 8s
+Turn: 7d
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Goerlo, Th Js
+Combination: Goerlo, Pair ( 7d 7h Js Th 8s )
+Shows: Bawutry, 5s 2c
+Combination: Bawutry, Pair ( 7d 7h 8s 5s 4d )
+Wins: Goerlo, chips: 300
+Quits: Bawutry, chips: 0
+Ranking: Goerlo, Place: 1, Score: 1000
+Reveal AI: Goerlo, AI: Random
+Ranking: Bawutry, Place: 2, Score: -1000
+Reveal AI: Bawutry, AI: AIMyBot1
+
+Player Stats for Bawutry, AI: AIMyBot1
+General: deals: 19, actions: 12, preflop actions: 12
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 7, showdown: 6, bluff: 1
+Chips: won: 1900, lost: 3100, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.0526316, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Goerlo, AI: Random
+General: deals: 19, actions: 5, preflop actions: 5
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 16, showdown: 5, bluff: 11
+Chips: won: 5200, lost: 4200, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.210526, PFR: 0.157895, 3Bet: 0.157895
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.714286
+
+

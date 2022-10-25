@@ -1,0 +1,640 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Surlata: AIMyBot1
+Rita: Random
+
+Joins: Surlata, chips: 1000
+Joins: Rita, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, Qc Qs
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Folds: Rita
+Pot size: 300
+Boasts: Rita, 4h Kd
+Wins: Surlata, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Calls: Rita
+DEBUG MESSAGE: INVALID ACTION FROM Surlata (2 0)
+Folds: Surlata
+Pot size: 400
+Wins: Rita, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, 2s Ad
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Folds: Rita
+Pot size: 300
+Boasts: Rita, Th Qh
+Wins: Surlata, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, 9c Kd
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Calls: Rita
+DEBUG MESSAGE: INVALID ACTION FROM Surlata (2 0)
+Folds: Surlata
+Pot size: 400
+Wins: Rita, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, 2s 4d
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Raises: Rita, chips: 300
+Folds: Surlata
+Pot size: 700
+Boasts: Rita, 6h 5c
+Wins: Rita, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Flop: Td 4h 7c
+Turn: 7d
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Surlata, 3c 7h
+Combination: Surlata, Three Of A Kind ( 7h 7c 7d Qs Td )
+Shows: Rita, 4c Ad
+Combination: Rita, Two Pair ( 7c 7d 4c 4h Ad )
+Wins: Surlata, chips: 200
+Wins: Rita, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Flop: 8d 2h 6s
+Turn: 6c
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Surlata, 8h 4h
+Combination: Surlata, Two Pair ( 8h 8d 6s 6c Jd )
+Shows: Rita, Ah Th
+Combination: Rita, Pair ( 6s 6c Ah Jd Th )
+Wins: Surlata, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, 3d 6h
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Flop: Ad 7s 7h
+Turn: 8d
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Surlata, Kh Kc
+Combination: Surlata, Two Pair ( Kh Kc 7s 7h Ad )
+Shows: Rita, 8s 5h
+Combination: Rita, Two Pair ( 8s 8d 7s 7h Ad )
+Wins: Surlata, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, 5c 3c
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Flop: 7c 2s 6h
+Turn: 5s
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Surlata, 8s 5c
+Combination: Surlata, Pair ( 5c 5s Th 8s 7c )
+Shows: Rita, Qc As
+Combination: Rita, High Card ( As Qc Th 7c 6h )
+Wins: Surlata, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, 6h 5c
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Flop: 6c 9h 5d
+Turn: 7d
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Surlata, Qd Ks
+Combination: Surlata, High Card ( Ks Qd 9h 7d 6c )
+Shows: Rita, 2h 8h
+Combination: Rita, Straight ( 9h 8h 7d 6c 5d )
+Wins: Surlata, chips: 100
+Wins: Rita, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Flop: 4s 9s 3s
+Turn: 5d
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Surlata, 6d 2d
+Combination: Surlata, Straight ( 6d 5d 4s 3s 2d )
+Shows: Rita, Td Ks
+Combination: Rita, High Card ( Ks Td 9s 8d 5d )
+Wins: Surlata, chips: 200
+Wins: Rita, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Flop: As Td 9c
+Turn: 6s
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Surlata, 7d Qh
+Combination: Surlata, Pair ( 6s 6c As Qh Td )
+Shows: Rita, 7s 3d
+Combination: Rita, Pair ( 6s 6c As Td 9c )
+Wins: Surlata, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Flop: Jh 3s 2h
+Turn: 9s
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Surlata, Js 9d
+Combination: Surlata, Two Pair ( Js Jh 9d 9s 4c )
+Shows: Rita, Qd 8s
+Combination: Rita, High Card ( Qd Jh 9s 8s 4c )
+Wins: Surlata, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, 4d 9h
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Flop: 2s 2h 6c
+Turn: 5d
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Surlata, 5s Ad
+Combination: Surlata, Two Pair ( 5s 5d 2s 2h Ad )
+Shows: Rita, Jc 8h
+Combination: Rita, Pair ( 2s 2h Jc 9c 8h )
+Wins: Surlata, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, 7s 4c
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Flop: Qs 7d Td
+Turn: Qd
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Surlata, 6h 4d
+Combination: Surlata, Pair ( Qs Qd Td 8s 7d )
+Shows: Rita, 4h Jc
+Combination: Rita, Pair ( Qs Qd Jc Td 8s )
+Wins: Surlata, chips: 100
+Wins: Rita, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Flop: 3s 6h 2c
+Turn: 4h
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Surlata, 4s Jh
+Combination: Surlata, Pair ( 4s 4h Ks Jh 6h )
+Shows: Rita, 6c 8d
+Combination: Rita, Pair ( 6c 6h Ks 8d 4h )
+Wins: Rita, chips: 300
+Quits: Surlata, chips: 0
+Ranking: Rita, Place: 1, Score: 1000
+Reveal AI: Rita, AI: Random
+Ranking: Surlata, Place: 2, Score: -1000
+Reveal AI: Surlata, AI: AIMyBot1
+
+Player Stats for Rita, AI: Random
+General: deals: 27, actions: 5, preflop actions: 5
+Rounds Seen: flops: 11, turns: 11, rivers: 11, showdowns: 11
+Wins: total: 19, showdown: 5, bluff: 14
+Chips: won: 5700, lost: 4700, bought: 1000, forced bets: 4100
+Pre-Flop Stats: VP$IP: 0.111111, PFR: 0.037037, 3Bet: 0.037037
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.454545
+
+
+Player Stats for Surlata, AI: AIMyBot1
+General: deals: 27, actions: 14, preflop actions: 14
+Rounds Seen: flops: 11, turns: 11, rivers: 11, showdowns: 11
+Wins: total: 12, showdown: 10, bluff: 2
+Chips: won: 3000, lost: 4000, bought: 1000, forced bets: 4000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.909091
+
+
+Date: 2022/10/25 13:45:42
+
+The game begins. The AI's of the players are: 
+Surlata: AIMyBot1
+Rita: Random
+
+Joins: Surlata, chips: 1000
+Joins: Rita, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, Qc Qs
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Folds: Rita
+Pot size: 300
+Boasts: Rita, 4h Kd
+Wins: Surlata, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Calls: Rita
+DEBUG MESSAGE: INVALID ACTION FROM Surlata (2 0)
+Folds: Surlata
+Pot size: 400
+Wins: Rita, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, 2s Ad
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Folds: Rita
+Pot size: 300
+Boasts: Rita, Th Qh
+Wins: Surlata, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, 9c Kd
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Calls: Rita
+DEBUG MESSAGE: INVALID ACTION FROM Surlata (2 0)
+Folds: Surlata
+Pot size: 400
+Wins: Rita, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, 2s 4d
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Raises: Rita, chips: 300
+Folds: Surlata
+Pot size: 700
+Boasts: Rita, 6h 5c
+Wins: Rita, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Flop: Td 4h 7c
+Turn: 7d
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Surlata, 3c 7h
+Combination: Surlata, Three Of A Kind ( 7h 7c 7d Qs Td )
+Shows: Rita, 4c Ad
+Combination: Rita, Two Pair ( 7c 7d 4c 4h Ad )
+Wins: Surlata, chips: 200
+Wins: Rita, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Flop: 8d 2h 6s
+Turn: 6c
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Surlata, 8h 4h
+Combination: Surlata, Two Pair ( 8h 8d 6s 6c Jd )
+Shows: Rita, Ah Th
+Combination: Rita, Pair ( 6s 6c Ah Jd Th )
+Wins: Surlata, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, 3d 6h
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Flop: Ad 7s 7h
+Turn: 8d
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Surlata, Kh Kc
+Combination: Surlata, Two Pair ( Kh Kc 7s 7h Ad )
+Shows: Rita, 8s 5h
+Combination: Rita, Two Pair ( 8s 8d 7s 7h Ad )
+Wins: Surlata, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, 5c 3c
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Flop: 7c 2s 6h
+Turn: 5s
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Surlata, 8s 5c
+Combination: Surlata, Pair ( 5c 5s Th 8s 7c )
+Shows: Rita, Qc As
+Combination: Rita, High Card ( As Qc Th 7c 6h )
+Wins: Surlata, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, 6h 5c
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Flop: 6c 9h 5d
+Turn: 7d
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Surlata, Qd Ks
+Combination: Surlata, High Card ( Ks Qd 9h 7d 6c )
+Shows: Rita, 2h 8h
+Combination: Rita, Straight ( 9h 8h 7d 6c 5d )
+Wins: Surlata, chips: 100
+Wins: Rita, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Flop: 4s 9s 3s
+Turn: 5d
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Surlata, 6d 2d
+Combination: Surlata, Straight ( 6d 5d 4s 3s 2d )
+Shows: Rita, Td Ks
+Combination: Rita, High Card ( Ks Td 9s 8d 5d )
+Wins: Surlata, chips: 200
+Wins: Rita, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Flop: As Td 9c
+Turn: 6s
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Surlata, 7d Qh
+Combination: Surlata, Pair ( 6s 6c As Qh Td )
+Shows: Rita, 7s 3d
+Combination: Rita, Pair ( 6s 6c As Td 9c )
+Wins: Surlata, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Flop: Jh 3s 2h
+Turn: 9s
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Surlata, Js 9d
+Combination: Surlata, Two Pair ( Js Jh 9d 9s 4c )
+Shows: Rita, Qd 8s
+Combination: Rita, High Card ( Qd Jh 9s 8s 4c )
+Wins: Surlata, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, 4d 9h
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Flop: 2s 2h 6c
+Turn: 5d
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Surlata, 5s Ad
+Combination: Surlata, Two Pair ( 5s 5d 2s 2h Ad )
+Shows: Rita, Jc 8h
+Combination: Rita, Pair ( 2s 2h Jc 9c 8h )
+Wins: Surlata, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Folds: Surlata
+Pot size: 300
+Boasts: Rita, 7s 4c
+Wins: Rita, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rita
+Small Blind: Rita, chips: 100
+Big Blind: Surlata, chips: 200
+Flop: Qs 7d Td
+Turn: Qd
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Surlata, 6h 4d
+Combination: Surlata, Pair ( Qs Qd Td 8s 7d )
+Shows: Rita, 4h Jc
+Combination: Rita, Pair ( Qs Qd Jc Td 8s )
+Wins: Surlata, chips: 100
+Wins: Rita, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Surlata
+Small Blind: Surlata, chips: 100
+Big Blind: Rita, chips: 200
+Flop: 3s 6h 2c
+Turn: 4h
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Surlata, 4s Jh
+Combination: Surlata, Pair ( 4s 4h Ks Jh 6h )
+Shows: Rita, 6c 8d
+Combination: Rita, Pair ( 6c 6h Ks 8d 4h )
+Wins: Rita, chips: 300
+Quits: Surlata, chips: 0
+Ranking: Rita, Place: 1, Score: 1000
+Reveal AI: Rita, AI: Random
+Ranking: Surlata, Place: 2, Score: -1000
+Reveal AI: Surlata, AI: AIMyBot1
+
+Player Stats for Rita, AI: Random
+General: deals: 27, actions: 5, preflop actions: 5
+Rounds Seen: flops: 11, turns: 11, rivers: 11, showdowns: 11
+Wins: total: 19, showdown: 5, bluff: 14
+Chips: won: 5700, lost: 4700, bought: 1000, forced bets: 4100
+Pre-Flop Stats: VP$IP: 0.111111, PFR: 0.037037, 3Bet: 0.037037
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.454545
+
+
+Player Stats for Surlata, AI: AIMyBot1
+General: deals: 27, actions: 14, preflop actions: 14
+Rounds Seen: flops: 11, turns: 11, rivers: 11, showdowns: 11
+Wins: total: 12, showdown: 10, bluff: 2
+Chips: won: 3000, lost: 4000, bought: 1000, forced bets: 4000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.909091
+
+

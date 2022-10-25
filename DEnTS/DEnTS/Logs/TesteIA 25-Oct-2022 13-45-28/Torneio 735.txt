@@ -1,0 +1,222 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Boe: Random
+Solem: AIMyBot1
+
+Joins: Boe, chips: 1000
+Joins: Solem, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Solem
+Small Blind: Solem, chips: 100
+Big Blind: Boe, chips: 200
+Folds: Solem
+Pot size: 300
+Boasts: Boe, Jh 4d
+Wins: Boe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Solem, chips: 200
+Calls: Boe
+DEBUG MESSAGE: INVALID ACTION FROM Solem (2 0)
+Folds: Solem
+Pot size: 400
+Wins: Boe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Solem
+Small Blind: Solem, chips: 100
+Big Blind: Boe, chips: 200
+Folds: Solem
+Pot size: 300
+Wins: Boe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Solem, chips: 200
+Raises: Boe, chips: 300
+Folds: Solem
+Pot size: 700
+Boasts: Boe, 7d 9s
+Wins: Boe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Solem
+Small Blind: Solem, chips: 100
+Big Blind: Boe, chips: 200
+Folds: Solem
+Pot size: 300
+Boasts: Boe, 4s Jh
+Wins: Boe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Solem, chips: 200
+Raises: Boe, chips: 300
+Folds: Solem
+Pot size: 700
+Wins: Boe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Solem
+Small Blind: Solem, chips: 100
+Big Blind: Boe, chips: 200
+Flop: 8d 5s 9c
+Turn: Jd
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Boe, 2s Qh
+Combination: Boe, Straight ( Qh Jd Tc 9c 8d )
+Shows: Solem, Qc 4h
+Combination: Solem, Straight ( Qc Jd Tc 9c 8d )
+Wins: Boe, chips: 200
+Wins: Solem, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Solem, chips: 100
+Flop: Jc 4c Qs
+Turn: Ac
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Boe, Qh Qd
+Combination: Boe, Three Of A Kind ( Qh Qd Qs Ac Kh )
+Shows: Solem, 7d Kd
+Combination: Solem, Pair ( Kd Kh Ac Qs Jc )
+Wins: Boe, chips: 200
+Quits: Solem, chips: 0
+Ranking: Boe, Place: 1, Score: 1000
+Reveal AI: Boe, AI: Random
+Ranking: Solem, Place: 2, Score: -1000
+Reveal AI: Solem, AI: AIMyBot1
+
+Player Stats for Boe, AI: Random
+General: deals: 8, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.25, 3Bet: 0.25
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Solem, AI: AIMyBot1
+General: deals: 8, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 100, lost: 1100, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:18
+
+The game begins. The AI's of the players are: 
+Boe: Random
+Solem: AIMyBot1
+
+Joins: Boe, chips: 1000
+Joins: Solem, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Solem
+Small Blind: Solem, chips: 100
+Big Blind: Boe, chips: 200
+Folds: Solem
+Pot size: 300
+Boasts: Boe, Jh 4d
+Wins: Boe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Solem, chips: 200
+Calls: Boe
+DEBUG MESSAGE: INVALID ACTION FROM Solem (2 0)
+Folds: Solem
+Pot size: 400
+Wins: Boe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Solem
+Small Blind: Solem, chips: 100
+Big Blind: Boe, chips: 200
+Folds: Solem
+Pot size: 300
+Wins: Boe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Solem, chips: 200
+Raises: Boe, chips: 300
+Folds: Solem
+Pot size: 700
+Boasts: Boe, 7d 9s
+Wins: Boe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Solem
+Small Blind: Solem, chips: 100
+Big Blind: Boe, chips: 200
+Folds: Solem
+Pot size: 300
+Boasts: Boe, 4s Jh
+Wins: Boe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Solem, chips: 200
+Raises: Boe, chips: 300
+Folds: Solem
+Pot size: 700
+Wins: Boe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Solem
+Small Blind: Solem, chips: 100
+Big Blind: Boe, chips: 200
+Flop: 8d 5s 9c
+Turn: Jd
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Boe, 2s Qh
+Combination: Boe, Straight ( Qh Jd Tc 9c 8d )
+Shows: Solem, Qc 4h
+Combination: Solem, Straight ( Qc Jd Tc 9c 8d )
+Wins: Boe, chips: 200
+Wins: Solem, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boe
+Small Blind: Boe, chips: 100
+Big Blind: Solem, chips: 100
+Flop: Jc 4c Qs
+Turn: Ac
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Boe, Qh Qd
+Combination: Boe, Three Of A Kind ( Qh Qd Qs Ac Kh )
+Shows: Solem, 7d Kd
+Combination: Solem, Pair ( Kd Kh Ac Qs Jc )
+Wins: Boe, chips: 200
+Quits: Solem, chips: 0
+Ranking: Boe, Place: 1, Score: 1000
+Reveal AI: Boe, AI: Random
+Ranking: Solem, Place: 2, Score: -1000
+Reveal AI: Solem, AI: AIMyBot1
+
+Player Stats for Boe, AI: Random
+General: deals: 8, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.25, 3Bet: 0.25
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Solem, AI: AIMyBot1
+General: deals: 8, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 100, lost: 1100, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

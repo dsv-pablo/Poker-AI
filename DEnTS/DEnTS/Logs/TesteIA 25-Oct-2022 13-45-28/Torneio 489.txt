@@ -1,0 +1,262 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Vu: AIMyBot1
+Bifoehif: Random
+
+Joins: Vu, chips: 1000
+Joins: Bifoehif, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifoehif
+Small Blind: Bifoehif, chips: 100
+Big Blind: Vu, chips: 200
+Raises: Bifoehif, chips: 800
+Folds: Vu
+Pot size: 1200
+Wins: Bifoehif, chips: 1200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vu
+Small Blind: Vu, chips: 100
+Big Blind: Bifoehif, chips: 200
+Folds: Vu
+Pot size: 300
+Wins: Bifoehif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifoehif
+Small Blind: Bifoehif, chips: 100
+Big Blind: Vu, chips: 200
+Calls: Bifoehif
+DEBUG MESSAGE: INVALID ACTION FROM Vu (2 0)
+Folds: Vu
+Pot size: 400
+Boasts: Bifoehif, 5c Kd
+Wins: Bifoehif, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vu
+Small Blind: Vu, chips: 100
+Big Blind: Bifoehif, chips: 200
+Folds: Vu
+Pot size: 300
+Wins: Bifoehif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifoehif
+Small Blind: Bifoehif, chips: 100
+Big Blind: Vu, chips: 200
+Folds: Bifoehif
+Pot size: 300
+Boasts: Bifoehif, Qh 6d
+Wins: Vu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vu
+Small Blind: Vu, chips: 100
+Big Blind: Bifoehif, chips: 200
+Folds: Vu
+Pot size: 300
+Boasts: Bifoehif, Td Qh
+Wins: Bifoehif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifoehif
+Small Blind: Bifoehif, chips: 100
+Big Blind: Vu, chips: 200
+Raises: Bifoehif, chips: 300
+Folds: Vu
+Pot size: 700
+Wins: Bifoehif, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vu
+Small Blind: Vu, chips: 100
+Big Blind: Bifoehif, chips: 200
+Folds: Vu
+Pot size: 300
+Wins: Bifoehif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifoehif
+Small Blind: Bifoehif, chips: 100
+Big Blind: Vu, chips: 100
+Flop: Jc Jh Qh
+Turn: 3h
+River: Qs
+Pot size: 200
+Showdown Reached
+Shows: Vu, 9h Ac
+Combination: Vu, Two Pair ( Qh Qs Jc Jh Ac )
+Shows: Bifoehif, Kc Td
+Combination: Bifoehif, Two Pair ( Qh Qs Jc Jh Kc )
+Wins: Vu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vu
+Small Blind: Vu, chips: 100
+Big Blind: Bifoehif, chips: 200
+Folds: Vu
+Pot size: 300
+Wins: Bifoehif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifoehif
+Small Blind: Bifoehif, chips: 100
+Big Blind: Vu, chips: 100
+Flop: 8c 3s Qd
+Turn: 3d
+River: 7s
+Pot size: 200
+Showdown Reached
+Shows: Vu, Td 4h
+Combination: Vu, Pair ( 3s 3d Qd Td 8c )
+Shows: Bifoehif, 7h 2s
+Combination: Bifoehif, Two Pair ( 7h 7s 3s 3d Qd )
+Wins: Bifoehif, chips: 200
+Quits: Vu, chips: 0
+Ranking: Bifoehif, Place: 1, Score: 1000
+Reveal AI: Bifoehif, AI: Random
+Ranking: Vu, Place: 2, Score: -1000
+Reveal AI: Vu, AI: AIMyBot1
+
+Player Stats for Bifoehif, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Vu, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:02
+
+The game begins. The AI's of the players are: 
+Vu: AIMyBot1
+Bifoehif: Random
+
+Joins: Vu, chips: 1000
+Joins: Bifoehif, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifoehif
+Small Blind: Bifoehif, chips: 100
+Big Blind: Vu, chips: 200
+Raises: Bifoehif, chips: 800
+Folds: Vu
+Pot size: 1200
+Wins: Bifoehif, chips: 1200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vu
+Small Blind: Vu, chips: 100
+Big Blind: Bifoehif, chips: 200
+Folds: Vu
+Pot size: 300
+Wins: Bifoehif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifoehif
+Small Blind: Bifoehif, chips: 100
+Big Blind: Vu, chips: 200
+Calls: Bifoehif
+DEBUG MESSAGE: INVALID ACTION FROM Vu (2 0)
+Folds: Vu
+Pot size: 400
+Boasts: Bifoehif, 5c Kd
+Wins: Bifoehif, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vu
+Small Blind: Vu, chips: 100
+Big Blind: Bifoehif, chips: 200
+Folds: Vu
+Pot size: 300
+Wins: Bifoehif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifoehif
+Small Blind: Bifoehif, chips: 100
+Big Blind: Vu, chips: 200
+Folds: Bifoehif
+Pot size: 300
+Boasts: Bifoehif, Qh 6d
+Wins: Vu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vu
+Small Blind: Vu, chips: 100
+Big Blind: Bifoehif, chips: 200
+Folds: Vu
+Pot size: 300
+Boasts: Bifoehif, Td Qh
+Wins: Bifoehif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifoehif
+Small Blind: Bifoehif, chips: 100
+Big Blind: Vu, chips: 200
+Raises: Bifoehif, chips: 300
+Folds: Vu
+Pot size: 700
+Wins: Bifoehif, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vu
+Small Blind: Vu, chips: 100
+Big Blind: Bifoehif, chips: 200
+Folds: Vu
+Pot size: 300
+Wins: Bifoehif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifoehif
+Small Blind: Bifoehif, chips: 100
+Big Blind: Vu, chips: 100
+Flop: Jc Jh Qh
+Turn: 3h
+River: Qs
+Pot size: 200
+Showdown Reached
+Shows: Vu, 9h Ac
+Combination: Vu, Two Pair ( Qh Qs Jc Jh Ac )
+Shows: Bifoehif, Kc Td
+Combination: Bifoehif, Two Pair ( Qh Qs Jc Jh Kc )
+Wins: Vu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vu
+Small Blind: Vu, chips: 100
+Big Blind: Bifoehif, chips: 200
+Folds: Vu
+Pot size: 300
+Wins: Bifoehif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bifoehif
+Small Blind: Bifoehif, chips: 100
+Big Blind: Vu, chips: 100
+Flop: 8c 3s Qd
+Turn: 3d
+River: 7s
+Pot size: 200
+Showdown Reached
+Shows: Vu, Td 4h
+Combination: Vu, Pair ( 3s 3d Qd Td 8c )
+Shows: Bifoehif, 7h 2s
+Combination: Bifoehif, Two Pair ( 7h 7s 3s 3d Qd )
+Wins: Bifoehif, chips: 200
+Quits: Vu, chips: 0
+Ranking: Bifoehif, Place: 1, Score: 1000
+Reveal AI: Bifoehif, AI: Random
+Ranking: Vu, Place: 2, Score: -1000
+Reveal AI: Vu, AI: AIMyBot1
+
+Player Stats for Bifoehif, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Vu, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

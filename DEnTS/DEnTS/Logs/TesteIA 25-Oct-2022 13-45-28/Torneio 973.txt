@@ -1,0 +1,640 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Charle: Random
+Junheet: AIMyBot1
+
+Joins: Charle, chips: 1000
+Joins: Junheet, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Raises: Charle, chips: 300
+Folds: Junheet
+Pot size: 700
+Boasts: Charle, 5h 2s
+Wins: Charle, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Boasts: Charle, Th Qs
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Calls: Charle
+DEBUG MESSAGE: INVALID ACTION FROM Junheet (2 0)
+Folds: Junheet
+Pot size: 400
+Boasts: Charle, 4d 2h
+Wins: Charle, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Boasts: Charle, 2h Ad
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Folds: Charle
+Pot size: 300
+Wins: Junheet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Folds: Charle
+Pot size: 300
+Boasts: Charle, 6s Qd
+Wins: Junheet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Boasts: Charle, 8s Ts
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Folds: Charle
+Pot size: 300
+Wins: Junheet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Folds: Charle
+Pot size: 300
+Boasts: Charle, 3s Kh
+Wins: Junheet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Calls: Charle
+DEBUG MESSAGE: INVALID ACTION FROM Junheet (2 0)
+Folds: Junheet
+Pot size: 400
+Boasts: Charle, 2d Tc
+Wins: Charle, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Flop: Ts 8c 2s
+Turn: 3s
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Charle, Jd 8d
+Combination: Charle, Pair ( 8d 8c Jd Ts 9s )
+Shows: Junheet, 9h 6d
+Combination: Junheet, Pair ( 9h 9s Ts 8c 6d )
+Wins: Charle, chips: 100
+Wins: Junheet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Flop: Js 7d 2c
+Turn: 8d
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Charle, 9s As
+Combination: Charle, High Card ( As Kd Js 9s 8d )
+Shows: Junheet, 7c Ac
+Combination: Junheet, Pair ( 7c 7d Ac Kd Js )
+Wins: Junheet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Flop: Tc 6s Td
+Turn: Jd
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Charle, Ac Qs
+Combination: Charle, Pair ( Tc Td Ac Qs Jd )
+Shows: Junheet, Ah 2c
+Combination: Junheet, Pair ( Tc Td Ah Jd 6s )
+Wins: Charle, chips: 200
+Wins: Junheet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Flop: 3h As 3s
+Turn: Qc
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Charle, 6h 2h
+Combination: Charle, Pair ( 3h 3s As Qc Th )
+Shows: Junheet, 5d Jd
+Combination: Junheet, Pair ( 3h 3s As Qc Jd )
+Wins: Charle, chips: 100
+Wins: Junheet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Flop: Qs Ts 8c
+Turn: 3s
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Charle, 4s Jc
+Combination: Charle, Pair ( 3s 3h Qs Jc Ts )
+Shows: Junheet, 7c 9c
+Combination: Junheet, Pair ( 3s 3h Qs Ts 9c )
+Wins: Charle, chips: 200
+Wins: Junheet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Flop: Kc 9d 2s
+Turn: Th
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Charle, Js 8c
+Combination: Charle, High Card ( Kc Js Th 9d 8c )
+Shows: Junheet, 3d 3c
+Combination: Junheet, Pair ( 3d 3c Kc Th 9d )
+Wins: Charle, chips: 100
+Wins: Junheet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Flop: Ac 9c 5d
+Turn: 4h
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Charle, 6h Kd
+Combination: Charle, Pair ( 4h 4s Ac Kd 9c )
+Shows: Junheet, 2d Jd
+Combination: Junheet, Pair ( 4h 4s Ac Jd 9c )
+Wins: Charle, chips: 200
+Wins: Junheet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Flop: 7s Kd 9d
+Turn: 8d
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Charle, 3s 8h
+Combination: Charle, Pair ( 8h 8d Kd Td 9d )
+Shows: Junheet, Js 9h
+Combination: Junheet, Straight ( Js Td 9h 8d 7s )
+Wins: Charle, chips: 100
+Wins: Junheet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Flop: 7c 5c Ad
+Turn: Kh
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Charle, 8d 4s
+Combination: Charle, Pair ( 4s 4c Ad Kh 8d )
+Shows: Junheet, 7h 8s
+Combination: Junheet, Pair ( 7h 7c Ad Kh 8s )
+Wins: Junheet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Flop: 3c 7c 5s
+Turn: Kd
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Charle, Tc Kh
+Combination: Charle, Pair ( Kh Kd Qd Tc 7c )
+Shows: Junheet, 2h Qs
+Combination: Junheet, Pair ( Qs Qd Kd 7c 5s )
+Wins: Charle, chips: 200
+Wins: Junheet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Flop: Td 7c 7s
+Turn: 8d
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Charle, Qc Kc
+Combination: Charle, Pair ( 7c 7s Kc Qc Js )
+Shows: Junheet, 5d Qs
+Combination: Junheet, Pair ( 7c 7s Qs Js Td )
+Wins: Charle, chips: 300
+Quits: Junheet, chips: 0
+Ranking: Charle, Place: 1, Score: 1000
+Reveal AI: Charle, AI: Random
+Ranking: Junheet, Place: 2, Score: -1000
+Reveal AI: Junheet, AI: AIMyBot1
+
+Player Stats for Charle, AI: Random
+General: deals: 27, actions: 7, preflop actions: 7
+Rounds Seen: flops: 11, turns: 11, rivers: 11, showdowns: 11
+Wins: total: 21, showdown: 9, bluff: 12
+Chips: won: 5700, lost: 4700, bought: 1000, forced bets: 4100
+Pre-Flop Stats: VP$IP: 0.111111, PFR: 0.037037, 3Bet: 0.037037
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.818182
+
+
+Player Stats for Junheet, AI: AIMyBot1
+General: deals: 27, actions: 12, preflop actions: 12
+Rounds Seen: flops: 11, turns: 11, rivers: 11, showdowns: 11
+Wins: total: 14, showdown: 10, bluff: 4
+Chips: won: 3000, lost: 4000, bought: 1000, forced bets: 4000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.909091
+
+
+Date: 2022/10/25 13:46:33
+
+The game begins. The AI's of the players are: 
+Charle: Random
+Junheet: AIMyBot1
+
+Joins: Charle, chips: 1000
+Joins: Junheet, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Raises: Charle, chips: 300
+Folds: Junheet
+Pot size: 700
+Boasts: Charle, 5h 2s
+Wins: Charle, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Boasts: Charle, Th Qs
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Calls: Charle
+DEBUG MESSAGE: INVALID ACTION FROM Junheet (2 0)
+Folds: Junheet
+Pot size: 400
+Boasts: Charle, 4d 2h
+Wins: Charle, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Boasts: Charle, 2h Ad
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Folds: Charle
+Pot size: 300
+Wins: Junheet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Folds: Charle
+Pot size: 300
+Boasts: Charle, 6s Qd
+Wins: Junheet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Boasts: Charle, 8s Ts
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Folds: Charle
+Pot size: 300
+Wins: Junheet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Folds: Charle
+Pot size: 300
+Boasts: Charle, 3s Kh
+Wins: Junheet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Calls: Charle
+DEBUG MESSAGE: INVALID ACTION FROM Junheet (2 0)
+Folds: Junheet
+Pot size: 400
+Boasts: Charle, 2d Tc
+Wins: Charle, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Flop: Ts 8c 2s
+Turn: 3s
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Charle, Jd 8d
+Combination: Charle, Pair ( 8d 8c Jd Ts 9s )
+Shows: Junheet, 9h 6d
+Combination: Junheet, Pair ( 9h 9s Ts 8c 6d )
+Wins: Charle, chips: 100
+Wins: Junheet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Flop: Js 7d 2c
+Turn: 8d
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Charle, 9s As
+Combination: Charle, High Card ( As Kd Js 9s 8d )
+Shows: Junheet, 7c Ac
+Combination: Junheet, Pair ( 7c 7d Ac Kd Js )
+Wins: Junheet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Flop: Tc 6s Td
+Turn: Jd
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Charle, Ac Qs
+Combination: Charle, Pair ( Tc Td Ac Qs Jd )
+Shows: Junheet, Ah 2c
+Combination: Junheet, Pair ( Tc Td Ah Jd 6s )
+Wins: Charle, chips: 200
+Wins: Junheet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Flop: 3h As 3s
+Turn: Qc
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Charle, 6h 2h
+Combination: Charle, Pair ( 3h 3s As Qc Th )
+Shows: Junheet, 5d Jd
+Combination: Junheet, Pair ( 3h 3s As Qc Jd )
+Wins: Charle, chips: 100
+Wins: Junheet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Flop: Qs Ts 8c
+Turn: 3s
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Charle, 4s Jc
+Combination: Charle, Pair ( 3s 3h Qs Jc Ts )
+Shows: Junheet, 7c 9c
+Combination: Junheet, Pair ( 3s 3h Qs Ts 9c )
+Wins: Charle, chips: 200
+Wins: Junheet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Flop: Kc 9d 2s
+Turn: Th
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Charle, Js 8c
+Combination: Charle, High Card ( Kc Js Th 9d 8c )
+Shows: Junheet, 3d 3c
+Combination: Junheet, Pair ( 3d 3c Kc Th 9d )
+Wins: Charle, chips: 100
+Wins: Junheet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Flop: Ac 9c 5d
+Turn: 4h
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Charle, 6h Kd
+Combination: Charle, Pair ( 4h 4s Ac Kd 9c )
+Shows: Junheet, 2d Jd
+Combination: Junheet, Pair ( 4h 4s Ac Jd 9c )
+Wins: Charle, chips: 200
+Wins: Junheet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Flop: 7s Kd 9d
+Turn: 8d
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Charle, 3s 8h
+Combination: Charle, Pair ( 8h 8d Kd Td 9d )
+Shows: Junheet, Js 9h
+Combination: Junheet, Straight ( Js Td 9h 8d 7s )
+Wins: Charle, chips: 100
+Wins: Junheet, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Flop: 7c 5c Ad
+Turn: Kh
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Charle, 8d 4s
+Combination: Charle, Pair ( 4s 4c Ad Kh 8d )
+Shows: Junheet, 7h 8s
+Combination: Junheet, Pair ( 7h 7c Ad Kh 8s )
+Wins: Junheet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Folds: Junheet
+Pot size: 300
+Wins: Charle, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Charle
+Small Blind: Charle, chips: 100
+Big Blind: Junheet, chips: 200
+Flop: 3c 7c 5s
+Turn: Kd
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Charle, Tc Kh
+Combination: Charle, Pair ( Kh Kd Qd Tc 7c )
+Shows: Junheet, 2h Qs
+Combination: Junheet, Pair ( Qs Qd Kd 7c 5s )
+Wins: Charle, chips: 200
+Wins: Junheet, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Junheet
+Small Blind: Junheet, chips: 100
+Big Blind: Charle, chips: 200
+Flop: Td 7c 7s
+Turn: 8d
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Charle, Qc Kc
+Combination: Charle, Pair ( 7c 7s Kc Qc Js )
+Shows: Junheet, 5d Qs
+Combination: Junheet, Pair ( 7c 7s Qs Js Td )
+Wins: Charle, chips: 300
+Quits: Junheet, chips: 0
+Ranking: Charle, Place: 1, Score: 1000
+Reveal AI: Charle, AI: Random
+Ranking: Junheet, Place: 2, Score: -1000
+Reveal AI: Junheet, AI: AIMyBot1
+
+Player Stats for Charle, AI: Random
+General: deals: 27, actions: 7, preflop actions: 7
+Rounds Seen: flops: 11, turns: 11, rivers: 11, showdowns: 11
+Wins: total: 21, showdown: 9, bluff: 12
+Chips: won: 5700, lost: 4700, bought: 1000, forced bets: 4100
+Pre-Flop Stats: VP$IP: 0.111111, PFR: 0.037037, 3Bet: 0.037037
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.818182
+
+
+Player Stats for Junheet, AI: AIMyBot1
+General: deals: 27, actions: 12, preflop actions: 12
+Rounds Seen: flops: 11, turns: 11, rivers: 11, showdowns: 11
+Wins: total: 14, showdown: 10, bluff: 4
+Chips: won: 3000, lost: 4000, bought: 1000, forced bets: 4000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.909091
+
+

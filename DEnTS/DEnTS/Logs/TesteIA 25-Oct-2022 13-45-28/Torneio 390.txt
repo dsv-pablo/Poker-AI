@@ -1,0 +1,198 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Liwram: AIMyBot1
+Deewrina: Random
+
+Joins: Liwram, chips: 1000
+Joins: Deewrina, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewrina
+Small Blind: Deewrina, chips: 100
+Big Blind: Liwram, chips: 200
+Calls: Deewrina
+DEBUG MESSAGE: INVALID ACTION FROM Liwram (2 0)
+Folds: Liwram
+Pot size: 400
+Wins: Deewrina, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwram
+Small Blind: Liwram, chips: 100
+Big Blind: Deewrina, chips: 200
+Folds: Liwram
+Pot size: 300
+Wins: Deewrina, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewrina
+Small Blind: Deewrina, chips: 100
+Big Blind: Liwram, chips: 200
+Calls: Deewrina
+DEBUG MESSAGE: INVALID ACTION FROM Liwram (2 0)
+Folds: Liwram
+Pot size: 400
+Boasts: Deewrina, 6d 4h
+Wins: Deewrina, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwram
+Small Blind: Liwram, chips: 100
+Big Blind: Deewrina, chips: 200
+Folds: Liwram
+Pot size: 300
+Boasts: Deewrina, Ac 4d
+Wins: Deewrina, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewrina
+Small Blind: Deewrina, chips: 100
+Big Blind: Liwram, chips: 200
+Calls: Deewrina
+DEBUG MESSAGE: INVALID ACTION FROM Liwram (2 0)
+Folds: Liwram
+Pot size: 400
+Boasts: Deewrina, 7s 9c
+Wins: Deewrina, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwram
+Small Blind: Liwram, chips: 100
+Big Blind: Deewrina, chips: 200
+Folds: Liwram
+Pot size: 300
+Boasts: Deewrina, 3d 8h
+Wins: Deewrina, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewrina
+Small Blind: Deewrina, chips: 100
+Big Blind: Liwram, chips: 100
+Flop: As 7d 6s
+Turn: 4s
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Liwram, 4h Jd
+Combination: Liwram, Pair ( 4h 4s As Jd 7d )
+Shows: Deewrina, Qd 2s
+Combination: Deewrina, Flush ( As 6s 5s 4s 2s )
+Wins: Deewrina, chips: 200
+Quits: Liwram, chips: 0
+Ranking: Deewrina, Place: 1, Score: 1000
+Reveal AI: Deewrina, AI: Random
+Ranking: Liwram, Place: 2, Score: -1000
+Reveal AI: Liwram, AI: AIMyBot1
+
+Player Stats for Deewrina, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2300, lost: 1300, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Liwram, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:55
+
+The game begins. The AI's of the players are: 
+Liwram: AIMyBot1
+Deewrina: Random
+
+Joins: Liwram, chips: 1000
+Joins: Deewrina, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewrina
+Small Blind: Deewrina, chips: 100
+Big Blind: Liwram, chips: 200
+Calls: Deewrina
+DEBUG MESSAGE: INVALID ACTION FROM Liwram (2 0)
+Folds: Liwram
+Pot size: 400
+Wins: Deewrina, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwram
+Small Blind: Liwram, chips: 100
+Big Blind: Deewrina, chips: 200
+Folds: Liwram
+Pot size: 300
+Wins: Deewrina, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewrina
+Small Blind: Deewrina, chips: 100
+Big Blind: Liwram, chips: 200
+Calls: Deewrina
+DEBUG MESSAGE: INVALID ACTION FROM Liwram (2 0)
+Folds: Liwram
+Pot size: 400
+Boasts: Deewrina, 6d 4h
+Wins: Deewrina, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwram
+Small Blind: Liwram, chips: 100
+Big Blind: Deewrina, chips: 200
+Folds: Liwram
+Pot size: 300
+Boasts: Deewrina, Ac 4d
+Wins: Deewrina, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewrina
+Small Blind: Deewrina, chips: 100
+Big Blind: Liwram, chips: 200
+Calls: Deewrina
+DEBUG MESSAGE: INVALID ACTION FROM Liwram (2 0)
+Folds: Liwram
+Pot size: 400
+Boasts: Deewrina, 7s 9c
+Wins: Deewrina, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liwram
+Small Blind: Liwram, chips: 100
+Big Blind: Deewrina, chips: 200
+Folds: Liwram
+Pot size: 300
+Boasts: Deewrina, 3d 8h
+Wins: Deewrina, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deewrina
+Small Blind: Deewrina, chips: 100
+Big Blind: Liwram, chips: 100
+Flop: As 7d 6s
+Turn: 4s
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Liwram, 4h Jd
+Combination: Liwram, Pair ( 4h 4s As Jd 7d )
+Shows: Deewrina, Qd 2s
+Combination: Deewrina, Flush ( As 6s 5s 4s 2s )
+Wins: Deewrina, chips: 200
+Quits: Liwram, chips: 0
+Ranking: Deewrina, Place: 1, Score: 1000
+Reveal AI: Deewrina, AI: Random
+Ranking: Liwram, Place: 2, Score: -1000
+Reveal AI: Liwram, AI: AIMyBot1
+
+Player Stats for Deewrina, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2300, lost: 1300, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Liwram, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

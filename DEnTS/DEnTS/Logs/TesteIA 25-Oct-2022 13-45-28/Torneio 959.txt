@@ -1,0 +1,198 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Ro: Random
+Keenhoefe: AIMyBot1
+
+Joins: Ro, chips: 1000
+Joins: Keenhoefe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keenhoefe
+Small Blind: Keenhoefe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Keenhoefe
+Pot size: 300
+Boasts: Ro, 9d 8d
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Keenhoefe, chips: 200
+Calls: Ro
+DEBUG MESSAGE: INVALID ACTION FROM Keenhoefe (2 0)
+Folds: Keenhoefe
+Pot size: 400
+Boasts: Ro, 7d Qc
+Wins: Ro, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keenhoefe
+Small Blind: Keenhoefe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Keenhoefe
+Pot size: 300
+Boasts: Ro, Qh Kd
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Keenhoefe, chips: 200
+Raises: Ro, chips: 300
+Folds: Keenhoefe
+Pot size: 700
+Boasts: Ro, Ac Kd
+Wins: Ro, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keenhoefe
+Small Blind: Keenhoefe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Keenhoefe
+Pot size: 300
+Boasts: Ro, 6d 7d
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Keenhoefe, chips: 200
+Raises: Ro, chips: 300
+Folds: Keenhoefe
+Pot size: 700
+Boasts: Ro, Kc Qd
+Wins: Ro, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keenhoefe
+Small Blind: Keenhoefe, chips: 100
+Big Blind: Ro, chips: 200
+Flop: Qc Jd 3h
+Turn: Qs
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Ro, 2d Jh
+Combination: Ro, Two Pair ( Qc Qs Jh Jd 3h )
+Shows: Keenhoefe, Ad 2h
+Combination: Keenhoefe, Two Pair ( Qc Qs 2h 2c Ad )
+Wins: Ro, chips: 300
+Quits: Keenhoefe, chips: 0
+Ranking: Ro, Place: 1, Score: 1000
+Reveal AI: Ro, AI: Random
+Ranking: Keenhoefe, Place: 2, Score: -1000
+Reveal AI: Keenhoefe, AI: AIMyBot1
+
+Player Stats for Keenhoefe, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Ro, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:32
+
+The game begins. The AI's of the players are: 
+Ro: Random
+Keenhoefe: AIMyBot1
+
+Joins: Ro, chips: 1000
+Joins: Keenhoefe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keenhoefe
+Small Blind: Keenhoefe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Keenhoefe
+Pot size: 300
+Boasts: Ro, 9d 8d
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Keenhoefe, chips: 200
+Calls: Ro
+DEBUG MESSAGE: INVALID ACTION FROM Keenhoefe (2 0)
+Folds: Keenhoefe
+Pot size: 400
+Boasts: Ro, 7d Qc
+Wins: Ro, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keenhoefe
+Small Blind: Keenhoefe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Keenhoefe
+Pot size: 300
+Boasts: Ro, Qh Kd
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Keenhoefe, chips: 200
+Raises: Ro, chips: 300
+Folds: Keenhoefe
+Pot size: 700
+Boasts: Ro, Ac Kd
+Wins: Ro, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keenhoefe
+Small Blind: Keenhoefe, chips: 100
+Big Blind: Ro, chips: 200
+Folds: Keenhoefe
+Pot size: 300
+Boasts: Ro, 6d 7d
+Wins: Ro, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ro
+Small Blind: Ro, chips: 100
+Big Blind: Keenhoefe, chips: 200
+Raises: Ro, chips: 300
+Folds: Keenhoefe
+Pot size: 700
+Boasts: Ro, Kc Qd
+Wins: Ro, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Keenhoefe
+Small Blind: Keenhoefe, chips: 100
+Big Blind: Ro, chips: 200
+Flop: Qc Jd 3h
+Turn: Qs
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Ro, 2d Jh
+Combination: Ro, Two Pair ( Qc Qs Jh Jd 3h )
+Shows: Keenhoefe, Ad 2h
+Combination: Keenhoefe, Two Pair ( Qc Qs 2h 2c Ad )
+Wins: Ro, chips: 300
+Quits: Keenhoefe, chips: 0
+Ranking: Ro, Place: 1, Score: 1000
+Reveal AI: Ro, AI: Random
+Ranking: Keenhoefe, Place: 2, Score: -1000
+Reveal AI: Keenhoefe, AI: AIMyBot1
+
+Player Stats for Keenhoefe, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Ro, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

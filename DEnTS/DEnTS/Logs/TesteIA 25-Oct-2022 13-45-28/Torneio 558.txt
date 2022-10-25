@@ -1,0 +1,234 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gegiluv: Random
+Deesin: AIMyBot1
+
+Joins: Gegiluv, chips: 1000
+Joins: Deesin, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gegiluv
+Small Blind: Gegiluv, chips: 100
+Big Blind: Deesin, chips: 200
+Calls: Gegiluv
+DEBUG MESSAGE: INVALID ACTION FROM Deesin (2 0)
+Folds: Deesin
+Pot size: 400
+Wins: Gegiluv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deesin
+Small Blind: Deesin, chips: 100
+Big Blind: Gegiluv, chips: 200
+Folds: Deesin
+Pot size: 300
+Boasts: Gegiluv, 3h 6c
+Wins: Gegiluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gegiluv
+Small Blind: Gegiluv, chips: 100
+Big Blind: Deesin, chips: 200
+Calls: Gegiluv
+DEBUG MESSAGE: INVALID ACTION FROM Deesin (2 0)
+Folds: Deesin
+Pot size: 400
+Wins: Gegiluv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deesin
+Small Blind: Deesin, chips: 100
+Big Blind: Gegiluv, chips: 200
+Folds: Deesin
+Pot size: 300
+Wins: Gegiluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gegiluv
+Small Blind: Gegiluv, chips: 100
+Big Blind: Deesin, chips: 200
+Calls: Gegiluv
+DEBUG MESSAGE: INVALID ACTION FROM Deesin (2 0)
+Folds: Deesin
+Pot size: 400
+Wins: Gegiluv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deesin
+Small Blind: Deesin, chips: 100
+Big Blind: Gegiluv, chips: 200
+Folds: Deesin
+Pot size: 300
+Wins: Gegiluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gegiluv
+Small Blind: Gegiluv, chips: 100
+Big Blind: Deesin, chips: 100
+Flop: Kd 7h Jh
+Turn: Qc
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Gegiluv, 8c 4d
+Combination: Gegiluv, Pair ( 4d 4h Kd Qc Jh )
+Shows: Deesin, Jd 9d
+Combination: Deesin, Pair ( Jd Jh Kd Qc 9d )
+Wins: Deesin, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deesin
+Small Blind: Deesin, chips: 100
+Big Blind: Gegiluv, chips: 200
+Folds: Deesin
+Pot size: 300
+Wins: Gegiluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gegiluv
+Small Blind: Gegiluv, chips: 100
+Big Blind: Deesin, chips: 100
+Flop: 7h Ac 6h
+Turn: Qd
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Gegiluv, 2s Ad
+Combination: Gegiluv, Pair ( Ad Ac Qd 9d 7h )
+Shows: Deesin, 7s Kd
+Combination: Deesin, Pair ( 7s 7h Ac Kd Qd )
+Wins: Gegiluv, chips: 200
+Quits: Deesin, chips: 0
+Ranking: Gegiluv, Place: 1, Score: 1000
+Reveal AI: Gegiluv, AI: Random
+Ranking: Deesin, Place: 2, Score: -1000
+Reveal AI: Deesin, AI: AIMyBot1
+
+Player Stats for Deesin, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Gegiluv, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:06
+
+The game begins. The AI's of the players are: 
+Gegiluv: Random
+Deesin: AIMyBot1
+
+Joins: Gegiluv, chips: 1000
+Joins: Deesin, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gegiluv
+Small Blind: Gegiluv, chips: 100
+Big Blind: Deesin, chips: 200
+Calls: Gegiluv
+DEBUG MESSAGE: INVALID ACTION FROM Deesin (2 0)
+Folds: Deesin
+Pot size: 400
+Wins: Gegiluv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deesin
+Small Blind: Deesin, chips: 100
+Big Blind: Gegiluv, chips: 200
+Folds: Deesin
+Pot size: 300
+Boasts: Gegiluv, 3h 6c
+Wins: Gegiluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gegiluv
+Small Blind: Gegiluv, chips: 100
+Big Blind: Deesin, chips: 200
+Calls: Gegiluv
+DEBUG MESSAGE: INVALID ACTION FROM Deesin (2 0)
+Folds: Deesin
+Pot size: 400
+Wins: Gegiluv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deesin
+Small Blind: Deesin, chips: 100
+Big Blind: Gegiluv, chips: 200
+Folds: Deesin
+Pot size: 300
+Wins: Gegiluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gegiluv
+Small Blind: Gegiluv, chips: 100
+Big Blind: Deesin, chips: 200
+Calls: Gegiluv
+DEBUG MESSAGE: INVALID ACTION FROM Deesin (2 0)
+Folds: Deesin
+Pot size: 400
+Wins: Gegiluv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deesin
+Small Blind: Deesin, chips: 100
+Big Blind: Gegiluv, chips: 200
+Folds: Deesin
+Pot size: 300
+Wins: Gegiluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gegiluv
+Small Blind: Gegiluv, chips: 100
+Big Blind: Deesin, chips: 100
+Flop: Kd 7h Jh
+Turn: Qc
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Gegiluv, 8c 4d
+Combination: Gegiluv, Pair ( 4d 4h Kd Qc Jh )
+Shows: Deesin, Jd 9d
+Combination: Deesin, Pair ( Jd Jh Kd Qc 9d )
+Wins: Deesin, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deesin
+Small Blind: Deesin, chips: 100
+Big Blind: Gegiluv, chips: 200
+Folds: Deesin
+Pot size: 300
+Wins: Gegiluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gegiluv
+Small Blind: Gegiluv, chips: 100
+Big Blind: Deesin, chips: 100
+Flop: 7h Ac 6h
+Turn: Qd
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Gegiluv, 2s Ad
+Combination: Gegiluv, Pair ( Ad Ac Qd 9d 7h )
+Shows: Deesin, 7s Kd
+Combination: Deesin, Pair ( 7s 7h Ac Kd Qd )
+Wins: Gegiluv, chips: 200
+Quits: Deesin, chips: 0
+Ranking: Gegiluv, Place: 1, Score: 1000
+Reveal AI: Gegiluv, AI: Random
+Ranking: Deesin, Place: 2, Score: -1000
+Reveal AI: Deesin, AI: AIMyBot1
+
+Player Stats for Deesin, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Gegiluv, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

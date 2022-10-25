@@ -1,0 +1,270 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Rarlos: AIMyBot1
+Siwrotoe: Random
+
+Joins: Rarlos, chips: 1000
+Joins: Siwrotoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarlos
+Small Blind: Rarlos, chips: 100
+Big Blind: Siwrotoe, chips: 200
+Folds: Rarlos
+Pot size: 300
+Wins: Siwrotoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siwrotoe
+Small Blind: Siwrotoe, chips: 100
+Big Blind: Rarlos, chips: 200
+Calls: Siwrotoe
+DEBUG MESSAGE: INVALID ACTION FROM Rarlos (2 0)
+Folds: Rarlos
+Pot size: 400
+Boasts: Siwrotoe, 5c Jd
+Wins: Siwrotoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarlos
+Small Blind: Rarlos, chips: 100
+Big Blind: Siwrotoe, chips: 200
+Folds: Rarlos
+Pot size: 300
+Boasts: Siwrotoe, Ks 4s
+Wins: Siwrotoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siwrotoe
+Small Blind: Siwrotoe, chips: 100
+Big Blind: Rarlos, chips: 200
+Calls: Siwrotoe
+DEBUG MESSAGE: INVALID ACTION FROM Rarlos (2 0)
+Folds: Rarlos
+Pot size: 400
+Wins: Siwrotoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarlos
+Small Blind: Rarlos, chips: 100
+Big Blind: Siwrotoe, chips: 200
+Folds: Rarlos
+Pot size: 300
+Boasts: Siwrotoe, 9h Ad
+Wins: Siwrotoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siwrotoe
+Small Blind: Siwrotoe, chips: 100
+Big Blind: Rarlos, chips: 200
+Raises: Siwrotoe, chips: 300
+Folds: Rarlos
+Pot size: 700
+Boasts: Siwrotoe, 8c Th
+Wins: Siwrotoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarlos
+Small Blind: Rarlos, chips: 100
+Big Blind: Siwrotoe, chips: 200
+Flop: 2s Tc Ts
+Turn: Th
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Rarlos, Js As
+Combination: Rarlos, Three Of A Kind ( Tc Ts Th As Js )
+Shows: Siwrotoe, Qh Kh
+Combination: Siwrotoe, Three Of A Kind ( Tc Ts Th Kh Qh )
+Wins: Rarlos, chips: 200
+Wins: Siwrotoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siwrotoe
+Small Blind: Siwrotoe, chips: 100
+Big Blind: Rarlos, chips: 200
+Flop: 4s 3s Td
+Turn: Th
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Rarlos, Jc Kd
+Combination: Rarlos, Pair ( Td Th Kd Jc 7c )
+Shows: Siwrotoe, Kh Js
+Combination: Siwrotoe, Pair ( Td Th Kh Js 7c )
+Wins: Rarlos, chips: 200
+Wins: Siwrotoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarlos
+Small Blind: Rarlos, chips: 100
+Big Blind: Siwrotoe, chips: 200
+Folds: Rarlos
+Pot size: 300
+Wins: Siwrotoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siwrotoe
+Small Blind: Siwrotoe, chips: 100
+Big Blind: Rarlos, chips: 100
+Flop: 3c 9s 4d
+Turn: 7h
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Rarlos, 8s 8c
+Combination: Rarlos, Two Pair ( 8s 8c 7h 7c 9s )
+Shows: Siwrotoe, 4h 7d
+Combination: Siwrotoe, Full House ( 7d 7h 7c 4h 4d )
+Wins: Siwrotoe, chips: 200
+Quits: Rarlos, chips: 0
+Ranking: Siwrotoe, Place: 1, Score: 1000
+Reveal AI: Siwrotoe, AI: Random
+Ranking: Rarlos, Place: 2, Score: -1000
+Reveal AI: Rarlos, AI: AIMyBot1
+
+Player Stats for Rarlos, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Siwrotoe, AI: Random
+General: deals: 10, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.1, 3Bet: 0.1
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:21
+
+The game begins. The AI's of the players are: 
+Rarlos: AIMyBot1
+Siwrotoe: Random
+
+Joins: Rarlos, chips: 1000
+Joins: Siwrotoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarlos
+Small Blind: Rarlos, chips: 100
+Big Blind: Siwrotoe, chips: 200
+Folds: Rarlos
+Pot size: 300
+Wins: Siwrotoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siwrotoe
+Small Blind: Siwrotoe, chips: 100
+Big Blind: Rarlos, chips: 200
+Calls: Siwrotoe
+DEBUG MESSAGE: INVALID ACTION FROM Rarlos (2 0)
+Folds: Rarlos
+Pot size: 400
+Boasts: Siwrotoe, 5c Jd
+Wins: Siwrotoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarlos
+Small Blind: Rarlos, chips: 100
+Big Blind: Siwrotoe, chips: 200
+Folds: Rarlos
+Pot size: 300
+Boasts: Siwrotoe, Ks 4s
+Wins: Siwrotoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siwrotoe
+Small Blind: Siwrotoe, chips: 100
+Big Blind: Rarlos, chips: 200
+Calls: Siwrotoe
+DEBUG MESSAGE: INVALID ACTION FROM Rarlos (2 0)
+Folds: Rarlos
+Pot size: 400
+Wins: Siwrotoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarlos
+Small Blind: Rarlos, chips: 100
+Big Blind: Siwrotoe, chips: 200
+Folds: Rarlos
+Pot size: 300
+Boasts: Siwrotoe, 9h Ad
+Wins: Siwrotoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siwrotoe
+Small Blind: Siwrotoe, chips: 100
+Big Blind: Rarlos, chips: 200
+Raises: Siwrotoe, chips: 300
+Folds: Rarlos
+Pot size: 700
+Boasts: Siwrotoe, 8c Th
+Wins: Siwrotoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarlos
+Small Blind: Rarlos, chips: 100
+Big Blind: Siwrotoe, chips: 200
+Flop: 2s Tc Ts
+Turn: Th
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Rarlos, Js As
+Combination: Rarlos, Three Of A Kind ( Tc Ts Th As Js )
+Shows: Siwrotoe, Qh Kh
+Combination: Siwrotoe, Three Of A Kind ( Tc Ts Th Kh Qh )
+Wins: Rarlos, chips: 200
+Wins: Siwrotoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siwrotoe
+Small Blind: Siwrotoe, chips: 100
+Big Blind: Rarlos, chips: 200
+Flop: 4s 3s Td
+Turn: Th
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Rarlos, Jc Kd
+Combination: Rarlos, Pair ( Td Th Kd Jc 7c )
+Shows: Siwrotoe, Kh Js
+Combination: Siwrotoe, Pair ( Td Th Kh Js 7c )
+Wins: Rarlos, chips: 200
+Wins: Siwrotoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rarlos
+Small Blind: Rarlos, chips: 100
+Big Blind: Siwrotoe, chips: 200
+Folds: Rarlos
+Pot size: 300
+Wins: Siwrotoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Siwrotoe
+Small Blind: Siwrotoe, chips: 100
+Big Blind: Rarlos, chips: 100
+Flop: 3c 9s 4d
+Turn: 7h
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Rarlos, 8s 8c
+Combination: Rarlos, Two Pair ( 8s 8c 7h 7c 9s )
+Shows: Siwrotoe, 4h 7d
+Combination: Siwrotoe, Full House ( 7d 7h 7c 4h 4d )
+Wins: Siwrotoe, chips: 200
+Quits: Rarlos, chips: 0
+Ranking: Siwrotoe, Place: 1, Score: 1000
+Reveal AI: Siwrotoe, AI: Random
+Ranking: Rarlos, Place: 2, Score: -1000
+Reveal AI: Rarlos, AI: AIMyBot1
+
+Player Stats for Rarlos, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Siwrotoe, AI: Random
+General: deals: 10, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.1, 3Bet: 0.1
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

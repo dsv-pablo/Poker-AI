@@ -1,0 +1,268 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Feereluv: Random
+Suchi: AIMyBot1
+
+Joins: Feereluv, chips: 1000
+Joins: Suchi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suchi
+Small Blind: Suchi, chips: 100
+Big Blind: Feereluv, chips: 200
+Folds: Suchi
+Pot size: 300
+Wins: Feereluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feereluv
+Small Blind: Feereluv, chips: 100
+Big Blind: Suchi, chips: 200
+Raises: Feereluv, chips: 300
+Folds: Suchi
+Pot size: 700
+Wins: Feereluv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suchi
+Small Blind: Suchi, chips: 100
+Big Blind: Feereluv, chips: 200
+Folds: Suchi
+Pot size: 300
+Wins: Feereluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feereluv
+Small Blind: Feereluv, chips: 100
+Big Blind: Suchi, chips: 200
+Calls: Feereluv
+DEBUG MESSAGE: INVALID ACTION FROM Suchi (2 0)
+Folds: Suchi
+Pot size: 400
+Boasts: Feereluv, 2s Ah
+Wins: Feereluv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suchi
+Small Blind: Suchi, chips: 100
+Big Blind: Feereluv, chips: 200
+Folds: Suchi
+Pot size: 300
+Boasts: Feereluv, 8c Ts
+Wins: Feereluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feereluv
+Small Blind: Feereluv, chips: 100
+Big Blind: Suchi, chips: 200
+Calls: Feereluv
+DEBUG MESSAGE: INVALID ACTION FROM Suchi (2 0)
+Folds: Suchi
+Pot size: 400
+Boasts: Feereluv, 3d 7s
+Wins: Feereluv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suchi
+Small Blind: Suchi, chips: 100
+Big Blind: Feereluv, chips: 200
+Flop: 7s Jc Ac
+Turn: 2d
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Feereluv, 8h 4c
+Combination: Feereluv, High Card ( Ac Kd Jc 8h 7s )
+Shows: Suchi, 6s 8s
+Combination: Suchi, High Card ( Ac Kd Jc 8s 7s )
+Wins: Feereluv, chips: 200
+Wins: Suchi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feereluv
+Small Blind: Feereluv, chips: 100
+Big Blind: Suchi, chips: 100
+Flop: 9d 6d 7c
+Turn: Tc
+River: 7s
+Pot size: 200
+Showdown Reached
+Shows: Feereluv, 7h Qs
+Combination: Feereluv, Three Of A Kind ( 7h 7c 7s Qs Tc )
+Shows: Suchi, 8s Ah
+Combination: Suchi, Straight ( Tc 9d 8s 7c 6d )
+Wins: Suchi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suchi
+Small Blind: Suchi, chips: 100
+Big Blind: Feereluv, chips: 200
+Folds: Suchi
+Pot size: 300
+Boasts: Feereluv, 9s 2c
+Wins: Feereluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feereluv
+Small Blind: Feereluv, chips: 100
+Big Blind: Suchi, chips: 100
+Flop: 9d 6h 2s
+Turn: Ah
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Feereluv, 4s 5c
+Combination: Feereluv, Straight ( 6h 5c 4s 3c 2s )
+Shows: Suchi, 4h Qh
+Combination: Suchi, High Card ( Ah Qh 9d 6h 4h )
+Wins: Feereluv, chips: 200
+Quits: Suchi, chips: 0
+Ranking: Feereluv, Place: 1, Score: 1000
+Reveal AI: Feereluv, AI: Random
+Ranking: Suchi, Place: 2, Score: -1000
+Reveal AI: Suchi, AI: AIMyBot1
+
+Player Stats for Feereluv, AI: Random
+General: deals: 10, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 2, bluff: 7
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.1, 3Bet: 0.1
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Suchi, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:05
+
+The game begins. The AI's of the players are: 
+Feereluv: Random
+Suchi: AIMyBot1
+
+Joins: Feereluv, chips: 1000
+Joins: Suchi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suchi
+Small Blind: Suchi, chips: 100
+Big Blind: Feereluv, chips: 200
+Folds: Suchi
+Pot size: 300
+Wins: Feereluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feereluv
+Small Blind: Feereluv, chips: 100
+Big Blind: Suchi, chips: 200
+Raises: Feereluv, chips: 300
+Folds: Suchi
+Pot size: 700
+Wins: Feereluv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suchi
+Small Blind: Suchi, chips: 100
+Big Blind: Feereluv, chips: 200
+Folds: Suchi
+Pot size: 300
+Wins: Feereluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feereluv
+Small Blind: Feereluv, chips: 100
+Big Blind: Suchi, chips: 200
+Calls: Feereluv
+DEBUG MESSAGE: INVALID ACTION FROM Suchi (2 0)
+Folds: Suchi
+Pot size: 400
+Boasts: Feereluv, 2s Ah
+Wins: Feereluv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suchi
+Small Blind: Suchi, chips: 100
+Big Blind: Feereluv, chips: 200
+Folds: Suchi
+Pot size: 300
+Boasts: Feereluv, 8c Ts
+Wins: Feereluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feereluv
+Small Blind: Feereluv, chips: 100
+Big Blind: Suchi, chips: 200
+Calls: Feereluv
+DEBUG MESSAGE: INVALID ACTION FROM Suchi (2 0)
+Folds: Suchi
+Pot size: 400
+Boasts: Feereluv, 3d 7s
+Wins: Feereluv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suchi
+Small Blind: Suchi, chips: 100
+Big Blind: Feereluv, chips: 200
+Flop: 7s Jc Ac
+Turn: 2d
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Feereluv, 8h 4c
+Combination: Feereluv, High Card ( Ac Kd Jc 8h 7s )
+Shows: Suchi, 6s 8s
+Combination: Suchi, High Card ( Ac Kd Jc 8s 7s )
+Wins: Feereluv, chips: 200
+Wins: Suchi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feereluv
+Small Blind: Feereluv, chips: 100
+Big Blind: Suchi, chips: 100
+Flop: 9d 6d 7c
+Turn: Tc
+River: 7s
+Pot size: 200
+Showdown Reached
+Shows: Feereluv, 7h Qs
+Combination: Feereluv, Three Of A Kind ( 7h 7c 7s Qs Tc )
+Shows: Suchi, 8s Ah
+Combination: Suchi, Straight ( Tc 9d 8s 7c 6d )
+Wins: Suchi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Suchi
+Small Blind: Suchi, chips: 100
+Big Blind: Feereluv, chips: 200
+Folds: Suchi
+Pot size: 300
+Boasts: Feereluv, 9s 2c
+Wins: Feereluv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feereluv
+Small Blind: Feereluv, chips: 100
+Big Blind: Suchi, chips: 100
+Flop: 9d 6h 2s
+Turn: Ah
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Feereluv, 4s 5c
+Combination: Feereluv, Straight ( 6h 5c 4s 3c 2s )
+Shows: Suchi, 4h Qh
+Combination: Suchi, High Card ( Ah Qh 9d 6h 4h )
+Wins: Feereluv, chips: 200
+Quits: Suchi, chips: 0
+Ranking: Feereluv, Place: 1, Score: 1000
+Reveal AI: Feereluv, AI: Random
+Ranking: Suchi, Place: 2, Score: -1000
+Reveal AI: Suchi, AI: AIMyBot1
+
+Player Stats for Feereluv, AI: Random
+General: deals: 10, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 2, bluff: 7
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.1, 3Bet: 0.1
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Suchi, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

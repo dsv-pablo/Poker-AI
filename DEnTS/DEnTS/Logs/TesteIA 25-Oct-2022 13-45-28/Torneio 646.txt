@@ -1,0 +1,284 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Mucho: Random
+Poedoep: AIMyBot1
+
+Joins: Mucho, chips: 1000
+Joins: Poedoep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poedoep
+Small Blind: Poedoep, chips: 100
+Big Blind: Mucho, chips: 200
+Folds: Poedoep
+Pot size: 300
+Boasts: Mucho, 6c Ts
+Wins: Mucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mucho
+Small Blind: Mucho, chips: 100
+Big Blind: Poedoep, chips: 200
+Folds: Mucho
+Pot size: 300
+Boasts: Mucho, Kd 7h
+Wins: Poedoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poedoep
+Small Blind: Poedoep, chips: 100
+Big Blind: Mucho, chips: 200
+Folds: Poedoep
+Pot size: 300
+Boasts: Mucho, Td Ad
+Wins: Mucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mucho
+Small Blind: Mucho, chips: 100
+Big Blind: Poedoep, chips: 200
+Calls: Mucho
+DEBUG MESSAGE: INVALID ACTION FROM Poedoep (2 0)
+Folds: Poedoep
+Pot size: 400
+Boasts: Mucho, Jh 9d
+Wins: Mucho, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poedoep
+Small Blind: Poedoep, chips: 100
+Big Blind: Mucho, chips: 200
+Folds: Poedoep
+Pot size: 300
+Wins: Mucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mucho
+Small Blind: Mucho, chips: 100
+Big Blind: Poedoep, chips: 200
+Calls: Mucho
+DEBUG MESSAGE: INVALID ACTION FROM Poedoep (2 0)
+Folds: Poedoep
+Pot size: 400
+Wins: Mucho, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poedoep
+Small Blind: Poedoep, chips: 100
+Big Blind: Mucho, chips: 200
+Folds: Poedoep
+Pot size: 300
+Wins: Mucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mucho
+Small Blind: Mucho, chips: 100
+Big Blind: Poedoep, chips: 200
+Folds: Mucho
+Pot size: 300
+Wins: Poedoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poedoep
+Small Blind: Poedoep, chips: 100
+Big Blind: Mucho, chips: 200
+Folds: Poedoep
+Pot size: 300
+Boasts: Mucho, Qs Kc
+Wins: Mucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mucho
+Small Blind: Mucho, chips: 100
+Big Blind: Poedoep, chips: 200
+Folds: Mucho
+Pot size: 300
+Wins: Poedoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poedoep
+Small Blind: Poedoep, chips: 100
+Big Blind: Mucho, chips: 200
+Folds: Poedoep
+Pot size: 300
+Wins: Mucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mucho
+Small Blind: Mucho, chips: 100
+Big Blind: Poedoep, chips: 200
+Calls: Mucho
+DEBUG MESSAGE: INVALID ACTION FROM Poedoep (2 0)
+Folds: Poedoep
+Pot size: 400
+Wins: Mucho, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poedoep
+Small Blind: Poedoep, chips: 100
+Big Blind: Mucho, chips: 200
+Flop: Ts Qc Ah
+Turn: 7d
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Mucho, 6d Ac
+Combination: Mucho, Two Pair ( Ac Ah Ts Td Qc )
+Shows: Poedoep, 2c 2d
+Combination: Poedoep, Two Pair ( Ts Td 2c 2d Ah )
+Wins: Mucho, chips: 300
+Quits: Poedoep, chips: 0
+Ranking: Mucho, Place: 1, Score: 1000
+Reveal AI: Mucho, AI: Random
+Ranking: Poedoep, Place: 2, Score: -1000
+Reveal AI: Poedoep, AI: AIMyBot1
+
+Player Stats for Mucho, AI: Random
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Poedoep, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 3, showdown: 0, bluff: 3
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:12
+
+The game begins. The AI's of the players are: 
+Mucho: Random
+Poedoep: AIMyBot1
+
+Joins: Mucho, chips: 1000
+Joins: Poedoep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poedoep
+Small Blind: Poedoep, chips: 100
+Big Blind: Mucho, chips: 200
+Folds: Poedoep
+Pot size: 300
+Boasts: Mucho, 6c Ts
+Wins: Mucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mucho
+Small Blind: Mucho, chips: 100
+Big Blind: Poedoep, chips: 200
+Folds: Mucho
+Pot size: 300
+Boasts: Mucho, Kd 7h
+Wins: Poedoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poedoep
+Small Blind: Poedoep, chips: 100
+Big Blind: Mucho, chips: 200
+Folds: Poedoep
+Pot size: 300
+Boasts: Mucho, Td Ad
+Wins: Mucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mucho
+Small Blind: Mucho, chips: 100
+Big Blind: Poedoep, chips: 200
+Calls: Mucho
+DEBUG MESSAGE: INVALID ACTION FROM Poedoep (2 0)
+Folds: Poedoep
+Pot size: 400
+Boasts: Mucho, Jh 9d
+Wins: Mucho, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poedoep
+Small Blind: Poedoep, chips: 100
+Big Blind: Mucho, chips: 200
+Folds: Poedoep
+Pot size: 300
+Wins: Mucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mucho
+Small Blind: Mucho, chips: 100
+Big Blind: Poedoep, chips: 200
+Calls: Mucho
+DEBUG MESSAGE: INVALID ACTION FROM Poedoep (2 0)
+Folds: Poedoep
+Pot size: 400
+Wins: Mucho, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poedoep
+Small Blind: Poedoep, chips: 100
+Big Blind: Mucho, chips: 200
+Folds: Poedoep
+Pot size: 300
+Wins: Mucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mucho
+Small Blind: Mucho, chips: 100
+Big Blind: Poedoep, chips: 200
+Folds: Mucho
+Pot size: 300
+Wins: Poedoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poedoep
+Small Blind: Poedoep, chips: 100
+Big Blind: Mucho, chips: 200
+Folds: Poedoep
+Pot size: 300
+Boasts: Mucho, Qs Kc
+Wins: Mucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mucho
+Small Blind: Mucho, chips: 100
+Big Blind: Poedoep, chips: 200
+Folds: Mucho
+Pot size: 300
+Wins: Poedoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poedoep
+Small Blind: Poedoep, chips: 100
+Big Blind: Mucho, chips: 200
+Folds: Poedoep
+Pot size: 300
+Wins: Mucho, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mucho
+Small Blind: Mucho, chips: 100
+Big Blind: Poedoep, chips: 200
+Calls: Mucho
+DEBUG MESSAGE: INVALID ACTION FROM Poedoep (2 0)
+Folds: Poedoep
+Pot size: 400
+Wins: Mucho, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poedoep
+Small Blind: Poedoep, chips: 100
+Big Blind: Mucho, chips: 200
+Flop: Ts Qc Ah
+Turn: 7d
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Mucho, 6d Ac
+Combination: Mucho, Two Pair ( Ac Ah Ts Td Qc )
+Shows: Poedoep, 2c 2d
+Combination: Poedoep, Two Pair ( Ts Td 2c 2d Ah )
+Wins: Mucho, chips: 300
+Quits: Poedoep, chips: 0
+Ranking: Mucho, Place: 1, Score: 1000
+Reveal AI: Mucho, AI: Random
+Ranking: Poedoep, Place: 2, Score: -1000
+Reveal AI: Poedoep, AI: AIMyBot1
+
+Player Stats for Mucho, AI: Random
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Poedoep, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 3, showdown: 0, bluff: 3
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

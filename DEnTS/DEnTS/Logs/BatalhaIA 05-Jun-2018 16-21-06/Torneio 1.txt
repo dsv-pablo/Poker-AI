@@ -1,0 +1,48 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Kono: AIMyBot6
+Neegerle: AIMyBot3
+Surlosev: AIMyBot7
+Choere: AIMyBot5
+Kufe: AIMyBot1
+Je: AIMyBot2
+Dokeettoen: AIMyBot4
+
+Joins: Kono, chips: 1000
+Joins: Neegerle, chips: 1000
+Joins: Surlosev, chips: 1000
+Joins: Choere, chips: 1000
+Joins: Kufe, chips: 1000
+Joins: Je, chips: 1000
+Joins: Dokeettoen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Dokeettoen, chips: 100
+Big Blind: Kono, chips: 200
+Folds: Neegerle
+Date: 2018/06/05 16:21:06
+
+The game begins. The AI's of the players are: 
+Kono: AIMyBot6
+Neegerle: AIMyBot3
+Surlosev: AIMyBot7
+Choere: AIMyBot5
+Kufe: AIMyBot1
+Je: AIMyBot2
+Dokeettoen: AIMyBot4
+
+Joins: Kono, chips: 1000
+Joins: Neegerle, chips: 1000
+Joins: Surlosev, chips: 1000
+Joins: Choere, chips: 1000
+Joins: Kufe, chips: 1000
+Joins: Je, chips: 1000
+Joins: Dokeettoen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Je
+Small Blind: Dokeettoen, chips: 100
+Big Blind: Kono, chips: 200
+Folds: Neegerle

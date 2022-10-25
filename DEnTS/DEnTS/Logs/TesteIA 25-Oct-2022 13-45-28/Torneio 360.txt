@@ -1,0 +1,480 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hagi: Random
+Buttu: AIMyBot1
+
+Joins: Hagi, chips: 1000
+Joins: Buttu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Calls: Hagi
+DEBUG MESSAGE: INVALID ACTION FROM Buttu (2 0)
+Folds: Buttu
+Pot size: 400
+Boasts: Hagi, 3d 4h
+Wins: Hagi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Boasts: Hagi, Ad 6h
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Raises: Hagi, chips: 300
+Folds: Buttu
+Pot size: 700
+Wins: Hagi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Boasts: Hagi, As Jd
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Folds: Hagi
+Pot size: 300
+Boasts: Hagi, 2h Td
+Wins: Buttu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Folds: Hagi
+Pot size: 300
+Wins: Buttu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Boasts: Hagi, As 2c
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Folds: Hagi
+Pot size: 300
+Wins: Buttu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Boasts: Hagi, Kh 7d
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Folds: Hagi
+Pot size: 300
+Boasts: Hagi, Ts 9h
+Wins: Buttu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Raises: Hagi, chips: 300
+Calls: Buttu
+Flop: Kd Ts 5d
+Turn: 7s
+River: 6c
+Pot size: 800
+Showdown Reached
+Shows: Hagi, 4s Qh
+Combination: Hagi, High Card ( Kd Qh Ts 7s 6c )
+Shows: Buttu, 3d Ks
+Combination: Buttu, Pair ( Ks Kd Ts 7s 6c )
+Wins: Hagi, chips: 200
+Wins: Buttu, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Folds: Hagi
+Pot size: 300
+Boasts: Hagi, Ad 7h
+Wins: Buttu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Calls: Hagi
+DEBUG MESSAGE: INVALID ACTION FROM Buttu (2 0)
+Folds: Buttu
+Pot size: 400
+Wins: Hagi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Flop: 5c Kh 6s
+Turn: 8s
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Hagi, Qd 2d
+Combination: Hagi, High Card ( Ah Kh Qd 8s 6s )
+Shows: Buttu, Kc Th
+Combination: Buttu, Pair ( Kc Kh Ah Th 8s )
+Wins: Buttu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Boasts: Hagi, Jh 9c
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Flop: 6h As 3s
+Turn: Ts
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Hagi, Kc Ad
+Combination: Hagi, Pair ( Ad As Kc Ts 7c )
+Shows: Buttu, 4s Jh
+Combination: Buttu, High Card ( As Jh Ts 7c 6h )
+Wins: Hagi, chips: 200
+Wins: Buttu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Flop: 6c Ah 6d
+Turn: 7h
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Hagi, 7s 6s
+Combination: Hagi, Full House ( 6s 6c 6d 7s 7h )
+Shows: Buttu, Kc Tc
+Combination: Buttu, Two Pair ( Kc Ks 6c 6d Ah )
+Wins: Hagi, chips: 300
+Quits: Buttu, chips: 0
+Ranking: Hagi, Place: 1, Score: 1000
+Reveal AI: Hagi, AI: Random
+Ranking: Buttu, Place: 2, Score: -1000
+Reveal AI: Buttu, AI: AIMyBot1
+
+Player Stats for Buttu, AI: AIMyBot1
+General: deals: 23, actions: 15, preflop actions: 15
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 8, showdown: 3, bluff: 5
+Chips: won: 2500, lost: 3700, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0.0434783, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Hagi, AI: Random
+General: deals: 23, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 17, showdown: 3, bluff: 14
+Chips: won: 5500, lost: 4500, bought: 1000, forced bets: 3500
+Pre-Flop Stats: VP$IP: 0.173913, PFR: 0.0869565, 3Bet: 0.0869565
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:45:53
+
+The game begins. The AI's of the players are: 
+Hagi: Random
+Buttu: AIMyBot1
+
+Joins: Hagi, chips: 1000
+Joins: Buttu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Calls: Hagi
+DEBUG MESSAGE: INVALID ACTION FROM Buttu (2 0)
+Folds: Buttu
+Pot size: 400
+Boasts: Hagi, 3d 4h
+Wins: Hagi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Boasts: Hagi, Ad 6h
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Raises: Hagi, chips: 300
+Folds: Buttu
+Pot size: 700
+Wins: Hagi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Boasts: Hagi, As Jd
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Folds: Hagi
+Pot size: 300
+Boasts: Hagi, 2h Td
+Wins: Buttu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Folds: Hagi
+Pot size: 300
+Wins: Buttu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Boasts: Hagi, As 2c
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Folds: Hagi
+Pot size: 300
+Wins: Buttu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Boasts: Hagi, Kh 7d
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Folds: Hagi
+Pot size: 300
+Boasts: Hagi, Ts 9h
+Wins: Buttu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Raises: Hagi, chips: 300
+Calls: Buttu
+Flop: Kd Ts 5d
+Turn: 7s
+River: 6c
+Pot size: 800
+Showdown Reached
+Shows: Hagi, 4s Qh
+Combination: Hagi, High Card ( Kd Qh Ts 7s 6c )
+Shows: Buttu, 3d Ks
+Combination: Buttu, Pair ( Ks Kd Ts 7s 6c )
+Wins: Hagi, chips: 200
+Wins: Buttu, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Folds: Hagi
+Pot size: 300
+Boasts: Hagi, Ad 7h
+Wins: Buttu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Calls: Hagi
+DEBUG MESSAGE: INVALID ACTION FROM Buttu (2 0)
+Folds: Buttu
+Pot size: 400
+Wins: Hagi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Flop: 5c Kh 6s
+Turn: 8s
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Hagi, Qd 2d
+Combination: Hagi, High Card ( Ah Kh Qd 8s 6s )
+Shows: Buttu, Kc Th
+Combination: Buttu, Pair ( Kc Kh Ah Th 8s )
+Wins: Buttu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Folds: Buttu
+Pot size: 300
+Boasts: Hagi, Jh 9c
+Wins: Hagi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hagi
+Small Blind: Hagi, chips: 100
+Big Blind: Buttu, chips: 200
+Flop: 6h As 3s
+Turn: Ts
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Hagi, Kc Ad
+Combination: Hagi, Pair ( Ad As Kc Ts 7c )
+Shows: Buttu, 4s Jh
+Combination: Buttu, High Card ( As Jh Ts 7c 6h )
+Wins: Hagi, chips: 200
+Wins: Buttu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buttu
+Small Blind: Buttu, chips: 100
+Big Blind: Hagi, chips: 200
+Flop: 6c Ah 6d
+Turn: 7h
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Hagi, 7s 6s
+Combination: Hagi, Full House ( 6s 6c 6d 7s 7h )
+Shows: Buttu, Kc Tc
+Combination: Buttu, Two Pair ( Kc Ks 6c 6d Ah )
+Wins: Hagi, chips: 300
+Quits: Buttu, chips: 0
+Ranking: Hagi, Place: 1, Score: 1000
+Reveal AI: Hagi, AI: Random
+Ranking: Buttu, Place: 2, Score: -1000
+Reveal AI: Buttu, AI: AIMyBot1
+
+Player Stats for Buttu, AI: AIMyBot1
+General: deals: 23, actions: 15, preflop actions: 15
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 8, showdown: 3, bluff: 5
+Chips: won: 2500, lost: 3700, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0.0434783, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Hagi, AI: Random
+General: deals: 23, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 17, showdown: 3, bluff: 14
+Chips: won: 5500, lost: 4500, bought: 1000, forced bets: 3500
+Pre-Flop Stats: VP$IP: 0.173913, PFR: 0.0869565, 3Bet: 0.0869565
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

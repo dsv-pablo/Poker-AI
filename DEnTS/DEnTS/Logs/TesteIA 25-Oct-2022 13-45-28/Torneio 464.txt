@@ -1,0 +1,230 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Leettee: Random
+Senep: AIMyBot1
+
+Joins: Leettee, chips: 1000
+Joins: Senep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettee
+Small Blind: Leettee, chips: 100
+Big Blind: Senep, chips: 200
+Calls: Leettee
+DEBUG MESSAGE: INVALID ACTION FROM Senep (2 0)
+Folds: Senep
+Pot size: 400
+Boasts: Leettee, Kh 4h
+Wins: Leettee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Senep
+Small Blind: Senep, chips: 100
+Big Blind: Leettee, chips: 200
+Folds: Senep
+Pot size: 300
+Boasts: Leettee, 4c 2s
+Wins: Leettee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettee
+Small Blind: Leettee, chips: 100
+Big Blind: Senep, chips: 200
+Raises: Leettee, chips: 300
+Folds: Senep
+Pot size: 700
+Boasts: Leettee, Ks 9c
+Wins: Leettee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Senep
+Small Blind: Senep, chips: 100
+Big Blind: Leettee, chips: 200
+Folds: Senep
+Pot size: 300
+Wins: Leettee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettee
+Small Blind: Leettee, chips: 100
+Big Blind: Senep, chips: 200
+Folds: Leettee
+Pot size: 300
+Boasts: Leettee, 3h 9h
+Wins: Senep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Senep
+Small Blind: Senep, chips: 100
+Big Blind: Leettee, chips: 200
+Folds: Senep
+Pot size: 300
+Boasts: Leettee, 8d Qc
+Wins: Leettee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettee
+Small Blind: Leettee, chips: 100
+Big Blind: Senep, chips: 200
+Calls: Leettee
+DEBUG MESSAGE: INVALID ACTION FROM Senep (2 0)
+Folds: Senep
+Pot size: 400
+Boasts: Leettee, Tc As
+Wins: Leettee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Senep
+Small Blind: Senep, chips: 100
+Big Blind: Leettee, chips: 200
+Folds: Senep
+Pot size: 300
+Boasts: Leettee, Ks 5c
+Wins: Leettee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettee
+Small Blind: Leettee, chips: 100
+Big Blind: Senep, chips: 100
+Flop: 6s 2c 4s
+Turn: Td
+River: Qh
+Pot size: 200
+Showdown Reached
+Shows: Leettee, Ts Ad
+Combination: Leettee, Pair ( Ts Td Ad Qh 6s )
+Shows: Senep, 9d Ks
+Combination: Senep, High Card ( Ks Qh Td 9d 6s )
+Wins: Leettee, chips: 200
+Quits: Senep, chips: 0
+Ranking: Leettee, Place: 1, Score: 1000
+Reveal AI: Leettee, AI: Random
+Ranking: Senep, Place: 2, Score: -1000
+Reveal AI: Senep, AI: AIMyBot1
+
+Player Stats for Leettee, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Senep, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:00
+
+The game begins. The AI's of the players are: 
+Leettee: Random
+Senep: AIMyBot1
+
+Joins: Leettee, chips: 1000
+Joins: Senep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettee
+Small Blind: Leettee, chips: 100
+Big Blind: Senep, chips: 200
+Calls: Leettee
+DEBUG MESSAGE: INVALID ACTION FROM Senep (2 0)
+Folds: Senep
+Pot size: 400
+Boasts: Leettee, Kh 4h
+Wins: Leettee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Senep
+Small Blind: Senep, chips: 100
+Big Blind: Leettee, chips: 200
+Folds: Senep
+Pot size: 300
+Boasts: Leettee, 4c 2s
+Wins: Leettee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettee
+Small Blind: Leettee, chips: 100
+Big Blind: Senep, chips: 200
+Raises: Leettee, chips: 300
+Folds: Senep
+Pot size: 700
+Boasts: Leettee, Ks 9c
+Wins: Leettee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Senep
+Small Blind: Senep, chips: 100
+Big Blind: Leettee, chips: 200
+Folds: Senep
+Pot size: 300
+Wins: Leettee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettee
+Small Blind: Leettee, chips: 100
+Big Blind: Senep, chips: 200
+Folds: Leettee
+Pot size: 300
+Boasts: Leettee, 3h 9h
+Wins: Senep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Senep
+Small Blind: Senep, chips: 100
+Big Blind: Leettee, chips: 200
+Folds: Senep
+Pot size: 300
+Boasts: Leettee, 8d Qc
+Wins: Leettee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettee
+Small Blind: Leettee, chips: 100
+Big Blind: Senep, chips: 200
+Calls: Leettee
+DEBUG MESSAGE: INVALID ACTION FROM Senep (2 0)
+Folds: Senep
+Pot size: 400
+Boasts: Leettee, Tc As
+Wins: Leettee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Senep
+Small Blind: Senep, chips: 100
+Big Blind: Leettee, chips: 200
+Folds: Senep
+Pot size: 300
+Boasts: Leettee, Ks 5c
+Wins: Leettee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Leettee
+Small Blind: Leettee, chips: 100
+Big Blind: Senep, chips: 100
+Flop: 6s 2c 4s
+Turn: Td
+River: Qh
+Pot size: 200
+Showdown Reached
+Shows: Leettee, Ts Ad
+Combination: Leettee, Pair ( Ts Td Ad Qh 6s )
+Shows: Senep, 9d Ks
+Combination: Senep, High Card ( Ks Qh Td 9d 6s )
+Wins: Leettee, chips: 200
+Quits: Senep, chips: 0
+Ranking: Leettee, Place: 1, Score: 1000
+Reveal AI: Leettee, AI: Random
+Ranking: Senep, Place: 2, Score: -1000
+Reveal AI: Senep, AI: AIMyBot1
+
+Player Stats for Leettee, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Senep, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

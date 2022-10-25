@@ -1,0 +1,238 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Kuneenny: Random
+Veenhoditry: AIMyBot1
+
+Joins: Kuneenny, chips: 1000
+Joins: Veenhoditry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuneenny
+Small Blind: Kuneenny, chips: 100
+Big Blind: Veenhoditry, chips: 200
+Calls: Kuneenny
+DEBUG MESSAGE: INVALID ACTION FROM Veenhoditry (2 0)
+Folds: Veenhoditry
+Pot size: 400
+Boasts: Kuneenny, Ad 7h
+Wins: Kuneenny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veenhoditry
+Small Blind: Veenhoditry, chips: 100
+Big Blind: Kuneenny, chips: 200
+Folds: Veenhoditry
+Pot size: 300
+Wins: Kuneenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuneenny
+Small Blind: Kuneenny, chips: 100
+Big Blind: Veenhoditry, chips: 200
+Raises: Kuneenny, chips: 300
+Folds: Veenhoditry
+Pot size: 700
+Boasts: Kuneenny, 8d 7h
+Wins: Kuneenny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veenhoditry
+Small Blind: Veenhoditry, chips: 100
+Big Blind: Kuneenny, chips: 200
+Folds: Veenhoditry
+Pot size: 300
+Wins: Kuneenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuneenny
+Small Blind: Kuneenny, chips: 100
+Big Blind: Veenhoditry, chips: 200
+Raises: Kuneenny, chips: 300
+Folds: Veenhoditry
+Pot size: 700
+Boasts: Kuneenny, 2c 4s
+Wins: Kuneenny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veenhoditry
+Small Blind: Veenhoditry, chips: 100
+Big Blind: Kuneenny, chips: 200
+Folds: Veenhoditry
+Pot size: 300
+Boasts: Kuneenny, Kh Td
+Wins: Kuneenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuneenny
+Small Blind: Kuneenny, chips: 100
+Big Blind: Veenhoditry, chips: 100
+Flop: Qc 2s 3h
+Turn: Kc
+River: Qd
+Pot size: 200
+Showdown Reached
+Shows: Kuneenny, 7c 9d
+Combination: Kuneenny, Pair ( Qc Qd Kc 9d 7c )
+Shows: Veenhoditry, 3d Qh
+Combination: Veenhoditry, Full House ( Qh Qc Qd 3d 3h )
+Wins: Veenhoditry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veenhoditry
+Small Blind: Veenhoditry, chips: 100
+Big Blind: Kuneenny, chips: 200
+Folds: Veenhoditry
+Pot size: 300
+Boasts: Kuneenny, 7h 6c
+Wins: Kuneenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuneenny
+Small Blind: Kuneenny, chips: 100
+Big Blind: Veenhoditry, chips: 100
+Flop: 2d 3d Kd
+Turn: Th
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Kuneenny, Tc Kh
+Combination: Kuneenny, Full House ( Kh Kd Kc Tc Th )
+Shows: Veenhoditry, 3c 2h
+Combination: Veenhoditry, Two Pair ( Kd Kc 3c 3d Th )
+Wins: Kuneenny, chips: 200
+Quits: Veenhoditry, chips: 0
+Ranking: Kuneenny, Place: 1, Score: 1000
+Reveal AI: Kuneenny, AI: Random
+Ranking: Veenhoditry, Place: 2, Score: -1000
+Reveal AI: Veenhoditry, AI: AIMyBot1
+
+Player Stats for Kuneenny, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Veenhoditry, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:53
+
+The game begins. The AI's of the players are: 
+Kuneenny: Random
+Veenhoditry: AIMyBot1
+
+Joins: Kuneenny, chips: 1000
+Joins: Veenhoditry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuneenny
+Small Blind: Kuneenny, chips: 100
+Big Blind: Veenhoditry, chips: 200
+Calls: Kuneenny
+DEBUG MESSAGE: INVALID ACTION FROM Veenhoditry (2 0)
+Folds: Veenhoditry
+Pot size: 400
+Boasts: Kuneenny, Ad 7h
+Wins: Kuneenny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veenhoditry
+Small Blind: Veenhoditry, chips: 100
+Big Blind: Kuneenny, chips: 200
+Folds: Veenhoditry
+Pot size: 300
+Wins: Kuneenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuneenny
+Small Blind: Kuneenny, chips: 100
+Big Blind: Veenhoditry, chips: 200
+Raises: Kuneenny, chips: 300
+Folds: Veenhoditry
+Pot size: 700
+Boasts: Kuneenny, 8d 7h
+Wins: Kuneenny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veenhoditry
+Small Blind: Veenhoditry, chips: 100
+Big Blind: Kuneenny, chips: 200
+Folds: Veenhoditry
+Pot size: 300
+Wins: Kuneenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuneenny
+Small Blind: Kuneenny, chips: 100
+Big Blind: Veenhoditry, chips: 200
+Raises: Kuneenny, chips: 300
+Folds: Veenhoditry
+Pot size: 700
+Boasts: Kuneenny, 2c 4s
+Wins: Kuneenny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veenhoditry
+Small Blind: Veenhoditry, chips: 100
+Big Blind: Kuneenny, chips: 200
+Folds: Veenhoditry
+Pot size: 300
+Boasts: Kuneenny, Kh Td
+Wins: Kuneenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuneenny
+Small Blind: Kuneenny, chips: 100
+Big Blind: Veenhoditry, chips: 100
+Flop: Qc 2s 3h
+Turn: Kc
+River: Qd
+Pot size: 200
+Showdown Reached
+Shows: Kuneenny, 7c 9d
+Combination: Kuneenny, Pair ( Qc Qd Kc 9d 7c )
+Shows: Veenhoditry, 3d Qh
+Combination: Veenhoditry, Full House ( Qh Qc Qd 3d 3h )
+Wins: Veenhoditry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Veenhoditry
+Small Blind: Veenhoditry, chips: 100
+Big Blind: Kuneenny, chips: 200
+Folds: Veenhoditry
+Pot size: 300
+Boasts: Kuneenny, 7h 6c
+Wins: Kuneenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuneenny
+Small Blind: Kuneenny, chips: 100
+Big Blind: Veenhoditry, chips: 100
+Flop: 2d 3d Kd
+Turn: Th
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Kuneenny, Tc Kh
+Combination: Kuneenny, Full House ( Kh Kd Kc Tc Th )
+Shows: Veenhoditry, 3c 2h
+Combination: Veenhoditry, Two Pair ( Kd Kc 3c 3d Th )
+Wins: Kuneenny, chips: 200
+Quits: Veenhoditry, chips: 0
+Ranking: Kuneenny, Place: 1, Score: 1000
+Reveal AI: Kuneenny, AI: Random
+Ranking: Veenhoditry, Place: 2, Score: -1000
+Reveal AI: Veenhoditry, AI: AIMyBot1
+
+Player Stats for Kuneenny, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Veenhoditry, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

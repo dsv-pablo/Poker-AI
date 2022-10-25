@@ -1,0 +1,450 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Tahabi: AIMyBot1
+Wichoe: Random
+
+Joins: Tahabi, chips: 1000
+Joins: Wichoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 200
+Folds: Wichoe
+Pot size: 300
+Wins: Tahabi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Folds: Tahabi
+Pot size: 300
+Boasts: Wichoe, Kd 6c
+Wins: Wichoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 200
+Calls: Wichoe
+DEBUG MESSAGE: INVALID ACTION FROM Tahabi (2 0)
+Folds: Tahabi
+Pot size: 400
+Boasts: Wichoe, Td Kc
+Wins: Wichoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Folds: Tahabi
+Pot size: 300
+Wins: Wichoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 200
+Folds: Wichoe
+Pot size: 300
+Boasts: Wichoe, 4d Kh
+Wins: Tahabi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Folds: Tahabi
+Pot size: 300
+Boasts: Wichoe, As Kc
+Wins: Wichoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 200
+Calls: Wichoe
+DEBUG MESSAGE: INVALID ACTION FROM Tahabi (2 0)
+Folds: Tahabi
+Pot size: 400
+Wins: Wichoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Folds: Tahabi
+Pot size: 300
+Wins: Wichoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 200
+Calls: Wichoe
+DEBUG MESSAGE: INVALID ACTION FROM Tahabi (2 0)
+Folds: Tahabi
+Pot size: 400
+Boasts: Wichoe, 2d Qc
+Wins: Wichoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Folds: Tahabi
+Pot size: 300
+Wins: Wichoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 100
+Flop: Td 4s Ac
+Turn: 7d
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Tahabi, Jd Jh
+Combination: Tahabi, Three Of A Kind ( Jd Jh Jc Ac Td )
+Shows: Wichoe, 3s 5h
+Combination: Wichoe, High Card ( Ac Jc Td 7d 5h )
+Wins: Tahabi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Folds: Tahabi
+Pot size: 300
+Boasts: Wichoe, Qs 3d
+Wins: Wichoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 100
+Flop: 3h Jc 6s
+Turn: 4h
+River: Ac
+Pot size: 200
+Showdown Reached
+Shows: Tahabi, 2c 5c
+Combination: Tahabi, Straight ( 6s 5c 4h 3h 2c )
+Shows: Wichoe, 5h 2d
+Combination: Wichoe, Straight ( 6s 5h 4h 3h 2d )
+Wins: Tahabi, chips: 100
+Wins: Wichoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Flop: Ks As 7s
+Turn: 9s
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Tahabi, Td Ts
+Combination: Tahabi, Flush ( As Ks Ts 9s 7s )
+Shows: Wichoe, Jh Ac
+Combination: Wichoe, Flush ( As Ks 9s 7s 2s )
+Wins: Tahabi, chips: 200
+Wins: Wichoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 200
+Flop: 2c Kc Th
+Turn: 7d
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Tahabi, Jh 5s
+Combination: Tahabi, High Card ( Kc Jh Th 7d 5s )
+Shows: Wichoe, 2d Ah
+Combination: Wichoe, Pair ( 2d 2c Ah Kc Th )
+Wins: Tahabi, chips: 100
+Wins: Wichoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Flop: Ah 7h 2d
+Turn: 8s
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Tahabi, 4s Js
+Combination: Tahabi, High Card ( Ah Js 8s 7h 6s )
+Shows: Wichoe, 5s 3s
+Combination: Wichoe, High Card ( Ah 8s 7h 6s 5s )
+Wins: Tahabi, chips: 200
+Wins: Wichoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 200
+Flop: Ad Th Jc
+Turn: 6s
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Tahabi, 6h 4h
+Combination: Tahabi, Pair ( 6h 6s Ad Jc Th )
+Shows: Wichoe, 8s 9c
+Combination: Wichoe, Pair ( 8s 8h Ad Jc Th )
+Wins: Tahabi, chips: 100
+Wins: Wichoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Flop: 8d Ad Ac
+Turn: 3c
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Tahabi, 8s Qh
+Combination: Tahabi, Two Pair ( Ad Ac 8s 8d Qh )
+Shows: Wichoe, Kc 8h
+Combination: Wichoe, Two Pair ( Ad Ac 8h 8d Kc )
+Wins: Wichoe, chips: 300
+Quits: Tahabi, chips: 0
+Ranking: Wichoe, Place: 1, Score: 1000
+Reveal AI: Wichoe, AI: Random
+Ranking: Tahabi, Place: 2, Score: -1000
+Reveal AI: Tahabi, AI: AIMyBot1
+
+Player Stats for Tahabi, AI: AIMyBot1
+General: deals: 18, actions: 9, preflop actions: 9
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 8, showdown: 6, bluff: 2
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Wichoe, AI: Random
+General: deals: 18, actions: 5, preflop actions: 5
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 15, showdown: 6, bluff: 9
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Date: 2022/10/25 13:45:36
+
+The game begins. The AI's of the players are: 
+Tahabi: AIMyBot1
+Wichoe: Random
+
+Joins: Tahabi, chips: 1000
+Joins: Wichoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 200
+Folds: Wichoe
+Pot size: 300
+Wins: Tahabi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Folds: Tahabi
+Pot size: 300
+Boasts: Wichoe, Kd 6c
+Wins: Wichoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 200
+Calls: Wichoe
+DEBUG MESSAGE: INVALID ACTION FROM Tahabi (2 0)
+Folds: Tahabi
+Pot size: 400
+Boasts: Wichoe, Td Kc
+Wins: Wichoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Folds: Tahabi
+Pot size: 300
+Wins: Wichoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 200
+Folds: Wichoe
+Pot size: 300
+Boasts: Wichoe, 4d Kh
+Wins: Tahabi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Folds: Tahabi
+Pot size: 300
+Boasts: Wichoe, As Kc
+Wins: Wichoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 200
+Calls: Wichoe
+DEBUG MESSAGE: INVALID ACTION FROM Tahabi (2 0)
+Folds: Tahabi
+Pot size: 400
+Wins: Wichoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Folds: Tahabi
+Pot size: 300
+Wins: Wichoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 200
+Calls: Wichoe
+DEBUG MESSAGE: INVALID ACTION FROM Tahabi (2 0)
+Folds: Tahabi
+Pot size: 400
+Boasts: Wichoe, 2d Qc
+Wins: Wichoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Folds: Tahabi
+Pot size: 300
+Wins: Wichoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 100
+Flop: Td 4s Ac
+Turn: 7d
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Tahabi, Jd Jh
+Combination: Tahabi, Three Of A Kind ( Jd Jh Jc Ac Td )
+Shows: Wichoe, 3s 5h
+Combination: Wichoe, High Card ( Ac Jc Td 7d 5h )
+Wins: Tahabi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Folds: Tahabi
+Pot size: 300
+Boasts: Wichoe, Qs 3d
+Wins: Wichoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 100
+Flop: 3h Jc 6s
+Turn: 4h
+River: Ac
+Pot size: 200
+Showdown Reached
+Shows: Tahabi, 2c 5c
+Combination: Tahabi, Straight ( 6s 5c 4h 3h 2c )
+Shows: Wichoe, 5h 2d
+Combination: Wichoe, Straight ( 6s 5h 4h 3h 2d )
+Wins: Tahabi, chips: 100
+Wins: Wichoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Flop: Ks As 7s
+Turn: 9s
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Tahabi, Td Ts
+Combination: Tahabi, Flush ( As Ks Ts 9s 7s )
+Shows: Wichoe, Jh Ac
+Combination: Wichoe, Flush ( As Ks 9s 7s 2s )
+Wins: Tahabi, chips: 200
+Wins: Wichoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 200
+Flop: 2c Kc Th
+Turn: 7d
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Tahabi, Jh 5s
+Combination: Tahabi, High Card ( Kc Jh Th 7d 5s )
+Shows: Wichoe, 2d Ah
+Combination: Wichoe, Pair ( 2d 2c Ah Kc Th )
+Wins: Tahabi, chips: 100
+Wins: Wichoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Flop: Ah 7h 2d
+Turn: 8s
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Tahabi, 4s Js
+Combination: Tahabi, High Card ( Ah Js 8s 7h 6s )
+Shows: Wichoe, 5s 3s
+Combination: Wichoe, High Card ( Ah 8s 7h 6s 5s )
+Wins: Tahabi, chips: 200
+Wins: Wichoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wichoe
+Small Blind: Wichoe, chips: 100
+Big Blind: Tahabi, chips: 200
+Flop: Ad Th Jc
+Turn: 6s
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Tahabi, 6h 4h
+Combination: Tahabi, Pair ( 6h 6s Ad Jc Th )
+Shows: Wichoe, 8s 9c
+Combination: Wichoe, Pair ( 8s 8h Ad Jc Th )
+Wins: Tahabi, chips: 100
+Wins: Wichoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tahabi
+Small Blind: Tahabi, chips: 100
+Big Blind: Wichoe, chips: 200
+Flop: 8d Ad Ac
+Turn: 3c
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Tahabi, 8s Qh
+Combination: Tahabi, Two Pair ( Ad Ac 8s 8d Qh )
+Shows: Wichoe, Kc 8h
+Combination: Wichoe, Two Pair ( Ad Ac 8h 8d Kc )
+Wins: Wichoe, chips: 300
+Quits: Tahabi, chips: 0
+Ranking: Wichoe, Place: 1, Score: 1000
+Reveal AI: Wichoe, AI: Random
+Ranking: Tahabi, Place: 2, Score: -1000
+Reveal AI: Tahabi, AI: AIMyBot1
+
+Player Stats for Tahabi, AI: AIMyBot1
+General: deals: 18, actions: 9, preflop actions: 9
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 8, showdown: 6, bluff: 2
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Wichoe, AI: Random
+General: deals: 18, actions: 5, preflop actions: 5
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 15, showdown: 6, bluff: 9
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+

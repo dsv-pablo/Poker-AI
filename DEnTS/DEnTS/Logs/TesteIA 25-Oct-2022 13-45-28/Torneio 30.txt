@@ -1,0 +1,314 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Ritet: Random
+Gittineenny: AIMyBot1
+
+Joins: Ritet, chips: 1000
+Joins: Gittineenny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gittineenny
+Small Blind: Gittineenny, chips: 100
+Big Blind: Ritet, chips: 200
+Folds: Gittineenny
+Pot size: 300
+Boasts: Ritet, 6c Jh
+Wins: Ritet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritet
+Small Blind: Ritet, chips: 100
+Big Blind: Gittineenny, chips: 200
+Calls: Ritet
+DEBUG MESSAGE: INVALID ACTION FROM Gittineenny (2 0)
+Folds: Gittineenny
+Pot size: 400
+Wins: Ritet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gittineenny
+Small Blind: Gittineenny, chips: 100
+Big Blind: Ritet, chips: 200
+Folds: Gittineenny
+Pot size: 300
+Wins: Ritet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritet
+Small Blind: Ritet, chips: 100
+Big Blind: Gittineenny, chips: 200
+Raises: Ritet, chips: 300
+Folds: Gittineenny
+Pot size: 700
+Boasts: Ritet, 2c 2d
+Wins: Ritet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gittineenny
+Small Blind: Gittineenny, chips: 100
+Big Blind: Ritet, chips: 200
+Folds: Gittineenny
+Pot size: 300
+Wins: Ritet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritet
+Small Blind: Ritet, chips: 100
+Big Blind: Gittineenny, chips: 200
+Calls: Ritet
+DEBUG MESSAGE: INVALID ACTION FROM Gittineenny (2 0)
+Folds: Gittineenny
+Pot size: 400
+Boasts: Ritet, 9s Kd
+Wins: Ritet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gittineenny
+Small Blind: Gittineenny, chips: 100
+Big Blind: Ritet, chips: 200
+Flop: 3c 8s 2c
+Turn: Qd
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Ritet, 4h Tc
+Combination: Ritet, Pair ( 2c 2h Qd Tc 8s )
+Shows: Gittineenny, Kh Jc
+Combination: Gittineenny, Pair ( 2c 2h Kh Qd Jc )
+Wins: Ritet, chips: 100
+Wins: Gittineenny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritet
+Small Blind: Ritet, chips: 100
+Big Blind: Gittineenny, chips: 200
+Flop: Tc 6h Qs
+Turn: 6c
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Ritet, 3s 2c
+Combination: Ritet, Two Pair ( 6h 6c 3s 3d Qs )
+Shows: Gittineenny, 5s 2s
+Combination: Gittineenny, Pair ( 6h 6c Qs Tc 5s )
+Wins: Ritet, chips: 200
+Wins: Gittineenny, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gittineenny
+Small Blind: Gittineenny, chips: 100
+Big Blind: Ritet, chips: 200
+Flop: Qs 5s 6c
+Turn: Jc
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Ritet, 8s 9h
+Combination: Ritet, Pair ( 6c 6s Qs Jc 9h )
+Shows: Gittineenny, 4c Kh
+Combination: Gittineenny, Pair ( 6c 6s Kh Qs Jc )
+Wins: Ritet, chips: 100
+Wins: Gittineenny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritet
+Small Blind: Ritet, chips: 100
+Big Blind: Gittineenny, chips: 200
+Flop: Th 7s 3c
+Turn: 5c
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Ritet, 3h 2s
+Combination: Ritet, Two Pair ( 7s 7c 3h 3c Th )
+Shows: Gittineenny, Ks 8s
+Combination: Gittineenny, Pair ( 7s 7c Ks Th 8s )
+Wins: Ritet, chips: 200
+Wins: Gittineenny, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gittineenny
+Small Blind: Gittineenny, chips: 100
+Big Blind: Ritet, chips: 200
+Flop: As 3h Ts
+Turn: 4d
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Ritet, 3c Ah
+Combination: Ritet, Two Pair ( Ah As 3c 3h Ts )
+Shows: Gittineenny, Jh 9h
+Combination: Gittineenny, High Card ( As Jh Ts 9h 5s )
+Wins: Ritet, chips: 300
+Quits: Gittineenny, chips: 0
+Ranking: Ritet, Place: 1, Score: 1000
+Reveal AI: Ritet, AI: Random
+Ranking: Gittineenny, Place: 2, Score: -1000
+Reveal AI: Gittineenny, AI: AIMyBot1
+
+Player Stats for Gittineenny, AI: AIMyBot1
+General: deals: 11, actions: 6, preflop actions: 6
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Ritet, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 5, bluff: 6
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:32
+
+The game begins. The AI's of the players are: 
+Ritet: Random
+Gittineenny: AIMyBot1
+
+Joins: Ritet, chips: 1000
+Joins: Gittineenny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gittineenny
+Small Blind: Gittineenny, chips: 100
+Big Blind: Ritet, chips: 200
+Folds: Gittineenny
+Pot size: 300
+Boasts: Ritet, 6c Jh
+Wins: Ritet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritet
+Small Blind: Ritet, chips: 100
+Big Blind: Gittineenny, chips: 200
+Calls: Ritet
+DEBUG MESSAGE: INVALID ACTION FROM Gittineenny (2 0)
+Folds: Gittineenny
+Pot size: 400
+Wins: Ritet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gittineenny
+Small Blind: Gittineenny, chips: 100
+Big Blind: Ritet, chips: 200
+Folds: Gittineenny
+Pot size: 300
+Wins: Ritet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritet
+Small Blind: Ritet, chips: 100
+Big Blind: Gittineenny, chips: 200
+Raises: Ritet, chips: 300
+Folds: Gittineenny
+Pot size: 700
+Boasts: Ritet, 2c 2d
+Wins: Ritet, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gittineenny
+Small Blind: Gittineenny, chips: 100
+Big Blind: Ritet, chips: 200
+Folds: Gittineenny
+Pot size: 300
+Wins: Ritet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritet
+Small Blind: Ritet, chips: 100
+Big Blind: Gittineenny, chips: 200
+Calls: Ritet
+DEBUG MESSAGE: INVALID ACTION FROM Gittineenny (2 0)
+Folds: Gittineenny
+Pot size: 400
+Boasts: Ritet, 9s Kd
+Wins: Ritet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gittineenny
+Small Blind: Gittineenny, chips: 100
+Big Blind: Ritet, chips: 200
+Flop: 3c 8s 2c
+Turn: Qd
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Ritet, 4h Tc
+Combination: Ritet, Pair ( 2c 2h Qd Tc 8s )
+Shows: Gittineenny, Kh Jc
+Combination: Gittineenny, Pair ( 2c 2h Kh Qd Jc )
+Wins: Ritet, chips: 100
+Wins: Gittineenny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritet
+Small Blind: Ritet, chips: 100
+Big Blind: Gittineenny, chips: 200
+Flop: Tc 6h Qs
+Turn: 6c
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Ritet, 3s 2c
+Combination: Ritet, Two Pair ( 6h 6c 3s 3d Qs )
+Shows: Gittineenny, 5s 2s
+Combination: Gittineenny, Pair ( 6h 6c Qs Tc 5s )
+Wins: Ritet, chips: 200
+Wins: Gittineenny, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gittineenny
+Small Blind: Gittineenny, chips: 100
+Big Blind: Ritet, chips: 200
+Flop: Qs 5s 6c
+Turn: Jc
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Ritet, 8s 9h
+Combination: Ritet, Pair ( 6c 6s Qs Jc 9h )
+Shows: Gittineenny, 4c Kh
+Combination: Gittineenny, Pair ( 6c 6s Kh Qs Jc )
+Wins: Ritet, chips: 100
+Wins: Gittineenny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ritet
+Small Blind: Ritet, chips: 100
+Big Blind: Gittineenny, chips: 200
+Flop: Th 7s 3c
+Turn: 5c
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Ritet, 3h 2s
+Combination: Ritet, Two Pair ( 7s 7c 3h 3c Th )
+Shows: Gittineenny, Ks 8s
+Combination: Gittineenny, Pair ( 7s 7c Ks Th 8s )
+Wins: Ritet, chips: 200
+Wins: Gittineenny, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gittineenny
+Small Blind: Gittineenny, chips: 100
+Big Blind: Ritet, chips: 200
+Flop: As 3h Ts
+Turn: 4d
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Ritet, 3c Ah
+Combination: Ritet, Two Pair ( Ah As 3c 3h Ts )
+Shows: Gittineenny, Jh 9h
+Combination: Gittineenny, High Card ( As Jh Ts 9h 5s )
+Wins: Ritet, chips: 300
+Quits: Gittineenny, chips: 0
+Ranking: Ritet, Place: 1, Score: 1000
+Reveal AI: Ritet, AI: Random
+Ranking: Gittineenny, Place: 2, Score: -1000
+Reveal AI: Gittineenny, AI: AIMyBot1
+
+Player Stats for Gittineenny, AI: AIMyBot1
+General: deals: 11, actions: 6, preflop actions: 6
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Ritet, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 5, bluff: 6
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

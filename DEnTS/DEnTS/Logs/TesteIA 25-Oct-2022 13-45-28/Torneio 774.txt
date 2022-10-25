@@ -1,0 +1,456 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Donheesonny: AIMyBot1
+Goeteeloen: Random
+
+Joins: Donheesonny, chips: 1000
+Joins: Goeteeloen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Boasts: Goeteeloen, 2h Ah
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Calls: Goeteeloen
+DEBUG MESSAGE: INVALID ACTION FROM Donheesonny (2 0)
+Folds: Donheesonny
+Pot size: 400
+Wins: Goeteeloen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Folds: Goeteeloen
+Pot size: 300
+Wins: Donheesonny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Boasts: Goeteeloen, Qh 2c
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Raises: Goeteeloen, chips: 300
+Folds: Donheesonny
+Pot size: 700
+Boasts: Goeteeloen, 3h 6h
+Wins: Goeteeloen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Raises: Goeteeloen, chips: 300
+Calls: Donheesonny
+Flop: Ac Qs 4h
+Turn: 4d
+River: Kc
+Pot size: 800
+Showdown Reached
+Shows: Donheesonny, 6c 2s
+Combination: Donheesonny, Pair ( 4h 4d Ac Kc Qs )
+Shows: Goeteeloen, 6s 8h
+Combination: Goeteeloen, Pair ( 4h 4d Ac Kc Qs )
+Wins: Donheesonny, chips: 300
+Wins: Goeteeloen, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Boasts: Goeteeloen, 2d 3d
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Flop: Qc 3d Jh
+Turn: 9d
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Donheesonny, 5h 9s
+Combination: Donheesonny, Pair ( 9s 9d Qc Jh 5h )
+Shows: Goeteeloen, Th 4c
+Combination: Goeteeloen, High Card ( Qc Jh Th 9d 4c )
+Wins: Donheesonny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Flop: 9h As 5d
+Turn: Ad
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Donheesonny, Qs Th
+Combination: Donheesonny, Two Pair ( As Ad 5d 5c Qs )
+Shows: Goeteeloen, 8d 7s
+Combination: Goeteeloen, Two Pair ( As Ad 5d 5c 9h )
+Wins: Donheesonny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Boasts: Goeteeloen, 7d Th
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Flop: 9s Ah 2c
+Turn: 3s
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Donheesonny, Ac Js
+Combination: Donheesonny, Pair ( Ac Ah Js 9s 4h )
+Shows: Goeteeloen, 3c 7h
+Combination: Goeteeloen, Pair ( 3c 3s Ah 9s 7h )
+Wins: Donheesonny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Flop: 3d 5h 3s
+Turn: Ad
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Donheesonny, 9d 4d
+Combination: Donheesonny, Flush ( Ad 9d 7d 4d 3d )
+Shows: Goeteeloen, 5d Th
+Combination: Goeteeloen, Two Pair ( 5d 5h 3d 3s Ad )
+Wins: Donheesonny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Boasts: Goeteeloen, 5s 8d
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Flop: 7h 6c 2d
+Turn: Js
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Donheesonny, Qh 6d
+Combination: Donheesonny, Pair ( 6d 6c Qh Js 9d )
+Shows: Goeteeloen, Ah 6h
+Combination: Goeteeloen, Pair ( 6h 6c Ah Js 9d )
+Wins: Donheesonny, chips: 100
+Wins: Goeteeloen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Flop: 5c 9c 9h
+Turn: Qh
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Donheesonny, 6h 3c
+Combination: Donheesonny, Pair ( 9c 9h Kc Qh 6h )
+Shows: Goeteeloen, 7h Qd
+Combination: Goeteeloen, Two Pair ( Qd Qh 9c 9h Kc )
+Wins: Goeteeloen, chips: 300
+Quits: Donheesonny, chips: 0
+Ranking: Goeteeloen, Place: 1, Score: 1000
+Reveal AI: Goeteeloen, AI: Random
+Ranking: Donheesonny, Place: 2, Score: -1000
+Reveal AI: Donheesonny, AI: AIMyBot1
+
+Player Stats for Donheesonny, AI: AIMyBot1
+General: deals: 19, actions: 12, preflop actions: 12
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 7, showdown: 6, bluff: 1
+Chips: won: 1900, lost: 3100, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.0526316, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Goeteeloen, AI: Random
+General: deals: 19, actions: 4, preflop actions: 4
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 14, showdown: 3, bluff: 11
+Chips: won: 4800, lost: 3800, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0.105263, 3Bet: 0.105263
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.428571
+
+
+Date: 2022/10/25 13:46:21
+
+The game begins. The AI's of the players are: 
+Donheesonny: AIMyBot1
+Goeteeloen: Random
+
+Joins: Donheesonny, chips: 1000
+Joins: Goeteeloen, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Boasts: Goeteeloen, 2h Ah
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Calls: Goeteeloen
+DEBUG MESSAGE: INVALID ACTION FROM Donheesonny (2 0)
+Folds: Donheesonny
+Pot size: 400
+Wins: Goeteeloen, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Folds: Goeteeloen
+Pot size: 300
+Wins: Donheesonny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Boasts: Goeteeloen, Qh 2c
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Raises: Goeteeloen, chips: 300
+Folds: Donheesonny
+Pot size: 700
+Boasts: Goeteeloen, 3h 6h
+Wins: Goeteeloen, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Raises: Goeteeloen, chips: 300
+Calls: Donheesonny
+Flop: Ac Qs 4h
+Turn: 4d
+River: Kc
+Pot size: 800
+Showdown Reached
+Shows: Donheesonny, 6c 2s
+Combination: Donheesonny, Pair ( 4h 4d Ac Kc Qs )
+Shows: Goeteeloen, 6s 8h
+Combination: Goeteeloen, Pair ( 4h 4d Ac Kc Qs )
+Wins: Donheesonny, chips: 300
+Wins: Goeteeloen, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Boasts: Goeteeloen, 2d 3d
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Flop: Qc 3d Jh
+Turn: 9d
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Donheesonny, 5h 9s
+Combination: Donheesonny, Pair ( 9s 9d Qc Jh 5h )
+Shows: Goeteeloen, Th 4c
+Combination: Goeteeloen, High Card ( Qc Jh Th 9d 4c )
+Wins: Donheesonny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Flop: 9h As 5d
+Turn: Ad
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Donheesonny, Qs Th
+Combination: Donheesonny, Two Pair ( As Ad 5d 5c Qs )
+Shows: Goeteeloen, 8d 7s
+Combination: Goeteeloen, Two Pair ( As Ad 5d 5c 9h )
+Wins: Donheesonny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Boasts: Goeteeloen, 7d Th
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Flop: 9s Ah 2c
+Turn: 3s
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Donheesonny, Ac Js
+Combination: Donheesonny, Pair ( Ac Ah Js 9s 4h )
+Shows: Goeteeloen, 3c 7h
+Combination: Goeteeloen, Pair ( 3c 3s Ah 9s 7h )
+Wins: Donheesonny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Flop: 3d 5h 3s
+Turn: Ad
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Donheesonny, 9d 4d
+Combination: Donheesonny, Flush ( Ad 9d 7d 4d 3d )
+Shows: Goeteeloen, 5d Th
+Combination: Goeteeloen, Two Pair ( 5d 5h 3d 3s Ad )
+Wins: Donheesonny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Folds: Donheesonny
+Pot size: 300
+Boasts: Goeteeloen, 5s 8d
+Wins: Goeteeloen, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Goeteeloen
+Small Blind: Goeteeloen, chips: 100
+Big Blind: Donheesonny, chips: 200
+Flop: 7h 6c 2d
+Turn: Js
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Donheesonny, Qh 6d
+Combination: Donheesonny, Pair ( 6d 6c Qh Js 9d )
+Shows: Goeteeloen, Ah 6h
+Combination: Goeteeloen, Pair ( 6h 6c Ah Js 9d )
+Wins: Donheesonny, chips: 100
+Wins: Goeteeloen, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Donheesonny
+Small Blind: Donheesonny, chips: 100
+Big Blind: Goeteeloen, chips: 200
+Flop: 5c 9c 9h
+Turn: Qh
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Donheesonny, 6h 3c
+Combination: Donheesonny, Pair ( 9c 9h Kc Qh 6h )
+Shows: Goeteeloen, 7h Qd
+Combination: Goeteeloen, Two Pair ( Qd Qh 9c 9h Kc )
+Wins: Goeteeloen, chips: 300
+Quits: Donheesonny, chips: 0
+Ranking: Goeteeloen, Place: 1, Score: 1000
+Reveal AI: Goeteeloen, AI: Random
+Ranking: Donheesonny, Place: 2, Score: -1000
+Reveal AI: Donheesonny, AI: AIMyBot1
+
+Player Stats for Donheesonny, AI: AIMyBot1
+General: deals: 19, actions: 12, preflop actions: 12
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 7, showdown: 6, bluff: 1
+Chips: won: 1900, lost: 3100, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.0526316, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Goeteeloen, AI: Random
+General: deals: 19, actions: 4, preflop actions: 4
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 14, showdown: 3, bluff: 11
+Chips: won: 4800, lost: 3800, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0.105263, 3Bet: 0.105263
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.428571
+
+

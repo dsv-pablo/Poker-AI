@@ -1,0 +1,384 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Chenhoe: Random
+Puba: AIMyBot1
+
+Joins: Chenhoe, chips: 1000
+Joins: Puba, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puba
+Small Blind: Puba, chips: 100
+Big Blind: Chenhoe, chips: 200
+Folds: Puba
+Pot size: 300
+Wins: Chenhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chenhoe
+Small Blind: Chenhoe, chips: 100
+Big Blind: Puba, chips: 200
+Folds: Chenhoe
+Pot size: 300
+Boasts: Chenhoe, 4c 8c
+Wins: Puba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puba
+Small Blind: Puba, chips: 100
+Big Blind: Chenhoe, chips: 200
+Folds: Puba
+Pot size: 300
+Wins: Chenhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chenhoe
+Small Blind: Chenhoe, chips: 100
+Big Blind: Puba, chips: 200
+Calls: Chenhoe
+DEBUG MESSAGE: INVALID ACTION FROM Puba (2 0)
+Folds: Puba
+Pot size: 400
+Wins: Chenhoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puba
+Small Blind: Puba, chips: 100
+Big Blind: Chenhoe, chips: 200
+Folds: Puba
+Pot size: 300
+Wins: Chenhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chenhoe
+Small Blind: Chenhoe, chips: 100
+Big Blind: Puba, chips: 200
+Raises: Chenhoe, chips: 300
+Folds: Puba
+Pot size: 700
+Boasts: Chenhoe, 9h 5c
+Wins: Chenhoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puba
+Small Blind: Puba, chips: 100
+Big Blind: Chenhoe, chips: 200
+Folds: Puba
+Pot size: 300
+Boasts: Chenhoe, Qh Th
+Wins: Chenhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chenhoe
+Small Blind: Chenhoe, chips: 100
+Big Blind: Puba, chips: 200
+Raises: Chenhoe, chips: 300
+Folds: Puba
+Pot size: 700
+Wins: Chenhoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puba
+Small Blind: Puba, chips: 100
+Big Blind: Chenhoe, chips: 200
+Flop: 7d 6d 7s
+Turn: 3s
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Chenhoe, 2h Ts
+Combination: Chenhoe, Pair ( 7d 7s Qc Ts 6d )
+Shows: Puba, Ad 7c
+Combination: Puba, Three Of A Kind ( 7c 7d 7s Ad Qc )
+Wins: Chenhoe, chips: 100
+Wins: Puba, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chenhoe
+Small Blind: Chenhoe, chips: 100
+Big Blind: Puba, chips: 200
+Flop: 3h 3d 6h
+Turn: 6s
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Chenhoe, Ac 8d
+Combination: Chenhoe, Two Pair ( 6h 6s 3h 3d Ac )
+Shows: Puba, Tc Qs
+Combination: Puba, Two Pair ( 6h 6s 3h 3d Qs )
+Wins: Chenhoe, chips: 200
+Wins: Puba, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puba
+Small Blind: Puba, chips: 100
+Big Blind: Chenhoe, chips: 200
+Flop: Td 2d 6c
+Turn: Qd
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Chenhoe, 7s 2h
+Combination: Chenhoe, Two Pair ( 6c 6h 2h 2d Qd )
+Shows: Puba, Th 3h
+Combination: Puba, Two Pair ( Th Td 6c 6h Qd )
+Wins: Chenhoe, chips: 100
+Wins: Puba, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chenhoe
+Small Blind: Chenhoe, chips: 100
+Big Blind: Puba, chips: 200
+Flop: Ks 3c 3h
+Turn: 6d
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Chenhoe, 5s 4h
+Combination: Chenhoe, Pair ( 3c 3h Ks Qd 6d )
+Shows: Puba, Qh 7s
+Combination: Puba, Two Pair ( Qh Qd 3c 3h Ks )
+Wins: Puba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puba
+Small Blind: Puba, chips: 100
+Big Blind: Chenhoe, chips: 200
+Folds: Puba
+Pot size: 300
+Boasts: Chenhoe, 5s Th
+Wins: Chenhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chenhoe
+Small Blind: Chenhoe, chips: 100
+Big Blind: Puba, chips: 200
+Flop: Th 3h 5h
+Turn: 9s
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Chenhoe, 2d Td
+Combination: Chenhoe, Pair ( Td Th 9s 8c 5h )
+Shows: Puba, Qd 4h
+Combination: Puba, High Card ( Qd Th 9s 8c 5h )
+Wins: Chenhoe, chips: 200
+Wins: Puba, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puba
+Small Blind: Puba, chips: 100
+Big Blind: Chenhoe, chips: 200
+Flop: 3s 9d 8d
+Turn: 5h
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Chenhoe, Kd Jd
+Combination: Chenhoe, Flush ( Ad Kd Jd 9d 8d )
+Shows: Puba, 5c Ks
+Combination: Puba, Pair ( 5c 5h Ad Ks 9d )
+Wins: Chenhoe, chips: 300
+Quits: Puba, chips: 0
+Ranking: Chenhoe, Place: 1, Score: 1000
+Reveal AI: Chenhoe, AI: Random
+Ranking: Puba, Place: 2, Score: -1000
+Reveal AI: Puba, AI: AIMyBot1
+
+Player Stats for Chenhoe, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 5, bluff: 8
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Puba, AI: AIMyBot1
+General: deals: 15, actions: 8, preflop actions: 8
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:46:25
+
+The game begins. The AI's of the players are: 
+Chenhoe: Random
+Puba: AIMyBot1
+
+Joins: Chenhoe, chips: 1000
+Joins: Puba, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puba
+Small Blind: Puba, chips: 100
+Big Blind: Chenhoe, chips: 200
+Folds: Puba
+Pot size: 300
+Wins: Chenhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chenhoe
+Small Blind: Chenhoe, chips: 100
+Big Blind: Puba, chips: 200
+Folds: Chenhoe
+Pot size: 300
+Boasts: Chenhoe, 4c 8c
+Wins: Puba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puba
+Small Blind: Puba, chips: 100
+Big Blind: Chenhoe, chips: 200
+Folds: Puba
+Pot size: 300
+Wins: Chenhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chenhoe
+Small Blind: Chenhoe, chips: 100
+Big Blind: Puba, chips: 200
+Calls: Chenhoe
+DEBUG MESSAGE: INVALID ACTION FROM Puba (2 0)
+Folds: Puba
+Pot size: 400
+Wins: Chenhoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puba
+Small Blind: Puba, chips: 100
+Big Blind: Chenhoe, chips: 200
+Folds: Puba
+Pot size: 300
+Wins: Chenhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chenhoe
+Small Blind: Chenhoe, chips: 100
+Big Blind: Puba, chips: 200
+Raises: Chenhoe, chips: 300
+Folds: Puba
+Pot size: 700
+Boasts: Chenhoe, 9h 5c
+Wins: Chenhoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puba
+Small Blind: Puba, chips: 100
+Big Blind: Chenhoe, chips: 200
+Folds: Puba
+Pot size: 300
+Boasts: Chenhoe, Qh Th
+Wins: Chenhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chenhoe
+Small Blind: Chenhoe, chips: 100
+Big Blind: Puba, chips: 200
+Raises: Chenhoe, chips: 300
+Folds: Puba
+Pot size: 700
+Wins: Chenhoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puba
+Small Blind: Puba, chips: 100
+Big Blind: Chenhoe, chips: 200
+Flop: 7d 6d 7s
+Turn: 3s
+River: Qc
+Pot size: 300
+Showdown Reached
+Shows: Chenhoe, 2h Ts
+Combination: Chenhoe, Pair ( 7d 7s Qc Ts 6d )
+Shows: Puba, Ad 7c
+Combination: Puba, Three Of A Kind ( 7c 7d 7s Ad Qc )
+Wins: Chenhoe, chips: 100
+Wins: Puba, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chenhoe
+Small Blind: Chenhoe, chips: 100
+Big Blind: Puba, chips: 200
+Flop: 3h 3d 6h
+Turn: 6s
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Chenhoe, Ac 8d
+Combination: Chenhoe, Two Pair ( 6h 6s 3h 3d Ac )
+Shows: Puba, Tc Qs
+Combination: Puba, Two Pair ( 6h 6s 3h 3d Qs )
+Wins: Chenhoe, chips: 200
+Wins: Puba, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puba
+Small Blind: Puba, chips: 100
+Big Blind: Chenhoe, chips: 200
+Flop: Td 2d 6c
+Turn: Qd
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Chenhoe, 7s 2h
+Combination: Chenhoe, Two Pair ( 6c 6h 2h 2d Qd )
+Shows: Puba, Th 3h
+Combination: Puba, Two Pair ( Th Td 6c 6h Qd )
+Wins: Chenhoe, chips: 100
+Wins: Puba, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chenhoe
+Small Blind: Chenhoe, chips: 100
+Big Blind: Puba, chips: 200
+Flop: Ks 3c 3h
+Turn: 6d
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Chenhoe, 5s 4h
+Combination: Chenhoe, Pair ( 3c 3h Ks Qd 6d )
+Shows: Puba, Qh 7s
+Combination: Puba, Two Pair ( Qh Qd 3c 3h Ks )
+Wins: Puba, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puba
+Small Blind: Puba, chips: 100
+Big Blind: Chenhoe, chips: 200
+Folds: Puba
+Pot size: 300
+Boasts: Chenhoe, 5s Th
+Wins: Chenhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chenhoe
+Small Blind: Chenhoe, chips: 100
+Big Blind: Puba, chips: 200
+Flop: Th 3h 5h
+Turn: 9s
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Chenhoe, 2d Td
+Combination: Chenhoe, Pair ( Td Th 9s 8c 5h )
+Shows: Puba, Qd 4h
+Combination: Puba, High Card ( Qd Th 9s 8c 5h )
+Wins: Chenhoe, chips: 200
+Wins: Puba, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puba
+Small Blind: Puba, chips: 100
+Big Blind: Chenhoe, chips: 200
+Flop: 3s 9d 8d
+Turn: 5h
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Chenhoe, Kd Jd
+Combination: Chenhoe, Flush ( Ad Kd Jd 9d 8d )
+Shows: Puba, 5c Ks
+Combination: Puba, Pair ( 5c 5h Ad Ks 9d )
+Wins: Chenhoe, chips: 300
+Quits: Puba, chips: 0
+Ranking: Chenhoe, Place: 1, Score: 1000
+Reveal AI: Chenhoe, AI: Random
+Ranking: Puba, Place: 2, Score: -1000
+Reveal AI: Puba, AI: AIMyBot1
+
+Player Stats for Chenhoe, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 5, bluff: 8
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Puba, AI: AIMyBot1
+General: deals: 15, actions: 8, preflop actions: 8
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

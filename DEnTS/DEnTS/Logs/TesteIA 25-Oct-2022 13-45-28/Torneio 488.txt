@@ -1,0 +1,510 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Tedi: Random
+Feenoe: AIMyBot1
+
+Joins: Tedi, chips: 1000
+Joins: Feenoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Folds: Feenoe
+Pot size: 300
+Boasts: Tedi, 6h 9c
+Wins: Tedi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Folds: Tedi
+Pot size: 300
+Wins: Feenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Folds: Feenoe
+Pot size: 300
+Wins: Tedi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Raises: Tedi, chips: 300
+Folds: Feenoe
+Pot size: 700
+Wins: Tedi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Folds: Feenoe
+Pot size: 300
+Wins: Tedi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Calls: Tedi
+DEBUG MESSAGE: INVALID ACTION FROM Feenoe (2 0)
+Folds: Feenoe
+Pot size: 400
+Boasts: Tedi, 7d Kd
+Wins: Tedi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Folds: Feenoe
+Pot size: 300
+Boasts: Tedi, 7d Ts
+Wins: Tedi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Raises: Tedi, chips: 300
+Folds: Feenoe
+Pot size: 700
+Wins: Tedi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Flop: 4h Th As
+Turn: 9c
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Tedi, 5h Kh
+Combination: Tedi, High Card ( As Kh Th 9c 7s )
+Shows: Feenoe, 6d 8c
+Combination: Feenoe, Straight ( Th 9c 8c 7s 6d )
+Wins: Tedi, chips: 100
+Wins: Feenoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Flop: Tc Td Ac
+Turn: 8s
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Tedi, Qh 2h
+Combination: Tedi, Pair ( Tc Td Ac Qh Jc )
+Shows: Feenoe, 6d 2d
+Combination: Feenoe, Pair ( Tc Td Ac Jc 8s )
+Wins: Tedi, chips: 200
+Wins: Feenoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Flop: Tc Kd 4d
+Turn: 8c
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Tedi, 2c 6d
+Combination: Tedi, High Card ( Ad Kd Tc 8c 6d )
+Shows: Feenoe, Ts 4h
+Combination: Feenoe, Two Pair ( Ts Tc 4h 4d Ad )
+Wins: Tedi, chips: 100
+Wins: Feenoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Flop: Kh 4c 2c
+Turn: 7h
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Tedi, Qc 5c
+Combination: Tedi, Pair ( 2c 2d Kh Qc 7h )
+Shows: Feenoe, Ah 4d
+Combination: Feenoe, Two Pair ( 4d 4c 2c 2d Ah )
+Wins: Feenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Folds: Feenoe
+Pot size: 300
+Wins: Tedi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Flop: 2d Js 8h
+Turn: Jc
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Tedi, 7s 7h
+Combination: Tedi, Two Pair ( Js Jc 7s 7h 8h )
+Shows: Feenoe, 8c Ks
+Combination: Feenoe, Two Pair ( Js Jc 8c 8h Ks )
+Wins: Feenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Folds: Feenoe
+Pot size: 300
+Wins: Tedi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Flop: 4c Kc Kd
+Turn: 7c
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Tedi, 3c 3h
+Combination: Tedi, Two Pair ( Kc Kd 3c 3h Ad )
+Shows: Feenoe, 4s 7d
+Combination: Feenoe, Two Pair ( Kc Kd 7d 7c Ad )
+Wins: Feenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Folds: Feenoe
+Pot size: 300
+Wins: Tedi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Flop: 2c 8s 6d
+Turn: Qd
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Tedi, 9c 9s
+Combination: Tedi, Two Pair ( 9c 9s 6d 6s Qd )
+Shows: Feenoe, Qh 2d
+Combination: Feenoe, Two Pair ( Qh Qd 6d 6s 8s )
+Wins: Feenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Folds: Feenoe
+Pot size: 300
+Boasts: Tedi, 7h 4s
+Wins: Tedi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Flop: 5d 8c As
+Turn: 3c
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Tedi, Qc Th
+Combination: Tedi, High Card ( As Qc Th 8c 6h )
+Shows: Feenoe, Jh Tc
+Combination: Feenoe, High Card ( As Jh Tc 8c 6h )
+Wins: Tedi, chips: 200
+Wins: Feenoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Flop: 9c 7d 9d
+Turn: Jh
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Tedi, 3d 4d
+Combination: Tedi, Two Pair ( 9c 9d 3d 3h Jh )
+Shows: Feenoe, 6c Ah
+Combination: Feenoe, Pair ( 9c 9d Ah Jh 7d )
+Wins: Tedi, chips: 300
+Quits: Feenoe, chips: 0
+Ranking: Tedi, Place: 1, Score: 1000
+Reveal AI: Tedi, AI: Random
+Ranking: Feenoe, Place: 2, Score: -1000
+Reveal AI: Feenoe, AI: AIMyBot1
+
+Player Stats for Feenoe, AI: AIMyBot1
+General: deals: 21, actions: 11, preflop actions: 11
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 9, showdown: 8, bluff: 1
+Chips: won: 2100, lost: 3100, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Player Stats for Tedi, AI: Random
+General: deals: 21, actions: 4, preflop actions: 4
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 16, showdown: 5, bluff: 11
+Chips: won: 5100, lost: 4100, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.0952381, 3Bet: 0.0952381
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.555556
+
+
+Date: 2022/10/25 13:46:02
+
+The game begins. The AI's of the players are: 
+Tedi: Random
+Feenoe: AIMyBot1
+
+Joins: Tedi, chips: 1000
+Joins: Feenoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Folds: Feenoe
+Pot size: 300
+Boasts: Tedi, 6h 9c
+Wins: Tedi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Folds: Tedi
+Pot size: 300
+Wins: Feenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Folds: Feenoe
+Pot size: 300
+Wins: Tedi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Raises: Tedi, chips: 300
+Folds: Feenoe
+Pot size: 700
+Wins: Tedi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Folds: Feenoe
+Pot size: 300
+Wins: Tedi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Calls: Tedi
+DEBUG MESSAGE: INVALID ACTION FROM Feenoe (2 0)
+Folds: Feenoe
+Pot size: 400
+Boasts: Tedi, 7d Kd
+Wins: Tedi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Folds: Feenoe
+Pot size: 300
+Boasts: Tedi, 7d Ts
+Wins: Tedi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Raises: Tedi, chips: 300
+Folds: Feenoe
+Pot size: 700
+Wins: Tedi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Flop: 4h Th As
+Turn: 9c
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Tedi, 5h Kh
+Combination: Tedi, High Card ( As Kh Th 9c 7s )
+Shows: Feenoe, 6d 8c
+Combination: Feenoe, Straight ( Th 9c 8c 7s 6d )
+Wins: Tedi, chips: 100
+Wins: Feenoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Flop: Tc Td Ac
+Turn: 8s
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Tedi, Qh 2h
+Combination: Tedi, Pair ( Tc Td Ac Qh Jc )
+Shows: Feenoe, 6d 2d
+Combination: Feenoe, Pair ( Tc Td Ac Jc 8s )
+Wins: Tedi, chips: 200
+Wins: Feenoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Flop: Tc Kd 4d
+Turn: 8c
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Tedi, 2c 6d
+Combination: Tedi, High Card ( Ad Kd Tc 8c 6d )
+Shows: Feenoe, Ts 4h
+Combination: Feenoe, Two Pair ( Ts Tc 4h 4d Ad )
+Wins: Tedi, chips: 100
+Wins: Feenoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Flop: Kh 4c 2c
+Turn: 7h
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Tedi, Qc 5c
+Combination: Tedi, Pair ( 2c 2d Kh Qc 7h )
+Shows: Feenoe, Ah 4d
+Combination: Feenoe, Two Pair ( 4d 4c 2c 2d Ah )
+Wins: Feenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Folds: Feenoe
+Pot size: 300
+Wins: Tedi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Flop: 2d Js 8h
+Turn: Jc
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Tedi, 7s 7h
+Combination: Tedi, Two Pair ( Js Jc 7s 7h 8h )
+Shows: Feenoe, 8c Ks
+Combination: Feenoe, Two Pair ( Js Jc 8c 8h Ks )
+Wins: Feenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Folds: Feenoe
+Pot size: 300
+Wins: Tedi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Flop: 4c Kc Kd
+Turn: 7c
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Tedi, 3c 3h
+Combination: Tedi, Two Pair ( Kc Kd 3c 3h Ad )
+Shows: Feenoe, 4s 7d
+Combination: Feenoe, Two Pair ( Kc Kd 7d 7c Ad )
+Wins: Feenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Folds: Feenoe
+Pot size: 300
+Wins: Tedi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Flop: 2c 8s 6d
+Turn: Qd
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Tedi, 9c 9s
+Combination: Tedi, Two Pair ( 9c 9s 6d 6s Qd )
+Shows: Feenoe, Qh 2d
+Combination: Feenoe, Two Pair ( Qh Qd 6d 6s 8s )
+Wins: Feenoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Folds: Feenoe
+Pot size: 300
+Boasts: Tedi, 7h 4s
+Wins: Tedi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tedi
+Small Blind: Tedi, chips: 100
+Big Blind: Feenoe, chips: 200
+Flop: 5d 8c As
+Turn: 3c
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Tedi, Qc Th
+Combination: Tedi, High Card ( As Qc Th 8c 6h )
+Shows: Feenoe, Jh Tc
+Combination: Feenoe, High Card ( As Jh Tc 8c 6h )
+Wins: Tedi, chips: 200
+Wins: Feenoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feenoe
+Small Blind: Feenoe, chips: 100
+Big Blind: Tedi, chips: 200
+Flop: 9c 7d 9d
+Turn: Jh
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Tedi, 3d 4d
+Combination: Tedi, Two Pair ( 9c 9d 3d 3h Jh )
+Shows: Feenoe, 6c Ah
+Combination: Feenoe, Pair ( 9c 9d Ah Jh 7d )
+Wins: Tedi, chips: 300
+Quits: Feenoe, chips: 0
+Ranking: Tedi, Place: 1, Score: 1000
+Reveal AI: Tedi, AI: Random
+Ranking: Feenoe, Place: 2, Score: -1000
+Reveal AI: Feenoe, AI: AIMyBot1
+
+Player Stats for Feenoe, AI: AIMyBot1
+General: deals: 21, actions: 11, preflop actions: 11
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 9, showdown: 8, bluff: 1
+Chips: won: 2100, lost: 3100, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Player Stats for Tedi, AI: Random
+General: deals: 21, actions: 4, preflop actions: 4
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 16, showdown: 5, bluff: 11
+Chips: won: 5100, lost: 4100, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0.0952381, 3Bet: 0.0952381
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.555556
+
+

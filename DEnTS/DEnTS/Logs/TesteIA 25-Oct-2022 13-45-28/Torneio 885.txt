@@ -1,0 +1,386 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Tugov: AIMyBot1
+Pida: Random
+
+Joins: Tugov, chips: 1000
+Joins: Pida, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tugov
+Small Blind: Tugov, chips: 100
+Big Blind: Pida, chips: 200
+Folds: Tugov
+Pot size: 300
+Wins: Pida, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pida
+Small Blind: Pida, chips: 100
+Big Blind: Tugov, chips: 200
+Raises: Pida, chips: 300
+Folds: Tugov
+Pot size: 700
+Wins: Pida, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tugov
+Small Blind: Tugov, chips: 100
+Big Blind: Pida, chips: 200
+Folds: Tugov
+Pot size: 300
+Wins: Pida, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pida
+Small Blind: Pida, chips: 100
+Big Blind: Tugov, chips: 200
+Folds: Pida
+Pot size: 300
+Wins: Tugov, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tugov
+Small Blind: Tugov, chips: 100
+Big Blind: Pida, chips: 200
+Folds: Tugov
+Pot size: 300
+Boasts: Pida, 8s 6s
+Wins: Pida, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pida
+Small Blind: Pida, chips: 100
+Big Blind: Tugov, chips: 200
+Calls: Pida
+DEBUG MESSAGE: INVALID ACTION FROM Tugov (2 0)
+Folds: Tugov
+Pot size: 400
+Boasts: Pida, 9d Qc
+Wins: Pida, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tugov
+Small Blind: Tugov, chips: 100
+Big Blind: Pida, chips: 200
+Folds: Tugov
+Pot size: 300
+Boasts: Pida, As Qs
+Wins: Pida, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pida
+Small Blind: Pida, chips: 100
+Big Blind: Tugov, chips: 200
+Calls: Pida
+DEBUG MESSAGE: INVALID ACTION FROM Tugov (2 0)
+Folds: Tugov
+Pot size: 400
+Boasts: Pida, 2d Jc
+Wins: Pida, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tugov
+Small Blind: Tugov, chips: 100
+Big Blind: Pida, chips: 200
+Flop: Ad 6s Kh
+Turn: As
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Tugov, Js Tc
+Combination: Tugov, Straight ( Ad Kh Qs Js Tc )
+Shows: Pida, Ts 8h
+Combination: Pida, Pair ( Ad As Kh Qs Ts )
+Wins: Tugov, chips: 200
+Wins: Pida, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pida
+Small Blind: Pida, chips: 100
+Big Blind: Tugov, chips: 200
+Flop: Kc Qs 4d
+Turn: 9h
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Tugov, 8c 5d
+Combination: Tugov, High Card ( Kc Qs Th 9h 8c )
+Shows: Pida, 2d As
+Combination: Pida, High Card ( As Kc Qs Th 9h )
+Wins: Tugov, chips: 100
+Wins: Pida, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tugov
+Small Blind: Tugov, chips: 100
+Big Blind: Pida, chips: 200
+Flop: 8s 9d 2c
+Turn: 9c
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Tugov, Kd 5h
+Combination: Tugov, Pair ( 9d 9c Kd Qh 8s )
+Shows: Pida, 4d 5s
+Combination: Pida, Pair ( 9d 9c Qh 8s 5s )
+Wins: Tugov, chips: 200
+Wins: Pida, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pida
+Small Blind: Pida, chips: 100
+Big Blind: Tugov, chips: 200
+Flop: Kc Ks 6c
+Turn: 3s
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Tugov, 9d Kh
+Combination: Tugov, Three Of A Kind ( Kh Kc Ks Ad 9d )
+Shows: Pida, Kd 5h
+Combination: Pida, Three Of A Kind ( Kd Kc Ks Ad 6c )
+Wins: Tugov, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tugov
+Small Blind: Tugov, chips: 100
+Big Blind: Pida, chips: 200
+Folds: Tugov
+Pot size: 300
+Wins: Pida, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pida
+Small Blind: Pida, chips: 100
+Big Blind: Tugov, chips: 200
+Flop: Qd 3s 9c
+Turn: Jd
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Tugov, 4c 6d
+Combination: Tugov, High Card ( Qd Jd 9c 6d 5s )
+Shows: Pida, 7h 9d
+Combination: Pida, Pair ( 9d 9c Qd Jd 7h )
+Wins: Tugov, chips: 100
+Wins: Pida, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tugov
+Small Blind: Tugov, chips: 100
+Big Blind: Pida, chips: 200
+Flop: 3c Kd 7s
+Turn: Qs
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Tugov, Jd Td
+Combination: Tugov, High Card ( Kd Qs Jd Td 7s )
+Shows: Pida, Ad 2h
+Combination: Pida, High Card ( Ad Kd Qs 7s 5c )
+Wins: Pida, chips: 300
+Quits: Tugov, chips: 0
+Ranking: Pida, Place: 1, Score: 1000
+Reveal AI: Pida, AI: Random
+Ranking: Tugov, Place: 2, Score: -1000
+Reveal AI: Tugov, AI: AIMyBot1
+
+Player Stats for Pida, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 5, bluff: 8
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Tugov, AI: AIMyBot1
+General: deals: 15, actions: 8, preflop actions: 8
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:46:28
+
+The game begins. The AI's of the players are: 
+Tugov: AIMyBot1
+Pida: Random
+
+Joins: Tugov, chips: 1000
+Joins: Pida, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tugov
+Small Blind: Tugov, chips: 100
+Big Blind: Pida, chips: 200
+Folds: Tugov
+Pot size: 300
+Wins: Pida, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pida
+Small Blind: Pida, chips: 100
+Big Blind: Tugov, chips: 200
+Raises: Pida, chips: 300
+Folds: Tugov
+Pot size: 700
+Wins: Pida, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tugov
+Small Blind: Tugov, chips: 100
+Big Blind: Pida, chips: 200
+Folds: Tugov
+Pot size: 300
+Wins: Pida, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pida
+Small Blind: Pida, chips: 100
+Big Blind: Tugov, chips: 200
+Folds: Pida
+Pot size: 300
+Wins: Tugov, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tugov
+Small Blind: Tugov, chips: 100
+Big Blind: Pida, chips: 200
+Folds: Tugov
+Pot size: 300
+Boasts: Pida, 8s 6s
+Wins: Pida, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pida
+Small Blind: Pida, chips: 100
+Big Blind: Tugov, chips: 200
+Calls: Pida
+DEBUG MESSAGE: INVALID ACTION FROM Tugov (2 0)
+Folds: Tugov
+Pot size: 400
+Boasts: Pida, 9d Qc
+Wins: Pida, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tugov
+Small Blind: Tugov, chips: 100
+Big Blind: Pida, chips: 200
+Folds: Tugov
+Pot size: 300
+Boasts: Pida, As Qs
+Wins: Pida, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pida
+Small Blind: Pida, chips: 100
+Big Blind: Tugov, chips: 200
+Calls: Pida
+DEBUG MESSAGE: INVALID ACTION FROM Tugov (2 0)
+Folds: Tugov
+Pot size: 400
+Boasts: Pida, 2d Jc
+Wins: Pida, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tugov
+Small Blind: Tugov, chips: 100
+Big Blind: Pida, chips: 200
+Flop: Ad 6s Kh
+Turn: As
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Tugov, Js Tc
+Combination: Tugov, Straight ( Ad Kh Qs Js Tc )
+Shows: Pida, Ts 8h
+Combination: Pida, Pair ( Ad As Kh Qs Ts )
+Wins: Tugov, chips: 200
+Wins: Pida, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pida
+Small Blind: Pida, chips: 100
+Big Blind: Tugov, chips: 200
+Flop: Kc Qs 4d
+Turn: 9h
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Tugov, 8c 5d
+Combination: Tugov, High Card ( Kc Qs Th 9h 8c )
+Shows: Pida, 2d As
+Combination: Pida, High Card ( As Kc Qs Th 9h )
+Wins: Tugov, chips: 100
+Wins: Pida, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tugov
+Small Blind: Tugov, chips: 100
+Big Blind: Pida, chips: 200
+Flop: 8s 9d 2c
+Turn: 9c
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Tugov, Kd 5h
+Combination: Tugov, Pair ( 9d 9c Kd Qh 8s )
+Shows: Pida, 4d 5s
+Combination: Pida, Pair ( 9d 9c Qh 8s 5s )
+Wins: Tugov, chips: 200
+Wins: Pida, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pida
+Small Blind: Pida, chips: 100
+Big Blind: Tugov, chips: 200
+Flop: Kc Ks 6c
+Turn: 3s
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Tugov, 9d Kh
+Combination: Tugov, Three Of A Kind ( Kh Kc Ks Ad 9d )
+Shows: Pida, Kd 5h
+Combination: Pida, Three Of A Kind ( Kd Kc Ks Ad 6c )
+Wins: Tugov, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tugov
+Small Blind: Tugov, chips: 100
+Big Blind: Pida, chips: 200
+Folds: Tugov
+Pot size: 300
+Wins: Pida, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pida
+Small Blind: Pida, chips: 100
+Big Blind: Tugov, chips: 200
+Flop: Qd 3s 9c
+Turn: Jd
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Tugov, 4c 6d
+Combination: Tugov, High Card ( Qd Jd 9c 6d 5s )
+Shows: Pida, 7h 9d
+Combination: Pida, Pair ( 9d 9c Qd Jd 7h )
+Wins: Tugov, chips: 100
+Wins: Pida, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tugov
+Small Blind: Tugov, chips: 100
+Big Blind: Pida, chips: 200
+Flop: 3c Kd 7s
+Turn: Qs
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Tugov, Jd Td
+Combination: Tugov, High Card ( Kd Qs Jd Td 7s )
+Shows: Pida, Ad 2h
+Combination: Pida, High Card ( Ad Kd Qs 7s 5c )
+Wins: Pida, chips: 300
+Quits: Tugov, chips: 0
+Ranking: Pida, Place: 1, Score: 1000
+Reveal AI: Pida, AI: Random
+Ranking: Tugov, Place: 2, Score: -1000
+Reveal AI: Tugov, AI: AIMyBot1
+
+Player Stats for Pida, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 5, bluff: 8
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Tugov, AI: AIMyBot1
+General: deals: 15, actions: 8, preflop actions: 8
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

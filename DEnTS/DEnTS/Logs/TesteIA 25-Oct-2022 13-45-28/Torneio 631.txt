@@ -1,0 +1,424 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Tigomur: AIMyBot1
+Sanhinny: Random
+
+Joins: Tigomur, chips: 1000
+Joins: Sanhinny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Folds: Tigomur
+Pot size: 300
+Wins: Sanhinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sanhinny
+Small Blind: Sanhinny, chips: 100
+Big Blind: Tigomur, chips: 200
+Folds: Sanhinny
+Pot size: 300
+Boasts: Sanhinny, Qc Ts
+Wins: Tigomur, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Folds: Tigomur
+Pot size: 300
+Boasts: Sanhinny, 7s 3s
+Wins: Sanhinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sanhinny
+Small Blind: Sanhinny, chips: 100
+Big Blind: Tigomur, chips: 200
+Raises: Sanhinny, chips: 300
+Folds: Tigomur
+Pot size: 700
+Wins: Sanhinny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Folds: Tigomur
+Pot size: 300
+Wins: Sanhinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sanhinny
+Small Blind: Sanhinny, chips: 100
+Big Blind: Tigomur, chips: 200
+Raises: Sanhinny, chips: 300
+Folds: Tigomur
+Pot size: 700
+Wins: Sanhinny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Folds: Tigomur
+Pot size: 300
+Wins: Sanhinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sanhinny
+Small Blind: Sanhinny, chips: 100
+Big Blind: Tigomur, chips: 200
+Calls: Sanhinny
+DEBUG MESSAGE: INVALID ACTION FROM Tigomur (2 0)
+Folds: Tigomur
+Pot size: 400
+Wins: Sanhinny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Flop: 9h Js Kd
+Turn: 7s
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Tigomur, 5d Qs
+Combination: Tigomur, Straight ( Kd Qs Js Tc 9h )
+Shows: Sanhinny, 8d Ah
+Combination: Sanhinny, Straight ( Js Tc 9h 8d 7s )
+Wins: Tigomur, chips: 200
+Wins: Sanhinny, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sanhinny
+Small Blind: Sanhinny, chips: 100
+Big Blind: Tigomur, chips: 200
+Flop: 8c As 2d
+Turn: 9c
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Tigomur, 6c Th
+Combination: Tigomur, Pair ( 9c 9s As Th 8c )
+Shows: Sanhinny, Td Qh
+Combination: Sanhinny, Pair ( 9c 9s As Qh Td )
+Wins: Tigomur, chips: 100
+Wins: Sanhinny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Flop: 2d Kh 7s
+Turn: 3d
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Tigomur, 8c 2h
+Combination: Tigomur, Pair ( 2h 2d Kh Tc 8c )
+Shows: Sanhinny, Ah 4h
+Combination: Sanhinny, High Card ( Ah Kh Tc 7s 4h )
+Wins: Tigomur, chips: 200
+Wins: Sanhinny, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sanhinny
+Small Blind: Sanhinny, chips: 100
+Big Blind: Tigomur, chips: 200
+Flop: 3d 5d 4s
+Turn: Ac
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Tigomur, Jh 2s
+Combination: Tigomur, Straight ( 5d 4s 3d 2s Ac )
+Shows: Sanhinny, 5c Kc
+Combination: Sanhinny, Pair ( 5c 5d Ac Kc 8c )
+Wins: Tigomur, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Folds: Tigomur
+Pot size: 300
+Wins: Sanhinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sanhinny
+Small Blind: Sanhinny, chips: 100
+Big Blind: Tigomur, chips: 200
+Flop: Kh 2c 6h
+Turn: Ks
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Tigomur, 6c Jd
+Combination: Tigomur, Two Pair ( Kh Ks 6c 6h Jd )
+Shows: Sanhinny, As 4h
+Combination: Sanhinny, Two Pair ( Kh Ks 2c 2h As )
+Wins: Tigomur, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Folds: Tigomur
+Pot size: 300
+Boasts: Sanhinny, As 4d
+Wins: Sanhinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sanhinny
+Small Blind: Sanhinny, chips: 100
+Big Blind: Tigomur, chips: 200
+Flop: Qs 3s 3h
+Turn: Jc
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Tigomur, 4h 2h
+Combination: Tigomur, Pair ( 3s 3h Kh Qs Jc )
+Shows: Sanhinny, 7c Kc
+Combination: Sanhinny, Two Pair ( Kc Kh 3s 3h Qs )
+Wins: Tigomur, chips: 100
+Wins: Sanhinny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Flop: Kh Ad 8d
+Turn: Kd
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Tigomur, Qs 4s
+Combination: Tigomur, Pair ( Kh Kd Ad Qs 8d )
+Shows: Sanhinny, 7h Kc
+Combination: Sanhinny, Three Of A Kind ( Kc Kh Kd Ad 8d )
+Wins: Sanhinny, chips: 300
+Quits: Tigomur, chips: 0
+Ranking: Sanhinny, Place: 1, Score: 1000
+Reveal AI: Sanhinny, AI: Random
+Ranking: Tigomur, Place: 2, Score: -1000
+Reveal AI: Tigomur, AI: AIMyBot1
+
+Player Stats for Sanhinny, AI: Random
+General: deals: 17, actions: 4, preflop actions: 4
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 14, showdown: 5, bluff: 9
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.714286
+
+
+Player Stats for Tigomur, AI: AIMyBot1
+General: deals: 17, actions: 9, preflop actions: 9
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 7, showdown: 6, bluff: 1
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Date: 2022/10/25 13:46:11
+
+The game begins. The AI's of the players are: 
+Tigomur: AIMyBot1
+Sanhinny: Random
+
+Joins: Tigomur, chips: 1000
+Joins: Sanhinny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Folds: Tigomur
+Pot size: 300
+Wins: Sanhinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sanhinny
+Small Blind: Sanhinny, chips: 100
+Big Blind: Tigomur, chips: 200
+Folds: Sanhinny
+Pot size: 300
+Boasts: Sanhinny, Qc Ts
+Wins: Tigomur, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Folds: Tigomur
+Pot size: 300
+Boasts: Sanhinny, 7s 3s
+Wins: Sanhinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sanhinny
+Small Blind: Sanhinny, chips: 100
+Big Blind: Tigomur, chips: 200
+Raises: Sanhinny, chips: 300
+Folds: Tigomur
+Pot size: 700
+Wins: Sanhinny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Folds: Tigomur
+Pot size: 300
+Wins: Sanhinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sanhinny
+Small Blind: Sanhinny, chips: 100
+Big Blind: Tigomur, chips: 200
+Raises: Sanhinny, chips: 300
+Folds: Tigomur
+Pot size: 700
+Wins: Sanhinny, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Folds: Tigomur
+Pot size: 300
+Wins: Sanhinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sanhinny
+Small Blind: Sanhinny, chips: 100
+Big Blind: Tigomur, chips: 200
+Calls: Sanhinny
+DEBUG MESSAGE: INVALID ACTION FROM Tigomur (2 0)
+Folds: Tigomur
+Pot size: 400
+Wins: Sanhinny, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Flop: 9h Js Kd
+Turn: 7s
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Tigomur, 5d Qs
+Combination: Tigomur, Straight ( Kd Qs Js Tc 9h )
+Shows: Sanhinny, 8d Ah
+Combination: Sanhinny, Straight ( Js Tc 9h 8d 7s )
+Wins: Tigomur, chips: 200
+Wins: Sanhinny, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sanhinny
+Small Blind: Sanhinny, chips: 100
+Big Blind: Tigomur, chips: 200
+Flop: 8c As 2d
+Turn: 9c
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Tigomur, 6c Th
+Combination: Tigomur, Pair ( 9c 9s As Th 8c )
+Shows: Sanhinny, Td Qh
+Combination: Sanhinny, Pair ( 9c 9s As Qh Td )
+Wins: Tigomur, chips: 100
+Wins: Sanhinny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Flop: 2d Kh 7s
+Turn: 3d
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Tigomur, 8c 2h
+Combination: Tigomur, Pair ( 2h 2d Kh Tc 8c )
+Shows: Sanhinny, Ah 4h
+Combination: Sanhinny, High Card ( Ah Kh Tc 7s 4h )
+Wins: Tigomur, chips: 200
+Wins: Sanhinny, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sanhinny
+Small Blind: Sanhinny, chips: 100
+Big Blind: Tigomur, chips: 200
+Flop: 3d 5d 4s
+Turn: Ac
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Tigomur, Jh 2s
+Combination: Tigomur, Straight ( 5d 4s 3d 2s Ac )
+Shows: Sanhinny, 5c Kc
+Combination: Sanhinny, Pair ( 5c 5d Ac Kc 8c )
+Wins: Tigomur, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Folds: Tigomur
+Pot size: 300
+Wins: Sanhinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sanhinny
+Small Blind: Sanhinny, chips: 100
+Big Blind: Tigomur, chips: 200
+Flop: Kh 2c 6h
+Turn: Ks
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Tigomur, 6c Jd
+Combination: Tigomur, Two Pair ( Kh Ks 6c 6h Jd )
+Shows: Sanhinny, As 4h
+Combination: Sanhinny, Two Pair ( Kh Ks 2c 2h As )
+Wins: Tigomur, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Folds: Tigomur
+Pot size: 300
+Boasts: Sanhinny, As 4d
+Wins: Sanhinny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sanhinny
+Small Blind: Sanhinny, chips: 100
+Big Blind: Tigomur, chips: 200
+Flop: Qs 3s 3h
+Turn: Jc
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Tigomur, 4h 2h
+Combination: Tigomur, Pair ( 3s 3h Kh Qs Jc )
+Shows: Sanhinny, 7c Kc
+Combination: Sanhinny, Two Pair ( Kc Kh 3s 3h Qs )
+Wins: Tigomur, chips: 100
+Wins: Sanhinny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tigomur
+Small Blind: Tigomur, chips: 100
+Big Blind: Sanhinny, chips: 200
+Flop: Kh Ad 8d
+Turn: Kd
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Tigomur, Qs 4s
+Combination: Tigomur, Pair ( Kh Kd Ad Qs 8d )
+Shows: Sanhinny, 7h Kc
+Combination: Sanhinny, Three Of A Kind ( Kc Kh Kd Ad 8d )
+Wins: Sanhinny, chips: 300
+Quits: Tigomur, chips: 0
+Ranking: Sanhinny, Place: 1, Score: 1000
+Reveal AI: Sanhinny, AI: Random
+Ranking: Tigomur, Place: 2, Score: -1000
+Reveal AI: Tigomur, AI: AIMyBot1
+
+Player Stats for Sanhinny, AI: Random
+General: deals: 17, actions: 4, preflop actions: 4
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 14, showdown: 5, bluff: 9
+Chips: won: 4500, lost: 3500, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.714286
+
+
+Player Stats for Tigomur, AI: AIMyBot1
+General: deals: 17, actions: 9, preflop actions: 9
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 7, showdown: 6, bluff: 1
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+

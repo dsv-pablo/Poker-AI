@@ -1,0 +1,254 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Mibut: Random
+Jerleechef: AIMyBot1
+
+Joins: Mibut, chips: 1000
+Joins: Jerleechef, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerleechef
+Small Blind: Jerleechef, chips: 100
+Big Blind: Mibut, chips: 200
+Folds: Jerleechef
+Pot size: 300
+Wins: Mibut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mibut
+Small Blind: Mibut, chips: 100
+Big Blind: Jerleechef, chips: 200
+Folds: Mibut
+Pot size: 300
+Boasts: Mibut, Ts Kh
+Wins: Jerleechef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerleechef
+Small Blind: Jerleechef, chips: 100
+Big Blind: Mibut, chips: 200
+Folds: Jerleechef
+Pot size: 300
+Boasts: Mibut, Th 5c
+Wins: Mibut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mibut
+Small Blind: Mibut, chips: 100
+Big Blind: Jerleechef, chips: 200
+Folds: Mibut
+Pot size: 300
+Boasts: Mibut, Qc 5c
+Wins: Jerleechef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerleechef
+Small Blind: Jerleechef, chips: 100
+Big Blind: Mibut, chips: 200
+Folds: Jerleechef
+Pot size: 300
+Wins: Mibut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mibut
+Small Blind: Mibut, chips: 100
+Big Blind: Jerleechef, chips: 200
+Raises: Mibut, chips: 300
+Folds: Jerleechef
+Pot size: 700
+Boasts: Mibut, Qs 8d
+Wins: Mibut, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerleechef
+Small Blind: Jerleechef, chips: 100
+Big Blind: Mibut, chips: 200
+Folds: Jerleechef
+Pot size: 300
+Wins: Mibut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mibut
+Small Blind: Mibut, chips: 100
+Big Blind: Jerleechef, chips: 200
+Calls: Mibut
+DEBUG MESSAGE: INVALID ACTION FROM Jerleechef (2 0)
+Folds: Jerleechef
+Pot size: 400
+Boasts: Mibut, 6c Qc
+Wins: Mibut, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerleechef
+Small Blind: Jerleechef, chips: 100
+Big Blind: Mibut, chips: 200
+Folds: Jerleechef
+Pot size: 300
+Wins: Mibut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mibut
+Small Blind: Mibut, chips: 100
+Big Blind: Jerleechef, chips: 200
+Raises: Mibut, chips: 300
+Folds: Jerleechef
+Pot size: 700
+Boasts: Mibut, 5c Kd
+Wins: Mibut, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerleechef
+Small Blind: Jerleechef, chips: 100
+Big Blind: Mibut, chips: 200
+Flop: Kc Td 6d
+Turn: 7c
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Mibut, 2h 8c
+Combination: Mibut, Pair ( 8c 8h Kc Td 7c )
+Shows: Jerleechef, Qh 3c
+Combination: Jerleechef, High Card ( Kc Qh Td 8h 7c )
+Wins: Mibut, chips: 300
+Quits: Jerleechef, chips: 0
+Ranking: Mibut, Place: 1, Score: 1000
+Reveal AI: Mibut, AI: Random
+Ranking: Jerleechef, Place: 2, Score: -1000
+Reveal AI: Jerleechef, AI: AIMyBot1
+
+Player Stats for Jerleechef, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Mibut, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:30
+
+The game begins. The AI's of the players are: 
+Mibut: Random
+Jerleechef: AIMyBot1
+
+Joins: Mibut, chips: 1000
+Joins: Jerleechef, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerleechef
+Small Blind: Jerleechef, chips: 100
+Big Blind: Mibut, chips: 200
+Folds: Jerleechef
+Pot size: 300
+Wins: Mibut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mibut
+Small Blind: Mibut, chips: 100
+Big Blind: Jerleechef, chips: 200
+Folds: Mibut
+Pot size: 300
+Boasts: Mibut, Ts Kh
+Wins: Jerleechef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerleechef
+Small Blind: Jerleechef, chips: 100
+Big Blind: Mibut, chips: 200
+Folds: Jerleechef
+Pot size: 300
+Boasts: Mibut, Th 5c
+Wins: Mibut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mibut
+Small Blind: Mibut, chips: 100
+Big Blind: Jerleechef, chips: 200
+Folds: Mibut
+Pot size: 300
+Boasts: Mibut, Qc 5c
+Wins: Jerleechef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerleechef
+Small Blind: Jerleechef, chips: 100
+Big Blind: Mibut, chips: 200
+Folds: Jerleechef
+Pot size: 300
+Wins: Mibut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mibut
+Small Blind: Mibut, chips: 100
+Big Blind: Jerleechef, chips: 200
+Raises: Mibut, chips: 300
+Folds: Jerleechef
+Pot size: 700
+Boasts: Mibut, Qs 8d
+Wins: Mibut, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerleechef
+Small Blind: Jerleechef, chips: 100
+Big Blind: Mibut, chips: 200
+Folds: Jerleechef
+Pot size: 300
+Wins: Mibut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mibut
+Small Blind: Mibut, chips: 100
+Big Blind: Jerleechef, chips: 200
+Calls: Mibut
+DEBUG MESSAGE: INVALID ACTION FROM Jerleechef (2 0)
+Folds: Jerleechef
+Pot size: 400
+Boasts: Mibut, 6c Qc
+Wins: Mibut, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerleechef
+Small Blind: Jerleechef, chips: 100
+Big Blind: Mibut, chips: 200
+Folds: Jerleechef
+Pot size: 300
+Wins: Mibut, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mibut
+Small Blind: Mibut, chips: 100
+Big Blind: Jerleechef, chips: 200
+Raises: Mibut, chips: 300
+Folds: Jerleechef
+Pot size: 700
+Boasts: Mibut, 5c Kd
+Wins: Mibut, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jerleechef
+Small Blind: Jerleechef, chips: 100
+Big Blind: Mibut, chips: 200
+Flop: Kc Td 6d
+Turn: 7c
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Mibut, 2h 8c
+Combination: Mibut, Pair ( 8c 8h Kc Td 7c )
+Shows: Jerleechef, Qh 3c
+Combination: Jerleechef, High Card ( Kc Qh Td 8h 7c )
+Wins: Mibut, chips: 300
+Quits: Jerleechef, chips: 0
+Ranking: Mibut, Place: 1, Score: 1000
+Reveal AI: Mibut, AI: Random
+Ranking: Jerleechef, Place: 2, Score: -1000
+Reveal AI: Jerleechef, AI: AIMyBot1
+
+Player Stats for Jerleechef, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Mibut, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

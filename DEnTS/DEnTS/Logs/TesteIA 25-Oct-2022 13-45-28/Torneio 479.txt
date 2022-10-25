@@ -1,0 +1,338 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Melu: Random
+Jeparoel: AIMyBot1
+
+Joins: Melu, chips: 1000
+Joins: Jeparoel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Melu
+Small Blind: Melu, chips: 100
+Big Blind: Jeparoel, chips: 200
+Calls: Melu
+DEBUG MESSAGE: INVALID ACTION FROM Jeparoel (2 0)
+Folds: Jeparoel
+Pot size: 400
+Wins: Melu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeparoel
+Small Blind: Jeparoel, chips: 100
+Big Blind: Melu, chips: 200
+Folds: Jeparoel
+Pot size: 300
+Boasts: Melu, 5d 9s
+Wins: Melu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Melu
+Small Blind: Melu, chips: 100
+Big Blind: Jeparoel, chips: 200
+Raises: Melu, chips: 300
+Folds: Jeparoel
+Pot size: 700
+Boasts: Melu, 5h 4d
+Wins: Melu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeparoel
+Small Blind: Jeparoel, chips: 100
+Big Blind: Melu, chips: 200
+Folds: Jeparoel
+Pot size: 300
+Wins: Melu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Melu
+Small Blind: Melu, chips: 100
+Big Blind: Jeparoel, chips: 200
+Folds: Melu
+Pot size: 300
+Wins: Jeparoel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeparoel
+Small Blind: Jeparoel, chips: 100
+Big Blind: Melu, chips: 200
+Folds: Jeparoel
+Pot size: 300
+Boasts: Melu, Qs 9d
+Wins: Melu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Melu
+Small Blind: Melu, chips: 100
+Big Blind: Jeparoel, chips: 200
+Folds: Melu
+Pot size: 300
+Boasts: Melu, 9d 6h
+Wins: Jeparoel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeparoel
+Small Blind: Jeparoel, chips: 100
+Big Blind: Melu, chips: 200
+Folds: Jeparoel
+Pot size: 300
+Boasts: Melu, Ks Kh
+Wins: Melu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Melu
+Small Blind: Melu, chips: 100
+Big Blind: Jeparoel, chips: 200
+Raises: Melu, chips: 300
+Calls: Jeparoel
+Flop: 7c 6c 9d
+Turn: 5c
+River: 6d
+Pot size: 900
+Showdown Reached
+Shows: Melu, Tc Td
+Combination: Melu, Two Pair ( Tc Td 6c 6d 9d )
+Shows: Jeparoel, 3d 8s
+Combination: Jeparoel, Straight ( 9d 8s 7c 6c 5c )
+Wins: Melu, chips: 100
+Wins: Jeparoel, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeparoel
+Small Blind: Jeparoel, chips: 100
+Big Blind: Melu, chips: 200
+Folds: Jeparoel
+Pot size: 300
+Boasts: Melu, 7h 2c
+Wins: Melu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Melu
+Small Blind: Melu, chips: 100
+Big Blind: Jeparoel, chips: 200
+Calls: Melu
+DEBUG MESSAGE: INVALID ACTION FROM Jeparoel (2 0)
+Folds: Jeparoel
+Pot size: 400
+Boasts: Melu, 7d Kd
+Wins: Melu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeparoel
+Small Blind: Jeparoel, chips: 100
+Big Blind: Melu, chips: 200
+Folds: Jeparoel
+Pot size: 300
+Wins: Melu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Melu
+Small Blind: Melu, chips: 100
+Big Blind: Jeparoel, chips: 200
+Calls: Melu
+DEBUG MESSAGE: INVALID ACTION FROM Jeparoel (2 0)
+Folds: Jeparoel
+Pot size: 400
+Wins: Melu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeparoel
+Small Blind: Jeparoel, chips: 100
+Big Blind: Melu, chips: 200
+Folds: Jeparoel
+Pot size: 300
+Wins: Melu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Melu
+Small Blind: Melu, chips: 100
+Big Blind: Jeparoel, chips: 100
+Flop: 4c 4d 4s
+Turn: Qs
+River: Ks
+Pot size: 200
+Showdown Reached
+Shows: Melu, 6c Qc
+Combination: Melu, Full House ( 4c 4d 4s Qc Qs )
+Shows: Jeparoel, 5c Ah
+Combination: Jeparoel, Three Of A Kind ( 4c 4d 4s Ah Ks )
+Wins: Melu, chips: 200
+Quits: Jeparoel, chips: 0
+Ranking: Melu, Place: 1, Score: 1000
+Reveal AI: Melu, AI: Random
+Ranking: Jeparoel, Place: 2, Score: -1000
+Reveal AI: Jeparoel, AI: AIMyBot1
+
+Player Stats for Jeparoel, AI: AIMyBot1
+General: deals: 15, actions: 12, preflop actions: 12
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 1400, lost: 2500, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.0666667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Melu, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 13, showdown: 2, bluff: 11
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:01
+
+The game begins. The AI's of the players are: 
+Melu: Random
+Jeparoel: AIMyBot1
+
+Joins: Melu, chips: 1000
+Joins: Jeparoel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Melu
+Small Blind: Melu, chips: 100
+Big Blind: Jeparoel, chips: 200
+Calls: Melu
+DEBUG MESSAGE: INVALID ACTION FROM Jeparoel (2 0)
+Folds: Jeparoel
+Pot size: 400
+Wins: Melu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeparoel
+Small Blind: Jeparoel, chips: 100
+Big Blind: Melu, chips: 200
+Folds: Jeparoel
+Pot size: 300
+Boasts: Melu, 5d 9s
+Wins: Melu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Melu
+Small Blind: Melu, chips: 100
+Big Blind: Jeparoel, chips: 200
+Raises: Melu, chips: 300
+Folds: Jeparoel
+Pot size: 700
+Boasts: Melu, 5h 4d
+Wins: Melu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeparoel
+Small Blind: Jeparoel, chips: 100
+Big Blind: Melu, chips: 200
+Folds: Jeparoel
+Pot size: 300
+Wins: Melu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Melu
+Small Blind: Melu, chips: 100
+Big Blind: Jeparoel, chips: 200
+Folds: Melu
+Pot size: 300
+Wins: Jeparoel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeparoel
+Small Blind: Jeparoel, chips: 100
+Big Blind: Melu, chips: 200
+Folds: Jeparoel
+Pot size: 300
+Boasts: Melu, Qs 9d
+Wins: Melu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Melu
+Small Blind: Melu, chips: 100
+Big Blind: Jeparoel, chips: 200
+Folds: Melu
+Pot size: 300
+Boasts: Melu, 9d 6h
+Wins: Jeparoel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeparoel
+Small Blind: Jeparoel, chips: 100
+Big Blind: Melu, chips: 200
+Folds: Jeparoel
+Pot size: 300
+Boasts: Melu, Ks Kh
+Wins: Melu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Melu
+Small Blind: Melu, chips: 100
+Big Blind: Jeparoel, chips: 200
+Raises: Melu, chips: 300
+Calls: Jeparoel
+Flop: 7c 6c 9d
+Turn: 5c
+River: 6d
+Pot size: 900
+Showdown Reached
+Shows: Melu, Tc Td
+Combination: Melu, Two Pair ( Tc Td 6c 6d 9d )
+Shows: Jeparoel, 3d 8s
+Combination: Jeparoel, Straight ( 9d 8s 7c 6c 5c )
+Wins: Melu, chips: 100
+Wins: Jeparoel, chips: 800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeparoel
+Small Blind: Jeparoel, chips: 100
+Big Blind: Melu, chips: 200
+Folds: Jeparoel
+Pot size: 300
+Boasts: Melu, 7h 2c
+Wins: Melu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Melu
+Small Blind: Melu, chips: 100
+Big Blind: Jeparoel, chips: 200
+Calls: Melu
+DEBUG MESSAGE: INVALID ACTION FROM Jeparoel (2 0)
+Folds: Jeparoel
+Pot size: 400
+Boasts: Melu, 7d Kd
+Wins: Melu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeparoel
+Small Blind: Jeparoel, chips: 100
+Big Blind: Melu, chips: 200
+Folds: Jeparoel
+Pot size: 300
+Wins: Melu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Melu
+Small Blind: Melu, chips: 100
+Big Blind: Jeparoel, chips: 200
+Calls: Melu
+DEBUG MESSAGE: INVALID ACTION FROM Jeparoel (2 0)
+Folds: Jeparoel
+Pot size: 400
+Wins: Melu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeparoel
+Small Blind: Jeparoel, chips: 100
+Big Blind: Melu, chips: 200
+Folds: Jeparoel
+Pot size: 300
+Wins: Melu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Melu
+Small Blind: Melu, chips: 100
+Big Blind: Jeparoel, chips: 100
+Flop: 4c 4d 4s
+Turn: Qs
+River: Ks
+Pot size: 200
+Showdown Reached
+Shows: Melu, 6c Qc
+Combination: Melu, Full House ( 4c 4d 4s Qc Qs )
+Shows: Jeparoel, 5c Ah
+Combination: Jeparoel, Three Of A Kind ( 4c 4d 4s Ah Ks )
+Wins: Melu, chips: 200
+Quits: Jeparoel, chips: 0
+Ranking: Melu, Place: 1, Score: 1000
+Reveal AI: Melu, AI: Random
+Ranking: Jeparoel, Place: 2, Score: -1000
+Reveal AI: Jeparoel, AI: AIMyBot1
+
+Player Stats for Jeparoel, AI: AIMyBot1
+General: deals: 15, actions: 12, preflop actions: 12
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 1400, lost: 2500, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.0666667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Melu, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 13, showdown: 2, bluff: 11
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

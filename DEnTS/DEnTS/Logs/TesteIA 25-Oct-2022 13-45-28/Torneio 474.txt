@@ -1,0 +1,318 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pomee: AIMyBot1
+Pigivok: Random
+
+Joins: Pomee, chips: 1000
+Joins: Pigivok, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pigivok
+Small Blind: Pigivok, chips: 100
+Big Blind: Pomee, chips: 200
+Raises: Pigivok, chips: 300
+Folds: Pomee
+Pot size: 700
+Wins: Pigivok, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pomee
+Small Blind: Pomee, chips: 100
+Big Blind: Pigivok, chips: 200
+Folds: Pomee
+Pot size: 300
+Wins: Pigivok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pigivok
+Small Blind: Pigivok, chips: 100
+Big Blind: Pomee, chips: 200
+Calls: Pigivok
+DEBUG MESSAGE: INVALID ACTION FROM Pomee (2 0)
+Folds: Pomee
+Pot size: 400
+Boasts: Pigivok, Kh 6c
+Wins: Pigivok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pomee
+Small Blind: Pomee, chips: 100
+Big Blind: Pigivok, chips: 200
+Folds: Pomee
+Pot size: 300
+Boasts: Pigivok, 5s 9d
+Wins: Pigivok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pigivok
+Small Blind: Pigivok, chips: 100
+Big Blind: Pomee, chips: 200
+Raises: Pigivok, chips: 300
+Folds: Pomee
+Pot size: 700
+Wins: Pigivok, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pomee
+Small Blind: Pomee, chips: 100
+Big Blind: Pigivok, chips: 200
+Folds: Pomee
+Pot size: 300
+Wins: Pigivok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pigivok
+Small Blind: Pigivok, chips: 100
+Big Blind: Pomee, chips: 100
+Flop: 5h 9c 8d
+Turn: Kd
+River: Qd
+Pot size: 200
+Showdown Reached
+Shows: Pomee, 9d 3d
+Combination: Pomee, Flush ( Kd Qd 9d 8d 3d )
+Shows: Pigivok, 6c Ts
+Combination: Pigivok, High Card ( Kd Qd Ts 9c 8d )
+Wins: Pomee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pomee
+Small Blind: Pomee, chips: 100
+Big Blind: Pigivok, chips: 200
+Folds: Pomee
+Pot size: 300
+Boasts: Pigivok, 7c 8s
+Wins: Pigivok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pigivok
+Small Blind: Pigivok, chips: 100
+Big Blind: Pomee, chips: 100
+Flop: 9c Jc 4s
+Turn: 4d
+River: 2s
+Pot size: 200
+Showdown Reached
+Shows: Pomee, Kc Qc
+Combination: Pomee, Pair ( 4s 4d Kc Qc Jc )
+Shows: Pigivok, 8c Ts
+Combination: Pigivok, Pair ( 4s 4d Jc Ts 9c )
+Wins: Pomee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pomee
+Small Blind: Pomee, chips: 100
+Big Blind: Pigivok, chips: 200
+Folds: Pomee
+Pot size: 300
+Wins: Pigivok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pigivok
+Small Blind: Pigivok, chips: 100
+Big Blind: Pomee, chips: 100
+Flop: 5h 2s 8d
+Turn: Kh
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Pomee, 7d Qh
+Combination: Pomee, High Card ( Kh Qh 8d 7d 5h )
+Shows: Pigivok, 7h Ts
+Combination: Pigivok, High Card ( Kh Ts 8d 7h 5h )
+Wins: Pomee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pomee
+Small Blind: Pomee, chips: 100
+Big Blind: Pigivok, chips: 200
+Folds: Pomee
+Pot size: 300
+Wins: Pigivok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pigivok
+Small Blind: Pigivok, chips: 100
+Big Blind: Pomee, chips: 100
+Flop: As Kh 5s
+Turn: 3s
+River: 6h
+Pot size: 200
+Showdown Reached
+Shows: Pomee, 7h Ts
+Combination: Pomee, High Card ( As Kh Ts 7h 6h )
+Shows: Pigivok, 3h Js
+Combination: Pigivok, Pair ( 3h 3s As Kh Js )
+Wins: Pigivok, chips: 200
+Quits: Pomee, chips: 0
+Ranking: Pigivok, Place: 1, Score: 1000
+Reveal AI: Pigivok, AI: Random
+Ranking: Pomee, Place: 2, Score: -1000
+Reveal AI: Pomee, AI: AIMyBot1
+
+Player Stats for Pigivok, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.25
+
+
+Player Stats for Pomee, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:01
+
+The game begins. The AI's of the players are: 
+Pomee: AIMyBot1
+Pigivok: Random
+
+Joins: Pomee, chips: 1000
+Joins: Pigivok, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pigivok
+Small Blind: Pigivok, chips: 100
+Big Blind: Pomee, chips: 200
+Raises: Pigivok, chips: 300
+Folds: Pomee
+Pot size: 700
+Wins: Pigivok, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pomee
+Small Blind: Pomee, chips: 100
+Big Blind: Pigivok, chips: 200
+Folds: Pomee
+Pot size: 300
+Wins: Pigivok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pigivok
+Small Blind: Pigivok, chips: 100
+Big Blind: Pomee, chips: 200
+Calls: Pigivok
+DEBUG MESSAGE: INVALID ACTION FROM Pomee (2 0)
+Folds: Pomee
+Pot size: 400
+Boasts: Pigivok, Kh 6c
+Wins: Pigivok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pomee
+Small Blind: Pomee, chips: 100
+Big Blind: Pigivok, chips: 200
+Folds: Pomee
+Pot size: 300
+Boasts: Pigivok, 5s 9d
+Wins: Pigivok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pigivok
+Small Blind: Pigivok, chips: 100
+Big Blind: Pomee, chips: 200
+Raises: Pigivok, chips: 300
+Folds: Pomee
+Pot size: 700
+Wins: Pigivok, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pomee
+Small Blind: Pomee, chips: 100
+Big Blind: Pigivok, chips: 200
+Folds: Pomee
+Pot size: 300
+Wins: Pigivok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pigivok
+Small Blind: Pigivok, chips: 100
+Big Blind: Pomee, chips: 100
+Flop: 5h 9c 8d
+Turn: Kd
+River: Qd
+Pot size: 200
+Showdown Reached
+Shows: Pomee, 9d 3d
+Combination: Pomee, Flush ( Kd Qd 9d 8d 3d )
+Shows: Pigivok, 6c Ts
+Combination: Pigivok, High Card ( Kd Qd Ts 9c 8d )
+Wins: Pomee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pomee
+Small Blind: Pomee, chips: 100
+Big Blind: Pigivok, chips: 200
+Folds: Pomee
+Pot size: 300
+Boasts: Pigivok, 7c 8s
+Wins: Pigivok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pigivok
+Small Blind: Pigivok, chips: 100
+Big Blind: Pomee, chips: 100
+Flop: 9c Jc 4s
+Turn: 4d
+River: 2s
+Pot size: 200
+Showdown Reached
+Shows: Pomee, Kc Qc
+Combination: Pomee, Pair ( 4s 4d Kc Qc Jc )
+Shows: Pigivok, 8c Ts
+Combination: Pigivok, Pair ( 4s 4d Jc Ts 9c )
+Wins: Pomee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pomee
+Small Blind: Pomee, chips: 100
+Big Blind: Pigivok, chips: 200
+Folds: Pomee
+Pot size: 300
+Wins: Pigivok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pigivok
+Small Blind: Pigivok, chips: 100
+Big Blind: Pomee, chips: 100
+Flop: 5h 2s 8d
+Turn: Kh
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Pomee, 7d Qh
+Combination: Pomee, High Card ( Kh Qh 8d 7d 5h )
+Shows: Pigivok, 7h Ts
+Combination: Pigivok, High Card ( Kh Ts 8d 7h 5h )
+Wins: Pomee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pomee
+Small Blind: Pomee, chips: 100
+Big Blind: Pigivok, chips: 200
+Folds: Pomee
+Pot size: 300
+Wins: Pigivok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pigivok
+Small Blind: Pigivok, chips: 100
+Big Blind: Pomee, chips: 100
+Flop: As Kh 5s
+Turn: 3s
+River: 6h
+Pot size: 200
+Showdown Reached
+Shows: Pomee, 7h Ts
+Combination: Pomee, High Card ( As Kh Ts 7h 6h )
+Shows: Pigivok, 3h Js
+Combination: Pigivok, Pair ( 3h 3s As Kh Js )
+Wins: Pigivok, chips: 200
+Quits: Pomee, chips: 0
+Ranking: Pigivok, Place: 1, Score: 1000
+Reveal AI: Pigivok, AI: Random
+Ranking: Pomee, Place: 2, Score: -1000
+Reveal AI: Pomee, AI: AIMyBot1
+
+Player Stats for Pigivok, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.25
+
+
+Player Stats for Pomee, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

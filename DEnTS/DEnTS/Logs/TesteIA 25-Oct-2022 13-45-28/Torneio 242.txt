@@ -1,0 +1,218 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wedutto: Random
+Nago: AIMyBot1
+
+Joins: Wedutto, chips: 1000
+Joins: Nago, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nago
+Small Blind: Nago, chips: 100
+Big Blind: Wedutto, chips: 200
+Folds: Nago
+Pot size: 300
+Wins: Wedutto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wedutto
+Small Blind: Wedutto, chips: 100
+Big Blind: Nago, chips: 200
+Folds: Wedutto
+Pot size: 300
+Wins: Nago, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nago
+Small Blind: Nago, chips: 100
+Big Blind: Wedutto, chips: 200
+Folds: Nago
+Pot size: 300
+Boasts: Wedutto, 6c Kd
+Wins: Wedutto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wedutto
+Small Blind: Wedutto, chips: 100
+Big Blind: Nago, chips: 200
+Calls: Wedutto
+DEBUG MESSAGE: INVALID ACTION FROM Nago (2 0)
+Folds: Nago
+Pot size: 400
+Wins: Wedutto, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nago
+Small Blind: Nago, chips: 100
+Big Blind: Wedutto, chips: 200
+Folds: Nago
+Pot size: 300
+Wins: Wedutto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wedutto
+Small Blind: Wedutto, chips: 100
+Big Blind: Nago, chips: 200
+Raises: Wedutto, chips: 300
+Folds: Nago
+Pot size: 700
+Wins: Wedutto, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nago
+Small Blind: Nago, chips: 100
+Big Blind: Wedutto, chips: 200
+Folds: Nago
+Pot size: 300
+Wins: Wedutto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wedutto
+Small Blind: Wedutto, chips: 100
+Big Blind: Nago, chips: 200
+Calls: Wedutto
+DEBUG MESSAGE: INVALID ACTION FROM Nago (2 0)
+Folds: Nago
+Pot size: 400
+Wins: Wedutto, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nago
+Small Blind: Nago, chips: 100
+Big Blind: Wedutto, chips: 200
+Flop: Ad 2d 6c
+Turn: Tc
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Wedutto, Th Js
+Combination: Wedutto, Pair ( Th Tc Ad Js 6c )
+Shows: Nago, 9h 3c
+Combination: Nago, Pair ( 3c 3h Ad Tc 9h )
+Wins: Wedutto, chips: 300
+Quits: Nago, chips: 0
+Ranking: Wedutto, Place: 1, Score: 1000
+Reveal AI: Wedutto, AI: Random
+Ranking: Nago, Place: 2, Score: -1000
+Reveal AI: Nago, AI: AIMyBot1
+
+Player Stats for Nago, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Wedutto, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:45
+
+The game begins. The AI's of the players are: 
+Wedutto: Random
+Nago: AIMyBot1
+
+Joins: Wedutto, chips: 1000
+Joins: Nago, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nago
+Small Blind: Nago, chips: 100
+Big Blind: Wedutto, chips: 200
+Folds: Nago
+Pot size: 300
+Wins: Wedutto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wedutto
+Small Blind: Wedutto, chips: 100
+Big Blind: Nago, chips: 200
+Folds: Wedutto
+Pot size: 300
+Wins: Nago, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nago
+Small Blind: Nago, chips: 100
+Big Blind: Wedutto, chips: 200
+Folds: Nago
+Pot size: 300
+Boasts: Wedutto, 6c Kd
+Wins: Wedutto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wedutto
+Small Blind: Wedutto, chips: 100
+Big Blind: Nago, chips: 200
+Calls: Wedutto
+DEBUG MESSAGE: INVALID ACTION FROM Nago (2 0)
+Folds: Nago
+Pot size: 400
+Wins: Wedutto, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nago
+Small Blind: Nago, chips: 100
+Big Blind: Wedutto, chips: 200
+Folds: Nago
+Pot size: 300
+Wins: Wedutto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wedutto
+Small Blind: Wedutto, chips: 100
+Big Blind: Nago, chips: 200
+Raises: Wedutto, chips: 300
+Folds: Nago
+Pot size: 700
+Wins: Wedutto, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nago
+Small Blind: Nago, chips: 100
+Big Blind: Wedutto, chips: 200
+Folds: Nago
+Pot size: 300
+Wins: Wedutto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wedutto
+Small Blind: Wedutto, chips: 100
+Big Blind: Nago, chips: 200
+Calls: Wedutto
+DEBUG MESSAGE: INVALID ACTION FROM Nago (2 0)
+Folds: Nago
+Pot size: 400
+Wins: Wedutto, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nago
+Small Blind: Nago, chips: 100
+Big Blind: Wedutto, chips: 200
+Flop: Ad 2d 6c
+Turn: Tc
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Wedutto, Th Js
+Combination: Wedutto, Pair ( Th Tc Ad Js 6c )
+Shows: Nago, 9h 3c
+Combination: Nago, Pair ( 3c 3h Ad Tc 9h )
+Wins: Wedutto, chips: 300
+Quits: Nago, chips: 0
+Ranking: Wedutto, Place: 1, Score: 1000
+Reveal AI: Wedutto, AI: Random
+Ranking: Nago, Place: 2, Score: -1000
+Reveal AI: Nago, AI: AIMyBot1
+
+Player Stats for Nago, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Wedutto, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

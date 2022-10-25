@@ -1,0 +1,370 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Poewriruf: Random
+Tuwrer: AIMyBot1
+
+Joins: Poewriruf, chips: 1000
+Joins: Tuwrer, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwrer
+Small Blind: Tuwrer, chips: 100
+Big Blind: Poewriruf, chips: 200
+Folds: Tuwrer
+Pot size: 300
+Boasts: Poewriruf, Jc 2d
+Wins: Poewriruf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poewriruf
+Small Blind: Poewriruf, chips: 100
+Big Blind: Tuwrer, chips: 200
+Calls: Poewriruf
+DEBUG MESSAGE: INVALID ACTION FROM Tuwrer (2 0)
+Folds: Tuwrer
+Pot size: 400
+Wins: Poewriruf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwrer
+Small Blind: Tuwrer, chips: 100
+Big Blind: Poewriruf, chips: 200
+Folds: Tuwrer
+Pot size: 300
+Wins: Poewriruf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poewriruf
+Small Blind: Poewriruf, chips: 100
+Big Blind: Tuwrer, chips: 200
+Folds: Poewriruf
+Pot size: 300
+Wins: Tuwrer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwrer
+Small Blind: Tuwrer, chips: 100
+Big Blind: Poewriruf, chips: 200
+Folds: Tuwrer
+Pot size: 300
+Boasts: Poewriruf, Kd 5c
+Wins: Poewriruf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poewriruf
+Small Blind: Poewriruf, chips: 100
+Big Blind: Tuwrer, chips: 200
+Calls: Poewriruf
+DEBUG MESSAGE: INVALID ACTION FROM Tuwrer (2 0)
+Folds: Tuwrer
+Pot size: 400
+Wins: Poewriruf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwrer
+Small Blind: Tuwrer, chips: 100
+Big Blind: Poewriruf, chips: 200
+Folds: Tuwrer
+Pot size: 300
+Boasts: Poewriruf, 4s 4d
+Wins: Poewriruf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poewriruf
+Small Blind: Poewriruf, chips: 100
+Big Blind: Tuwrer, chips: 200
+Calls: Poewriruf
+DEBUG MESSAGE: INVALID ACTION FROM Tuwrer (2 0)
+Folds: Tuwrer
+Pot size: 400
+Wins: Poewriruf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwrer
+Small Blind: Tuwrer, chips: 100
+Big Blind: Poewriruf, chips: 200
+Flop: Jh 7s 7c
+Turn: 2s
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Poewriruf, 2d 5d
+Combination: Poewriruf, Two Pair ( 7s 7c 2d 2s Jh )
+Shows: Tuwrer, 6s Kh
+Combination: Tuwrer, Two Pair ( 7s 7c 6s 6h Kh )
+Wins: Poewriruf, chips: 100
+Wins: Tuwrer, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poewriruf
+Small Blind: Poewriruf, chips: 100
+Big Blind: Tuwrer, chips: 200
+Flop: 7s 6s 5c
+Turn: Js
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Poewriruf, 3s Kc
+Combination: Poewriruf, Flush ( Js 7s 6s 4s 3s )
+Shows: Tuwrer, 2c Qs
+Combination: Tuwrer, Flush ( Qs Js 7s 6s 4s )
+Wins: Tuwrer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwrer
+Small Blind: Tuwrer, chips: 100
+Big Blind: Poewriruf, chips: 200
+Folds: Tuwrer
+Pot size: 300
+Wins: Poewriruf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poewriruf
+Small Blind: Poewriruf, chips: 100
+Big Blind: Tuwrer, chips: 200
+Flop: 3d Js Jc
+Turn: Qd
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Poewriruf, Ts 2c
+Combination: Poewriruf, Pair ( Js Jc Kc Qd Ts )
+Shows: Tuwrer, 8s Ac
+Combination: Tuwrer, Pair ( Js Jc Ac Kc Qd )
+Wins: Tuwrer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwrer
+Small Blind: Tuwrer, chips: 100
+Big Blind: Poewriruf, chips: 200
+Folds: Tuwrer
+Pot size: 300
+Boasts: Poewriruf, Jd 7s
+Wins: Poewriruf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poewriruf
+Small Blind: Poewriruf, chips: 100
+Big Blind: Tuwrer, chips: 200
+Flop: 9d 9c 6h
+Turn: 3c
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Poewriruf, 3d Kd
+Combination: Poewriruf, Two Pair ( 9d 9c 3d 3c Kd )
+Shows: Tuwrer, Ts 7c
+Combination: Tuwrer, Pair ( 9d 9c Qs Ts 7c )
+Wins: Poewriruf, chips: 200
+Wins: Tuwrer, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwrer
+Small Blind: Tuwrer, chips: 100
+Big Blind: Poewriruf, chips: 200
+Flop: Kc Jd 6c
+Turn: 8h
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Poewriruf, As 9s
+Combination: Poewriruf, High Card ( As Kc Jd 9s 8h )
+Shows: Tuwrer, Qs 9h
+Combination: Tuwrer, High Card ( Kc Qs Jd 9h 8h )
+Wins: Poewriruf, chips: 300
+Quits: Tuwrer, chips: 0
+Ranking: Poewriruf, Place: 1, Score: 1000
+Reveal AI: Poewriruf, AI: Random
+Ranking: Tuwrer, Place: 2, Score: -1000
+Reveal AI: Tuwrer, AI: AIMyBot1
+
+Player Stats for Poewriruf, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+
+Player Stats for Tuwrer, AI: AIMyBot1
+General: deals: 15, actions: 9, preflop actions: 9
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Date: 2022/10/25 13:46:15
+
+The game begins. The AI's of the players are: 
+Poewriruf: Random
+Tuwrer: AIMyBot1
+
+Joins: Poewriruf, chips: 1000
+Joins: Tuwrer, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwrer
+Small Blind: Tuwrer, chips: 100
+Big Blind: Poewriruf, chips: 200
+Folds: Tuwrer
+Pot size: 300
+Boasts: Poewriruf, Jc 2d
+Wins: Poewriruf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poewriruf
+Small Blind: Poewriruf, chips: 100
+Big Blind: Tuwrer, chips: 200
+Calls: Poewriruf
+DEBUG MESSAGE: INVALID ACTION FROM Tuwrer (2 0)
+Folds: Tuwrer
+Pot size: 400
+Wins: Poewriruf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwrer
+Small Blind: Tuwrer, chips: 100
+Big Blind: Poewriruf, chips: 200
+Folds: Tuwrer
+Pot size: 300
+Wins: Poewriruf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poewriruf
+Small Blind: Poewriruf, chips: 100
+Big Blind: Tuwrer, chips: 200
+Folds: Poewriruf
+Pot size: 300
+Wins: Tuwrer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwrer
+Small Blind: Tuwrer, chips: 100
+Big Blind: Poewriruf, chips: 200
+Folds: Tuwrer
+Pot size: 300
+Boasts: Poewriruf, Kd 5c
+Wins: Poewriruf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poewriruf
+Small Blind: Poewriruf, chips: 100
+Big Blind: Tuwrer, chips: 200
+Calls: Poewriruf
+DEBUG MESSAGE: INVALID ACTION FROM Tuwrer (2 0)
+Folds: Tuwrer
+Pot size: 400
+Wins: Poewriruf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwrer
+Small Blind: Tuwrer, chips: 100
+Big Blind: Poewriruf, chips: 200
+Folds: Tuwrer
+Pot size: 300
+Boasts: Poewriruf, 4s 4d
+Wins: Poewriruf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poewriruf
+Small Blind: Poewriruf, chips: 100
+Big Blind: Tuwrer, chips: 200
+Calls: Poewriruf
+DEBUG MESSAGE: INVALID ACTION FROM Tuwrer (2 0)
+Folds: Tuwrer
+Pot size: 400
+Wins: Poewriruf, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwrer
+Small Blind: Tuwrer, chips: 100
+Big Blind: Poewriruf, chips: 200
+Flop: Jh 7s 7c
+Turn: 2s
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Poewriruf, 2d 5d
+Combination: Poewriruf, Two Pair ( 7s 7c 2d 2s Jh )
+Shows: Tuwrer, 6s Kh
+Combination: Tuwrer, Two Pair ( 7s 7c 6s 6h Kh )
+Wins: Poewriruf, chips: 100
+Wins: Tuwrer, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poewriruf
+Small Blind: Poewriruf, chips: 100
+Big Blind: Tuwrer, chips: 200
+Flop: 7s 6s 5c
+Turn: Js
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Poewriruf, 3s Kc
+Combination: Poewriruf, Flush ( Js 7s 6s 4s 3s )
+Shows: Tuwrer, 2c Qs
+Combination: Tuwrer, Flush ( Qs Js 7s 6s 4s )
+Wins: Tuwrer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwrer
+Small Blind: Tuwrer, chips: 100
+Big Blind: Poewriruf, chips: 200
+Folds: Tuwrer
+Pot size: 300
+Wins: Poewriruf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poewriruf
+Small Blind: Poewriruf, chips: 100
+Big Blind: Tuwrer, chips: 200
+Flop: 3d Js Jc
+Turn: Qd
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Poewriruf, Ts 2c
+Combination: Poewriruf, Pair ( Js Jc Kc Qd Ts )
+Shows: Tuwrer, 8s Ac
+Combination: Tuwrer, Pair ( Js Jc Ac Kc Qd )
+Wins: Tuwrer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwrer
+Small Blind: Tuwrer, chips: 100
+Big Blind: Poewriruf, chips: 200
+Folds: Tuwrer
+Pot size: 300
+Boasts: Poewriruf, Jd 7s
+Wins: Poewriruf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poewriruf
+Small Blind: Poewriruf, chips: 100
+Big Blind: Tuwrer, chips: 200
+Flop: 9d 9c 6h
+Turn: 3c
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Poewriruf, 3d Kd
+Combination: Poewriruf, Two Pair ( 9d 9c 3d 3c Kd )
+Shows: Tuwrer, Ts 7c
+Combination: Tuwrer, Pair ( 9d 9c Qs Ts 7c )
+Wins: Poewriruf, chips: 200
+Wins: Tuwrer, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tuwrer
+Small Blind: Tuwrer, chips: 100
+Big Blind: Poewriruf, chips: 200
+Flop: Kc Jd 6c
+Turn: 8h
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Poewriruf, As 9s
+Combination: Poewriruf, High Card ( As Kc Jd 9s 8h )
+Shows: Tuwrer, Qs 9h
+Combination: Tuwrer, High Card ( Kc Qs Jd 9h 8h )
+Wins: Poewriruf, chips: 300
+Quits: Tuwrer, chips: 0
+Ranking: Poewriruf, Place: 1, Score: 1000
+Reveal AI: Poewriruf, AI: Random
+Ranking: Tuwrer, Place: 2, Score: -1000
+Reveal AI: Tuwrer, AI: AIMyBot1
+
+Player Stats for Poewriruf, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+
+Player Stats for Tuwrer, AI: AIMyBot1
+General: deals: 15, actions: 9, preflop actions: 9
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+

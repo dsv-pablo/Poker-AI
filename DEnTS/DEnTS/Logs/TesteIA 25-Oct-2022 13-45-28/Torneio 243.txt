@@ -1,0 +1,432 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Liboenhi: Random
+Tinufep: AIMyBot1
+
+Joins: Liboenhi, chips: 1000
+Joins: Tinufep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tinufep
+Small Blind: Tinufep, chips: 100
+Big Blind: Liboenhi, chips: 200
+Folds: Tinufep
+Pot size: 300
+Wins: Liboenhi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liboenhi
+Small Blind: Liboenhi, chips: 100
+Big Blind: Tinufep, chips: 200
+Calls: Liboenhi
+DEBUG MESSAGE: INVALID ACTION FROM Tinufep (2 0)
+Folds: Tinufep
+Pot size: 400
+Boasts: Liboenhi, Js 4d
+Wins: Liboenhi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tinufep
+Small Blind: Tinufep, chips: 100
+Big Blind: Liboenhi, chips: 200
+Folds: Tinufep
+Pot size: 300
+Wins: Liboenhi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liboenhi
+Small Blind: Liboenhi, chips: 100
+Big Blind: Tinufep, chips: 200
+Calls: Liboenhi
+DEBUG MESSAGE: INVALID ACTION FROM Tinufep (2 0)
+Folds: Tinufep
+Pot size: 400
+Boasts: Liboenhi, 3s 2c
+Wins: Liboenhi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tinufep
+Small Blind: Tinufep, chips: 100
+Big Blind: Liboenhi, chips: 200
+Folds: Tinufep
+Pot size: 300
+Boasts: Liboenhi, 5h 2s
+Wins: Liboenhi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liboenhi
+Small Blind: Liboenhi, chips: 100
+Big Blind: Tinufep, chips: 200
+Folds: Liboenhi
+Pot size: 300
+Wins: Tinufep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tinufep
+Small Blind: Tinufep, chips: 100
+Big Blind: Liboenhi, chips: 200
+Folds: Tinufep
+Pot size: 300
+Wins: Liboenhi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liboenhi
+Small Blind: Liboenhi, chips: 100
+Big Blind: Tinufep, chips: 200
+Raises: Liboenhi, chips: 300
+Folds: Tinufep
+Pot size: 700
+Wins: Liboenhi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tinufep
+Small Blind: Tinufep, chips: 100
+Big Blind: Liboenhi, chips: 200
+Flop: Ah Jc Jh
+Turn: 7c
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Liboenhi, 2c 2s
+Combination: Liboenhi, Two Pair ( Jc Jh 2c 2s Ah )
+Shows: Tinufep, 4d 4c
+Combination: Tinufep, Two Pair ( Jc Jh 4d 4c Ah )
+Wins: Liboenhi, chips: 100
+Wins: Tinufep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liboenhi
+Small Blind: Liboenhi, chips: 100
+Big Blind: Tinufep, chips: 200
+Flop: 8d 9h Jc
+Turn: 8c
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Liboenhi, 7d As
+Combination: Liboenhi, Two Pair ( As Ah 8d 8c Jc )
+Shows: Tinufep, 7h Kh
+Combination: Tinufep, Pair ( 8d 8c Ah Kh Jc )
+Wins: Liboenhi, chips: 200
+Wins: Tinufep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tinufep
+Small Blind: Tinufep, chips: 100
+Big Blind: Liboenhi, chips: 200
+Flop: 3d 5s 5d
+Turn: 9c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Liboenhi, Th Ah
+Combination: Liboenhi, Pair ( 5s 5d Ah Th 9c )
+Shows: Tinufep, Ks 9d
+Combination: Tinufep, Two Pair ( 9d 9c 5s 5d Ks )
+Wins: Liboenhi, chips: 100
+Wins: Tinufep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liboenhi
+Small Blind: Liboenhi, chips: 100
+Big Blind: Tinufep, chips: 200
+Flop: Kc Jh Th
+Turn: Qd
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Liboenhi, 8s 5s
+Combination: Liboenhi, High Card ( Kc Qd Jh Th 8s )
+Shows: Tinufep, 6h 5c
+Combination: Tinufep, High Card ( Kc Qd Jh Th 6h )
+Wins: Liboenhi, chips: 200
+Wins: Tinufep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tinufep
+Small Blind: Tinufep, chips: 100
+Big Blind: Liboenhi, chips: 200
+Flop: 4d 6h 3h
+Turn: 9d
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Liboenhi, Th 5s
+Combination: Liboenhi, Pair ( Th Ts 9d 6h 5s )
+Shows: Tinufep, 7d Td
+Combination: Tinufep, Pair ( Td Ts 9d 7d 6h )
+Wins: Liboenhi, chips: 100
+Wins: Tinufep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liboenhi
+Small Blind: Liboenhi, chips: 100
+Big Blind: Tinufep, chips: 200
+Flop: 7d 4c Kc
+Turn: 5d
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Liboenhi, Td Th
+Combination: Liboenhi, Two Pair ( Td Th 5d 5h Kc )
+Shows: Tinufep, 8s Tc
+Combination: Tinufep, Pair ( 5d 5h Kc Tc 8s )
+Wins: Liboenhi, chips: 200
+Wins: Tinufep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tinufep
+Small Blind: Tinufep, chips: 100
+Big Blind: Liboenhi, chips: 200
+Flop: 9h 6h Ad
+Turn: Ks
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Liboenhi, Kh 3d
+Combination: Liboenhi, Two Pair ( Ad As Kh Ks 9h )
+Shows: Tinufep, Kc 2c
+Combination: Tinufep, Two Pair ( Ad As Kc Ks 9h )
+Wins: Liboenhi, chips: 200
+Wins: Tinufep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liboenhi
+Small Blind: Liboenhi, chips: 100
+Big Blind: Tinufep, chips: 100
+Flop: Ts 9c 4c
+Turn: 4h
+River: Js
+Pot size: 200
+Showdown Reached
+Shows: Liboenhi, Jd 8c
+Combination: Liboenhi, Two Pair ( Jd Js 4c 4h Ts )
+Shows: Tinufep, 3s Th
+Combination: Tinufep, Two Pair ( Th Ts 4c 4h Js )
+Wins: Liboenhi, chips: 200
+Quits: Tinufep, chips: 0
+Ranking: Liboenhi, Place: 1, Score: 1000
+Reveal AI: Liboenhi, AI: Random
+Ranking: Tinufep, Place: 2, Score: -1000
+Reveal AI: Tinufep, AI: AIMyBot1
+
+Player Stats for Liboenhi, AI: Random
+General: deals: 16, actions: 4, preflop actions: 4
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 15, showdown: 8, bluff: 7
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.1875, PFR: 0.0625, 3Bet: 0.0625
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Tinufep, AI: AIMyBot1
+General: deals: 16, actions: 7, preflop actions: 7
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 8, showdown: 7, bluff: 1
+Chips: won: 1300, lost: 2300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Date: 2022/10/25 13:45:45
+
+The game begins. The AI's of the players are: 
+Liboenhi: Random
+Tinufep: AIMyBot1
+
+Joins: Liboenhi, chips: 1000
+Joins: Tinufep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tinufep
+Small Blind: Tinufep, chips: 100
+Big Blind: Liboenhi, chips: 200
+Folds: Tinufep
+Pot size: 300
+Wins: Liboenhi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liboenhi
+Small Blind: Liboenhi, chips: 100
+Big Blind: Tinufep, chips: 200
+Calls: Liboenhi
+DEBUG MESSAGE: INVALID ACTION FROM Tinufep (2 0)
+Folds: Tinufep
+Pot size: 400
+Boasts: Liboenhi, Js 4d
+Wins: Liboenhi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tinufep
+Small Blind: Tinufep, chips: 100
+Big Blind: Liboenhi, chips: 200
+Folds: Tinufep
+Pot size: 300
+Wins: Liboenhi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liboenhi
+Small Blind: Liboenhi, chips: 100
+Big Blind: Tinufep, chips: 200
+Calls: Liboenhi
+DEBUG MESSAGE: INVALID ACTION FROM Tinufep (2 0)
+Folds: Tinufep
+Pot size: 400
+Boasts: Liboenhi, 3s 2c
+Wins: Liboenhi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tinufep
+Small Blind: Tinufep, chips: 100
+Big Blind: Liboenhi, chips: 200
+Folds: Tinufep
+Pot size: 300
+Boasts: Liboenhi, 5h 2s
+Wins: Liboenhi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liboenhi
+Small Blind: Liboenhi, chips: 100
+Big Blind: Tinufep, chips: 200
+Folds: Liboenhi
+Pot size: 300
+Wins: Tinufep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tinufep
+Small Blind: Tinufep, chips: 100
+Big Blind: Liboenhi, chips: 200
+Folds: Tinufep
+Pot size: 300
+Wins: Liboenhi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liboenhi
+Small Blind: Liboenhi, chips: 100
+Big Blind: Tinufep, chips: 200
+Raises: Liboenhi, chips: 300
+Folds: Tinufep
+Pot size: 700
+Wins: Liboenhi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tinufep
+Small Blind: Tinufep, chips: 100
+Big Blind: Liboenhi, chips: 200
+Flop: Ah Jc Jh
+Turn: 7c
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Liboenhi, 2c 2s
+Combination: Liboenhi, Two Pair ( Jc Jh 2c 2s Ah )
+Shows: Tinufep, 4d 4c
+Combination: Tinufep, Two Pair ( Jc Jh 4d 4c Ah )
+Wins: Liboenhi, chips: 100
+Wins: Tinufep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liboenhi
+Small Blind: Liboenhi, chips: 100
+Big Blind: Tinufep, chips: 200
+Flop: 8d 9h Jc
+Turn: 8c
+River: Ah
+Pot size: 300
+Showdown Reached
+Shows: Liboenhi, 7d As
+Combination: Liboenhi, Two Pair ( As Ah 8d 8c Jc )
+Shows: Tinufep, 7h Kh
+Combination: Tinufep, Pair ( 8d 8c Ah Kh Jc )
+Wins: Liboenhi, chips: 200
+Wins: Tinufep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tinufep
+Small Blind: Tinufep, chips: 100
+Big Blind: Liboenhi, chips: 200
+Flop: 3d 5s 5d
+Turn: 9c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Liboenhi, Th Ah
+Combination: Liboenhi, Pair ( 5s 5d Ah Th 9c )
+Shows: Tinufep, Ks 9d
+Combination: Tinufep, Two Pair ( 9d 9c 5s 5d Ks )
+Wins: Liboenhi, chips: 100
+Wins: Tinufep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liboenhi
+Small Blind: Liboenhi, chips: 100
+Big Blind: Tinufep, chips: 200
+Flop: Kc Jh Th
+Turn: Qd
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Liboenhi, 8s 5s
+Combination: Liboenhi, High Card ( Kc Qd Jh Th 8s )
+Shows: Tinufep, 6h 5c
+Combination: Tinufep, High Card ( Kc Qd Jh Th 6h )
+Wins: Liboenhi, chips: 200
+Wins: Tinufep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tinufep
+Small Blind: Tinufep, chips: 100
+Big Blind: Liboenhi, chips: 200
+Flop: 4d 6h 3h
+Turn: 9d
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Liboenhi, Th 5s
+Combination: Liboenhi, Pair ( Th Ts 9d 6h 5s )
+Shows: Tinufep, 7d Td
+Combination: Tinufep, Pair ( Td Ts 9d 7d 6h )
+Wins: Liboenhi, chips: 100
+Wins: Tinufep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liboenhi
+Small Blind: Liboenhi, chips: 100
+Big Blind: Tinufep, chips: 200
+Flop: 7d 4c Kc
+Turn: 5d
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Liboenhi, Td Th
+Combination: Liboenhi, Two Pair ( Td Th 5d 5h Kc )
+Shows: Tinufep, 8s Tc
+Combination: Tinufep, Pair ( 5d 5h Kc Tc 8s )
+Wins: Liboenhi, chips: 200
+Wins: Tinufep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tinufep
+Small Blind: Tinufep, chips: 100
+Big Blind: Liboenhi, chips: 200
+Flop: 9h 6h Ad
+Turn: Ks
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Liboenhi, Kh 3d
+Combination: Liboenhi, Two Pair ( Ad As Kh Ks 9h )
+Shows: Tinufep, Kc 2c
+Combination: Tinufep, Two Pair ( Ad As Kc Ks 9h )
+Wins: Liboenhi, chips: 200
+Wins: Tinufep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Liboenhi
+Small Blind: Liboenhi, chips: 100
+Big Blind: Tinufep, chips: 100
+Flop: Ts 9c 4c
+Turn: 4h
+River: Js
+Pot size: 200
+Showdown Reached
+Shows: Liboenhi, Jd 8c
+Combination: Liboenhi, Two Pair ( Jd Js 4c 4h Ts )
+Shows: Tinufep, 3s Th
+Combination: Tinufep, Two Pair ( Th Ts 4c 4h Js )
+Wins: Liboenhi, chips: 200
+Quits: Tinufep, chips: 0
+Ranking: Liboenhi, Place: 1, Score: 1000
+Reveal AI: Liboenhi, AI: Random
+Ranking: Tinufep, Place: 2, Score: -1000
+Reveal AI: Tinufep, AI: AIMyBot1
+
+Player Stats for Liboenhi, AI: Random
+General: deals: 16, actions: 4, preflop actions: 4
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 15, showdown: 8, bluff: 7
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.1875, PFR: 0.0625, 3Bet: 0.0625
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Tinufep, AI: AIMyBot1
+General: deals: 16, actions: 7, preflop actions: 7
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 8, showdown: 7, bluff: 1
+Chips: won: 1300, lost: 2300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+

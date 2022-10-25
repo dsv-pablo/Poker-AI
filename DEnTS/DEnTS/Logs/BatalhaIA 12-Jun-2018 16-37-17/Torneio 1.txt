@@ -1,0 +1,1048 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hoeveel: AIMyBot7
+Roepeechis: AIMyBot6
+Gahucheenny: AIMyBot2
+Boekoefee: AIMyBot3
+Binho: AIMyBot5
+Weku: AIMyBot4
+Koemifee: AIMyBot1
+
+Joins: Hoeveel, chips: 1000
+Joins: Roepeechis, chips: 1000
+Joins: Gahucheenny, chips: 1000
+Joins: Boekoefee, chips: 1000
+Joins: Binho, chips: 1000
+Joins: Weku, chips: 1000
+Joins: Koemifee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeveel
+Small Blind: Roepeechis, chips: 100
+Big Blind: Gahucheenny, chips: 200
+Folds: Boekoefee
+Calls: Binho
+Folds: Weku
+Calls: Koemifee
+Folds: Hoeveel
+Folds: Roepeechis
+Raises: Gahucheenny, chips: 334
+Calls: Binho
+Folds: Koemifee
+Flop: 8h Ac 6c
+Raises: Gahucheenny, chips: 334
+Calls: Binho
+Turn: 5s
+Raises: Gahucheenny, chips: 132
+Calls: Binho
+River: 3c
+Pot size: 2300
+Showdown Reached
+Shows: Gahucheenny, Ah 5c
+Combination: Gahucheenny, Two Pair ( Ah Ac 5c 5s 8h )
+Shows: Binho, Tc Js
+Combination: Binho, High Card ( Ac Js Tc 8h 6c )
+Wins: Gahucheenny, chips: 2300
+Quits: Binho, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roepeechis
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Boekoefee, chips: 200
+Folds: Weku
+Calls: Koemifee
+Folds: Hoeveel
+Folds: Roepeechis
+Raises: Gahucheenny, chips: 234
+Folds: Boekoefee
+Calls: Koemifee
+Flop: 4h 8h 4d
+Raises: Gahucheenny, chips: 334
+Folds: Koemifee
+Pot size: 1402
+Wins: Gahucheenny, chips: 1402
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Boekoefee, chips: 100
+Big Blind: Weku, chips: 200
+Calls: Koemifee
+Folds: Hoeveel
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Boekoefee
+Checks: Weku
+Flop: 9s 3s Qh
+Checks: Weku
+Checks: Koemifee
+Raises: Gahucheenny, chips: 334
+Folds: Weku
+Folds: Koemifee
+Pot size: 1034
+Wins: Gahucheenny, chips: 1034
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boekoefee
+Small Blind: Weku, chips: 100
+Big Blind: Koemifee, chips: 166
+Folds: Hoeveel
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Boekoefee
+Raises: Weku, chips: 634
+Folds: Gahucheenny
+Flop: Th 9s 8h
+Turn: 3d
+River: Ts
+Pot size: 1132
+Showdown Reached
+Shows: Weku, 8d 6c
+Combination: Weku, Two Pair ( Th Ts 8d 8h 9s )
+Shows: Koemifee, 2c 4c
+Combination: Koemifee, Pair ( Th Ts 9s 8h 4c )
+Wins: Weku, chips: 1132
+Quits: Koemifee, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weku
+Small Blind: Hoeveel, chips: 100
+Big Blind: Roepeechis, chips: 200
+Calls: Gahucheenny
+Folds: Boekoefee
+Folds: Weku
+Folds: Hoeveel
+Checks: Roepeechis
+Flop: 6s 3d Jc
+Checks: Roepeechis
+Raises: Gahucheenny, chips: 334
+Folds: Roepeechis
+Pot size: 834
+Wins: Gahucheenny, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeveel
+Small Blind: Roepeechis, chips: 100
+Big Blind: Gahucheenny, chips: 200
+Folds: Boekoefee
+Folds: Weku
+Folds: Hoeveel
+Folds: Roepeechis
+Pot size: 300
+Wins: Gahucheenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roepeechis
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Boekoefee, chips: 200
+Folds: Weku
+Folds: Hoeveel
+Folds: Roepeechis
+Raises: Gahucheenny, chips: 234
+Folds: Boekoefee
+Pot size: 634
+Wins: Gahucheenny, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Boekoefee, chips: 100
+Big Blind: Weku, chips: 200
+Folds: Hoeveel
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Boekoefee
+Checks: Weku
+Flop: 5c Js 3s
+Checks: Weku
+Raises: Gahucheenny, chips: 334
+Folds: Weku
+Pot size: 834
+Wins: Gahucheenny, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boekoefee
+Small Blind: Weku, chips: 100
+Big Blind: Hoeveel, chips: 200
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Boekoefee
+Folds: Weku
+DEBUG MESSAGE: INVALID ACTION FROM Hoeveel (2 0)
+Folds: Hoeveel
+Pot size: 500
+Wins: Gahucheenny, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weku
+Small Blind: Hoeveel, chips: 100
+Big Blind: Roepeechis, chips: 200
+Calls: Gahucheenny
+Folds: Boekoefee
+Folds: Weku
+Folds: Hoeveel
+Checks: Roepeechis
+Flop: 2d Tc 3c
+Checks: Roepeechis
+Raises: Gahucheenny, chips: 334
+Folds: Roepeechis
+Pot size: 834
+Wins: Gahucheenny, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeveel
+Small Blind: Roepeechis, chips: 100
+Big Blind: Gahucheenny, chips: 200
+Folds: Boekoefee
+Folds: Weku
+Folds: Hoeveel
+Folds: Roepeechis
+Pot size: 300
+Wins: Gahucheenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roepeechis
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Boekoefee, chips: 200
+Folds: Weku
+Folds: Hoeveel
+Folds: Roepeechis
+Raises: Gahucheenny, chips: 234
+Folds: Boekoefee
+Pot size: 634
+Wins: Gahucheenny, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Boekoefee, chips: 100
+Big Blind: Weku, chips: 200
+Folds: Hoeveel
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Boekoefee
+Raises: Weku, chips: 632
+Folds: Gahucheenny
+Pot size: 1132
+Wins: Weku, chips: 1132
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boekoefee
+Small Blind: Weku, chips: 100
+Big Blind: Hoeveel, chips: 200
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Boekoefee
+Folds: Weku
+DEBUG MESSAGE: INVALID ACTION FROM Hoeveel (2 0)
+Folds: Hoeveel
+Pot size: 500
+Wins: Gahucheenny, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weku
+Small Blind: Hoeveel, chips: 100
+Big Blind: Roepeechis, chips: 200
+Calls: Gahucheenny
+Folds: Boekoefee
+Folds: Weku
+Folds: Hoeveel
+Checks: Roepeechis
+Flop: Qd Qc Qh
+Checks: Roepeechis
+Raises: Gahucheenny, chips: 334
+Folds: Roepeechis
+Pot size: 834
+Wins: Gahucheenny, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeveel
+Small Blind: Roepeechis, chips: 100
+Big Blind: Gahucheenny, chips: 200
+Folds: Boekoefee
+Folds: Weku
+Folds: Hoeveel
+Raises: Gahucheenny, chips: 334
+Flop: Ts Jc 9h
+Turn: Ks
+River: 3c
+Pot size: 634
+Showdown Reached
+Shows: Roepeechis, Tc 2c
+Combination: Roepeechis, Pair ( Tc Ts Ks Jc 9h )
+Shows: Gahucheenny, 3h 2h
+Combination: Gahucheenny, Pair ( 3h 3c Ks Jc Ts )
+Wins: Roepeechis, chips: 200
+Wins: Gahucheenny, chips: 434
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roepeechis
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Boekoefee, chips: 100
+Folds: Weku
+Folds: Hoeveel
+Folds: Roepeechis
+Raises: Gahucheenny, chips: 334
+Flop: 7c Kd 9c
+Turn: 4c
+River: 9s
+Pot size: 534
+Showdown Reached
+Shows: Gahucheenny, Td 6d
+Combination: Gahucheenny, Pair ( 9c 9s Kd Td 7c )
+Shows: Boekoefee, Ac Ts
+Combination: Boekoefee, Pair ( 9c 9s Ac Kd Ts )
+Wins: Gahucheenny, chips: 334
+Wins: Boekoefee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Boekoefee, chips: 100
+Big Blind: Weku, chips: 200
+Folds: Hoeveel
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Boekoefee
+Checks: Weku
+Flop: 8d 7d Qd
+Checks: Weku
+Raises: Gahucheenny, chips: 334
+Folds: Weku
+Pot size: 834
+Wins: Gahucheenny, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boekoefee
+Small Blind: Weku, chips: 100
+Big Blind: Hoeveel, chips: 200
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Boekoefee
+Folds: Weku
+DEBUG MESSAGE: INVALID ACTION FROM Hoeveel (2 0)
+Folds: Hoeveel
+Pot size: 500
+Wins: Gahucheenny, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weku
+Small Blind: Hoeveel, chips: 100
+Big Blind: Roepeechis, chips: 200
+Calls: Gahucheenny
+Folds: Boekoefee
+Folds: Weku
+Flop: Js As 3c
+Turn: Qc
+River: Qh
+Pot size: 500
+Showdown Reached
+Shows: Hoeveel, Qs 2c
+Combination: Hoeveel, Three Of A Kind ( Qs Qc Qh As Js )
+Shows: Roepeechis, 6h Kd
+Combination: Roepeechis, Pair ( Qc Qh As Kd Js )
+Shows: Gahucheenny, Tc 8h
+Combination: Gahucheenny, Pair ( Qc Qh As Js Tc )
+Wins: Hoeveel, chips: 300
+Wins: Roepeechis, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeveel
+Small Blind: Roepeechis, chips: 100
+Big Blind: Gahucheenny, chips: 200
+Folds: Boekoefee
+Raises: Weku, chips: 532
+Folds: Hoeveel
+Folds: Roepeechis
+Folds: Gahucheenny
+Pot size: 1032
+Wins: Weku, chips: 1032
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roepeechis
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Boekoefee, chips: 100
+Folds: Weku
+Folds: Hoeveel
+Folds: Roepeechis
+Raises: Gahucheenny, chips: 334
+Flop: 2h 3h 7d
+Turn: Ac
+River: Js
+Pot size: 534
+Showdown Reached
+Shows: Gahucheenny, 3d 3c
+Combination: Gahucheenny, Three Of A Kind ( 3d 3c 3h Ac Js )
+Shows: Boekoefee, 8d 5s
+Combination: Boekoefee, High Card ( Ac Js 8d 7d 5s )
+Wins: Gahucheenny, chips: 534
+Quits: Boekoefee, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Weku, chips: 100
+Big Blind: Hoeveel, chips: 200
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Weku
+DEBUG MESSAGE: INVALID ACTION FROM Hoeveel (2 0)
+Folds: Hoeveel
+Pot size: 500
+Wins: Gahucheenny, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weku
+Small Blind: Hoeveel, chips: 100
+Big Blind: Roepeechis, chips: 100
+Raises: Gahucheenny, chips: 234
+Folds: Weku
+Flop: Qc Ts 2d
+Turn: 2s
+River: 6c
+Pot size: 534
+Showdown Reached
+Shows: Hoeveel, Kc 5c
+Combination: Hoeveel, Pair ( 2d 2s Kc Qc Ts )
+Shows: Roepeechis, 9d Jd
+Combination: Roepeechis, Pair ( 2d 2s Qc Jd Ts )
+Shows: Gahucheenny, Ad 6d
+Combination: Gahucheenny, Two Pair ( 6d 6c 2d 2s Ad )
+Wins: Gahucheenny, chips: 534
+Quits: Hoeveel, chips: 0
+Quits: Roepeechis, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Weku, chips: 200
+Raises: Gahucheenny, chips: 234
+Folds: Weku
+Pot size: 634
+Wins: Gahucheenny, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weku
+Small Blind: Weku, chips: 100
+Big Blind: Gahucheenny, chips: 200
+Folds: Weku
+Pot size: 300
+Wins: Gahucheenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Weku, chips: 200
+Raises: Gahucheenny, chips: 234
+Folds: Weku
+Pot size: 634
+Wins: Gahucheenny, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weku
+Small Blind: Weku, chips: 100
+Big Blind: Gahucheenny, chips: 200
+Folds: Weku
+Pot size: 300
+Wins: Gahucheenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Weku, chips: 200
+Raises: Gahucheenny, chips: 234
+Folds: Weku
+Pot size: 634
+Wins: Gahucheenny, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weku
+Small Blind: Weku, chips: 100
+Big Blind: Gahucheenny, chips: 200
+Folds: Weku
+Pot size: 300
+Wins: Gahucheenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Weku, chips: 32
+Flop: 6h Ac 7d
+Turn: Qc
+River: 4d
+Pot size: 132
+Showdown Reached
+Shows: Gahucheenny, 4h 9s
+Combination: Gahucheenny, Pair ( 4h 4d Ac Qc 9s )
+Shows: Weku, 8h 3s
+Combination: Weku, High Card ( Ac Qc 8h 7d 6h )
+Wins: Gahucheenny, chips: 132
+Quits: Weku, chips: 0
+Ranking: Gahucheenny, Place: 1, Score: 6000
+Reveal AI: Gahucheenny, AI: AIMyBot2
+Ranking: Weku, Place: 2, Score: -1000
+Reveal AI: Weku, AI: AIMyBot4
+Ranking: Roepeechis, Place: 3, Score: -1000
+Reveal AI: Roepeechis, AI: AIMyBot6
+Ranking: Hoeveel, Place: 4, Score: -1000
+Reveal AI: Hoeveel, AI: AIMyBot7
+Ranking: Boekoefee, Place: 5, Score: -1000
+Reveal AI: Boekoefee, AI: AIMyBot3
+Ranking: Koemifee, Place: 6, Score: -1000
+Reveal AI: Koemifee, AI: AIMyBot1
+Ranking: Binho, Place: 7, Score: -1000
+Reveal AI: Binho, AI: AIMyBot5
+
+Player Stats for Binho, AI: AIMyBot5
+General: deals: 1, actions: 4, preflop actions: 2
+Rounds Seen: flops: 15, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.533333, WSDW: 0
+
+
+Player Stats for Boekoefee, AI: AIMyBot3
+General: deals: 22, actions: 20, preflop actions: 20
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.25
+
+
+Player Stats for Gahucheenny, AI: AIMyBot2
+General: deals: 31, actions: 36, preflop actions: 27
+Rounds Seen: flops: 14, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 27, showdown: 6, bluff: 21
+Chips: won: 17544, lost: 11544, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.774194, PFR: 0.354839, 3Bet: 0.225806
+Post-Flop Stats: AF: 1.#INF, WSD: 0.5, WSDW: 0.857143
+
+
+Player Stats for Hoeveel, AI: AIMyBot7
+General: deals: 24, actions: 22, preflop actions: 22
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Koemifee, AI: AIMyBot1
+General: deals: 4, actions: 8, preflop actions: 5
+Rounds Seen: flops: 14, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 166
+Pre-Flop Stats: VP$IP: 0.75, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.5, WSDW: 0
+
+
+Player Stats for Roepeechis, AI: AIMyBot6
+General: deals: 24, actions: 27, preflop actions: 21
+Rounds Seen: flops: 7, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.571429, WSDW: 0.5
+
+
+Player Stats for Weku, AI: AIMyBot4
+General: deals: 31, actions: 36, preflop actions: 30
+Rounds Seen: flops: 5, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 3296, lost: 4296, bought: 1000, forced bets: 2232
+Pre-Flop Stats: VP$IP: 0.0967742, PFR: 0.0967742, 3Bet: 0.0645161
+Post-Flop Stats: AF: -1.#IND, WSD: 0.4, WSDW: 0.5
+
+
+Date: 2018/06/12 16:37:17
+
+The game begins. The AI's of the players are: 
+Hoeveel: AIMyBot7
+Roepeechis: AIMyBot6
+Gahucheenny: AIMyBot2
+Boekoefee: AIMyBot3
+Binho: AIMyBot5
+Weku: AIMyBot4
+Koemifee: AIMyBot1
+
+Joins: Hoeveel, chips: 1000
+Joins: Roepeechis, chips: 1000
+Joins: Gahucheenny, chips: 1000
+Joins: Boekoefee, chips: 1000
+Joins: Binho, chips: 1000
+Joins: Weku, chips: 1000
+Joins: Koemifee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeveel
+Small Blind: Roepeechis, chips: 100
+Big Blind: Gahucheenny, chips: 200
+Folds: Boekoefee
+Calls: Binho
+Folds: Weku
+Calls: Koemifee
+Folds: Hoeveel
+Folds: Roepeechis
+Raises: Gahucheenny, chips: 334
+Calls: Binho
+Folds: Koemifee
+Flop: 8h Ac 6c
+Raises: Gahucheenny, chips: 334
+Calls: Binho
+Turn: 5s
+Raises: Gahucheenny, chips: 132
+Calls: Binho
+River: 3c
+Pot size: 2300
+Showdown Reached
+Shows: Gahucheenny, Ah 5c
+Combination: Gahucheenny, Two Pair ( Ah Ac 5c 5s 8h )
+Shows: Binho, Tc Js
+Combination: Binho, High Card ( Ac Js Tc 8h 6c )
+Wins: Gahucheenny, chips: 2300
+Quits: Binho, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roepeechis
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Boekoefee, chips: 200
+Folds: Weku
+Calls: Koemifee
+Folds: Hoeveel
+Folds: Roepeechis
+Raises: Gahucheenny, chips: 234
+Folds: Boekoefee
+Calls: Koemifee
+Flop: 4h 8h 4d
+Raises: Gahucheenny, chips: 334
+Folds: Koemifee
+Pot size: 1402
+Wins: Gahucheenny, chips: 1402
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Boekoefee, chips: 100
+Big Blind: Weku, chips: 200
+Calls: Koemifee
+Folds: Hoeveel
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Boekoefee
+Checks: Weku
+Flop: 9s 3s Qh
+Checks: Weku
+Checks: Koemifee
+Raises: Gahucheenny, chips: 334
+Folds: Weku
+Folds: Koemifee
+Pot size: 1034
+Wins: Gahucheenny, chips: 1034
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boekoefee
+Small Blind: Weku, chips: 100
+Big Blind: Koemifee, chips: 166
+Folds: Hoeveel
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Boekoefee
+Raises: Weku, chips: 634
+Folds: Gahucheenny
+Flop: Th 9s 8h
+Turn: 3d
+River: Ts
+Pot size: 1132
+Showdown Reached
+Shows: Weku, 8d 6c
+Combination: Weku, Two Pair ( Th Ts 8d 8h 9s )
+Shows: Koemifee, 2c 4c
+Combination: Koemifee, Pair ( Th Ts 9s 8h 4c )
+Wins: Weku, chips: 1132
+Quits: Koemifee, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weku
+Small Blind: Hoeveel, chips: 100
+Big Blind: Roepeechis, chips: 200
+Calls: Gahucheenny
+Folds: Boekoefee
+Folds: Weku
+Folds: Hoeveel
+Checks: Roepeechis
+Flop: 6s 3d Jc
+Checks: Roepeechis
+Raises: Gahucheenny, chips: 334
+Folds: Roepeechis
+Pot size: 834
+Wins: Gahucheenny, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeveel
+Small Blind: Roepeechis, chips: 100
+Big Blind: Gahucheenny, chips: 200
+Folds: Boekoefee
+Folds: Weku
+Folds: Hoeveel
+Folds: Roepeechis
+Pot size: 300
+Wins: Gahucheenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roepeechis
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Boekoefee, chips: 200
+Folds: Weku
+Folds: Hoeveel
+Folds: Roepeechis
+Raises: Gahucheenny, chips: 234
+Folds: Boekoefee
+Pot size: 634
+Wins: Gahucheenny, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Boekoefee, chips: 100
+Big Blind: Weku, chips: 200
+Folds: Hoeveel
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Boekoefee
+Checks: Weku
+Flop: 5c Js 3s
+Checks: Weku
+Raises: Gahucheenny, chips: 334
+Folds: Weku
+Pot size: 834
+Wins: Gahucheenny, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boekoefee
+Small Blind: Weku, chips: 100
+Big Blind: Hoeveel, chips: 200
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Boekoefee
+Folds: Weku
+DEBUG MESSAGE: INVALID ACTION FROM Hoeveel (2 0)
+Folds: Hoeveel
+Pot size: 500
+Wins: Gahucheenny, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weku
+Small Blind: Hoeveel, chips: 100
+Big Blind: Roepeechis, chips: 200
+Calls: Gahucheenny
+Folds: Boekoefee
+Folds: Weku
+Folds: Hoeveel
+Checks: Roepeechis
+Flop: 2d Tc 3c
+Checks: Roepeechis
+Raises: Gahucheenny, chips: 334
+Folds: Roepeechis
+Pot size: 834
+Wins: Gahucheenny, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeveel
+Small Blind: Roepeechis, chips: 100
+Big Blind: Gahucheenny, chips: 200
+Folds: Boekoefee
+Folds: Weku
+Folds: Hoeveel
+Folds: Roepeechis
+Pot size: 300
+Wins: Gahucheenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roepeechis
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Boekoefee, chips: 200
+Folds: Weku
+Folds: Hoeveel
+Folds: Roepeechis
+Raises: Gahucheenny, chips: 234
+Folds: Boekoefee
+Pot size: 634
+Wins: Gahucheenny, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Boekoefee, chips: 100
+Big Blind: Weku, chips: 200
+Folds: Hoeveel
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Boekoefee
+Raises: Weku, chips: 632
+Folds: Gahucheenny
+Pot size: 1132
+Wins: Weku, chips: 1132
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boekoefee
+Small Blind: Weku, chips: 100
+Big Blind: Hoeveel, chips: 200
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Boekoefee
+Folds: Weku
+DEBUG MESSAGE: INVALID ACTION FROM Hoeveel (2 0)
+Folds: Hoeveel
+Pot size: 500
+Wins: Gahucheenny, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weku
+Small Blind: Hoeveel, chips: 100
+Big Blind: Roepeechis, chips: 200
+Calls: Gahucheenny
+Folds: Boekoefee
+Folds: Weku
+Folds: Hoeveel
+Checks: Roepeechis
+Flop: Qd Qc Qh
+Checks: Roepeechis
+Raises: Gahucheenny, chips: 334
+Folds: Roepeechis
+Pot size: 834
+Wins: Gahucheenny, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeveel
+Small Blind: Roepeechis, chips: 100
+Big Blind: Gahucheenny, chips: 200
+Folds: Boekoefee
+Folds: Weku
+Folds: Hoeveel
+Raises: Gahucheenny, chips: 334
+Flop: Ts Jc 9h
+Turn: Ks
+River: 3c
+Pot size: 634
+Showdown Reached
+Shows: Roepeechis, Tc 2c
+Combination: Roepeechis, Pair ( Tc Ts Ks Jc 9h )
+Shows: Gahucheenny, 3h 2h
+Combination: Gahucheenny, Pair ( 3h 3c Ks Jc Ts )
+Wins: Roepeechis, chips: 200
+Wins: Gahucheenny, chips: 434
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roepeechis
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Boekoefee, chips: 100
+Folds: Weku
+Folds: Hoeveel
+Folds: Roepeechis
+Raises: Gahucheenny, chips: 334
+Flop: 7c Kd 9c
+Turn: 4c
+River: 9s
+Pot size: 534
+Showdown Reached
+Shows: Gahucheenny, Td 6d
+Combination: Gahucheenny, Pair ( 9c 9s Kd Td 7c )
+Shows: Boekoefee, Ac Ts
+Combination: Boekoefee, Pair ( 9c 9s Ac Kd Ts )
+Wins: Gahucheenny, chips: 334
+Wins: Boekoefee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Boekoefee, chips: 100
+Big Blind: Weku, chips: 200
+Folds: Hoeveel
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Boekoefee
+Checks: Weku
+Flop: 8d 7d Qd
+Checks: Weku
+Raises: Gahucheenny, chips: 334
+Folds: Weku
+Pot size: 834
+Wins: Gahucheenny, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boekoefee
+Small Blind: Weku, chips: 100
+Big Blind: Hoeveel, chips: 200
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Boekoefee
+Folds: Weku
+DEBUG MESSAGE: INVALID ACTION FROM Hoeveel (2 0)
+Folds: Hoeveel
+Pot size: 500
+Wins: Gahucheenny, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weku
+Small Blind: Hoeveel, chips: 100
+Big Blind: Roepeechis, chips: 200
+Calls: Gahucheenny
+Folds: Boekoefee
+Folds: Weku
+Flop: Js As 3c
+Turn: Qc
+River: Qh
+Pot size: 500
+Showdown Reached
+Shows: Hoeveel, Qs 2c
+Combination: Hoeveel, Three Of A Kind ( Qs Qc Qh As Js )
+Shows: Roepeechis, 6h Kd
+Combination: Roepeechis, Pair ( Qc Qh As Kd Js )
+Shows: Gahucheenny, Tc 8h
+Combination: Gahucheenny, Pair ( Qc Qh As Js Tc )
+Wins: Hoeveel, chips: 300
+Wins: Roepeechis, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoeveel
+Small Blind: Roepeechis, chips: 100
+Big Blind: Gahucheenny, chips: 200
+Folds: Boekoefee
+Raises: Weku, chips: 532
+Folds: Hoeveel
+Folds: Roepeechis
+Folds: Gahucheenny
+Pot size: 1032
+Wins: Weku, chips: 1032
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roepeechis
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Boekoefee, chips: 100
+Folds: Weku
+Folds: Hoeveel
+Folds: Roepeechis
+Raises: Gahucheenny, chips: 334
+Flop: 2h 3h 7d
+Turn: Ac
+River: Js
+Pot size: 534
+Showdown Reached
+Shows: Gahucheenny, 3d 3c
+Combination: Gahucheenny, Three Of A Kind ( 3d 3c 3h Ac Js )
+Shows: Boekoefee, 8d 5s
+Combination: Boekoefee, High Card ( Ac Js 8d 7d 5s )
+Wins: Gahucheenny, chips: 534
+Quits: Boekoefee, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Weku, chips: 100
+Big Blind: Hoeveel, chips: 200
+Folds: Roepeechis
+Calls: Gahucheenny
+Folds: Weku
+DEBUG MESSAGE: INVALID ACTION FROM Hoeveel (2 0)
+Folds: Hoeveel
+Pot size: 500
+Wins: Gahucheenny, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weku
+Small Blind: Hoeveel, chips: 100
+Big Blind: Roepeechis, chips: 100
+Raises: Gahucheenny, chips: 234
+Folds: Weku
+Flop: Qc Ts 2d
+Turn: 2s
+River: 6c
+Pot size: 534
+Showdown Reached
+Shows: Hoeveel, Kc 5c
+Combination: Hoeveel, Pair ( 2d 2s Kc Qc Ts )
+Shows: Roepeechis, 9d Jd
+Combination: Roepeechis, Pair ( 2d 2s Qc Jd Ts )
+Shows: Gahucheenny, Ad 6d
+Combination: Gahucheenny, Two Pair ( 6d 6c 2d 2s Ad )
+Wins: Gahucheenny, chips: 534
+Quits: Hoeveel, chips: 0
+Quits: Roepeechis, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Weku, chips: 200
+Raises: Gahucheenny, chips: 234
+Folds: Weku
+Pot size: 634
+Wins: Gahucheenny, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weku
+Small Blind: Weku, chips: 100
+Big Blind: Gahucheenny, chips: 200
+Folds: Weku
+Pot size: 300
+Wins: Gahucheenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Weku, chips: 200
+Raises: Gahucheenny, chips: 234
+Folds: Weku
+Pot size: 634
+Wins: Gahucheenny, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weku
+Small Blind: Weku, chips: 100
+Big Blind: Gahucheenny, chips: 200
+Folds: Weku
+Pot size: 300
+Wins: Gahucheenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Weku, chips: 200
+Raises: Gahucheenny, chips: 234
+Folds: Weku
+Pot size: 634
+Wins: Gahucheenny, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Weku
+Small Blind: Weku, chips: 100
+Big Blind: Gahucheenny, chips: 200
+Folds: Weku
+Pot size: 300
+Wins: Gahucheenny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gahucheenny
+Small Blind: Gahucheenny, chips: 100
+Big Blind: Weku, chips: 32
+Flop: 6h Ac 7d
+Turn: Qc
+River: 4d
+Pot size: 132
+Showdown Reached
+Shows: Gahucheenny, 4h 9s
+Combination: Gahucheenny, Pair ( 4h 4d Ac Qc 9s )
+Shows: Weku, 8h 3s
+Combination: Weku, High Card ( Ac Qc 8h 7d 6h )
+Wins: Gahucheenny, chips: 132
+Quits: Weku, chips: 0
+Ranking: Gahucheenny, Place: 1, Score: 6000
+Reveal AI: Gahucheenny, AI: AIMyBot2
+Ranking: Weku, Place: 2, Score: -1000
+Reveal AI: Weku, AI: AIMyBot4
+Ranking: Roepeechis, Place: 3, Score: -1000
+Reveal AI: Roepeechis, AI: AIMyBot6
+Ranking: Hoeveel, Place: 4, Score: -1000
+Reveal AI: Hoeveel, AI: AIMyBot7
+Ranking: Boekoefee, Place: 5, Score: -1000
+Reveal AI: Boekoefee, AI: AIMyBot3
+Ranking: Koemifee, Place: 6, Score: -1000
+Reveal AI: Koemifee, AI: AIMyBot1
+Ranking: Binho, Place: 7, Score: -1000
+Reveal AI: Binho, AI: AIMyBot5
+
+Player Stats for Binho, AI: AIMyBot5
+General: deals: 1, actions: 4, preflop actions: 2
+Rounds Seen: flops: 15, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.533333, WSDW: 0
+
+
+Player Stats for Boekoefee, AI: AIMyBot3
+General: deals: 22, actions: 20, preflop actions: 20
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.25
+
+
+Player Stats for Gahucheenny, AI: AIMyBot2
+General: deals: 31, actions: 36, preflop actions: 27
+Rounds Seen: flops: 14, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 27, showdown: 6, bluff: 21
+Chips: won: 17544, lost: 11544, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.774194, PFR: 0.354839, 3Bet: 0.225806
+Post-Flop Stats: AF: 1.#INF, WSD: 0.5, WSDW: 0.857143
+
+
+Player Stats for Hoeveel, AI: AIMyBot7
+General: deals: 24, actions: 22, preflop actions: 22
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Koemifee, AI: AIMyBot1
+General: deals: 4, actions: 8, preflop actions: 5
+Rounds Seen: flops: 14, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 166
+Pre-Flop Stats: VP$IP: 0.75, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.5, WSDW: 0
+
+
+Player Stats for Roepeechis, AI: AIMyBot6
+General: deals: 24, actions: 27, preflop actions: 21
+Rounds Seen: flops: 7, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.571429, WSDW: 0.5
+
+
+Player Stats for Weku, AI: AIMyBot4
+General: deals: 31, actions: 36, preflop actions: 30
+Rounds Seen: flops: 5, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 3296, lost: 4296, bought: 1000, forced bets: 2232
+Pre-Flop Stats: VP$IP: 0.0967742, PFR: 0.0967742, 3Bet: 0.0645161
+Post-Flop Stats: AF: -1.#IND, WSD: 0.4, WSDW: 0.5
+
+

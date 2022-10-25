@@ -1,0 +1,256 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Fa: Random
+Boegeechot: AIMyBot1
+
+Joins: Fa, chips: 1000
+Joins: Boegeechot, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Boegeechot, chips: 200
+Folds: Fa
+Pot size: 300
+Boasts: Fa, 5d 9c
+Wins: Boegeechot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boegeechot
+Small Blind: Boegeechot, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Boegeechot
+Pot size: 300
+Boasts: Fa, 2h 5d
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Boegeechot, chips: 200
+Folds: Fa
+Pot size: 300
+Boasts: Fa, 4h Td
+Wins: Boegeechot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boegeechot
+Small Blind: Boegeechot, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Boegeechot
+Pot size: 300
+Boasts: Fa, Tc Kc
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Boegeechot, chips: 200
+Raises: Fa, chips: 300
+Folds: Boegeechot
+Pot size: 700
+Wins: Fa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boegeechot
+Small Blind: Boegeechot, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Boegeechot
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Boegeechot, chips: 200
+Calls: Fa
+DEBUG MESSAGE: INVALID ACTION FROM Boegeechot (2 0)
+Folds: Boegeechot
+Pot size: 400
+Wins: Fa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boegeechot
+Small Blind: Boegeechot, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Boegeechot
+Pot size: 300
+Boasts: Fa, Ah 5h
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Boegeechot, chips: 200
+Calls: Fa
+DEBUG MESSAGE: INVALID ACTION FROM Boegeechot (2 0)
+Folds: Boegeechot
+Pot size: 400
+Wins: Fa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boegeechot
+Small Blind: Boegeechot, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Boegeechot
+Pot size: 300
+Boasts: Fa, Kd 5s
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Boegeechot, chips: 100
+Flop: 4d 2d 6s
+Turn: 6h
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Fa, Ts Qd
+Combination: Fa, Pair ( 6s 6h Qd Ts 8s )
+Shows: Boegeechot, Js 3h
+Combination: Boegeechot, Pair ( 6s 6h Js 8s 4d )
+Wins: Fa, chips: 200
+Quits: Boegeechot, chips: 0
+Ranking: Fa, Place: 1, Score: 1000
+Reveal AI: Fa, AI: Random
+Ranking: Boegeechot, Place: 2, Score: -1000
+Reveal AI: Boegeechot, AI: AIMyBot1
+
+Player Stats for Boegeechot, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Fa, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:17
+
+The game begins. The AI's of the players are: 
+Fa: Random
+Boegeechot: AIMyBot1
+
+Joins: Fa, chips: 1000
+Joins: Boegeechot, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Boegeechot, chips: 200
+Folds: Fa
+Pot size: 300
+Boasts: Fa, 5d 9c
+Wins: Boegeechot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boegeechot
+Small Blind: Boegeechot, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Boegeechot
+Pot size: 300
+Boasts: Fa, 2h 5d
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Boegeechot, chips: 200
+Folds: Fa
+Pot size: 300
+Boasts: Fa, 4h Td
+Wins: Boegeechot, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boegeechot
+Small Blind: Boegeechot, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Boegeechot
+Pot size: 300
+Boasts: Fa, Tc Kc
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Boegeechot, chips: 200
+Raises: Fa, chips: 300
+Folds: Boegeechot
+Pot size: 700
+Wins: Fa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boegeechot
+Small Blind: Boegeechot, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Boegeechot
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Boegeechot, chips: 200
+Calls: Fa
+DEBUG MESSAGE: INVALID ACTION FROM Boegeechot (2 0)
+Folds: Boegeechot
+Pot size: 400
+Wins: Fa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boegeechot
+Small Blind: Boegeechot, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Boegeechot
+Pot size: 300
+Boasts: Fa, Ah 5h
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Boegeechot, chips: 200
+Calls: Fa
+DEBUG MESSAGE: INVALID ACTION FROM Boegeechot (2 0)
+Folds: Boegeechot
+Pot size: 400
+Wins: Fa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Boegeechot
+Small Blind: Boegeechot, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Boegeechot
+Pot size: 300
+Boasts: Fa, Kd 5s
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Boegeechot, chips: 100
+Flop: 4d 2d 6s
+Turn: 6h
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Fa, Ts Qd
+Combination: Fa, Pair ( 6s 6h Qd Ts 8s )
+Shows: Boegeechot, Js 3h
+Combination: Boegeechot, Pair ( 6s 6h Js 8s 4d )
+Wins: Fa, chips: 200
+Quits: Boegeechot, chips: 0
+Ranking: Fa, Place: 1, Score: 1000
+Reveal AI: Fa, AI: Random
+Ranking: Boegeechot, Place: 2, Score: -1000
+Reveal AI: Boegeechot, AI: AIMyBot1
+
+Player Stats for Boegeechot, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Fa, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

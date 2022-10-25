@@ -1,0 +1,354 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Lore: Random
+Lettuv: AIMyBot1
+
+Joins: Lore, chips: 1000
+Joins: Lettuv, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lettuv
+Small Blind: Lettuv, chips: 100
+Big Blind: Lore, chips: 200
+Folds: Lettuv
+Pot size: 300
+Wins: Lore, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lore
+Small Blind: Lore, chips: 100
+Big Blind: Lettuv, chips: 200
+Calls: Lore
+DEBUG MESSAGE: INVALID ACTION FROM Lettuv (2 0)
+Folds: Lettuv
+Pot size: 400
+Wins: Lore, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lettuv
+Small Blind: Lettuv, chips: 100
+Big Blind: Lore, chips: 200
+Folds: Lettuv
+Pot size: 300
+Boasts: Lore, Th 2d
+Wins: Lore, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lore
+Small Blind: Lore, chips: 100
+Big Blind: Lettuv, chips: 200
+Calls: Lore
+DEBUG MESSAGE: INVALID ACTION FROM Lettuv (2 0)
+Folds: Lettuv
+Pot size: 400
+Wins: Lore, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lettuv
+Small Blind: Lettuv, chips: 100
+Big Blind: Lore, chips: 200
+Folds: Lettuv
+Pot size: 300
+Wins: Lore, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lore
+Small Blind: Lore, chips: 100
+Big Blind: Lettuv, chips: 200
+Raises: Lore, chips: 300
+Folds: Lettuv
+Pot size: 700
+Wins: Lore, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lettuv
+Small Blind: Lettuv, chips: 100
+Big Blind: Lore, chips: 200
+Flop: 5d 7c Ks
+Turn: Qs
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Lore, Td Th
+Combination: Lore, Pair ( Td Th Ks Qs 7c )
+Shows: Lettuv, Qc 3d
+Combination: Lettuv, Pair ( Qc Qs Ks 7c 6c )
+Wins: Lore, chips: 100
+Wins: Lettuv, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lore
+Small Blind: Lore, chips: 100
+Big Blind: Lettuv, chips: 200
+Flop: Jc Js Ad
+Turn: 7d
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Lore, 4s Th
+Combination: Lore, Pair ( Jc Js Ad Th 7d )
+Shows: Lettuv, 4d Qd
+Combination: Lettuv, Flush ( Ad Qd 7d 4d 2d )
+Wins: Lettuv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lettuv
+Small Blind: Lettuv, chips: 100
+Big Blind: Lore, chips: 200
+Folds: Lettuv
+Pot size: 300
+Boasts: Lore, 7s Qh
+Wins: Lore, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lore
+Small Blind: Lore, chips: 100
+Big Blind: Lettuv, chips: 200
+Flop: Kh 3s Qc
+Turn: As
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Lore, Qs 4c
+Combination: Lore, Two Pair ( Qs Qc 3s 3d As )
+Shows: Lettuv, 7h 2s
+Combination: Lettuv, Pair ( 3s 3d As Kh Qc )
+Wins: Lore, chips: 200
+Wins: Lettuv, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lettuv
+Small Blind: Lettuv, chips: 100
+Big Blind: Lore, chips: 200
+Flop: 5d 9c 9s
+Turn: 7h
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Lore, 4d Qd
+Combination: Lore, Pair ( 9c 9s Qd Jh 7h )
+Shows: Lettuv, 3s 5h
+Combination: Lettuv, Two Pair ( 9c 9s 5h 5d Jh )
+Wins: Lore, chips: 100
+Wins: Lettuv, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lore
+Small Blind: Lore, chips: 100
+Big Blind: Lettuv, chips: 200
+Flop: 9h 6d Kh
+Turn: Ad
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Lore, Jc 5c
+Combination: Lore, Pair ( 5c 5d Ad Kh Jc )
+Shows: Lettuv, 3c Td
+Combination: Lettuv, High Card ( Ad Kh Td 9h 6d )
+Wins: Lore, chips: 200
+Wins: Lettuv, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lettuv
+Small Blind: Lettuv, chips: 100
+Big Blind: Lore, chips: 200
+Flop: Qh 2h 3s
+Turn: 6h
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Lore, Jh Kc
+Combination: Lore, High Card ( Kc Qh Jh Tc 6h )
+Shows: Lettuv, 9h Jc
+Combination: Lettuv, High Card ( Qh Jc Tc 9h 6h )
+Wins: Lore, chips: 300
+Quits: Lettuv, chips: 0
+Ranking: Lore, Place: 1, Score: 1000
+Reveal AI: Lore, AI: Random
+Ranking: Lettuv, Place: 2, Score: -1000
+Reveal AI: Lettuv, AI: AIMyBot1
+
+Player Stats for Lettuv, AI: AIMyBot1
+General: deals: 13, actions: 7, preflop actions: 7
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Lore, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 5, bluff: 7
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:45:51
+
+The game begins. The AI's of the players are: 
+Lore: Random
+Lettuv: AIMyBot1
+
+Joins: Lore, chips: 1000
+Joins: Lettuv, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lettuv
+Small Blind: Lettuv, chips: 100
+Big Blind: Lore, chips: 200
+Folds: Lettuv
+Pot size: 300
+Wins: Lore, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lore
+Small Blind: Lore, chips: 100
+Big Blind: Lettuv, chips: 200
+Calls: Lore
+DEBUG MESSAGE: INVALID ACTION FROM Lettuv (2 0)
+Folds: Lettuv
+Pot size: 400
+Wins: Lore, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lettuv
+Small Blind: Lettuv, chips: 100
+Big Blind: Lore, chips: 200
+Folds: Lettuv
+Pot size: 300
+Boasts: Lore, Th 2d
+Wins: Lore, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lore
+Small Blind: Lore, chips: 100
+Big Blind: Lettuv, chips: 200
+Calls: Lore
+DEBUG MESSAGE: INVALID ACTION FROM Lettuv (2 0)
+Folds: Lettuv
+Pot size: 400
+Wins: Lore, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lettuv
+Small Blind: Lettuv, chips: 100
+Big Blind: Lore, chips: 200
+Folds: Lettuv
+Pot size: 300
+Wins: Lore, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lore
+Small Blind: Lore, chips: 100
+Big Blind: Lettuv, chips: 200
+Raises: Lore, chips: 300
+Folds: Lettuv
+Pot size: 700
+Wins: Lore, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lettuv
+Small Blind: Lettuv, chips: 100
+Big Blind: Lore, chips: 200
+Flop: 5d 7c Ks
+Turn: Qs
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Lore, Td Th
+Combination: Lore, Pair ( Td Th Ks Qs 7c )
+Shows: Lettuv, Qc 3d
+Combination: Lettuv, Pair ( Qc Qs Ks 7c 6c )
+Wins: Lore, chips: 100
+Wins: Lettuv, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lore
+Small Blind: Lore, chips: 100
+Big Blind: Lettuv, chips: 200
+Flop: Jc Js Ad
+Turn: 7d
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Lore, 4s Th
+Combination: Lore, Pair ( Jc Js Ad Th 7d )
+Shows: Lettuv, 4d Qd
+Combination: Lettuv, Flush ( Ad Qd 7d 4d 2d )
+Wins: Lettuv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lettuv
+Small Blind: Lettuv, chips: 100
+Big Blind: Lore, chips: 200
+Folds: Lettuv
+Pot size: 300
+Boasts: Lore, 7s Qh
+Wins: Lore, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lore
+Small Blind: Lore, chips: 100
+Big Blind: Lettuv, chips: 200
+Flop: Kh 3s Qc
+Turn: As
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Lore, Qs 4c
+Combination: Lore, Two Pair ( Qs Qc 3s 3d As )
+Shows: Lettuv, 7h 2s
+Combination: Lettuv, Pair ( 3s 3d As Kh Qc )
+Wins: Lore, chips: 200
+Wins: Lettuv, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lettuv
+Small Blind: Lettuv, chips: 100
+Big Blind: Lore, chips: 200
+Flop: 5d 9c 9s
+Turn: 7h
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Lore, 4d Qd
+Combination: Lore, Pair ( 9c 9s Qd Jh 7h )
+Shows: Lettuv, 3s 5h
+Combination: Lettuv, Two Pair ( 9c 9s 5h 5d Jh )
+Wins: Lore, chips: 100
+Wins: Lettuv, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lore
+Small Blind: Lore, chips: 100
+Big Blind: Lettuv, chips: 200
+Flop: 9h 6d Kh
+Turn: Ad
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Lore, Jc 5c
+Combination: Lore, Pair ( 5c 5d Ad Kh Jc )
+Shows: Lettuv, 3c Td
+Combination: Lettuv, High Card ( Ad Kh Td 9h 6d )
+Wins: Lore, chips: 200
+Wins: Lettuv, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lettuv
+Small Blind: Lettuv, chips: 100
+Big Blind: Lore, chips: 200
+Flop: Qh 2h 3s
+Turn: 6h
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Lore, Jh Kc
+Combination: Lore, High Card ( Kc Qh Jh Tc 6h )
+Shows: Lettuv, 9h Jc
+Combination: Lettuv, High Card ( Qh Jc Tc 9h 6h )
+Wins: Lore, chips: 300
+Quits: Lettuv, chips: 0
+Ranking: Lore, Place: 1, Score: 1000
+Reveal AI: Lore, AI: Random
+Ranking: Lettuv, Place: 2, Score: -1000
+Reveal AI: Lettuv, AI: AIMyBot1
+
+Player Stats for Lettuv, AI: AIMyBot1
+General: deals: 13, actions: 7, preflop actions: 7
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Lore, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 5, bluff: 7
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

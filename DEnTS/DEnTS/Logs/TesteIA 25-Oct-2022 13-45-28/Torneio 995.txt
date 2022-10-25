@@ -1,0 +1,186 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Noerameef: AIMyBot1
+Foewi: Random
+
+Joins: Noerameef, chips: 1000
+Joins: Foewi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noerameef
+Small Blind: Noerameef, chips: 100
+Big Blind: Foewi, chips: 200
+Folds: Noerameef
+Pot size: 300
+Boasts: Foewi, Td Ts
+Wins: Foewi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foewi
+Small Blind: Foewi, chips: 100
+Big Blind: Noerameef, chips: 200
+Calls: Foewi
+DEBUG MESSAGE: INVALID ACTION FROM Noerameef (2 0)
+Folds: Noerameef
+Pot size: 400
+Boasts: Foewi, 6d Kh
+Wins: Foewi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noerameef
+Small Blind: Noerameef, chips: 100
+Big Blind: Foewi, chips: 200
+Folds: Noerameef
+Pot size: 300
+Boasts: Foewi, 7h 6d
+Wins: Foewi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foewi
+Small Blind: Foewi, chips: 100
+Big Blind: Noerameef, chips: 200
+Calls: Foewi
+DEBUG MESSAGE: INVALID ACTION FROM Noerameef (2 0)
+Folds: Noerameef
+Pot size: 400
+Boasts: Foewi, 4d 5c
+Wins: Foewi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noerameef
+Small Blind: Noerameef, chips: 100
+Big Blind: Foewi, chips: 200
+Folds: Noerameef
+Pot size: 300
+Boasts: Foewi, 8d Kc
+Wins: Foewi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foewi
+Small Blind: Foewi, chips: 100
+Big Blind: Noerameef, chips: 200
+Raises: Foewi, chips: 300
+Calls: Noerameef
+Flop: Qd 6d Kd
+Turn: 9s
+River: 4d
+Pot size: 800
+Showdown Reached
+Shows: Noerameef, Ah 6s
+Combination: Noerameef, Pair ( 6s 6d Ah Kd Qd )
+Shows: Foewi, Kc 3d
+Combination: Foewi, Flush ( Kd Qd 6d 4d 3d )
+Wins: Foewi, chips: 800
+Quits: Noerameef, chips: 0
+Ranking: Foewi, Place: 1, Score: 1000
+Reveal AI: Foewi, AI: Random
+Ranking: Noerameef, Place: 2, Score: -1000
+Reveal AI: Noerameef, AI: AIMyBot1
+
+Player Stats for Foewi, AI: Random
+General: deals: 6, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 1, bluff: 5
+Chips: won: 2500, lost: 1500, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.166667, 3Bet: 0.166667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Noerameef, AI: AIMyBot1
+General: deals: 6, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1200, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:34
+
+The game begins. The AI's of the players are: 
+Noerameef: AIMyBot1
+Foewi: Random
+
+Joins: Noerameef, chips: 1000
+Joins: Foewi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noerameef
+Small Blind: Noerameef, chips: 100
+Big Blind: Foewi, chips: 200
+Folds: Noerameef
+Pot size: 300
+Boasts: Foewi, Td Ts
+Wins: Foewi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foewi
+Small Blind: Foewi, chips: 100
+Big Blind: Noerameef, chips: 200
+Calls: Foewi
+DEBUG MESSAGE: INVALID ACTION FROM Noerameef (2 0)
+Folds: Noerameef
+Pot size: 400
+Boasts: Foewi, 6d Kh
+Wins: Foewi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noerameef
+Small Blind: Noerameef, chips: 100
+Big Blind: Foewi, chips: 200
+Folds: Noerameef
+Pot size: 300
+Boasts: Foewi, 7h 6d
+Wins: Foewi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foewi
+Small Blind: Foewi, chips: 100
+Big Blind: Noerameef, chips: 200
+Calls: Foewi
+DEBUG MESSAGE: INVALID ACTION FROM Noerameef (2 0)
+Folds: Noerameef
+Pot size: 400
+Boasts: Foewi, 4d 5c
+Wins: Foewi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noerameef
+Small Blind: Noerameef, chips: 100
+Big Blind: Foewi, chips: 200
+Folds: Noerameef
+Pot size: 300
+Boasts: Foewi, 8d Kc
+Wins: Foewi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Foewi
+Small Blind: Foewi, chips: 100
+Big Blind: Noerameef, chips: 200
+Raises: Foewi, chips: 300
+Calls: Noerameef
+Flop: Qd 6d Kd
+Turn: 9s
+River: 4d
+Pot size: 800
+Showdown Reached
+Shows: Noerameef, Ah 6s
+Combination: Noerameef, Pair ( 6s 6d Ah Kd Qd )
+Shows: Foewi, Kc 3d
+Combination: Foewi, Flush ( Kd Qd 6d 4d 3d )
+Wins: Foewi, chips: 800
+Quits: Noerameef, chips: 0
+Ranking: Foewi, Place: 1, Score: 1000
+Reveal AI: Foewi, AI: Random
+Ranking: Noerameef, Place: 2, Score: -1000
+Reveal AI: Noerameef, AI: AIMyBot1
+
+Player Stats for Foewi, AI: Random
+General: deals: 6, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 1, bluff: 5
+Chips: won: 2500, lost: 1500, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.166667, 3Bet: 0.166667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Noerameef, AI: AIMyBot1
+General: deals: 6, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1200, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

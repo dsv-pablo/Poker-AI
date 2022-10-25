@@ -1,0 +1,304 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Penhefe: AIMyBot1
+Peediwrap: Random
+
+Joins: Penhefe, chips: 1000
+Joins: Peediwrap, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhefe
+Small Blind: Penhefe, chips: 100
+Big Blind: Peediwrap, chips: 200
+Folds: Penhefe
+Pot size: 300
+Boasts: Peediwrap, 5d Ah
+Wins: Peediwrap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peediwrap
+Small Blind: Peediwrap, chips: 100
+Big Blind: Penhefe, chips: 200
+Calls: Peediwrap
+DEBUG MESSAGE: INVALID ACTION FROM Penhefe (2 0)
+Folds: Penhefe
+Pot size: 400
+Boasts: Peediwrap, 6s Ks
+Wins: Peediwrap, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhefe
+Small Blind: Penhefe, chips: 100
+Big Blind: Peediwrap, chips: 200
+Folds: Penhefe
+Pot size: 300
+Boasts: Peediwrap, Ad 5h
+Wins: Peediwrap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peediwrap
+Small Blind: Peediwrap, chips: 100
+Big Blind: Penhefe, chips: 200
+Calls: Peediwrap
+DEBUG MESSAGE: INVALID ACTION FROM Penhefe (2 0)
+Folds: Penhefe
+Pot size: 400
+Boasts: Peediwrap, 5h Jc
+Wins: Peediwrap, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhefe
+Small Blind: Penhefe, chips: 100
+Big Blind: Peediwrap, chips: 200
+Folds: Penhefe
+Pot size: 300
+Boasts: Peediwrap, Td 8d
+Wins: Peediwrap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peediwrap
+Small Blind: Peediwrap, chips: 100
+Big Blind: Penhefe, chips: 200
+Calls: Peediwrap
+DEBUG MESSAGE: INVALID ACTION FROM Penhefe (2 0)
+Folds: Penhefe
+Pot size: 400
+Wins: Peediwrap, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhefe
+Small Blind: Penhefe, chips: 100
+Big Blind: Peediwrap, chips: 200
+Flop: 4h Qc 5c
+Turn: 8c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Penhefe, 2s Qs
+Combination: Penhefe, Two Pair ( Qs Qc 8c 8d 5c )
+Shows: Peediwrap, 2c 2d
+Combination: Peediwrap, Two Pair ( 8c 8d 2c 2d Qc )
+Wins: Penhefe, chips: 200
+Wins: Peediwrap, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peediwrap
+Small Blind: Peediwrap, chips: 100
+Big Blind: Penhefe, chips: 200
+Flop: 6c 2s Qs
+Turn: 7s
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Penhefe, 4c 7h
+Combination: Penhefe, Pair ( 7h 7s Kd Qs 6c )
+Shows: Peediwrap, 8d 4h
+Combination: Peediwrap, High Card ( Kd Qs 8d 7s 6c )
+Wins: Penhefe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhefe
+Small Blind: Penhefe, chips: 100
+Big Blind: Peediwrap, chips: 200
+Folds: Penhefe
+Pot size: 300
+Boasts: Peediwrap, 5h 3d
+Wins: Peediwrap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peediwrap
+Small Blind: Peediwrap, chips: 100
+Big Blind: Penhefe, chips: 200
+Flop: Kd Kc 4s
+Turn: 4h
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Penhefe, Qc 9d
+Combination: Penhefe, Two Pair ( Kd Kc 4s 4h Qc )
+Shows: Peediwrap, 2s Ac
+Combination: Peediwrap, Two Pair ( Kd Kc 4s 4h Ac )
+Wins: Penhefe, chips: 100
+Wins: Peediwrap, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhefe
+Small Blind: Penhefe, chips: 100
+Big Blind: Peediwrap, chips: 200
+Flop: Jd 6h Ac
+Turn: 4d
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Penhefe, Js Ks
+Combination: Penhefe, Two Pair ( Ks Kd Js Jd Ac )
+Shows: Peediwrap, 2d 7d
+Combination: Peediwrap, Flush ( Kd Jd 7d 4d 2d )
+Wins: Peediwrap, chips: 300
+Quits: Penhefe, chips: 0
+Ranking: Peediwrap, Place: 1, Score: 1000
+Reveal AI: Peediwrap, AI: Random
+Ranking: Penhefe, Place: 2, Score: -1000
+Reveal AI: Penhefe, AI: AIMyBot1
+
+Player Stats for Peediwrap, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Penhefe, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:20
+
+The game begins. The AI's of the players are: 
+Penhefe: AIMyBot1
+Peediwrap: Random
+
+Joins: Penhefe, chips: 1000
+Joins: Peediwrap, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhefe
+Small Blind: Penhefe, chips: 100
+Big Blind: Peediwrap, chips: 200
+Folds: Penhefe
+Pot size: 300
+Boasts: Peediwrap, 5d Ah
+Wins: Peediwrap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peediwrap
+Small Blind: Peediwrap, chips: 100
+Big Blind: Penhefe, chips: 200
+Calls: Peediwrap
+DEBUG MESSAGE: INVALID ACTION FROM Penhefe (2 0)
+Folds: Penhefe
+Pot size: 400
+Boasts: Peediwrap, 6s Ks
+Wins: Peediwrap, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhefe
+Small Blind: Penhefe, chips: 100
+Big Blind: Peediwrap, chips: 200
+Folds: Penhefe
+Pot size: 300
+Boasts: Peediwrap, Ad 5h
+Wins: Peediwrap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peediwrap
+Small Blind: Peediwrap, chips: 100
+Big Blind: Penhefe, chips: 200
+Calls: Peediwrap
+DEBUG MESSAGE: INVALID ACTION FROM Penhefe (2 0)
+Folds: Penhefe
+Pot size: 400
+Boasts: Peediwrap, 5h Jc
+Wins: Peediwrap, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhefe
+Small Blind: Penhefe, chips: 100
+Big Blind: Peediwrap, chips: 200
+Folds: Penhefe
+Pot size: 300
+Boasts: Peediwrap, Td 8d
+Wins: Peediwrap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peediwrap
+Small Blind: Peediwrap, chips: 100
+Big Blind: Penhefe, chips: 200
+Calls: Peediwrap
+DEBUG MESSAGE: INVALID ACTION FROM Penhefe (2 0)
+Folds: Penhefe
+Pot size: 400
+Wins: Peediwrap, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhefe
+Small Blind: Penhefe, chips: 100
+Big Blind: Peediwrap, chips: 200
+Flop: 4h Qc 5c
+Turn: 8c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Penhefe, 2s Qs
+Combination: Penhefe, Two Pair ( Qs Qc 8c 8d 5c )
+Shows: Peediwrap, 2c 2d
+Combination: Peediwrap, Two Pair ( 8c 8d 2c 2d Qc )
+Wins: Penhefe, chips: 200
+Wins: Peediwrap, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peediwrap
+Small Blind: Peediwrap, chips: 100
+Big Blind: Penhefe, chips: 200
+Flop: 6c 2s Qs
+Turn: 7s
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Penhefe, 4c 7h
+Combination: Penhefe, Pair ( 7h 7s Kd Qs 6c )
+Shows: Peediwrap, 8d 4h
+Combination: Peediwrap, High Card ( Kd Qs 8d 7s 6c )
+Wins: Penhefe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhefe
+Small Blind: Penhefe, chips: 100
+Big Blind: Peediwrap, chips: 200
+Folds: Penhefe
+Pot size: 300
+Boasts: Peediwrap, 5h 3d
+Wins: Peediwrap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peediwrap
+Small Blind: Peediwrap, chips: 100
+Big Blind: Penhefe, chips: 200
+Flop: Kd Kc 4s
+Turn: 4h
+River: 7c
+Pot size: 300
+Showdown Reached
+Shows: Penhefe, Qc 9d
+Combination: Penhefe, Two Pair ( Kd Kc 4s 4h Qc )
+Shows: Peediwrap, 2s Ac
+Combination: Peediwrap, Two Pair ( Kd Kc 4s 4h Ac )
+Wins: Penhefe, chips: 100
+Wins: Peediwrap, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penhefe
+Small Blind: Penhefe, chips: 100
+Big Blind: Peediwrap, chips: 200
+Flop: Jd 6h Ac
+Turn: 4d
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Penhefe, Js Ks
+Combination: Penhefe, Two Pair ( Ks Kd Js Jd Ac )
+Shows: Peediwrap, 2d 7d
+Combination: Peediwrap, Flush ( Kd Jd 7d 4d 2d )
+Wins: Peediwrap, chips: 300
+Quits: Penhefe, chips: 0
+Ranking: Peediwrap, Place: 1, Score: 1000
+Reveal AI: Peediwrap, AI: Random
+Ranking: Penhefe, Place: 2, Score: -1000
+Reveal AI: Penhefe, AI: AIMyBot1
+
+Player Stats for Peediwrap, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Penhefe, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

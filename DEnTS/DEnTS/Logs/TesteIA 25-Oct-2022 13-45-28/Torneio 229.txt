@@ -1,0 +1,398 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Huchisanny: AIMyBot1
+Fa: Random
+
+Joins: Huchisanny, chips: 1000
+Joins: Fa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchisanny
+Small Blind: Huchisanny, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Huchisanny
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Huchisanny, chips: 200
+Raises: Fa, chips: 300
+Folds: Huchisanny
+Pot size: 700
+Boasts: Fa, 7h As
+Wins: Fa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchisanny
+Small Blind: Huchisanny, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Huchisanny
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Huchisanny, chips: 200
+Calls: Fa
+DEBUG MESSAGE: INVALID ACTION FROM Huchisanny (2 0)
+Folds: Huchisanny
+Pot size: 400
+Boasts: Fa, 2c 4h
+Wins: Fa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchisanny
+Small Blind: Huchisanny, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Huchisanny
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Huchisanny, chips: 200
+Folds: Fa
+Pot size: 300
+Boasts: Fa, Qs 3c
+Wins: Huchisanny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchisanny
+Small Blind: Huchisanny, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Huchisanny
+Pot size: 300
+Boasts: Fa, Ad Jd
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Huchisanny, chips: 200
+Calls: Fa
+DEBUG MESSAGE: INVALID ACTION FROM Huchisanny (2 0)
+Folds: Huchisanny
+Pot size: 400
+Wins: Fa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchisanny
+Small Blind: Huchisanny, chips: 100
+Big Blind: Fa, chips: 200
+Flop: 8s Ks 7h
+Turn: Ac
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Huchisanny, 5c 5h
+Combination: Huchisanny, Pair ( 5c 5h Ac Ks 9d )
+Shows: Fa, 4d 5d
+Combination: Fa, High Card ( Ac Ks 9d 8s 7h )
+Wins: Huchisanny, chips: 200
+Wins: Fa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Huchisanny, chips: 200
+Flop: Td 2c Ac
+Turn: Qc
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Huchisanny, 7h 6c
+Combination: Huchisanny, Pair ( Td Th Ac Qc 7h )
+Shows: Fa, 3s 6h
+Combination: Fa, Pair ( Td Th Ac Qc 6h )
+Wins: Huchisanny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchisanny
+Small Blind: Huchisanny, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Huchisanny
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Huchisanny, chips: 200
+Flop: Jc 4h As
+Turn: Ac
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Huchisanny, 6c 9h
+Combination: Huchisanny, Pair ( As Ac Jc 9h 6c )
+Shows: Fa, 8h 8s
+Combination: Fa, Two Pair ( As Ac 8h 8s Jc )
+Wins: Huchisanny, chips: 100
+Wins: Fa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchisanny
+Small Blind: Huchisanny, chips: 100
+Big Blind: Fa, chips: 200
+Flop: 6d 8d 8h
+Turn: 6h
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Huchisanny, 4c 5s
+Combination: Huchisanny, Two Pair ( 8d 8h 6d 6h Kc )
+Shows: Fa, 9c 2c
+Combination: Fa, Two Pair ( 8d 8h 6d 6h Kc )
+Wins: Huchisanny, chips: 100
+Wins: Fa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Huchisanny, chips: 100
+Flop: Td Qs Jd
+Turn: Jc
+River: 8d
+Pot size: 200
+Showdown Reached
+Shows: Huchisanny, 3s Tc
+Combination: Huchisanny, Two Pair ( Jd Jc Tc Td Qs )
+Shows: Fa, 3d 3c
+Combination: Fa, Two Pair ( Jd Jc 3d 3c Qs )
+Wins: Huchisanny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchisanny
+Small Blind: Huchisanny, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Huchisanny
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Huchisanny, chips: 100
+Flop: Ad Ac 7s
+Turn: 9c
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Huchisanny, 2s Kh
+Combination: Huchisanny, Pair ( Ad Ac Kh 9c 7s )
+Shows: Fa, As Ah
+Combination: Fa, Four Of A Kind ( As Ah Ad Ac 9c )
+Wins: Fa, chips: 200
+Quits: Huchisanny, chips: 0
+Ranking: Fa, Place: 1, Score: 1000
+Reveal AI: Fa, AI: Random
+Ranking: Huchisanny, Place: 2, Score: -1000
+Reveal AI: Huchisanny, AI: AIMyBot1
+
+Player Stats for Fa, AI: Random
+General: deals: 16, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 4, bluff: 9
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.1875, PFR: 0.0625, 3Bet: 0.0625
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Huchisanny, AI: AIMyBot1
+General: deals: 16, actions: 9, preflop actions: 9
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:45:44
+
+The game begins. The AI's of the players are: 
+Huchisanny: AIMyBot1
+Fa: Random
+
+Joins: Huchisanny, chips: 1000
+Joins: Fa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchisanny
+Small Blind: Huchisanny, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Huchisanny
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Huchisanny, chips: 200
+Raises: Fa, chips: 300
+Folds: Huchisanny
+Pot size: 700
+Boasts: Fa, 7h As
+Wins: Fa, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchisanny
+Small Blind: Huchisanny, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Huchisanny
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Huchisanny, chips: 200
+Calls: Fa
+DEBUG MESSAGE: INVALID ACTION FROM Huchisanny (2 0)
+Folds: Huchisanny
+Pot size: 400
+Boasts: Fa, 2c 4h
+Wins: Fa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchisanny
+Small Blind: Huchisanny, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Huchisanny
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Huchisanny, chips: 200
+Folds: Fa
+Pot size: 300
+Boasts: Fa, Qs 3c
+Wins: Huchisanny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchisanny
+Small Blind: Huchisanny, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Huchisanny
+Pot size: 300
+Boasts: Fa, Ad Jd
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Huchisanny, chips: 200
+Calls: Fa
+DEBUG MESSAGE: INVALID ACTION FROM Huchisanny (2 0)
+Folds: Huchisanny
+Pot size: 400
+Wins: Fa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchisanny
+Small Blind: Huchisanny, chips: 100
+Big Blind: Fa, chips: 200
+Flop: 8s Ks 7h
+Turn: Ac
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Huchisanny, 5c 5h
+Combination: Huchisanny, Pair ( 5c 5h Ac Ks 9d )
+Shows: Fa, 4d 5d
+Combination: Fa, High Card ( Ac Ks 9d 8s 7h )
+Wins: Huchisanny, chips: 200
+Wins: Fa, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Huchisanny, chips: 200
+Flop: Td 2c Ac
+Turn: Qc
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Huchisanny, 7h 6c
+Combination: Huchisanny, Pair ( Td Th Ac Qc 7h )
+Shows: Fa, 3s 6h
+Combination: Fa, Pair ( Td Th Ac Qc 6h )
+Wins: Huchisanny, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchisanny
+Small Blind: Huchisanny, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Huchisanny
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Huchisanny, chips: 200
+Flop: Jc 4h As
+Turn: Ac
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Huchisanny, 6c 9h
+Combination: Huchisanny, Pair ( As Ac Jc 9h 6c )
+Shows: Fa, 8h 8s
+Combination: Fa, Two Pair ( As Ac 8h 8s Jc )
+Wins: Huchisanny, chips: 100
+Wins: Fa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchisanny
+Small Blind: Huchisanny, chips: 100
+Big Blind: Fa, chips: 200
+Flop: 6d 8d 8h
+Turn: 6h
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Huchisanny, 4c 5s
+Combination: Huchisanny, Two Pair ( 8d 8h 6d 6h Kc )
+Shows: Fa, 9c 2c
+Combination: Fa, Two Pair ( 8d 8h 6d 6h Kc )
+Wins: Huchisanny, chips: 100
+Wins: Fa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Huchisanny, chips: 100
+Flop: Td Qs Jd
+Turn: Jc
+River: 8d
+Pot size: 200
+Showdown Reached
+Shows: Huchisanny, 3s Tc
+Combination: Huchisanny, Two Pair ( Jd Jc Tc Td Qs )
+Shows: Fa, 3d 3c
+Combination: Fa, Two Pair ( Jd Jc 3d 3c Qs )
+Wins: Huchisanny, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchisanny
+Small Blind: Huchisanny, chips: 100
+Big Blind: Fa, chips: 200
+Folds: Huchisanny
+Pot size: 300
+Wins: Fa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fa
+Small Blind: Fa, chips: 100
+Big Blind: Huchisanny, chips: 100
+Flop: Ad Ac 7s
+Turn: 9c
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Huchisanny, 2s Kh
+Combination: Huchisanny, Pair ( Ad Ac Kh 9c 7s )
+Shows: Fa, As Ah
+Combination: Fa, Four Of A Kind ( As Ah Ad Ac 9c )
+Wins: Fa, chips: 200
+Quits: Huchisanny, chips: 0
+Ranking: Fa, Place: 1, Score: 1000
+Reveal AI: Fa, AI: Random
+Ranking: Huchisanny, Place: 2, Score: -1000
+Reveal AI: Huchisanny, AI: AIMyBot1
+
+Player Stats for Fa, AI: Random
+General: deals: 16, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 4, bluff: 9
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.1875, PFR: 0.0625, 3Bet: 0.0625
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Huchisanny, AI: AIMyBot1
+General: deals: 16, actions: 9, preflop actions: 9
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

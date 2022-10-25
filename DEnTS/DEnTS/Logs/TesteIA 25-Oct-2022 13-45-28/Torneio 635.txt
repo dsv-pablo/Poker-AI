@@ -1,0 +1,258 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Gawra: Random
+Pabe: AIMyBot1
+
+Joins: Gawra, chips: 1000
+Joins: Pabe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawra
+Small Blind: Gawra, chips: 100
+Big Blind: Pabe, chips: 200
+Calls: Gawra
+DEBUG MESSAGE: INVALID ACTION FROM Pabe (2 0)
+Folds: Pabe
+Pot size: 400
+Boasts: Gawra, Ts As
+Wins: Gawra, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pabe
+Small Blind: Pabe, chips: 100
+Big Blind: Gawra, chips: 200
+Folds: Pabe
+Pot size: 300
+Boasts: Gawra, Ts 4h
+Wins: Gawra, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawra
+Small Blind: Gawra, chips: 100
+Big Blind: Pabe, chips: 200
+Folds: Gawra
+Pot size: 300
+Boasts: Gawra, 2h Th
+Wins: Pabe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pabe
+Small Blind: Pabe, chips: 100
+Big Blind: Gawra, chips: 200
+Folds: Pabe
+Pot size: 300
+Boasts: Gawra, Qs Td
+Wins: Gawra, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawra
+Small Blind: Gawra, chips: 100
+Big Blind: Pabe, chips: 200
+Folds: Gawra
+Pot size: 300
+Boasts: Gawra, 9c 5c
+Wins: Pabe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pabe
+Small Blind: Pabe, chips: 100
+Big Blind: Gawra, chips: 200
+Folds: Pabe
+Pot size: 300
+Wins: Gawra, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawra
+Small Blind: Gawra, chips: 100
+Big Blind: Pabe, chips: 200
+Raises: Gawra, chips: 300
+Folds: Pabe
+Pot size: 700
+Wins: Gawra, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pabe
+Small Blind: Pabe, chips: 100
+Big Blind: Gawra, chips: 200
+Folds: Pabe
+Pot size: 300
+Wins: Gawra, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawra
+Small Blind: Gawra, chips: 100
+Big Blind: Pabe, chips: 200
+Calls: Gawra
+DEBUG MESSAGE: INVALID ACTION FROM Pabe (2 0)
+Folds: Pabe
+Pot size: 400
+Boasts: Gawra, Qh 8d
+Wins: Gawra, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pabe
+Small Blind: Pabe, chips: 100
+Big Blind: Gawra, chips: 200
+Folds: Pabe
+Pot size: 300
+Boasts: Gawra, Ts Qd
+Wins: Gawra, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawra
+Small Blind: Gawra, chips: 100
+Big Blind: Pabe, chips: 100
+Flop: 4s 9d 9c
+Turn: 5h
+River: 8d
+Pot size: 200
+Showdown Reached
+Shows: Gawra, Qs 8s
+Combination: Gawra, Two Pair ( 9d 9c 8s 8d Qs )
+Shows: Pabe, Qd 2d
+Combination: Pabe, Pair ( 9d 9c Qd 8d 5h )
+Wins: Gawra, chips: 200
+Quits: Pabe, chips: 0
+Ranking: Gawra, Place: 1, Score: 1000
+Reveal AI: Gawra, AI: Random
+Ranking: Pabe, Place: 2, Score: -1000
+Reveal AI: Pabe, AI: AIMyBot1
+
+Player Stats for Gawra, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Pabe, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:11
+
+The game begins. The AI's of the players are: 
+Gawra: Random
+Pabe: AIMyBot1
+
+Joins: Gawra, chips: 1000
+Joins: Pabe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawra
+Small Blind: Gawra, chips: 100
+Big Blind: Pabe, chips: 200
+Calls: Gawra
+DEBUG MESSAGE: INVALID ACTION FROM Pabe (2 0)
+Folds: Pabe
+Pot size: 400
+Boasts: Gawra, Ts As
+Wins: Gawra, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pabe
+Small Blind: Pabe, chips: 100
+Big Blind: Gawra, chips: 200
+Folds: Pabe
+Pot size: 300
+Boasts: Gawra, Ts 4h
+Wins: Gawra, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawra
+Small Blind: Gawra, chips: 100
+Big Blind: Pabe, chips: 200
+Folds: Gawra
+Pot size: 300
+Boasts: Gawra, 2h Th
+Wins: Pabe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pabe
+Small Blind: Pabe, chips: 100
+Big Blind: Gawra, chips: 200
+Folds: Pabe
+Pot size: 300
+Boasts: Gawra, Qs Td
+Wins: Gawra, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawra
+Small Blind: Gawra, chips: 100
+Big Blind: Pabe, chips: 200
+Folds: Gawra
+Pot size: 300
+Boasts: Gawra, 9c 5c
+Wins: Pabe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pabe
+Small Blind: Pabe, chips: 100
+Big Blind: Gawra, chips: 200
+Folds: Pabe
+Pot size: 300
+Wins: Gawra, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawra
+Small Blind: Gawra, chips: 100
+Big Blind: Pabe, chips: 200
+Raises: Gawra, chips: 300
+Folds: Pabe
+Pot size: 700
+Wins: Gawra, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pabe
+Small Blind: Pabe, chips: 100
+Big Blind: Gawra, chips: 200
+Folds: Pabe
+Pot size: 300
+Wins: Gawra, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawra
+Small Blind: Gawra, chips: 100
+Big Blind: Pabe, chips: 200
+Calls: Gawra
+DEBUG MESSAGE: INVALID ACTION FROM Pabe (2 0)
+Folds: Pabe
+Pot size: 400
+Boasts: Gawra, Qh 8d
+Wins: Gawra, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pabe
+Small Blind: Pabe, chips: 100
+Big Blind: Gawra, chips: 200
+Folds: Pabe
+Pot size: 300
+Boasts: Gawra, Ts Qd
+Wins: Gawra, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gawra
+Small Blind: Gawra, chips: 100
+Big Blind: Pabe, chips: 100
+Flop: 4s 9d 9c
+Turn: 5h
+River: 8d
+Pot size: 200
+Showdown Reached
+Shows: Gawra, Qs 8s
+Combination: Gawra, Two Pair ( 9d 9c 8s 8d Qs )
+Shows: Pabe, Qd 2d
+Combination: Pabe, Pair ( 9d 9c Qd 8d 5h )
+Wins: Gawra, chips: 200
+Quits: Pabe, chips: 0
+Ranking: Gawra, Place: 1, Score: 1000
+Reveal AI: Gawra, AI: Random
+Ranking: Pabe, Place: 2, Score: -1000
+Reveal AI: Pabe, AI: AIMyBot1
+
+Player Stats for Gawra, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Pabe, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

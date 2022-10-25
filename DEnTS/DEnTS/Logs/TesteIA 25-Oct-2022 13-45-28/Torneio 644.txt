@@ -1,0 +1,224 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Soefi: AIMyBot1
+Garlee: Random
+
+Joins: Soefi, chips: 1000
+Joins: Garlee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garlee
+Small Blind: Garlee, chips: 100
+Big Blind: Soefi, chips: 200
+Raises: Garlee, chips: 300
+Folds: Soefi
+Pot size: 700
+Boasts: Garlee, 3s 9s
+Wins: Garlee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soefi
+Small Blind: Soefi, chips: 100
+Big Blind: Garlee, chips: 200
+Folds: Soefi
+Pot size: 300
+Wins: Garlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garlee
+Small Blind: Garlee, chips: 100
+Big Blind: Soefi, chips: 200
+Folds: Garlee
+Pot size: 300
+Boasts: Garlee, 9c 8h
+Wins: Soefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soefi
+Small Blind: Soefi, chips: 100
+Big Blind: Garlee, chips: 200
+Folds: Soefi
+Pot size: 300
+Boasts: Garlee, Ks 8h
+Wins: Garlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garlee
+Small Blind: Garlee, chips: 100
+Big Blind: Soefi, chips: 200
+Raises: Garlee, chips: 300
+Folds: Soefi
+Pot size: 700
+Boasts: Garlee, 9s 8s
+Wins: Garlee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soefi
+Small Blind: Soefi, chips: 100
+Big Blind: Garlee, chips: 200
+Folds: Soefi
+Pot size: 300
+Wins: Garlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garlee
+Small Blind: Garlee, chips: 100
+Big Blind: Soefi, chips: 200
+Raises: Garlee, chips: 300
+Folds: Soefi
+Pot size: 700
+Boasts: Garlee, 2h 5c
+Wins: Garlee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soefi
+Small Blind: Soefi, chips: 100
+Big Blind: Garlee, chips: 200
+Folds: Soefi
+Pot size: 300
+Boasts: Garlee, Ts 8h
+Wins: Garlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garlee
+Small Blind: Garlee, chips: 100
+Big Blind: Soefi, chips: 100
+Flop: 6s 9h 5d
+Turn: Th
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Soefi, 7s Qd
+Combination: Soefi, High Card ( Qd Th 9h 7s 6s )
+Shows: Garlee, Ah 2s
+Combination: Garlee, Pair ( 2s 2d Ah Th 9h )
+Wins: Garlee, chips: 200
+Quits: Soefi, chips: 0
+Ranking: Garlee, Place: 1, Score: 1000
+Reveal AI: Garlee, AI: Random
+Ranking: Soefi, Place: 2, Score: -1000
+Reveal AI: Soefi, AI: AIMyBot1
+
+Player Stats for Garlee, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Soefi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:12
+
+The game begins. The AI's of the players are: 
+Soefi: AIMyBot1
+Garlee: Random
+
+Joins: Soefi, chips: 1000
+Joins: Garlee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garlee
+Small Blind: Garlee, chips: 100
+Big Blind: Soefi, chips: 200
+Raises: Garlee, chips: 300
+Folds: Soefi
+Pot size: 700
+Boasts: Garlee, 3s 9s
+Wins: Garlee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soefi
+Small Blind: Soefi, chips: 100
+Big Blind: Garlee, chips: 200
+Folds: Soefi
+Pot size: 300
+Wins: Garlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garlee
+Small Blind: Garlee, chips: 100
+Big Blind: Soefi, chips: 200
+Folds: Garlee
+Pot size: 300
+Boasts: Garlee, 9c 8h
+Wins: Soefi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soefi
+Small Blind: Soefi, chips: 100
+Big Blind: Garlee, chips: 200
+Folds: Soefi
+Pot size: 300
+Boasts: Garlee, Ks 8h
+Wins: Garlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garlee
+Small Blind: Garlee, chips: 100
+Big Blind: Soefi, chips: 200
+Raises: Garlee, chips: 300
+Folds: Soefi
+Pot size: 700
+Boasts: Garlee, 9s 8s
+Wins: Garlee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soefi
+Small Blind: Soefi, chips: 100
+Big Blind: Garlee, chips: 200
+Folds: Soefi
+Pot size: 300
+Wins: Garlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garlee
+Small Blind: Garlee, chips: 100
+Big Blind: Soefi, chips: 200
+Raises: Garlee, chips: 300
+Folds: Soefi
+Pot size: 700
+Boasts: Garlee, 2h 5c
+Wins: Garlee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Soefi
+Small Blind: Soefi, chips: 100
+Big Blind: Garlee, chips: 200
+Folds: Soefi
+Pot size: 300
+Boasts: Garlee, Ts 8h
+Wins: Garlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Garlee
+Small Blind: Garlee, chips: 100
+Big Blind: Soefi, chips: 100
+Flop: 6s 9h 5d
+Turn: Th
+River: 2d
+Pot size: 200
+Showdown Reached
+Shows: Soefi, 7s Qd
+Combination: Soefi, High Card ( Qd Th 9h 7s 6s )
+Shows: Garlee, Ah 2s
+Combination: Garlee, Pair ( 2s 2d Ah Th 9h )
+Wins: Garlee, chips: 200
+Quits: Soefi, chips: 0
+Ranking: Garlee, Place: 1, Score: 1000
+Reveal AI: Garlee, AI: Random
+Ranking: Soefi, Place: 2, Score: -1000
+Reveal AI: Soefi, AI: AIMyBot1
+
+Player Stats for Garlee, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Soefi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

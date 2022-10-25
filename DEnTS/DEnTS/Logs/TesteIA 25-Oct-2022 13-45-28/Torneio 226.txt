@@ -1,0 +1,238 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Becholor: AIMyBot1
+Sewoes: Random
+
+Joins: Becholor, chips: 1000
+Joins: Sewoes, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sewoes
+Small Blind: Sewoes, chips: 100
+Big Blind: Becholor, chips: 200
+Calls: Sewoes
+DEBUG MESSAGE: INVALID ACTION FROM Becholor (2 0)
+Folds: Becholor
+Pot size: 400
+Boasts: Sewoes, Ks 4s
+Wins: Sewoes, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Becholor
+Small Blind: Becholor, chips: 100
+Big Blind: Sewoes, chips: 200
+Folds: Becholor
+Pot size: 300
+Wins: Sewoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sewoes
+Small Blind: Sewoes, chips: 100
+Big Blind: Becholor, chips: 200
+Calls: Sewoes
+DEBUG MESSAGE: INVALID ACTION FROM Becholor (2 0)
+Folds: Becholor
+Pot size: 400
+Boasts: Sewoes, Kd 5s
+Wins: Sewoes, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Becholor
+Small Blind: Becholor, chips: 100
+Big Blind: Sewoes, chips: 200
+Folds: Becholor
+Pot size: 300
+Boasts: Sewoes, 9c 4d
+Wins: Sewoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sewoes
+Small Blind: Sewoes, chips: 100
+Big Blind: Becholor, chips: 200
+Raises: Sewoes, chips: 300
+Folds: Becholor
+Pot size: 700
+Wins: Sewoes, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Becholor
+Small Blind: Becholor, chips: 100
+Big Blind: Sewoes, chips: 200
+Folds: Becholor
+Pot size: 300
+Wins: Sewoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sewoes
+Small Blind: Sewoes, chips: 100
+Big Blind: Becholor, chips: 100
+Flop: Jc 5d Ac
+Turn: 2c
+River: 6d
+Pot size: 200
+Showdown Reached
+Shows: Becholor, 6c 9h
+Combination: Becholor, Pair ( 6c 6d Ac Jc 9h )
+Shows: Sewoes, 3h Qs
+Combination: Sewoes, High Card ( Ac Qs Jc 6d 5d )
+Wins: Becholor, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Becholor
+Small Blind: Becholor, chips: 100
+Big Blind: Sewoes, chips: 200
+Folds: Becholor
+Pot size: 300
+Boasts: Sewoes, 3d 2s
+Wins: Sewoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sewoes
+Small Blind: Sewoes, chips: 100
+Big Blind: Becholor, chips: 100
+Flop: 6h Td 2c
+Turn: 3d
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Becholor, 9d 8c
+Combination: Becholor, Pair ( Td Tc 9d 8c 6h )
+Shows: Sewoes, 5d 4d
+Combination: Sewoes, Straight ( 6h 5d 4d 3d 2c )
+Wins: Sewoes, chips: 200
+Quits: Becholor, chips: 0
+Ranking: Sewoes, Place: 1, Score: 1000
+Reveal AI: Sewoes, AI: Random
+Ranking: Becholor, Place: 2, Score: -1000
+Reveal AI: Becholor, AI: AIMyBot1
+
+Player Stats for Becholor, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Sewoes, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:44
+
+The game begins. The AI's of the players are: 
+Becholor: AIMyBot1
+Sewoes: Random
+
+Joins: Becholor, chips: 1000
+Joins: Sewoes, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sewoes
+Small Blind: Sewoes, chips: 100
+Big Blind: Becholor, chips: 200
+Calls: Sewoes
+DEBUG MESSAGE: INVALID ACTION FROM Becholor (2 0)
+Folds: Becholor
+Pot size: 400
+Boasts: Sewoes, Ks 4s
+Wins: Sewoes, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Becholor
+Small Blind: Becholor, chips: 100
+Big Blind: Sewoes, chips: 200
+Folds: Becholor
+Pot size: 300
+Wins: Sewoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sewoes
+Small Blind: Sewoes, chips: 100
+Big Blind: Becholor, chips: 200
+Calls: Sewoes
+DEBUG MESSAGE: INVALID ACTION FROM Becholor (2 0)
+Folds: Becholor
+Pot size: 400
+Boasts: Sewoes, Kd 5s
+Wins: Sewoes, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Becholor
+Small Blind: Becholor, chips: 100
+Big Blind: Sewoes, chips: 200
+Folds: Becholor
+Pot size: 300
+Boasts: Sewoes, 9c 4d
+Wins: Sewoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sewoes
+Small Blind: Sewoes, chips: 100
+Big Blind: Becholor, chips: 200
+Raises: Sewoes, chips: 300
+Folds: Becholor
+Pot size: 700
+Wins: Sewoes, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Becholor
+Small Blind: Becholor, chips: 100
+Big Blind: Sewoes, chips: 200
+Folds: Becholor
+Pot size: 300
+Wins: Sewoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sewoes
+Small Blind: Sewoes, chips: 100
+Big Blind: Becholor, chips: 100
+Flop: Jc 5d Ac
+Turn: 2c
+River: 6d
+Pot size: 200
+Showdown Reached
+Shows: Becholor, 6c 9h
+Combination: Becholor, Pair ( 6c 6d Ac Jc 9h )
+Shows: Sewoes, 3h Qs
+Combination: Sewoes, High Card ( Ac Qs Jc 6d 5d )
+Wins: Becholor, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Becholor
+Small Blind: Becholor, chips: 100
+Big Blind: Sewoes, chips: 200
+Folds: Becholor
+Pot size: 300
+Boasts: Sewoes, 3d 2s
+Wins: Sewoes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sewoes
+Small Blind: Sewoes, chips: 100
+Big Blind: Becholor, chips: 100
+Flop: 6h Td 2c
+Turn: 3d
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Becholor, 9d 8c
+Combination: Becholor, Pair ( Td Tc 9d 8c 6h )
+Shows: Sewoes, 5d 4d
+Combination: Sewoes, Straight ( 6h 5d 4d 3d 2c )
+Wins: Sewoes, chips: 200
+Quits: Becholor, chips: 0
+Ranking: Sewoes, Place: 1, Score: 1000
+Reveal AI: Sewoes, AI: Random
+Ranking: Becholor, Place: 2, Score: -1000
+Reveal AI: Becholor, AI: AIMyBot1
+
+Player Stats for Becholor, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Sewoes, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

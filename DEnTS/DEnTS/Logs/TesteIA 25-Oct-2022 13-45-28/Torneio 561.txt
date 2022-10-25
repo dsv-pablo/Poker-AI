@@ -1,0 +1,194 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Fidoev: AIMyBot1
+Vuvum: Random
+
+Joins: Fidoev, chips: 1000
+Joins: Vuvum, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fidoev
+Small Blind: Fidoev, chips: 100
+Big Blind: Vuvum, chips: 200
+Folds: Fidoev
+Pot size: 300
+Boasts: Vuvum, 3s 4d
+Wins: Vuvum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvum
+Small Blind: Vuvum, chips: 100
+Big Blind: Fidoev, chips: 200
+Calls: Vuvum
+DEBUG MESSAGE: INVALID ACTION FROM Fidoev (2 0)
+Folds: Fidoev
+Pot size: 400
+Wins: Vuvum, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fidoev
+Small Blind: Fidoev, chips: 100
+Big Blind: Vuvum, chips: 200
+Folds: Fidoev
+Pot size: 300
+Boasts: Vuvum, 7c 9d
+Wins: Vuvum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvum
+Small Blind: Vuvum, chips: 100
+Big Blind: Fidoev, chips: 200
+Calls: Vuvum
+DEBUG MESSAGE: INVALID ACTION FROM Fidoev (2 0)
+Folds: Fidoev
+Pot size: 400
+Boasts: Vuvum, 3d 3s
+Wins: Vuvum, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fidoev
+Small Blind: Fidoev, chips: 100
+Big Blind: Vuvum, chips: 200
+Folds: Fidoev
+Pot size: 300
+Wins: Vuvum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvum
+Small Blind: Vuvum, chips: 100
+Big Blind: Fidoev, chips: 200
+Raises: Vuvum, chips: 300
+Folds: Fidoev
+Pot size: 700
+Wins: Vuvum, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fidoev
+Small Blind: Fidoev, chips: 100
+Big Blind: Vuvum, chips: 200
+Flop: Jd Tc Ah
+Turn: 4d
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Fidoev, Ts 7c
+Combination: Fidoev, Pair ( Ts Tc Ah Jd 9s )
+Shows: Vuvum, 4h Th
+Combination: Vuvum, Two Pair ( Th Tc 4h 4d Ah )
+Wins: Vuvum, chips: 300
+Quits: Fidoev, chips: 0
+Ranking: Vuvum, Place: 1, Score: 1000
+Reveal AI: Vuvum, AI: Random
+Ranking: Fidoev, Place: 2, Score: -1000
+Reveal AI: Fidoev, AI: AIMyBot1
+
+Player Stats for Fidoev, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Vuvum, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:06
+
+The game begins. The AI's of the players are: 
+Fidoev: AIMyBot1
+Vuvum: Random
+
+Joins: Fidoev, chips: 1000
+Joins: Vuvum, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fidoev
+Small Blind: Fidoev, chips: 100
+Big Blind: Vuvum, chips: 200
+Folds: Fidoev
+Pot size: 300
+Boasts: Vuvum, 3s 4d
+Wins: Vuvum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvum
+Small Blind: Vuvum, chips: 100
+Big Blind: Fidoev, chips: 200
+Calls: Vuvum
+DEBUG MESSAGE: INVALID ACTION FROM Fidoev (2 0)
+Folds: Fidoev
+Pot size: 400
+Wins: Vuvum, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fidoev
+Small Blind: Fidoev, chips: 100
+Big Blind: Vuvum, chips: 200
+Folds: Fidoev
+Pot size: 300
+Boasts: Vuvum, 7c 9d
+Wins: Vuvum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvum
+Small Blind: Vuvum, chips: 100
+Big Blind: Fidoev, chips: 200
+Calls: Vuvum
+DEBUG MESSAGE: INVALID ACTION FROM Fidoev (2 0)
+Folds: Fidoev
+Pot size: 400
+Boasts: Vuvum, 3d 3s
+Wins: Vuvum, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fidoev
+Small Blind: Fidoev, chips: 100
+Big Blind: Vuvum, chips: 200
+Folds: Fidoev
+Pot size: 300
+Wins: Vuvum, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvum
+Small Blind: Vuvum, chips: 100
+Big Blind: Fidoev, chips: 200
+Raises: Vuvum, chips: 300
+Folds: Fidoev
+Pot size: 700
+Wins: Vuvum, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fidoev
+Small Blind: Fidoev, chips: 100
+Big Blind: Vuvum, chips: 200
+Flop: Jd Tc Ah
+Turn: 4d
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Fidoev, Ts 7c
+Combination: Fidoev, Pair ( Ts Tc Ah Jd 9s )
+Shows: Vuvum, 4h Th
+Combination: Vuvum, Two Pair ( Th Tc 4h 4d Ah )
+Wins: Vuvum, chips: 300
+Quits: Fidoev, chips: 0
+Ranking: Vuvum, Place: 1, Score: 1000
+Reveal AI: Vuvum, AI: Random
+Ranking: Fidoev, Place: 2, Score: -1000
+Reveal AI: Fidoev, AI: AIMyBot1
+
+Player Stats for Fidoev, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Vuvum, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

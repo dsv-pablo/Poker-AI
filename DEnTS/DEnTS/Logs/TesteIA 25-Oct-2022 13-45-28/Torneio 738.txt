@@ -1,0 +1,328 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pubegi: Random
+Banir: AIMyBot1
+
+Joins: Pubegi, chips: 1000
+Joins: Banir, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Banir
+Small Blind: Banir, chips: 100
+Big Blind: Pubegi, chips: 200
+Folds: Banir
+Pot size: 300
+Wins: Pubegi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pubegi
+Small Blind: Pubegi, chips: 100
+Big Blind: Banir, chips: 200
+Folds: Pubegi
+Pot size: 300
+Boasts: Pubegi, 2c 4d
+Wins: Banir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Banir
+Small Blind: Banir, chips: 100
+Big Blind: Pubegi, chips: 200
+Folds: Banir
+Pot size: 300
+Boasts: Pubegi, Qc 4d
+Wins: Pubegi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pubegi
+Small Blind: Pubegi, chips: 100
+Big Blind: Banir, chips: 200
+Raises: Pubegi, chips: 300
+Folds: Banir
+Pot size: 700
+Boasts: Pubegi, Kc Qc
+Wins: Pubegi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Banir
+Small Blind: Banir, chips: 100
+Big Blind: Pubegi, chips: 200
+Folds: Banir
+Pot size: 300
+Boasts: Pubegi, Ah 6c
+Wins: Pubegi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pubegi
+Small Blind: Pubegi, chips: 100
+Big Blind: Banir, chips: 200
+Calls: Pubegi
+DEBUG MESSAGE: INVALID ACTION FROM Banir (2 0)
+Folds: Banir
+Pot size: 400
+Boasts: Pubegi, 9c Jc
+Wins: Pubegi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Banir
+Small Blind: Banir, chips: 100
+Big Blind: Pubegi, chips: 200
+Folds: Banir
+Pot size: 300
+Wins: Pubegi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pubegi
+Small Blind: Pubegi, chips: 100
+Big Blind: Banir, chips: 200
+Raises: Pubegi, chips: 300
+Folds: Banir
+Pot size: 700
+Wins: Pubegi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Banir
+Small Blind: Banir, chips: 100
+Big Blind: Pubegi, chips: 200
+Flop: 6s 7s 5s
+Turn: Qs
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Pubegi, Jh 6c
+Combination: Pubegi, Pair ( 6c 6s Qs Jh 8c )
+Shows: Banir, Ts 2s
+Combination: Banir, Flush ( Qs Ts 7s 6s 5s )
+Wins: Pubegi, chips: 100
+Wins: Banir, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pubegi
+Small Blind: Pubegi, chips: 100
+Big Blind: Banir, chips: 200
+Flop: 3s Qh 2h
+Turn: 3h
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Pubegi, 5c Tc
+Combination: Pubegi, Pair ( 3s 3h Qh Tc 5c )
+Shows: Banir, Js 7s
+Combination: Banir, Pair ( 3s 3h Qh Js 7s )
+Wins: Banir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Banir
+Small Blind: Banir, chips: 100
+Big Blind: Pubegi, chips: 200
+Folds: Banir
+Pot size: 300
+Boasts: Pubegi, 2c Jh
+Wins: Pubegi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pubegi
+Small Blind: Pubegi, chips: 100
+Big Blind: Banir, chips: 200
+Flop: Td 9h Kh
+Turn: 3s
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Pubegi, Kc Qs
+Combination: Pubegi, Two Pair ( Kc Kh 9h 9c Qs )
+Shows: Banir, Ad Jd
+Combination: Banir, Pair ( 9h 9c Ad Kh Jd )
+Wins: Pubegi, chips: 200
+Wins: Banir, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Banir
+Small Blind: Banir, chips: 100
+Big Blind: Pubegi, chips: 200
+Flop: 8c Kd 7s
+Turn: Ah
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Pubegi, 6d 8d
+Combination: Pubegi, Pair ( 8d 8c Ah Kd 7s )
+Shows: Banir, 2h Tc
+Combination: Banir, Pair ( 2h 2s Ah Kd Tc )
+Wins: Pubegi, chips: 300
+Quits: Banir, chips: 0
+Ranking: Pubegi, Place: 1, Score: 1000
+Reveal AI: Pubegi, AI: Random
+Ranking: Banir, Place: 2, Score: -1000
+Reveal AI: Banir, AI: AIMyBot1
+
+Player Stats for Banir, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Pubegi, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:18
+
+The game begins. The AI's of the players are: 
+Pubegi: Random
+Banir: AIMyBot1
+
+Joins: Pubegi, chips: 1000
+Joins: Banir, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Banir
+Small Blind: Banir, chips: 100
+Big Blind: Pubegi, chips: 200
+Folds: Banir
+Pot size: 300
+Wins: Pubegi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pubegi
+Small Blind: Pubegi, chips: 100
+Big Blind: Banir, chips: 200
+Folds: Pubegi
+Pot size: 300
+Boasts: Pubegi, 2c 4d
+Wins: Banir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Banir
+Small Blind: Banir, chips: 100
+Big Blind: Pubegi, chips: 200
+Folds: Banir
+Pot size: 300
+Boasts: Pubegi, Qc 4d
+Wins: Pubegi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pubegi
+Small Blind: Pubegi, chips: 100
+Big Blind: Banir, chips: 200
+Raises: Pubegi, chips: 300
+Folds: Banir
+Pot size: 700
+Boasts: Pubegi, Kc Qc
+Wins: Pubegi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Banir
+Small Blind: Banir, chips: 100
+Big Blind: Pubegi, chips: 200
+Folds: Banir
+Pot size: 300
+Boasts: Pubegi, Ah 6c
+Wins: Pubegi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pubegi
+Small Blind: Pubegi, chips: 100
+Big Blind: Banir, chips: 200
+Calls: Pubegi
+DEBUG MESSAGE: INVALID ACTION FROM Banir (2 0)
+Folds: Banir
+Pot size: 400
+Boasts: Pubegi, 9c Jc
+Wins: Pubegi, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Banir
+Small Blind: Banir, chips: 100
+Big Blind: Pubegi, chips: 200
+Folds: Banir
+Pot size: 300
+Wins: Pubegi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pubegi
+Small Blind: Pubegi, chips: 100
+Big Blind: Banir, chips: 200
+Raises: Pubegi, chips: 300
+Folds: Banir
+Pot size: 700
+Wins: Pubegi, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Banir
+Small Blind: Banir, chips: 100
+Big Blind: Pubegi, chips: 200
+Flop: 6s 7s 5s
+Turn: Qs
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Pubegi, Jh 6c
+Combination: Pubegi, Pair ( 6c 6s Qs Jh 8c )
+Shows: Banir, Ts 2s
+Combination: Banir, Flush ( Qs Ts 7s 6s 5s )
+Wins: Pubegi, chips: 100
+Wins: Banir, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pubegi
+Small Blind: Pubegi, chips: 100
+Big Blind: Banir, chips: 200
+Flop: 3s Qh 2h
+Turn: 3h
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Pubegi, 5c Tc
+Combination: Pubegi, Pair ( 3s 3h Qh Tc 5c )
+Shows: Banir, Js 7s
+Combination: Banir, Pair ( 3s 3h Qh Js 7s )
+Wins: Banir, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Banir
+Small Blind: Banir, chips: 100
+Big Blind: Pubegi, chips: 200
+Folds: Banir
+Pot size: 300
+Boasts: Pubegi, 2c Jh
+Wins: Pubegi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pubegi
+Small Blind: Pubegi, chips: 100
+Big Blind: Banir, chips: 200
+Flop: Td 9h Kh
+Turn: 3s
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Pubegi, Kc Qs
+Combination: Pubegi, Two Pair ( Kc Kh 9h 9c Qs )
+Shows: Banir, Ad Jd
+Combination: Banir, Pair ( 9h 9c Ad Kh Jd )
+Wins: Pubegi, chips: 200
+Wins: Banir, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Banir
+Small Blind: Banir, chips: 100
+Big Blind: Pubegi, chips: 200
+Flop: 8c Kd 7s
+Turn: Ah
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Pubegi, 6d 8d
+Combination: Pubegi, Pair ( 8d 8c Ah Kd 7s )
+Shows: Banir, 2h Tc
+Combination: Banir, Pair ( 2h 2s Ah Kd Tc )
+Wins: Pubegi, chips: 300
+Quits: Banir, chips: 0
+Ranking: Pubegi, Place: 1, Score: 1000
+Reveal AI: Pubegi, AI: Random
+Ranking: Banir, Place: 2, Score: -1000
+Reveal AI: Banir, AI: AIMyBot1
+
+Player Stats for Banir, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Pubegi, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

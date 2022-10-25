@@ -1,0 +1,494 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Roeli: Random
+Wirletry: AIMyBot1
+
+Joins: Roeli, chips: 1000
+Joins: Wirletry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Folds: Roeli
+Pot size: 300
+Wins: Wirletry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Boasts: Roeli, 8h Kd
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Raises: Roeli, chips: 300
+Folds: Wirletry
+Pot size: 700
+Boasts: Roeli, Jh Qs
+Wins: Roeli, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Calls: Roeli
+DEBUG MESSAGE: INVALID ACTION FROM Wirletry (2 0)
+Folds: Wirletry
+Pot size: 400
+Boasts: Roeli, 8s 2h
+Wins: Roeli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Boasts: Roeli, 2c Jc
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Raises: Roeli, chips: 300
+Calls: Wirletry
+Flop: Td Qc Th
+Turn: Jd
+River: 5d
+Pot size: 800
+Showdown Reached
+Shows: Roeli, 4c 6d
+Combination: Roeli, Pair ( Td Th Qc Jd 6d )
+Shows: Wirletry, Ah Jh
+Combination: Wirletry, Two Pair ( Jh Jd Td Th Ah )
+Wins: Roeli, chips: 200
+Wins: Wirletry, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Boasts: Roeli, 8c 9d
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Calls: Roeli
+DEBUG MESSAGE: INVALID ACTION FROM Wirletry (2 0)
+Folds: Wirletry
+Pot size: 400
+Boasts: Roeli, 3h 9c
+Wins: Roeli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Flop: 3d 4s As
+Turn: Tc
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Roeli, 9s 8c
+Combination: Roeli, High Card ( As Tc 9s 8c 5h )
+Shows: Wirletry, 5c Td
+Combination: Wirletry, Two Pair ( Td Tc 5c 5h As )
+Wins: Wirletry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Boasts: Roeli, 4h 4c
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Flop: Kc Ad 4c
+Turn: Td
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Roeli, 8d 9d
+Combination: Roeli, High Card ( Ad Kc Jh Td 9d )
+Shows: Wirletry, Ac 7c
+Combination: Wirletry, Pair ( Ac Ad Kc Jh Td )
+Wins: Wirletry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Boasts: Roeli, 4d Kc
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Flop: 4d Jh 9d
+Turn: 2d
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Roeli, Ts 8c
+Combination: Roeli, High Card ( Jh Ts 9d 8c 6s )
+Shows: Wirletry, Th Ac
+Combination: Wirletry, High Card ( Ac Jh Th 9d 6s )
+Wins: Wirletry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Flop: 5d Th 7c
+Turn: 9c
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Roeli, Ac 6c
+Combination: Roeli, High Card ( Ac Qd Th 9c 7c )
+Shows: Wirletry, Js Jd
+Combination: Wirletry, Pair ( Js Jd Qd Th 9c )
+Wins: Wirletry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Boasts: Roeli, 4c Kh
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Flop: Jd Ks 9c
+Turn: 3s
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Roeli, Th Qs
+Combination: Roeli, Straight ( Ks Qs Jd Th 9c )
+Shows: Wirletry, 2h 6c
+Combination: Wirletry, Pair ( 9c 9d Ks Jd 6c )
+Wins: Roeli, chips: 200
+Wins: Wirletry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Flop: Kc 9d Kd
+Turn: Ts
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Roeli, 5c Qc
+Combination: Roeli, Two Pair ( Kc Kd Qc Qs Ts )
+Shows: Wirletry, 2h 7d
+Combination: Wirletry, Pair ( Kc Kd Qs Ts 9d )
+Wins: Roeli, chips: 300
+Quits: Wirletry, chips: 0
+Ranking: Roeli, Place: 1, Score: 1000
+Reveal AI: Roeli, AI: Random
+Ranking: Wirletry, Place: 2, Score: -1000
+Reveal AI: Wirletry, AI: AIMyBot1
+
+Player Stats for Roeli, AI: Random
+General: deals: 21, actions: 5, preflop actions: 5
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 16, showdown: 3, bluff: 13
+Chips: won: 5200, lost: 4200, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.190476, PFR: 0.0952381, 3Bet: 0.0952381
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.428571
+
+
+Player Stats for Wirletry, AI: AIMyBot1
+General: deals: 21, actions: 14, preflop actions: 14
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 7, showdown: 6, bluff: 1
+Chips: won: 2200, lost: 3400, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0.047619, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Date: 2022/10/25 13:45:28
+
+The game begins. The AI's of the players are: 
+Roeli: Random
+Wirletry: AIMyBot1
+
+Joins: Roeli, chips: 1000
+Joins: Wirletry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Folds: Roeli
+Pot size: 300
+Wins: Wirletry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Boasts: Roeli, 8h Kd
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Raises: Roeli, chips: 300
+Folds: Wirletry
+Pot size: 700
+Boasts: Roeli, Jh Qs
+Wins: Roeli, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Calls: Roeli
+DEBUG MESSAGE: INVALID ACTION FROM Wirletry (2 0)
+Folds: Wirletry
+Pot size: 400
+Boasts: Roeli, 8s 2h
+Wins: Roeli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Boasts: Roeli, 2c Jc
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Raises: Roeli, chips: 300
+Calls: Wirletry
+Flop: Td Qc Th
+Turn: Jd
+River: 5d
+Pot size: 800
+Showdown Reached
+Shows: Roeli, 4c 6d
+Combination: Roeli, Pair ( Td Th Qc Jd 6d )
+Shows: Wirletry, Ah Jh
+Combination: Wirletry, Two Pair ( Jh Jd Td Th Ah )
+Wins: Roeli, chips: 200
+Wins: Wirletry, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Boasts: Roeli, 8c 9d
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Calls: Roeli
+DEBUG MESSAGE: INVALID ACTION FROM Wirletry (2 0)
+Folds: Wirletry
+Pot size: 400
+Boasts: Roeli, 3h 9c
+Wins: Roeli, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Flop: 3d 4s As
+Turn: Tc
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Roeli, 9s 8c
+Combination: Roeli, High Card ( As Tc 9s 8c 5h )
+Shows: Wirletry, 5c Td
+Combination: Wirletry, Two Pair ( Td Tc 5c 5h As )
+Wins: Wirletry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Boasts: Roeli, 4h 4c
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Flop: Kc Ad 4c
+Turn: Td
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Roeli, 8d 9d
+Combination: Roeli, High Card ( Ad Kc Jh Td 9d )
+Shows: Wirletry, Ac 7c
+Combination: Wirletry, Pair ( Ac Ad Kc Jh Td )
+Wins: Wirletry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Boasts: Roeli, 4d Kc
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Flop: 4d Jh 9d
+Turn: 2d
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Roeli, Ts 8c
+Combination: Roeli, High Card ( Jh Ts 9d 8c 6s )
+Shows: Wirletry, Th Ac
+Combination: Wirletry, High Card ( Ac Jh Th 9d 6s )
+Wins: Wirletry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Flop: 5d Th 7c
+Turn: 9c
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Roeli, Ac 6c
+Combination: Roeli, High Card ( Ac Qd Th 9c 7c )
+Shows: Wirletry, Js Jd
+Combination: Wirletry, Pair ( Js Jd Qd Th 9c )
+Wins: Wirletry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Folds: Wirletry
+Pot size: 300
+Boasts: Roeli, 4c Kh
+Wins: Roeli, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeli
+Small Blind: Roeli, chips: 100
+Big Blind: Wirletry, chips: 200
+Flop: Jd Ks 9c
+Turn: 3s
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Roeli, Th Qs
+Combination: Roeli, Straight ( Ks Qs Jd Th 9c )
+Shows: Wirletry, 2h 6c
+Combination: Wirletry, Pair ( 9c 9d Ks Jd 6c )
+Wins: Roeli, chips: 200
+Wins: Wirletry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wirletry
+Small Blind: Wirletry, chips: 100
+Big Blind: Roeli, chips: 200
+Flop: Kc 9d Kd
+Turn: Ts
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Roeli, 5c Qc
+Combination: Roeli, Two Pair ( Kc Kd Qc Qs Ts )
+Shows: Wirletry, 2h 7d
+Combination: Wirletry, Pair ( Kc Kd Qs Ts 9d )
+Wins: Roeli, chips: 300
+Quits: Wirletry, chips: 0
+Ranking: Roeli, Place: 1, Score: 1000
+Reveal AI: Roeli, AI: Random
+Ranking: Wirletry, Place: 2, Score: -1000
+Reveal AI: Wirletry, AI: AIMyBot1
+
+Player Stats for Roeli, AI: Random
+General: deals: 21, actions: 5, preflop actions: 5
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 16, showdown: 3, bluff: 13
+Chips: won: 5200, lost: 4200, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0.190476, PFR: 0.0952381, 3Bet: 0.0952381
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.428571
+
+
+Player Stats for Wirletry, AI: AIMyBot1
+General: deals: 21, actions: 14, preflop actions: 14
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 7, showdown: 6, bluff: 1
+Chips: won: 2200, lost: 3400, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0.047619, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+

@@ -1,0 +1,270 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Fuhewu: Random
+Meericha: AIMyBot1
+
+Joins: Fuhewu, chips: 1000
+Joins: Meericha, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhewu
+Small Blind: Fuhewu, chips: 100
+Big Blind: Meericha, chips: 200
+Calls: Fuhewu
+DEBUG MESSAGE: INVALID ACTION FROM Meericha (2 0)
+Folds: Meericha
+Pot size: 400
+Boasts: Fuhewu, Td 2d
+Wins: Fuhewu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meericha
+Small Blind: Meericha, chips: 100
+Big Blind: Fuhewu, chips: 200
+Folds: Meericha
+Pot size: 300
+Boasts: Fuhewu, 3s 4h
+Wins: Fuhewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhewu
+Small Blind: Fuhewu, chips: 100
+Big Blind: Meericha, chips: 200
+Folds: Fuhewu
+Pot size: 300
+Wins: Meericha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meericha
+Small Blind: Meericha, chips: 100
+Big Blind: Fuhewu, chips: 200
+Folds: Meericha
+Pot size: 300
+Boasts: Fuhewu, Kc 6s
+Wins: Fuhewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhewu
+Small Blind: Fuhewu, chips: 100
+Big Blind: Meericha, chips: 200
+Raises: Fuhewu, chips: 300
+Folds: Meericha
+Pot size: 700
+Wins: Fuhewu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meericha
+Small Blind: Meericha, chips: 100
+Big Blind: Fuhewu, chips: 200
+Folds: Meericha
+Pot size: 300
+Wins: Fuhewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhewu
+Small Blind: Fuhewu, chips: 100
+Big Blind: Meericha, chips: 200
+Calls: Fuhewu
+DEBUG MESSAGE: INVALID ACTION FROM Meericha (2 0)
+Folds: Meericha
+Pot size: 400
+Boasts: Fuhewu, Tc Td
+Wins: Fuhewu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meericha
+Small Blind: Meericha, chips: 100
+Big Blind: Fuhewu, chips: 200
+Folds: Meericha
+Pot size: 300
+Boasts: Fuhewu, 3h Jd
+Wins: Fuhewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhewu
+Small Blind: Fuhewu, chips: 100
+Big Blind: Meericha, chips: 100
+Flop: 3h 9c 6d
+Turn: 5h
+River: 4s
+Pot size: 200
+Showdown Reached
+Shows: Fuhewu, 4c Qs
+Combination: Fuhewu, Pair ( 4c 4s Qs 9c 6d )
+Shows: Meericha, Ah 6s
+Combination: Meericha, Pair ( 6s 6d Ah 9c 5h )
+Wins: Meericha, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meericha
+Small Blind: Meericha, chips: 100
+Big Blind: Fuhewu, chips: 200
+Folds: Meericha
+Pot size: 300
+Boasts: Fuhewu, Jc 7c
+Wins: Fuhewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhewu
+Small Blind: Fuhewu, chips: 100
+Big Blind: Meericha, chips: 100
+Flop: 2d 9d 6h
+Turn: 7c
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Fuhewu, Ah Kd
+Combination: Fuhewu, Pair ( Ah As Kd 9d 7c )
+Shows: Meericha, 3h 6d
+Combination: Meericha, Pair ( 6d 6h As 9d 7c )
+Wins: Fuhewu, chips: 200
+Quits: Meericha, chips: 0
+Ranking: Fuhewu, Place: 1, Score: 1000
+Reveal AI: Fuhewu, AI: Random
+Ranking: Meericha, Place: 2, Score: -1000
+Reveal AI: Meericha, AI: AIMyBot1
+
+Player Stats for Fuhewu, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Meericha, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:58
+
+The game begins. The AI's of the players are: 
+Fuhewu: Random
+Meericha: AIMyBot1
+
+Joins: Fuhewu, chips: 1000
+Joins: Meericha, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhewu
+Small Blind: Fuhewu, chips: 100
+Big Blind: Meericha, chips: 200
+Calls: Fuhewu
+DEBUG MESSAGE: INVALID ACTION FROM Meericha (2 0)
+Folds: Meericha
+Pot size: 400
+Boasts: Fuhewu, Td 2d
+Wins: Fuhewu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meericha
+Small Blind: Meericha, chips: 100
+Big Blind: Fuhewu, chips: 200
+Folds: Meericha
+Pot size: 300
+Boasts: Fuhewu, 3s 4h
+Wins: Fuhewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhewu
+Small Blind: Fuhewu, chips: 100
+Big Blind: Meericha, chips: 200
+Folds: Fuhewu
+Pot size: 300
+Wins: Meericha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meericha
+Small Blind: Meericha, chips: 100
+Big Blind: Fuhewu, chips: 200
+Folds: Meericha
+Pot size: 300
+Boasts: Fuhewu, Kc 6s
+Wins: Fuhewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhewu
+Small Blind: Fuhewu, chips: 100
+Big Blind: Meericha, chips: 200
+Raises: Fuhewu, chips: 300
+Folds: Meericha
+Pot size: 700
+Wins: Fuhewu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meericha
+Small Blind: Meericha, chips: 100
+Big Blind: Fuhewu, chips: 200
+Folds: Meericha
+Pot size: 300
+Wins: Fuhewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhewu
+Small Blind: Fuhewu, chips: 100
+Big Blind: Meericha, chips: 200
+Calls: Fuhewu
+DEBUG MESSAGE: INVALID ACTION FROM Meericha (2 0)
+Folds: Meericha
+Pot size: 400
+Boasts: Fuhewu, Tc Td
+Wins: Fuhewu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meericha
+Small Blind: Meericha, chips: 100
+Big Blind: Fuhewu, chips: 200
+Folds: Meericha
+Pot size: 300
+Boasts: Fuhewu, 3h Jd
+Wins: Fuhewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhewu
+Small Blind: Fuhewu, chips: 100
+Big Blind: Meericha, chips: 100
+Flop: 3h 9c 6d
+Turn: 5h
+River: 4s
+Pot size: 200
+Showdown Reached
+Shows: Fuhewu, 4c Qs
+Combination: Fuhewu, Pair ( 4c 4s Qs 9c 6d )
+Shows: Meericha, Ah 6s
+Combination: Meericha, Pair ( 6s 6d Ah 9c 5h )
+Wins: Meericha, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meericha
+Small Blind: Meericha, chips: 100
+Big Blind: Fuhewu, chips: 200
+Folds: Meericha
+Pot size: 300
+Boasts: Fuhewu, Jc 7c
+Wins: Fuhewu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fuhewu
+Small Blind: Fuhewu, chips: 100
+Big Blind: Meericha, chips: 100
+Flop: 2d 9d 6h
+Turn: 7c
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Fuhewu, Ah Kd
+Combination: Fuhewu, Pair ( Ah As Kd 9d 7c )
+Shows: Meericha, 3h 6d
+Combination: Meericha, Pair ( 6d 6h As 9d 7c )
+Wins: Fuhewu, chips: 200
+Quits: Meericha, chips: 0
+Ranking: Fuhewu, Place: 1, Score: 1000
+Reveal AI: Fuhewu, AI: Random
+Ranking: Meericha, Place: 2, Score: -1000
+Reveal AI: Meericha, AI: AIMyBot1
+
+Player Stats for Fuhewu, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Meericha, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

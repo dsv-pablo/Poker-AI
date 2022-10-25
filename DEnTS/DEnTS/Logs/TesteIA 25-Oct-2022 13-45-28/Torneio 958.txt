@@ -1,0 +1,324 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Geewetry: Random
+Fipu: AIMyBot1
+
+Joins: Geewetry, chips: 1000
+Joins: Fipu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewetry
+Small Blind: Geewetry, chips: 100
+Big Blind: Fipu, chips: 200
+Calls: Geewetry
+DEBUG MESSAGE: INVALID ACTION FROM Fipu (2 0)
+Folds: Fipu
+Pot size: 400
+Wins: Geewetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipu
+Small Blind: Fipu, chips: 100
+Big Blind: Geewetry, chips: 200
+Folds: Fipu
+Pot size: 300
+Boasts: Geewetry, 2s 5s
+Wins: Geewetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewetry
+Small Blind: Geewetry, chips: 100
+Big Blind: Fipu, chips: 200
+Calls: Geewetry
+DEBUG MESSAGE: INVALID ACTION FROM Fipu (2 0)
+Folds: Fipu
+Pot size: 400
+Boasts: Geewetry, 9c 6s
+Wins: Geewetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipu
+Small Blind: Fipu, chips: 100
+Big Blind: Geewetry, chips: 200
+Folds: Fipu
+Pot size: 300
+Boasts: Geewetry, Th 3s
+Wins: Geewetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewetry
+Small Blind: Geewetry, chips: 100
+Big Blind: Fipu, chips: 200
+Raises: Geewetry, chips: 300
+Folds: Fipu
+Pot size: 700
+Boasts: Geewetry, Kc Tc
+Wins: Geewetry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipu
+Small Blind: Fipu, chips: 100
+Big Blind: Geewetry, chips: 200
+Folds: Fipu
+Pot size: 300
+Wins: Geewetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewetry
+Small Blind: Geewetry, chips: 100
+Big Blind: Fipu, chips: 100
+Flop: 8d 7d As
+Turn: Ah
+River: 7s
+Pot size: 200
+Showdown Reached
+Shows: Geewetry, Qc Jd
+Combination: Geewetry, Two Pair ( As Ah 7d 7s Qc )
+Shows: Fipu, Ks Jc
+Combination: Fipu, Two Pair ( As Ah 7d 7s Ks )
+Wins: Fipu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipu
+Small Blind: Fipu, chips: 100
+Big Blind: Geewetry, chips: 200
+Folds: Fipu
+Pot size: 300
+Wins: Geewetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewetry
+Small Blind: Geewetry, chips: 100
+Big Blind: Fipu, chips: 100
+Flop: 5c 3d Kd
+Turn: Td
+River: 2c
+Pot size: 200
+Showdown Reached
+Shows: Geewetry, 6d As
+Combination: Geewetry, High Card ( As Kd Td 6d 5c )
+Shows: Fipu, 8h 3h
+Combination: Fipu, Pair ( 3h 3d Kd Td 8h )
+Wins: Fipu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipu
+Small Blind: Fipu, chips: 100
+Big Blind: Geewetry, chips: 200
+Folds: Fipu
+Pot size: 300
+Boasts: Geewetry, 2c Js
+Wins: Geewetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewetry
+Small Blind: Geewetry, chips: 100
+Big Blind: Fipu, chips: 100
+Flop: 6h 5s 4s
+Turn: 7c
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Geewetry, 2h Jd
+Combination: Geewetry, High Card ( Kh Jd 7c 6h 5s )
+Shows: Fipu, Kd 5h
+Combination: Fipu, Two Pair ( Kd Kh 5h 5s 7c )
+Wins: Fipu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipu
+Small Blind: Fipu, chips: 100
+Big Blind: Geewetry, chips: 200
+Folds: Fipu
+Pot size: 300
+Wins: Geewetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewetry
+Small Blind: Geewetry, chips: 100
+Big Blind: Fipu, chips: 100
+Flop: 8h 6c Td
+Turn: 8d
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Geewetry, 5s Ah
+Combination: Geewetry, Two Pair ( Td Ts 8h 8d Ah )
+Shows: Fipu, 4s 3d
+Combination: Fipu, Two Pair ( Td Ts 8h 8d 6c )
+Wins: Geewetry, chips: 200
+Quits: Fipu, chips: 0
+Ranking: Geewetry, Place: 1, Score: 1000
+Reveal AI: Geewetry, AI: Random
+Ranking: Fipu, Place: 2, Score: -1000
+Reveal AI: Fipu, AI: AIMyBot1
+
+Player Stats for Fipu, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Geewetry, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.25
+
+
+Date: 2022/10/25 13:46:32
+
+The game begins. The AI's of the players are: 
+Geewetry: Random
+Fipu: AIMyBot1
+
+Joins: Geewetry, chips: 1000
+Joins: Fipu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewetry
+Small Blind: Geewetry, chips: 100
+Big Blind: Fipu, chips: 200
+Calls: Geewetry
+DEBUG MESSAGE: INVALID ACTION FROM Fipu (2 0)
+Folds: Fipu
+Pot size: 400
+Wins: Geewetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipu
+Small Blind: Fipu, chips: 100
+Big Blind: Geewetry, chips: 200
+Folds: Fipu
+Pot size: 300
+Boasts: Geewetry, 2s 5s
+Wins: Geewetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewetry
+Small Blind: Geewetry, chips: 100
+Big Blind: Fipu, chips: 200
+Calls: Geewetry
+DEBUG MESSAGE: INVALID ACTION FROM Fipu (2 0)
+Folds: Fipu
+Pot size: 400
+Boasts: Geewetry, 9c 6s
+Wins: Geewetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipu
+Small Blind: Fipu, chips: 100
+Big Blind: Geewetry, chips: 200
+Folds: Fipu
+Pot size: 300
+Boasts: Geewetry, Th 3s
+Wins: Geewetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewetry
+Small Blind: Geewetry, chips: 100
+Big Blind: Fipu, chips: 200
+Raises: Geewetry, chips: 300
+Folds: Fipu
+Pot size: 700
+Boasts: Geewetry, Kc Tc
+Wins: Geewetry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipu
+Small Blind: Fipu, chips: 100
+Big Blind: Geewetry, chips: 200
+Folds: Fipu
+Pot size: 300
+Wins: Geewetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewetry
+Small Blind: Geewetry, chips: 100
+Big Blind: Fipu, chips: 100
+Flop: 8d 7d As
+Turn: Ah
+River: 7s
+Pot size: 200
+Showdown Reached
+Shows: Geewetry, Qc Jd
+Combination: Geewetry, Two Pair ( As Ah 7d 7s Qc )
+Shows: Fipu, Ks Jc
+Combination: Fipu, Two Pair ( As Ah 7d 7s Ks )
+Wins: Fipu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipu
+Small Blind: Fipu, chips: 100
+Big Blind: Geewetry, chips: 200
+Folds: Fipu
+Pot size: 300
+Wins: Geewetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewetry
+Small Blind: Geewetry, chips: 100
+Big Blind: Fipu, chips: 100
+Flop: 5c 3d Kd
+Turn: Td
+River: 2c
+Pot size: 200
+Showdown Reached
+Shows: Geewetry, 6d As
+Combination: Geewetry, High Card ( As Kd Td 6d 5c )
+Shows: Fipu, 8h 3h
+Combination: Fipu, Pair ( 3h 3d Kd Td 8h )
+Wins: Fipu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipu
+Small Blind: Fipu, chips: 100
+Big Blind: Geewetry, chips: 200
+Folds: Fipu
+Pot size: 300
+Boasts: Geewetry, 2c Js
+Wins: Geewetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewetry
+Small Blind: Geewetry, chips: 100
+Big Blind: Fipu, chips: 100
+Flop: 6h 5s 4s
+Turn: 7c
+River: Kh
+Pot size: 200
+Showdown Reached
+Shows: Geewetry, 2h Jd
+Combination: Geewetry, High Card ( Kh Jd 7c 6h 5s )
+Shows: Fipu, Kd 5h
+Combination: Fipu, Two Pair ( Kd Kh 5h 5s 7c )
+Wins: Fipu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipu
+Small Blind: Fipu, chips: 100
+Big Blind: Geewetry, chips: 200
+Folds: Fipu
+Pot size: 300
+Wins: Geewetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geewetry
+Small Blind: Geewetry, chips: 100
+Big Blind: Fipu, chips: 100
+Flop: 8h 6c Td
+Turn: 8d
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Geewetry, 5s Ah
+Combination: Geewetry, Two Pair ( Td Ts 8h 8d Ah )
+Shows: Fipu, 4s 3d
+Combination: Fipu, Two Pair ( Td Ts 8h 8d 6c )
+Wins: Geewetry, chips: 200
+Quits: Fipu, chips: 0
+Ranking: Geewetry, Place: 1, Score: 1000
+Reveal AI: Geewetry, AI: Random
+Ranking: Fipu, Place: 2, Score: -1000
+Reveal AI: Fipu, AI: AIMyBot1
+
+Player Stats for Fipu, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Geewetry, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.25
+
+

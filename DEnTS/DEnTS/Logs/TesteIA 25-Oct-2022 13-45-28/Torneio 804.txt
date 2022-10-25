@@ -1,0 +1,268 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Poe: AIMyBot1
+Koeveemu: Random
+
+Joins: Poe, chips: 1000
+Joins: Koeveemu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koeveemu
+Small Blind: Koeveemu, chips: 100
+Big Blind: Poe, chips: 200
+Calls: Koeveemu
+DEBUG MESSAGE: INVALID ACTION FROM Poe (2 0)
+Folds: Poe
+Pot size: 400
+Wins: Koeveemu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Koeveemu, chips: 200
+Folds: Poe
+Pot size: 300
+Wins: Koeveemu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koeveemu
+Small Blind: Koeveemu, chips: 100
+Big Blind: Poe, chips: 200
+Raises: Koeveemu, chips: 300
+Folds: Poe
+Pot size: 700
+Boasts: Koeveemu, 4h 3d
+Wins: Koeveemu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Koeveemu, chips: 200
+Folds: Poe
+Pot size: 300
+Boasts: Koeveemu, 6s Js
+Wins: Koeveemu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koeveemu
+Small Blind: Koeveemu, chips: 100
+Big Blind: Poe, chips: 200
+Calls: Koeveemu
+DEBUG MESSAGE: INVALID ACTION FROM Poe (2 0)
+Folds: Poe
+Pot size: 400
+Wins: Koeveemu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Koeveemu, chips: 200
+Folds: Poe
+Pot size: 300
+Boasts: Koeveemu, 8h Kh
+Wins: Koeveemu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koeveemu
+Small Blind: Koeveemu, chips: 100
+Big Blind: Poe, chips: 100
+Flop: Qd 5h 8s
+Turn: 3c
+River: Th
+Pot size: 200
+Showdown Reached
+Shows: Poe, 8c Kd
+Combination: Poe, Pair ( 8c 8s Kd Qd Th )
+Shows: Koeveemu, 6c As
+Combination: Koeveemu, High Card ( As Qd Th 8s 6c )
+Wins: Poe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Koeveemu, chips: 200
+Folds: Poe
+Pot size: 300
+Boasts: Koeveemu, 5s 5d
+Wins: Koeveemu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koeveemu
+Small Blind: Koeveemu, chips: 100
+Big Blind: Poe, chips: 100
+Flop: 4s 9c 9s
+Turn: Ad
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Poe, Qd 3c
+Combination: Poe, Two Pair ( 9c 9s 4s 4c Ad )
+Shows: Koeveemu, Tc Js
+Combination: Koeveemu, Two Pair ( 9c 9s 4s 4c Ad )
+Wins: Poe, chips: 100
+Wins: Koeveemu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Koeveemu, chips: 200
+Flop: 5d Kh 6d
+Turn: Js
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Poe, Ts As
+Combination: Poe, High Card ( As Kh Js Ts 9s )
+Shows: Koeveemu, 6s 7h
+Combination: Koeveemu, Pair ( 6s 6d Kh Js 9s )
+Wins: Koeveemu, chips: 300
+Quits: Poe, chips: 0
+Ranking: Koeveemu, Place: 1, Score: 1000
+Reveal AI: Koeveemu, AI: Random
+Ranking: Poe, Place: 2, Score: -1000
+Reveal AI: Poe, AI: AIMyBot1
+
+Player Stats for Koeveemu, AI: Random
+General: deals: 10, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 2, bluff: 7
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.1, 3Bet: 0.1
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Poe, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:22
+
+The game begins. The AI's of the players are: 
+Poe: AIMyBot1
+Koeveemu: Random
+
+Joins: Poe, chips: 1000
+Joins: Koeveemu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koeveemu
+Small Blind: Koeveemu, chips: 100
+Big Blind: Poe, chips: 200
+Calls: Koeveemu
+DEBUG MESSAGE: INVALID ACTION FROM Poe (2 0)
+Folds: Poe
+Pot size: 400
+Wins: Koeveemu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Koeveemu, chips: 200
+Folds: Poe
+Pot size: 300
+Wins: Koeveemu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koeveemu
+Small Blind: Koeveemu, chips: 100
+Big Blind: Poe, chips: 200
+Raises: Koeveemu, chips: 300
+Folds: Poe
+Pot size: 700
+Boasts: Koeveemu, 4h 3d
+Wins: Koeveemu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Koeveemu, chips: 200
+Folds: Poe
+Pot size: 300
+Boasts: Koeveemu, 6s Js
+Wins: Koeveemu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koeveemu
+Small Blind: Koeveemu, chips: 100
+Big Blind: Poe, chips: 200
+Calls: Koeveemu
+DEBUG MESSAGE: INVALID ACTION FROM Poe (2 0)
+Folds: Poe
+Pot size: 400
+Wins: Koeveemu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Koeveemu, chips: 200
+Folds: Poe
+Pot size: 300
+Boasts: Koeveemu, 8h Kh
+Wins: Koeveemu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koeveemu
+Small Blind: Koeveemu, chips: 100
+Big Blind: Poe, chips: 100
+Flop: Qd 5h 8s
+Turn: 3c
+River: Th
+Pot size: 200
+Showdown Reached
+Shows: Poe, 8c Kd
+Combination: Poe, Pair ( 8c 8s Kd Qd Th )
+Shows: Koeveemu, 6c As
+Combination: Koeveemu, High Card ( As Qd Th 8s 6c )
+Wins: Poe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Koeveemu, chips: 200
+Folds: Poe
+Pot size: 300
+Boasts: Koeveemu, 5s 5d
+Wins: Koeveemu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koeveemu
+Small Blind: Koeveemu, chips: 100
+Big Blind: Poe, chips: 100
+Flop: 4s 9c 9s
+Turn: Ad
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Poe, Qd 3c
+Combination: Poe, Two Pair ( 9c 9s 4s 4c Ad )
+Shows: Koeveemu, Tc Js
+Combination: Koeveemu, Two Pair ( 9c 9s 4s 4c Ad )
+Wins: Poe, chips: 100
+Wins: Koeveemu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 100
+Big Blind: Koeveemu, chips: 200
+Flop: 5d Kh 6d
+Turn: Js
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Poe, Ts As
+Combination: Poe, High Card ( As Kh Js Ts 9s )
+Shows: Koeveemu, 6s 7h
+Combination: Koeveemu, Pair ( 6s 6d Kh Js 9s )
+Wins: Koeveemu, chips: 300
+Quits: Poe, chips: 0
+Ranking: Koeveemu, Place: 1, Score: 1000
+Reveal AI: Koeveemu, AI: Random
+Ranking: Poe, Place: 2, Score: -1000
+Reveal AI: Poe, AI: AIMyBot1
+
+Player Stats for Koeveemu, AI: Random
+General: deals: 10, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 2, bluff: 7
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.1, 3Bet: 0.1
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Poe, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

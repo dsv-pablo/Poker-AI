@@ -1,0 +1,330 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Nupunhee: AIMyBot1
+Bibav: Random
+
+Joins: Nupunhee, chips: 1000
+Joins: Bibav, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bibav
+Small Blind: Bibav, chips: 100
+Big Blind: Nupunhee, chips: 200
+Calls: Bibav
+DEBUG MESSAGE: INVALID ACTION FROM Nupunhee (2 0)
+Folds: Nupunhee
+Pot size: 400
+Boasts: Bibav, 2c Qc
+Wins: Bibav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupunhee
+Small Blind: Nupunhee, chips: 100
+Big Blind: Bibav, chips: 200
+Folds: Nupunhee
+Pot size: 300
+Boasts: Bibav, 7h 9s
+Wins: Bibav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bibav
+Small Blind: Bibav, chips: 100
+Big Blind: Nupunhee, chips: 200
+Calls: Bibav
+DEBUG MESSAGE: INVALID ACTION FROM Nupunhee (2 0)
+Folds: Nupunhee
+Pot size: 400
+Wins: Bibav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupunhee
+Small Blind: Nupunhee, chips: 100
+Big Blind: Bibav, chips: 200
+Folds: Nupunhee
+Pot size: 300
+Boasts: Bibav, 6s Qd
+Wins: Bibav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bibav
+Small Blind: Bibav, chips: 100
+Big Blind: Nupunhee, chips: 200
+Folds: Bibav
+Pot size: 300
+Wins: Nupunhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupunhee
+Small Blind: Nupunhee, chips: 100
+Big Blind: Bibav, chips: 200
+Folds: Nupunhee
+Pot size: 300
+Wins: Bibav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bibav
+Small Blind: Bibav, chips: 100
+Big Blind: Nupunhee, chips: 200
+Folds: Bibav
+Pot size: 300
+Boasts: Bibav, As 5c
+Wins: Nupunhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupunhee
+Small Blind: Nupunhee, chips: 100
+Big Blind: Bibav, chips: 200
+Folds: Nupunhee
+Pot size: 300
+Wins: Bibav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bibav
+Small Blind: Bibav, chips: 100
+Big Blind: Nupunhee, chips: 200
+Folds: Bibav
+Pot size: 300
+Boasts: Bibav, 4c 3h
+Wins: Nupunhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupunhee
+Small Blind: Nupunhee, chips: 100
+Big Blind: Bibav, chips: 200
+Folds: Nupunhee
+Pot size: 300
+Boasts: Bibav, 6d 3c
+Wins: Bibav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bibav
+Small Blind: Bibav, chips: 100
+Big Blind: Nupunhee, chips: 200
+Calls: Bibav
+DEBUG MESSAGE: INVALID ACTION FROM Nupunhee (2 0)
+Folds: Nupunhee
+Pot size: 400
+Wins: Bibav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupunhee
+Small Blind: Nupunhee, chips: 100
+Big Blind: Bibav, chips: 200
+Folds: Nupunhee
+Pot size: 300
+Wins: Bibav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bibav
+Small Blind: Bibav, chips: 100
+Big Blind: Nupunhee, chips: 100
+Flop: 2d Qs Ac
+Turn: 5c
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Nupunhee, Ts Th
+Combination: Nupunhee, Pair ( Ts Th Ac Qs 8s )
+Shows: Bibav, 2s Kd
+Combination: Bibav, Pair ( 2s 2d Ac Kd Qs )
+Wins: Nupunhee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupunhee
+Small Blind: Nupunhee, chips: 100
+Big Blind: Bibav, chips: 200
+Folds: Nupunhee
+Pot size: 300
+Boasts: Bibav, 4h Ks
+Wins: Bibav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bibav
+Small Blind: Bibav, chips: 100
+Big Blind: Nupunhee, chips: 100
+Flop: 7d 2c 3d
+Turn: 9s
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Nupunhee, 3c 6d
+Combination: Nupunhee, Pair ( 3c 3d 9s 7d 6d )
+Shows: Bibav, Qd 7s
+Combination: Bibav, Pair ( 7s 7d Qd 9s 5s )
+Wins: Bibav, chips: 200
+Quits: Nupunhee, chips: 0
+Ranking: Bibav, Place: 1, Score: 1000
+Reveal AI: Bibav, AI: Random
+Ranking: Nupunhee, Place: 2, Score: -1000
+Reveal AI: Nupunhee, AI: AIMyBot1
+
+Player Stats for Bibav, AI: Random
+General: deals: 15, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Nupunhee, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 4, showdown: 1, bluff: 3
+Chips: won: 1100, lost: 2100, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:59
+
+The game begins. The AI's of the players are: 
+Nupunhee: AIMyBot1
+Bibav: Random
+
+Joins: Nupunhee, chips: 1000
+Joins: Bibav, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bibav
+Small Blind: Bibav, chips: 100
+Big Blind: Nupunhee, chips: 200
+Calls: Bibav
+DEBUG MESSAGE: INVALID ACTION FROM Nupunhee (2 0)
+Folds: Nupunhee
+Pot size: 400
+Boasts: Bibav, 2c Qc
+Wins: Bibav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupunhee
+Small Blind: Nupunhee, chips: 100
+Big Blind: Bibav, chips: 200
+Folds: Nupunhee
+Pot size: 300
+Boasts: Bibav, 7h 9s
+Wins: Bibav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bibav
+Small Blind: Bibav, chips: 100
+Big Blind: Nupunhee, chips: 200
+Calls: Bibav
+DEBUG MESSAGE: INVALID ACTION FROM Nupunhee (2 0)
+Folds: Nupunhee
+Pot size: 400
+Wins: Bibav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupunhee
+Small Blind: Nupunhee, chips: 100
+Big Blind: Bibav, chips: 200
+Folds: Nupunhee
+Pot size: 300
+Boasts: Bibav, 6s Qd
+Wins: Bibav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bibav
+Small Blind: Bibav, chips: 100
+Big Blind: Nupunhee, chips: 200
+Folds: Bibav
+Pot size: 300
+Wins: Nupunhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupunhee
+Small Blind: Nupunhee, chips: 100
+Big Blind: Bibav, chips: 200
+Folds: Nupunhee
+Pot size: 300
+Wins: Bibav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bibav
+Small Blind: Bibav, chips: 100
+Big Blind: Nupunhee, chips: 200
+Folds: Bibav
+Pot size: 300
+Boasts: Bibav, As 5c
+Wins: Nupunhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupunhee
+Small Blind: Nupunhee, chips: 100
+Big Blind: Bibav, chips: 200
+Folds: Nupunhee
+Pot size: 300
+Wins: Bibav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bibav
+Small Blind: Bibav, chips: 100
+Big Blind: Nupunhee, chips: 200
+Folds: Bibav
+Pot size: 300
+Boasts: Bibav, 4c 3h
+Wins: Nupunhee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupunhee
+Small Blind: Nupunhee, chips: 100
+Big Blind: Bibav, chips: 200
+Folds: Nupunhee
+Pot size: 300
+Boasts: Bibav, 6d 3c
+Wins: Bibav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bibav
+Small Blind: Bibav, chips: 100
+Big Blind: Nupunhee, chips: 200
+Calls: Bibav
+DEBUG MESSAGE: INVALID ACTION FROM Nupunhee (2 0)
+Folds: Nupunhee
+Pot size: 400
+Wins: Bibav, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupunhee
+Small Blind: Nupunhee, chips: 100
+Big Blind: Bibav, chips: 200
+Folds: Nupunhee
+Pot size: 300
+Wins: Bibav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bibav
+Small Blind: Bibav, chips: 100
+Big Blind: Nupunhee, chips: 100
+Flop: 2d Qs Ac
+Turn: 5c
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Nupunhee, Ts Th
+Combination: Nupunhee, Pair ( Ts Th Ac Qs 8s )
+Shows: Bibav, 2s Kd
+Combination: Bibav, Pair ( 2s 2d Ac Kd Qs )
+Wins: Nupunhee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupunhee
+Small Blind: Nupunhee, chips: 100
+Big Blind: Bibav, chips: 200
+Folds: Nupunhee
+Pot size: 300
+Boasts: Bibav, 4h Ks
+Wins: Bibav, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Bibav
+Small Blind: Bibav, chips: 100
+Big Blind: Nupunhee, chips: 100
+Flop: 7d 2c 3d
+Turn: 9s
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Nupunhee, 3c 6d
+Combination: Nupunhee, Pair ( 3c 3d 9s 7d 6d )
+Shows: Bibav, Qd 7s
+Combination: Bibav, Pair ( 7s 7d Qd 9s 5s )
+Wins: Bibav, chips: 200
+Quits: Nupunhee, chips: 0
+Ranking: Bibav, Place: 1, Score: 1000
+Reveal AI: Bibav, AI: Random
+Ranking: Nupunhee, Place: 2, Score: -1000
+Reveal AI: Nupunhee, AI: AIMyBot1
+
+Player Stats for Bibav, AI: Random
+General: deals: 15, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Nupunhee, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 4, showdown: 1, bluff: 3
+Chips: won: 1100, lost: 2100, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

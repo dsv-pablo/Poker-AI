@@ -1,0 +1,282 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Kuve: Random
+Dabo: AIMyBot1
+
+Joins: Kuve, chips: 1000
+Joins: Dabo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dabo
+Small Blind: Dabo, chips: 100
+Big Blind: Kuve, chips: 200
+Folds: Dabo
+Pot size: 300
+Wins: Kuve, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuve
+Small Blind: Kuve, chips: 100
+Big Blind: Dabo, chips: 200
+Calls: Kuve
+DEBUG MESSAGE: INVALID ACTION FROM Dabo (2 0)
+Folds: Dabo
+Pot size: 400
+Wins: Kuve, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dabo
+Small Blind: Dabo, chips: 100
+Big Blind: Kuve, chips: 200
+Folds: Dabo
+Pot size: 300
+Boasts: Kuve, Qh Ks
+Wins: Kuve, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuve
+Small Blind: Kuve, chips: 100
+Big Blind: Dabo, chips: 200
+Calls: Kuve
+DEBUG MESSAGE: INVALID ACTION FROM Dabo (2 0)
+Folds: Dabo
+Pot size: 400
+Wins: Kuve, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dabo
+Small Blind: Dabo, chips: 100
+Big Blind: Kuve, chips: 200
+Folds: Dabo
+Pot size: 300
+Wins: Kuve, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuve
+Small Blind: Kuve, chips: 100
+Big Blind: Dabo, chips: 200
+Calls: Kuve
+DEBUG MESSAGE: INVALID ACTION FROM Dabo (2 0)
+Folds: Dabo
+Pot size: 400
+Wins: Kuve, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dabo
+Small Blind: Dabo, chips: 100
+Big Blind: Kuve, chips: 200
+Flop: 3c 6s 7h
+Turn: 9d
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Kuve, 8s 3d
+Combination: Kuve, Pair ( 3d 3c Kc 9d 8s )
+Shows: Dabo, Jh 7d
+Combination: Dabo, Pair ( 7d 7h Kc Jh 9d )
+Wins: Kuve, chips: 100
+Wins: Dabo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuve
+Small Blind: Kuve, chips: 100
+Big Blind: Dabo, chips: 200
+Flop: 9h 6d Ks
+Turn: Kc
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Kuve, 9d 4h
+Combination: Kuve, Two Pair ( Ks Kc 9d 9h Qh )
+Shows: Dabo, Ah 7c
+Combination: Dabo, Pair ( Ks Kc Ah Qh 9h )
+Wins: Kuve, chips: 200
+Wins: Dabo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dabo
+Small Blind: Dabo, chips: 100
+Big Blind: Kuve, chips: 200
+Flop: 9d 8d Td
+Turn: 2d
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Kuve, Jh 9s
+Combination: Kuve, Flush ( Td 9d 8d 4d 2d )
+Shows: Dabo, 3s Ks
+Combination: Dabo, Flush ( Td 9d 8d 4d 2d )
+Wins: Kuve, chips: 200
+Wins: Dabo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuve
+Small Blind: Kuve, chips: 100
+Big Blind: Dabo, chips: 100
+Flop: 8d Kd 6h
+Turn: 6c
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Kuve, 6d 8c
+Combination: Kuve, Full House ( 6d 6h 6c 8c 8d )
+Shows: Dabo, Js 8s
+Combination: Dabo, Two Pair ( 8s 8d 6h 6c Kd )
+Wins: Kuve, chips: 200
+Quits: Dabo, chips: 0
+Ranking: Kuve, Place: 1, Score: 1000
+Reveal AI: Kuve, AI: Random
+Ranking: Dabo, Place: 2, Score: -1000
+Reveal AI: Dabo, AI: AIMyBot1
+
+Player Stats for Dabo, AI: AIMyBot1
+General: deals: 10, actions: 6, preflop actions: 6
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Kuve, AI: Random
+General: deals: 10, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 4, bluff: 6
+Chips: won: 2800, lost: 1800, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:30
+
+The game begins. The AI's of the players are: 
+Kuve: Random
+Dabo: AIMyBot1
+
+Joins: Kuve, chips: 1000
+Joins: Dabo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dabo
+Small Blind: Dabo, chips: 100
+Big Blind: Kuve, chips: 200
+Folds: Dabo
+Pot size: 300
+Wins: Kuve, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuve
+Small Blind: Kuve, chips: 100
+Big Blind: Dabo, chips: 200
+Calls: Kuve
+DEBUG MESSAGE: INVALID ACTION FROM Dabo (2 0)
+Folds: Dabo
+Pot size: 400
+Wins: Kuve, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dabo
+Small Blind: Dabo, chips: 100
+Big Blind: Kuve, chips: 200
+Folds: Dabo
+Pot size: 300
+Boasts: Kuve, Qh Ks
+Wins: Kuve, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuve
+Small Blind: Kuve, chips: 100
+Big Blind: Dabo, chips: 200
+Calls: Kuve
+DEBUG MESSAGE: INVALID ACTION FROM Dabo (2 0)
+Folds: Dabo
+Pot size: 400
+Wins: Kuve, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dabo
+Small Blind: Dabo, chips: 100
+Big Blind: Kuve, chips: 200
+Folds: Dabo
+Pot size: 300
+Wins: Kuve, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuve
+Small Blind: Kuve, chips: 100
+Big Blind: Dabo, chips: 200
+Calls: Kuve
+DEBUG MESSAGE: INVALID ACTION FROM Dabo (2 0)
+Folds: Dabo
+Pot size: 400
+Wins: Kuve, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dabo
+Small Blind: Dabo, chips: 100
+Big Blind: Kuve, chips: 200
+Flop: 3c 6s 7h
+Turn: 9d
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Kuve, 8s 3d
+Combination: Kuve, Pair ( 3d 3c Kc 9d 8s )
+Shows: Dabo, Jh 7d
+Combination: Dabo, Pair ( 7d 7h Kc Jh 9d )
+Wins: Kuve, chips: 100
+Wins: Dabo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuve
+Small Blind: Kuve, chips: 100
+Big Blind: Dabo, chips: 200
+Flop: 9h 6d Ks
+Turn: Kc
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Kuve, 9d 4h
+Combination: Kuve, Two Pair ( Ks Kc 9d 9h Qh )
+Shows: Dabo, Ah 7c
+Combination: Dabo, Pair ( Ks Kc Ah Qh 9h )
+Wins: Kuve, chips: 200
+Wins: Dabo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dabo
+Small Blind: Dabo, chips: 100
+Big Blind: Kuve, chips: 200
+Flop: 9d 8d Td
+Turn: 2d
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Kuve, Jh 9s
+Combination: Kuve, Flush ( Td 9d 8d 4d 2d )
+Shows: Dabo, 3s Ks
+Combination: Dabo, Flush ( Td 9d 8d 4d 2d )
+Wins: Kuve, chips: 200
+Wins: Dabo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kuve
+Small Blind: Kuve, chips: 100
+Big Blind: Dabo, chips: 100
+Flop: 8d Kd 6h
+Turn: 6c
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Kuve, 6d 8c
+Combination: Kuve, Full House ( 6d 6h 6c 8c 8d )
+Shows: Dabo, Js 8s
+Combination: Dabo, Two Pair ( 8s 8d 6h 6c Kd )
+Wins: Kuve, chips: 200
+Quits: Dabo, chips: 0
+Ranking: Kuve, Place: 1, Score: 1000
+Reveal AI: Kuve, AI: Random
+Ranking: Dabo, Place: 2, Score: -1000
+Reveal AI: Dabo, AI: AIMyBot1
+
+Player Stats for Dabo, AI: AIMyBot1
+General: deals: 10, actions: 6, preflop actions: 6
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Kuve, AI: Random
+General: deals: 10, actions: 3, preflop actions: 3
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 10, showdown: 4, bluff: 6
+Chips: won: 2800, lost: 1800, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

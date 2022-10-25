@@ -1,0 +1,370 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wafeenha: AIMyBot1
+Lahuniv: Random
+
+Joins: Wafeenha, chips: 1000
+Joins: Lahuniv, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wafeenha
+Small Blind: Wafeenha, chips: 100
+Big Blind: Lahuniv, chips: 200
+Folds: Wafeenha
+Pot size: 300
+Boasts: Lahuniv, Qc 2h
+Wins: Lahuniv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lahuniv
+Small Blind: Lahuniv, chips: 100
+Big Blind: Wafeenha, chips: 200
+Calls: Lahuniv
+DEBUG MESSAGE: INVALID ACTION FROM Wafeenha (2 0)
+Folds: Wafeenha
+Pot size: 400
+Boasts: Lahuniv, 8h 7s
+Wins: Lahuniv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wafeenha
+Small Blind: Wafeenha, chips: 100
+Big Blind: Lahuniv, chips: 200
+Folds: Wafeenha
+Pot size: 300
+Wins: Lahuniv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lahuniv
+Small Blind: Lahuniv, chips: 100
+Big Blind: Wafeenha, chips: 200
+Raises: Lahuniv, chips: 300
+Folds: Wafeenha
+Pot size: 700
+Boasts: Lahuniv, 2c Th
+Wins: Lahuniv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wafeenha
+Small Blind: Wafeenha, chips: 100
+Big Blind: Lahuniv, chips: 200
+Folds: Wafeenha
+Pot size: 300
+Boasts: Lahuniv, 6d 7h
+Wins: Lahuniv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lahuniv
+Small Blind: Lahuniv, chips: 100
+Big Blind: Wafeenha, chips: 200
+Folds: Lahuniv
+Pot size: 300
+Boasts: Lahuniv, Th Jc
+Wins: Wafeenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wafeenha
+Small Blind: Wafeenha, chips: 100
+Big Blind: Lahuniv, chips: 200
+Folds: Wafeenha
+Pot size: 300
+Wins: Lahuniv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lahuniv
+Small Blind: Lahuniv, chips: 100
+Big Blind: Wafeenha, chips: 200
+Calls: Lahuniv
+DEBUG MESSAGE: INVALID ACTION FROM Wafeenha (2 0)
+Folds: Wafeenha
+Pot size: 400
+Wins: Lahuniv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wafeenha
+Small Blind: Wafeenha, chips: 100
+Big Blind: Lahuniv, chips: 200
+Flop: Kc 6c Jc
+Turn: Td
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Wafeenha, 3h 5s
+Combination: Wafeenha, Pair ( 3h 3c Kc Jc Td )
+Shows: Lahuniv, 2s 7s
+Combination: Lahuniv, High Card ( Kc Jc Td 7s 6c )
+Wins: Wafeenha, chips: 200
+Wins: Lahuniv, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lahuniv
+Small Blind: Lahuniv, chips: 100
+Big Blind: Wafeenha, chips: 200
+Flop: Qs 7s 9d
+Turn: 9c
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Wafeenha, 9h 2c
+Combination: Wafeenha, Full House ( 9h 9d 9c 2c 2h )
+Shows: Lahuniv, Jc 6h
+Combination: Lahuniv, Pair ( 9d 9c Qs Jc 7s )
+Wins: Wafeenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wafeenha
+Small Blind: Wafeenha, chips: 100
+Big Blind: Lahuniv, chips: 200
+Folds: Wafeenha
+Pot size: 300
+Wins: Lahuniv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lahuniv
+Small Blind: Lahuniv, chips: 100
+Big Blind: Wafeenha, chips: 200
+Flop: 2d 5h Ah
+Turn: Qs
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Wafeenha, Qc Qh
+Combination: Wafeenha, Full House ( Qc Qh Qs Ah Ad )
+Shows: Lahuniv, Kh 6c
+Combination: Lahuniv, Pair ( Ah Ad Kh Qs 6c )
+Wins: Wafeenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wafeenha
+Small Blind: Wafeenha, chips: 100
+Big Blind: Lahuniv, chips: 200
+Folds: Wafeenha
+Pot size: 300
+Wins: Lahuniv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lahuniv
+Small Blind: Lahuniv, chips: 100
+Big Blind: Wafeenha, chips: 200
+Flop: 6c 4s Ts
+Turn: 3h
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Wafeenha, 3d 9d
+Combination: Wafeenha, Pair ( 3d 3h Qh Ts 9d )
+Shows: Lahuniv, Ks 3c
+Combination: Lahuniv, Pair ( 3c 3h Ks Qh Ts )
+Wins: Wafeenha, chips: 100
+Wins: Lahuniv, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wafeenha
+Small Blind: Wafeenha, chips: 100
+Big Blind: Lahuniv, chips: 200
+Flop: Kd Qc 2d
+Turn: 7s
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Wafeenha, 8c 5d
+Combination: Wafeenha, High Card ( Kd Qc 9s 8c 7s )
+Shows: Lahuniv, 2c Ad
+Combination: Lahuniv, Pair ( 2c 2d Ad Kd Qc )
+Wins: Lahuniv, chips: 300
+Quits: Wafeenha, chips: 0
+Ranking: Lahuniv, Place: 1, Score: 1000
+Reveal AI: Lahuniv, AI: Random
+Ranking: Wafeenha, Place: 2, Score: -1000
+Reveal AI: Wafeenha, AI: AIMyBot1
+
+Player Stats for Lahuniv, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+
+Player Stats for Wafeenha, AI: AIMyBot1
+General: deals: 15, actions: 9, preflop actions: 9
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Date: 2022/10/25 13:45:37
+
+The game begins. The AI's of the players are: 
+Wafeenha: AIMyBot1
+Lahuniv: Random
+
+Joins: Wafeenha, chips: 1000
+Joins: Lahuniv, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wafeenha
+Small Blind: Wafeenha, chips: 100
+Big Blind: Lahuniv, chips: 200
+Folds: Wafeenha
+Pot size: 300
+Boasts: Lahuniv, Qc 2h
+Wins: Lahuniv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lahuniv
+Small Blind: Lahuniv, chips: 100
+Big Blind: Wafeenha, chips: 200
+Calls: Lahuniv
+DEBUG MESSAGE: INVALID ACTION FROM Wafeenha (2 0)
+Folds: Wafeenha
+Pot size: 400
+Boasts: Lahuniv, 8h 7s
+Wins: Lahuniv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wafeenha
+Small Blind: Wafeenha, chips: 100
+Big Blind: Lahuniv, chips: 200
+Folds: Wafeenha
+Pot size: 300
+Wins: Lahuniv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lahuniv
+Small Blind: Lahuniv, chips: 100
+Big Blind: Wafeenha, chips: 200
+Raises: Lahuniv, chips: 300
+Folds: Wafeenha
+Pot size: 700
+Boasts: Lahuniv, 2c Th
+Wins: Lahuniv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wafeenha
+Small Blind: Wafeenha, chips: 100
+Big Blind: Lahuniv, chips: 200
+Folds: Wafeenha
+Pot size: 300
+Boasts: Lahuniv, 6d 7h
+Wins: Lahuniv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lahuniv
+Small Blind: Lahuniv, chips: 100
+Big Blind: Wafeenha, chips: 200
+Folds: Lahuniv
+Pot size: 300
+Boasts: Lahuniv, Th Jc
+Wins: Wafeenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wafeenha
+Small Blind: Wafeenha, chips: 100
+Big Blind: Lahuniv, chips: 200
+Folds: Wafeenha
+Pot size: 300
+Wins: Lahuniv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lahuniv
+Small Blind: Lahuniv, chips: 100
+Big Blind: Wafeenha, chips: 200
+Calls: Lahuniv
+DEBUG MESSAGE: INVALID ACTION FROM Wafeenha (2 0)
+Folds: Wafeenha
+Pot size: 400
+Wins: Lahuniv, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wafeenha
+Small Blind: Wafeenha, chips: 100
+Big Blind: Lahuniv, chips: 200
+Flop: Kc 6c Jc
+Turn: Td
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Wafeenha, 3h 5s
+Combination: Wafeenha, Pair ( 3h 3c Kc Jc Td )
+Shows: Lahuniv, 2s 7s
+Combination: Lahuniv, High Card ( Kc Jc Td 7s 6c )
+Wins: Wafeenha, chips: 200
+Wins: Lahuniv, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lahuniv
+Small Blind: Lahuniv, chips: 100
+Big Blind: Wafeenha, chips: 200
+Flop: Qs 7s 9d
+Turn: 9c
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Wafeenha, 9h 2c
+Combination: Wafeenha, Full House ( 9h 9d 9c 2c 2h )
+Shows: Lahuniv, Jc 6h
+Combination: Lahuniv, Pair ( 9d 9c Qs Jc 7s )
+Wins: Wafeenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wafeenha
+Small Blind: Wafeenha, chips: 100
+Big Blind: Lahuniv, chips: 200
+Folds: Wafeenha
+Pot size: 300
+Wins: Lahuniv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lahuniv
+Small Blind: Lahuniv, chips: 100
+Big Blind: Wafeenha, chips: 200
+Flop: 2d 5h Ah
+Turn: Qs
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Wafeenha, Qc Qh
+Combination: Wafeenha, Full House ( Qc Qh Qs Ah Ad )
+Shows: Lahuniv, Kh 6c
+Combination: Lahuniv, Pair ( Ah Ad Kh Qs 6c )
+Wins: Wafeenha, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wafeenha
+Small Blind: Wafeenha, chips: 100
+Big Blind: Lahuniv, chips: 200
+Folds: Wafeenha
+Pot size: 300
+Wins: Lahuniv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lahuniv
+Small Blind: Lahuniv, chips: 100
+Big Blind: Wafeenha, chips: 200
+Flop: 6c 4s Ts
+Turn: 3h
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Wafeenha, 3d 9d
+Combination: Wafeenha, Pair ( 3d 3h Qh Ts 9d )
+Shows: Lahuniv, Ks 3c
+Combination: Lahuniv, Pair ( 3c 3h Ks Qh Ts )
+Wins: Wafeenha, chips: 100
+Wins: Lahuniv, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wafeenha
+Small Blind: Wafeenha, chips: 100
+Big Blind: Lahuniv, chips: 200
+Flop: Kd Qc 2d
+Turn: 7s
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Wafeenha, 8c 5d
+Combination: Wafeenha, High Card ( Kd Qc 9s 8c 7s )
+Shows: Lahuniv, 2c Ad
+Combination: Lahuniv, Pair ( 2c 2d Ad Kd Qc )
+Wins: Lahuniv, chips: 300
+Quits: Wafeenha, chips: 0
+Ranking: Lahuniv, Place: 1, Score: 1000
+Reveal AI: Lahuniv, AI: Random
+Ranking: Wafeenha, Place: 2, Score: -1000
+Reveal AI: Wafeenha, AI: AIMyBot1
+
+Player Stats for Lahuniv, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+
+Player Stats for Wafeenha, AI: AIMyBot1
+General: deals: 15, actions: 9, preflop actions: 9
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+

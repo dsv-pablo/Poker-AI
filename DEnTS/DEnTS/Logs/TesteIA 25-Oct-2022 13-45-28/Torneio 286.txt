@@ -1,0 +1,262 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Mokof: Random
+Tegowee: AIMyBot1
+
+Joins: Mokof, chips: 1000
+Joins: Tegowee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokof
+Small Blind: Mokof, chips: 100
+Big Blind: Tegowee, chips: 200
+Calls: Mokof
+DEBUG MESSAGE: INVALID ACTION FROM Tegowee (2 0)
+Folds: Tegowee
+Pot size: 400
+Boasts: Mokof, 2h Kc
+Wins: Mokof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tegowee
+Small Blind: Tegowee, chips: 100
+Big Blind: Mokof, chips: 200
+Folds: Tegowee
+Pot size: 300
+Wins: Mokof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokof
+Small Blind: Mokof, chips: 100
+Big Blind: Tegowee, chips: 200
+Raises: Mokof, chips: 300
+Folds: Tegowee
+Pot size: 700
+Wins: Mokof, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tegowee
+Small Blind: Tegowee, chips: 100
+Big Blind: Mokof, chips: 200
+Folds: Tegowee
+Pot size: 300
+Boasts: Mokof, 7s Kh
+Wins: Mokof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokof
+Small Blind: Mokof, chips: 100
+Big Blind: Tegowee, chips: 200
+Folds: Mokof
+Pot size: 300
+Wins: Tegowee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tegowee
+Small Blind: Tegowee, chips: 100
+Big Blind: Mokof, chips: 200
+Folds: Tegowee
+Pot size: 300
+Wins: Mokof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokof
+Small Blind: Mokof, chips: 100
+Big Blind: Tegowee, chips: 200
+Calls: Mokof
+DEBUG MESSAGE: INVALID ACTION FROM Tegowee (2 0)
+Folds: Tegowee
+Pot size: 400
+Wins: Mokof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tegowee
+Small Blind: Tegowee, chips: 100
+Big Blind: Mokof, chips: 200
+Folds: Tegowee
+Pot size: 300
+Wins: Mokof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokof
+Small Blind: Mokof, chips: 100
+Big Blind: Tegowee, chips: 100
+Flop: 3d 6s Qd
+Turn: 9s
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Mokof, 8s Kc
+Combination: Mokof, High Card ( Kc Qd 9s 8s 7c )
+Shows: Tegowee, Kh 7h
+Combination: Tegowee, Pair ( 7h 7c Kh Qd 9s )
+Wins: Tegowee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tegowee
+Small Blind: Tegowee, chips: 100
+Big Blind: Mokof, chips: 200
+Folds: Tegowee
+Pot size: 300
+Wins: Mokof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokof
+Small Blind: Mokof, chips: 100
+Big Blind: Tegowee, chips: 100
+Flop: Ah 5c Jc
+Turn: Kd
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Mokof, Jh 9d
+Combination: Mokof, Pair ( Jh Jc Ah Kd 9d )
+Shows: Tegowee, 3s 8d
+Combination: Tegowee, Pair ( 8d 8s Ah Kd Jc )
+Wins: Mokof, chips: 200
+Quits: Tegowee, chips: 0
+Ranking: Mokof, Place: 1, Score: 1000
+Reveal AI: Mokof, AI: Random
+Ranking: Tegowee, Place: 2, Score: -1000
+Reveal AI: Tegowee, AI: AIMyBot1
+
+Player Stats for Mokof, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Tegowee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:48
+
+The game begins. The AI's of the players are: 
+Mokof: Random
+Tegowee: AIMyBot1
+
+Joins: Mokof, chips: 1000
+Joins: Tegowee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokof
+Small Blind: Mokof, chips: 100
+Big Blind: Tegowee, chips: 200
+Calls: Mokof
+DEBUG MESSAGE: INVALID ACTION FROM Tegowee (2 0)
+Folds: Tegowee
+Pot size: 400
+Boasts: Mokof, 2h Kc
+Wins: Mokof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tegowee
+Small Blind: Tegowee, chips: 100
+Big Blind: Mokof, chips: 200
+Folds: Tegowee
+Pot size: 300
+Wins: Mokof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokof
+Small Blind: Mokof, chips: 100
+Big Blind: Tegowee, chips: 200
+Raises: Mokof, chips: 300
+Folds: Tegowee
+Pot size: 700
+Wins: Mokof, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tegowee
+Small Blind: Tegowee, chips: 100
+Big Blind: Mokof, chips: 200
+Folds: Tegowee
+Pot size: 300
+Boasts: Mokof, 7s Kh
+Wins: Mokof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokof
+Small Blind: Mokof, chips: 100
+Big Blind: Tegowee, chips: 200
+Folds: Mokof
+Pot size: 300
+Wins: Tegowee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tegowee
+Small Blind: Tegowee, chips: 100
+Big Blind: Mokof, chips: 200
+Folds: Tegowee
+Pot size: 300
+Wins: Mokof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokof
+Small Blind: Mokof, chips: 100
+Big Blind: Tegowee, chips: 200
+Calls: Mokof
+DEBUG MESSAGE: INVALID ACTION FROM Tegowee (2 0)
+Folds: Tegowee
+Pot size: 400
+Wins: Mokof, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tegowee
+Small Blind: Tegowee, chips: 100
+Big Blind: Mokof, chips: 200
+Folds: Tegowee
+Pot size: 300
+Wins: Mokof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokof
+Small Blind: Mokof, chips: 100
+Big Blind: Tegowee, chips: 100
+Flop: 3d 6s Qd
+Turn: 9s
+River: 7c
+Pot size: 200
+Showdown Reached
+Shows: Mokof, 8s Kc
+Combination: Mokof, High Card ( Kc Qd 9s 8s 7c )
+Shows: Tegowee, Kh 7h
+Combination: Tegowee, Pair ( 7h 7c Kh Qd 9s )
+Wins: Tegowee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tegowee
+Small Blind: Tegowee, chips: 100
+Big Blind: Mokof, chips: 200
+Folds: Tegowee
+Pot size: 300
+Wins: Mokof, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokof
+Small Blind: Mokof, chips: 100
+Big Blind: Tegowee, chips: 100
+Flop: Ah 5c Jc
+Turn: Kd
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Mokof, Jh 9d
+Combination: Mokof, Pair ( Jh Jc Ah Kd 9d )
+Shows: Tegowee, 3s 8d
+Combination: Tegowee, Pair ( 8d 8s Ah Kd Jc )
+Wins: Mokof, chips: 200
+Quits: Tegowee, chips: 0
+Ranking: Mokof, Place: 1, Score: 1000
+Reveal AI: Mokof, AI: Random
+Ranking: Tegowee, Place: 2, Score: -1000
+Reveal AI: Tegowee, AI: AIMyBot1
+
+Player Stats for Mokof, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Tegowee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

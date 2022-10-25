@@ -1,0 +1,222 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hefoe: Random
+Mebanhi: AIMyBot1
+
+Joins: Hefoe, chips: 1000
+Joins: Mebanhi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefoe
+Small Blind: Hefoe, chips: 100
+Big Blind: Mebanhi, chips: 200
+Calls: Hefoe
+DEBUG MESSAGE: INVALID ACTION FROM Mebanhi (2 0)
+Folds: Mebanhi
+Pot size: 400
+Boasts: Hefoe, 5h 8h
+Wins: Hefoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mebanhi
+Small Blind: Mebanhi, chips: 100
+Big Blind: Hefoe, chips: 200
+Folds: Mebanhi
+Pot size: 300
+Boasts: Hefoe, 7h 2d
+Wins: Hefoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefoe
+Small Blind: Hefoe, chips: 100
+Big Blind: Mebanhi, chips: 200
+Folds: Hefoe
+Pot size: 300
+Wins: Mebanhi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mebanhi
+Small Blind: Mebanhi, chips: 100
+Big Blind: Hefoe, chips: 200
+Folds: Mebanhi
+Pot size: 300
+Wins: Hefoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefoe
+Small Blind: Hefoe, chips: 100
+Big Blind: Mebanhi, chips: 200
+Calls: Hefoe
+DEBUG MESSAGE: INVALID ACTION FROM Mebanhi (2 0)
+Folds: Mebanhi
+Pot size: 400
+Wins: Hefoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mebanhi
+Small Blind: Mebanhi, chips: 100
+Big Blind: Hefoe, chips: 200
+Folds: Mebanhi
+Pot size: 300
+Wins: Hefoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefoe
+Small Blind: Hefoe, chips: 100
+Big Blind: Mebanhi, chips: 200
+Raises: Hefoe, chips: 300
+Folds: Mebanhi
+Pot size: 700
+Wins: Hefoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mebanhi
+Small Blind: Mebanhi, chips: 100
+Big Blind: Hefoe, chips: 200
+Folds: Mebanhi
+Pot size: 300
+Boasts: Hefoe, Th 3h
+Wins: Hefoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefoe
+Small Blind: Hefoe, chips: 100
+Big Blind: Mebanhi, chips: 100
+Flop: As 6c 9h
+Turn: Td
+River: 5c
+Pot size: 200
+Showdown Reached
+Shows: Hefoe, 4s Qc
+Combination: Hefoe, High Card ( As Qc Td 9h 6c )
+Shows: Mebanhi, 2c Jd
+Combination: Mebanhi, High Card ( As Jd Td 9h 6c )
+Wins: Hefoe, chips: 200
+Quits: Mebanhi, chips: 0
+Ranking: Hefoe, Place: 1, Score: 1000
+Reveal AI: Hefoe, AI: Random
+Ranking: Mebanhi, Place: 2, Score: -1000
+Reveal AI: Mebanhi, AI: AIMyBot1
+
+Player Stats for Hefoe, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Mebanhi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:53
+
+The game begins. The AI's of the players are: 
+Hefoe: Random
+Mebanhi: AIMyBot1
+
+Joins: Hefoe, chips: 1000
+Joins: Mebanhi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefoe
+Small Blind: Hefoe, chips: 100
+Big Blind: Mebanhi, chips: 200
+Calls: Hefoe
+DEBUG MESSAGE: INVALID ACTION FROM Mebanhi (2 0)
+Folds: Mebanhi
+Pot size: 400
+Boasts: Hefoe, 5h 8h
+Wins: Hefoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mebanhi
+Small Blind: Mebanhi, chips: 100
+Big Blind: Hefoe, chips: 200
+Folds: Mebanhi
+Pot size: 300
+Boasts: Hefoe, 7h 2d
+Wins: Hefoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefoe
+Small Blind: Hefoe, chips: 100
+Big Blind: Mebanhi, chips: 200
+Folds: Hefoe
+Pot size: 300
+Wins: Mebanhi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mebanhi
+Small Blind: Mebanhi, chips: 100
+Big Blind: Hefoe, chips: 200
+Folds: Mebanhi
+Pot size: 300
+Wins: Hefoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefoe
+Small Blind: Hefoe, chips: 100
+Big Blind: Mebanhi, chips: 200
+Calls: Hefoe
+DEBUG MESSAGE: INVALID ACTION FROM Mebanhi (2 0)
+Folds: Mebanhi
+Pot size: 400
+Wins: Hefoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mebanhi
+Small Blind: Mebanhi, chips: 100
+Big Blind: Hefoe, chips: 200
+Folds: Mebanhi
+Pot size: 300
+Wins: Hefoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefoe
+Small Blind: Hefoe, chips: 100
+Big Blind: Mebanhi, chips: 200
+Raises: Hefoe, chips: 300
+Folds: Mebanhi
+Pot size: 700
+Wins: Hefoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mebanhi
+Small Blind: Mebanhi, chips: 100
+Big Blind: Hefoe, chips: 200
+Folds: Mebanhi
+Pot size: 300
+Boasts: Hefoe, Th 3h
+Wins: Hefoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hefoe
+Small Blind: Hefoe, chips: 100
+Big Blind: Mebanhi, chips: 100
+Flop: As 6c 9h
+Turn: Td
+River: 5c
+Pot size: 200
+Showdown Reached
+Shows: Hefoe, 4s Qc
+Combination: Hefoe, High Card ( As Qc Td 9h 6c )
+Shows: Mebanhi, 2c Jd
+Combination: Mebanhi, High Card ( As Jd Td 9h 6c )
+Wins: Hefoe, chips: 200
+Quits: Mebanhi, chips: 0
+Ranking: Hefoe, Place: 1, Score: 1000
+Reveal AI: Hefoe, AI: Random
+Ranking: Mebanhi, Place: 2, Score: -1000
+Reveal AI: Mebanhi, AI: AIMyBot1
+
+Player Stats for Hefoe, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Mebanhi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

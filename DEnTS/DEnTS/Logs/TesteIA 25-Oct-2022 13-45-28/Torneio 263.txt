@@ -1,0 +1,294 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Chodal: Random
+Chivi: AIMyBot1
+
+Joins: Chodal, chips: 1000
+Joins: Chivi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chivi
+Small Blind: Chivi, chips: 100
+Big Blind: Chodal, chips: 200
+Folds: Chivi
+Pot size: 300
+Boasts: Chodal, Td 7c
+Wins: Chodal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodal
+Small Blind: Chodal, chips: 100
+Big Blind: Chivi, chips: 200
+Folds: Chodal
+Pot size: 300
+Boasts: Chodal, Jc Jh
+Wins: Chivi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chivi
+Small Blind: Chivi, chips: 100
+Big Blind: Chodal, chips: 200
+Folds: Chivi
+Pot size: 300
+Wins: Chodal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodal
+Small Blind: Chodal, chips: 100
+Big Blind: Chivi, chips: 200
+Raises: Chodal, chips: 300
+Folds: Chivi
+Pot size: 700
+Boasts: Chodal, 9c 7h
+Wins: Chodal, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chivi
+Small Blind: Chivi, chips: 100
+Big Blind: Chodal, chips: 200
+Folds: Chivi
+Pot size: 300
+Wins: Chodal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodal
+Small Blind: Chodal, chips: 100
+Big Blind: Chivi, chips: 200
+Calls: Chodal
+DEBUG MESSAGE: INVALID ACTION FROM Chivi (2 0)
+Folds: Chivi
+Pot size: 400
+Wins: Chodal, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chivi
+Small Blind: Chivi, chips: 100
+Big Blind: Chodal, chips: 200
+Folds: Chivi
+Pot size: 300
+Wins: Chodal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodal
+Small Blind: Chodal, chips: 100
+Big Blind: Chivi, chips: 200
+Calls: Chodal
+DEBUG MESSAGE: INVALID ACTION FROM Chivi (2 0)
+Folds: Chivi
+Pot size: 400
+Wins: Chodal, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chivi
+Small Blind: Chivi, chips: 100
+Big Blind: Chodal, chips: 200
+Flop: Ac 7s 5d
+Turn: Th
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Chodal, 7c 2h
+Combination: Chodal, Two Pair ( Ac As 7c 7s Th )
+Shows: Chivi, 5s 7h
+Combination: Chivi, Two Pair ( Ac As 7h 7s Th )
+Wins: Chodal, chips: 200
+Wins: Chivi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodal
+Small Blind: Chodal, chips: 100
+Big Blind: Chivi, chips: 100
+Flop: 5s Js Ks
+Turn: 7s
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Chodal, 4h 6d
+Combination: Chodal, Pair ( 4h 4c Ks Js 7s )
+Shows: Chivi, 9s 8c
+Combination: Chivi, Flush ( Ks Js 9s 7s 5s )
+Wins: Chivi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chivi
+Small Blind: Chivi, chips: 100
+Big Blind: Chodal, chips: 200
+Folds: Chivi
+Pot size: 300
+Wins: Chodal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodal
+Small Blind: Chodal, chips: 100
+Big Blind: Chivi, chips: 100
+Flop: Tc Ad As
+Turn: Th
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Chodal, Jc 6s
+Combination: Chodal, Two Pair ( Ad As Tc Th Jc )
+Shows: Chivi, 9h 6h
+Combination: Chivi, Two Pair ( Ad As Tc Th 9h )
+Wins: Chodal, chips: 200
+Quits: Chivi, chips: 0
+Ranking: Chodal, Place: 1, Score: 1000
+Reveal AI: Chodal, AI: Random
+Ranking: Chivi, Place: 2, Score: -1000
+Reveal AI: Chivi, AI: AIMyBot1
+
+Player Stats for Chivi, AI: AIMyBot1
+General: deals: 12, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Chodal, AI: Random
+General: deals: 12, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 2, bluff: 8
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0.0833333, 3Bet: 0.0833333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:46
+
+The game begins. The AI's of the players are: 
+Chodal: Random
+Chivi: AIMyBot1
+
+Joins: Chodal, chips: 1000
+Joins: Chivi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chivi
+Small Blind: Chivi, chips: 100
+Big Blind: Chodal, chips: 200
+Folds: Chivi
+Pot size: 300
+Boasts: Chodal, Td 7c
+Wins: Chodal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodal
+Small Blind: Chodal, chips: 100
+Big Blind: Chivi, chips: 200
+Folds: Chodal
+Pot size: 300
+Boasts: Chodal, Jc Jh
+Wins: Chivi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chivi
+Small Blind: Chivi, chips: 100
+Big Blind: Chodal, chips: 200
+Folds: Chivi
+Pot size: 300
+Wins: Chodal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodal
+Small Blind: Chodal, chips: 100
+Big Blind: Chivi, chips: 200
+Raises: Chodal, chips: 300
+Folds: Chivi
+Pot size: 700
+Boasts: Chodal, 9c 7h
+Wins: Chodal, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chivi
+Small Blind: Chivi, chips: 100
+Big Blind: Chodal, chips: 200
+Folds: Chivi
+Pot size: 300
+Wins: Chodal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodal
+Small Blind: Chodal, chips: 100
+Big Blind: Chivi, chips: 200
+Calls: Chodal
+DEBUG MESSAGE: INVALID ACTION FROM Chivi (2 0)
+Folds: Chivi
+Pot size: 400
+Wins: Chodal, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chivi
+Small Blind: Chivi, chips: 100
+Big Blind: Chodal, chips: 200
+Folds: Chivi
+Pot size: 300
+Wins: Chodal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodal
+Small Blind: Chodal, chips: 100
+Big Blind: Chivi, chips: 200
+Calls: Chodal
+DEBUG MESSAGE: INVALID ACTION FROM Chivi (2 0)
+Folds: Chivi
+Pot size: 400
+Wins: Chodal, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chivi
+Small Blind: Chivi, chips: 100
+Big Blind: Chodal, chips: 200
+Flop: Ac 7s 5d
+Turn: Th
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Chodal, 7c 2h
+Combination: Chodal, Two Pair ( Ac As 7c 7s Th )
+Shows: Chivi, 5s 7h
+Combination: Chivi, Two Pair ( Ac As 7h 7s Th )
+Wins: Chodal, chips: 200
+Wins: Chivi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodal
+Small Blind: Chodal, chips: 100
+Big Blind: Chivi, chips: 100
+Flop: 5s Js Ks
+Turn: 7s
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Chodal, 4h 6d
+Combination: Chodal, Pair ( 4h 4c Ks Js 7s )
+Shows: Chivi, 9s 8c
+Combination: Chivi, Flush ( Ks Js 9s 7s 5s )
+Wins: Chivi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chivi
+Small Blind: Chivi, chips: 100
+Big Blind: Chodal, chips: 200
+Folds: Chivi
+Pot size: 300
+Wins: Chodal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chodal
+Small Blind: Chodal, chips: 100
+Big Blind: Chivi, chips: 100
+Flop: Tc Ad As
+Turn: Th
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Chodal, Jc 6s
+Combination: Chodal, Two Pair ( Ad As Tc Th Jc )
+Shows: Chivi, 9h 6h
+Combination: Chivi, Two Pair ( Ad As Tc Th 9h )
+Wins: Chodal, chips: 200
+Quits: Chivi, chips: 0
+Ranking: Chodal, Place: 1, Score: 1000
+Reveal AI: Chodal, AI: Random
+Ranking: Chivi, Place: 2, Score: -1000
+Reveal AI: Chivi, AI: AIMyBot1
+
+Player Stats for Chivi, AI: AIMyBot1
+General: deals: 12, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Chodal, AI: Random
+General: deals: 12, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 2, bluff: 8
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1800
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0.0833333, 3Bet: 0.0833333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

@@ -1,0 +1,276 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pipihop: Random
+Jarlap: AIMyBot1
+
+Joins: Pipihop, chips: 1000
+Joins: Jarlap, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pipihop
+Small Blind: Pipihop, chips: 100
+Big Blind: Jarlap, chips: 200
+Raises: Pipihop, chips: 300
+Folds: Jarlap
+Pot size: 700
+Wins: Pipihop, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jarlap
+Small Blind: Jarlap, chips: 100
+Big Blind: Pipihop, chips: 200
+Folds: Jarlap
+Pot size: 300
+Wins: Pipihop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pipihop
+Small Blind: Pipihop, chips: 100
+Big Blind: Jarlap, chips: 200
+Calls: Pipihop
+DEBUG MESSAGE: INVALID ACTION FROM Jarlap (2 0)
+Folds: Jarlap
+Pot size: 400
+Wins: Pipihop, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jarlap
+Small Blind: Jarlap, chips: 100
+Big Blind: Pipihop, chips: 200
+Folds: Jarlap
+Pot size: 300
+Wins: Pipihop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pipihop
+Small Blind: Pipihop, chips: 100
+Big Blind: Jarlap, chips: 200
+Calls: Pipihop
+DEBUG MESSAGE: INVALID ACTION FROM Jarlap (2 0)
+Folds: Jarlap
+Pot size: 400
+Wins: Pipihop, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jarlap
+Small Blind: Jarlap, chips: 100
+Big Blind: Pipihop, chips: 200
+Folds: Jarlap
+Pot size: 300
+Wins: Pipihop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pipihop
+Small Blind: Pipihop, chips: 100
+Big Blind: Jarlap, chips: 100
+Flop: Qc 6d Ks
+Turn: 4c
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Pipihop, 9h Ah
+Combination: Pipihop, High Card ( Ah Ks Qc 9h 6d )
+Shows: Jarlap, Th Qs
+Combination: Jarlap, Pair ( Qs Qc Ks Th 6d )
+Wins: Jarlap, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jarlap
+Small Blind: Jarlap, chips: 100
+Big Blind: Pipihop, chips: 200
+Folds: Jarlap
+Pot size: 300
+Boasts: Pipihop, Qc 9d
+Wins: Pipihop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pipihop
+Small Blind: Pipihop, chips: 100
+Big Blind: Jarlap, chips: 100
+Flop: 8c Jh Ah
+Turn: As
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Pipihop, 9d 2c
+Combination: Pipihop, Pair ( Ah As Jh Ts 9d )
+Shows: Jarlap, 7s 9s
+Combination: Jarlap, Straight ( Jh Ts 9s 8c 7s )
+Wins: Jarlap, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jarlap
+Small Blind: Jarlap, chips: 100
+Big Blind: Pipihop, chips: 200
+Folds: Jarlap
+Pot size: 300
+Boasts: Pipihop, 4s Jd
+Wins: Pipihop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pipihop
+Small Blind: Pipihop, chips: 100
+Big Blind: Jarlap, chips: 100
+Flop: 7c 7h 2s
+Turn: Ah
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Pipihop, 7s 4c
+Combination: Pipihop, Three Of A Kind ( 7s 7c 7h Ah Tc )
+Shows: Jarlap, 8c 3s
+Combination: Jarlap, Pair ( 7c 7h Ah Tc 8c )
+Wins: Pipihop, chips: 200
+Quits: Jarlap, chips: 0
+Ranking: Pipihop, Place: 1, Score: 1000
+Reveal AI: Pipihop, AI: Random
+Ranking: Jarlap, Place: 2, Score: -1000
+Reveal AI: Jarlap, AI: AIMyBot1
+
+Player Stats for Jarlap, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Pipihop, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Date: 2022/10/25 13:45:55
+
+The game begins. The AI's of the players are: 
+Pipihop: Random
+Jarlap: AIMyBot1
+
+Joins: Pipihop, chips: 1000
+Joins: Jarlap, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pipihop
+Small Blind: Pipihop, chips: 100
+Big Blind: Jarlap, chips: 200
+Raises: Pipihop, chips: 300
+Folds: Jarlap
+Pot size: 700
+Wins: Pipihop, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jarlap
+Small Blind: Jarlap, chips: 100
+Big Blind: Pipihop, chips: 200
+Folds: Jarlap
+Pot size: 300
+Wins: Pipihop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pipihop
+Small Blind: Pipihop, chips: 100
+Big Blind: Jarlap, chips: 200
+Calls: Pipihop
+DEBUG MESSAGE: INVALID ACTION FROM Jarlap (2 0)
+Folds: Jarlap
+Pot size: 400
+Wins: Pipihop, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jarlap
+Small Blind: Jarlap, chips: 100
+Big Blind: Pipihop, chips: 200
+Folds: Jarlap
+Pot size: 300
+Wins: Pipihop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pipihop
+Small Blind: Pipihop, chips: 100
+Big Blind: Jarlap, chips: 200
+Calls: Pipihop
+DEBUG MESSAGE: INVALID ACTION FROM Jarlap (2 0)
+Folds: Jarlap
+Pot size: 400
+Wins: Pipihop, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jarlap
+Small Blind: Jarlap, chips: 100
+Big Blind: Pipihop, chips: 200
+Folds: Jarlap
+Pot size: 300
+Wins: Pipihop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pipihop
+Small Blind: Pipihop, chips: 100
+Big Blind: Jarlap, chips: 100
+Flop: Qc 6d Ks
+Turn: 4c
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Pipihop, 9h Ah
+Combination: Pipihop, High Card ( Ah Ks Qc 9h 6d )
+Shows: Jarlap, Th Qs
+Combination: Jarlap, Pair ( Qs Qc Ks Th 6d )
+Wins: Jarlap, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jarlap
+Small Blind: Jarlap, chips: 100
+Big Blind: Pipihop, chips: 200
+Folds: Jarlap
+Pot size: 300
+Boasts: Pipihop, Qc 9d
+Wins: Pipihop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pipihop
+Small Blind: Pipihop, chips: 100
+Big Blind: Jarlap, chips: 100
+Flop: 8c Jh Ah
+Turn: As
+River: Ts
+Pot size: 200
+Showdown Reached
+Shows: Pipihop, 9d 2c
+Combination: Pipihop, Pair ( Ah As Jh Ts 9d )
+Shows: Jarlap, 7s 9s
+Combination: Jarlap, Straight ( Jh Ts 9s 8c 7s )
+Wins: Jarlap, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jarlap
+Small Blind: Jarlap, chips: 100
+Big Blind: Pipihop, chips: 200
+Folds: Jarlap
+Pot size: 300
+Boasts: Pipihop, 4s Jd
+Wins: Pipihop, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pipihop
+Small Blind: Pipihop, chips: 100
+Big Blind: Jarlap, chips: 100
+Flop: 7c 7h 2s
+Turn: Ah
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Pipihop, 7s 4c
+Combination: Pipihop, Three Of A Kind ( 7s 7c 7h Ah Tc )
+Shows: Jarlap, 8c 3s
+Combination: Jarlap, Pair ( 7c 7h Ah Tc 8c )
+Wins: Pipihop, chips: 200
+Quits: Jarlap, chips: 0
+Ranking: Pipihop, Place: 1, Score: 1000
+Reveal AI: Pipihop, AI: Random
+Ranking: Jarlap, Place: 2, Score: -1000
+Reveal AI: Jarlap, AI: AIMyBot1
+
+Player Stats for Jarlap, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Pipihop, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+

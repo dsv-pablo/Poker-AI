@@ -1,0 +1,254 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Takes: Random
+Beevi: AIMyBot1
+
+Joins: Takes, chips: 1000
+Joins: Beevi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beevi
+Small Blind: Beevi, chips: 100
+Big Blind: Takes, chips: 200
+Folds: Beevi
+Pot size: 300
+Wins: Takes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Takes
+Small Blind: Takes, chips: 100
+Big Blind: Beevi, chips: 200
+Folds: Takes
+Pot size: 300
+Wins: Beevi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beevi
+Small Blind: Beevi, chips: 100
+Big Blind: Takes, chips: 200
+Folds: Beevi
+Pot size: 300
+Boasts: Takes, 2d 5d
+Wins: Takes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Takes
+Small Blind: Takes, chips: 100
+Big Blind: Beevi, chips: 200
+Folds: Takes
+Pot size: 300
+Boasts: Takes, As 7c
+Wins: Beevi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beevi
+Small Blind: Beevi, chips: 100
+Big Blind: Takes, chips: 200
+Folds: Beevi
+Pot size: 300
+Wins: Takes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Takes
+Small Blind: Takes, chips: 100
+Big Blind: Beevi, chips: 200
+Raises: Takes, chips: 300
+Folds: Beevi
+Pot size: 700
+Boasts: Takes, 5h Ah
+Wins: Takes, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beevi
+Small Blind: Beevi, chips: 100
+Big Blind: Takes, chips: 200
+Folds: Beevi
+Pot size: 300
+Wins: Takes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Takes
+Small Blind: Takes, chips: 100
+Big Blind: Beevi, chips: 200
+Calls: Takes
+DEBUG MESSAGE: INVALID ACTION FROM Beevi (2 0)
+Folds: Beevi
+Pot size: 400
+Boasts: Takes, 9h 2d
+Wins: Takes, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beevi
+Small Blind: Beevi, chips: 100
+Big Blind: Takes, chips: 200
+Folds: Beevi
+Pot size: 300
+Wins: Takes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Takes
+Small Blind: Takes, chips: 100
+Big Blind: Beevi, chips: 200
+Calls: Takes
+DEBUG MESSAGE: INVALID ACTION FROM Beevi (2 0)
+Folds: Beevi
+Pot size: 400
+Boasts: Takes, 5c 9c
+Wins: Takes, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beevi
+Small Blind: Beevi, chips: 100
+Big Blind: Takes, chips: 200
+Flop: Tc 5s 5d
+Turn: 4d
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Takes, 7s Th
+Combination: Takes, Two Pair ( Th Tc 5s 5d Jh )
+Shows: Beevi, 9h 7c
+Combination: Beevi, Pair ( 5s 5d Jh Tc 9h )
+Wins: Takes, chips: 300
+Quits: Beevi, chips: 0
+Ranking: Takes, Place: 1, Score: 1000
+Reveal AI: Takes, AI: Random
+Ranking: Beevi, Place: 2, Score: -1000
+Reveal AI: Beevi, AI: AIMyBot1
+
+Player Stats for Beevi, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Takes, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:27
+
+The game begins. The AI's of the players are: 
+Takes: Random
+Beevi: AIMyBot1
+
+Joins: Takes, chips: 1000
+Joins: Beevi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beevi
+Small Blind: Beevi, chips: 100
+Big Blind: Takes, chips: 200
+Folds: Beevi
+Pot size: 300
+Wins: Takes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Takes
+Small Blind: Takes, chips: 100
+Big Blind: Beevi, chips: 200
+Folds: Takes
+Pot size: 300
+Wins: Beevi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beevi
+Small Blind: Beevi, chips: 100
+Big Blind: Takes, chips: 200
+Folds: Beevi
+Pot size: 300
+Boasts: Takes, 2d 5d
+Wins: Takes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Takes
+Small Blind: Takes, chips: 100
+Big Blind: Beevi, chips: 200
+Folds: Takes
+Pot size: 300
+Boasts: Takes, As 7c
+Wins: Beevi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beevi
+Small Blind: Beevi, chips: 100
+Big Blind: Takes, chips: 200
+Folds: Beevi
+Pot size: 300
+Wins: Takes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Takes
+Small Blind: Takes, chips: 100
+Big Blind: Beevi, chips: 200
+Raises: Takes, chips: 300
+Folds: Beevi
+Pot size: 700
+Boasts: Takes, 5h Ah
+Wins: Takes, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beevi
+Small Blind: Beevi, chips: 100
+Big Blind: Takes, chips: 200
+Folds: Beevi
+Pot size: 300
+Wins: Takes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Takes
+Small Blind: Takes, chips: 100
+Big Blind: Beevi, chips: 200
+Calls: Takes
+DEBUG MESSAGE: INVALID ACTION FROM Beevi (2 0)
+Folds: Beevi
+Pot size: 400
+Boasts: Takes, 9h 2d
+Wins: Takes, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beevi
+Small Blind: Beevi, chips: 100
+Big Blind: Takes, chips: 200
+Folds: Beevi
+Pot size: 300
+Wins: Takes, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Takes
+Small Blind: Takes, chips: 100
+Big Blind: Beevi, chips: 200
+Calls: Takes
+DEBUG MESSAGE: INVALID ACTION FROM Beevi (2 0)
+Folds: Beevi
+Pot size: 400
+Boasts: Takes, 5c 9c
+Wins: Takes, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Beevi
+Small Blind: Beevi, chips: 100
+Big Blind: Takes, chips: 200
+Flop: Tc 5s 5d
+Turn: 4d
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Takes, 7s Th
+Combination: Takes, Two Pair ( Th Tc 5s 5d Jh )
+Shows: Beevi, 9h 7c
+Combination: Beevi, Pair ( 5s 5d Jh Tc 9h )
+Wins: Takes, chips: 300
+Quits: Beevi, chips: 0
+Ranking: Takes, Place: 1, Score: 1000
+Reveal AI: Takes, AI: Random
+Ranking: Beevi, Place: 2, Score: -1000
+Reveal AI: Beevi, AI: AIMyBot1
+
+Player Stats for Beevi, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Takes, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

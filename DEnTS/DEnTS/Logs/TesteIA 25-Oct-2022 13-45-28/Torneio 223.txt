@@ -1,0 +1,222 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Loemeet: Random
+Loele: AIMyBot1
+
+Joins: Loemeet, chips: 1000
+Joins: Loele, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loele
+Small Blind: Loele, chips: 100
+Big Blind: Loemeet, chips: 200
+Folds: Loele
+Pot size: 300
+Wins: Loemeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loemeet
+Small Blind: Loemeet, chips: 100
+Big Blind: Loele, chips: 200
+Calls: Loemeet
+DEBUG MESSAGE: INVALID ACTION FROM Loele (2 0)
+Folds: Loele
+Pot size: 400
+Wins: Loemeet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loele
+Small Blind: Loele, chips: 100
+Big Blind: Loemeet, chips: 200
+Folds: Loele
+Pot size: 300
+Boasts: Loemeet, Td 8c
+Wins: Loemeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loemeet
+Small Blind: Loemeet, chips: 100
+Big Blind: Loele, chips: 200
+Folds: Loemeet
+Pot size: 300
+Wins: Loele, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loele
+Small Blind: Loele, chips: 100
+Big Blind: Loemeet, chips: 200
+Folds: Loele
+Pot size: 300
+Wins: Loemeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loemeet
+Small Blind: Loemeet, chips: 100
+Big Blind: Loele, chips: 200
+Calls: Loemeet
+DEBUG MESSAGE: INVALID ACTION FROM Loele (2 0)
+Folds: Loele
+Pot size: 400
+Boasts: Loemeet, Ad Ts
+Wins: Loemeet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loele
+Small Blind: Loele, chips: 100
+Big Blind: Loemeet, chips: 200
+Folds: Loele
+Pot size: 300
+Wins: Loemeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loemeet
+Small Blind: Loemeet, chips: 100
+Big Blind: Loele, chips: 200
+Calls: Loemeet
+DEBUG MESSAGE: INVALID ACTION FROM Loele (2 0)
+Folds: Loele
+Pot size: 400
+Wins: Loemeet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loele
+Small Blind: Loele, chips: 100
+Big Blind: Loemeet, chips: 200
+Flop: Ah 5h Ad
+Turn: Kd
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Loemeet, 5c As
+Combination: Loemeet, Full House ( As Ah Ad 5c 5h )
+Shows: Loele, 9d Qc
+Combination: Loele, Pair ( Ah Ad Kd Qc 9d )
+Wins: Loemeet, chips: 300
+Quits: Loele, chips: 0
+Ranking: Loemeet, Place: 1, Score: 1000
+Reveal AI: Loemeet, AI: Random
+Ranking: Loele, Place: 2, Score: -1000
+Reveal AI: Loele, AI: AIMyBot1
+
+Player Stats for Loele, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Loemeet, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:44
+
+The game begins. The AI's of the players are: 
+Loemeet: Random
+Loele: AIMyBot1
+
+Joins: Loemeet, chips: 1000
+Joins: Loele, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loele
+Small Blind: Loele, chips: 100
+Big Blind: Loemeet, chips: 200
+Folds: Loele
+Pot size: 300
+Wins: Loemeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loemeet
+Small Blind: Loemeet, chips: 100
+Big Blind: Loele, chips: 200
+Calls: Loemeet
+DEBUG MESSAGE: INVALID ACTION FROM Loele (2 0)
+Folds: Loele
+Pot size: 400
+Wins: Loemeet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loele
+Small Blind: Loele, chips: 100
+Big Blind: Loemeet, chips: 200
+Folds: Loele
+Pot size: 300
+Boasts: Loemeet, Td 8c
+Wins: Loemeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loemeet
+Small Blind: Loemeet, chips: 100
+Big Blind: Loele, chips: 200
+Folds: Loemeet
+Pot size: 300
+Wins: Loele, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loele
+Small Blind: Loele, chips: 100
+Big Blind: Loemeet, chips: 200
+Folds: Loele
+Pot size: 300
+Wins: Loemeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loemeet
+Small Blind: Loemeet, chips: 100
+Big Blind: Loele, chips: 200
+Calls: Loemeet
+DEBUG MESSAGE: INVALID ACTION FROM Loele (2 0)
+Folds: Loele
+Pot size: 400
+Boasts: Loemeet, Ad Ts
+Wins: Loemeet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loele
+Small Blind: Loele, chips: 100
+Big Blind: Loemeet, chips: 200
+Folds: Loele
+Pot size: 300
+Wins: Loemeet, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loemeet
+Small Blind: Loemeet, chips: 100
+Big Blind: Loele, chips: 200
+Calls: Loemeet
+DEBUG MESSAGE: INVALID ACTION FROM Loele (2 0)
+Folds: Loele
+Pot size: 400
+Wins: Loemeet, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Loele
+Small Blind: Loele, chips: 100
+Big Blind: Loemeet, chips: 200
+Flop: Ah 5h Ad
+Turn: Kd
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Loemeet, 5c As
+Combination: Loemeet, Full House ( As Ah Ad 5c 5h )
+Shows: Loele, 9d Qc
+Combination: Loele, Pair ( Ah Ad Kd Qc 9d )
+Wins: Loemeet, chips: 300
+Quits: Loele, chips: 0
+Ranking: Loemeet, Place: 1, Score: 1000
+Reveal AI: Loemeet, AI: Random
+Ranking: Loele, Place: 2, Score: -1000
+Reveal AI: Loele, AI: AIMyBot1
+
+Player Stats for Loele, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Loemeet, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

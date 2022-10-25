@@ -1,0 +1,222 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wawu: Random
+Chukohi: AIMyBot1
+
+Joins: Wawu, chips: 1000
+Joins: Chukohi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chukohi
+Small Blind: Chukohi, chips: 100
+Big Blind: Wawu, chips: 200
+Folds: Chukohi
+Pot size: 300
+Wins: Wawu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wawu
+Small Blind: Wawu, chips: 100
+Big Blind: Chukohi, chips: 200
+Calls: Wawu
+DEBUG MESSAGE: INVALID ACTION FROM Chukohi (2 0)
+Folds: Chukohi
+Pot size: 400
+Boasts: Wawu, Ts 8s
+Wins: Wawu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chukohi
+Small Blind: Chukohi, chips: 100
+Big Blind: Wawu, chips: 200
+Folds: Chukohi
+Pot size: 300
+Wins: Wawu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wawu
+Small Blind: Wawu, chips: 100
+Big Blind: Chukohi, chips: 200
+Folds: Wawu
+Pot size: 300
+Boasts: Wawu, Th Tc
+Wins: Chukohi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chukohi
+Small Blind: Chukohi, chips: 100
+Big Blind: Wawu, chips: 200
+Folds: Chukohi
+Pot size: 300
+Wins: Wawu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wawu
+Small Blind: Wawu, chips: 100
+Big Blind: Chukohi, chips: 200
+Raises: Wawu, chips: 300
+Folds: Chukohi
+Pot size: 700
+Boasts: Wawu, 5h Jh
+Wins: Wawu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chukohi
+Small Blind: Chukohi, chips: 100
+Big Blind: Wawu, chips: 200
+Folds: Chukohi
+Pot size: 300
+Wins: Wawu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wawu
+Small Blind: Wawu, chips: 100
+Big Blind: Chukohi, chips: 200
+Calls: Wawu
+DEBUG MESSAGE: INVALID ACTION FROM Chukohi (2 0)
+Folds: Chukohi
+Pot size: 400
+Wins: Wawu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chukohi
+Small Blind: Chukohi, chips: 100
+Big Blind: Wawu, chips: 200
+Flop: 3d 2c 6h
+Turn: Jd
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Wawu, 6d 2s
+Combination: Wawu, Two Pair ( 6d 6h 2s 2c Jd )
+Shows: Chukohi, Ac 3h
+Combination: Chukohi, Pair ( 3h 3d Ac Jd Tc )
+Wins: Wawu, chips: 300
+Quits: Chukohi, chips: 0
+Ranking: Wawu, Place: 1, Score: 1000
+Reveal AI: Wawu, AI: Random
+Ranking: Chukohi, Place: 2, Score: -1000
+Reveal AI: Chukohi, AI: AIMyBot1
+
+Player Stats for Chukohi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Wawu, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:58
+
+The game begins. The AI's of the players are: 
+Wawu: Random
+Chukohi: AIMyBot1
+
+Joins: Wawu, chips: 1000
+Joins: Chukohi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chukohi
+Small Blind: Chukohi, chips: 100
+Big Blind: Wawu, chips: 200
+Folds: Chukohi
+Pot size: 300
+Wins: Wawu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wawu
+Small Blind: Wawu, chips: 100
+Big Blind: Chukohi, chips: 200
+Calls: Wawu
+DEBUG MESSAGE: INVALID ACTION FROM Chukohi (2 0)
+Folds: Chukohi
+Pot size: 400
+Boasts: Wawu, Ts 8s
+Wins: Wawu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chukohi
+Small Blind: Chukohi, chips: 100
+Big Blind: Wawu, chips: 200
+Folds: Chukohi
+Pot size: 300
+Wins: Wawu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wawu
+Small Blind: Wawu, chips: 100
+Big Blind: Chukohi, chips: 200
+Folds: Wawu
+Pot size: 300
+Boasts: Wawu, Th Tc
+Wins: Chukohi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chukohi
+Small Blind: Chukohi, chips: 100
+Big Blind: Wawu, chips: 200
+Folds: Chukohi
+Pot size: 300
+Wins: Wawu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wawu
+Small Blind: Wawu, chips: 100
+Big Blind: Chukohi, chips: 200
+Raises: Wawu, chips: 300
+Folds: Chukohi
+Pot size: 700
+Boasts: Wawu, 5h Jh
+Wins: Wawu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chukohi
+Small Blind: Chukohi, chips: 100
+Big Blind: Wawu, chips: 200
+Folds: Chukohi
+Pot size: 300
+Wins: Wawu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wawu
+Small Blind: Wawu, chips: 100
+Big Blind: Chukohi, chips: 200
+Calls: Wawu
+DEBUG MESSAGE: INVALID ACTION FROM Chukohi (2 0)
+Folds: Chukohi
+Pot size: 400
+Wins: Wawu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chukohi
+Small Blind: Chukohi, chips: 100
+Big Blind: Wawu, chips: 200
+Flop: 3d 2c 6h
+Turn: Jd
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Wawu, 6d 2s
+Combination: Wawu, Two Pair ( 6d 6h 2s 2c Jd )
+Shows: Chukohi, Ac 3h
+Combination: Chukohi, Pair ( 3h 3d Ac Jd Tc )
+Wins: Wawu, chips: 300
+Quits: Chukohi, chips: 0
+Ranking: Wawu, Place: 1, Score: 1000
+Reveal AI: Wawu, AI: Random
+Ranking: Chukohi, Place: 2, Score: -1000
+Reveal AI: Chukohi, AI: AIMyBot1
+
+Player Stats for Chukohi, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Wawu, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

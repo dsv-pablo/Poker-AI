@@ -1,0 +1,226 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Reepatry: Random
+Chopel: AIMyBot1
+
+Joins: Reepatry, chips: 1000
+Joins: Chopel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chopel
+Small Blind: Chopel, chips: 100
+Big Blind: Reepatry, chips: 200
+Folds: Chopel
+Pot size: 300
+Wins: Reepatry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reepatry
+Small Blind: Reepatry, chips: 100
+Big Blind: Chopel, chips: 200
+Folds: Reepatry
+Pot size: 300
+Wins: Chopel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chopel
+Small Blind: Chopel, chips: 100
+Big Blind: Reepatry, chips: 200
+Folds: Chopel
+Pot size: 300
+Wins: Reepatry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reepatry
+Small Blind: Reepatry, chips: 100
+Big Blind: Chopel, chips: 200
+Calls: Reepatry
+DEBUG MESSAGE: INVALID ACTION FROM Chopel (2 0)
+Folds: Chopel
+Pot size: 400
+Boasts: Reepatry, Ks 5d
+Wins: Reepatry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chopel
+Small Blind: Chopel, chips: 100
+Big Blind: Reepatry, chips: 200
+Folds: Chopel
+Pot size: 300
+Wins: Reepatry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reepatry
+Small Blind: Reepatry, chips: 100
+Big Blind: Chopel, chips: 200
+Calls: Reepatry
+DEBUG MESSAGE: INVALID ACTION FROM Chopel (2 0)
+Folds: Chopel
+Pot size: 400
+Boasts: Reepatry, 2c Td
+Wins: Reepatry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chopel
+Small Blind: Chopel, chips: 100
+Big Blind: Reepatry, chips: 200
+Folds: Chopel
+Pot size: 300
+Boasts: Reepatry, Ks 6c
+Wins: Reepatry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reepatry
+Small Blind: Reepatry, chips: 100
+Big Blind: Chopel, chips: 200
+Calls: Reepatry
+DEBUG MESSAGE: INVALID ACTION FROM Chopel (2 0)
+Folds: Chopel
+Pot size: 400
+Boasts: Reepatry, 4c Jc
+Wins: Reepatry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chopel
+Small Blind: Chopel, chips: 100
+Big Blind: Reepatry, chips: 200
+Flop: 9s Tc 8h
+Turn: Ac
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Reepatry, 9c Qs
+Combination: Reepatry, Straight ( Qs Jc Tc 9c 8h )
+Shows: Chopel, Js 3d
+Combination: Chopel, Pair ( Js Jc Ac Tc 9s )
+Wins: Reepatry, chips: 300
+Quits: Chopel, chips: 0
+Ranking: Reepatry, Place: 1, Score: 1000
+Reveal AI: Reepatry, AI: Random
+Ranking: Chopel, Place: 2, Score: -1000
+Reveal AI: Chopel, AI: AIMyBot1
+
+Player Stats for Chopel, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Reepatry, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:30
+
+The game begins. The AI's of the players are: 
+Reepatry: Random
+Chopel: AIMyBot1
+
+Joins: Reepatry, chips: 1000
+Joins: Chopel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chopel
+Small Blind: Chopel, chips: 100
+Big Blind: Reepatry, chips: 200
+Folds: Chopel
+Pot size: 300
+Wins: Reepatry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reepatry
+Small Blind: Reepatry, chips: 100
+Big Blind: Chopel, chips: 200
+Folds: Reepatry
+Pot size: 300
+Wins: Chopel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chopel
+Small Blind: Chopel, chips: 100
+Big Blind: Reepatry, chips: 200
+Folds: Chopel
+Pot size: 300
+Wins: Reepatry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reepatry
+Small Blind: Reepatry, chips: 100
+Big Blind: Chopel, chips: 200
+Calls: Reepatry
+DEBUG MESSAGE: INVALID ACTION FROM Chopel (2 0)
+Folds: Chopel
+Pot size: 400
+Boasts: Reepatry, Ks 5d
+Wins: Reepatry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chopel
+Small Blind: Chopel, chips: 100
+Big Blind: Reepatry, chips: 200
+Folds: Chopel
+Pot size: 300
+Wins: Reepatry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reepatry
+Small Blind: Reepatry, chips: 100
+Big Blind: Chopel, chips: 200
+Calls: Reepatry
+DEBUG MESSAGE: INVALID ACTION FROM Chopel (2 0)
+Folds: Chopel
+Pot size: 400
+Boasts: Reepatry, 2c Td
+Wins: Reepatry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chopel
+Small Blind: Chopel, chips: 100
+Big Blind: Reepatry, chips: 200
+Folds: Chopel
+Pot size: 300
+Boasts: Reepatry, Ks 6c
+Wins: Reepatry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reepatry
+Small Blind: Reepatry, chips: 100
+Big Blind: Chopel, chips: 200
+Calls: Reepatry
+DEBUG MESSAGE: INVALID ACTION FROM Chopel (2 0)
+Folds: Chopel
+Pot size: 400
+Boasts: Reepatry, 4c Jc
+Wins: Reepatry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chopel
+Small Blind: Chopel, chips: 100
+Big Blind: Reepatry, chips: 200
+Flop: 9s Tc 8h
+Turn: Ac
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Reepatry, 9c Qs
+Combination: Reepatry, Straight ( Qs Jc Tc 9c 8h )
+Shows: Chopel, Js 3d
+Combination: Chopel, Pair ( Js Jc Ac Tc 9s )
+Wins: Reepatry, chips: 300
+Quits: Chopel, chips: 0
+Ranking: Reepatry, Place: 1, Score: 1000
+Reveal AI: Reepatry, AI: Random
+Ranking: Chopel, Place: 2, Score: -1000
+Reveal AI: Chopel, AI: AIMyBot1
+
+Player Stats for Chopel, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Reepatry, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

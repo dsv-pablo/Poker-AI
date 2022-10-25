@@ -1,0 +1,340 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Famap: AIMyBot1
+Vuwanhees: Random
+
+Joins: Famap, chips: 1000
+Joins: Vuwanhees, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Famap
+Small Blind: Famap, chips: 100
+Big Blind: Vuwanhees, chips: 200
+Folds: Famap
+Pot size: 300
+Boasts: Vuwanhees, 2s Qc
+Wins: Vuwanhees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuwanhees
+Small Blind: Vuwanhees, chips: 100
+Big Blind: Famap, chips: 200
+Calls: Vuwanhees
+DEBUG MESSAGE: INVALID ACTION FROM Famap (2 0)
+Folds: Famap
+Pot size: 400
+Wins: Vuwanhees, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Famap
+Small Blind: Famap, chips: 100
+Big Blind: Vuwanhees, chips: 200
+Folds: Famap
+Pot size: 300
+Boasts: Vuwanhees, Td Jd
+Wins: Vuwanhees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuwanhees
+Small Blind: Vuwanhees, chips: 100
+Big Blind: Famap, chips: 200
+Calls: Vuwanhees
+DEBUG MESSAGE: INVALID ACTION FROM Famap (2 0)
+Folds: Famap
+Pot size: 400
+Wins: Vuwanhees, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Famap
+Small Blind: Famap, chips: 100
+Big Blind: Vuwanhees, chips: 200
+Folds: Famap
+Pot size: 300
+Wins: Vuwanhees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuwanhees
+Small Blind: Vuwanhees, chips: 100
+Big Blind: Famap, chips: 200
+Calls: Vuwanhees
+DEBUG MESSAGE: INVALID ACTION FROM Famap (2 0)
+Folds: Famap
+Pot size: 400
+Wins: Vuwanhees, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Famap
+Small Blind: Famap, chips: 100
+Big Blind: Vuwanhees, chips: 200
+Flop: Jd 5h Kd
+Turn: Ah
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Famap, 6d Kc
+Combination: Famap, Two Pair ( Ah As Kc Kd Jd )
+Shows: Vuwanhees, Qs Jh
+Combination: Vuwanhees, Two Pair ( Ah As Jh Jd Kd )
+Wins: Famap, chips: 200
+Wins: Vuwanhees, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuwanhees
+Small Blind: Vuwanhees, chips: 100
+Big Blind: Famap, chips: 200
+Flop: 7d Kh 5s
+Turn: 5c
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Famap, 7c Qd
+Combination: Famap, Two Pair ( 7c 7d 5s 5c Kh )
+Shows: Vuwanhees, Qh Ts
+Combination: Vuwanhees, Pair ( 5s 5c Kh Qh Ts )
+Wins: Famap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Famap
+Small Blind: Famap, chips: 100
+Big Blind: Vuwanhees, chips: 200
+Folds: Famap
+Pot size: 300
+Boasts: Vuwanhees, 5d 8s
+Wins: Vuwanhees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuwanhees
+Small Blind: Vuwanhees, chips: 100
+Big Blind: Famap, chips: 200
+Flop: Jh Jd Td
+Turn: 3c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Famap, 2d 9s
+Combination: Famap, Pair ( Jh Jd Td 9s 8d )
+Shows: Vuwanhees, 7s 6h
+Combination: Vuwanhees, Pair ( Jh Jd Td 8d 7s )
+Wins: Famap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Famap
+Small Blind: Famap, chips: 100
+Big Blind: Vuwanhees, chips: 200
+Folds: Famap
+Pot size: 300
+Wins: Vuwanhees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuwanhees
+Small Blind: Vuwanhees, chips: 100
+Big Blind: Famap, chips: 200
+Flop: Ah Kh 6d
+Turn: Jd
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Famap, 8h 7d
+Combination: Famap, Pair ( Kh Kc Ah Jd 8h )
+Shows: Vuwanhees, 8d Qh
+Combination: Vuwanhees, Pair ( Kh Kc Ah Qh Jd )
+Wins: Famap, chips: 100
+Wins: Vuwanhees, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Famap
+Small Blind: Famap, chips: 100
+Big Blind: Vuwanhees, chips: 200
+Flop: 3s 8h Ac
+Turn: As
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Famap, 5d 9s
+Combination: Famap, Pair ( Ac As 9s 8h 7d )
+Shows: Vuwanhees, 9h Th
+Combination: Vuwanhees, Pair ( Ac As Th 9h 8h )
+Wins: Vuwanhees, chips: 300
+Quits: Famap, chips: 0
+Ranking: Vuwanhees, Place: 1, Score: 1000
+Reveal AI: Vuwanhees, AI: Random
+Ranking: Famap, Place: 2, Score: -1000
+Reveal AI: Famap, AI: AIMyBot1
+
+Player Stats for Famap, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Vuwanhees, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+
+Date: 2022/10/25 13:45:38
+
+The game begins. The AI's of the players are: 
+Famap: AIMyBot1
+Vuwanhees: Random
+
+Joins: Famap, chips: 1000
+Joins: Vuwanhees, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Famap
+Small Blind: Famap, chips: 100
+Big Blind: Vuwanhees, chips: 200
+Folds: Famap
+Pot size: 300
+Boasts: Vuwanhees, 2s Qc
+Wins: Vuwanhees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuwanhees
+Small Blind: Vuwanhees, chips: 100
+Big Blind: Famap, chips: 200
+Calls: Vuwanhees
+DEBUG MESSAGE: INVALID ACTION FROM Famap (2 0)
+Folds: Famap
+Pot size: 400
+Wins: Vuwanhees, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Famap
+Small Blind: Famap, chips: 100
+Big Blind: Vuwanhees, chips: 200
+Folds: Famap
+Pot size: 300
+Boasts: Vuwanhees, Td Jd
+Wins: Vuwanhees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuwanhees
+Small Blind: Vuwanhees, chips: 100
+Big Blind: Famap, chips: 200
+Calls: Vuwanhees
+DEBUG MESSAGE: INVALID ACTION FROM Famap (2 0)
+Folds: Famap
+Pot size: 400
+Wins: Vuwanhees, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Famap
+Small Blind: Famap, chips: 100
+Big Blind: Vuwanhees, chips: 200
+Folds: Famap
+Pot size: 300
+Wins: Vuwanhees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuwanhees
+Small Blind: Vuwanhees, chips: 100
+Big Blind: Famap, chips: 200
+Calls: Vuwanhees
+DEBUG MESSAGE: INVALID ACTION FROM Famap (2 0)
+Folds: Famap
+Pot size: 400
+Wins: Vuwanhees, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Famap
+Small Blind: Famap, chips: 100
+Big Blind: Vuwanhees, chips: 200
+Flop: Jd 5h Kd
+Turn: Ah
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Famap, 6d Kc
+Combination: Famap, Two Pair ( Ah As Kc Kd Jd )
+Shows: Vuwanhees, Qs Jh
+Combination: Vuwanhees, Two Pair ( Ah As Jh Jd Kd )
+Wins: Famap, chips: 200
+Wins: Vuwanhees, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuwanhees
+Small Blind: Vuwanhees, chips: 100
+Big Blind: Famap, chips: 200
+Flop: 7d Kh 5s
+Turn: 5c
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Famap, 7c Qd
+Combination: Famap, Two Pair ( 7c 7d 5s 5c Kh )
+Shows: Vuwanhees, Qh Ts
+Combination: Vuwanhees, Pair ( 5s 5c Kh Qh Ts )
+Wins: Famap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Famap
+Small Blind: Famap, chips: 100
+Big Blind: Vuwanhees, chips: 200
+Folds: Famap
+Pot size: 300
+Boasts: Vuwanhees, 5d 8s
+Wins: Vuwanhees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuwanhees
+Small Blind: Vuwanhees, chips: 100
+Big Blind: Famap, chips: 200
+Flop: Jh Jd Td
+Turn: 3c
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Famap, 2d 9s
+Combination: Famap, Pair ( Jh Jd Td 9s 8d )
+Shows: Vuwanhees, 7s 6h
+Combination: Vuwanhees, Pair ( Jh Jd Td 8d 7s )
+Wins: Famap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Famap
+Small Blind: Famap, chips: 100
+Big Blind: Vuwanhees, chips: 200
+Folds: Famap
+Pot size: 300
+Wins: Vuwanhees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuwanhees
+Small Blind: Vuwanhees, chips: 100
+Big Blind: Famap, chips: 200
+Flop: Ah Kh 6d
+Turn: Jd
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Famap, 8h 7d
+Combination: Famap, Pair ( Kh Kc Ah Jd 8h )
+Shows: Vuwanhees, 8d Qh
+Combination: Vuwanhees, Pair ( Kh Kc Ah Qh Jd )
+Wins: Famap, chips: 100
+Wins: Vuwanhees, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Famap
+Small Blind: Famap, chips: 100
+Big Blind: Vuwanhees, chips: 200
+Flop: 3s 8h Ac
+Turn: As
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Famap, 5d 9s
+Combination: Famap, Pair ( Ac As 9s 8h 7d )
+Shows: Vuwanhees, 9h Th
+Combination: Vuwanhees, Pair ( Ac As Th 9h 8h )
+Wins: Vuwanhees, chips: 300
+Quits: Famap, chips: 0
+Ranking: Vuwanhees, Place: 1, Score: 1000
+Reveal AI: Vuwanhees, AI: Random
+Ranking: Famap, Place: 2, Score: -1000
+Reveal AI: Famap, AI: AIMyBot1
+
+Player Stats for Famap, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Vuwanhees, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+

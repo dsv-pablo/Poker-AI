@@ -1,0 +1,490 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Lo: AIMyBot1
+Radus: Random
+
+Joins: Lo, chips: 1000
+Joins: Radus, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Folds: Radus
+Pot size: 300
+Boasts: Radus, Td 7s
+Wins: Lo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Folds: Radus
+Pot size: 300
+Wins: Lo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Folds: Radus
+Pot size: 300
+Boasts: Radus, Qc 6d
+Wins: Lo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Boasts: Radus, 7d 5s
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Calls: Radus
+DEBUG MESSAGE: INVALID ACTION FROM Lo (2 0)
+Folds: Lo
+Pot size: 400
+Boasts: Radus, 4h 6h
+Wins: Radus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Calls: Radus
+DEBUG MESSAGE: INVALID ACTION FROM Lo (2 0)
+Folds: Lo
+Pot size: 400
+Wins: Radus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Folds: Radus
+Pot size: 300
+Boasts: Radus, 8d Ah
+Wins: Lo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Calls: Radus
+DEBUG MESSAGE: INVALID ACTION FROM Lo (2 0)
+Folds: Lo
+Pot size: 400
+Boasts: Radus, 3c 7d
+Wins: Radus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 100
+Flop: 3c 2s 5c
+Turn: 7c
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Lo, 5d 7s
+Combination: Lo, Two Pair ( 7s 7c 5d 5c 8h )
+Shows: Radus, 4d Tc
+Combination: Radus, High Card ( Tc 8h 7c 5c 4d )
+Wins: Lo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 100
+Flop: 8h 8s As
+Turn: 8d
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Lo, 9c Ah
+Combination: Lo, Full House ( 8h 8s 8d Ah As )
+Shows: Radus, Jc Ad
+Combination: Radus, Full House ( 8h 8s 8d Ad As )
+Wins: Lo, chips: 100
+Wins: Radus, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Flop: 7s 8h Ac
+Turn: 8c
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Lo, Jd Qh
+Combination: Lo, Two Pair ( Qh Qd 8h 8c Ac )
+Shows: Radus, 2s 7c
+Combination: Radus, Two Pair ( 8h 8c 7c 7s Ac )
+Wins: Lo, chips: 200
+Wins: Radus, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Flop: 5d Ad Jh
+Turn: 8h
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Lo, 3c 3s
+Combination: Lo, Two Pair ( 5d 5h 3c 3s Ad )
+Shows: Radus, Tc 9d
+Combination: Radus, Pair ( 5d 5h Ad Jh Tc )
+Wins: Lo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Boasts: Radus, 5d 7c
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Flop: 2s Kd Ac
+Turn: 9d
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Lo, 3d 6c
+Combination: Lo, High Card ( Ac Kd Jc 9d 6c )
+Shows: Radus, 3s 8c
+Combination: Radus, High Card ( Ac Kd Jc 9d 8c )
+Wins: Lo, chips: 100
+Wins: Radus, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Flop: 4d 8d Jd
+Turn: 7s
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Lo, 3h Ks
+Combination: Lo, Pair ( Jd Jc Ks 8d 7s )
+Shows: Radus, Ad Kd
+Combination: Radus, Flush ( Ad Kd Jd 8d 4d )
+Wins: Radus, chips: 300
+Quits: Lo, chips: 0
+Ranking: Radus, Place: 1, Score: 1000
+Reveal AI: Radus, AI: Random
+Ranking: Lo, Place: 2, Score: -1000
+Reveal AI: Lo, AI: AIMyBot1
+
+Player Stats for Lo, AI: AIMyBot1
+General: deals: 22, actions: 12, preflop actions: 12
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 9, showdown: 5, bluff: 4
+Chips: won: 2100, lost: 3100, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Radus, AI: Random
+General: deals: 22, actions: 7, preflop actions: 7
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 16, showdown: 4, bluff: 12
+Chips: won: 4600, lost: 3600, bought: 1000, forced bets: 3300
+Pre-Flop Stats: VP$IP: 0.136364, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:54
+
+The game begins. The AI's of the players are: 
+Lo: AIMyBot1
+Radus: Random
+
+Joins: Lo, chips: 1000
+Joins: Radus, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Folds: Radus
+Pot size: 300
+Boasts: Radus, Td 7s
+Wins: Lo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Folds: Radus
+Pot size: 300
+Wins: Lo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Folds: Radus
+Pot size: 300
+Boasts: Radus, Qc 6d
+Wins: Lo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Boasts: Radus, 7d 5s
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Calls: Radus
+DEBUG MESSAGE: INVALID ACTION FROM Lo (2 0)
+Folds: Lo
+Pot size: 400
+Boasts: Radus, 4h 6h
+Wins: Radus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Calls: Radus
+DEBUG MESSAGE: INVALID ACTION FROM Lo (2 0)
+Folds: Lo
+Pot size: 400
+Wins: Radus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Folds: Radus
+Pot size: 300
+Boasts: Radus, 8d Ah
+Wins: Lo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Calls: Radus
+DEBUG MESSAGE: INVALID ACTION FROM Lo (2 0)
+Folds: Lo
+Pot size: 400
+Boasts: Radus, 3c 7d
+Wins: Radus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 100
+Flop: 3c 2s 5c
+Turn: 7c
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Lo, 5d 7s
+Combination: Lo, Two Pair ( 7s 7c 5d 5c 8h )
+Shows: Radus, 4d Tc
+Combination: Radus, High Card ( Tc 8h 7c 5c 4d )
+Wins: Lo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 100
+Flop: 8h 8s As
+Turn: 8d
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Lo, 9c Ah
+Combination: Lo, Full House ( 8h 8s 8d Ah As )
+Shows: Radus, Jc Ad
+Combination: Radus, Full House ( 8h 8s 8d Ad As )
+Wins: Lo, chips: 100
+Wins: Radus, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Flop: 7s 8h Ac
+Turn: 8c
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Lo, Jd Qh
+Combination: Lo, Two Pair ( Qh Qd 8h 8c Ac )
+Shows: Radus, 2s 7c
+Combination: Radus, Two Pair ( 8h 8c 7c 7s Ac )
+Wins: Lo, chips: 200
+Wins: Radus, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Flop: 5d Ad Jh
+Turn: 8h
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Lo, 3c 3s
+Combination: Lo, Two Pair ( 5d 5h 3c 3s Ad )
+Shows: Radus, Tc 9d
+Combination: Radus, Pair ( 5d 5h Ad Jh Tc )
+Wins: Lo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Folds: Lo
+Pot size: 300
+Boasts: Radus, 5d 7c
+Wins: Radus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Radus
+Small Blind: Radus, chips: 100
+Big Blind: Lo, chips: 200
+Flop: 2s Kd Ac
+Turn: 9d
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Lo, 3d 6c
+Combination: Lo, High Card ( Ac Kd Jc 9d 6c )
+Shows: Radus, 3s 8c
+Combination: Radus, High Card ( Ac Kd Jc 9d 8c )
+Wins: Lo, chips: 100
+Wins: Radus, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lo
+Small Blind: Lo, chips: 100
+Big Blind: Radus, chips: 200
+Flop: 4d 8d Jd
+Turn: 7s
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Lo, 3h Ks
+Combination: Lo, Pair ( Jd Jc Ks 8d 7s )
+Shows: Radus, Ad Kd
+Combination: Radus, Flush ( Ad Kd Jd 8d 4d )
+Wins: Radus, chips: 300
+Quits: Lo, chips: 0
+Ranking: Radus, Place: 1, Score: 1000
+Reveal AI: Radus, AI: Random
+Ranking: Lo, Place: 2, Score: -1000
+Reveal AI: Lo, AI: AIMyBot1
+
+Player Stats for Lo, AI: AIMyBot1
+General: deals: 22, actions: 12, preflop actions: 12
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 9, showdown: 5, bluff: 4
+Chips: won: 2100, lost: 3100, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Radus, AI: Random
+General: deals: 22, actions: 7, preflop actions: 7
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 16, showdown: 4, bluff: 12
+Chips: won: 4600, lost: 3600, bought: 1000, forced bets: 3300
+Pre-Flop Stats: VP$IP: 0.136364, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

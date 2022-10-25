@@ -1,0 +1,284 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Puvonoe: Random
+Hanuchi: AIMyBot1
+
+Joins: Puvonoe, chips: 1000
+Joins: Hanuchi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanuchi
+Small Blind: Hanuchi, chips: 100
+Big Blind: Puvonoe, chips: 200
+Folds: Hanuchi
+Pot size: 300
+Wins: Puvonoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puvonoe
+Small Blind: Puvonoe, chips: 100
+Big Blind: Hanuchi, chips: 200
+Raises: Puvonoe, chips: 300
+Folds: Hanuchi
+Pot size: 700
+Wins: Puvonoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanuchi
+Small Blind: Hanuchi, chips: 100
+Big Blind: Puvonoe, chips: 200
+Folds: Hanuchi
+Pot size: 300
+Boasts: Puvonoe, 2d Jh
+Wins: Puvonoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puvonoe
+Small Blind: Puvonoe, chips: 100
+Big Blind: Hanuchi, chips: 200
+Folds: Puvonoe
+Pot size: 300
+Boasts: Puvonoe, 3s Qh
+Wins: Hanuchi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanuchi
+Small Blind: Hanuchi, chips: 100
+Big Blind: Puvonoe, chips: 200
+Folds: Hanuchi
+Pot size: 300
+Wins: Puvonoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puvonoe
+Small Blind: Puvonoe, chips: 100
+Big Blind: Hanuchi, chips: 200
+Calls: Puvonoe
+DEBUG MESSAGE: INVALID ACTION FROM Hanuchi (2 0)
+Folds: Hanuchi
+Pot size: 400
+Boasts: Puvonoe, Tc Jh
+Wins: Puvonoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanuchi
+Small Blind: Hanuchi, chips: 100
+Big Blind: Puvonoe, chips: 200
+Folds: Hanuchi
+Pot size: 300
+Boasts: Puvonoe, 2h 9d
+Wins: Puvonoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puvonoe
+Small Blind: Puvonoe, chips: 100
+Big Blind: Hanuchi, chips: 200
+Calls: Puvonoe
+DEBUG MESSAGE: INVALID ACTION FROM Hanuchi (2 0)
+Folds: Hanuchi
+Pot size: 400
+Wins: Puvonoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanuchi
+Small Blind: Hanuchi, chips: 100
+Big Blind: Puvonoe, chips: 200
+Flop: 3c 9c Js
+Turn: Ah
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Puvonoe, 5d 2c
+Combination: Puvonoe, High Card ( Ah Js 9c 7h 5d )
+Shows: Hanuchi, 7s 8d
+Combination: Hanuchi, Pair ( 7s 7h Ah Js 9c )
+Wins: Puvonoe, chips: 100
+Wins: Hanuchi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puvonoe
+Small Blind: Puvonoe, chips: 100
+Big Blind: Hanuchi, chips: 200
+Flop: 3d 6d 2d
+Turn: 2s
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Puvonoe, 9h Ah
+Combination: Puvonoe, Pair ( 2d 2s Ah 9h 8d )
+Shows: Hanuchi, 4h 7h
+Combination: Hanuchi, Pair ( 2d 2s 8d 7h 6d )
+Wins: Puvonoe, chips: 200
+Wins: Hanuchi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanuchi
+Small Blind: Hanuchi, chips: 100
+Big Blind: Puvonoe, chips: 200
+Flop: 9c Jd 6s
+Turn: 6h
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Puvonoe, Tc Td
+Combination: Puvonoe, Two Pair ( Tc Td 6s 6h Kh )
+Shows: Hanuchi, 7s 9d
+Combination: Hanuchi, Two Pair ( 9d 9c 6s 6h Kh )
+Wins: Puvonoe, chips: 300
+Quits: Hanuchi, chips: 0
+Ranking: Puvonoe, Place: 1, Score: 1000
+Reveal AI: Puvonoe, AI: Random
+Ranking: Hanuchi, Place: 2, Score: -1000
+Reveal AI: Hanuchi, AI: AIMyBot1
+
+Player Stats for Hanuchi, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Puvonoe, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:11
+
+The game begins. The AI's of the players are: 
+Puvonoe: Random
+Hanuchi: AIMyBot1
+
+Joins: Puvonoe, chips: 1000
+Joins: Hanuchi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanuchi
+Small Blind: Hanuchi, chips: 100
+Big Blind: Puvonoe, chips: 200
+Folds: Hanuchi
+Pot size: 300
+Wins: Puvonoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puvonoe
+Small Blind: Puvonoe, chips: 100
+Big Blind: Hanuchi, chips: 200
+Raises: Puvonoe, chips: 300
+Folds: Hanuchi
+Pot size: 700
+Wins: Puvonoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanuchi
+Small Blind: Hanuchi, chips: 100
+Big Blind: Puvonoe, chips: 200
+Folds: Hanuchi
+Pot size: 300
+Boasts: Puvonoe, 2d Jh
+Wins: Puvonoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puvonoe
+Small Blind: Puvonoe, chips: 100
+Big Blind: Hanuchi, chips: 200
+Folds: Puvonoe
+Pot size: 300
+Boasts: Puvonoe, 3s Qh
+Wins: Hanuchi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanuchi
+Small Blind: Hanuchi, chips: 100
+Big Blind: Puvonoe, chips: 200
+Folds: Hanuchi
+Pot size: 300
+Wins: Puvonoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puvonoe
+Small Blind: Puvonoe, chips: 100
+Big Blind: Hanuchi, chips: 200
+Calls: Puvonoe
+DEBUG MESSAGE: INVALID ACTION FROM Hanuchi (2 0)
+Folds: Hanuchi
+Pot size: 400
+Boasts: Puvonoe, Tc Jh
+Wins: Puvonoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanuchi
+Small Blind: Hanuchi, chips: 100
+Big Blind: Puvonoe, chips: 200
+Folds: Hanuchi
+Pot size: 300
+Boasts: Puvonoe, 2h 9d
+Wins: Puvonoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puvonoe
+Small Blind: Puvonoe, chips: 100
+Big Blind: Hanuchi, chips: 200
+Calls: Puvonoe
+DEBUG MESSAGE: INVALID ACTION FROM Hanuchi (2 0)
+Folds: Hanuchi
+Pot size: 400
+Wins: Puvonoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanuchi
+Small Blind: Hanuchi, chips: 100
+Big Blind: Puvonoe, chips: 200
+Flop: 3c 9c Js
+Turn: Ah
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Puvonoe, 5d 2c
+Combination: Puvonoe, High Card ( Ah Js 9c 7h 5d )
+Shows: Hanuchi, 7s 8d
+Combination: Hanuchi, Pair ( 7s 7h Ah Js 9c )
+Wins: Puvonoe, chips: 100
+Wins: Hanuchi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Puvonoe
+Small Blind: Puvonoe, chips: 100
+Big Blind: Hanuchi, chips: 200
+Flop: 3d 6d 2d
+Turn: 2s
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Puvonoe, 9h Ah
+Combination: Puvonoe, Pair ( 2d 2s Ah 9h 8d )
+Shows: Hanuchi, 4h 7h
+Combination: Hanuchi, Pair ( 2d 2s 8d 7h 6d )
+Wins: Puvonoe, chips: 200
+Wins: Hanuchi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hanuchi
+Small Blind: Hanuchi, chips: 100
+Big Blind: Puvonoe, chips: 200
+Flop: 9c Jd 6s
+Turn: 6h
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Puvonoe, Tc Td
+Combination: Puvonoe, Two Pair ( Tc Td 6s 6h Kh )
+Shows: Hanuchi, 7s 9d
+Combination: Hanuchi, Two Pair ( 9d 9c 6s 6h Kh )
+Wins: Puvonoe, chips: 300
+Quits: Hanuchi, chips: 0
+Ranking: Puvonoe, Place: 1, Score: 1000
+Reveal AI: Puvonoe, AI: Random
+Ranking: Hanuchi, Place: 2, Score: -1000
+Reveal AI: Hanuchi, AI: AIMyBot1
+
+Player Stats for Hanuchi, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Puvonoe, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

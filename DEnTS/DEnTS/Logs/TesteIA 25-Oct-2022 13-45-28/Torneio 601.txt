@@ -1,0 +1,422 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Moetulo: Random
+Miwra: AIMyBot1
+
+Joins: Moetulo, chips: 1000
+Joins: Miwra, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 200
+Calls: Moetulo
+DEBUG MESSAGE: INVALID ACTION FROM Miwra (2 0)
+Folds: Miwra
+Pot size: 400
+Wins: Moetulo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwra
+Small Blind: Miwra, chips: 100
+Big Blind: Moetulo, chips: 200
+Folds: Miwra
+Pot size: 300
+Boasts: Moetulo, 7d 9h
+Wins: Moetulo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 200
+Raises: Moetulo, chips: 300
+Folds: Miwra
+Pot size: 700
+Boasts: Moetulo, Qc Js
+Wins: Moetulo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwra
+Small Blind: Miwra, chips: 100
+Big Blind: Moetulo, chips: 200
+Folds: Miwra
+Pot size: 300
+Boasts: Moetulo, 2d 3s
+Wins: Moetulo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 200
+Raises: Moetulo, chips: 1400
+Folds: Miwra
+Pot size: 1800
+Wins: Moetulo, chips: 1800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwra
+Small Blind: Miwra, chips: 100
+Big Blind: Moetulo, chips: 200
+Folds: Miwra
+Pot size: 300
+Boasts: Moetulo, Ah 5s
+Wins: Moetulo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 100
+Flop: 9c Td Ah
+Turn: Jd
+River: 9s
+Pot size: 200
+Showdown Reached
+Shows: Moetulo, Qd 5d
+Combination: Moetulo, Pair ( 9c 9s Ah Qd Jd )
+Shows: Miwra, As Qh
+Combination: Miwra, Two Pair ( As Ah 9c 9s Qh )
+Wins: Miwra, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwra
+Small Blind: Miwra, chips: 100
+Big Blind: Moetulo, chips: 200
+Folds: Miwra
+Pot size: 300
+Wins: Moetulo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 100
+Flop: Qh 8c 4h
+Turn: 6d
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Moetulo, 6h Ts
+Combination: Moetulo, Pair ( 6h 6d Qh Ts 8c )
+Shows: Miwra, 9s 8h
+Combination: Miwra, Pair ( 8h 8c Qh 9s 7d )
+Wins: Miwra, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwra
+Small Blind: Miwra, chips: 100
+Big Blind: Moetulo, chips: 200
+Folds: Miwra
+Pot size: 300
+Wins: Moetulo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 100
+Flop: 2c Jc 4d
+Turn: 8h
+River: 6c
+Pot size: 200
+Showdown Reached
+Shows: Moetulo, 7c As
+Combination: Moetulo, High Card ( As Jc 8h 7c 6c )
+Shows: Miwra, 7s 7d
+Combination: Miwra, Pair ( 7s 7d Jc 8h 6c )
+Wins: Miwra, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwra
+Small Blind: Miwra, chips: 100
+Big Blind: Moetulo, chips: 200
+Folds: Miwra
+Pot size: 300
+Wins: Moetulo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 100
+Flop: 4d 7d 7c
+Turn: As
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Moetulo, 5d Js
+Combination: Moetulo, Pair ( 7d 7c As Js 8h )
+Shows: Miwra, Ah Ad
+Combination: Miwra, Full House ( Ah Ad As 7d 7c )
+Wins: Miwra, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwra
+Small Blind: Miwra, chips: 100
+Big Blind: Moetulo, chips: 200
+Folds: Miwra
+Pot size: 300
+Wins: Moetulo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 100
+Flop: Qs 5d 2h
+Turn: 3d
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Moetulo, 2s 9s
+Combination: Moetulo, Two Pair ( 3d 3s 2s 2h Qs )
+Shows: Miwra, 8d 2d
+Combination: Miwra, Two Pair ( 3d 3s 2d 2h Qs )
+Wins: Moetulo, chips: 100
+Wins: Miwra, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwra
+Small Blind: Miwra, chips: 100
+Big Blind: Moetulo, chips: 200
+Flop: Ah 5c 6h
+Turn: 6s
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Moetulo, 9c 2c
+Combination: Moetulo, Two Pair ( 9c 9d 6h 6s Ah )
+Shows: Miwra, Jc 9h
+Combination: Miwra, Two Pair ( 9h 9d 6h 6s Ah )
+Wins: Moetulo, chips: 200
+Wins: Miwra, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 100
+Flop: 6c Ac 7h
+Turn: Jh
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Moetulo, Qc Qs
+Combination: Moetulo, Pair ( Qc Qs Ac Jh Tc )
+Shows: Miwra, Jd 3d
+Combination: Miwra, Pair ( Jd Jh Ac Tc 7h )
+Wins: Moetulo, chips: 200
+Quits: Miwra, chips: 0
+Ranking: Moetulo, Place: 1, Score: 1000
+Reveal AI: Moetulo, AI: Random
+Ranking: Miwra, Place: 2, Score: -1000
+Reveal AI: Miwra, AI: AIMyBot1
+
+Player Stats for Miwra, AI: AIMyBot1
+General: deals: 17, actions: 10, preflop actions: 10
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 1000, lost: 2000, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Moetulo, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 13, showdown: 3, bluff: 10
+Chips: won: 5500, lost: 4500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.428571
+
+
+Date: 2022/10/25 13:46:09
+
+The game begins. The AI's of the players are: 
+Moetulo: Random
+Miwra: AIMyBot1
+
+Joins: Moetulo, chips: 1000
+Joins: Miwra, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 200
+Calls: Moetulo
+DEBUG MESSAGE: INVALID ACTION FROM Miwra (2 0)
+Folds: Miwra
+Pot size: 400
+Wins: Moetulo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwra
+Small Blind: Miwra, chips: 100
+Big Blind: Moetulo, chips: 200
+Folds: Miwra
+Pot size: 300
+Boasts: Moetulo, 7d 9h
+Wins: Moetulo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 200
+Raises: Moetulo, chips: 300
+Folds: Miwra
+Pot size: 700
+Boasts: Moetulo, Qc Js
+Wins: Moetulo, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwra
+Small Blind: Miwra, chips: 100
+Big Blind: Moetulo, chips: 200
+Folds: Miwra
+Pot size: 300
+Boasts: Moetulo, 2d 3s
+Wins: Moetulo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 200
+Raises: Moetulo, chips: 1400
+Folds: Miwra
+Pot size: 1800
+Wins: Moetulo, chips: 1800
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwra
+Small Blind: Miwra, chips: 100
+Big Blind: Moetulo, chips: 200
+Folds: Miwra
+Pot size: 300
+Boasts: Moetulo, Ah 5s
+Wins: Moetulo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 100
+Flop: 9c Td Ah
+Turn: Jd
+River: 9s
+Pot size: 200
+Showdown Reached
+Shows: Moetulo, Qd 5d
+Combination: Moetulo, Pair ( 9c 9s Ah Qd Jd )
+Shows: Miwra, As Qh
+Combination: Miwra, Two Pair ( As Ah 9c 9s Qh )
+Wins: Miwra, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwra
+Small Blind: Miwra, chips: 100
+Big Blind: Moetulo, chips: 200
+Folds: Miwra
+Pot size: 300
+Wins: Moetulo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 100
+Flop: Qh 8c 4h
+Turn: 6d
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Moetulo, 6h Ts
+Combination: Moetulo, Pair ( 6h 6d Qh Ts 8c )
+Shows: Miwra, 9s 8h
+Combination: Miwra, Pair ( 8h 8c Qh 9s 7d )
+Wins: Miwra, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwra
+Small Blind: Miwra, chips: 100
+Big Blind: Moetulo, chips: 200
+Folds: Miwra
+Pot size: 300
+Wins: Moetulo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 100
+Flop: 2c Jc 4d
+Turn: 8h
+River: 6c
+Pot size: 200
+Showdown Reached
+Shows: Moetulo, 7c As
+Combination: Moetulo, High Card ( As Jc 8h 7c 6c )
+Shows: Miwra, 7s 7d
+Combination: Miwra, Pair ( 7s 7d Jc 8h 6c )
+Wins: Miwra, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwra
+Small Blind: Miwra, chips: 100
+Big Blind: Moetulo, chips: 200
+Folds: Miwra
+Pot size: 300
+Wins: Moetulo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 100
+Flop: 4d 7d 7c
+Turn: As
+River: 8h
+Pot size: 200
+Showdown Reached
+Shows: Moetulo, 5d Js
+Combination: Moetulo, Pair ( 7d 7c As Js 8h )
+Shows: Miwra, Ah Ad
+Combination: Miwra, Full House ( Ah Ad As 7d 7c )
+Wins: Miwra, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwra
+Small Blind: Miwra, chips: 100
+Big Blind: Moetulo, chips: 200
+Folds: Miwra
+Pot size: 300
+Wins: Moetulo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 100
+Flop: Qs 5d 2h
+Turn: 3d
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Moetulo, 2s 9s
+Combination: Moetulo, Two Pair ( 3d 3s 2s 2h Qs )
+Shows: Miwra, 8d 2d
+Combination: Miwra, Two Pair ( 3d 3s 2d 2h Qs )
+Wins: Moetulo, chips: 100
+Wins: Miwra, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Miwra
+Small Blind: Miwra, chips: 100
+Big Blind: Moetulo, chips: 200
+Flop: Ah 5c 6h
+Turn: 6s
+River: 9d
+Pot size: 300
+Showdown Reached
+Shows: Moetulo, 9c 2c
+Combination: Moetulo, Two Pair ( 9c 9d 6h 6s Ah )
+Shows: Miwra, Jc 9h
+Combination: Miwra, Two Pair ( 9h 9d 6h 6s Ah )
+Wins: Moetulo, chips: 200
+Wins: Miwra, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Moetulo
+Small Blind: Moetulo, chips: 100
+Big Blind: Miwra, chips: 100
+Flop: 6c Ac 7h
+Turn: Jh
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Moetulo, Qc Qs
+Combination: Moetulo, Pair ( Qc Qs Ac Jh Tc )
+Shows: Miwra, Jd 3d
+Combination: Miwra, Pair ( Jd Jh Ac Tc 7h )
+Wins: Moetulo, chips: 200
+Quits: Miwra, chips: 0
+Ranking: Moetulo, Place: 1, Score: 1000
+Reveal AI: Moetulo, AI: Random
+Ranking: Miwra, Place: 2, Score: -1000
+Reveal AI: Miwra, AI: AIMyBot1
+
+Player Stats for Miwra, AI: AIMyBot1
+General: deals: 17, actions: 10, preflop actions: 10
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 1000, lost: 2000, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Player Stats for Moetulo, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 13, showdown: 3, bluff: 10
+Chips: won: 5500, lost: 4500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.117647, 3Bet: 0.117647
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.428571
+
+

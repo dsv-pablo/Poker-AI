@@ -1,0 +1,388 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Fipeerlap: AIMyBot1
+Tichewru: Random
+
+Joins: Fipeerlap, chips: 1000
+Joins: Tichewru, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipeerlap
+Small Blind: Fipeerlap, chips: 100
+Big Blind: Tichewru, chips: 200
+Folds: Fipeerlap
+Pot size: 300
+Wins: Tichewru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichewru
+Small Blind: Tichewru, chips: 100
+Big Blind: Fipeerlap, chips: 200
+Raises: Tichewru, chips: 300
+Folds: Fipeerlap
+Pot size: 700
+Wins: Tichewru, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipeerlap
+Small Blind: Fipeerlap, chips: 100
+Big Blind: Tichewru, chips: 200
+Folds: Fipeerlap
+Pot size: 300
+Wins: Tichewru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichewru
+Small Blind: Tichewru, chips: 100
+Big Blind: Fipeerlap, chips: 200
+Calls: Tichewru
+DEBUG MESSAGE: INVALID ACTION FROM Fipeerlap (2 0)
+Folds: Fipeerlap
+Pot size: 400
+Wins: Tichewru, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipeerlap
+Small Blind: Fipeerlap, chips: 100
+Big Blind: Tichewru, chips: 200
+Folds: Fipeerlap
+Pot size: 300
+Boasts: Tichewru, 7s 2s
+Wins: Tichewru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichewru
+Small Blind: Tichewru, chips: 100
+Big Blind: Fipeerlap, chips: 200
+Raises: Tichewru, chips: 300
+Calls: Fipeerlap
+Flop: Jc Jd 4c
+Turn: Js
+River: Ah
+Pot size: 800
+Showdown Reached
+Shows: Fipeerlap, 5c As
+Combination: Fipeerlap, Full House ( Jc Jd Js As Ah )
+Shows: Tichewru, 4h Kd
+Combination: Tichewru, Full House ( Jc Jd Js 4h 4c )
+Wins: Fipeerlap, chips: 600
+Wins: Tichewru, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipeerlap
+Small Blind: Fipeerlap, chips: 100
+Big Blind: Tichewru, chips: 200
+Folds: Fipeerlap
+Pot size: 300
+Wins: Tichewru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichewru
+Small Blind: Tichewru, chips: 100
+Big Blind: Fipeerlap, chips: 200
+Calls: Tichewru
+DEBUG MESSAGE: INVALID ACTION FROM Fipeerlap (2 0)
+Folds: Fipeerlap
+Pot size: 400
+Boasts: Tichewru, Ks 5h
+Wins: Tichewru, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipeerlap
+Small Blind: Fipeerlap, chips: 100
+Big Blind: Tichewru, chips: 200
+Folds: Fipeerlap
+Pot size: 300
+Boasts: Tichewru, 2c 5h
+Wins: Tichewru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichewru
+Small Blind: Tichewru, chips: 100
+Big Blind: Fipeerlap, chips: 200
+Flop: Kc 7s 8c
+Turn: 8h
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Fipeerlap, 3s Tc
+Combination: Fipeerlap, Pair ( 8c 8h Kc Jd Tc )
+Shows: Tichewru, 6c 9c
+Combination: Tichewru, Pair ( 8c 8h Kc Jd 9c )
+Wins: Fipeerlap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipeerlap
+Small Blind: Fipeerlap, chips: 100
+Big Blind: Tichewru, chips: 200
+Folds: Fipeerlap
+Pot size: 300
+Wins: Tichewru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichewru
+Small Blind: Tichewru, chips: 100
+Big Blind: Fipeerlap, chips: 200
+Flop: Jh 3c 5d
+Turn: Kd
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Fipeerlap, 2d Ts
+Combination: Fipeerlap, High Card ( Kd Jh Ts 7h 5d )
+Shows: Tichewru, 3d 2c
+Combination: Tichewru, Pair ( 3d 3c Kd Jh 7h )
+Wins: Fipeerlap, chips: 100
+Wins: Tichewru, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipeerlap
+Small Blind: Fipeerlap, chips: 100
+Big Blind: Tichewru, chips: 200
+Flop: 3s Js 6h
+Turn: 6d
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Fipeerlap, Ad Kh
+Combination: Fipeerlap, Two Pair ( Kh Ks 6h 6d Ad )
+Shows: Tichewru, 5d 9h
+Combination: Tichewru, Pair ( 6h 6d Ks Js 9h )
+Wins: Fipeerlap, chips: 200
+Wins: Tichewru, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichewru
+Small Blind: Tichewru, chips: 100
+Big Blind: Fipeerlap, chips: 200
+Flop: 5c 3c Jd
+Turn: 7d
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Fipeerlap, 5h 2d
+Combination: Fipeerlap, Two Pair ( 7d 7h 5h 5c Jd )
+Shows: Tichewru, Qs 5d
+Combination: Tichewru, Two Pair ( 7d 7h 5d 5c Qs )
+Wins: Fipeerlap, chips: 100
+Wins: Tichewru, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipeerlap
+Small Blind: Fipeerlap, chips: 100
+Big Blind: Tichewru, chips: 200
+Flop: Ts Ad 6h
+Turn: 7d
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Fipeerlap, 4h Qc
+Combination: Fipeerlap, High Card ( Ad Qc Ts 8h 7d )
+Shows: Tichewru, Qh 8d
+Combination: Tichewru, Pair ( 8d 8h Ad Qh Ts )
+Wins: Tichewru, chips: 300
+Quits: Fipeerlap, chips: 0
+Ranking: Tichewru, Place: 1, Score: 1000
+Reveal AI: Tichewru, AI: Random
+Ranking: Fipeerlap, Place: 2, Score: -1000
+Reveal AI: Fipeerlap, AI: AIMyBot1
+
+Player Stats for Fipeerlap, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 1300, lost: 2500, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.0666667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Tichewru, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 14, showdown: 5, bluff: 9
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.266667, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:45:42
+
+The game begins. The AI's of the players are: 
+Fipeerlap: AIMyBot1
+Tichewru: Random
+
+Joins: Fipeerlap, chips: 1000
+Joins: Tichewru, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipeerlap
+Small Blind: Fipeerlap, chips: 100
+Big Blind: Tichewru, chips: 200
+Folds: Fipeerlap
+Pot size: 300
+Wins: Tichewru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichewru
+Small Blind: Tichewru, chips: 100
+Big Blind: Fipeerlap, chips: 200
+Raises: Tichewru, chips: 300
+Folds: Fipeerlap
+Pot size: 700
+Wins: Tichewru, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipeerlap
+Small Blind: Fipeerlap, chips: 100
+Big Blind: Tichewru, chips: 200
+Folds: Fipeerlap
+Pot size: 300
+Wins: Tichewru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichewru
+Small Blind: Tichewru, chips: 100
+Big Blind: Fipeerlap, chips: 200
+Calls: Tichewru
+DEBUG MESSAGE: INVALID ACTION FROM Fipeerlap (2 0)
+Folds: Fipeerlap
+Pot size: 400
+Wins: Tichewru, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipeerlap
+Small Blind: Fipeerlap, chips: 100
+Big Blind: Tichewru, chips: 200
+Folds: Fipeerlap
+Pot size: 300
+Boasts: Tichewru, 7s 2s
+Wins: Tichewru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichewru
+Small Blind: Tichewru, chips: 100
+Big Blind: Fipeerlap, chips: 200
+Raises: Tichewru, chips: 300
+Calls: Fipeerlap
+Flop: Jc Jd 4c
+Turn: Js
+River: Ah
+Pot size: 800
+Showdown Reached
+Shows: Fipeerlap, 5c As
+Combination: Fipeerlap, Full House ( Jc Jd Js As Ah )
+Shows: Tichewru, 4h Kd
+Combination: Tichewru, Full House ( Jc Jd Js 4h 4c )
+Wins: Fipeerlap, chips: 600
+Wins: Tichewru, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipeerlap
+Small Blind: Fipeerlap, chips: 100
+Big Blind: Tichewru, chips: 200
+Folds: Fipeerlap
+Pot size: 300
+Wins: Tichewru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichewru
+Small Blind: Tichewru, chips: 100
+Big Blind: Fipeerlap, chips: 200
+Calls: Tichewru
+DEBUG MESSAGE: INVALID ACTION FROM Fipeerlap (2 0)
+Folds: Fipeerlap
+Pot size: 400
+Boasts: Tichewru, Ks 5h
+Wins: Tichewru, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipeerlap
+Small Blind: Fipeerlap, chips: 100
+Big Blind: Tichewru, chips: 200
+Folds: Fipeerlap
+Pot size: 300
+Boasts: Tichewru, 2c 5h
+Wins: Tichewru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichewru
+Small Blind: Tichewru, chips: 100
+Big Blind: Fipeerlap, chips: 200
+Flop: Kc 7s 8c
+Turn: 8h
+River: Jd
+Pot size: 300
+Showdown Reached
+Shows: Fipeerlap, 3s Tc
+Combination: Fipeerlap, Pair ( 8c 8h Kc Jd Tc )
+Shows: Tichewru, 6c 9c
+Combination: Tichewru, Pair ( 8c 8h Kc Jd 9c )
+Wins: Fipeerlap, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipeerlap
+Small Blind: Fipeerlap, chips: 100
+Big Blind: Tichewru, chips: 200
+Folds: Fipeerlap
+Pot size: 300
+Wins: Tichewru, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichewru
+Small Blind: Tichewru, chips: 100
+Big Blind: Fipeerlap, chips: 200
+Flop: Jh 3c 5d
+Turn: Kd
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Fipeerlap, 2d Ts
+Combination: Fipeerlap, High Card ( Kd Jh Ts 7h 5d )
+Shows: Tichewru, 3d 2c
+Combination: Tichewru, Pair ( 3d 3c Kd Jh 7h )
+Wins: Fipeerlap, chips: 100
+Wins: Tichewru, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipeerlap
+Small Blind: Fipeerlap, chips: 100
+Big Blind: Tichewru, chips: 200
+Flop: 3s Js 6h
+Turn: 6d
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Fipeerlap, Ad Kh
+Combination: Fipeerlap, Two Pair ( Kh Ks 6h 6d Ad )
+Shows: Tichewru, 5d 9h
+Combination: Tichewru, Pair ( 6h 6d Ks Js 9h )
+Wins: Fipeerlap, chips: 200
+Wins: Tichewru, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tichewru
+Small Blind: Tichewru, chips: 100
+Big Blind: Fipeerlap, chips: 200
+Flop: 5c 3c Jd
+Turn: 7d
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Fipeerlap, 5h 2d
+Combination: Fipeerlap, Two Pair ( 7d 7h 5h 5c Jd )
+Shows: Tichewru, Qs 5d
+Combination: Tichewru, Two Pair ( 7d 7h 5d 5c Qs )
+Wins: Fipeerlap, chips: 100
+Wins: Tichewru, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fipeerlap
+Small Blind: Fipeerlap, chips: 100
+Big Blind: Tichewru, chips: 200
+Flop: Ts Ad 6h
+Turn: 7d
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Fipeerlap, 4h Qc
+Combination: Fipeerlap, High Card ( Ad Qc Ts 8h 7d )
+Shows: Tichewru, Qh 8d
+Combination: Tichewru, Pair ( 8d 8h Ad Qh Ts )
+Wins: Tichewru, chips: 300
+Quits: Fipeerlap, chips: 0
+Ranking: Tichewru, Place: 1, Score: 1000
+Reveal AI: Tichewru, AI: Random
+Ranking: Fipeerlap, Place: 2, Score: -1000
+Reveal AI: Fipeerlap, AI: AIMyBot1
+
+Player Stats for Fipeerlap, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 1300, lost: 2500, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.0666667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Tichewru, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 14, showdown: 5, bluff: 9
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.266667, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

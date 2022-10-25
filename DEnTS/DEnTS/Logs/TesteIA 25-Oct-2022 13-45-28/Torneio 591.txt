@@ -1,0 +1,216 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Riloger: Random
+Mota: AIMyBot1
+
+Joins: Riloger, chips: 1000
+Joins: Mota, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mota
+Small Blind: Mota, chips: 100
+Big Blind: Riloger, chips: 200
+Folds: Mota
+Pot size: 300
+Wins: Riloger, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloger
+Small Blind: Riloger, chips: 100
+Big Blind: Mota, chips: 200
+Raises: Riloger, chips: 300
+Folds: Mota
+Pot size: 700
+Wins: Riloger, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mota
+Small Blind: Mota, chips: 100
+Big Blind: Riloger, chips: 200
+Folds: Mota
+Pot size: 300
+Boasts: Riloger, 3d 5c
+Wins: Riloger, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloger
+Small Blind: Riloger, chips: 100
+Big Blind: Mota, chips: 200
+Folds: Riloger
+Pot size: 300
+Wins: Mota, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mota
+Small Blind: Mota, chips: 100
+Big Blind: Riloger, chips: 200
+Folds: Mota
+Pot size: 300
+Wins: Riloger, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloger
+Small Blind: Riloger, chips: 100
+Big Blind: Mota, chips: 200
+Calls: Riloger
+DEBUG MESSAGE: INVALID ACTION FROM Mota (2 0)
+Folds: Mota
+Pot size: 400
+Wins: Riloger, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mota
+Small Blind: Mota, chips: 100
+Big Blind: Riloger, chips: 200
+Folds: Mota
+Pot size: 300
+Wins: Riloger, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloger
+Small Blind: Riloger, chips: 100
+Big Blind: Mota, chips: 200
+Raises: Riloger, chips: 300
+Folds: Mota
+Pot size: 700
+Wins: Riloger, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mota
+Small Blind: Mota, chips: 100
+Big Blind: Riloger, chips: 200
+Flop: 8c 5c 8d
+Turn: 4s
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Riloger, Ac Jh
+Combination: Riloger, Pair ( 8c 8d Ac Ks Jh )
+Shows: Mota, Jc 7h
+Combination: Mota, Pair ( 8c 8d Ks Jc 7h )
+Wins: Riloger, chips: 300
+Quits: Mota, chips: 0
+Ranking: Riloger, Place: 1, Score: 1000
+Reveal AI: Riloger, AI: Random
+Ranking: Mota, Place: 2, Score: -1000
+Reveal AI: Mota, AI: AIMyBot1
+
+Player Stats for Mota, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Riloger, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:08
+
+The game begins. The AI's of the players are: 
+Riloger: Random
+Mota: AIMyBot1
+
+Joins: Riloger, chips: 1000
+Joins: Mota, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mota
+Small Blind: Mota, chips: 100
+Big Blind: Riloger, chips: 200
+Folds: Mota
+Pot size: 300
+Wins: Riloger, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloger
+Small Blind: Riloger, chips: 100
+Big Blind: Mota, chips: 200
+Raises: Riloger, chips: 300
+Folds: Mota
+Pot size: 700
+Wins: Riloger, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mota
+Small Blind: Mota, chips: 100
+Big Blind: Riloger, chips: 200
+Folds: Mota
+Pot size: 300
+Boasts: Riloger, 3d 5c
+Wins: Riloger, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloger
+Small Blind: Riloger, chips: 100
+Big Blind: Mota, chips: 200
+Folds: Riloger
+Pot size: 300
+Wins: Mota, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mota
+Small Blind: Mota, chips: 100
+Big Blind: Riloger, chips: 200
+Folds: Mota
+Pot size: 300
+Wins: Riloger, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloger
+Small Blind: Riloger, chips: 100
+Big Blind: Mota, chips: 200
+Calls: Riloger
+DEBUG MESSAGE: INVALID ACTION FROM Mota (2 0)
+Folds: Mota
+Pot size: 400
+Wins: Riloger, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mota
+Small Blind: Mota, chips: 100
+Big Blind: Riloger, chips: 200
+Folds: Mota
+Pot size: 300
+Wins: Riloger, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riloger
+Small Blind: Riloger, chips: 100
+Big Blind: Mota, chips: 200
+Raises: Riloger, chips: 300
+Folds: Mota
+Pot size: 700
+Wins: Riloger, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mota
+Small Blind: Mota, chips: 100
+Big Blind: Riloger, chips: 200
+Flop: 8c 5c 8d
+Turn: 4s
+River: Ks
+Pot size: 300
+Showdown Reached
+Shows: Riloger, Ac Jh
+Combination: Riloger, Pair ( 8c 8d Ac Ks Jh )
+Shows: Mota, Jc 7h
+Combination: Mota, Pair ( 8c 8d Ks Jc 7h )
+Wins: Riloger, chips: 300
+Quits: Mota, chips: 0
+Ranking: Riloger, Place: 1, Score: 1000
+Reveal AI: Riloger, AI: Random
+Ranking: Mota, Place: 2, Score: -1000
+Reveal AI: Mota, AI: AIMyBot1
+
+Player Stats for Mota, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Riloger, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

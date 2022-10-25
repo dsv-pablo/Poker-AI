@@ -1,0 +1,220 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Nehoes: AIMyBot1
+Deedoetry: Random
+
+Joins: Nehoes, chips: 1000
+Joins: Deedoetry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deedoetry
+Small Blind: Deedoetry, chips: 100
+Big Blind: Nehoes, chips: 200
+Raises: Deedoetry, chips: 300
+Folds: Nehoes
+Pot size: 700
+Wins: Deedoetry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nehoes
+Small Blind: Nehoes, chips: 100
+Big Blind: Deedoetry, chips: 200
+Folds: Nehoes
+Pot size: 300
+Wins: Deedoetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deedoetry
+Small Blind: Deedoetry, chips: 100
+Big Blind: Nehoes, chips: 200
+Calls: Deedoetry
+DEBUG MESSAGE: INVALID ACTION FROM Nehoes (2 0)
+Folds: Nehoes
+Pot size: 400
+Wins: Deedoetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nehoes
+Small Blind: Nehoes, chips: 100
+Big Blind: Deedoetry, chips: 200
+Folds: Nehoes
+Pot size: 300
+Wins: Deedoetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deedoetry
+Small Blind: Deedoetry, chips: 100
+Big Blind: Nehoes, chips: 200
+Calls: Deedoetry
+DEBUG MESSAGE: INVALID ACTION FROM Nehoes (2 0)
+Folds: Nehoes
+Pot size: 400
+Boasts: Deedoetry, 5d Ac
+Wins: Deedoetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nehoes
+Small Blind: Nehoes, chips: 100
+Big Blind: Deedoetry, chips: 200
+Folds: Nehoes
+Pot size: 300
+Wins: Deedoetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deedoetry
+Small Blind: Deedoetry, chips: 100
+Big Blind: Nehoes, chips: 100
+Flop: Ks 4s 3h
+Turn: 3s
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Nehoes, 7h Th
+Combination: Nehoes, Pair ( 3h 3s Ad Ks Th )
+Shows: Deedoetry, 9d Tc
+Combination: Deedoetry, Pair ( 3h 3s Ad Ks Tc )
+Wins: Nehoes, chips: 100
+Wins: Deedoetry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nehoes
+Small Blind: Nehoes, chips: 100
+Big Blind: Deedoetry, chips: 200
+Flop: Kd Ts 3c
+Turn: Td
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Nehoes, 2s 7c
+Combination: Nehoes, Pair ( Ts Td Kd 7c 5c )
+Shows: Deedoetry, 2c Jc
+Combination: Deedoetry, Pair ( Ts Td Kd Jc 5c )
+Wins: Deedoetry, chips: 300
+Quits: Nehoes, chips: 0
+Ranking: Deedoetry, Place: 1, Score: 1000
+Reveal AI: Deedoetry, AI: Random
+Ranking: Nehoes, Place: 2, Score: -1000
+Reveal AI: Nehoes, AI: AIMyBot1
+
+Player Stats for Deedoetry, AI: Random
+General: deals: 8, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 2800, lost: 1800, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.125, 3Bet: 0.125
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Nehoes, AI: AIMyBot1
+General: deals: 8, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 100, lost: 1100, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:12
+
+The game begins. The AI's of the players are: 
+Nehoes: AIMyBot1
+Deedoetry: Random
+
+Joins: Nehoes, chips: 1000
+Joins: Deedoetry, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deedoetry
+Small Blind: Deedoetry, chips: 100
+Big Blind: Nehoes, chips: 200
+Raises: Deedoetry, chips: 300
+Folds: Nehoes
+Pot size: 700
+Wins: Deedoetry, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nehoes
+Small Blind: Nehoes, chips: 100
+Big Blind: Deedoetry, chips: 200
+Folds: Nehoes
+Pot size: 300
+Wins: Deedoetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deedoetry
+Small Blind: Deedoetry, chips: 100
+Big Blind: Nehoes, chips: 200
+Calls: Deedoetry
+DEBUG MESSAGE: INVALID ACTION FROM Nehoes (2 0)
+Folds: Nehoes
+Pot size: 400
+Wins: Deedoetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nehoes
+Small Blind: Nehoes, chips: 100
+Big Blind: Deedoetry, chips: 200
+Folds: Nehoes
+Pot size: 300
+Wins: Deedoetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deedoetry
+Small Blind: Deedoetry, chips: 100
+Big Blind: Nehoes, chips: 200
+Calls: Deedoetry
+DEBUG MESSAGE: INVALID ACTION FROM Nehoes (2 0)
+Folds: Nehoes
+Pot size: 400
+Boasts: Deedoetry, 5d Ac
+Wins: Deedoetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nehoes
+Small Blind: Nehoes, chips: 100
+Big Blind: Deedoetry, chips: 200
+Folds: Nehoes
+Pot size: 300
+Wins: Deedoetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deedoetry
+Small Blind: Deedoetry, chips: 100
+Big Blind: Nehoes, chips: 100
+Flop: Ks 4s 3h
+Turn: 3s
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Nehoes, 7h Th
+Combination: Nehoes, Pair ( 3h 3s Ad Ks Th )
+Shows: Deedoetry, 9d Tc
+Combination: Deedoetry, Pair ( 3h 3s Ad Ks Tc )
+Wins: Nehoes, chips: 100
+Wins: Deedoetry, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nehoes
+Small Blind: Nehoes, chips: 100
+Big Blind: Deedoetry, chips: 200
+Flop: Kd Ts 3c
+Turn: Td
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Nehoes, 2s 7c
+Combination: Nehoes, Pair ( Ts Td Kd 7c 5c )
+Shows: Deedoetry, 2c Jc
+Combination: Deedoetry, Pair ( Ts Td Kd Jc 5c )
+Wins: Deedoetry, chips: 300
+Quits: Nehoes, chips: 0
+Ranking: Deedoetry, Place: 1, Score: 1000
+Reveal AI: Deedoetry, AI: Random
+Ranking: Nehoes, Place: 2, Score: -1000
+Reveal AI: Nehoes, AI: AIMyBot1
+
+Player Stats for Deedoetry, AI: Random
+General: deals: 8, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 2800, lost: 1800, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.125, 3Bet: 0.125
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Nehoes, AI: AIMyBot1
+General: deals: 8, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 100, lost: 1100, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

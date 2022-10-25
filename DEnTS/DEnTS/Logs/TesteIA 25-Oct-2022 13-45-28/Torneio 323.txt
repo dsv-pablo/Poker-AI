@@ -1,0 +1,198 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Kusu: AIMyBot1
+Rewarlee: Random
+
+Joins: Kusu, chips: 1000
+Joins: Rewarlee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rewarlee
+Small Blind: Rewarlee, chips: 100
+Big Blind: Kusu, chips: 200
+Folds: Rewarlee
+Pot size: 300
+Boasts: Rewarlee, Qc Qh
+Wins: Kusu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kusu
+Small Blind: Kusu, chips: 100
+Big Blind: Rewarlee, chips: 200
+Folds: Kusu
+Pot size: 300
+Boasts: Rewarlee, 5c Kd
+Wins: Rewarlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rewarlee
+Small Blind: Rewarlee, chips: 100
+Big Blind: Kusu, chips: 200
+Calls: Rewarlee
+DEBUG MESSAGE: INVALID ACTION FROM Kusu (2 0)
+Folds: Kusu
+Pot size: 400
+Boasts: Rewarlee, 3d 8c
+Wins: Rewarlee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kusu
+Small Blind: Kusu, chips: 100
+Big Blind: Rewarlee, chips: 200
+Folds: Kusu
+Pot size: 300
+Boasts: Rewarlee, Tc 8d
+Wins: Rewarlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rewarlee
+Small Blind: Rewarlee, chips: 100
+Big Blind: Kusu, chips: 200
+Raises: Rewarlee, chips: 300
+Folds: Kusu
+Pot size: 700
+Boasts: Rewarlee, Ks 3s
+Wins: Rewarlee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kusu
+Small Blind: Kusu, chips: 100
+Big Blind: Rewarlee, chips: 200
+Folds: Kusu
+Pot size: 300
+Wins: Rewarlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rewarlee
+Small Blind: Rewarlee, chips: 100
+Big Blind: Kusu, chips: 200
+Raises: Rewarlee, chips: 300
+Calls: Kusu
+Flop: 3s Ah 3d
+Turn: 6d
+River: Qc
+Pot size: 900
+Showdown Reached
+Shows: Kusu, 9c Kh
+Combination: Kusu, Pair ( 3s 3d Ah Kh Qc )
+Shows: Rewarlee, 6h 7d
+Combination: Rewarlee, Two Pair ( 6h 6d 3s 3d Ah )
+Wins: Rewarlee, chips: 900
+Quits: Kusu, chips: 0
+Ranking: Rewarlee, Place: 1, Score: 1000
+Reveal AI: Rewarlee, AI: Random
+Ranking: Kusu, Place: 2, Score: -1000
+Reveal AI: Kusu, AI: AIMyBot1
+
+Player Stats for Kusu, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1400, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Rewarlee, AI: Random
+General: deals: 7, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 1, bluff: 5
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:50
+
+The game begins. The AI's of the players are: 
+Kusu: AIMyBot1
+Rewarlee: Random
+
+Joins: Kusu, chips: 1000
+Joins: Rewarlee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rewarlee
+Small Blind: Rewarlee, chips: 100
+Big Blind: Kusu, chips: 200
+Folds: Rewarlee
+Pot size: 300
+Boasts: Rewarlee, Qc Qh
+Wins: Kusu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kusu
+Small Blind: Kusu, chips: 100
+Big Blind: Rewarlee, chips: 200
+Folds: Kusu
+Pot size: 300
+Boasts: Rewarlee, 5c Kd
+Wins: Rewarlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rewarlee
+Small Blind: Rewarlee, chips: 100
+Big Blind: Kusu, chips: 200
+Calls: Rewarlee
+DEBUG MESSAGE: INVALID ACTION FROM Kusu (2 0)
+Folds: Kusu
+Pot size: 400
+Boasts: Rewarlee, 3d 8c
+Wins: Rewarlee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kusu
+Small Blind: Kusu, chips: 100
+Big Blind: Rewarlee, chips: 200
+Folds: Kusu
+Pot size: 300
+Boasts: Rewarlee, Tc 8d
+Wins: Rewarlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rewarlee
+Small Blind: Rewarlee, chips: 100
+Big Blind: Kusu, chips: 200
+Raises: Rewarlee, chips: 300
+Folds: Kusu
+Pot size: 700
+Boasts: Rewarlee, Ks 3s
+Wins: Rewarlee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kusu
+Small Blind: Kusu, chips: 100
+Big Blind: Rewarlee, chips: 200
+Folds: Kusu
+Pot size: 300
+Wins: Rewarlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rewarlee
+Small Blind: Rewarlee, chips: 100
+Big Blind: Kusu, chips: 200
+Raises: Rewarlee, chips: 300
+Calls: Kusu
+Flop: 3s Ah 3d
+Turn: 6d
+River: Qc
+Pot size: 900
+Showdown Reached
+Shows: Kusu, 9c Kh
+Combination: Kusu, Pair ( 3s 3d Ah Kh Qc )
+Shows: Rewarlee, 6h 7d
+Combination: Rewarlee, Two Pair ( 6h 6d 3s 3d Ah )
+Wins: Rewarlee, chips: 900
+Quits: Kusu, chips: 0
+Ranking: Rewarlee, Place: 1, Score: 1000
+Reveal AI: Rewarlee, AI: Random
+Ranking: Kusu, Place: 2, Score: -1000
+Reveal AI: Kusu, AI: AIMyBot1
+
+Player Stats for Kusu, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1400, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Rewarlee, AI: Random
+General: deals: 7, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 1, bluff: 5
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

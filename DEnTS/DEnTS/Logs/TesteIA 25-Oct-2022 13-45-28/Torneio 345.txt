@@ -1,0 +1,422 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hoemo: AIMyBot1
+Cheedal: Random
+
+Joins: Hoemo, chips: 1000
+Joins: Cheedal, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 200
+Calls: Cheedal
+DEBUG MESSAGE: INVALID ACTION FROM Hoemo (2 0)
+Folds: Hoemo
+Pot size: 400
+Wins: Cheedal, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Boasts: Cheedal, 8s 8c
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 200
+Folds: Cheedal
+Pot size: 300
+Wins: Hoemo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 200
+Calls: Cheedal
+DEBUG MESSAGE: INVALID ACTION FROM Hoemo (2 0)
+Folds: Hoemo
+Pot size: 400
+Boasts: Cheedal, Qs 7c
+Wins: Cheedal, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Boasts: Cheedal, Kh Kd
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 200
+Folds: Cheedal
+Pot size: 300
+Boasts: Cheedal, 5h Ac
+Wins: Hoemo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 200
+Raises: Cheedal, chips: 300
+Folds: Hoemo
+Pot size: 700
+Boasts: Cheedal, 8d Qc
+Wins: Cheedal, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 100
+Flop: 7c 3d Qc
+Turn: Js
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Hoemo, 5s 9s
+Combination: Hoemo, High Card ( Qc Js Td 9s 7c )
+Shows: Cheedal, 2s 6s
+Combination: Cheedal, High Card ( Qc Js Td 7c 6s )
+Wins: Hoemo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 100
+Flop: Th 6c Ad
+Turn: 7h
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Hoemo, 2h Ks
+Combination: Hoemo, High Card ( Ad Ks Jh Th 7h )
+Shows: Cheedal, 8d Qc
+Combination: Cheedal, High Card ( Ad Qc Jh Th 8d )
+Wins: Hoemo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 100
+Flop: Qc 5d 2h
+Turn: 6c
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Hoemo, Jc 7c
+Combination: Hoemo, Flush ( Qc Jc Tc 7c 6c )
+Shows: Cheedal, 3h 8s
+Combination: Cheedal, High Card ( Qc Tc 8s 6c 5d )
+Wins: Hoemo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 100
+Flop: Kh 8h 4c
+Turn: 5c
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Hoemo, 3d Kd
+Combination: Hoemo, Pair ( Kd Kh 9h 8h 5c )
+Shows: Cheedal, 7c As
+Combination: Cheedal, High Card ( As Kh 9h 8h 7c )
+Wins: Hoemo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 100
+Flop: 4d 8d Qd
+Turn: 5d
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Hoemo, Js 9s
+Combination: Hoemo, Pair ( Js Jh Qd 9s 8d )
+Shows: Cheedal, Qh 8c
+Combination: Cheedal, Two Pair ( Qh Qd 8c 8d Jh )
+Wins: Cheedal, chips: 200
+Quits: Hoemo, chips: 0
+Ranking: Cheedal, Place: 1, Score: 1000
+Reveal AI: Cheedal, AI: Random
+Ranking: Hoemo, Place: 2, Score: -1000
+Reveal AI: Hoemo, AI: AIMyBot1
+
+Player Stats for Cheedal, AI: Random
+General: deals: 19, actions: 5, preflop actions: 5
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 13, showdown: 1, bluff: 12
+Chips: won: 4400, lost: 3400, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0.0526316, 3Bet: 0.0526316
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.2
+
+
+Player Stats for Hoemo, AI: AIMyBot1
+General: deals: 19, actions: 12, preflop actions: 12
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 6, showdown: 4, bluff: 2
+Chips: won: 1400, lost: 2400, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Date: 2022/10/25 13:45:52
+
+The game begins. The AI's of the players are: 
+Hoemo: AIMyBot1
+Cheedal: Random
+
+Joins: Hoemo, chips: 1000
+Joins: Cheedal, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 200
+Calls: Cheedal
+DEBUG MESSAGE: INVALID ACTION FROM Hoemo (2 0)
+Folds: Hoemo
+Pot size: 400
+Wins: Cheedal, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Boasts: Cheedal, 8s 8c
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 200
+Folds: Cheedal
+Pot size: 300
+Wins: Hoemo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 200
+Calls: Cheedal
+DEBUG MESSAGE: INVALID ACTION FROM Hoemo (2 0)
+Folds: Hoemo
+Pot size: 400
+Boasts: Cheedal, Qs 7c
+Wins: Cheedal, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Boasts: Cheedal, Kh Kd
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 200
+Folds: Cheedal
+Pot size: 300
+Boasts: Cheedal, 5h Ac
+Wins: Hoemo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 200
+Raises: Cheedal, chips: 300
+Folds: Hoemo
+Pot size: 700
+Boasts: Cheedal, 8d Qc
+Wins: Cheedal, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 100
+Flop: 7c 3d Qc
+Turn: Js
+River: Td
+Pot size: 200
+Showdown Reached
+Shows: Hoemo, 5s 9s
+Combination: Hoemo, High Card ( Qc Js Td 9s 7c )
+Shows: Cheedal, 2s 6s
+Combination: Cheedal, High Card ( Qc Js Td 7c 6s )
+Wins: Hoemo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 100
+Flop: Th 6c Ad
+Turn: 7h
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Hoemo, 2h Ks
+Combination: Hoemo, High Card ( Ad Ks Jh Th 7h )
+Shows: Cheedal, 8d Qc
+Combination: Cheedal, High Card ( Ad Qc Jh Th 8d )
+Wins: Hoemo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 100
+Flop: Qc 5d 2h
+Turn: 6c
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Hoemo, Jc 7c
+Combination: Hoemo, Flush ( Qc Jc Tc 7c 6c )
+Shows: Cheedal, 3h 8s
+Combination: Cheedal, High Card ( Qc Tc 8s 6c 5d )
+Wins: Hoemo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 100
+Flop: Kh 8h 4c
+Turn: 5c
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Hoemo, 3d Kd
+Combination: Hoemo, Pair ( Kd Kh 9h 8h 5c )
+Shows: Cheedal, 7c As
+Combination: Cheedal, High Card ( As Kh 9h 8h 7c )
+Wins: Hoemo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoemo
+Small Blind: Hoemo, chips: 100
+Big Blind: Cheedal, chips: 200
+Folds: Hoemo
+Pot size: 300
+Wins: Cheedal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheedal
+Small Blind: Cheedal, chips: 100
+Big Blind: Hoemo, chips: 100
+Flop: 4d 8d Qd
+Turn: 5d
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Hoemo, Js 9s
+Combination: Hoemo, Pair ( Js Jh Qd 9s 8d )
+Shows: Cheedal, Qh 8c
+Combination: Cheedal, Two Pair ( Qh Qd 8c 8d Jh )
+Wins: Cheedal, chips: 200
+Quits: Hoemo, chips: 0
+Ranking: Cheedal, Place: 1, Score: 1000
+Reveal AI: Cheedal, AI: Random
+Ranking: Hoemo, Place: 2, Score: -1000
+Reveal AI: Hoemo, AI: AIMyBot1
+
+Player Stats for Cheedal, AI: Random
+General: deals: 19, actions: 5, preflop actions: 5
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 13, showdown: 1, bluff: 12
+Chips: won: 4400, lost: 3400, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0.0526316, 3Bet: 0.0526316
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.2
+
+
+Player Stats for Hoemo, AI: AIMyBot1
+General: deals: 19, actions: 12, preflop actions: 12
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 6, showdown: 4, bluff: 2
+Chips: won: 1400, lost: 2400, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+

@@ -1,0 +1,324 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Peehoek: Random
+Jinhebe: AIMyBot1
+
+Joins: Peehoek, chips: 1000
+Joins: Jinhebe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jinhebe
+Small Blind: Jinhebe, chips: 100
+Big Blind: Peehoek, chips: 200
+Folds: Jinhebe
+Pot size: 300
+Wins: Peehoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peehoek
+Small Blind: Peehoek, chips: 100
+Big Blind: Jinhebe, chips: 200
+Raises: Peehoek, chips: 300
+Folds: Jinhebe
+Pot size: 700
+Boasts: Peehoek, 2s 9h
+Wins: Peehoek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jinhebe
+Small Blind: Jinhebe, chips: 100
+Big Blind: Peehoek, chips: 200
+Folds: Jinhebe
+Pot size: 300
+Wins: Peehoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peehoek
+Small Blind: Peehoek, chips: 100
+Big Blind: Jinhebe, chips: 200
+Raises: Peehoek, chips: 300
+Folds: Jinhebe
+Pot size: 700
+Wins: Peehoek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jinhebe
+Small Blind: Jinhebe, chips: 100
+Big Blind: Peehoek, chips: 200
+Folds: Jinhebe
+Pot size: 300
+Boasts: Peehoek, 9d Jh
+Wins: Peehoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peehoek
+Small Blind: Peehoek, chips: 100
+Big Blind: Jinhebe, chips: 200
+Folds: Peehoek
+Pot size: 300
+Boasts: Peehoek, 4d Td
+Wins: Jinhebe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jinhebe
+Small Blind: Jinhebe, chips: 100
+Big Blind: Peehoek, chips: 200
+Folds: Jinhebe
+Pot size: 300
+Wins: Peehoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peehoek
+Small Blind: Peehoek, chips: 100
+Big Blind: Jinhebe, chips: 200
+Raises: Peehoek, chips: 300
+Folds: Jinhebe
+Pot size: 700
+Boasts: Peehoek, 3c 9d
+Wins: Peehoek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jinhebe
+Small Blind: Jinhebe, chips: 100
+Big Blind: Peehoek, chips: 200
+Flop: Qc Qh 3s
+Turn: Ah
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Peehoek, Kh 4h
+Combination: Peehoek, Pair ( Qc Qh Ah Kh 4h )
+Shows: Jinhebe, 2h 2c
+Combination: Jinhebe, Full House ( 2h 2c 2s Qc Qh )
+Wins: Peehoek, chips: 100
+Wins: Jinhebe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peehoek
+Small Blind: Peehoek, chips: 100
+Big Blind: Jinhebe, chips: 200
+Flop: 2c Qs 6d
+Turn: 5c
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Peehoek, 3s Ah
+Combination: Peehoek, High Card ( Ah Qs 9s 6d 5c )
+Shows: Jinhebe, 3c 3d
+Combination: Jinhebe, Pair ( 3c 3d Qs 9s 6d )
+Wins: Jinhebe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jinhebe
+Small Blind: Jinhebe, chips: 100
+Big Blind: Peehoek, chips: 200
+Folds: Jinhebe
+Pot size: 300
+Boasts: Peehoek, 5d Ac
+Wins: Peehoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peehoek
+Small Blind: Peehoek, chips: 100
+Big Blind: Jinhebe, chips: 200
+Flop: 2h 9c 6d
+Turn: Ac
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Peehoek, Qh Qd
+Combination: Peehoek, Pair ( Qh Qd Ac Tc 9c )
+Shows: Jinhebe, 5c 9d
+Combination: Jinhebe, Pair ( 9d 9c Ac Tc 6d )
+Wins: Peehoek, chips: 200
+Wins: Jinhebe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jinhebe
+Small Blind: Jinhebe, chips: 100
+Big Blind: Peehoek, chips: 200
+Flop: Ts 9s 6c
+Turn: 4s
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Peehoek, Ad 5c
+Combination: Peehoek, High Card ( Ad Ts 9s 8d 6c )
+Shows: Jinhebe, 5d 2s
+Combination: Jinhebe, High Card ( Ts 9s 8d 6c 5d )
+Wins: Peehoek, chips: 300
+Quits: Jinhebe, chips: 0
+Ranking: Peehoek, Place: 1, Score: 1000
+Reveal AI: Peehoek, AI: Random
+Ranking: Jinhebe, Place: 2, Score: -1000
+Reveal AI: Jinhebe, AI: AIMyBot1
+
+Player Stats for Jinhebe, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Peehoek, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.230769, 3Bet: 0.230769
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:45:39
+
+The game begins. The AI's of the players are: 
+Peehoek: Random
+Jinhebe: AIMyBot1
+
+Joins: Peehoek, chips: 1000
+Joins: Jinhebe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jinhebe
+Small Blind: Jinhebe, chips: 100
+Big Blind: Peehoek, chips: 200
+Folds: Jinhebe
+Pot size: 300
+Wins: Peehoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peehoek
+Small Blind: Peehoek, chips: 100
+Big Blind: Jinhebe, chips: 200
+Raises: Peehoek, chips: 300
+Folds: Jinhebe
+Pot size: 700
+Boasts: Peehoek, 2s 9h
+Wins: Peehoek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jinhebe
+Small Blind: Jinhebe, chips: 100
+Big Blind: Peehoek, chips: 200
+Folds: Jinhebe
+Pot size: 300
+Wins: Peehoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peehoek
+Small Blind: Peehoek, chips: 100
+Big Blind: Jinhebe, chips: 200
+Raises: Peehoek, chips: 300
+Folds: Jinhebe
+Pot size: 700
+Wins: Peehoek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jinhebe
+Small Blind: Jinhebe, chips: 100
+Big Blind: Peehoek, chips: 200
+Folds: Jinhebe
+Pot size: 300
+Boasts: Peehoek, 9d Jh
+Wins: Peehoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peehoek
+Small Blind: Peehoek, chips: 100
+Big Blind: Jinhebe, chips: 200
+Folds: Peehoek
+Pot size: 300
+Boasts: Peehoek, 4d Td
+Wins: Jinhebe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jinhebe
+Small Blind: Jinhebe, chips: 100
+Big Blind: Peehoek, chips: 200
+Folds: Jinhebe
+Pot size: 300
+Wins: Peehoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peehoek
+Small Blind: Peehoek, chips: 100
+Big Blind: Jinhebe, chips: 200
+Raises: Peehoek, chips: 300
+Folds: Jinhebe
+Pot size: 700
+Boasts: Peehoek, 3c 9d
+Wins: Peehoek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jinhebe
+Small Blind: Jinhebe, chips: 100
+Big Blind: Peehoek, chips: 200
+Flop: Qc Qh 3s
+Turn: Ah
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Peehoek, Kh 4h
+Combination: Peehoek, Pair ( Qc Qh Ah Kh 4h )
+Shows: Jinhebe, 2h 2c
+Combination: Jinhebe, Full House ( 2h 2c 2s Qc Qh )
+Wins: Peehoek, chips: 100
+Wins: Jinhebe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peehoek
+Small Blind: Peehoek, chips: 100
+Big Blind: Jinhebe, chips: 200
+Flop: 2c Qs 6d
+Turn: 5c
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Peehoek, 3s Ah
+Combination: Peehoek, High Card ( Ah Qs 9s 6d 5c )
+Shows: Jinhebe, 3c 3d
+Combination: Jinhebe, Pair ( 3c 3d Qs 9s 6d )
+Wins: Jinhebe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jinhebe
+Small Blind: Jinhebe, chips: 100
+Big Blind: Peehoek, chips: 200
+Folds: Jinhebe
+Pot size: 300
+Boasts: Peehoek, 5d Ac
+Wins: Peehoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peehoek
+Small Blind: Peehoek, chips: 100
+Big Blind: Jinhebe, chips: 200
+Flop: 2h 9c 6d
+Turn: Ac
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Peehoek, Qh Qd
+Combination: Peehoek, Pair ( Qh Qd Ac Tc 9c )
+Shows: Jinhebe, 5c 9d
+Combination: Jinhebe, Pair ( 9d 9c Ac Tc 6d )
+Wins: Peehoek, chips: 200
+Wins: Jinhebe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jinhebe
+Small Blind: Jinhebe, chips: 100
+Big Blind: Peehoek, chips: 200
+Flop: Ts 9s 6c
+Turn: 4s
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Peehoek, Ad 5c
+Combination: Peehoek, High Card ( Ad Ts 9s 8d 6c )
+Shows: Jinhebe, 5d 2s
+Combination: Jinhebe, High Card ( Ts 9s 8d 6c 5d )
+Wins: Peehoek, chips: 300
+Quits: Jinhebe, chips: 0
+Ranking: Peehoek, Place: 1, Score: 1000
+Reveal AI: Peehoek, AI: Random
+Ranking: Jinhebe, Place: 2, Score: -1000
+Reveal AI: Jinhebe, AI: AIMyBot1
+
+Player Stats for Jinhebe, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Peehoek, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.230769, 3Bet: 0.230769
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

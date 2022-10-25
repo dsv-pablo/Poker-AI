@@ -1,0 +1,254 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Huchekus: Random
+Koe: AIMyBot1
+
+Joins: Huchekus, chips: 1000
+Joins: Koe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Huchekus, chips: 200
+Folds: Koe
+Pot size: 300
+Wins: Huchekus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchekus
+Small Blind: Huchekus, chips: 100
+Big Blind: Koe, chips: 200
+Folds: Huchekus
+Pot size: 300
+Wins: Koe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Huchekus, chips: 200
+Folds: Koe
+Pot size: 300
+Boasts: Huchekus, 9h 5c
+Wins: Huchekus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchekus
+Small Blind: Huchekus, chips: 100
+Big Blind: Koe, chips: 200
+Calls: Huchekus
+DEBUG MESSAGE: INVALID ACTION FROM Koe (2 0)
+Folds: Koe
+Pot size: 400
+Wins: Huchekus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Huchekus, chips: 200
+Folds: Koe
+Pot size: 300
+Wins: Huchekus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchekus
+Small Blind: Huchekus, chips: 100
+Big Blind: Koe, chips: 200
+Folds: Huchekus
+Pot size: 300
+Boasts: Huchekus, 6s 2d
+Wins: Koe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Huchekus, chips: 200
+Folds: Koe
+Pot size: 300
+Wins: Huchekus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchekus
+Small Blind: Huchekus, chips: 100
+Big Blind: Koe, chips: 200
+Calls: Huchekus
+DEBUG MESSAGE: INVALID ACTION FROM Koe (2 0)
+Folds: Koe
+Pot size: 400
+Boasts: Huchekus, Qs 7d
+Wins: Huchekus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Huchekus, chips: 200
+Folds: Koe
+Pot size: 300
+Wins: Huchekus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchekus
+Small Blind: Huchekus, chips: 100
+Big Blind: Koe, chips: 200
+Calls: Huchekus
+DEBUG MESSAGE: INVALID ACTION FROM Koe (2 0)
+Folds: Koe
+Pot size: 400
+Boasts: Huchekus, 3s 2s
+Wins: Huchekus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Huchekus, chips: 200
+Flop: 7c 5s 8c
+Turn: Qs
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Huchekus, 9s 3s
+Combination: Huchekus, Flush ( Qs 9s 6s 5s 3s )
+Shows: Koe, 7h Js
+Combination: Koe, Pair ( 7h 7c Qs Js 8c )
+Wins: Huchekus, chips: 300
+Quits: Koe, chips: 0
+Ranking: Huchekus, Place: 1, Score: 1000
+Reveal AI: Huchekus, AI: Random
+Ranking: Koe, Place: 2, Score: -1000
+Reveal AI: Koe, AI: AIMyBot1
+
+Player Stats for Huchekus, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Koe, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:52
+
+The game begins. The AI's of the players are: 
+Huchekus: Random
+Koe: AIMyBot1
+
+Joins: Huchekus, chips: 1000
+Joins: Koe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Huchekus, chips: 200
+Folds: Koe
+Pot size: 300
+Wins: Huchekus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchekus
+Small Blind: Huchekus, chips: 100
+Big Blind: Koe, chips: 200
+Folds: Huchekus
+Pot size: 300
+Wins: Koe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Huchekus, chips: 200
+Folds: Koe
+Pot size: 300
+Boasts: Huchekus, 9h 5c
+Wins: Huchekus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchekus
+Small Blind: Huchekus, chips: 100
+Big Blind: Koe, chips: 200
+Calls: Huchekus
+DEBUG MESSAGE: INVALID ACTION FROM Koe (2 0)
+Folds: Koe
+Pot size: 400
+Wins: Huchekus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Huchekus, chips: 200
+Folds: Koe
+Pot size: 300
+Wins: Huchekus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchekus
+Small Blind: Huchekus, chips: 100
+Big Blind: Koe, chips: 200
+Folds: Huchekus
+Pot size: 300
+Boasts: Huchekus, 6s 2d
+Wins: Koe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Huchekus, chips: 200
+Folds: Koe
+Pot size: 300
+Wins: Huchekus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchekus
+Small Blind: Huchekus, chips: 100
+Big Blind: Koe, chips: 200
+Calls: Huchekus
+DEBUG MESSAGE: INVALID ACTION FROM Koe (2 0)
+Folds: Koe
+Pot size: 400
+Boasts: Huchekus, Qs 7d
+Wins: Huchekus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Huchekus, chips: 200
+Folds: Koe
+Pot size: 300
+Wins: Huchekus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Huchekus
+Small Blind: Huchekus, chips: 100
+Big Blind: Koe, chips: 200
+Calls: Huchekus
+DEBUG MESSAGE: INVALID ACTION FROM Koe (2 0)
+Folds: Koe
+Pot size: 400
+Boasts: Huchekus, 3s 2s
+Wins: Huchekus, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koe
+Small Blind: Koe, chips: 100
+Big Blind: Huchekus, chips: 200
+Flop: 7c 5s 8c
+Turn: Qs
+River: 6s
+Pot size: 300
+Showdown Reached
+Shows: Huchekus, 9s 3s
+Combination: Huchekus, Flush ( Qs 9s 6s 5s 3s )
+Shows: Koe, 7h Js
+Combination: Koe, Pair ( 7h 7c Qs Js 8c )
+Wins: Huchekus, chips: 300
+Quits: Koe, chips: 0
+Ranking: Huchekus, Place: 1, Score: 1000
+Reveal AI: Huchekus, AI: Random
+Ranking: Koe, Place: 2, Score: -1000
+Reveal AI: Koe, AI: AIMyBot1
+
+Player Stats for Huchekus, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Koe, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

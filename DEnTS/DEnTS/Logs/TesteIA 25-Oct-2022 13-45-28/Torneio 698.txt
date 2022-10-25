@@ -1,0 +1,254 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jigoemee: Random
+Feerlo: AIMyBot1
+
+Joins: Jigoemee, chips: 1000
+Joins: Feerlo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigoemee
+Small Blind: Jigoemee, chips: 100
+Big Blind: Feerlo, chips: 200
+Calls: Jigoemee
+DEBUG MESSAGE: INVALID ACTION FROM Feerlo (2 0)
+Folds: Feerlo
+Pot size: 400
+Wins: Jigoemee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feerlo
+Small Blind: Feerlo, chips: 100
+Big Blind: Jigoemee, chips: 200
+Folds: Feerlo
+Pot size: 300
+Wins: Jigoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigoemee
+Small Blind: Jigoemee, chips: 100
+Big Blind: Feerlo, chips: 200
+Calls: Jigoemee
+DEBUG MESSAGE: INVALID ACTION FROM Feerlo (2 0)
+Folds: Feerlo
+Pot size: 400
+Wins: Jigoemee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feerlo
+Small Blind: Feerlo, chips: 100
+Big Blind: Jigoemee, chips: 200
+Folds: Feerlo
+Pot size: 300
+Boasts: Jigoemee, 2c 9d
+Wins: Jigoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigoemee
+Small Blind: Jigoemee, chips: 100
+Big Blind: Feerlo, chips: 200
+Folds: Jigoemee
+Pot size: 300
+Boasts: Jigoemee, 8s Qd
+Wins: Feerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feerlo
+Small Blind: Feerlo, chips: 100
+Big Blind: Jigoemee, chips: 200
+Folds: Feerlo
+Pot size: 300
+Wins: Jigoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigoemee
+Small Blind: Jigoemee, chips: 100
+Big Blind: Feerlo, chips: 200
+Folds: Jigoemee
+Pot size: 300
+Boasts: Jigoemee, 5d Qd
+Wins: Feerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feerlo
+Small Blind: Feerlo, chips: 100
+Big Blind: Jigoemee, chips: 200
+Folds: Feerlo
+Pot size: 300
+Boasts: Jigoemee, 3d 2h
+Wins: Jigoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigoemee
+Small Blind: Jigoemee, chips: 100
+Big Blind: Feerlo, chips: 200
+Calls: Jigoemee
+DEBUG MESSAGE: INVALID ACTION FROM Feerlo (2 0)
+Folds: Feerlo
+Pot size: 400
+Wins: Jigoemee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feerlo
+Small Blind: Feerlo, chips: 100
+Big Blind: Jigoemee, chips: 200
+Folds: Feerlo
+Pot size: 300
+Wins: Jigoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigoemee
+Small Blind: Jigoemee, chips: 100
+Big Blind: Feerlo, chips: 100
+Flop: 2c 6c 7h
+Turn: 7c
+River: Ks
+Pot size: 200
+Showdown Reached
+Shows: Jigoemee, 5h Kh
+Combination: Jigoemee, Two Pair ( Kh Ks 7h 7c 6c )
+Shows: Feerlo, 5s Qs
+Combination: Feerlo, Pair ( 7h 7c Ks Qs 6c )
+Wins: Jigoemee, chips: 200
+Quits: Feerlo, chips: 0
+Ranking: Jigoemee, Place: 1, Score: 1000
+Reveal AI: Jigoemee, AI: Random
+Ranking: Feerlo, Place: 2, Score: -1000
+Reveal AI: Feerlo, AI: AIMyBot1
+
+Player Stats for Feerlo, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Jigoemee, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:16
+
+The game begins. The AI's of the players are: 
+Jigoemee: Random
+Feerlo: AIMyBot1
+
+Joins: Jigoemee, chips: 1000
+Joins: Feerlo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigoemee
+Small Blind: Jigoemee, chips: 100
+Big Blind: Feerlo, chips: 200
+Calls: Jigoemee
+DEBUG MESSAGE: INVALID ACTION FROM Feerlo (2 0)
+Folds: Feerlo
+Pot size: 400
+Wins: Jigoemee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feerlo
+Small Blind: Feerlo, chips: 100
+Big Blind: Jigoemee, chips: 200
+Folds: Feerlo
+Pot size: 300
+Wins: Jigoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigoemee
+Small Blind: Jigoemee, chips: 100
+Big Blind: Feerlo, chips: 200
+Calls: Jigoemee
+DEBUG MESSAGE: INVALID ACTION FROM Feerlo (2 0)
+Folds: Feerlo
+Pot size: 400
+Wins: Jigoemee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feerlo
+Small Blind: Feerlo, chips: 100
+Big Blind: Jigoemee, chips: 200
+Folds: Feerlo
+Pot size: 300
+Boasts: Jigoemee, 2c 9d
+Wins: Jigoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigoemee
+Small Blind: Jigoemee, chips: 100
+Big Blind: Feerlo, chips: 200
+Folds: Jigoemee
+Pot size: 300
+Boasts: Jigoemee, 8s Qd
+Wins: Feerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feerlo
+Small Blind: Feerlo, chips: 100
+Big Blind: Jigoemee, chips: 200
+Folds: Feerlo
+Pot size: 300
+Wins: Jigoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigoemee
+Small Blind: Jigoemee, chips: 100
+Big Blind: Feerlo, chips: 200
+Folds: Jigoemee
+Pot size: 300
+Boasts: Jigoemee, 5d Qd
+Wins: Feerlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feerlo
+Small Blind: Feerlo, chips: 100
+Big Blind: Jigoemee, chips: 200
+Folds: Feerlo
+Pot size: 300
+Boasts: Jigoemee, 3d 2h
+Wins: Jigoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigoemee
+Small Blind: Jigoemee, chips: 100
+Big Blind: Feerlo, chips: 200
+Calls: Jigoemee
+DEBUG MESSAGE: INVALID ACTION FROM Feerlo (2 0)
+Folds: Feerlo
+Pot size: 400
+Wins: Jigoemee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feerlo
+Small Blind: Feerlo, chips: 100
+Big Blind: Jigoemee, chips: 200
+Folds: Feerlo
+Pot size: 300
+Wins: Jigoemee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jigoemee
+Small Blind: Jigoemee, chips: 100
+Big Blind: Feerlo, chips: 100
+Flop: 2c 6c 7h
+Turn: 7c
+River: Ks
+Pot size: 200
+Showdown Reached
+Shows: Jigoemee, 5h Kh
+Combination: Jigoemee, Two Pair ( Kh Ks 7h 7c 6c )
+Shows: Feerlo, 5s Qs
+Combination: Feerlo, Pair ( 7h 7c Ks Qs 6c )
+Wins: Jigoemee, chips: 200
+Quits: Feerlo, chips: 0
+Ranking: Jigoemee, Place: 1, Score: 1000
+Reveal AI: Jigoemee, AI: Random
+Ranking: Feerlo, Place: 2, Score: -1000
+Reveal AI: Feerlo, AI: AIMyBot1
+
+Player Stats for Feerlo, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Jigoemee, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

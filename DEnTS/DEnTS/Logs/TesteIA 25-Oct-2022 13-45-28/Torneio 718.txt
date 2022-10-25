@@ -1,0 +1,180 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Nupe: Random
+Woe: AIMyBot1
+
+Joins: Nupe, chips: 1000
+Joins: Woe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woe
+Small Blind: Woe, chips: 100
+Big Blind: Nupe, chips: 200
+Folds: Woe
+Pot size: 300
+Boasts: Nupe, Th Kc
+Wins: Nupe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupe
+Small Blind: Nupe, chips: 100
+Big Blind: Woe, chips: 200
+Raises: Nupe, chips: 300
+Folds: Woe
+Pot size: 700
+Boasts: Nupe, 5c Jc
+Wins: Nupe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woe
+Small Blind: Woe, chips: 100
+Big Blind: Nupe, chips: 200
+Folds: Woe
+Pot size: 300
+Boasts: Nupe, 7d 7h
+Wins: Nupe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupe
+Small Blind: Nupe, chips: 100
+Big Blind: Woe, chips: 200
+Raises: Nupe, chips: 300
+Folds: Woe
+Pot size: 700
+Wins: Nupe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woe
+Small Blind: Woe, chips: 100
+Big Blind: Nupe, chips: 200
+Folds: Woe
+Pot size: 300
+Boasts: Nupe, 7h 8c
+Wins: Nupe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupe
+Small Blind: Nupe, chips: 100
+Big Blind: Woe, chips: 200
+Raises: Nupe, chips: 1500
+Calls: Woe
+Flop: 3h 8d As
+Turn: 4c
+River: Qs
+Pot size: 2000
+Showdown Reached
+Shows: Nupe, 8h 3c
+Combination: Nupe, Two Pair ( 8h 8d 3c 3h As )
+Shows: Woe, Tc 5s
+Combination: Woe, High Card ( As Qs Tc 8d 5s )
+Wins: Nupe, chips: 2000
+Quits: Woe, chips: 0
+Ranking: Nupe, Place: 1, Score: 1000
+Reveal AI: Nupe, AI: Random
+Ranking: Woe, Place: 2, Score: -1000
+Reveal AI: Woe, AI: AIMyBot1
+
+Player Stats for Nupe, AI: Random
+General: deals: 6, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 1, bluff: 5
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Woe, AI: AIMyBot1
+General: deals: 6, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 2400, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:46:17
+
+The game begins. The AI's of the players are: 
+Nupe: Random
+Woe: AIMyBot1
+
+Joins: Nupe, chips: 1000
+Joins: Woe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woe
+Small Blind: Woe, chips: 100
+Big Blind: Nupe, chips: 200
+Folds: Woe
+Pot size: 300
+Boasts: Nupe, Th Kc
+Wins: Nupe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupe
+Small Blind: Nupe, chips: 100
+Big Blind: Woe, chips: 200
+Raises: Nupe, chips: 300
+Folds: Woe
+Pot size: 700
+Boasts: Nupe, 5c Jc
+Wins: Nupe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woe
+Small Blind: Woe, chips: 100
+Big Blind: Nupe, chips: 200
+Folds: Woe
+Pot size: 300
+Boasts: Nupe, 7d 7h
+Wins: Nupe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupe
+Small Blind: Nupe, chips: 100
+Big Blind: Woe, chips: 200
+Raises: Nupe, chips: 300
+Folds: Woe
+Pot size: 700
+Wins: Nupe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woe
+Small Blind: Woe, chips: 100
+Big Blind: Nupe, chips: 200
+Folds: Woe
+Pot size: 300
+Boasts: Nupe, 7h 8c
+Wins: Nupe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Nupe
+Small Blind: Nupe, chips: 100
+Big Blind: Woe, chips: 200
+Raises: Nupe, chips: 1500
+Calls: Woe
+Flop: 3h 8d As
+Turn: 4c
+River: Qs
+Pot size: 2000
+Showdown Reached
+Shows: Nupe, 8h 3c
+Combination: Nupe, Two Pair ( 8h 8d 3c 3h As )
+Shows: Woe, Tc 5s
+Combination: Woe, High Card ( As Qs Tc 8d 5s )
+Wins: Nupe, chips: 2000
+Quits: Woe, chips: 0
+Ranking: Nupe, Place: 1, Score: 1000
+Reveal AI: Nupe, AI: Random
+Ranking: Woe, Place: 2, Score: -1000
+Reveal AI: Woe, AI: AIMyBot1
+
+Player Stats for Nupe, AI: Random
+General: deals: 6, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 6, showdown: 1, bluff: 5
+Chips: won: 4300, lost: 3300, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Woe, AI: AIMyBot1
+General: deals: 6, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 2400, bought: 1000, forced bets: 900
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

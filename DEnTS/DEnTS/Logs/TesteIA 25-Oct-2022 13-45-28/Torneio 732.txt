@@ -1,0 +1,396 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Vehinhak: Random
+Ta: AIMyBot1
+
+Joins: Vehinhak, chips: 1000
+Joins: Ta, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 200
+Folds: Vehinhak
+Pot size: 300
+Wins: Ta, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ta
+Small Blind: Ta, chips: 100
+Big Blind: Vehinhak, chips: 200
+Folds: Ta
+Pot size: 300
+Boasts: Vehinhak, 7h 4h
+Wins: Vehinhak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 200
+Calls: Vehinhak
+DEBUG MESSAGE: INVALID ACTION FROM Ta (2 0)
+Folds: Ta
+Pot size: 400
+Wins: Vehinhak, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ta
+Small Blind: Ta, chips: 100
+Big Blind: Vehinhak, chips: 200
+Folds: Ta
+Pot size: 300
+Boasts: Vehinhak, 4c 7h
+Wins: Vehinhak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 200
+Raises: Vehinhak, chips: 300
+Folds: Ta
+Pot size: 700
+Wins: Vehinhak, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ta
+Small Blind: Ta, chips: 100
+Big Blind: Vehinhak, chips: 200
+Folds: Ta
+Pot size: 300
+Wins: Vehinhak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 200
+Calls: Vehinhak
+DEBUG MESSAGE: INVALID ACTION FROM Ta (2 0)
+Folds: Ta
+Pot size: 400
+Boasts: Vehinhak, 5h 3h
+Wins: Vehinhak, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ta
+Small Blind: Ta, chips: 100
+Big Blind: Vehinhak, chips: 200
+Folds: Ta
+Pot size: 300
+Wins: Vehinhak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 100
+Flop: 4h 7s 9s
+Turn: 6h
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Vehinhak, Td Qd
+Combination: Vehinhak, Pair ( 9s 9d Qd Td 7s )
+Shows: Ta, Js 7d
+Combination: Ta, Two Pair ( 9s 9d 7d 7s Js )
+Wins: Ta, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ta
+Small Blind: Ta, chips: 100
+Big Blind: Vehinhak, chips: 200
+Folds: Ta
+Pot size: 300
+Boasts: Vehinhak, Qd 3c
+Wins: Vehinhak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 100
+Flop: 9d 2d 9c
+Turn: Qd
+River: Kd
+Pot size: 200
+Showdown Reached
+Shows: Vehinhak, 6d 6s
+Combination: Vehinhak, Flush ( Kd Qd 9d 6d 2d )
+Shows: Ta, Ad Ts
+Combination: Ta, Flush ( Ad Kd Qd 9d 2d )
+Wins: Ta, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ta
+Small Blind: Ta, chips: 100
+Big Blind: Vehinhak, chips: 200
+Folds: Ta
+Pot size: 300
+Boasts: Vehinhak, 2s 7d
+Wins: Vehinhak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 100
+Flop: 7d Kc 7s
+Turn: 6h
+River: 9c
+Pot size: 200
+Showdown Reached
+Shows: Vehinhak, Td Kh
+Combination: Vehinhak, Two Pair ( Kh Kc 7d 7s Td )
+Shows: Ta, 8s 5s
+Combination: Ta, Straight ( 9c 8s 7d 6h 5s )
+Wins: Ta, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ta
+Small Blind: Ta, chips: 100
+Big Blind: Vehinhak, chips: 200
+Folds: Ta
+Pot size: 300
+Wins: Vehinhak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 100
+Flop: 8s Kd Kc
+Turn: Ac
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Vehinhak, 2c 5h
+Combination: Vehinhak, Pair ( Kd Kc Ac 9h 8s )
+Shows: Ta, 6c 8c
+Combination: Ta, Two Pair ( Kd Kc 8c 8s Ac )
+Wins: Ta, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ta
+Small Blind: Ta, chips: 100
+Big Blind: Vehinhak, chips: 200
+Folds: Ta
+Pot size: 300
+Boasts: Vehinhak, 9c 9d
+Wins: Vehinhak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 100
+Flop: 9d 6s 2h
+Turn: Kc
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Vehinhak, Qh Ks
+Combination: Vehinhak, Pair ( Ks Kc Qh 9d 6s )
+Shows: Ta, 2c Jh
+Combination: Ta, Pair ( 2c 2h Kc Jh 9d )
+Wins: Vehinhak, chips: 200
+Quits: Ta, chips: 0
+Ranking: Vehinhak, Place: 1, Score: 1000
+Reveal AI: Vehinhak, AI: Random
+Ranking: Ta, Place: 2, Score: -1000
+Reveal AI: Ta, AI: AIMyBot1
+
+Player Stats for Ta, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 1100, lost: 2100, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Vehinhak, AI: Random
+General: deals: 17, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.2
+
+
+Date: 2022/10/25 13:46:18
+
+The game begins. The AI's of the players are: 
+Vehinhak: Random
+Ta: AIMyBot1
+
+Joins: Vehinhak, chips: 1000
+Joins: Ta, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 200
+Folds: Vehinhak
+Pot size: 300
+Wins: Ta, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ta
+Small Blind: Ta, chips: 100
+Big Blind: Vehinhak, chips: 200
+Folds: Ta
+Pot size: 300
+Boasts: Vehinhak, 7h 4h
+Wins: Vehinhak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 200
+Calls: Vehinhak
+DEBUG MESSAGE: INVALID ACTION FROM Ta (2 0)
+Folds: Ta
+Pot size: 400
+Wins: Vehinhak, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ta
+Small Blind: Ta, chips: 100
+Big Blind: Vehinhak, chips: 200
+Folds: Ta
+Pot size: 300
+Boasts: Vehinhak, 4c 7h
+Wins: Vehinhak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 200
+Raises: Vehinhak, chips: 300
+Folds: Ta
+Pot size: 700
+Wins: Vehinhak, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ta
+Small Blind: Ta, chips: 100
+Big Blind: Vehinhak, chips: 200
+Folds: Ta
+Pot size: 300
+Wins: Vehinhak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 200
+Calls: Vehinhak
+DEBUG MESSAGE: INVALID ACTION FROM Ta (2 0)
+Folds: Ta
+Pot size: 400
+Boasts: Vehinhak, 5h 3h
+Wins: Vehinhak, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ta
+Small Blind: Ta, chips: 100
+Big Blind: Vehinhak, chips: 200
+Folds: Ta
+Pot size: 300
+Wins: Vehinhak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 100
+Flop: 4h 7s 9s
+Turn: 6h
+River: 9d
+Pot size: 200
+Showdown Reached
+Shows: Vehinhak, Td Qd
+Combination: Vehinhak, Pair ( 9s 9d Qd Td 7s )
+Shows: Ta, Js 7d
+Combination: Ta, Two Pair ( 9s 9d 7d 7s Js )
+Wins: Ta, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ta
+Small Blind: Ta, chips: 100
+Big Blind: Vehinhak, chips: 200
+Folds: Ta
+Pot size: 300
+Boasts: Vehinhak, Qd 3c
+Wins: Vehinhak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 100
+Flop: 9d 2d 9c
+Turn: Qd
+River: Kd
+Pot size: 200
+Showdown Reached
+Shows: Vehinhak, 6d 6s
+Combination: Vehinhak, Flush ( Kd Qd 9d 6d 2d )
+Shows: Ta, Ad Ts
+Combination: Ta, Flush ( Ad Kd Qd 9d 2d )
+Wins: Ta, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ta
+Small Blind: Ta, chips: 100
+Big Blind: Vehinhak, chips: 200
+Folds: Ta
+Pot size: 300
+Boasts: Vehinhak, 2s 7d
+Wins: Vehinhak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 100
+Flop: 7d Kc 7s
+Turn: 6h
+River: 9c
+Pot size: 200
+Showdown Reached
+Shows: Vehinhak, Td Kh
+Combination: Vehinhak, Two Pair ( Kh Kc 7d 7s Td )
+Shows: Ta, 8s 5s
+Combination: Ta, Straight ( 9c 8s 7d 6h 5s )
+Wins: Ta, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ta
+Small Blind: Ta, chips: 100
+Big Blind: Vehinhak, chips: 200
+Folds: Ta
+Pot size: 300
+Wins: Vehinhak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 100
+Flop: 8s Kd Kc
+Turn: Ac
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Vehinhak, 2c 5h
+Combination: Vehinhak, Pair ( Kd Kc Ac 9h 8s )
+Shows: Ta, 6c 8c
+Combination: Ta, Two Pair ( Kd Kc 8c 8s Ac )
+Wins: Ta, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ta
+Small Blind: Ta, chips: 100
+Big Blind: Vehinhak, chips: 200
+Folds: Ta
+Pot size: 300
+Boasts: Vehinhak, 9c 9d
+Wins: Vehinhak, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vehinhak
+Small Blind: Vehinhak, chips: 100
+Big Blind: Ta, chips: 100
+Flop: 9d 6s 2h
+Turn: Kc
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Vehinhak, Qh Ks
+Combination: Vehinhak, Pair ( Ks Kc Qh 9d 6s )
+Shows: Ta, 2c Jh
+Combination: Ta, Pair ( 2c 2h Kc Jh 9d )
+Wins: Vehinhak, chips: 200
+Quits: Ta, chips: 0
+Ranking: Vehinhak, Place: 1, Score: 1000
+Reveal AI: Vehinhak, AI: Random
+Ranking: Ta, Place: 2, Score: -1000
+Reveal AI: Ta, AI: AIMyBot1
+
+Player Stats for Ta, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 5, showdown: 4, bluff: 1
+Chips: won: 1100, lost: 2100, bought: 1000, forced bets: 2100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Player Stats for Vehinhak, AI: Random
+General: deals: 17, actions: 4, preflop actions: 4
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.2
+
+

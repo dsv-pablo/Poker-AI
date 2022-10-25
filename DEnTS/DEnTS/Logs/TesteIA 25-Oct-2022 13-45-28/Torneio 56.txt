@@ -1,0 +1,486 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Chanhuk: Random
+Wi: AIMyBot1
+
+Joins: Chanhuk, chips: 1000
+Joins: Wi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Boasts: Chanhuk, 5d 7h
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Calls: Chanhuk
+DEBUG MESSAGE: INVALID ACTION FROM Wi (2 0)
+Folds: Wi
+Pot size: 400
+Wins: Chanhuk, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Boasts: Chanhuk, 9c 3d
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Calls: Chanhuk
+DEBUG MESSAGE: INVALID ACTION FROM Wi (2 0)
+Folds: Wi
+Pot size: 400
+Wins: Chanhuk, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Boasts: Chanhuk, Qc 2c
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Folds: Chanhuk
+Pot size: 300
+Wins: Wi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Folds: Chanhuk
+Pot size: 300
+Wins: Wi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Folds: Chanhuk
+Pot size: 300
+Boasts: Chanhuk, 9s 9c
+Wins: Wi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Folds: Chanhuk
+Pot size: 300
+Wins: Wi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Folds: Chanhuk
+Pot size: 300
+Boasts: Chanhuk, Kd Ks
+Wins: Wi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Calls: Chanhuk
+DEBUG MESSAGE: INVALID ACTION FROM Wi (2 0)
+Folds: Wi
+Pot size: 400
+Wins: Chanhuk, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Flop: Qs Kc 8s
+Turn: 3h
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Chanhuk, 2s Js
+Combination: Chanhuk, High Card ( Kc Qs Js 8s 5h )
+Shows: Wi, Jh Qc
+Combination: Wi, Pair ( Qc Qs Kc Jh 8s )
+Wins: Chanhuk, chips: 100
+Wins: Wi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Flop: 5d 2h 4s
+Turn: 5h
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Chanhuk, Tc 6c
+Combination: Chanhuk, Pair ( 5d 5h Qd Tc 6c )
+Shows: Wi, 8d Kd
+Combination: Wi, Pair ( 5d 5h Kd Qd 8d )
+Wins: Wi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Flop: Td Kh 9h
+Turn: Ts
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Chanhuk, 6h 5d
+Combination: Chanhuk, Three Of A Kind ( Td Ts Th Kh 9h )
+Shows: Wi, Qc Jd
+Combination: Wi, Straight ( Kh Qc Jd Td 9h )
+Wins: Wi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Boasts: Chanhuk, 7c Td
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Flop: Jd Ks 9s
+Turn: 3s
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Chanhuk, 9d Qc
+Combination: Chanhuk, Pair ( 9d 9s Ks Qc Jd )
+Shows: Wi, Th 5s
+Combination: Wi, High Card ( Ks Jd Th 9s 7d )
+Wins: Chanhuk, chips: 200
+Wins: Wi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Flop: 9c 2s 2d
+Turn: 7h
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Chanhuk, 9d Qs
+Combination: Chanhuk, Two Pair ( 9d 9c 2s 2d Qs )
+Shows: Wi, 5h Ks
+Combination: Wi, Pair ( 2s 2d Ks Js 9c )
+Wins: Chanhuk, chips: 300
+Quits: Wi, chips: 0
+Ranking: Chanhuk, Place: 1, Score: 1000
+Reveal AI: Chanhuk, AI: Random
+Ranking: Wi, Place: 2, Score: -1000
+Reveal AI: Wi, AI: AIMyBot1
+
+Player Stats for Chanhuk, AI: Random
+General: deals: 23, actions: 8, preflop actions: 8
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 16, showdown: 3, bluff: 13
+Chips: won: 4800, lost: 3800, bought: 1000, forced bets: 3500
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+
+Player Stats for Wi, AI: AIMyBot1
+General: deals: 23, actions: 13, preflop actions: 13
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 9, showdown: 4, bluff: 5
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Date: 2022/10/25 13:45:33
+
+The game begins. The AI's of the players are: 
+Chanhuk: Random
+Wi: AIMyBot1
+
+Joins: Chanhuk, chips: 1000
+Joins: Wi, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Boasts: Chanhuk, 5d 7h
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Calls: Chanhuk
+DEBUG MESSAGE: INVALID ACTION FROM Wi (2 0)
+Folds: Wi
+Pot size: 400
+Wins: Chanhuk, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Boasts: Chanhuk, 9c 3d
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Calls: Chanhuk
+DEBUG MESSAGE: INVALID ACTION FROM Wi (2 0)
+Folds: Wi
+Pot size: 400
+Wins: Chanhuk, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Boasts: Chanhuk, Qc 2c
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Folds: Chanhuk
+Pot size: 300
+Wins: Wi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Folds: Chanhuk
+Pot size: 300
+Wins: Wi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Folds: Chanhuk
+Pot size: 300
+Boasts: Chanhuk, 9s 9c
+Wins: Wi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Folds: Chanhuk
+Pot size: 300
+Wins: Wi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Folds: Chanhuk
+Pot size: 300
+Boasts: Chanhuk, Kd Ks
+Wins: Wi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Calls: Chanhuk
+DEBUG MESSAGE: INVALID ACTION FROM Wi (2 0)
+Folds: Wi
+Pot size: 400
+Wins: Chanhuk, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Flop: Qs Kc 8s
+Turn: 3h
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Chanhuk, 2s Js
+Combination: Chanhuk, High Card ( Kc Qs Js 8s 5h )
+Shows: Wi, Jh Qc
+Combination: Wi, Pair ( Qc Qs Kc Jh 8s )
+Wins: Chanhuk, chips: 100
+Wins: Wi, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Flop: 5d 2h 4s
+Turn: 5h
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Chanhuk, Tc 6c
+Combination: Chanhuk, Pair ( 5d 5h Qd Tc 6c )
+Shows: Wi, 8d Kd
+Combination: Wi, Pair ( 5d 5h Kd Qd 8d )
+Wins: Wi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Flop: Td Kh 9h
+Turn: Ts
+River: Th
+Pot size: 300
+Showdown Reached
+Shows: Chanhuk, 6h 5d
+Combination: Chanhuk, Three Of A Kind ( Td Ts Th Kh 9h )
+Shows: Wi, Qc Jd
+Combination: Wi, Straight ( Kh Qc Jd Td 9h )
+Wins: Wi, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Folds: Wi
+Pot size: 300
+Boasts: Chanhuk, 7c Td
+Wins: Chanhuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chanhuk
+Small Blind: Chanhuk, chips: 100
+Big Blind: Wi, chips: 200
+Flop: Jd Ks 9s
+Turn: 3s
+River: 7d
+Pot size: 300
+Showdown Reached
+Shows: Chanhuk, 9d Qc
+Combination: Chanhuk, Pair ( 9d 9s Ks Qc Jd )
+Shows: Wi, Th 5s
+Combination: Wi, High Card ( Ks Jd Th 9s 7d )
+Wins: Chanhuk, chips: 200
+Wins: Wi, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wi
+Small Blind: Wi, chips: 100
+Big Blind: Chanhuk, chips: 200
+Flop: 9c 2s 2d
+Turn: 7h
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Chanhuk, 9d Qs
+Combination: Chanhuk, Two Pair ( 9d 9c 2s 2d Qs )
+Shows: Wi, 5h Ks
+Combination: Wi, Pair ( 2s 2d Ks Js 9c )
+Wins: Chanhuk, chips: 300
+Quits: Wi, chips: 0
+Ranking: Chanhuk, Place: 1, Score: 1000
+Reveal AI: Chanhuk, AI: Random
+Ranking: Wi, Place: 2, Score: -1000
+Reveal AI: Wi, AI: AIMyBot1
+
+Player Stats for Chanhuk, AI: Random
+General: deals: 23, actions: 8, preflop actions: 8
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 16, showdown: 3, bluff: 13
+Chips: won: 4800, lost: 3800, bought: 1000, forced bets: 3500
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+
+Player Stats for Wi, AI: AIMyBot1
+General: deals: 23, actions: 13, preflop actions: 13
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 9, showdown: 4, bluff: 5
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+

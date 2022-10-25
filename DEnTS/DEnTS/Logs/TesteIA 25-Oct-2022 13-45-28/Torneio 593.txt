@@ -1,0 +1,570 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Duma: Random
+Pusa: AIMyBot1
+
+Joins: Duma, chips: 1000
+Joins: Pusa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 200
+Folds: Duma
+Pot size: 300
+Boasts: Duma, 2h Tc
+Wins: Pusa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Boasts: Duma, 5c 7h
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 200
+Calls: Duma
+DEBUG MESSAGE: INVALID ACTION FROM Pusa (2 0)
+Folds: Pusa
+Pot size: 400
+Wins: Duma, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Boasts: Duma, Ac 3c
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 200
+Raises: Duma, chips: 300
+Folds: Pusa
+Pot size: 700
+Boasts: Duma, Td 6s
+Wins: Duma, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 200
+Calls: Duma
+DEBUG MESSAGE: INVALID ACTION FROM Pusa (2 0)
+Folds: Pusa
+Pot size: 400
+Wins: Duma, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: 9c 6c Ts
+Turn: 7c
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Duma, 3d Kh
+Combination: Duma, High Card ( Kh Ts 9c 7c 6c )
+Shows: Pusa, 8s 7s
+Combination: Pusa, Straight ( Ts 9c 8s 7s 6c )
+Wins: Pusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Boasts: Duma, 6s 3s
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: Jd 3c Th
+Turn: Kc
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Duma, 2s Ah
+Combination: Duma, Pair ( Jd Jh Ah Kc Th )
+Shows: Pusa, 6d Tc
+Combination: Pusa, Two Pair ( Jd Jh Tc Th Kc )
+Wins: Pusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Boasts: Duma, Qh 2d
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: 2h 5h 4s
+Turn: 5s
+River: Qd
+Pot size: 200
+Showdown Reached
+Shows: Duma, 7s 3c
+Combination: Duma, Pair ( 5h 5s Qd 7s 4s )
+Shows: Pusa, 5d Ts
+Combination: Pusa, Three Of A Kind ( 5d 5h 5s Qd Ts )
+Wins: Pusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: 3c 6h Qd
+Turn: Td
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Duma, Kd 7c
+Combination: Duma, High Card ( Kd Qd Td 7c 6h )
+Shows: Pusa, 8h Kh
+Combination: Pusa, High Card ( Kh Qd Td 8h 6h )
+Wins: Pusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Boasts: Duma, Jd 6h
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: Jd 9h 2h
+Turn: Kc
+River: Qs
+Pot size: 200
+Showdown Reached
+Shows: Duma, 7h 6h
+Combination: Duma, High Card ( Kc Qs Jd 9h 7h )
+Shows: Pusa, Qc Jh
+Combination: Pusa, Two Pair ( Qc Qs Jh Jd Kc )
+Wins: Pusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: 5s 3d Ah
+Turn: 3h
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Duma, 8h Ad
+Combination: Duma, Two Pair ( Ad Ah 3d 3h 8h )
+Shows: Pusa, Qd 2d
+Combination: Pusa, Straight ( 5s 4c 3d 2d Ah )
+Wins: Pusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: 6c 7h 3c
+Turn: Jc
+River: Kd
+Pot size: 200
+Showdown Reached
+Shows: Duma, 9c 5h
+Combination: Duma, High Card ( Kd Jc 9c 7h 6c )
+Shows: Pusa, 5c Th
+Combination: Pusa, High Card ( Kd Jc Th 7h 6c )
+Wins: Pusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Boasts: Duma, 3d Th
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: 7s Ah 8h
+Turn: Kc
+River: 9c
+Pot size: 200
+Showdown Reached
+Shows: Duma, 9s 4d
+Combination: Duma, Pair ( 9s 9c Ah Kc 8h )
+Shows: Pusa, Th Jd
+Combination: Pusa, Straight ( Jd Th 9c 8h 7s )
+Wins: Pusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Boasts: Duma, 4c 3c
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: 7d 4s Ah
+Turn: 6h
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Duma, 3h 7s
+Combination: Duma, Pair ( 7s 7d Ah Jd 6h )
+Shows: Pusa, 5h 9c
+Combination: Pusa, High Card ( Ah Jd 9c 7d 6h )
+Wins: Duma, chips: 200
+Quits: Pusa, chips: 0
+Ranking: Duma, Place: 1, Score: 1000
+Reveal AI: Duma, AI: Random
+Ranking: Pusa, Place: 2, Score: -1000
+Reveal AI: Pusa, AI: AIMyBot1
+
+Player Stats for Duma, AI: Random
+General: deals: 25, actions: 4, preflop actions: 4
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 16, showdown: 1, bluff: 15
+Chips: won: 5300, lost: 4300, bought: 1000, forced bets: 3700
+Pre-Flop Stats: VP$IP: 0.12, PFR: 0.04, 3Bet: 0.04
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.111111
+
+
+Player Stats for Pusa, AI: AIMyBot1
+General: deals: 25, actions: 15, preflop actions: 15
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 9, showdown: 8, bluff: 1
+Chips: won: 1900, lost: 2900, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Date: 2022/10/25 13:46:08
+
+The game begins. The AI's of the players are: 
+Duma: Random
+Pusa: AIMyBot1
+
+Joins: Duma, chips: 1000
+Joins: Pusa, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 200
+Folds: Duma
+Pot size: 300
+Boasts: Duma, 2h Tc
+Wins: Pusa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Boasts: Duma, 5c 7h
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 200
+Calls: Duma
+DEBUG MESSAGE: INVALID ACTION FROM Pusa (2 0)
+Folds: Pusa
+Pot size: 400
+Wins: Duma, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Boasts: Duma, Ac 3c
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 200
+Raises: Duma, chips: 300
+Folds: Pusa
+Pot size: 700
+Boasts: Duma, Td 6s
+Wins: Duma, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 200
+Calls: Duma
+DEBUG MESSAGE: INVALID ACTION FROM Pusa (2 0)
+Folds: Pusa
+Pot size: 400
+Wins: Duma, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: 9c 6c Ts
+Turn: 7c
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Duma, 3d Kh
+Combination: Duma, High Card ( Kh Ts 9c 7c 6c )
+Shows: Pusa, 8s 7s
+Combination: Pusa, Straight ( Ts 9c 8s 7s 6c )
+Wins: Pusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Boasts: Duma, 6s 3s
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: Jd 3c Th
+Turn: Kc
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Duma, 2s Ah
+Combination: Duma, Pair ( Jd Jh Ah Kc Th )
+Shows: Pusa, 6d Tc
+Combination: Pusa, Two Pair ( Jd Jh Tc Th Kc )
+Wins: Pusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Boasts: Duma, Qh 2d
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: 2h 5h 4s
+Turn: 5s
+River: Qd
+Pot size: 200
+Showdown Reached
+Shows: Duma, 7s 3c
+Combination: Duma, Pair ( 5h 5s Qd 7s 4s )
+Shows: Pusa, 5d Ts
+Combination: Pusa, Three Of A Kind ( 5d 5h 5s Qd Ts )
+Wins: Pusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: 3c 6h Qd
+Turn: Td
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Duma, Kd 7c
+Combination: Duma, High Card ( Kd Qd Td 7c 6h )
+Shows: Pusa, 8h Kh
+Combination: Pusa, High Card ( Kh Qd Td 8h 6h )
+Wins: Pusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Boasts: Duma, Jd 6h
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: Jd 9h 2h
+Turn: Kc
+River: Qs
+Pot size: 200
+Showdown Reached
+Shows: Duma, 7h 6h
+Combination: Duma, High Card ( Kc Qs Jd 9h 7h )
+Shows: Pusa, Qc Jh
+Combination: Pusa, Two Pair ( Qc Qs Jh Jd Kc )
+Wins: Pusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: 5s 3d Ah
+Turn: 3h
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Duma, 8h Ad
+Combination: Duma, Two Pair ( Ad Ah 3d 3h 8h )
+Shows: Pusa, Qd 2d
+Combination: Pusa, Straight ( 5s 4c 3d 2d Ah )
+Wins: Pusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: 6c 7h 3c
+Turn: Jc
+River: Kd
+Pot size: 200
+Showdown Reached
+Shows: Duma, 9c 5h
+Combination: Duma, High Card ( Kd Jc 9c 7h 6c )
+Shows: Pusa, 5c Th
+Combination: Pusa, High Card ( Kd Jc Th 7h 6c )
+Wins: Pusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Boasts: Duma, 3d Th
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: 7s Ah 8h
+Turn: Kc
+River: 9c
+Pot size: 200
+Showdown Reached
+Shows: Duma, 9s 4d
+Combination: Duma, Pair ( 9s 9c Ah Kc 8h )
+Shows: Pusa, Th Jd
+Combination: Pusa, Straight ( Jd Th 9c 8h 7s )
+Wins: Pusa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pusa
+Small Blind: Pusa, chips: 100
+Big Blind: Duma, chips: 200
+Folds: Pusa
+Pot size: 300
+Boasts: Duma, 4c 3c
+Wins: Duma, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Duma
+Small Blind: Duma, chips: 100
+Big Blind: Pusa, chips: 100
+Flop: 7d 4s Ah
+Turn: 6h
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Duma, 3h 7s
+Combination: Duma, Pair ( 7s 7d Ah Jd 6h )
+Shows: Pusa, 5h 9c
+Combination: Pusa, High Card ( Ah Jd 9c 7d 6h )
+Wins: Duma, chips: 200
+Quits: Pusa, chips: 0
+Ranking: Duma, Place: 1, Score: 1000
+Reveal AI: Duma, AI: Random
+Ranking: Pusa, Place: 2, Score: -1000
+Reveal AI: Pusa, AI: AIMyBot1
+
+Player Stats for Duma, AI: Random
+General: deals: 25, actions: 4, preflop actions: 4
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 16, showdown: 1, bluff: 15
+Chips: won: 5300, lost: 4300, bought: 1000, forced bets: 3700
+Pre-Flop Stats: VP$IP: 0.12, PFR: 0.04, 3Bet: 0.04
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.111111
+
+
+Player Stats for Pusa, AI: AIMyBot1
+General: deals: 25, actions: 15, preflop actions: 15
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 9, showdown: 8, bluff: 1
+Chips: won: 1900, lost: 2900, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+

@@ -1,0 +1,540 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Cheenhef: AIMyBot1
+Futtoe: Random
+
+Joins: Cheenhef, chips: 1000
+Joins: Futtoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Folds: Futtoe
+Pot size: 300
+Wins: Cheenhef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Boasts: Futtoe, 6c 4h
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Calls: Futtoe
+DEBUG MESSAGE: INVALID ACTION FROM Cheenhef (2 0)
+Folds: Cheenhef
+Pot size: 400
+Wins: Futtoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Folds: Futtoe
+Pot size: 300
+Wins: Cheenhef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Boasts: Futtoe, 7c 3s
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Calls: Futtoe
+DEBUG MESSAGE: INVALID ACTION FROM Cheenhef (2 0)
+Folds: Cheenhef
+Pot size: 400
+Boasts: Futtoe, 7c Qd
+Wins: Futtoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Raises: Futtoe, chips: 300
+Folds: Cheenhef
+Pot size: 700
+Wins: Futtoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Flop: 6s Ah 9s
+Turn: Td
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, 3s Qs
+Combination: Cheenhef, High Card ( Ah Qs Td 9s 6s )
+Shows: Futtoe, 8d 4s
+Combination: Futtoe, High Card ( Ah Td 9s 8d 6s )
+Wins: Cheenhef, chips: 200
+Wins: Futtoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Flop: Jc 4c Kh
+Turn: Tc
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, Th 5s
+Combination: Cheenhef, Two Pair ( Kh Kd Th Tc Jc )
+Shows: Futtoe, 6c 8h
+Combination: Futtoe, Pair ( Kh Kd Jc Tc 8h )
+Wins: Cheenhef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Boasts: Futtoe, Th 9s
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Flop: 9h 7d 9c
+Turn: 4c
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, 7h 9s
+Combination: Cheenhef, Full House ( 9s 9h 9c 7h 7d )
+Shows: Futtoe, Td Ah
+Combination: Futtoe, Pair ( 9h 9c Ah Td 8c )
+Wins: Cheenhef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Flop: Ad 9c 3s
+Turn: 4d
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, Kc Ks
+Combination: Cheenhef, Pair ( Kc Ks Ad 9c 8h )
+Shows: Futtoe, 3d Kh
+Combination: Futtoe, Pair ( 3d 3s Ad Kh 9c )
+Wins: Cheenhef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Flop: 6c 6h 8c
+Turn: 3d
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, Ad 9s
+Combination: Cheenhef, Pair ( 6c 6h Ad 9s 8c )
+Shows: Futtoe, Ts As
+Combination: Futtoe, Pair ( 6c 6h As Ts 8c )
+Wins: Cheenhef, chips: 100
+Wins: Futtoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Flop: 8s 3d Js
+Turn: 6h
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, Jd Qd
+Combination: Cheenhef, Pair ( Jd Js Qd 8s 6h )
+Shows: Futtoe, 9h Ah
+Combination: Futtoe, High Card ( Ah Js 9h 8s 6h )
+Wins: Cheenhef, chips: 200
+Wins: Futtoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Flop: Td 9c 6s
+Turn: Jd
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, Tc Qd
+Combination: Cheenhef, Two Pair ( Tc Td 9c 9h Qd )
+Shows: Futtoe, 7s Ac
+Combination: Futtoe, Pair ( 9c 9h Ac Jd Td )
+Wins: Cheenhef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Flop: 5d Qc 5s
+Turn: 2s
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, Ah 7h
+Combination: Cheenhef, Pair ( 5d 5s Ah Qc 8c )
+Shows: Futtoe, Qs 3d
+Combination: Futtoe, Two Pair ( Qs Qc 5d 5s 8c )
+Wins: Cheenhef, chips: 100
+Wins: Futtoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Flop: Qc 7c Kh
+Turn: 8s
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, 2d Js
+Combination: Cheenhef, High Card ( Kh Qc Js 9c 8s )
+Shows: Futtoe, 9d 8c
+Combination: Futtoe, Two Pair ( 9d 9c 8c 8s Kh )
+Wins: Futtoe, chips: 300
+Quits: Cheenhef, chips: 0
+Ranking: Futtoe, Place: 1, Score: 1000
+Reveal AI: Futtoe, AI: Random
+Ranking: Cheenhef, Place: 2, Score: -1000
+Reveal AI: Cheenhef, AI: AIMyBot1
+
+Player Stats for Cheenhef, AI: AIMyBot1
+General: deals: 23, actions: 12, preflop actions: 12
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 10, showdown: 8, bluff: 2
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Player Stats for Futtoe, AI: Random
+General: deals: 23, actions: 5, preflop actions: 5
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 17, showdown: 5, bluff: 12
+Chips: won: 5100, lost: 4100, bought: 1000, forced bets: 3500
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.0434783, 3Bet: 0.0434783
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.555556
+
+
+Date: 2022/10/25 13:46:34
+
+The game begins. The AI's of the players are: 
+Cheenhef: AIMyBot1
+Futtoe: Random
+
+Joins: Cheenhef, chips: 1000
+Joins: Futtoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Folds: Futtoe
+Pot size: 300
+Wins: Cheenhef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Boasts: Futtoe, 6c 4h
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Calls: Futtoe
+DEBUG MESSAGE: INVALID ACTION FROM Cheenhef (2 0)
+Folds: Cheenhef
+Pot size: 400
+Wins: Futtoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Folds: Futtoe
+Pot size: 300
+Wins: Cheenhef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Boasts: Futtoe, 7c 3s
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Calls: Futtoe
+DEBUG MESSAGE: INVALID ACTION FROM Cheenhef (2 0)
+Folds: Cheenhef
+Pot size: 400
+Boasts: Futtoe, 7c Qd
+Wins: Futtoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Raises: Futtoe, chips: 300
+Folds: Cheenhef
+Pot size: 700
+Wins: Futtoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Flop: 6s Ah 9s
+Turn: Td
+River: 2d
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, 3s Qs
+Combination: Cheenhef, High Card ( Ah Qs Td 9s 6s )
+Shows: Futtoe, 8d 4s
+Combination: Futtoe, High Card ( Ah Td 9s 8d 6s )
+Wins: Cheenhef, chips: 200
+Wins: Futtoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Flop: Jc 4c Kh
+Turn: Tc
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, Th 5s
+Combination: Cheenhef, Two Pair ( Kh Kd Th Tc Jc )
+Shows: Futtoe, 6c 8h
+Combination: Futtoe, Pair ( Kh Kd Jc Tc 8h )
+Wins: Cheenhef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Boasts: Futtoe, Th 9s
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Flop: 9h 7d 9c
+Turn: 4c
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, 7h 9s
+Combination: Cheenhef, Full House ( 9s 9h 9c 7h 7d )
+Shows: Futtoe, Td Ah
+Combination: Futtoe, Pair ( 9h 9c Ah Td 8c )
+Wins: Cheenhef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Flop: Ad 9c 3s
+Turn: 4d
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, Kc Ks
+Combination: Cheenhef, Pair ( Kc Ks Ad 9c 8h )
+Shows: Futtoe, 3d Kh
+Combination: Futtoe, Pair ( 3d 3s Ad Kh 9c )
+Wins: Cheenhef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Flop: 6c 6h 8c
+Turn: 3d
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, Ad 9s
+Combination: Cheenhef, Pair ( 6c 6h Ad 9s 8c )
+Shows: Futtoe, Ts As
+Combination: Futtoe, Pair ( 6c 6h As Ts 8c )
+Wins: Cheenhef, chips: 100
+Wins: Futtoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Flop: 8s 3d Js
+Turn: 6h
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, Jd Qd
+Combination: Cheenhef, Pair ( Jd Js Qd 8s 6h )
+Shows: Futtoe, 9h Ah
+Combination: Futtoe, High Card ( Ah Js 9h 8s 6h )
+Wins: Cheenhef, chips: 200
+Wins: Futtoe, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Flop: Td 9c 6s
+Turn: Jd
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, Tc Qd
+Combination: Cheenhef, Two Pair ( Tc Td 9c 9h Qd )
+Shows: Futtoe, 7s Ac
+Combination: Futtoe, Pair ( 9c 9h Ac Jd Td )
+Wins: Cheenhef, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Folds: Cheenhef
+Pot size: 300
+Wins: Futtoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Futtoe
+Small Blind: Futtoe, chips: 100
+Big Blind: Cheenhef, chips: 200
+Flop: 5d Qc 5s
+Turn: 2s
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, Ah 7h
+Combination: Cheenhef, Pair ( 5d 5s Ah Qc 8c )
+Shows: Futtoe, Qs 3d
+Combination: Futtoe, Two Pair ( Qs Qc 5d 5s 8c )
+Wins: Cheenhef, chips: 100
+Wins: Futtoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Cheenhef
+Small Blind: Cheenhef, chips: 100
+Big Blind: Futtoe, chips: 200
+Flop: Qc 7c Kh
+Turn: 8s
+River: 9c
+Pot size: 300
+Showdown Reached
+Shows: Cheenhef, 2d Js
+Combination: Cheenhef, High Card ( Kh Qc Js 9c 8s )
+Shows: Futtoe, 9d 8c
+Combination: Futtoe, Two Pair ( 9d 9c 8c 8s Kh )
+Wins: Futtoe, chips: 300
+Quits: Cheenhef, chips: 0
+Ranking: Futtoe, Place: 1, Score: 1000
+Reveal AI: Futtoe, AI: Random
+Ranking: Cheenhef, Place: 2, Score: -1000
+Reveal AI: Cheenhef, AI: AIMyBot1
+
+Player Stats for Cheenhef, AI: AIMyBot1
+General: deals: 23, actions: 12, preflop actions: 12
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 10, showdown: 8, bluff: 2
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.888889
+
+
+Player Stats for Futtoe, AI: Random
+General: deals: 23, actions: 5, preflop actions: 5
+Rounds Seen: flops: 9, turns: 9, rivers: 9, showdowns: 9
+Wins: total: 17, showdown: 5, bluff: 12
+Chips: won: 5100, lost: 4100, bought: 1000, forced bets: 3500
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.0434783, 3Bet: 0.0434783
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.555556
+
+

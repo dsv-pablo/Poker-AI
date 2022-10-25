@@ -1,0 +1,360 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Dunelis: Random
+Geedoe: AIMyBot1
+
+Joins: Dunelis, chips: 1000
+Joins: Geedoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 200
+Folds: Dunelis
+Pot size: 300
+Boasts: Dunelis, 8d Qd
+Wins: Geedoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geedoe
+Small Blind: Geedoe, chips: 100
+Big Blind: Dunelis, chips: 200
+Folds: Geedoe
+Pot size: 300
+Wins: Dunelis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 200
+Raises: Dunelis, chips: 300
+Folds: Geedoe
+Pot size: 700
+Boasts: Dunelis, 4c Kh
+Wins: Dunelis, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geedoe
+Small Blind: Geedoe, chips: 100
+Big Blind: Dunelis, chips: 200
+Folds: Geedoe
+Pot size: 300
+Wins: Dunelis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 200
+Folds: Dunelis
+Pot size: 300
+Boasts: Dunelis, Js Jh
+Wins: Geedoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geedoe
+Small Blind: Geedoe, chips: 100
+Big Blind: Dunelis, chips: 200
+Folds: Geedoe
+Pot size: 300
+Wins: Dunelis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 200
+Folds: Dunelis
+Pot size: 300
+Boasts: Dunelis, 2d 7c
+Wins: Geedoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geedoe
+Small Blind: Geedoe, chips: 100
+Big Blind: Dunelis, chips: 200
+Folds: Geedoe
+Pot size: 300
+Boasts: Dunelis, Qc Qd
+Wins: Dunelis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 200
+Folds: Dunelis
+Pot size: 300
+Boasts: Dunelis, 3d 4d
+Wins: Geedoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geedoe
+Small Blind: Geedoe, chips: 100
+Big Blind: Dunelis, chips: 200
+Folds: Geedoe
+Pot size: 300
+Wins: Dunelis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 200
+Calls: Dunelis
+DEBUG MESSAGE: INVALID ACTION FROM Geedoe (2 0)
+Folds: Geedoe
+Pot size: 400
+Boasts: Dunelis, 2s 6c
+Wins: Dunelis, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geedoe
+Small Blind: Geedoe, chips: 100
+Big Blind: Dunelis, chips: 200
+Folds: Geedoe
+Pot size: 300
+Boasts: Dunelis, 2h Ad
+Wins: Dunelis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 200
+Calls: Dunelis
+DEBUG MESSAGE: INVALID ACTION FROM Geedoe (2 0)
+Folds: Geedoe
+Pot size: 400
+Wins: Dunelis, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geedoe
+Small Blind: Geedoe, chips: 100
+Big Blind: Dunelis, chips: 200
+Folds: Geedoe
+Pot size: 300
+Wins: Dunelis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 100
+Flop: 7s 7h 9c
+Turn: 7d
+River: 9s
+Pot size: 200
+Showdown Reached
+Shows: Dunelis, 5h 4h
+Combination: Dunelis, Full House ( 7s 7h 7d 9c 9s )
+Shows: Geedoe, 7c As
+Combination: Geedoe, Four Of A Kind ( 7c 7s 7h 7d As )
+Wins: Geedoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geedoe
+Small Blind: Geedoe, chips: 100
+Big Blind: Dunelis, chips: 200
+Folds: Geedoe
+Pot size: 300
+Boasts: Dunelis, 8h 6c
+Wins: Dunelis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 100
+Flop: 8h 7c Js
+Turn: 4s
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Dunelis, 4d 8s
+Combination: Dunelis, Two Pair ( 8s 8h 4d 4s Js )
+Shows: Geedoe, Jd As
+Combination: Geedoe, Pair ( Jd Js As 8h 7c )
+Wins: Dunelis, chips: 200
+Quits: Geedoe, chips: 0
+Ranking: Dunelis, Place: 1, Score: 1000
+Reveal AI: Dunelis, AI: Random
+Ranking: Geedoe, Place: 2, Score: -1000
+Reveal AI: Geedoe, AI: AIMyBot1
+
+Player Stats for Dunelis, AI: Random
+General: deals: 17, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Geedoe, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 5, showdown: 1, bluff: 4
+Chips: won: 1400, lost: 2400, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:54
+
+The game begins. The AI's of the players are: 
+Dunelis: Random
+Geedoe: AIMyBot1
+
+Joins: Dunelis, chips: 1000
+Joins: Geedoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 200
+Folds: Dunelis
+Pot size: 300
+Boasts: Dunelis, 8d Qd
+Wins: Geedoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geedoe
+Small Blind: Geedoe, chips: 100
+Big Blind: Dunelis, chips: 200
+Folds: Geedoe
+Pot size: 300
+Wins: Dunelis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 200
+Raises: Dunelis, chips: 300
+Folds: Geedoe
+Pot size: 700
+Boasts: Dunelis, 4c Kh
+Wins: Dunelis, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geedoe
+Small Blind: Geedoe, chips: 100
+Big Blind: Dunelis, chips: 200
+Folds: Geedoe
+Pot size: 300
+Wins: Dunelis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 200
+Folds: Dunelis
+Pot size: 300
+Boasts: Dunelis, Js Jh
+Wins: Geedoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geedoe
+Small Blind: Geedoe, chips: 100
+Big Blind: Dunelis, chips: 200
+Folds: Geedoe
+Pot size: 300
+Wins: Dunelis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 200
+Folds: Dunelis
+Pot size: 300
+Boasts: Dunelis, 2d 7c
+Wins: Geedoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geedoe
+Small Blind: Geedoe, chips: 100
+Big Blind: Dunelis, chips: 200
+Folds: Geedoe
+Pot size: 300
+Boasts: Dunelis, Qc Qd
+Wins: Dunelis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 200
+Folds: Dunelis
+Pot size: 300
+Boasts: Dunelis, 3d 4d
+Wins: Geedoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geedoe
+Small Blind: Geedoe, chips: 100
+Big Blind: Dunelis, chips: 200
+Folds: Geedoe
+Pot size: 300
+Wins: Dunelis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 200
+Calls: Dunelis
+DEBUG MESSAGE: INVALID ACTION FROM Geedoe (2 0)
+Folds: Geedoe
+Pot size: 400
+Boasts: Dunelis, 2s 6c
+Wins: Dunelis, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geedoe
+Small Blind: Geedoe, chips: 100
+Big Blind: Dunelis, chips: 200
+Folds: Geedoe
+Pot size: 300
+Boasts: Dunelis, 2h Ad
+Wins: Dunelis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 200
+Calls: Dunelis
+DEBUG MESSAGE: INVALID ACTION FROM Geedoe (2 0)
+Folds: Geedoe
+Pot size: 400
+Wins: Dunelis, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geedoe
+Small Blind: Geedoe, chips: 100
+Big Blind: Dunelis, chips: 200
+Folds: Geedoe
+Pot size: 300
+Wins: Dunelis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 100
+Flop: 7s 7h 9c
+Turn: 7d
+River: 9s
+Pot size: 200
+Showdown Reached
+Shows: Dunelis, 5h 4h
+Combination: Dunelis, Full House ( 7s 7h 7d 9c 9s )
+Shows: Geedoe, 7c As
+Combination: Geedoe, Four Of A Kind ( 7c 7s 7h 7d As )
+Wins: Geedoe, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Geedoe
+Small Blind: Geedoe, chips: 100
+Big Blind: Dunelis, chips: 200
+Folds: Geedoe
+Pot size: 300
+Boasts: Dunelis, 8h 6c
+Wins: Dunelis, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dunelis
+Small Blind: Dunelis, chips: 100
+Big Blind: Geedoe, chips: 100
+Flop: 8h 7c Js
+Turn: 4s
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Dunelis, 4d 8s
+Combination: Dunelis, Two Pair ( 8s 8h 4d 4s Js )
+Shows: Geedoe, Jd As
+Combination: Geedoe, Pair ( Jd Js As 8h 7c )
+Wins: Dunelis, chips: 200
+Quits: Geedoe, chips: 0
+Ranking: Dunelis, Place: 1, Score: 1000
+Reveal AI: Dunelis, AI: Random
+Ranking: Geedoe, Place: 2, Score: -1000
+Reveal AI: Geedoe, AI: AIMyBot1
+
+Player Stats for Dunelis, AI: Random
+General: deals: 17, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4100, lost: 3100, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Geedoe, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 5, showdown: 1, bluff: 4
+Chips: won: 1400, lost: 2400, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

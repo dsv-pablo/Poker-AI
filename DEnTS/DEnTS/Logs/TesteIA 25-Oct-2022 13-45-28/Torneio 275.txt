@@ -1,0 +1,466 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Deegul: AIMyBot1
+Batif: Random
+
+Joins: Deegul, chips: 1000
+Joins: Batif, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Folds: Batif
+Pot size: 300
+Wins: Deegul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Boasts: Batif, Ah Ad
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Folds: Batif
+Pot size: 300
+Boasts: Batif, 9h 8c
+Wins: Deegul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Folds: Batif
+Pot size: 300
+Boasts: Batif, 9h 2s
+Wins: Deegul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Folds: Batif
+Pot size: 300
+Wins: Deegul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Boasts: Batif, Kd Jd
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Folds: Batif
+Pot size: 300
+Boasts: Batif, Js 5s
+Wins: Deegul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Boasts: Batif, 5h 2d
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Raises: Batif, chips: 300
+Folds: Deegul
+Pot size: 700
+Boasts: Batif, 7h 5s
+Wins: Batif, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Boasts: Batif, Ts Qd
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Folds: Batif
+Pot size: 300
+Boasts: Batif, 5s 6s
+Wins: Deegul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Boasts: Batif, Qs 7h
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Calls: Batif
+DEBUG MESSAGE: INVALID ACTION FROM Deegul (2 0)
+Folds: Deegul
+Pot size: 400
+Wins: Batif, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Boasts: Batif, Jh 3h
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Calls: Batif
+DEBUG MESSAGE: INVALID ACTION FROM Deegul (2 0)
+Folds: Deegul
+Pot size: 400
+Wins: Batif, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 100
+Flop: 3h Qh Js
+Turn: As
+River: 9c
+Pot size: 200
+Showdown Reached
+Shows: Deegul, Qs 8c
+Combination: Deegul, Pair ( Qs Qh As Js 9c )
+Shows: Batif, Kh 7d
+Combination: Batif, High Card ( As Kh Qh Js 9c )
+Wins: Deegul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Boasts: Batif, 4d 5c
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 100
+Flop: Js 8d Th
+Turn: 9h
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Deegul, 7s Qd
+Combination: Deegul, Straight ( Qd Js Th 9h 8d )
+Shows: Batif, 6c Tc
+Combination: Batif, Straight ( Js Tc 9h 8d 7d )
+Wins: Deegul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Boasts: Batif, Ks 5c
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 100
+Flop: 4h 5h 2s
+Turn: 8h
+River: 6h
+Pot size: 200
+Showdown Reached
+Shows: Deegul, 9s Ts
+Combination: Deegul, High Card ( Ts 9s 8h 6h 5h )
+Shows: Batif, 5d 4d
+Combination: Batif, Two Pair ( 5d 5h 4d 4h 8h )
+Wins: Batif, chips: 200
+Quits: Deegul, chips: 0
+Ranking: Batif, Place: 1, Score: 1000
+Reveal AI: Batif, AI: Random
+Ranking: Deegul, Place: 2, Score: -1000
+Reveal AI: Deegul, AI: AIMyBot1
+
+Player Stats for Batif, AI: Random
+General: deals: 23, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 15, showdown: 1, bluff: 14
+Chips: won: 5000, lost: 4000, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.0434783, 3Bet: 0.0434783
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Deegul, AI: AIMyBot1
+General: deals: 23, actions: 14, preflop actions: 14
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 2200, lost: 3200, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:47
+
+The game begins. The AI's of the players are: 
+Deegul: AIMyBot1
+Batif: Random
+
+Joins: Deegul, chips: 1000
+Joins: Batif, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Folds: Batif
+Pot size: 300
+Wins: Deegul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Boasts: Batif, Ah Ad
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Folds: Batif
+Pot size: 300
+Boasts: Batif, 9h 8c
+Wins: Deegul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Folds: Batif
+Pot size: 300
+Boasts: Batif, 9h 2s
+Wins: Deegul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Folds: Batif
+Pot size: 300
+Wins: Deegul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Boasts: Batif, Kd Jd
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Folds: Batif
+Pot size: 300
+Boasts: Batif, Js 5s
+Wins: Deegul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Boasts: Batif, 5h 2d
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Raises: Batif, chips: 300
+Folds: Deegul
+Pot size: 700
+Boasts: Batif, 7h 5s
+Wins: Batif, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Boasts: Batif, Ts Qd
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Folds: Batif
+Pot size: 300
+Boasts: Batif, 5s 6s
+Wins: Deegul, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Boasts: Batif, Qs 7h
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Calls: Batif
+DEBUG MESSAGE: INVALID ACTION FROM Deegul (2 0)
+Folds: Deegul
+Pot size: 400
+Wins: Batif, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Boasts: Batif, Jh 3h
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 200
+Calls: Batif
+DEBUG MESSAGE: INVALID ACTION FROM Deegul (2 0)
+Folds: Deegul
+Pot size: 400
+Wins: Batif, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 100
+Flop: 3h Qh Js
+Turn: As
+River: 9c
+Pot size: 200
+Showdown Reached
+Shows: Deegul, Qs 8c
+Combination: Deegul, Pair ( Qs Qh As Js 9c )
+Shows: Batif, Kh 7d
+Combination: Batif, High Card ( As Kh Qh Js 9c )
+Wins: Deegul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Boasts: Batif, 4d 5c
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 100
+Flop: Js 8d Th
+Turn: 9h
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Deegul, 7s Qd
+Combination: Deegul, Straight ( Qd Js Th 9h 8d )
+Shows: Batif, 6c Tc
+Combination: Batif, Straight ( Js Tc 9h 8d 7d )
+Wins: Deegul, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Deegul
+Small Blind: Deegul, chips: 100
+Big Blind: Batif, chips: 200
+Folds: Deegul
+Pot size: 300
+Boasts: Batif, Ks 5c
+Wins: Batif, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Batif
+Small Blind: Batif, chips: 100
+Big Blind: Deegul, chips: 100
+Flop: 4h 5h 2s
+Turn: 8h
+River: 6h
+Pot size: 200
+Showdown Reached
+Shows: Deegul, 9s Ts
+Combination: Deegul, High Card ( Ts 9s 8h 6h 5h )
+Shows: Batif, 5d 4d
+Combination: Batif, Two Pair ( 5d 5h 4d 4h 8h )
+Wins: Batif, chips: 200
+Quits: Deegul, chips: 0
+Ranking: Batif, Place: 1, Score: 1000
+Reveal AI: Batif, AI: Random
+Ranking: Deegul, Place: 2, Score: -1000
+Reveal AI: Deegul, AI: AIMyBot1
+
+Player Stats for Batif, AI: Random
+General: deals: 23, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 15, showdown: 1, bluff: 14
+Chips: won: 5000, lost: 4000, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.0434783, 3Bet: 0.0434783
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Deegul, AI: AIMyBot1
+General: deals: 23, actions: 14, preflop actions: 14
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 2200, lost: 3200, bought: 1000, forced bets: 3200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

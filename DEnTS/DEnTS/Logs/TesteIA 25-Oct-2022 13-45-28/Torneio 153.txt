@@ -1,0 +1,192 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Voegesek: AIMyBot1
+Rawu: Random
+
+Joins: Voegesek, chips: 1000
+Joins: Rawu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawu
+Small Blind: Rawu, chips: 100
+Big Blind: Voegesek, chips: 200
+Calls: Rawu
+DEBUG MESSAGE: INVALID ACTION FROM Voegesek (2 0)
+Folds: Voegesek
+Pot size: 400
+Wins: Rawu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voegesek
+Small Blind: Voegesek, chips: 100
+Big Blind: Rawu, chips: 200
+Folds: Voegesek
+Pot size: 300
+Wins: Rawu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawu
+Small Blind: Rawu, chips: 100
+Big Blind: Voegesek, chips: 200
+Raises: Rawu, chips: 1100
+Folds: Voegesek
+Pot size: 1500
+Wins: Rawu, chips: 1500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voegesek
+Small Blind: Voegesek, chips: 100
+Big Blind: Rawu, chips: 200
+Folds: Voegesek
+Pot size: 300
+Boasts: Rawu, Kc Jd
+Wins: Rawu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawu
+Small Blind: Rawu, chips: 100
+Big Blind: Voegesek, chips: 200
+Calls: Rawu
+DEBUG MESSAGE: INVALID ACTION FROM Voegesek (2 0)
+Folds: Voegesek
+Pot size: 400
+Wins: Rawu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voegesek
+Small Blind: Voegesek, chips: 100
+Big Blind: Rawu, chips: 200
+Folds: Voegesek
+Pot size: 300
+Boasts: Rawu, 4c 5h
+Wins: Rawu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawu
+Small Blind: Rawu, chips: 100
+Big Blind: Voegesek, chips: 100
+Flop: 8s 9d Th
+Turn: 3d
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Voegesek, 8c 4s
+Combination: Voegesek, Pair ( 8c 8s Th 9d 7h )
+Shows: Rawu, Tc 2c
+Combination: Rawu, Pair ( Tc Th 9d 8s 7h )
+Wins: Rawu, chips: 200
+Quits: Voegesek, chips: 0
+Ranking: Rawu, Place: 1, Score: 1000
+Reveal AI: Rawu, AI: Random
+Ranking: Voegesek, Place: 2, Score: -1000
+Reveal AI: Voegesek, AI: AIMyBot1
+
+Player Stats for Rawu, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Voegesek, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:40
+
+The game begins. The AI's of the players are: 
+Voegesek: AIMyBot1
+Rawu: Random
+
+Joins: Voegesek, chips: 1000
+Joins: Rawu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawu
+Small Blind: Rawu, chips: 100
+Big Blind: Voegesek, chips: 200
+Calls: Rawu
+DEBUG MESSAGE: INVALID ACTION FROM Voegesek (2 0)
+Folds: Voegesek
+Pot size: 400
+Wins: Rawu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voegesek
+Small Blind: Voegesek, chips: 100
+Big Blind: Rawu, chips: 200
+Folds: Voegesek
+Pot size: 300
+Wins: Rawu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawu
+Small Blind: Rawu, chips: 100
+Big Blind: Voegesek, chips: 200
+Raises: Rawu, chips: 1100
+Folds: Voegesek
+Pot size: 1500
+Wins: Rawu, chips: 1500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voegesek
+Small Blind: Voegesek, chips: 100
+Big Blind: Rawu, chips: 200
+Folds: Voegesek
+Pot size: 300
+Boasts: Rawu, Kc Jd
+Wins: Rawu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawu
+Small Blind: Rawu, chips: 100
+Big Blind: Voegesek, chips: 200
+Calls: Rawu
+DEBUG MESSAGE: INVALID ACTION FROM Voegesek (2 0)
+Folds: Voegesek
+Pot size: 400
+Wins: Rawu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voegesek
+Small Blind: Voegesek, chips: 100
+Big Blind: Rawu, chips: 200
+Folds: Voegesek
+Pot size: 300
+Boasts: Rawu, 4c 5h
+Wins: Rawu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawu
+Small Blind: Rawu, chips: 100
+Big Blind: Voegesek, chips: 100
+Flop: 8s 9d Th
+Turn: 3d
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Voegesek, 8c 4s
+Combination: Voegesek, Pair ( 8c 8s Th 9d 7h )
+Shows: Rawu, Tc 2c
+Combination: Rawu, Pair ( Tc Th 9d 8s 7h )
+Wins: Rawu, chips: 200
+Quits: Voegesek, chips: 0
+Ranking: Rawu, Place: 1, Score: 1000
+Reveal AI: Rawu, AI: Random
+Ranking: Voegesek, Place: 2, Score: -1000
+Reveal AI: Voegesek, AI: AIMyBot1
+
+Player Stats for Rawu, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3400, lost: 2400, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Voegesek, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

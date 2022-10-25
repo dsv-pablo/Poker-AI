@@ -1,0 +1,428 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Buwa: Random
+Woelik: AIMyBot1
+
+Joins: Buwa, chips: 1000
+Joins: Woelik, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Folds: Woelik
+Pot size: 300
+Wins: Buwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 200
+Calls: Buwa
+DEBUG MESSAGE: INVALID ACTION FROM Woelik (2 0)
+Folds: Woelik
+Pot size: 400
+Wins: Buwa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Folds: Woelik
+Pot size: 300
+Wins: Buwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 200
+Folds: Buwa
+Pot size: 300
+Wins: Woelik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Folds: Woelik
+Pot size: 300
+Boasts: Buwa, 6h 5c
+Wins: Buwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 200
+Calls: Buwa
+DEBUG MESSAGE: INVALID ACTION FROM Woelik (2 0)
+Folds: Woelik
+Pot size: 400
+Boasts: Buwa, 7h 7c
+Wins: Buwa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Folds: Woelik
+Pot size: 300
+Boasts: Buwa, 4d Kc
+Wins: Buwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 200
+Calls: Buwa
+DEBUG MESSAGE: INVALID ACTION FROM Woelik (2 0)
+Folds: Woelik
+Pot size: 400
+Wins: Buwa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Flop: Ac 7d Kc
+Turn: 6h
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Buwa, 9h Jh
+Combination: Buwa, High Card ( Ac Kc Jh 9h 7d )
+Shows: Woelik, Kh Js
+Combination: Woelik, Pair ( Kh Kc Ac Js 7d )
+Wins: Buwa, chips: 100
+Wins: Woelik, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 200
+Flop: 6c Ks 2s
+Turn: 7d
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Buwa, Ac 3s
+Combination: Buwa, High Card ( Ac Ks 7d 6c 5c )
+Shows: Woelik, 6h Td
+Combination: Woelik, Pair ( 6h 6c Ks Td 7d )
+Wins: Woelik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Folds: Woelik
+Pot size: 300
+Wins: Buwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 200
+Flop: 7c Kc Qh
+Turn: Jh
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Buwa, 5h Td
+Combination: Buwa, Pair ( 7c 7h Kc Qh Jh )
+Shows: Woelik, 5c 9h
+Combination: Woelik, Pair ( 7c 7h Kc Qh Jh )
+Wins: Buwa, chips: 100
+Wins: Woelik, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Folds: Woelik
+Pot size: 300
+Boasts: Buwa, Jd Kd
+Wins: Buwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 100
+Flop: 7s Ks 2c
+Turn: 5c
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Buwa, 9s 3c
+Combination: Buwa, High Card ( As Ks 9s 7s 5c )
+Shows: Woelik, Kh Ac
+Combination: Woelik, Two Pair ( Ac As Kh Ks 7s )
+Wins: Woelik, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Folds: Woelik
+Pot size: 300
+Boasts: Buwa, 6c 9h
+Wins: Buwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 100
+Flop: Ks 9d Ac
+Turn: 4s
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Buwa, Td 8h
+Combination: Buwa, Pair ( Ks Kc Ac Td 9d )
+Shows: Woelik, 6s Ad
+Combination: Woelik, Two Pair ( Ad Ac Ks Kc 9d )
+Wins: Woelik, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Folds: Woelik
+Pot size: 300
+Wins: Buwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 100
+Flop: 2s Ah 6s
+Turn: Qh
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Buwa, Jc Jh
+Combination: Buwa, Two Pair ( Qh Qc Jc Jh Ah )
+Shows: Woelik, 7c 5h
+Combination: Woelik, Pair ( Qh Qc Ah 7c 6s )
+Wins: Buwa, chips: 200
+Quits: Woelik, chips: 0
+Ranking: Buwa, Place: 1, Score: 1000
+Reveal AI: Buwa, AI: Random
+Ranking: Woelik, Place: 2, Score: -1000
+Reveal AI: Woelik, AI: AIMyBot1
+
+Player Stats for Buwa, AI: Random
+General: deals: 18, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 14, showdown: 3, bluff: 11
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Woelik, AI: AIMyBot1
+General: deals: 18, actions: 11, preflop actions: 11
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 1400, lost: 2400, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:45:32
+
+The game begins. The AI's of the players are: 
+Buwa: Random
+Woelik: AIMyBot1
+
+Joins: Buwa, chips: 1000
+Joins: Woelik, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Folds: Woelik
+Pot size: 300
+Wins: Buwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 200
+Calls: Buwa
+DEBUG MESSAGE: INVALID ACTION FROM Woelik (2 0)
+Folds: Woelik
+Pot size: 400
+Wins: Buwa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Folds: Woelik
+Pot size: 300
+Wins: Buwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 200
+Folds: Buwa
+Pot size: 300
+Wins: Woelik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Folds: Woelik
+Pot size: 300
+Boasts: Buwa, 6h 5c
+Wins: Buwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 200
+Calls: Buwa
+DEBUG MESSAGE: INVALID ACTION FROM Woelik (2 0)
+Folds: Woelik
+Pot size: 400
+Boasts: Buwa, 7h 7c
+Wins: Buwa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Folds: Woelik
+Pot size: 300
+Boasts: Buwa, 4d Kc
+Wins: Buwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 200
+Calls: Buwa
+DEBUG MESSAGE: INVALID ACTION FROM Woelik (2 0)
+Folds: Woelik
+Pot size: 400
+Wins: Buwa, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Flop: Ac 7d Kc
+Turn: 6h
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Buwa, 9h Jh
+Combination: Buwa, High Card ( Ac Kc Jh 9h 7d )
+Shows: Woelik, Kh Js
+Combination: Woelik, Pair ( Kh Kc Ac Js 7d )
+Wins: Buwa, chips: 100
+Wins: Woelik, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 200
+Flop: 6c Ks 2s
+Turn: 7d
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Buwa, Ac 3s
+Combination: Buwa, High Card ( Ac Ks 7d 6c 5c )
+Shows: Woelik, 6h Td
+Combination: Woelik, Pair ( 6h 6c Ks Td 7d )
+Wins: Woelik, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Folds: Woelik
+Pot size: 300
+Wins: Buwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 200
+Flop: 7c Kc Qh
+Turn: Jh
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Buwa, 5h Td
+Combination: Buwa, Pair ( 7c 7h Kc Qh Jh )
+Shows: Woelik, 5c 9h
+Combination: Woelik, Pair ( 7c 7h Kc Qh Jh )
+Wins: Buwa, chips: 100
+Wins: Woelik, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Folds: Woelik
+Pot size: 300
+Boasts: Buwa, Jd Kd
+Wins: Buwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 100
+Flop: 7s Ks 2c
+Turn: 5c
+River: As
+Pot size: 200
+Showdown Reached
+Shows: Buwa, 9s 3c
+Combination: Buwa, High Card ( As Ks 9s 7s 5c )
+Shows: Woelik, Kh Ac
+Combination: Woelik, Two Pair ( Ac As Kh Ks 7s )
+Wins: Woelik, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Folds: Woelik
+Pot size: 300
+Boasts: Buwa, 6c 9h
+Wins: Buwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 100
+Flop: Ks 9d Ac
+Turn: 4s
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Buwa, Td 8h
+Combination: Buwa, Pair ( Ks Kc Ac Td 9d )
+Shows: Woelik, 6s Ad
+Combination: Woelik, Two Pair ( Ad Ac Ks Kc 9d )
+Wins: Woelik, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woelik
+Small Blind: Woelik, chips: 100
+Big Blind: Buwa, chips: 200
+Folds: Woelik
+Pot size: 300
+Wins: Buwa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Buwa
+Small Blind: Buwa, chips: 100
+Big Blind: Woelik, chips: 100
+Flop: 2s Ah 6s
+Turn: Qh
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Buwa, Jc Jh
+Combination: Buwa, Two Pair ( Qh Qc Jc Jh Ah )
+Shows: Woelik, 7c 5h
+Combination: Woelik, Pair ( Qh Qc Ah 7c 6s )
+Wins: Buwa, chips: 200
+Quits: Woelik, chips: 0
+Ranking: Buwa, Place: 1, Score: 1000
+Reveal AI: Buwa, AI: Random
+Ranking: Woelik, Place: 2, Score: -1000
+Reveal AI: Woelik, AI: AIMyBot1
+
+Player Stats for Buwa, AI: Random
+General: deals: 18, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 14, showdown: 3, bluff: 11
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Woelik, AI: AIMyBot1
+General: deals: 18, actions: 11, preflop actions: 11
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 1400, lost: 2400, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

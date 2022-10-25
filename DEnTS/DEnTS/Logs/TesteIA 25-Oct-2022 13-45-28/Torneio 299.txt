@@ -1,0 +1,250 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Meesa: AIMyBot1
+Teettu: Random
+
+Joins: Meesa, chips: 1000
+Joins: Teettu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meesa
+Small Blind: Meesa, chips: 100
+Big Blind: Teettu, chips: 200
+Folds: Meesa
+Pot size: 300
+Wins: Teettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teettu
+Small Blind: Teettu, chips: 100
+Big Blind: Meesa, chips: 200
+Raises: Teettu, chips: 300
+Folds: Meesa
+Pot size: 700
+Boasts: Teettu, Td 2c
+Wins: Teettu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meesa
+Small Blind: Meesa, chips: 100
+Big Blind: Teettu, chips: 200
+Folds: Meesa
+Pot size: 300
+Wins: Teettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teettu
+Small Blind: Teettu, chips: 100
+Big Blind: Meesa, chips: 200
+Raises: Teettu, chips: 300
+Folds: Meesa
+Pot size: 700
+Wins: Teettu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meesa
+Small Blind: Meesa, chips: 100
+Big Blind: Teettu, chips: 200
+Folds: Meesa
+Pot size: 300
+Wins: Teettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teettu
+Small Blind: Teettu, chips: 100
+Big Blind: Meesa, chips: 200
+Calls: Teettu
+DEBUG MESSAGE: INVALID ACTION FROM Meesa (2 0)
+Folds: Meesa
+Pot size: 400
+Boasts: Teettu, Jc 2s
+Wins: Teettu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meesa
+Small Blind: Meesa, chips: 100
+Big Blind: Teettu, chips: 200
+Flop: 4c 6s 7h
+Turn: 5s
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Meesa, As 8s
+Combination: Meesa, Straight ( 8s 7h 6s 5s 4c )
+Shows: Teettu, 9h Kd
+Combination: Teettu, Pair ( 6s 6d Kd 9h 7h )
+Wins: Meesa, chips: 200
+Wins: Teettu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teettu
+Small Blind: Teettu, chips: 100
+Big Blind: Meesa, chips: 200
+Flop: 4d 3d Ks
+Turn: Ad
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Meesa, 4s 5s
+Combination: Meesa, Pair ( 4s 4d Ad Ks 8h )
+Shows: Teettu, Qs 4h
+Combination: Teettu, Pair ( 4h 4d Ad Ks Qs )
+Wins: Meesa, chips: 100
+Wins: Teettu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meesa
+Small Blind: Meesa, chips: 100
+Big Blind: Teettu, chips: 200
+Flop: 5h Th 8d
+Turn: 7d
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Meesa, Ac 3h
+Combination: Meesa, Pair ( 5h 5d Ac Th 8d )
+Shows: Teettu, Td Ah
+Combination: Teettu, Two Pair ( Td Th 5h 5d Ah )
+Wins: Teettu, chips: 300
+Quits: Meesa, chips: 0
+Ranking: Teettu, Place: 1, Score: 1000
+Reveal AI: Teettu, AI: Random
+Ranking: Meesa, Place: 2, Score: -1000
+Reveal AI: Meesa, AI: AIMyBot1
+
+Player Stats for Meesa, AI: AIMyBot1
+General: deals: 9, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Teettu, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:49
+
+The game begins. The AI's of the players are: 
+Meesa: AIMyBot1
+Teettu: Random
+
+Joins: Meesa, chips: 1000
+Joins: Teettu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meesa
+Small Blind: Meesa, chips: 100
+Big Blind: Teettu, chips: 200
+Folds: Meesa
+Pot size: 300
+Wins: Teettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teettu
+Small Blind: Teettu, chips: 100
+Big Blind: Meesa, chips: 200
+Raises: Teettu, chips: 300
+Folds: Meesa
+Pot size: 700
+Boasts: Teettu, Td 2c
+Wins: Teettu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meesa
+Small Blind: Meesa, chips: 100
+Big Blind: Teettu, chips: 200
+Folds: Meesa
+Pot size: 300
+Wins: Teettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teettu
+Small Blind: Teettu, chips: 100
+Big Blind: Meesa, chips: 200
+Raises: Teettu, chips: 300
+Folds: Meesa
+Pot size: 700
+Wins: Teettu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meesa
+Small Blind: Meesa, chips: 100
+Big Blind: Teettu, chips: 200
+Folds: Meesa
+Pot size: 300
+Wins: Teettu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teettu
+Small Blind: Teettu, chips: 100
+Big Blind: Meesa, chips: 200
+Calls: Teettu
+DEBUG MESSAGE: INVALID ACTION FROM Meesa (2 0)
+Folds: Meesa
+Pot size: 400
+Boasts: Teettu, Jc 2s
+Wins: Teettu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meesa
+Small Blind: Meesa, chips: 100
+Big Blind: Teettu, chips: 200
+Flop: 4c 6s 7h
+Turn: 5s
+River: 6d
+Pot size: 300
+Showdown Reached
+Shows: Meesa, As 8s
+Combination: Meesa, Straight ( 8s 7h 6s 5s 4c )
+Shows: Teettu, 9h Kd
+Combination: Teettu, Pair ( 6s 6d Kd 9h 7h )
+Wins: Meesa, chips: 200
+Wins: Teettu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Teettu
+Small Blind: Teettu, chips: 100
+Big Blind: Meesa, chips: 200
+Flop: 4d 3d Ks
+Turn: Ad
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Meesa, 4s 5s
+Combination: Meesa, Pair ( 4s 4d Ad Ks 8h )
+Shows: Teettu, Qs 4h
+Combination: Teettu, Pair ( 4h 4d Ad Ks Qs )
+Wins: Meesa, chips: 100
+Wins: Teettu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meesa
+Small Blind: Meesa, chips: 100
+Big Blind: Teettu, chips: 200
+Flop: 5h Th 8d
+Turn: 7d
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Meesa, Ac 3h
+Combination: Meesa, Pair ( 5h 5d Ac Th 8d )
+Shows: Teettu, Td Ah
+Combination: Teettu, Two Pair ( Td Th 5h 5d Ah )
+Wins: Teettu, chips: 300
+Quits: Meesa, chips: 0
+Ranking: Teettu, Place: 1, Score: 1000
+Reveal AI: Teettu, AI: Random
+Ranking: Meesa, Place: 2, Score: -1000
+Reveal AI: Meesa, AI: AIMyBot1
+
+Player Stats for Meesa, AI: AIMyBot1
+General: deals: 9, actions: 6, preflop actions: 6
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Teettu, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 3, bluff: 6
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

@@ -1,0 +1,266 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Seerekoep: Random
+Meettife: AIMyBot1
+
+Joins: Seerekoep, chips: 1000
+Joins: Meettife, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seerekoep
+Small Blind: Seerekoep, chips: 100
+Big Blind: Meettife, chips: 200
+Calls: Seerekoep
+DEBUG MESSAGE: INVALID ACTION FROM Meettife (2 0)
+Folds: Meettife
+Pot size: 400
+Boasts: Seerekoep, 4c Qs
+Wins: Seerekoep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettife
+Small Blind: Meettife, chips: 100
+Big Blind: Seerekoep, chips: 200
+Folds: Meettife
+Pot size: 300
+Boasts: Seerekoep, As 6h
+Wins: Seerekoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seerekoep
+Small Blind: Seerekoep, chips: 100
+Big Blind: Meettife, chips: 200
+Folds: Seerekoep
+Pot size: 300
+Wins: Meettife, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettife
+Small Blind: Meettife, chips: 100
+Big Blind: Seerekoep, chips: 200
+Folds: Meettife
+Pot size: 300
+Wins: Seerekoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seerekoep
+Small Blind: Seerekoep, chips: 100
+Big Blind: Meettife, chips: 200
+Raises: Seerekoep, chips: 300
+Folds: Meettife
+Pot size: 700
+Boasts: Seerekoep, 3d 4h
+Wins: Seerekoep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettife
+Small Blind: Meettife, chips: 100
+Big Blind: Seerekoep, chips: 200
+Folds: Meettife
+Pot size: 300
+Boasts: Seerekoep, 8h 2h
+Wins: Seerekoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seerekoep
+Small Blind: Seerekoep, chips: 100
+Big Blind: Meettife, chips: 200
+Raises: Seerekoep, chips: 300
+Folds: Meettife
+Pot size: 700
+Boasts: Seerekoep, 9h Tc
+Wins: Seerekoep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettife
+Small Blind: Meettife, chips: 100
+Big Blind: Seerekoep, chips: 200
+Folds: Meettife
+Pot size: 300
+Wins: Seerekoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seerekoep
+Small Blind: Seerekoep, chips: 100
+Big Blind: Meettife, chips: 100
+Flop: 5d 6s Kd
+Turn: 8d
+River: 7s
+Pot size: 200
+Showdown Reached
+Shows: Seerekoep, Th Qd
+Combination: Seerekoep, High Card ( Kd Qd Th 8d 7s )
+Shows: Meettife, Ac Kh
+Combination: Meettife, Pair ( Kh Kd Ac 8d 7s )
+Wins: Meettife, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettife
+Small Blind: Meettife, chips: 100
+Big Blind: Seerekoep, chips: 200
+Folds: Meettife
+Pot size: 300
+Wins: Seerekoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seerekoep
+Small Blind: Seerekoep, chips: 100
+Big Blind: Meettife, chips: 100
+Flop: 6s 6d As
+Turn: Js
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Seerekoep, Ad 2c
+Combination: Seerekoep, Two Pair ( Ad As 6s 6d Kc )
+Shows: Meettife, 8d 5s
+Combination: Meettife, Pair ( 6s 6d As Kc Js )
+Wins: Seerekoep, chips: 200
+Quits: Meettife, chips: 0
+Ranking: Seerekoep, Place: 1, Score: 1000
+Reveal AI: Seerekoep, AI: Random
+Ranking: Meettife, Place: 2, Score: -1000
+Reveal AI: Meettife, AI: AIMyBot1
+
+Player Stats for Meettife, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Seerekoep, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:42
+
+The game begins. The AI's of the players are: 
+Seerekoep: Random
+Meettife: AIMyBot1
+
+Joins: Seerekoep, chips: 1000
+Joins: Meettife, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seerekoep
+Small Blind: Seerekoep, chips: 100
+Big Blind: Meettife, chips: 200
+Calls: Seerekoep
+DEBUG MESSAGE: INVALID ACTION FROM Meettife (2 0)
+Folds: Meettife
+Pot size: 400
+Boasts: Seerekoep, 4c Qs
+Wins: Seerekoep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettife
+Small Blind: Meettife, chips: 100
+Big Blind: Seerekoep, chips: 200
+Folds: Meettife
+Pot size: 300
+Boasts: Seerekoep, As 6h
+Wins: Seerekoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seerekoep
+Small Blind: Seerekoep, chips: 100
+Big Blind: Meettife, chips: 200
+Folds: Seerekoep
+Pot size: 300
+Wins: Meettife, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettife
+Small Blind: Meettife, chips: 100
+Big Blind: Seerekoep, chips: 200
+Folds: Meettife
+Pot size: 300
+Wins: Seerekoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seerekoep
+Small Blind: Seerekoep, chips: 100
+Big Blind: Meettife, chips: 200
+Raises: Seerekoep, chips: 300
+Folds: Meettife
+Pot size: 700
+Boasts: Seerekoep, 3d 4h
+Wins: Seerekoep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettife
+Small Blind: Meettife, chips: 100
+Big Blind: Seerekoep, chips: 200
+Folds: Meettife
+Pot size: 300
+Boasts: Seerekoep, 8h 2h
+Wins: Seerekoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seerekoep
+Small Blind: Seerekoep, chips: 100
+Big Blind: Meettife, chips: 200
+Raises: Seerekoep, chips: 300
+Folds: Meettife
+Pot size: 700
+Boasts: Seerekoep, 9h Tc
+Wins: Seerekoep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettife
+Small Blind: Meettife, chips: 100
+Big Blind: Seerekoep, chips: 200
+Folds: Meettife
+Pot size: 300
+Wins: Seerekoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seerekoep
+Small Blind: Seerekoep, chips: 100
+Big Blind: Meettife, chips: 100
+Flop: 5d 6s Kd
+Turn: 8d
+River: 7s
+Pot size: 200
+Showdown Reached
+Shows: Seerekoep, Th Qd
+Combination: Seerekoep, High Card ( Kd Qd Th 8d 7s )
+Shows: Meettife, Ac Kh
+Combination: Meettife, Pair ( Kh Kd Ac 8d 7s )
+Wins: Meettife, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Meettife
+Small Blind: Meettife, chips: 100
+Big Blind: Seerekoep, chips: 200
+Folds: Meettife
+Pot size: 300
+Wins: Seerekoep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Seerekoep
+Small Blind: Seerekoep, chips: 100
+Big Blind: Meettife, chips: 100
+Flop: 6s 6d As
+Turn: Js
+River: Kc
+Pot size: 200
+Showdown Reached
+Shows: Seerekoep, Ad 2c
+Combination: Seerekoep, Two Pair ( Ad As 6s 6d Kc )
+Shows: Meettife, 8d 5s
+Combination: Meettife, Pair ( 6s 6d As Kc Js )
+Wins: Seerekoep, chips: 200
+Quits: Meettife, chips: 0
+Ranking: Seerekoep, Place: 1, Score: 1000
+Reveal AI: Seerekoep, AI: Random
+Ranking: Meettife, Place: 2, Score: -1000
+Reveal AI: Meettife, AI: AIMyBot1
+
+Player Stats for Meettife, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Seerekoep, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

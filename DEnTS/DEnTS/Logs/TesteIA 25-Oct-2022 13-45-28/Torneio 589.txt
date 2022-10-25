@@ -1,0 +1,246 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wugu: Random
+Kiri: AIMyBot1
+
+Joins: Wugu, chips: 1000
+Joins: Kiri, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugu
+Small Blind: Wugu, chips: 100
+Big Blind: Kiri, chips: 200
+Folds: Wugu
+Pot size: 300
+Wins: Kiri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiri
+Small Blind: Kiri, chips: 100
+Big Blind: Wugu, chips: 200
+Folds: Kiri
+Pot size: 300
+Wins: Wugu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugu
+Small Blind: Wugu, chips: 100
+Big Blind: Kiri, chips: 200
+Calls: Wugu
+DEBUG MESSAGE: INVALID ACTION FROM Kiri (2 0)
+Folds: Kiri
+Pot size: 400
+Wins: Wugu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiri
+Small Blind: Kiri, chips: 100
+Big Blind: Wugu, chips: 200
+Folds: Kiri
+Pot size: 300
+Wins: Wugu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugu
+Small Blind: Wugu, chips: 100
+Big Blind: Kiri, chips: 200
+Folds: Wugu
+Pot size: 300
+Boasts: Wugu, 5c 6s
+Wins: Kiri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiri
+Small Blind: Kiri, chips: 100
+Big Blind: Wugu, chips: 200
+Folds: Kiri
+Pot size: 300
+Wins: Wugu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugu
+Small Blind: Wugu, chips: 100
+Big Blind: Kiri, chips: 200
+Raises: Wugu, chips: 300
+Folds: Kiri
+Pot size: 700
+Wins: Wugu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiri
+Small Blind: Kiri, chips: 100
+Big Blind: Wugu, chips: 200
+Folds: Kiri
+Pot size: 300
+Wins: Wugu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugu
+Small Blind: Wugu, chips: 100
+Big Blind: Kiri, chips: 200
+Raises: Wugu, chips: 300
+Folds: Kiri
+Pot size: 700
+Wins: Wugu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiri
+Small Blind: Kiri, chips: 100
+Big Blind: Wugu, chips: 200
+Folds: Kiri
+Pot size: 300
+Boasts: Wugu, 8s 6d
+Wins: Wugu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugu
+Small Blind: Wugu, chips: 100
+Big Blind: Kiri, chips: 100
+Flop: Js Ks 8c
+Turn: 5h
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Wugu, Kd 9d
+Combination: Wugu, Pair ( Kd Ks Js 9d 8c )
+Shows: Kiri, Jh 7s
+Combination: Kiri, Pair ( Jh Js Ks 8c 7s )
+Wins: Wugu, chips: 200
+Quits: Kiri, chips: 0
+Ranking: Wugu, Place: 1, Score: 1000
+Reveal AI: Wugu, AI: Random
+Ranking: Kiri, Place: 2, Score: -1000
+Reveal AI: Kiri, AI: AIMyBot1
+
+Player Stats for Kiri, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Wugu, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:08
+
+The game begins. The AI's of the players are: 
+Wugu: Random
+Kiri: AIMyBot1
+
+Joins: Wugu, chips: 1000
+Joins: Kiri, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugu
+Small Blind: Wugu, chips: 100
+Big Blind: Kiri, chips: 200
+Folds: Wugu
+Pot size: 300
+Wins: Kiri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiri
+Small Blind: Kiri, chips: 100
+Big Blind: Wugu, chips: 200
+Folds: Kiri
+Pot size: 300
+Wins: Wugu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugu
+Small Blind: Wugu, chips: 100
+Big Blind: Kiri, chips: 200
+Calls: Wugu
+DEBUG MESSAGE: INVALID ACTION FROM Kiri (2 0)
+Folds: Kiri
+Pot size: 400
+Wins: Wugu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiri
+Small Blind: Kiri, chips: 100
+Big Blind: Wugu, chips: 200
+Folds: Kiri
+Pot size: 300
+Wins: Wugu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugu
+Small Blind: Wugu, chips: 100
+Big Blind: Kiri, chips: 200
+Folds: Wugu
+Pot size: 300
+Boasts: Wugu, 5c 6s
+Wins: Kiri, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiri
+Small Blind: Kiri, chips: 100
+Big Blind: Wugu, chips: 200
+Folds: Kiri
+Pot size: 300
+Wins: Wugu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugu
+Small Blind: Wugu, chips: 100
+Big Blind: Kiri, chips: 200
+Raises: Wugu, chips: 300
+Folds: Kiri
+Pot size: 700
+Wins: Wugu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiri
+Small Blind: Kiri, chips: 100
+Big Blind: Wugu, chips: 200
+Folds: Kiri
+Pot size: 300
+Wins: Wugu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugu
+Small Blind: Wugu, chips: 100
+Big Blind: Kiri, chips: 200
+Raises: Wugu, chips: 300
+Folds: Kiri
+Pot size: 700
+Wins: Wugu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kiri
+Small Blind: Kiri, chips: 100
+Big Blind: Wugu, chips: 200
+Folds: Kiri
+Pot size: 300
+Boasts: Wugu, 8s 6d
+Wins: Wugu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugu
+Small Blind: Wugu, chips: 100
+Big Blind: Kiri, chips: 100
+Flop: Js Ks 8c
+Turn: 5h
+River: 4h
+Pot size: 200
+Showdown Reached
+Shows: Wugu, Kd 9d
+Combination: Wugu, Pair ( Kd Ks Js 9d 8c )
+Shows: Kiri, Jh 7s
+Combination: Kiri, Pair ( Jh Js Ks 8c 7s )
+Wins: Wugu, chips: 200
+Quits: Kiri, chips: 0
+Ranking: Wugu, Place: 1, Score: 1000
+Reveal AI: Wugu, AI: Random
+Ranking: Kiri, Place: 2, Score: -1000
+Reveal AI: Kiri, AI: AIMyBot1
+
+Player Stats for Kiri, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 2, showdown: 0, bluff: 2
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Wugu, AI: Random
+General: deals: 11, actions: 5, preflop actions: 5
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

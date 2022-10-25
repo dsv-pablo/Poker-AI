@@ -1,0 +1,194 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Voege: Random
+Rirlose: AIMyBot1
+
+Joins: Voege, chips: 1000
+Joins: Rirlose, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voege
+Small Blind: Voege, chips: 100
+Big Blind: Rirlose, chips: 200
+Calls: Voege
+DEBUG MESSAGE: INVALID ACTION FROM Rirlose (2 0)
+Folds: Rirlose
+Pot size: 400
+Wins: Voege, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rirlose
+Small Blind: Rirlose, chips: 100
+Big Blind: Voege, chips: 200
+Folds: Rirlose
+Pot size: 300
+Boasts: Voege, 6c As
+Wins: Voege, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voege
+Small Blind: Voege, chips: 100
+Big Blind: Rirlose, chips: 200
+Raises: Voege, chips: 300
+Folds: Rirlose
+Pot size: 700
+Wins: Voege, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rirlose
+Small Blind: Rirlose, chips: 100
+Big Blind: Voege, chips: 200
+Folds: Rirlose
+Pot size: 300
+Wins: Voege, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voege
+Small Blind: Voege, chips: 100
+Big Blind: Rirlose, chips: 200
+Calls: Voege
+DEBUG MESSAGE: INVALID ACTION FROM Rirlose (2 0)
+Folds: Rirlose
+Pot size: 400
+Boasts: Voege, 7d Th
+Wins: Voege, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rirlose
+Small Blind: Rirlose, chips: 100
+Big Blind: Voege, chips: 200
+Folds: Rirlose
+Pot size: 300
+Boasts: Voege, Jd 4s
+Wins: Voege, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voege
+Small Blind: Voege, chips: 100
+Big Blind: Rirlose, chips: 100
+Flop: Kh 5c 5h
+Turn: 9d
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Voege, 9h 2s
+Combination: Voege, Two Pair ( 9h 9d 5c 5h Kh )
+Shows: Rirlose, 6s 4c
+Combination: Rirlose, Pair ( 5c 5h Kh 9d 7h )
+Wins: Voege, chips: 200
+Quits: Rirlose, chips: 0
+Ranking: Voege, Place: 1, Score: 1000
+Reveal AI: Voege, AI: Random
+Ranking: Rirlose, Place: 2, Score: -1000
+Reveal AI: Rirlose, AI: AIMyBot1
+
+Player Stats for Rirlose, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Voege, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:14
+
+The game begins. The AI's of the players are: 
+Voege: Random
+Rirlose: AIMyBot1
+
+Joins: Voege, chips: 1000
+Joins: Rirlose, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voege
+Small Blind: Voege, chips: 100
+Big Blind: Rirlose, chips: 200
+Calls: Voege
+DEBUG MESSAGE: INVALID ACTION FROM Rirlose (2 0)
+Folds: Rirlose
+Pot size: 400
+Wins: Voege, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rirlose
+Small Blind: Rirlose, chips: 100
+Big Blind: Voege, chips: 200
+Folds: Rirlose
+Pot size: 300
+Boasts: Voege, 6c As
+Wins: Voege, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voege
+Small Blind: Voege, chips: 100
+Big Blind: Rirlose, chips: 200
+Raises: Voege, chips: 300
+Folds: Rirlose
+Pot size: 700
+Wins: Voege, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rirlose
+Small Blind: Rirlose, chips: 100
+Big Blind: Voege, chips: 200
+Folds: Rirlose
+Pot size: 300
+Wins: Voege, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voege
+Small Blind: Voege, chips: 100
+Big Blind: Rirlose, chips: 200
+Calls: Voege
+DEBUG MESSAGE: INVALID ACTION FROM Rirlose (2 0)
+Folds: Rirlose
+Pot size: 400
+Boasts: Voege, 7d Th
+Wins: Voege, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rirlose
+Small Blind: Rirlose, chips: 100
+Big Blind: Voege, chips: 200
+Folds: Rirlose
+Pot size: 300
+Boasts: Voege, Jd 4s
+Wins: Voege, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voege
+Small Blind: Voege, chips: 100
+Big Blind: Rirlose, chips: 100
+Flop: Kh 5c 5h
+Turn: 9d
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Voege, 9h 2s
+Combination: Voege, Two Pair ( 9h 9d 5c 5h Kh )
+Shows: Rirlose, 6s 4c
+Combination: Rirlose, Pair ( 5c 5h Kh 9d 7h )
+Wins: Voege, chips: 200
+Quits: Rirlose, chips: 0
+Ranking: Voege, Place: 1, Score: 1000
+Reveal AI: Voege, AI: Random
+Ranking: Rirlose, Place: 2, Score: -1000
+Reveal AI: Rirlose, AI: AIMyBot1
+
+Player Stats for Rirlose, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Voege, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2600, lost: 1600, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

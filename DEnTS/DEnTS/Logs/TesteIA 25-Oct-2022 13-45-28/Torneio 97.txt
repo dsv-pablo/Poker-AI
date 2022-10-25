@@ -1,0 +1,350 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Lugin: AIMyBot1
+Titame: Random
+
+Joins: Lugin, chips: 1000
+Joins: Titame, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Folds: Lugin
+Pot size: 300
+Boasts: Titame, Jh 5h
+Wins: Titame, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titame
+Small Blind: Titame, chips: 100
+Big Blind: Lugin, chips: 200
+Folds: Titame
+Pot size: 300
+Wins: Lugin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Folds: Lugin
+Pot size: 300
+Boasts: Titame, Jh 2c
+Wins: Titame, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titame
+Small Blind: Titame, chips: 100
+Big Blind: Lugin, chips: 200
+Folds: Titame
+Pot size: 300
+Boasts: Titame, 9h 4h
+Wins: Lugin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Folds: Lugin
+Pot size: 300
+Wins: Titame, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titame
+Small Blind: Titame, chips: 100
+Big Blind: Lugin, chips: 200
+Raises: Titame, chips: 300
+Folds: Lugin
+Pot size: 700
+Boasts: Titame, Ts Jh
+Wins: Titame, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Folds: Lugin
+Pot size: 300
+Wins: Titame, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titame
+Small Blind: Titame, chips: 100
+Big Blind: Lugin, chips: 200
+Calls: Titame
+DEBUG MESSAGE: INVALID ACTION FROM Lugin (2 0)
+Folds: Lugin
+Pot size: 400
+Wins: Titame, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Folds: Lugin
+Pot size: 300
+Boasts: Titame, Ts 4c
+Wins: Titame, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titame
+Small Blind: Titame, chips: 100
+Big Blind: Lugin, chips: 200
+Folds: Titame
+Pot size: 300
+Boasts: Titame, Kh 3s
+Wins: Lugin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Folds: Lugin
+Pot size: 300
+Boasts: Titame, 6d 7s
+Wins: Titame, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titame
+Small Blind: Titame, chips: 100
+Big Blind: Lugin, chips: 200
+Folds: Titame
+Pot size: 300
+Boasts: Titame, 2h 8c
+Wins: Lugin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Folds: Lugin
+Pot size: 300
+Boasts: Titame, 6s 4d
+Wins: Titame, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titame
+Small Blind: Titame, chips: 100
+Big Blind: Lugin, chips: 200
+Folds: Titame
+Pot size: 300
+Boasts: Titame, 7s Ad
+Wins: Lugin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Folds: Lugin
+Pot size: 300
+Wins: Titame, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titame
+Small Blind: Titame, chips: 100
+Big Blind: Lugin, chips: 200
+Calls: Titame
+DEBUG MESSAGE: INVALID ACTION FROM Lugin (2 0)
+Folds: Lugin
+Pot size: 400
+Boasts: Titame, 2s 2h
+Wins: Titame, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Flop: 2c 4d 7d
+Turn: 8d
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Lugin, Js Qd
+Combination: Lugin, Pair ( 2c 2s Qd Js 8d )
+Shows: Titame, Ts Kc
+Combination: Titame, Pair ( 2c 2s Kc Ts 8d )
+Wins: Titame, chips: 300
+Quits: Lugin, chips: 0
+Ranking: Titame, Place: 1, Score: 1000
+Reveal AI: Titame, AI: Random
+Ranking: Lugin, Place: 2, Score: -1000
+Reveal AI: Lugin, AI: AIMyBot1
+
+Player Stats for Lugin, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 5, showdown: 0, bluff: 5
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Titame, AI: Random
+General: deals: 17, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:36
+
+The game begins. The AI's of the players are: 
+Lugin: AIMyBot1
+Titame: Random
+
+Joins: Lugin, chips: 1000
+Joins: Titame, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Folds: Lugin
+Pot size: 300
+Boasts: Titame, Jh 5h
+Wins: Titame, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titame
+Small Blind: Titame, chips: 100
+Big Blind: Lugin, chips: 200
+Folds: Titame
+Pot size: 300
+Wins: Lugin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Folds: Lugin
+Pot size: 300
+Boasts: Titame, Jh 2c
+Wins: Titame, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titame
+Small Blind: Titame, chips: 100
+Big Blind: Lugin, chips: 200
+Folds: Titame
+Pot size: 300
+Boasts: Titame, 9h 4h
+Wins: Lugin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Folds: Lugin
+Pot size: 300
+Wins: Titame, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titame
+Small Blind: Titame, chips: 100
+Big Blind: Lugin, chips: 200
+Raises: Titame, chips: 300
+Folds: Lugin
+Pot size: 700
+Boasts: Titame, Ts Jh
+Wins: Titame, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Folds: Lugin
+Pot size: 300
+Wins: Titame, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titame
+Small Blind: Titame, chips: 100
+Big Blind: Lugin, chips: 200
+Calls: Titame
+DEBUG MESSAGE: INVALID ACTION FROM Lugin (2 0)
+Folds: Lugin
+Pot size: 400
+Wins: Titame, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Folds: Lugin
+Pot size: 300
+Boasts: Titame, Ts 4c
+Wins: Titame, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titame
+Small Blind: Titame, chips: 100
+Big Blind: Lugin, chips: 200
+Folds: Titame
+Pot size: 300
+Boasts: Titame, Kh 3s
+Wins: Lugin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Folds: Lugin
+Pot size: 300
+Boasts: Titame, 6d 7s
+Wins: Titame, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titame
+Small Blind: Titame, chips: 100
+Big Blind: Lugin, chips: 200
+Folds: Titame
+Pot size: 300
+Boasts: Titame, 2h 8c
+Wins: Lugin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Folds: Lugin
+Pot size: 300
+Boasts: Titame, 6s 4d
+Wins: Titame, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titame
+Small Blind: Titame, chips: 100
+Big Blind: Lugin, chips: 200
+Folds: Titame
+Pot size: 300
+Boasts: Titame, 7s Ad
+Wins: Lugin, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Folds: Lugin
+Pot size: 300
+Wins: Titame, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Titame
+Small Blind: Titame, chips: 100
+Big Blind: Lugin, chips: 200
+Calls: Titame
+DEBUG MESSAGE: INVALID ACTION FROM Lugin (2 0)
+Folds: Lugin
+Pot size: 400
+Boasts: Titame, 2s 2h
+Wins: Titame, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lugin
+Small Blind: Lugin, chips: 100
+Big Blind: Titame, chips: 200
+Flop: 2c 4d 7d
+Turn: 8d
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Lugin, Js Qd
+Combination: Lugin, Pair ( 2c 2s Qd Js 8d )
+Shows: Titame, Ts Kc
+Combination: Titame, Pair ( 2c 2s Kc Ts 8d )
+Wins: Titame, chips: 300
+Quits: Lugin, chips: 0
+Ranking: Titame, Place: 1, Score: 1000
+Reveal AI: Titame, AI: Random
+Ranking: Lugin, Place: 2, Score: -1000
+Reveal AI: Lugin, AI: AIMyBot1
+
+Player Stats for Lugin, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 5, showdown: 0, bluff: 5
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Titame, AI: Random
+General: deals: 17, actions: 8, preflop actions: 8
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0.0588235, 3Bet: 0.0588235
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

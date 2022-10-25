@@ -1,0 +1,194 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Peegeerlee: Random
+Fittoeme: AIMyBot1
+
+Joins: Peegeerlee, chips: 1000
+Joins: Fittoeme, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoeme
+Small Blind: Fittoeme, chips: 100
+Big Blind: Peegeerlee, chips: 200
+Folds: Fittoeme
+Pot size: 300
+Wins: Peegeerlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peegeerlee
+Small Blind: Peegeerlee, chips: 100
+Big Blind: Fittoeme, chips: 200
+Raises: Peegeerlee, chips: 300
+Folds: Fittoeme
+Pot size: 700
+Wins: Peegeerlee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoeme
+Small Blind: Fittoeme, chips: 100
+Big Blind: Peegeerlee, chips: 200
+Folds: Fittoeme
+Pot size: 300
+Boasts: Peegeerlee, 7d 7h
+Wins: Peegeerlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peegeerlee
+Small Blind: Peegeerlee, chips: 100
+Big Blind: Fittoeme, chips: 200
+Calls: Peegeerlee
+DEBUG MESSAGE: INVALID ACTION FROM Fittoeme (2 0)
+Folds: Fittoeme
+Pot size: 400
+Wins: Peegeerlee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoeme
+Small Blind: Fittoeme, chips: 100
+Big Blind: Peegeerlee, chips: 200
+Folds: Fittoeme
+Pot size: 300
+Boasts: Peegeerlee, Kd Js
+Wins: Peegeerlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peegeerlee
+Small Blind: Peegeerlee, chips: 100
+Big Blind: Fittoeme, chips: 200
+Calls: Peegeerlee
+DEBUG MESSAGE: INVALID ACTION FROM Fittoeme (2 0)
+Folds: Fittoeme
+Pot size: 400
+Boasts: Peegeerlee, 4c 7d
+Wins: Peegeerlee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoeme
+Small Blind: Fittoeme, chips: 100
+Big Blind: Peegeerlee, chips: 200
+Flop: Tc 6d 5d
+Turn: 8h
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Peegeerlee, 5c Ac
+Combination: Peegeerlee, Pair ( 5c 5d Ac Qs Tc )
+Shows: Fittoeme, 9d 2c
+Combination: Fittoeme, High Card ( Qs Tc 9d 8h 6d )
+Wins: Peegeerlee, chips: 300
+Quits: Fittoeme, chips: 0
+Ranking: Peegeerlee, Place: 1, Score: 1000
+Reveal AI: Peegeerlee, AI: Random
+Ranking: Fittoeme, Place: 2, Score: -1000
+Reveal AI: Fittoeme, AI: AIMyBot1
+
+Player Stats for Fittoeme, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Peegeerlee, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:50
+
+The game begins. The AI's of the players are: 
+Peegeerlee: Random
+Fittoeme: AIMyBot1
+
+Joins: Peegeerlee, chips: 1000
+Joins: Fittoeme, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoeme
+Small Blind: Fittoeme, chips: 100
+Big Blind: Peegeerlee, chips: 200
+Folds: Fittoeme
+Pot size: 300
+Wins: Peegeerlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peegeerlee
+Small Blind: Peegeerlee, chips: 100
+Big Blind: Fittoeme, chips: 200
+Raises: Peegeerlee, chips: 300
+Folds: Fittoeme
+Pot size: 700
+Wins: Peegeerlee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoeme
+Small Blind: Fittoeme, chips: 100
+Big Blind: Peegeerlee, chips: 200
+Folds: Fittoeme
+Pot size: 300
+Boasts: Peegeerlee, 7d 7h
+Wins: Peegeerlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peegeerlee
+Small Blind: Peegeerlee, chips: 100
+Big Blind: Fittoeme, chips: 200
+Calls: Peegeerlee
+DEBUG MESSAGE: INVALID ACTION FROM Fittoeme (2 0)
+Folds: Fittoeme
+Pot size: 400
+Wins: Peegeerlee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoeme
+Small Blind: Fittoeme, chips: 100
+Big Blind: Peegeerlee, chips: 200
+Folds: Fittoeme
+Pot size: 300
+Boasts: Peegeerlee, Kd Js
+Wins: Peegeerlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Peegeerlee
+Small Blind: Peegeerlee, chips: 100
+Big Blind: Fittoeme, chips: 200
+Calls: Peegeerlee
+DEBUG MESSAGE: INVALID ACTION FROM Fittoeme (2 0)
+Folds: Fittoeme
+Pot size: 400
+Boasts: Peegeerlee, 4c 7d
+Wins: Peegeerlee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fittoeme
+Small Blind: Fittoeme, chips: 100
+Big Blind: Peegeerlee, chips: 200
+Flop: Tc 6d 5d
+Turn: 8h
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Peegeerlee, 5c Ac
+Combination: Peegeerlee, Pair ( 5c 5d Ac Qs Tc )
+Shows: Fittoeme, 9d 2c
+Combination: Fittoeme, High Card ( Qs Tc 9d 8h 6d )
+Wins: Peegeerlee, chips: 300
+Quits: Fittoeme, chips: 0
+Ranking: Peegeerlee, Place: 1, Score: 1000
+Reveal AI: Peegeerlee, AI: Random
+Ranking: Fittoeme, Place: 2, Score: -1000
+Reveal AI: Fittoeme, AI: AIMyBot1
+
+Player Stats for Fittoeme, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Peegeerlee, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2700, lost: 1700, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

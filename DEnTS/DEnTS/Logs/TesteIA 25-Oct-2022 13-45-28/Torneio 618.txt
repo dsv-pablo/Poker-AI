@@ -1,0 +1,360 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pirlo: Random
+Hoedeenus: AIMyBot1
+
+Joins: Pirlo, chips: 1000
+Joins: Hoedeenus, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedeenus
+Small Blind: Hoedeenus, chips: 100
+Big Blind: Pirlo, chips: 200
+Folds: Hoedeenus
+Pot size: 300
+Boasts: Pirlo, 8c Th
+Wins: Pirlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pirlo
+Small Blind: Pirlo, chips: 100
+Big Blind: Hoedeenus, chips: 200
+Calls: Pirlo
+DEBUG MESSAGE: INVALID ACTION FROM Hoedeenus (2 0)
+Folds: Hoedeenus
+Pot size: 400
+Boasts: Pirlo, 3h 4s
+Wins: Pirlo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedeenus
+Small Blind: Hoedeenus, chips: 100
+Big Blind: Pirlo, chips: 200
+Folds: Hoedeenus
+Pot size: 300
+Wins: Pirlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pirlo
+Small Blind: Pirlo, chips: 100
+Big Blind: Hoedeenus, chips: 200
+Calls: Pirlo
+DEBUG MESSAGE: INVALID ACTION FROM Hoedeenus (2 0)
+Folds: Hoedeenus
+Pot size: 400
+Wins: Pirlo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedeenus
+Small Blind: Hoedeenus, chips: 100
+Big Blind: Pirlo, chips: 200
+Folds: Hoedeenus
+Pot size: 300
+Wins: Pirlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pirlo
+Small Blind: Pirlo, chips: 100
+Big Blind: Hoedeenus, chips: 200
+Raises: Pirlo, chips: 300
+Calls: Hoedeenus
+Flop: Kd Qs 7c
+Turn: 4h
+River: 4d
+Pot size: 800
+Showdown Reached
+Shows: Pirlo, 3d 3c
+Combination: Pirlo, Two Pair ( 4h 4d 3d 3c Kd )
+Shows: Hoedeenus, 4c As
+Combination: Hoedeenus, Three Of A Kind ( 4c 4h 4d As Kd )
+Wins: Pirlo, chips: 200
+Wins: Hoedeenus, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedeenus
+Small Blind: Hoedeenus, chips: 100
+Big Blind: Pirlo, chips: 200
+Folds: Hoedeenus
+Pot size: 300
+Wins: Pirlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pirlo
+Small Blind: Pirlo, chips: 100
+Big Blind: Hoedeenus, chips: 200
+Folds: Pirlo
+Pot size: 300
+Wins: Hoedeenus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedeenus
+Small Blind: Hoedeenus, chips: 100
+Big Blind: Pirlo, chips: 200
+Folds: Hoedeenus
+Pot size: 300
+Boasts: Pirlo, 8s Jd
+Wins: Pirlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pirlo
+Small Blind: Pirlo, chips: 100
+Big Blind: Hoedeenus, chips: 200
+Raises: Pirlo, chips: 1300
+Folds: Hoedeenus
+Pot size: 1700
+Wins: Pirlo, chips: 1700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedeenus
+Small Blind: Hoedeenus, chips: 100
+Big Blind: Pirlo, chips: 200
+Folds: Hoedeenus
+Pot size: 300
+Boasts: Pirlo, 3d 2d
+Wins: Pirlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pirlo
+Small Blind: Pirlo, chips: 100
+Big Blind: Hoedeenus, chips: 200
+Flop: 5d Qh 3h
+Turn: 3s
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Pirlo, Jc 9d
+Combination: Pirlo, Pair ( 3h 3s Qh Jc 9d )
+Shows: Hoedeenus, 2s Kc
+Combination: Hoedeenus, Pair ( 3h 3s Kc Qh 7h )
+Wins: Hoedeenus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedeenus
+Small Blind: Hoedeenus, chips: 100
+Big Blind: Pirlo, chips: 200
+Folds: Hoedeenus
+Pot size: 300
+Boasts: Pirlo, Ts Jc
+Wins: Pirlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pirlo
+Small Blind: Pirlo, chips: 100
+Big Blind: Hoedeenus, chips: 200
+Flop: Tc Qs Jh
+Turn: 9s
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Pirlo, 9h 6s
+Combination: Pirlo, Pair ( 9h 9s Qs Jh Tc )
+Shows: Hoedeenus, As 7d
+Combination: Hoedeenus, High Card ( As Qs Jh Tc 9s )
+Wins: Pirlo, chips: 200
+Wins: Hoedeenus, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedeenus
+Small Blind: Hoedeenus, chips: 100
+Big Blind: Pirlo, chips: 200
+Flop: As 9c 2c
+Turn: 7d
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Pirlo, 6s 9h
+Combination: Pirlo, Two Pair ( As Ac 9h 9c 7d )
+Shows: Hoedeenus, 8h Ts
+Combination: Hoedeenus, Pair ( As Ac Ts 9c 8h )
+Wins: Pirlo, chips: 300
+Quits: Hoedeenus, chips: 0
+Ranking: Pirlo, Place: 1, Score: 1000
+Reveal AI: Pirlo, AI: Random
+Ranking: Hoedeenus, Place: 2, Score: -1000
+Reveal AI: Hoedeenus, AI: AIMyBot1
+
+Player Stats for Hoedeenus, AI: AIMyBot1
+General: deals: 15, actions: 11, preflop actions: 11
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 1300, lost: 2500, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.0666667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Pirlo, AI: Random
+General: deals: 15, actions: 5, preflop actions: 5
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 13, showdown: 3, bluff: 10
+Chips: won: 5300, lost: 4300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.266667, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:10
+
+The game begins. The AI's of the players are: 
+Pirlo: Random
+Hoedeenus: AIMyBot1
+
+Joins: Pirlo, chips: 1000
+Joins: Hoedeenus, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedeenus
+Small Blind: Hoedeenus, chips: 100
+Big Blind: Pirlo, chips: 200
+Folds: Hoedeenus
+Pot size: 300
+Boasts: Pirlo, 8c Th
+Wins: Pirlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pirlo
+Small Blind: Pirlo, chips: 100
+Big Blind: Hoedeenus, chips: 200
+Calls: Pirlo
+DEBUG MESSAGE: INVALID ACTION FROM Hoedeenus (2 0)
+Folds: Hoedeenus
+Pot size: 400
+Boasts: Pirlo, 3h 4s
+Wins: Pirlo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedeenus
+Small Blind: Hoedeenus, chips: 100
+Big Blind: Pirlo, chips: 200
+Folds: Hoedeenus
+Pot size: 300
+Wins: Pirlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pirlo
+Small Blind: Pirlo, chips: 100
+Big Blind: Hoedeenus, chips: 200
+Calls: Pirlo
+DEBUG MESSAGE: INVALID ACTION FROM Hoedeenus (2 0)
+Folds: Hoedeenus
+Pot size: 400
+Wins: Pirlo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedeenus
+Small Blind: Hoedeenus, chips: 100
+Big Blind: Pirlo, chips: 200
+Folds: Hoedeenus
+Pot size: 300
+Wins: Pirlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pirlo
+Small Blind: Pirlo, chips: 100
+Big Blind: Hoedeenus, chips: 200
+Raises: Pirlo, chips: 300
+Calls: Hoedeenus
+Flop: Kd Qs 7c
+Turn: 4h
+River: 4d
+Pot size: 800
+Showdown Reached
+Shows: Pirlo, 3d 3c
+Combination: Pirlo, Two Pair ( 4h 4d 3d 3c Kd )
+Shows: Hoedeenus, 4c As
+Combination: Hoedeenus, Three Of A Kind ( 4c 4h 4d As Kd )
+Wins: Pirlo, chips: 200
+Wins: Hoedeenus, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedeenus
+Small Blind: Hoedeenus, chips: 100
+Big Blind: Pirlo, chips: 200
+Folds: Hoedeenus
+Pot size: 300
+Wins: Pirlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pirlo
+Small Blind: Pirlo, chips: 100
+Big Blind: Hoedeenus, chips: 200
+Folds: Pirlo
+Pot size: 300
+Wins: Hoedeenus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedeenus
+Small Blind: Hoedeenus, chips: 100
+Big Blind: Pirlo, chips: 200
+Folds: Hoedeenus
+Pot size: 300
+Boasts: Pirlo, 8s Jd
+Wins: Pirlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pirlo
+Small Blind: Pirlo, chips: 100
+Big Blind: Hoedeenus, chips: 200
+Raises: Pirlo, chips: 1300
+Folds: Hoedeenus
+Pot size: 1700
+Wins: Pirlo, chips: 1700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedeenus
+Small Blind: Hoedeenus, chips: 100
+Big Blind: Pirlo, chips: 200
+Folds: Hoedeenus
+Pot size: 300
+Boasts: Pirlo, 3d 2d
+Wins: Pirlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pirlo
+Small Blind: Pirlo, chips: 100
+Big Blind: Hoedeenus, chips: 200
+Flop: 5d Qh 3h
+Turn: 3s
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Pirlo, Jc 9d
+Combination: Pirlo, Pair ( 3h 3s Qh Jc 9d )
+Shows: Hoedeenus, 2s Kc
+Combination: Hoedeenus, Pair ( 3h 3s Kc Qh 7h )
+Wins: Hoedeenus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedeenus
+Small Blind: Hoedeenus, chips: 100
+Big Blind: Pirlo, chips: 200
+Folds: Hoedeenus
+Pot size: 300
+Boasts: Pirlo, Ts Jc
+Wins: Pirlo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Pirlo
+Small Blind: Pirlo, chips: 100
+Big Blind: Hoedeenus, chips: 200
+Flop: Tc Qs Jh
+Turn: 9s
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Pirlo, 9h 6s
+Combination: Pirlo, Pair ( 9h 9s Qs Jh Tc )
+Shows: Hoedeenus, As 7d
+Combination: Hoedeenus, High Card ( As Qs Jh Tc 9s )
+Wins: Pirlo, chips: 200
+Wins: Hoedeenus, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hoedeenus
+Small Blind: Hoedeenus, chips: 100
+Big Blind: Pirlo, chips: 200
+Flop: As 9c 2c
+Turn: 7d
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Pirlo, 6s 9h
+Combination: Pirlo, Two Pair ( As Ac 9h 9c 7d )
+Shows: Hoedeenus, 8h Ts
+Combination: Hoedeenus, Pair ( As Ac Ts 9c 8h )
+Wins: Pirlo, chips: 300
+Quits: Hoedeenus, chips: 0
+Ranking: Pirlo, Place: 1, Score: 1000
+Reveal AI: Pirlo, AI: Random
+Ranking: Hoedeenus, Place: 2, Score: -1000
+Reveal AI: Hoedeenus, AI: AIMyBot1
+
+Player Stats for Hoedeenus, AI: AIMyBot1
+General: deals: 15, actions: 11, preflop actions: 11
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 4, showdown: 3, bluff: 1
+Chips: won: 1300, lost: 2500, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0.0666667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Player Stats for Pirlo, AI: Random
+General: deals: 15, actions: 5, preflop actions: 5
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 13, showdown: 3, bluff: 10
+Chips: won: 5300, lost: 4300, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.266667, PFR: 0.133333, 3Bet: 0.133333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

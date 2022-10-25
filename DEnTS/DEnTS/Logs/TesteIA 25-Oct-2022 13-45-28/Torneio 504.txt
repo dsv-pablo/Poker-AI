@@ -1,0 +1,284 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Toele: AIMyBot1
+Verlee: Random
+
+Joins: Toele, chips: 1000
+Joins: Verlee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Verlee
+Small Blind: Verlee, chips: 100
+Big Blind: Toele, chips: 200
+Folds: Verlee
+Pot size: 300
+Wins: Toele, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toele
+Small Blind: Toele, chips: 100
+Big Blind: Verlee, chips: 200
+Folds: Toele
+Pot size: 300
+Wins: Verlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Verlee
+Small Blind: Verlee, chips: 100
+Big Blind: Toele, chips: 200
+Folds: Verlee
+Pot size: 300
+Boasts: Verlee, 7d 9h
+Wins: Toele, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toele
+Small Blind: Toele, chips: 100
+Big Blind: Verlee, chips: 200
+Folds: Toele
+Pot size: 300
+Wins: Verlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Verlee
+Small Blind: Verlee, chips: 100
+Big Blind: Toele, chips: 200
+Folds: Verlee
+Pot size: 300
+Wins: Toele, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toele
+Small Blind: Toele, chips: 100
+Big Blind: Verlee, chips: 200
+Folds: Toele
+Pot size: 300
+Boasts: Verlee, Ts 6c
+Wins: Verlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Verlee
+Small Blind: Verlee, chips: 100
+Big Blind: Toele, chips: 200
+Calls: Verlee
+DEBUG MESSAGE: INVALID ACTION FROM Toele (2 0)
+Folds: Toele
+Pot size: 400
+Boasts: Verlee, 5c 7h
+Wins: Verlee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toele
+Small Blind: Toele, chips: 100
+Big Blind: Verlee, chips: 200
+Folds: Toele
+Pot size: 300
+Wins: Verlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Verlee
+Small Blind: Verlee, chips: 100
+Big Blind: Toele, chips: 200
+Calls: Verlee
+DEBUG MESSAGE: INVALID ACTION FROM Toele (2 0)
+Folds: Toele
+Pot size: 400
+Wins: Verlee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toele
+Small Blind: Toele, chips: 100
+Big Blind: Verlee, chips: 200
+Folds: Toele
+Pot size: 300
+Boasts: Verlee, Qc 9c
+Wins: Verlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Verlee
+Small Blind: Verlee, chips: 100
+Big Blind: Toele, chips: 200
+Calls: Verlee
+DEBUG MESSAGE: INVALID ACTION FROM Toele (2 0)
+Folds: Toele
+Pot size: 400
+Boasts: Verlee, Ac 7h
+Wins: Verlee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toele
+Small Blind: Toele, chips: 100
+Big Blind: Verlee, chips: 200
+Folds: Toele
+Pot size: 300
+Wins: Verlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Verlee
+Small Blind: Verlee, chips: 100
+Big Blind: Toele, chips: 100
+Flop: 5h Ad Ks
+Turn: 4c
+River: 9s
+Pot size: 200
+Showdown Reached
+Shows: Toele, Qh Jh
+Combination: Toele, High Card ( Ad Ks Qh Jh 9s )
+Shows: Verlee, 4s 7d
+Combination: Verlee, Pair ( 4s 4c Ad Ks 9s )
+Wins: Verlee, chips: 200
+Quits: Toele, chips: 0
+Ranking: Verlee, Place: 1, Score: 1000
+Reveal AI: Verlee, AI: Random
+Ranking: Toele, Place: 2, Score: -1000
+Reveal AI: Toele, AI: AIMyBot1
+
+Player Stats for Toele, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 3, showdown: 0, bluff: 3
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Verlee, AI: Random
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:03
+
+The game begins. The AI's of the players are: 
+Toele: AIMyBot1
+Verlee: Random
+
+Joins: Toele, chips: 1000
+Joins: Verlee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Verlee
+Small Blind: Verlee, chips: 100
+Big Blind: Toele, chips: 200
+Folds: Verlee
+Pot size: 300
+Wins: Toele, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toele
+Small Blind: Toele, chips: 100
+Big Blind: Verlee, chips: 200
+Folds: Toele
+Pot size: 300
+Wins: Verlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Verlee
+Small Blind: Verlee, chips: 100
+Big Blind: Toele, chips: 200
+Folds: Verlee
+Pot size: 300
+Boasts: Verlee, 7d 9h
+Wins: Toele, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toele
+Small Blind: Toele, chips: 100
+Big Blind: Verlee, chips: 200
+Folds: Toele
+Pot size: 300
+Wins: Verlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Verlee
+Small Blind: Verlee, chips: 100
+Big Blind: Toele, chips: 200
+Folds: Verlee
+Pot size: 300
+Wins: Toele, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toele
+Small Blind: Toele, chips: 100
+Big Blind: Verlee, chips: 200
+Folds: Toele
+Pot size: 300
+Boasts: Verlee, Ts 6c
+Wins: Verlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Verlee
+Small Blind: Verlee, chips: 100
+Big Blind: Toele, chips: 200
+Calls: Verlee
+DEBUG MESSAGE: INVALID ACTION FROM Toele (2 0)
+Folds: Toele
+Pot size: 400
+Boasts: Verlee, 5c 7h
+Wins: Verlee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toele
+Small Blind: Toele, chips: 100
+Big Blind: Verlee, chips: 200
+Folds: Toele
+Pot size: 300
+Wins: Verlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Verlee
+Small Blind: Verlee, chips: 100
+Big Blind: Toele, chips: 200
+Calls: Verlee
+DEBUG MESSAGE: INVALID ACTION FROM Toele (2 0)
+Folds: Toele
+Pot size: 400
+Wins: Verlee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toele
+Small Blind: Toele, chips: 100
+Big Blind: Verlee, chips: 200
+Folds: Toele
+Pot size: 300
+Boasts: Verlee, Qc 9c
+Wins: Verlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Verlee
+Small Blind: Verlee, chips: 100
+Big Blind: Toele, chips: 200
+Calls: Verlee
+DEBUG MESSAGE: INVALID ACTION FROM Toele (2 0)
+Folds: Toele
+Pot size: 400
+Boasts: Verlee, Ac 7h
+Wins: Verlee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Toele
+Small Blind: Toele, chips: 100
+Big Blind: Verlee, chips: 200
+Folds: Toele
+Pot size: 300
+Wins: Verlee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Verlee
+Small Blind: Verlee, chips: 100
+Big Blind: Toele, chips: 100
+Flop: 5h Ad Ks
+Turn: 4c
+River: 9s
+Pot size: 200
+Showdown Reached
+Shows: Toele, Qh Jh
+Combination: Toele, High Card ( Ad Ks Qh Jh 9s )
+Shows: Verlee, 4s 7d
+Combination: Verlee, Pair ( 4s 4c Ad Ks 9s )
+Wins: Verlee, chips: 200
+Quits: Toele, chips: 0
+Ranking: Verlee, Place: 1, Score: 1000
+Reveal AI: Verlee, AI: Random
+Ranking: Toele, Place: 2, Score: -1000
+Reveal AI: Toele, AI: AIMyBot1
+
+Player Stats for Toele, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 3, showdown: 0, bluff: 3
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Verlee, AI: Random
+General: deals: 13, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

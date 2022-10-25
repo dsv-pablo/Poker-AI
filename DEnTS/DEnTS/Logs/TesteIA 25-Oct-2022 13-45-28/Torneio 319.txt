@@ -1,0 +1,222 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wechoe: Random
+Feettoepep: AIMyBot1
+
+Joins: Wechoe, chips: 1000
+Joins: Feettoepep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wechoe
+Small Blind: Wechoe, chips: 100
+Big Blind: Feettoepep, chips: 200
+Raises: Wechoe, chips: 300
+Folds: Feettoepep
+Pot size: 700
+Boasts: Wechoe, 5c 3d
+Wins: Wechoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feettoepep
+Small Blind: Feettoepep, chips: 100
+Big Blind: Wechoe, chips: 200
+Folds: Feettoepep
+Pot size: 300
+Wins: Wechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wechoe
+Small Blind: Wechoe, chips: 100
+Big Blind: Feettoepep, chips: 200
+Folds: Wechoe
+Pot size: 300
+Wins: Feettoepep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feettoepep
+Small Blind: Feettoepep, chips: 100
+Big Blind: Wechoe, chips: 200
+Folds: Feettoepep
+Pot size: 300
+Boasts: Wechoe, Td 6c
+Wins: Wechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wechoe
+Small Blind: Wechoe, chips: 100
+Big Blind: Feettoepep, chips: 200
+Raises: Wechoe, chips: 1100
+Folds: Feettoepep
+Pot size: 1500
+Wins: Wechoe, chips: 1500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feettoepep
+Small Blind: Feettoepep, chips: 100
+Big Blind: Wechoe, chips: 200
+Folds: Feettoepep
+Pot size: 300
+Wins: Wechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wechoe
+Small Blind: Wechoe, chips: 100
+Big Blind: Feettoepep, chips: 200
+Calls: Wechoe
+DEBUG MESSAGE: INVALID ACTION FROM Feettoepep (2 0)
+Folds: Feettoepep
+Pot size: 400
+Boasts: Wechoe, 7s Ks
+Wins: Wechoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feettoepep
+Small Blind: Feettoepep, chips: 100
+Big Blind: Wechoe, chips: 200
+Folds: Feettoepep
+Pot size: 300
+Boasts: Wechoe, 5s Ts
+Wins: Wechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wechoe
+Small Blind: Wechoe, chips: 100
+Big Blind: Feettoepep, chips: 100
+Flop: Qd Td Kh
+Turn: 2d
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Wechoe, Qh 8s
+Combination: Wechoe, Pair ( Qh Qd Kh Td 9h )
+Shows: Feettoepep, Tc 5c
+Combination: Feettoepep, Pair ( Tc Td Kh Qd 9h )
+Wins: Wechoe, chips: 200
+Quits: Feettoepep, chips: 0
+Ranking: Wechoe, Place: 1, Score: 1000
+Reveal AI: Wechoe, AI: Random
+Ranking: Feettoepep, Place: 2, Score: -1000
+Reveal AI: Feettoepep, AI: AIMyBot1
+
+Player Stats for Feettoepep, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Wechoe, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:50
+
+The game begins. The AI's of the players are: 
+Wechoe: Random
+Feettoepep: AIMyBot1
+
+Joins: Wechoe, chips: 1000
+Joins: Feettoepep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wechoe
+Small Blind: Wechoe, chips: 100
+Big Blind: Feettoepep, chips: 200
+Raises: Wechoe, chips: 300
+Folds: Feettoepep
+Pot size: 700
+Boasts: Wechoe, 5c 3d
+Wins: Wechoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feettoepep
+Small Blind: Feettoepep, chips: 100
+Big Blind: Wechoe, chips: 200
+Folds: Feettoepep
+Pot size: 300
+Wins: Wechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wechoe
+Small Blind: Wechoe, chips: 100
+Big Blind: Feettoepep, chips: 200
+Folds: Wechoe
+Pot size: 300
+Wins: Feettoepep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feettoepep
+Small Blind: Feettoepep, chips: 100
+Big Blind: Wechoe, chips: 200
+Folds: Feettoepep
+Pot size: 300
+Boasts: Wechoe, Td 6c
+Wins: Wechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wechoe
+Small Blind: Wechoe, chips: 100
+Big Blind: Feettoepep, chips: 200
+Raises: Wechoe, chips: 1100
+Folds: Feettoepep
+Pot size: 1500
+Wins: Wechoe, chips: 1500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feettoepep
+Small Blind: Feettoepep, chips: 100
+Big Blind: Wechoe, chips: 200
+Folds: Feettoepep
+Pot size: 300
+Wins: Wechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wechoe
+Small Blind: Wechoe, chips: 100
+Big Blind: Feettoepep, chips: 200
+Calls: Wechoe
+DEBUG MESSAGE: INVALID ACTION FROM Feettoepep (2 0)
+Folds: Feettoepep
+Pot size: 400
+Boasts: Wechoe, 7s Ks
+Wins: Wechoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Feettoepep
+Small Blind: Feettoepep, chips: 100
+Big Blind: Wechoe, chips: 200
+Folds: Feettoepep
+Pot size: 300
+Boasts: Wechoe, 5s Ts
+Wins: Wechoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wechoe
+Small Blind: Wechoe, chips: 100
+Big Blind: Feettoepep, chips: 100
+Flop: Qd Td Kh
+Turn: 2d
+River: 9h
+Pot size: 200
+Showdown Reached
+Shows: Wechoe, Qh 8s
+Combination: Wechoe, Pair ( Qh Qd Kh Td 9h )
+Shows: Feettoepep, Tc 5c
+Combination: Feettoepep, Pair ( Tc Td Kh Qd 9h )
+Wins: Wechoe, chips: 200
+Quits: Feettoepep, chips: 0
+Ranking: Wechoe, Place: 1, Score: 1000
+Reveal AI: Wechoe, AI: Random
+Ranking: Feettoepep, Place: 2, Score: -1000
+Reveal AI: Feettoepep, AI: AIMyBot1
+
+Player Stats for Feettoepep, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Wechoe, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

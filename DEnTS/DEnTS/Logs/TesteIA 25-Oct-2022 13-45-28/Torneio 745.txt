@@ -1,0 +1,280 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wofoes: AIMyBot1
+Ninhoe: Random
+
+Joins: Wofoes, chips: 1000
+Joins: Ninhoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoe
+Small Blind: Ninhoe, chips: 100
+Big Blind: Wofoes, chips: 200
+Raises: Ninhoe, chips: 300
+Folds: Wofoes
+Pot size: 700
+Boasts: Ninhoe, Qd 9c
+Wins: Ninhoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wofoes
+Small Blind: Wofoes, chips: 100
+Big Blind: Ninhoe, chips: 200
+Folds: Wofoes
+Pot size: 300
+Boasts: Ninhoe, 2d Tc
+Wins: Ninhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoe
+Small Blind: Ninhoe, chips: 100
+Big Blind: Wofoes, chips: 200
+Calls: Ninhoe
+DEBUG MESSAGE: INVALID ACTION FROM Wofoes (2 0)
+Folds: Wofoes
+Pot size: 400
+Boasts: Ninhoe, Tc 6h
+Wins: Ninhoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wofoes
+Small Blind: Wofoes, chips: 100
+Big Blind: Ninhoe, chips: 200
+Folds: Wofoes
+Pot size: 300
+Wins: Ninhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoe
+Small Blind: Ninhoe, chips: 100
+Big Blind: Wofoes, chips: 200
+Calls: Ninhoe
+DEBUG MESSAGE: INVALID ACTION FROM Wofoes (2 0)
+Folds: Wofoes
+Pot size: 400
+Wins: Ninhoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wofoes
+Small Blind: Wofoes, chips: 100
+Big Blind: Ninhoe, chips: 200
+Folds: Wofoes
+Pot size: 300
+Wins: Ninhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoe
+Small Blind: Ninhoe, chips: 100
+Big Blind: Wofoes, chips: 100
+Flop: Kd 7d Ts
+Turn: 8h
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Wofoes, 6h 6s
+Combination: Wofoes, Pair ( 6h 6s Kd Ts 8h )
+Shows: Ninhoe, 2c 5s
+Combination: Ninhoe, High Card ( Kd Ts 8h 7d 5s )
+Wins: Wofoes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wofoes
+Small Blind: Wofoes, chips: 100
+Big Blind: Ninhoe, chips: 200
+Folds: Wofoes
+Pot size: 300
+Boasts: Ninhoe, 6h 5d
+Wins: Ninhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoe
+Small Blind: Ninhoe, chips: 100
+Big Blind: Wofoes, chips: 100
+Flop: Qh Ac Kd
+Turn: 3h
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Wofoes, Qs 8s
+Combination: Wofoes, Pair ( Qs Qh Ac Kd 8s )
+Shows: Ninhoe, 5c 2d
+Combination: Ninhoe, Pair ( 5c 5h Ac Kd Qh )
+Wins: Wofoes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wofoes
+Small Blind: Wofoes, chips: 100
+Big Blind: Ninhoe, chips: 200
+Folds: Wofoes
+Pot size: 300
+Wins: Ninhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoe
+Small Blind: Ninhoe, chips: 100
+Big Blind: Wofoes, chips: 100
+Flop: 5h 8d 2h
+Turn: As
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Wofoes, 6h 3s
+Combination: Wofoes, Pair ( As Ad 8d 6h 5h )
+Shows: Ninhoe, 6s 9d
+Combination: Ninhoe, Pair ( As Ad 9d 8d 6s )
+Wins: Ninhoe, chips: 200
+Quits: Wofoes, chips: 0
+Ranking: Ninhoe, Place: 1, Score: 1000
+Reveal AI: Ninhoe, AI: Random
+Ranking: Wofoes, Place: 2, Score: -1000
+Reveal AI: Wofoes, AI: AIMyBot1
+
+Player Stats for Ninhoe, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Wofoes, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:19
+
+The game begins. The AI's of the players are: 
+Wofoes: AIMyBot1
+Ninhoe: Random
+
+Joins: Wofoes, chips: 1000
+Joins: Ninhoe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoe
+Small Blind: Ninhoe, chips: 100
+Big Blind: Wofoes, chips: 200
+Raises: Ninhoe, chips: 300
+Folds: Wofoes
+Pot size: 700
+Boasts: Ninhoe, Qd 9c
+Wins: Ninhoe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wofoes
+Small Blind: Wofoes, chips: 100
+Big Blind: Ninhoe, chips: 200
+Folds: Wofoes
+Pot size: 300
+Boasts: Ninhoe, 2d Tc
+Wins: Ninhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoe
+Small Blind: Ninhoe, chips: 100
+Big Blind: Wofoes, chips: 200
+Calls: Ninhoe
+DEBUG MESSAGE: INVALID ACTION FROM Wofoes (2 0)
+Folds: Wofoes
+Pot size: 400
+Boasts: Ninhoe, Tc 6h
+Wins: Ninhoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wofoes
+Small Blind: Wofoes, chips: 100
+Big Blind: Ninhoe, chips: 200
+Folds: Wofoes
+Pot size: 300
+Wins: Ninhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoe
+Small Blind: Ninhoe, chips: 100
+Big Blind: Wofoes, chips: 200
+Calls: Ninhoe
+DEBUG MESSAGE: INVALID ACTION FROM Wofoes (2 0)
+Folds: Wofoes
+Pot size: 400
+Wins: Ninhoe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wofoes
+Small Blind: Wofoes, chips: 100
+Big Blind: Ninhoe, chips: 200
+Folds: Wofoes
+Pot size: 300
+Wins: Ninhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoe
+Small Blind: Ninhoe, chips: 100
+Big Blind: Wofoes, chips: 100
+Flop: Kd 7d Ts
+Turn: 8h
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Wofoes, 6h 6s
+Combination: Wofoes, Pair ( 6h 6s Kd Ts 8h )
+Shows: Ninhoe, 2c 5s
+Combination: Ninhoe, High Card ( Kd Ts 8h 7d 5s )
+Wins: Wofoes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wofoes
+Small Blind: Wofoes, chips: 100
+Big Blind: Ninhoe, chips: 200
+Folds: Wofoes
+Pot size: 300
+Boasts: Ninhoe, 6h 5d
+Wins: Ninhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoe
+Small Blind: Ninhoe, chips: 100
+Big Blind: Wofoes, chips: 100
+Flop: Qh Ac Kd
+Turn: 3h
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Wofoes, Qs 8s
+Combination: Wofoes, Pair ( Qs Qh Ac Kd 8s )
+Shows: Ninhoe, 5c 2d
+Combination: Ninhoe, Pair ( 5c 5h Ac Kd Qh )
+Wins: Wofoes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wofoes
+Small Blind: Wofoes, chips: 100
+Big Blind: Ninhoe, chips: 200
+Folds: Wofoes
+Pot size: 300
+Wins: Ninhoe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ninhoe
+Small Blind: Ninhoe, chips: 100
+Big Blind: Wofoes, chips: 100
+Flop: 5h 8d 2h
+Turn: As
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Wofoes, 6h 3s
+Combination: Wofoes, Pair ( As Ad 8d 6h 5h )
+Shows: Ninhoe, 6s 9d
+Combination: Ninhoe, Pair ( As Ad 9d 8d 6s )
+Wins: Ninhoe, chips: 200
+Quits: Wofoes, chips: 0
+Ranking: Ninhoe, Place: 1, Score: 1000
+Reveal AI: Ninhoe, AI: Random
+Ranking: Wofoes, Place: 2, Score: -1000
+Reveal AI: Wofoes, AI: AIMyBot1
+
+Player Stats for Ninhoe, AI: Random
+General: deals: 11, actions: 3, preflop actions: 3
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Wofoes, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

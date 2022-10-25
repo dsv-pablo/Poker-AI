@@ -1,0 +1,238 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Poeden: AIMyBot1
+Gapupu: Random
+
+Joins: Poeden, chips: 1000
+Joins: Gapupu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gapupu
+Small Blind: Gapupu, chips: 100
+Big Blind: Poeden, chips: 200
+Raises: Gapupu, chips: 300
+Folds: Poeden
+Pot size: 700
+Wins: Gapupu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poeden
+Small Blind: Poeden, chips: 100
+Big Blind: Gapupu, chips: 200
+Folds: Poeden
+Pot size: 300
+Boasts: Gapupu, 9h Tc
+Wins: Gapupu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gapupu
+Small Blind: Gapupu, chips: 100
+Big Blind: Poeden, chips: 200
+Calls: Gapupu
+DEBUG MESSAGE: INVALID ACTION FROM Poeden (2 0)
+Folds: Poeden
+Pot size: 400
+Wins: Gapupu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poeden
+Small Blind: Poeden, chips: 100
+Big Blind: Gapupu, chips: 200
+Folds: Poeden
+Pot size: 300
+Boasts: Gapupu, 2c 9h
+Wins: Gapupu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gapupu
+Small Blind: Gapupu, chips: 100
+Big Blind: Poeden, chips: 200
+Calls: Gapupu
+DEBUG MESSAGE: INVALID ACTION FROM Poeden (2 0)
+Folds: Poeden
+Pot size: 400
+Boasts: Gapupu, 3s Kd
+Wins: Gapupu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poeden
+Small Blind: Poeden, chips: 100
+Big Blind: Gapupu, chips: 200
+Folds: Poeden
+Pot size: 300
+Boasts: Gapupu, Jh Ts
+Wins: Gapupu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gapupu
+Small Blind: Gapupu, chips: 100
+Big Blind: Poeden, chips: 100
+Flop: Qs 3h 6d
+Turn: Qc
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Poeden, Ts 4d
+Combination: Poeden, Two Pair ( Qs Qc 4d 4c Ts )
+Shows: Gapupu, 3s 4s
+Combination: Gapupu, Two Pair ( Qs Qc 4s 4c 6d )
+Wins: Poeden, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poeden
+Small Blind: Poeden, chips: 100
+Big Blind: Gapupu, chips: 200
+Folds: Poeden
+Pot size: 300
+Wins: Gapupu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gapupu
+Small Blind: Gapupu, chips: 100
+Big Blind: Poeden, chips: 100
+Flop: 2h Ac Jd
+Turn: 9c
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Poeden, 5d 9h
+Combination: Poeden, Pair ( 9h 9c Ac Jd 7h )
+Shows: Gapupu, Ad 8s
+Combination: Gapupu, Pair ( Ad Ac Jd 9c 8s )
+Wins: Gapupu, chips: 200
+Quits: Poeden, chips: 0
+Ranking: Gapupu, Place: 1, Score: 1000
+Reveal AI: Gapupu, AI: Random
+Ranking: Poeden, Place: 2, Score: -1000
+Reveal AI: Poeden, AI: AIMyBot1
+
+Player Stats for Gapupu, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Poeden, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:22
+
+The game begins. The AI's of the players are: 
+Poeden: AIMyBot1
+Gapupu: Random
+
+Joins: Poeden, chips: 1000
+Joins: Gapupu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gapupu
+Small Blind: Gapupu, chips: 100
+Big Blind: Poeden, chips: 200
+Raises: Gapupu, chips: 300
+Folds: Poeden
+Pot size: 700
+Wins: Gapupu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poeden
+Small Blind: Poeden, chips: 100
+Big Blind: Gapupu, chips: 200
+Folds: Poeden
+Pot size: 300
+Boasts: Gapupu, 9h Tc
+Wins: Gapupu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gapupu
+Small Blind: Gapupu, chips: 100
+Big Blind: Poeden, chips: 200
+Calls: Gapupu
+DEBUG MESSAGE: INVALID ACTION FROM Poeden (2 0)
+Folds: Poeden
+Pot size: 400
+Wins: Gapupu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poeden
+Small Blind: Poeden, chips: 100
+Big Blind: Gapupu, chips: 200
+Folds: Poeden
+Pot size: 300
+Boasts: Gapupu, 2c 9h
+Wins: Gapupu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gapupu
+Small Blind: Gapupu, chips: 100
+Big Blind: Poeden, chips: 200
+Calls: Gapupu
+DEBUG MESSAGE: INVALID ACTION FROM Poeden (2 0)
+Folds: Poeden
+Pot size: 400
+Boasts: Gapupu, 3s Kd
+Wins: Gapupu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poeden
+Small Blind: Poeden, chips: 100
+Big Blind: Gapupu, chips: 200
+Folds: Poeden
+Pot size: 300
+Boasts: Gapupu, Jh Ts
+Wins: Gapupu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gapupu
+Small Blind: Gapupu, chips: 100
+Big Blind: Poeden, chips: 100
+Flop: Qs 3h 6d
+Turn: Qc
+River: 4c
+Pot size: 200
+Showdown Reached
+Shows: Poeden, Ts 4d
+Combination: Poeden, Two Pair ( Qs Qc 4d 4c Ts )
+Shows: Gapupu, 3s 4s
+Combination: Gapupu, Two Pair ( Qs Qc 4s 4c 6d )
+Wins: Poeden, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poeden
+Small Blind: Poeden, chips: 100
+Big Blind: Gapupu, chips: 200
+Folds: Poeden
+Pot size: 300
+Wins: Gapupu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Gapupu
+Small Blind: Gapupu, chips: 100
+Big Blind: Poeden, chips: 100
+Flop: 2h Ac Jd
+Turn: 9c
+River: 7h
+Pot size: 200
+Showdown Reached
+Shows: Poeden, 5d 9h
+Combination: Poeden, Pair ( 9h 9c Ac Jd 7h )
+Shows: Gapupu, Ad 8s
+Combination: Gapupu, Pair ( Ad Ac Jd 9c 8s )
+Wins: Gapupu, chips: 200
+Quits: Poeden, chips: 0
+Ranking: Gapupu, Place: 1, Score: 1000
+Reveal AI: Gapupu, AI: Random
+Ranking: Poeden, Place: 2, Score: -1000
+Reveal AI: Poeden, AI: AIMyBot1
+
+Player Stats for Gapupu, AI: Random
+General: deals: 9, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 2900, lost: 1900, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Poeden, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 200, lost: 1200, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

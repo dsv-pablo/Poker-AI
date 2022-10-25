@@ -1,0 +1,322 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Vipel: AIMyBot1
+Noewreebees: Random
+
+Joins: Vipel, chips: 1000
+Joins: Noewreebees, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipel
+Small Blind: Vipel, chips: 100
+Big Blind: Noewreebees, chips: 200
+Folds: Vipel
+Pot size: 300
+Wins: Noewreebees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewreebees
+Small Blind: Noewreebees, chips: 100
+Big Blind: Vipel, chips: 200
+Raises: Noewreebees, chips: 900
+Folds: Vipel
+Pot size: 1300
+Wins: Noewreebees, chips: 1300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipel
+Small Blind: Vipel, chips: 100
+Big Blind: Noewreebees, chips: 200
+Folds: Vipel
+Pot size: 300
+Boasts: Noewreebees, 6h Kh
+Wins: Noewreebees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewreebees
+Small Blind: Noewreebees, chips: 100
+Big Blind: Vipel, chips: 200
+Folds: Noewreebees
+Pot size: 300
+Boasts: Noewreebees, 3d As
+Wins: Vipel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipel
+Small Blind: Vipel, chips: 100
+Big Blind: Noewreebees, chips: 200
+Folds: Vipel
+Pot size: 300
+Boasts: Noewreebees, Ts As
+Wins: Noewreebees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewreebees
+Small Blind: Noewreebees, chips: 100
+Big Blind: Vipel, chips: 200
+Calls: Noewreebees
+DEBUG MESSAGE: INVALID ACTION FROM Vipel (2 0)
+Folds: Vipel
+Pot size: 400
+Boasts: Noewreebees, 2s Jh
+Wins: Noewreebees, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipel
+Small Blind: Vipel, chips: 100
+Big Blind: Noewreebees, chips: 200
+Folds: Vipel
+Pot size: 300
+Wins: Noewreebees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewreebees
+Small Blind: Noewreebees, chips: 100
+Big Blind: Vipel, chips: 200
+Raises: Noewreebees, chips: 300
+Calls: Vipel
+Flop: 4s 2h 7h
+Turn: 3h
+River: 8h
+Pot size: 800
+Showdown Reached
+Shows: Vipel, 8d 6s
+Combination: Vipel, Pair ( 8d 8h 7h 6s 4s )
+Shows: Noewreebees, 9c Js
+Combination: Noewreebees, High Card ( Js 9c 8h 7h 4s )
+Wins: Vipel, chips: 600
+Wins: Noewreebees, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipel
+Small Blind: Vipel, chips: 100
+Big Blind: Noewreebees, chips: 200
+Folds: Vipel
+Pot size: 300
+Boasts: Noewreebees, 9d 6d
+Wins: Noewreebees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewreebees
+Small Blind: Noewreebees, chips: 100
+Big Blind: Vipel, chips: 200
+Calls: Noewreebees
+DEBUG MESSAGE: INVALID ACTION FROM Vipel (2 0)
+Folds: Vipel
+Pot size: 400
+Boasts: Noewreebees, 5h 5s
+Wins: Noewreebees, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipel
+Small Blind: Vipel, chips: 100
+Big Blind: Noewreebees, chips: 200
+Folds: Vipel
+Pot size: 300
+Boasts: Noewreebees, Ac Qs
+Wins: Noewreebees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewreebees
+Small Blind: Noewreebees, chips: 100
+Big Blind: Vipel, chips: 200
+Flop: Ks 3c 8s
+Turn: As
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Vipel, 4s 8h
+Combination: Vipel, Pair ( 8h 8s As Ks Qd )
+Shows: Noewreebees, Ac Js
+Combination: Noewreebees, Pair ( Ac As Ks Qd Js )
+Wins: Vipel, chips: 100
+Wins: Noewreebees, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipel
+Small Blind: Vipel, chips: 100
+Big Blind: Noewreebees, chips: 200
+Flop: 9h Jd 2c
+Turn: 8d
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Vipel, Td 6c
+Combination: Vipel, High Card ( Jd Td 9h 8d 6c )
+Shows: Noewreebees, Kd Ks
+Combination: Noewreebees, Pair ( Kd Ks Jd 9h 8d )
+Wins: Noewreebees, chips: 300
+Quits: Vipel, chips: 0
+Ranking: Noewreebees, Place: 1, Score: 1000
+Reveal AI: Noewreebees, AI: Random
+Ranking: Vipel, Place: 2, Score: -1000
+Reveal AI: Vipel, AI: AIMyBot1
+
+Player Stats for Noewreebees, AI: Random
+General: deals: 13, actions: 5, preflop actions: 5
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 4600, lost: 3600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.307692, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Vipel, AI: AIMyBot1
+General: deals: 13, actions: 10, preflop actions: 10
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 1000, lost: 2200, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.0769231, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:56
+
+The game begins. The AI's of the players are: 
+Vipel: AIMyBot1
+Noewreebees: Random
+
+Joins: Vipel, chips: 1000
+Joins: Noewreebees, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipel
+Small Blind: Vipel, chips: 100
+Big Blind: Noewreebees, chips: 200
+Folds: Vipel
+Pot size: 300
+Wins: Noewreebees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewreebees
+Small Blind: Noewreebees, chips: 100
+Big Blind: Vipel, chips: 200
+Raises: Noewreebees, chips: 900
+Folds: Vipel
+Pot size: 1300
+Wins: Noewreebees, chips: 1300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipel
+Small Blind: Vipel, chips: 100
+Big Blind: Noewreebees, chips: 200
+Folds: Vipel
+Pot size: 300
+Boasts: Noewreebees, 6h Kh
+Wins: Noewreebees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewreebees
+Small Blind: Noewreebees, chips: 100
+Big Blind: Vipel, chips: 200
+Folds: Noewreebees
+Pot size: 300
+Boasts: Noewreebees, 3d As
+Wins: Vipel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipel
+Small Blind: Vipel, chips: 100
+Big Blind: Noewreebees, chips: 200
+Folds: Vipel
+Pot size: 300
+Boasts: Noewreebees, Ts As
+Wins: Noewreebees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewreebees
+Small Blind: Noewreebees, chips: 100
+Big Blind: Vipel, chips: 200
+Calls: Noewreebees
+DEBUG MESSAGE: INVALID ACTION FROM Vipel (2 0)
+Folds: Vipel
+Pot size: 400
+Boasts: Noewreebees, 2s Jh
+Wins: Noewreebees, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipel
+Small Blind: Vipel, chips: 100
+Big Blind: Noewreebees, chips: 200
+Folds: Vipel
+Pot size: 300
+Wins: Noewreebees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewreebees
+Small Blind: Noewreebees, chips: 100
+Big Blind: Vipel, chips: 200
+Raises: Noewreebees, chips: 300
+Calls: Vipel
+Flop: 4s 2h 7h
+Turn: 3h
+River: 8h
+Pot size: 800
+Showdown Reached
+Shows: Vipel, 8d 6s
+Combination: Vipel, Pair ( 8d 8h 7h 6s 4s )
+Shows: Noewreebees, 9c Js
+Combination: Noewreebees, High Card ( Js 9c 8h 7h 4s )
+Wins: Vipel, chips: 600
+Wins: Noewreebees, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipel
+Small Blind: Vipel, chips: 100
+Big Blind: Noewreebees, chips: 200
+Folds: Vipel
+Pot size: 300
+Boasts: Noewreebees, 9d 6d
+Wins: Noewreebees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewreebees
+Small Blind: Noewreebees, chips: 100
+Big Blind: Vipel, chips: 200
+Calls: Noewreebees
+DEBUG MESSAGE: INVALID ACTION FROM Vipel (2 0)
+Folds: Vipel
+Pot size: 400
+Boasts: Noewreebees, 5h 5s
+Wins: Noewreebees, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipel
+Small Blind: Vipel, chips: 100
+Big Blind: Noewreebees, chips: 200
+Folds: Vipel
+Pot size: 300
+Boasts: Noewreebees, Ac Qs
+Wins: Noewreebees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noewreebees
+Small Blind: Noewreebees, chips: 100
+Big Blind: Vipel, chips: 200
+Flop: Ks 3c 8s
+Turn: As
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Vipel, 4s 8h
+Combination: Vipel, Pair ( 8h 8s As Ks Qd )
+Shows: Noewreebees, Ac Js
+Combination: Noewreebees, Pair ( Ac As Ks Qd Js )
+Wins: Vipel, chips: 100
+Wins: Noewreebees, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vipel
+Small Blind: Vipel, chips: 100
+Big Blind: Noewreebees, chips: 200
+Flop: 9h Jd 2c
+Turn: 8d
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Vipel, Td 6c
+Combination: Vipel, High Card ( Jd Td 9h 8d 6c )
+Shows: Noewreebees, Kd Ks
+Combination: Noewreebees, Pair ( Kd Ks Jd 9h 8d )
+Wins: Noewreebees, chips: 300
+Quits: Vipel, chips: 0
+Ranking: Noewreebees, Place: 1, Score: 1000
+Reveal AI: Noewreebees, AI: Random
+Ranking: Vipel, Place: 2, Score: -1000
+Reveal AI: Vipel, AI: AIMyBot1
+
+Player Stats for Noewreebees, AI: Random
+General: deals: 13, actions: 5, preflop actions: 5
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 4600, lost: 3600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.307692, PFR: 0.153846, 3Bet: 0.153846
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Vipel, AI: AIMyBot1
+General: deals: 13, actions: 10, preflop actions: 10
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 1000, lost: 2200, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.0769231, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

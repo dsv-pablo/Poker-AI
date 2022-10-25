@@ -1,0 +1,474 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jifeek: Random
+Vuvil: AIMyBot1
+
+Joins: Jifeek, chips: 1000
+Joins: Vuvil, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Folds: Vuvil
+Pot size: 300
+Boasts: Jifeek, 9c 6h
+Wins: Jifeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 200
+Calls: Jifeek
+DEBUG MESSAGE: INVALID ACTION FROM Vuvil (2 0)
+Folds: Vuvil
+Pot size: 400
+Boasts: Jifeek, 5d 6c
+Wins: Jifeek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Folds: Vuvil
+Pot size: 300
+Wins: Jifeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 200
+Calls: Jifeek
+DEBUG MESSAGE: INVALID ACTION FROM Vuvil (2 0)
+Folds: Vuvil
+Pot size: 400
+Boasts: Jifeek, 4h 3d
+Wins: Jifeek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Folds: Vuvil
+Pot size: 300
+Boasts: Jifeek, Ks Ah
+Wins: Jifeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 200
+Raises: Jifeek, chips: 300
+Calls: Vuvil
+Flop: 3s 4s 7s
+Turn: 3c
+River: Kc
+Pot size: 800
+Showdown Reached
+Shows: Jifeek, 6h 2h
+Combination: Jifeek, Pair ( 3s 3c Kc 7s 6h )
+Shows: Vuvil, Jd Ks
+Combination: Vuvil, Two Pair ( Ks Kc 3s 3c Jd )
+Wins: Jifeek, chips: 200
+Wins: Vuvil, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Folds: Vuvil
+Pot size: 300
+Boasts: Jifeek, 4h 8s
+Wins: Jifeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 200
+Raises: Jifeek, chips: 300
+Folds: Vuvil
+Pot size: 700
+Boasts: Jifeek, Ts Ks
+Wins: Jifeek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Folds: Vuvil
+Pot size: 300
+Boasts: Jifeek, Td 8s
+Wins: Jifeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 200
+Flop: 4s 4h Qd
+Turn: 7s
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Jifeek, 2c Kd
+Combination: Jifeek, Pair ( 4s 4h Kd Qd 8d )
+Shows: Vuvil, Jh Tc
+Combination: Vuvil, Pair ( 4s 4h Qd Jh Tc )
+Wins: Jifeek, chips: 200
+Wins: Vuvil, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Flop: 5s 8s 3c
+Turn: 3d
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Jifeek, 4s Ac
+Combination: Jifeek, Pair ( 3c 3d Ac Jc 8s )
+Shows: Vuvil, 8d Th
+Combination: Vuvil, Two Pair ( 8d 8s 3c 3d Jc )
+Wins: Jifeek, chips: 100
+Wins: Vuvil, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 200
+Flop: 2h Kd 7c
+Turn: Ts
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Jifeek, 6d 9d
+Combination: Jifeek, Pair ( 9d 9h Kd Ts 7c )
+Shows: Vuvil, 5d 6s
+Combination: Vuvil, High Card ( Kd Ts 9h 7c 6s )
+Wins: Jifeek, chips: 200
+Wins: Vuvil, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Flop: Kc 4s Ac
+Turn: 4c
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Jifeek, 8d 2s
+Combination: Jifeek, Pair ( 4s 4c Ac Kc Td )
+Shows: Vuvil, 2h Kd
+Combination: Vuvil, Two Pair ( Kd Kc 4s 4c Ac )
+Wins: Jifeek, chips: 100
+Wins: Vuvil, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 200
+Flop: 9c Jh 8d
+Turn: As
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Jifeek, 4d Ks
+Combination: Jifeek, Pair ( 4d 4h As Ks Jh )
+Shows: Vuvil, 6h 8c
+Combination: Vuvil, Pair ( 8c 8d As Jh 9c )
+Wins: Vuvil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Folds: Vuvil
+Pot size: 300
+Boasts: Jifeek, 5s 2c
+Wins: Jifeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 200
+Flop: Qc 4s 4c
+Turn: Js
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Jifeek, 9s 5d
+Combination: Jifeek, Pair ( 4s 4c Qc Js 9s )
+Shows: Vuvil, 7h 9c
+Combination: Vuvil, Pair ( 4s 4c Qc Js 9c )
+Wins: Jifeek, chips: 100
+Wins: Vuvil, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Folds: Vuvil
+Pot size: 300
+Boasts: Jifeek, As Kd
+Wins: Jifeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 100
+Flop: 4s Js 6c
+Turn: 7h
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Jifeek, Ad Th
+Combination: Jifeek, Pair ( Js Jd Ad Th 7h )
+Shows: Vuvil, Ac 5s
+Combination: Vuvil, Pair ( Js Jd Ac 7h 6c )
+Wins: Jifeek, chips: 200
+Quits: Vuvil, chips: 0
+Ranking: Jifeek, Place: 1, Score: 1000
+Reveal AI: Jifeek, AI: Random
+Ranking: Vuvil, Place: 2, Score: -1000
+Reveal AI: Vuvil, AI: AIMyBot1
+
+Player Stats for Jifeek, AI: Random
+General: deals: 18, actions: 4, preflop actions: 4
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 17, showdown: 7, bluff: 10
+Chips: won: 4700, lost: 3700, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.222222, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Vuvil, AI: AIMyBot1
+General: deals: 18, actions: 11, preflop actions: 11
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1700, lost: 2900, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.0555556, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Date: 2022/10/25 13:46:24
+
+The game begins. The AI's of the players are: 
+Jifeek: Random
+Vuvil: AIMyBot1
+
+Joins: Jifeek, chips: 1000
+Joins: Vuvil, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Folds: Vuvil
+Pot size: 300
+Boasts: Jifeek, 9c 6h
+Wins: Jifeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 200
+Calls: Jifeek
+DEBUG MESSAGE: INVALID ACTION FROM Vuvil (2 0)
+Folds: Vuvil
+Pot size: 400
+Boasts: Jifeek, 5d 6c
+Wins: Jifeek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Folds: Vuvil
+Pot size: 300
+Wins: Jifeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 200
+Calls: Jifeek
+DEBUG MESSAGE: INVALID ACTION FROM Vuvil (2 0)
+Folds: Vuvil
+Pot size: 400
+Boasts: Jifeek, 4h 3d
+Wins: Jifeek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Folds: Vuvil
+Pot size: 300
+Boasts: Jifeek, Ks Ah
+Wins: Jifeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 200
+Raises: Jifeek, chips: 300
+Calls: Vuvil
+Flop: 3s 4s 7s
+Turn: 3c
+River: Kc
+Pot size: 800
+Showdown Reached
+Shows: Jifeek, 6h 2h
+Combination: Jifeek, Pair ( 3s 3c Kc 7s 6h )
+Shows: Vuvil, Jd Ks
+Combination: Vuvil, Two Pair ( Ks Kc 3s 3c Jd )
+Wins: Jifeek, chips: 200
+Wins: Vuvil, chips: 600
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Folds: Vuvil
+Pot size: 300
+Boasts: Jifeek, 4h 8s
+Wins: Jifeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 200
+Raises: Jifeek, chips: 300
+Folds: Vuvil
+Pot size: 700
+Boasts: Jifeek, Ts Ks
+Wins: Jifeek, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Folds: Vuvil
+Pot size: 300
+Boasts: Jifeek, Td 8s
+Wins: Jifeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 200
+Flop: 4s 4h Qd
+Turn: 7s
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Jifeek, 2c Kd
+Combination: Jifeek, Pair ( 4s 4h Kd Qd 8d )
+Shows: Vuvil, Jh Tc
+Combination: Vuvil, Pair ( 4s 4h Qd Jh Tc )
+Wins: Jifeek, chips: 200
+Wins: Vuvil, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Flop: 5s 8s 3c
+Turn: 3d
+River: Jc
+Pot size: 300
+Showdown Reached
+Shows: Jifeek, 4s Ac
+Combination: Jifeek, Pair ( 3c 3d Ac Jc 8s )
+Shows: Vuvil, 8d Th
+Combination: Vuvil, Two Pair ( 8d 8s 3c 3d Jc )
+Wins: Jifeek, chips: 100
+Wins: Vuvil, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 200
+Flop: 2h Kd 7c
+Turn: Ts
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Jifeek, 6d 9d
+Combination: Jifeek, Pair ( 9d 9h Kd Ts 7c )
+Shows: Vuvil, 5d 6s
+Combination: Vuvil, High Card ( Kd Ts 9h 7c 6s )
+Wins: Jifeek, chips: 200
+Wins: Vuvil, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Flop: Kc 4s Ac
+Turn: 4c
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Jifeek, 8d 2s
+Combination: Jifeek, Pair ( 4s 4c Ac Kc Td )
+Shows: Vuvil, 2h Kd
+Combination: Vuvil, Two Pair ( Kd Kc 4s 4c Ac )
+Wins: Jifeek, chips: 100
+Wins: Vuvil, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 200
+Flop: 9c Jh 8d
+Turn: As
+River: 4h
+Pot size: 300
+Showdown Reached
+Shows: Jifeek, 4d Ks
+Combination: Jifeek, Pair ( 4d 4h As Ks Jh )
+Shows: Vuvil, 6h 8c
+Combination: Vuvil, Pair ( 8c 8d As Jh 9c )
+Wins: Vuvil, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Folds: Vuvil
+Pot size: 300
+Boasts: Jifeek, 5s 2c
+Wins: Jifeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 200
+Flop: Qc 4s 4c
+Turn: Js
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Jifeek, 9s 5d
+Combination: Jifeek, Pair ( 4s 4c Qc Js 9s )
+Shows: Vuvil, 7h 9c
+Combination: Vuvil, Pair ( 4s 4c Qc Js 9c )
+Wins: Jifeek, chips: 100
+Wins: Vuvil, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vuvil
+Small Blind: Vuvil, chips: 100
+Big Blind: Jifeek, chips: 200
+Folds: Vuvil
+Pot size: 300
+Boasts: Jifeek, As Kd
+Wins: Jifeek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jifeek
+Small Blind: Jifeek, chips: 100
+Big Blind: Vuvil, chips: 100
+Flop: 4s Js 6c
+Turn: 7h
+River: Jd
+Pot size: 200
+Showdown Reached
+Shows: Jifeek, Ad Th
+Combination: Jifeek, Pair ( Js Jd Ad Th 7h )
+Shows: Vuvil, Ac 5s
+Combination: Vuvil, Pair ( Js Jd Ac 7h 6c )
+Wins: Jifeek, chips: 200
+Quits: Vuvil, chips: 0
+Ranking: Jifeek, Place: 1, Score: 1000
+Reveal AI: Jifeek, AI: Random
+Ranking: Vuvil, Place: 2, Score: -1000
+Reveal AI: Vuvil, AI: AIMyBot1
+
+Player Stats for Jifeek, AI: Random
+General: deals: 18, actions: 4, preflop actions: 4
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 17, showdown: 7, bluff: 10
+Chips: won: 4700, lost: 3700, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.222222, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Vuvil, AI: AIMyBot1
+General: deals: 18, actions: 11, preflop actions: 11
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1700, lost: 2900, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.0555556, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+

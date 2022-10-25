@@ -1,0 +1,970 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Noebap: AIMyBot1
+Hesopoe: AIMyBot7
+Tulunny: AIMyBot6
+Tohoeko: AIMyBot2
+Chidi: AIMyBot3
+De: AIMyBot4
+Woenhoepu: AIMyBot5
+
+Joins: Noebap, chips: 1000
+Joins: Hesopoe, chips: 1000
+Joins: Tulunny, chips: 1000
+Joins: Tohoeko, chips: 1000
+Joins: Chidi, chips: 1000
+Joins: De, chips: 1000
+Joins: Woenhoepu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woenhoepu
+Small Blind: Noebap, chips: 100
+Big Blind: Hesopoe, chips: 200
+Folds: Tulunny
+Calls: Tohoeko
+Folds: Chidi
+Folds: De
+Calls: Woenhoepu
+Calls: Noebap
+DEBUG MESSAGE: INVALID ACTION FROM Hesopoe (2 0)
+Folds: Hesopoe
+Flop: 2d 7h 5s
+Checks: Noebap
+Raises: Tohoeko, chips: 334
+Calls: Woenhoepu
+Folds: Noebap
+Turn: 5d
+Raises: Tohoeko, chips: 334
+Calls: Woenhoepu
+River: Kh
+Raises: Tohoeko, chips: 132
+Folds: Woenhoepu
+Pot size: 2268
+Wins: Tohoeko, chips: 2268
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noebap
+Small Blind: Hesopoe, chips: 100
+Big Blind: Tulunny, chips: 200
+Calls: Tohoeko
+Folds: Chidi
+Folds: De
+Calls: Woenhoepu
+Calls: Noebap
+Folds: Hesopoe
+Checks: Tulunny
+Flop: Kc 2c Td
+Checks: Tulunny
+Raises: Tohoeko, chips: 334
+Folds: Noebap
+Folds: Tulunny
+Turn: 3h
+River: 2h
+Pot size: 1166
+Showdown Reached
+Shows: Tohoeko, 6s 7s
+Combination: Tohoeko, Pair ( 2c 2h Kc Td 7s )
+Shows: Woenhoepu, Qd As
+Combination: Woenhoepu, Pair ( 2c 2h As Kc Qd )
+Wins: Tohoeko, chips: 538
+Wins: Woenhoepu, chips: 628
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hesopoe
+Small Blind: Tulunny, chips: 100
+Big Blind: Tohoeko, chips: 200
+Folds: Chidi
+Raises: De, chips: 800
+Calls: Woenhoepu
+Folds: Noebap
+Folds: Hesopoe
+Folds: Tulunny
+Folds: Tohoeko
+Flop: 2s Jc 6c
+Turn: Qd
+River: 8c
+Pot size: 1928
+Showdown Reached
+Shows: De, Ts Qs
+Combination: De, Pair ( Qs Qd Jc Ts 8c )
+Shows: Woenhoepu, 3h 6h
+Combination: Woenhoepu, Pair ( 6h 6c Qd Jc 8c )
+Wins: De, chips: 1928
+Quits: Woenhoepu, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulunny
+Small Blind: Tohoeko, chips: 100
+Big Blind: Chidi, chips: 200
+Folds: De
+Calls: Noebap
+Folds: Hesopoe
+Folds: Tulunny
+Raises: Tohoeko, chips: 234
+Folds: Chidi
+Calls: Noebap
+Flop: Kd Ts 9d
+Raises: Tohoeko, chips: 334
+Folds: Noebap
+Pot size: 1402
+Wins: Tohoeko, chips: 1402
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tohoeko
+Small Blind: Chidi, chips: 100
+Big Blind: De, chips: 200
+Calls: Noebap
+Folds: Hesopoe
+Folds: Tulunny
+Calls: Tohoeko
+Folds: Chidi
+Checks: De
+Flop: 2c 9c 6h
+Checks: De
+Raises: Tohoeko, chips: 334
+Folds: De
+Turn: 9s
+River: Qs
+Pot size: 1000
+Showdown Reached
+Shows: Noebap, 5h 8s
+Combination: Noebap, Pair ( 9c 9s Qs 8s 6h )
+Shows: Tohoeko, 3c 2s
+Combination: Tohoeko, Two Pair ( 9c 9s 2s 2c Qs )
+Wins: Tohoeko, chips: 1000
+Quits: Noebap, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chidi
+Small Blind: De, chips: 100
+Big Blind: Hesopoe, chips: 200
+Folds: Tulunny
+Calls: Tohoeko
+Folds: Chidi
+Folds: De
+DEBUG MESSAGE: INVALID ACTION FROM Hesopoe (2 0)
+Folds: Hesopoe
+Pot size: 500
+Wins: Tohoeko, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: Hesopoe, chips: 100
+Big Blind: Tulunny, chips: 200
+Calls: Tohoeko
+Folds: Chidi
+Folds: De
+Folds: Hesopoe
+Checks: Tulunny
+Flop: Qc Kh 4d
+Checks: Tulunny
+Raises: Tohoeko, chips: 334
+Folds: Tulunny
+Pot size: 834
+Wins: Tohoeko, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hesopoe
+Small Blind: Tulunny, chips: 100
+Big Blind: Tohoeko, chips: 200
+Folds: Chidi
+Folds: De
+Folds: Hesopoe
+Folds: Tulunny
+Pot size: 300
+Wins: Tohoeko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulunny
+Small Blind: Tohoeko, chips: 100
+Big Blind: Chidi, chips: 200
+Folds: De
+Folds: Hesopoe
+Folds: Tulunny
+Raises: Tohoeko, chips: 234
+Folds: Chidi
+Pot size: 634
+Wins: Tohoeko, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tohoeko
+Small Blind: Chidi, chips: 100
+Big Blind: De, chips: 200
+Folds: Hesopoe
+Folds: Tulunny
+Calls: Tohoeko
+Folds: Chidi
+Checks: De
+Flop: 7d 5d 2d
+Checks: De
+Raises: Tohoeko, chips: 334
+Folds: De
+Pot size: 834
+Wins: Tohoeko, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chidi
+Small Blind: De, chips: 100
+Big Blind: Hesopoe, chips: 200
+Folds: Tulunny
+Calls: Tohoeko
+Folds: Chidi
+Folds: De
+DEBUG MESSAGE: INVALID ACTION FROM Hesopoe (2 0)
+Folds: Hesopoe
+Pot size: 500
+Wins: Tohoeko, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: Hesopoe, chips: 100
+Big Blind: Tulunny, chips: 200
+Calls: Tohoeko
+Folds: Chidi
+Folds: De
+Folds: Hesopoe
+Checks: Tulunny
+Flop: 3d 3s Jc
+Checks: Tulunny
+Raises: Tohoeko, chips: 334
+Folds: Tulunny
+Pot size: 834
+Wins: Tohoeko, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hesopoe
+Small Blind: Tulunny, chips: 100
+Big Blind: Tohoeko, chips: 200
+Folds: Chidi
+Folds: De
+Folds: Hesopoe
+Folds: Tulunny
+Pot size: 300
+Wins: Tohoeko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulunny
+Small Blind: Tohoeko, chips: 100
+Big Blind: Chidi, chips: 200
+Folds: De
+Folds: Hesopoe
+Folds: Tulunny
+Raises: Tohoeko, chips: 234
+Folds: Chidi
+Pot size: 634
+Wins: Tohoeko, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tohoeko
+Small Blind: Chidi, chips: 100
+Big Blind: De, chips: 200
+Folds: Hesopoe
+Folds: Tulunny
+Calls: Tohoeko
+Folds: Chidi
+Checks: De
+Flop: 8s 4h 5h
+Checks: De
+Raises: Tohoeko, chips: 334
+Folds: De
+Pot size: 834
+Wins: Tohoeko, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chidi
+Small Blind: De, chips: 100
+Big Blind: Hesopoe, chips: 100
+Folds: Tulunny
+Raises: Tohoeko, chips: 234
+Folds: Chidi
+Folds: De
+Flop: As 8h 2s
+Turn: 8d
+River: Qd
+Pot size: 534
+Showdown Reached
+Shows: Hesopoe, 6c Jc
+Combination: Hesopoe, Pair ( 8h 8d As Qd Jc )
+Shows: Tohoeko, 9s 6h
+Combination: Tohoeko, Pair ( 8h 8d As Qd 9s )
+Wins: Hesopoe, chips: 300
+Wins: Tohoeko, chips: 234
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: Hesopoe, chips: 100
+Big Blind: Tulunny, chips: 100
+Raises: Tohoeko, chips: 234
+Folds: Chidi
+Folds: De
+Folds: Hesopoe
+Flop: 3d Td 2s
+Turn: Tc
+River: 4s
+Pot size: 534
+Showdown Reached
+Shows: Tulunny, Ac 6d
+Combination: Tulunny, Pair ( Td Tc Ac 6d 4s )
+Shows: Tohoeko, Ad 4h
+Combination: Tohoeko, Two Pair ( Td Tc 4h 4s Ad )
+Wins: Tohoeko, chips: 534
+Quits: Tulunny, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hesopoe
+Small Blind: Tohoeko, chips: 100
+Big Blind: Chidi, chips: 100
+Folds: De
+Folds: Hesopoe
+Raises: Tohoeko, chips: 334
+Flop: 7h 8s Ts
+Turn: Td
+River: Jh
+Pot size: 534
+Showdown Reached
+Shows: Tohoeko, 7s Tc
+Combination: Tohoeko, Full House ( Tc Ts Td 7s 7h )
+Shows: Chidi, Kc 3h
+Combination: Chidi, Pair ( Ts Td Kc Jh 8s )
+Wins: Tohoeko, chips: 534
+Quits: Chidi, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tohoeko
+Small Blind: De, chips: 100
+Big Blind: Hesopoe, chips: 200
+Calls: Tohoeko
+Folds: De
+Flop: Ac 8h 6c
+Turn: Kc
+River: 7d
+Pot size: 500
+Showdown Reached
+Shows: Hesopoe, 5s Tc
+Combination: Hesopoe, High Card ( Ac Kc Tc 8h 7d )
+Shows: Tohoeko, Qh Ah
+Combination: Tohoeko, Pair ( Ah Ac Kc Qh 8h )
+Wins: Tohoeko, chips: 500
+Quits: Hesopoe, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Tohoeko, chips: 200
+Raises: De, chips: 728
+Folds: Tohoeko
+Pot size: 1128
+Wins: De, chips: 1128
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tohoeko
+Small Blind: Tohoeko, chips: 100
+Big Blind: De, chips: 200
+Raises: Tohoeko, chips: 234
+Folds: De
+Pot size: 634
+Wins: Tohoeko, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Tohoeko, chips: 200
+Folds: De
+Pot size: 300
+Wins: Tohoeko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tohoeko
+Small Blind: Tohoeko, chips: 100
+Big Blind: De, chips: 200
+Raises: Tohoeko, chips: 234
+Folds: De
+Pot size: 634
+Wins: Tohoeko, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Tohoeko, chips: 200
+Folds: De
+Pot size: 300
+Wins: Tohoeko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tohoeko
+Small Blind: Tohoeko, chips: 100
+Big Blind: De, chips: 200
+Raises: Tohoeko, chips: 234
+Folds: De
+Pot size: 634
+Wins: Tohoeko, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Tohoeko, chips: 200
+Folds: De
+Pot size: 300
+Wins: Tohoeko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tohoeko
+Small Blind: Tohoeko, chips: 100
+Big Blind: De, chips: 200
+Raises: Tohoeko, chips: 234
+Folds: De
+Pot size: 634
+Wins: Tohoeko, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 28
+Big Blind: Tohoeko, chips: 200
+Flop: Jc Tc 2d
+Turn: 9c
+River: 5h
+Pot size: 228
+Showdown Reached
+Shows: Tohoeko, 8d 7c
+Combination: Tohoeko, Straight ( Jc Tc 9c 8d 7c )
+Shows: De, Ad 3d
+Combination: De, High Card ( Ad Jc Tc 9c 5h )
+Wins: Tohoeko, chips: 228
+Quits: De, chips: 0
+Ranking: Tohoeko, Place: 1, Score: 6000
+Reveal AI: Tohoeko, AI: AIMyBot2
+Ranking: De, Place: 2, Score: -1000
+Reveal AI: De, AI: AIMyBot4
+Ranking: Hesopoe, Place: 3, Score: -1000
+Reveal AI: Hesopoe, AI: AIMyBot7
+Ranking: Chidi, Place: 4, Score: -1000
+Reveal AI: Chidi, AI: AIMyBot3
+Ranking: Tulunny, Place: 5, Score: -1000
+Reveal AI: Tulunny, AI: AIMyBot6
+Ranking: Noebap, Place: 6, Score: -1000
+Reveal AI: Noebap, AI: AIMyBot1
+Ranking: Woenhoepu, Place: 7, Score: -1000
+Reveal AI: Woenhoepu, AI: AIMyBot5
+
+Player Stats for Chidi, AI: AIMyBot3
+General: deals: 18, actions: 17, preflop actions: 17
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for De, AI: AIMyBot4
+General: deals: 28, actions: 33, preflop actions: 27
+Rounds Seen: flops: 5, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 3056, lost: 4056, bought: 1000, forced bets: 2228
+Pre-Flop Stats: VP$IP: 0.0714286, PFR: 0.0714286, 3Bet: 0.0714286
+Post-Flop Stats: AF: -1.#IND, WSD: 0.4, WSDW: 0.5
+
+
+Player Stats for Hesopoe, AI: AIMyBot7
+General: deals: 19, actions: 17, preflop actions: 17
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Noebap, AI: AIMyBot1
+General: deals: 5, actions: 10, preflop actions: 6
+Rounds Seen: flops: 13, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1034, bought: 1000, forced bets: 100
+Pre-Flop Stats: VP$IP: 0.8, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.461538, WSDW: 0
+
+
+Player Stats for Tohoeko, AI: AIMyBot2
+General: deals: 28, actions: 32, preflop actions: 22
+Rounds Seen: flops: 13, turns: 8, rivers: 8, showdowns: 7
+Wins: total: 26, showdown: 7, bluff: 19
+Chips: won: 16878, lost: 10878, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.714286, PFR: 0.357143, 3Bet: 0.321429
+Post-Flop Stats: AF: 1.#INF, WSD: 0.538462, WSDW: 1
+
+
+Player Stats for Tulunny, AI: AIMyBot6
+General: deals: 17, actions: 22, preflop actions: 16
+Rounds Seen: flops: 7, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.571429, WSDW: 0
+
+
+Player Stats for Woenhoepu, AI: AIMyBot5
+General: deals: 3, actions: 6, preflop actions: 3
+Rounds Seen: flops: 14, turns: 9, rivers: 9, showdowns: 8
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 628, lost: 2068, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.571429, WSDW: 0.125
+
+
+Date: 2018/06/12 16:37:22
+
+The game begins. The AI's of the players are: 
+Noebap: AIMyBot1
+Hesopoe: AIMyBot7
+Tulunny: AIMyBot6
+Tohoeko: AIMyBot2
+Chidi: AIMyBot3
+De: AIMyBot4
+Woenhoepu: AIMyBot5
+
+Joins: Noebap, chips: 1000
+Joins: Hesopoe, chips: 1000
+Joins: Tulunny, chips: 1000
+Joins: Tohoeko, chips: 1000
+Joins: Chidi, chips: 1000
+Joins: De, chips: 1000
+Joins: Woenhoepu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woenhoepu
+Small Blind: Noebap, chips: 100
+Big Blind: Hesopoe, chips: 200
+Folds: Tulunny
+Calls: Tohoeko
+Folds: Chidi
+Folds: De
+Calls: Woenhoepu
+Calls: Noebap
+DEBUG MESSAGE: INVALID ACTION FROM Hesopoe (2 0)
+Folds: Hesopoe
+Flop: 2d 7h 5s
+Checks: Noebap
+Raises: Tohoeko, chips: 334
+Calls: Woenhoepu
+Folds: Noebap
+Turn: 5d
+Raises: Tohoeko, chips: 334
+Calls: Woenhoepu
+River: Kh
+Raises: Tohoeko, chips: 132
+Folds: Woenhoepu
+Pot size: 2268
+Wins: Tohoeko, chips: 2268
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Noebap
+Small Blind: Hesopoe, chips: 100
+Big Blind: Tulunny, chips: 200
+Calls: Tohoeko
+Folds: Chidi
+Folds: De
+Calls: Woenhoepu
+Calls: Noebap
+Folds: Hesopoe
+Checks: Tulunny
+Flop: Kc 2c Td
+Checks: Tulunny
+Raises: Tohoeko, chips: 334
+Folds: Noebap
+Folds: Tulunny
+Turn: 3h
+River: 2h
+Pot size: 1166
+Showdown Reached
+Shows: Tohoeko, 6s 7s
+Combination: Tohoeko, Pair ( 2c 2h Kc Td 7s )
+Shows: Woenhoepu, Qd As
+Combination: Woenhoepu, Pair ( 2c 2h As Kc Qd )
+Wins: Tohoeko, chips: 538
+Wins: Woenhoepu, chips: 628
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hesopoe
+Small Blind: Tulunny, chips: 100
+Big Blind: Tohoeko, chips: 200
+Folds: Chidi
+Raises: De, chips: 800
+Calls: Woenhoepu
+Folds: Noebap
+Folds: Hesopoe
+Folds: Tulunny
+Folds: Tohoeko
+Flop: 2s Jc 6c
+Turn: Qd
+River: 8c
+Pot size: 1928
+Showdown Reached
+Shows: De, Ts Qs
+Combination: De, Pair ( Qs Qd Jc Ts 8c )
+Shows: Woenhoepu, 3h 6h
+Combination: Woenhoepu, Pair ( 6h 6c Qd Jc 8c )
+Wins: De, chips: 1928
+Quits: Woenhoepu, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulunny
+Small Blind: Tohoeko, chips: 100
+Big Blind: Chidi, chips: 200
+Folds: De
+Calls: Noebap
+Folds: Hesopoe
+Folds: Tulunny
+Raises: Tohoeko, chips: 234
+Folds: Chidi
+Calls: Noebap
+Flop: Kd Ts 9d
+Raises: Tohoeko, chips: 334
+Folds: Noebap
+Pot size: 1402
+Wins: Tohoeko, chips: 1402
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tohoeko
+Small Blind: Chidi, chips: 100
+Big Blind: De, chips: 200
+Calls: Noebap
+Folds: Hesopoe
+Folds: Tulunny
+Calls: Tohoeko
+Folds: Chidi
+Checks: De
+Flop: 2c 9c 6h
+Checks: De
+Raises: Tohoeko, chips: 334
+Folds: De
+Turn: 9s
+River: Qs
+Pot size: 1000
+Showdown Reached
+Shows: Noebap, 5h 8s
+Combination: Noebap, Pair ( 9c 9s Qs 8s 6h )
+Shows: Tohoeko, 3c 2s
+Combination: Tohoeko, Two Pair ( 9c 9s 2s 2c Qs )
+Wins: Tohoeko, chips: 1000
+Quits: Noebap, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chidi
+Small Blind: De, chips: 100
+Big Blind: Hesopoe, chips: 200
+Folds: Tulunny
+Calls: Tohoeko
+Folds: Chidi
+Folds: De
+DEBUG MESSAGE: INVALID ACTION FROM Hesopoe (2 0)
+Folds: Hesopoe
+Pot size: 500
+Wins: Tohoeko, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: Hesopoe, chips: 100
+Big Blind: Tulunny, chips: 200
+Calls: Tohoeko
+Folds: Chidi
+Folds: De
+Folds: Hesopoe
+Checks: Tulunny
+Flop: Qc Kh 4d
+Checks: Tulunny
+Raises: Tohoeko, chips: 334
+Folds: Tulunny
+Pot size: 834
+Wins: Tohoeko, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hesopoe
+Small Blind: Tulunny, chips: 100
+Big Blind: Tohoeko, chips: 200
+Folds: Chidi
+Folds: De
+Folds: Hesopoe
+Folds: Tulunny
+Pot size: 300
+Wins: Tohoeko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulunny
+Small Blind: Tohoeko, chips: 100
+Big Blind: Chidi, chips: 200
+Folds: De
+Folds: Hesopoe
+Folds: Tulunny
+Raises: Tohoeko, chips: 234
+Folds: Chidi
+Pot size: 634
+Wins: Tohoeko, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tohoeko
+Small Blind: Chidi, chips: 100
+Big Blind: De, chips: 200
+Folds: Hesopoe
+Folds: Tulunny
+Calls: Tohoeko
+Folds: Chidi
+Checks: De
+Flop: 7d 5d 2d
+Checks: De
+Raises: Tohoeko, chips: 334
+Folds: De
+Pot size: 834
+Wins: Tohoeko, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chidi
+Small Blind: De, chips: 100
+Big Blind: Hesopoe, chips: 200
+Folds: Tulunny
+Calls: Tohoeko
+Folds: Chidi
+Folds: De
+DEBUG MESSAGE: INVALID ACTION FROM Hesopoe (2 0)
+Folds: Hesopoe
+Pot size: 500
+Wins: Tohoeko, chips: 500
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: Hesopoe, chips: 100
+Big Blind: Tulunny, chips: 200
+Calls: Tohoeko
+Folds: Chidi
+Folds: De
+Folds: Hesopoe
+Checks: Tulunny
+Flop: 3d 3s Jc
+Checks: Tulunny
+Raises: Tohoeko, chips: 334
+Folds: Tulunny
+Pot size: 834
+Wins: Tohoeko, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hesopoe
+Small Blind: Tulunny, chips: 100
+Big Blind: Tohoeko, chips: 200
+Folds: Chidi
+Folds: De
+Folds: Hesopoe
+Folds: Tulunny
+Pot size: 300
+Wins: Tohoeko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tulunny
+Small Blind: Tohoeko, chips: 100
+Big Blind: Chidi, chips: 200
+Folds: De
+Folds: Hesopoe
+Folds: Tulunny
+Raises: Tohoeko, chips: 234
+Folds: Chidi
+Pot size: 634
+Wins: Tohoeko, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tohoeko
+Small Blind: Chidi, chips: 100
+Big Blind: De, chips: 200
+Folds: Hesopoe
+Folds: Tulunny
+Calls: Tohoeko
+Folds: Chidi
+Checks: De
+Flop: 8s 4h 5h
+Checks: De
+Raises: Tohoeko, chips: 334
+Folds: De
+Pot size: 834
+Wins: Tohoeko, chips: 834
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chidi
+Small Blind: De, chips: 100
+Big Blind: Hesopoe, chips: 100
+Folds: Tulunny
+Raises: Tohoeko, chips: 234
+Folds: Chidi
+Folds: De
+Flop: As 8h 2s
+Turn: 8d
+River: Qd
+Pot size: 534
+Showdown Reached
+Shows: Hesopoe, 6c Jc
+Combination: Hesopoe, Pair ( 8h 8d As Qd Jc )
+Shows: Tohoeko, 9s 6h
+Combination: Tohoeko, Pair ( 8h 8d As Qd 9s )
+Wins: Hesopoe, chips: 300
+Wins: Tohoeko, chips: 234
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: Hesopoe, chips: 100
+Big Blind: Tulunny, chips: 100
+Raises: Tohoeko, chips: 234
+Folds: Chidi
+Folds: De
+Folds: Hesopoe
+Flop: 3d Td 2s
+Turn: Tc
+River: 4s
+Pot size: 534
+Showdown Reached
+Shows: Tulunny, Ac 6d
+Combination: Tulunny, Pair ( Td Tc Ac 6d 4s )
+Shows: Tohoeko, Ad 4h
+Combination: Tohoeko, Two Pair ( Td Tc 4h 4s Ad )
+Wins: Tohoeko, chips: 534
+Quits: Tulunny, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hesopoe
+Small Blind: Tohoeko, chips: 100
+Big Blind: Chidi, chips: 100
+Folds: De
+Folds: Hesopoe
+Raises: Tohoeko, chips: 334
+Flop: 7h 8s Ts
+Turn: Td
+River: Jh
+Pot size: 534
+Showdown Reached
+Shows: Tohoeko, 7s Tc
+Combination: Tohoeko, Full House ( Tc Ts Td 7s 7h )
+Shows: Chidi, Kc 3h
+Combination: Chidi, Pair ( Ts Td Kc Jh 8s )
+Wins: Tohoeko, chips: 534
+Quits: Chidi, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tohoeko
+Small Blind: De, chips: 100
+Big Blind: Hesopoe, chips: 200
+Calls: Tohoeko
+Folds: De
+Flop: Ac 8h 6c
+Turn: Kc
+River: 7d
+Pot size: 500
+Showdown Reached
+Shows: Hesopoe, 5s Tc
+Combination: Hesopoe, High Card ( Ac Kc Tc 8h 7d )
+Shows: Tohoeko, Qh Ah
+Combination: Tohoeko, Pair ( Ah Ac Kc Qh 8h )
+Wins: Tohoeko, chips: 500
+Quits: Hesopoe, chips: 0
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Tohoeko, chips: 200
+Raises: De, chips: 728
+Folds: Tohoeko
+Pot size: 1128
+Wins: De, chips: 1128
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tohoeko
+Small Blind: Tohoeko, chips: 100
+Big Blind: De, chips: 200
+Raises: Tohoeko, chips: 234
+Folds: De
+Pot size: 634
+Wins: Tohoeko, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Tohoeko, chips: 200
+Folds: De
+Pot size: 300
+Wins: Tohoeko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tohoeko
+Small Blind: Tohoeko, chips: 100
+Big Blind: De, chips: 200
+Raises: Tohoeko, chips: 234
+Folds: De
+Pot size: 634
+Wins: Tohoeko, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Tohoeko, chips: 200
+Folds: De
+Pot size: 300
+Wins: Tohoeko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tohoeko
+Small Blind: Tohoeko, chips: 100
+Big Blind: De, chips: 200
+Raises: Tohoeko, chips: 234
+Folds: De
+Pot size: 634
+Wins: Tohoeko, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Tohoeko, chips: 200
+Folds: De
+Pot size: 300
+Wins: Tohoeko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tohoeko
+Small Blind: Tohoeko, chips: 100
+Big Blind: De, chips: 200
+Raises: Tohoeko, chips: 234
+Folds: De
+Pot size: 634
+Wins: Tohoeko, chips: 634
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 28
+Big Blind: Tohoeko, chips: 200
+Flop: Jc Tc 2d
+Turn: 9c
+River: 5h
+Pot size: 228
+Showdown Reached
+Shows: Tohoeko, 8d 7c
+Combination: Tohoeko, Straight ( Jc Tc 9c 8d 7c )
+Shows: De, Ad 3d
+Combination: De, High Card ( Ad Jc Tc 9c 5h )
+Wins: Tohoeko, chips: 228
+Quits: De, chips: 0
+Ranking: Tohoeko, Place: 1, Score: 6000
+Reveal AI: Tohoeko, AI: AIMyBot2
+Ranking: De, Place: 2, Score: -1000
+Reveal AI: De, AI: AIMyBot4
+Ranking: Hesopoe, Place: 3, Score: -1000
+Reveal AI: Hesopoe, AI: AIMyBot7
+Ranking: Chidi, Place: 4, Score: -1000
+Reveal AI: Chidi, AI: AIMyBot3
+Ranking: Tulunny, Place: 5, Score: -1000
+Reveal AI: Tulunny, AI: AIMyBot6
+Ranking: Noebap, Place: 6, Score: -1000
+Reveal AI: Noebap, AI: AIMyBot1
+Ranking: Woenhoepu, Place: 7, Score: -1000
+Reveal AI: Woenhoepu, AI: AIMyBot5
+
+Player Stats for Chidi, AI: AIMyBot3
+General: deals: 18, actions: 17, preflop actions: 17
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for De, AI: AIMyBot4
+General: deals: 28, actions: 33, preflop actions: 27
+Rounds Seen: flops: 5, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 3056, lost: 4056, bought: 1000, forced bets: 2228
+Pre-Flop Stats: VP$IP: 0.0714286, PFR: 0.0714286, 3Bet: 0.0714286
+Post-Flop Stats: AF: -1.#IND, WSD: 0.4, WSDW: 0.5
+
+
+Player Stats for Hesopoe, AI: AIMyBot7
+General: deals: 19, actions: 17, preflop actions: 17
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Player Stats for Noebap, AI: AIMyBot1
+General: deals: 5, actions: 10, preflop actions: 6
+Rounds Seen: flops: 13, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1034, bought: 1000, forced bets: 100
+Pre-Flop Stats: VP$IP: 0.8, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.461538, WSDW: 0
+
+
+Player Stats for Tohoeko, AI: AIMyBot2
+General: deals: 28, actions: 32, preflop actions: 22
+Rounds Seen: flops: 13, turns: 8, rivers: 8, showdowns: 7
+Wins: total: 26, showdown: 7, bluff: 19
+Chips: won: 16878, lost: 10878, bought: 1000, forced bets: 2400
+Pre-Flop Stats: VP$IP: 0.714286, PFR: 0.357143, 3Bet: 0.321429
+Post-Flop Stats: AF: 1.#INF, WSD: 0.538462, WSDW: 1
+
+
+Player Stats for Tulunny, AI: AIMyBot6
+General: deals: 17, actions: 22, preflop actions: 16
+Rounds Seen: flops: 7, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.571429, WSDW: 0
+
+
+Player Stats for Woenhoepu, AI: AIMyBot5
+General: deals: 3, actions: 6, preflop actions: 3
+Rounds Seen: flops: 14, turns: 9, rivers: 9, showdowns: 8
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 628, lost: 2068, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.571429, WSDW: 0.125
+
+

@@ -1,0 +1,476 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Poenhanhev: AIMyBot1
+Dakoek: Random
+
+Joins: Poenhanhev, chips: 1000
+Joins: Dakoek, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 200
+Raises: Dakoek, chips: 800
+Folds: Poenhanhev
+Pot size: 1200
+Wins: Dakoek, chips: 1200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 200
+Folds: Dakoek
+Pot size: 300
+Wins: Poenhanhev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Boasts: Dakoek, Qc 6s
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 200
+Calls: Dakoek
+DEBUG MESSAGE: INVALID ACTION FROM Poenhanhev (2 0)
+Folds: Poenhanhev
+Pot size: 400
+Boasts: Dakoek, 5c 6s
+Wins: Dakoek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Boasts: Dakoek, Th Kd
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 200
+Folds: Dakoek
+Pot size: 300
+Boasts: Dakoek, As 3d
+Wins: Poenhanhev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 200
+Folds: Dakoek
+Pot size: 300
+Wins: Poenhanhev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 200
+Folds: Dakoek
+Pot size: 300
+Boasts: Dakoek, Ad 2h
+Wins: Poenhanhev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Boasts: Dakoek, Jc 6h
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 200
+Folds: Dakoek
+Pot size: 300
+Boasts: Dakoek, 3s Qs
+Wins: Poenhanhev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Boasts: Dakoek, Jh Jc
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 200
+Calls: Dakoek
+DEBUG MESSAGE: INVALID ACTION FROM Poenhanhev (2 0)
+Folds: Poenhanhev
+Pot size: 400
+Wins: Dakoek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Boasts: Dakoek, Kd Th
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 100
+Flop: 4h Ah Qd
+Turn: Jc
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Poenhanhev, Th 7c
+Combination: Poenhanhev, Pair ( Qd Qc Ah Jc Th )
+Shows: Dakoek, 5d 7h
+Combination: Dakoek, Pair ( Qd Qc Ah Jc 7h )
+Wins: Poenhanhev, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Boasts: Dakoek, Qs 2s
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 100
+Flop: Th Kd Td
+Turn: 3h
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Poenhanhev, Kc 4s
+Combination: Poenhanhev, Full House ( Th Td Tc Kc Kd )
+Shows: Dakoek, 6c Qs
+Combination: Dakoek, Three Of A Kind ( Th Td Tc Kd Qs )
+Wins: Poenhanhev, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 100
+Flop: Qs Kc Jc
+Turn: Td
+River: 6h
+Pot size: 200
+Showdown Reached
+Shows: Poenhanhev, Jd 9c
+Combination: Poenhanhev, Straight ( Kc Qs Jd Td 9c )
+Shows: Dakoek, 8s Jh
+Combination: Dakoek, Pair ( Jh Jc Kc Qs Td )
+Wins: Poenhanhev, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Boasts: Dakoek, 7c As
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 100
+Flop: 5d 6h 9h
+Turn: 2s
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Poenhanhev, Td 4s
+Combination: Poenhanhev, High Card ( Td 9h 7d 6h 5d )
+Shows: Dakoek, Js 5h
+Combination: Dakoek, Pair ( 5h 5d Js 9h 7d )
+Wins: Dakoek, chips: 200
+Quits: Poenhanhev, chips: 0
+Ranking: Dakoek, Place: 1, Score: 1000
+Reveal AI: Dakoek, AI: Random
+Ranking: Poenhanhev, Place: 2, Score: -1000
+Reveal AI: Poenhanhev, AI: AIMyBot1
+
+Player Stats for Dakoek, AI: Random
+General: deals: 23, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 15, showdown: 1, bluff: 14
+Chips: won: 5500, lost: 4500, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.0434783, 3Bet: 0.0434783
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.25
+
+
+Player Stats for Poenhanhev, AI: AIMyBot1
+General: deals: 23, actions: 14, preflop actions: 14
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 8, showdown: 3, bluff: 5
+Chips: won: 2100, lost: 3100, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+
+Date: 2022/10/25 13:46:08
+
+The game begins. The AI's of the players are: 
+Poenhanhev: AIMyBot1
+Dakoek: Random
+
+Joins: Poenhanhev, chips: 1000
+Joins: Dakoek, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 200
+Raises: Dakoek, chips: 800
+Folds: Poenhanhev
+Pot size: 1200
+Wins: Dakoek, chips: 1200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 200
+Folds: Dakoek
+Pot size: 300
+Wins: Poenhanhev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Boasts: Dakoek, Qc 6s
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 200
+Calls: Dakoek
+DEBUG MESSAGE: INVALID ACTION FROM Poenhanhev (2 0)
+Folds: Poenhanhev
+Pot size: 400
+Boasts: Dakoek, 5c 6s
+Wins: Dakoek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Boasts: Dakoek, Th Kd
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 200
+Folds: Dakoek
+Pot size: 300
+Boasts: Dakoek, As 3d
+Wins: Poenhanhev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 200
+Folds: Dakoek
+Pot size: 300
+Wins: Poenhanhev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 200
+Folds: Dakoek
+Pot size: 300
+Boasts: Dakoek, Ad 2h
+Wins: Poenhanhev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Boasts: Dakoek, Jc 6h
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 200
+Folds: Dakoek
+Pot size: 300
+Boasts: Dakoek, 3s Qs
+Wins: Poenhanhev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Boasts: Dakoek, Jh Jc
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 200
+Calls: Dakoek
+DEBUG MESSAGE: INVALID ACTION FROM Poenhanhev (2 0)
+Folds: Poenhanhev
+Pot size: 400
+Wins: Dakoek, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Boasts: Dakoek, Kd Th
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 100
+Flop: 4h Ah Qd
+Turn: Jc
+River: Qc
+Pot size: 200
+Showdown Reached
+Shows: Poenhanhev, Th 7c
+Combination: Poenhanhev, Pair ( Qd Qc Ah Jc Th )
+Shows: Dakoek, 5d 7h
+Combination: Dakoek, Pair ( Qd Qc Ah Jc 7h )
+Wins: Poenhanhev, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Boasts: Dakoek, Qs 2s
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 100
+Flop: Th Kd Td
+Turn: 3h
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Poenhanhev, Kc 4s
+Combination: Poenhanhev, Full House ( Th Td Tc Kc Kd )
+Shows: Dakoek, 6c Qs
+Combination: Dakoek, Three Of A Kind ( Th Td Tc Kd Qs )
+Wins: Poenhanhev, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 100
+Flop: Qs Kc Jc
+Turn: Td
+River: 6h
+Pot size: 200
+Showdown Reached
+Shows: Poenhanhev, Jd 9c
+Combination: Poenhanhev, Straight ( Kc Qs Jd Td 9c )
+Shows: Dakoek, 8s Jh
+Combination: Dakoek, Pair ( Jh Jc Kc Qs Td )
+Wins: Poenhanhev, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhanhev
+Small Blind: Poenhanhev, chips: 100
+Big Blind: Dakoek, chips: 200
+Folds: Poenhanhev
+Pot size: 300
+Boasts: Dakoek, 7c As
+Wins: Dakoek, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dakoek
+Small Blind: Dakoek, chips: 100
+Big Blind: Poenhanhev, chips: 100
+Flop: 5d 6h 9h
+Turn: 2s
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Poenhanhev, Td 4s
+Combination: Poenhanhev, High Card ( Td 9h 7d 6h 5d )
+Shows: Dakoek, Js 5h
+Combination: Dakoek, Pair ( 5h 5d Js 9h 7d )
+Wins: Dakoek, chips: 200
+Quits: Poenhanhev, chips: 0
+Ranking: Dakoek, Place: 1, Score: 1000
+Reveal AI: Dakoek, AI: Random
+Ranking: Poenhanhev, Place: 2, Score: -1000
+Reveal AI: Poenhanhev, AI: AIMyBot1
+
+Player Stats for Dakoek, AI: Random
+General: deals: 23, actions: 8, preflop actions: 8
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 15, showdown: 1, bluff: 14
+Chips: won: 5500, lost: 4500, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.0434783, 3Bet: 0.0434783
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.25
+
+
+Player Stats for Poenhanhev, AI: AIMyBot1
+General: deals: 23, actions: 14, preflop actions: 14
+Rounds Seen: flops: 4, turns: 4, rivers: 4, showdowns: 4
+Wins: total: 8, showdown: 3, bluff: 5
+Chips: won: 2100, lost: 3100, bought: 1000, forced bets: 3100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.75
+
+

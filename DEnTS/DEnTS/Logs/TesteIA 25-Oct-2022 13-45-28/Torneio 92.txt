@@ -1,0 +1,194 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Jilivu: Random
+Katolo: AIMyBot1
+
+Joins: Jilivu, chips: 1000
+Joins: Katolo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Katolo
+Small Blind: Katolo, chips: 100
+Big Blind: Jilivu, chips: 200
+Folds: Katolo
+Pot size: 300
+Wins: Jilivu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jilivu
+Small Blind: Jilivu, chips: 100
+Big Blind: Katolo, chips: 200
+Raises: Jilivu, chips: 900
+Folds: Katolo
+Pot size: 1300
+Wins: Jilivu, chips: 1300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Katolo
+Small Blind: Katolo, chips: 100
+Big Blind: Jilivu, chips: 200
+Folds: Katolo
+Pot size: 300
+Boasts: Jilivu, 5h 7s
+Wins: Jilivu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jilivu
+Small Blind: Jilivu, chips: 100
+Big Blind: Katolo, chips: 200
+Calls: Jilivu
+DEBUG MESSAGE: INVALID ACTION FROM Katolo (2 0)
+Folds: Katolo
+Pot size: 400
+Wins: Jilivu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Katolo
+Small Blind: Katolo, chips: 100
+Big Blind: Jilivu, chips: 200
+Folds: Katolo
+Pot size: 300
+Boasts: Jilivu, 3c Js
+Wins: Jilivu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jilivu
+Small Blind: Jilivu, chips: 100
+Big Blind: Katolo, chips: 200
+Calls: Jilivu
+DEBUG MESSAGE: INVALID ACTION FROM Katolo (2 0)
+Folds: Katolo
+Pot size: 400
+Boasts: Jilivu, 9h Td
+Wins: Jilivu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Katolo
+Small Blind: Katolo, chips: 100
+Big Blind: Jilivu, chips: 200
+Flop: 7s Tc Qs
+Turn: Ks
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Jilivu, 5d 3h
+Combination: Jilivu, Pair ( 5d 5c Ks Qs Tc )
+Shows: Katolo, 9d 4c
+Combination: Katolo, High Card ( Ks Qs Tc 9d 7s )
+Wins: Jilivu, chips: 300
+Quits: Katolo, chips: 0
+Ranking: Jilivu, Place: 1, Score: 1000
+Reveal AI: Jilivu, AI: Random
+Ranking: Katolo, Place: 2, Score: -1000
+Reveal AI: Katolo, AI: AIMyBot1
+
+Player Stats for Jilivu, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Katolo, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:36
+
+The game begins. The AI's of the players are: 
+Jilivu: Random
+Katolo: AIMyBot1
+
+Joins: Jilivu, chips: 1000
+Joins: Katolo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Katolo
+Small Blind: Katolo, chips: 100
+Big Blind: Jilivu, chips: 200
+Folds: Katolo
+Pot size: 300
+Wins: Jilivu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jilivu
+Small Blind: Jilivu, chips: 100
+Big Blind: Katolo, chips: 200
+Raises: Jilivu, chips: 900
+Folds: Katolo
+Pot size: 1300
+Wins: Jilivu, chips: 1300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Katolo
+Small Blind: Katolo, chips: 100
+Big Blind: Jilivu, chips: 200
+Folds: Katolo
+Pot size: 300
+Boasts: Jilivu, 5h 7s
+Wins: Jilivu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jilivu
+Small Blind: Jilivu, chips: 100
+Big Blind: Katolo, chips: 200
+Calls: Jilivu
+DEBUG MESSAGE: INVALID ACTION FROM Katolo (2 0)
+Folds: Katolo
+Pot size: 400
+Wins: Jilivu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Katolo
+Small Blind: Katolo, chips: 100
+Big Blind: Jilivu, chips: 200
+Folds: Katolo
+Pot size: 300
+Boasts: Jilivu, 3c Js
+Wins: Jilivu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jilivu
+Small Blind: Jilivu, chips: 100
+Big Blind: Katolo, chips: 200
+Calls: Jilivu
+DEBUG MESSAGE: INVALID ACTION FROM Katolo (2 0)
+Folds: Katolo
+Pot size: 400
+Boasts: Jilivu, 9h Td
+Wins: Jilivu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Katolo
+Small Blind: Katolo, chips: 100
+Big Blind: Jilivu, chips: 200
+Flop: 7s Tc Qs
+Turn: Ks
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Jilivu, 5d 3h
+Combination: Jilivu, Pair ( 5d 5c Ks Qs Tc )
+Shows: Katolo, 9d 4c
+Combination: Katolo, High Card ( Ks Qs Tc 9d 7s )
+Wins: Jilivu, chips: 300
+Quits: Katolo, chips: 0
+Ranking: Jilivu, Place: 1, Score: 1000
+Reveal AI: Jilivu, AI: Random
+Ranking: Katolo, Place: 2, Score: -1000
+Reveal AI: Katolo, AI: AIMyBot1
+
+Player Stats for Jilivu, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.142857, 3Bet: 0.142857
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Katolo, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

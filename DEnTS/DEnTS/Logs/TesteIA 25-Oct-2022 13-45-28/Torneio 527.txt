@@ -1,0 +1,394 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Heechigeetry: Random
+Tabo: AIMyBot1
+
+Joins: Heechigeetry, chips: 1000
+Joins: Tabo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tabo
+Small Blind: Tabo, chips: 100
+Big Blind: Heechigeetry, chips: 200
+Folds: Tabo
+Pot size: 300
+Wins: Heechigeetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heechigeetry
+Small Blind: Heechigeetry, chips: 100
+Big Blind: Tabo, chips: 200
+Calls: Heechigeetry
+DEBUG MESSAGE: INVALID ACTION FROM Tabo (2 0)
+Folds: Tabo
+Pot size: 400
+Boasts: Heechigeetry, Tc 4h
+Wins: Heechigeetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tabo
+Small Blind: Tabo, chips: 100
+Big Blind: Heechigeetry, chips: 200
+Folds: Tabo
+Pot size: 300
+Boasts: Heechigeetry, 3d Kd
+Wins: Heechigeetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heechigeetry
+Small Blind: Heechigeetry, chips: 100
+Big Blind: Tabo, chips: 200
+Calls: Heechigeetry
+DEBUG MESSAGE: INVALID ACTION FROM Tabo (2 0)
+Folds: Tabo
+Pot size: 400
+Wins: Heechigeetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tabo
+Small Blind: Tabo, chips: 100
+Big Blind: Heechigeetry, chips: 200
+Folds: Tabo
+Pot size: 300
+Boasts: Heechigeetry, 9h 7d
+Wins: Heechigeetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heechigeetry
+Small Blind: Heechigeetry, chips: 100
+Big Blind: Tabo, chips: 200
+Folds: Heechigeetry
+Pot size: 300
+Boasts: Heechigeetry, 9h Ah
+Wins: Tabo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tabo
+Small Blind: Tabo, chips: 100
+Big Blind: Heechigeetry, chips: 200
+Folds: Tabo
+Pot size: 300
+Boasts: Heechigeetry, 7s 6d
+Wins: Heechigeetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heechigeetry
+Small Blind: Heechigeetry, chips: 100
+Big Blind: Tabo, chips: 200
+Calls: Heechigeetry
+DEBUG MESSAGE: INVALID ACTION FROM Tabo (2 0)
+Folds: Tabo
+Pot size: 400
+Boasts: Heechigeetry, 8s 7c
+Wins: Heechigeetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tabo
+Small Blind: Tabo, chips: 100
+Big Blind: Heechigeetry, chips: 200
+Flop: Js Ah Jh
+Turn: Qd
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Heechigeetry, 5h 8c
+Combination: Heechigeetry, Pair ( Js Jh Ah Qd 8c )
+Shows: Tabo, Kc Qh
+Combination: Tabo, Two Pair ( Qh Qd Js Jh Ah )
+Wins: Heechigeetry, chips: 100
+Wins: Tabo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heechigeetry
+Small Blind: Heechigeetry, chips: 100
+Big Blind: Tabo, chips: 200
+Flop: 5d Td 2h
+Turn: As
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Heechigeetry, Kh 4c
+Combination: Heechigeetry, High Card ( As Kh Jh Td 5d )
+Shows: Tabo, 9h Kd
+Combination: Tabo, High Card ( As Kd Jh Td 9h )
+Wins: Tabo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tabo
+Small Blind: Tabo, chips: 100
+Big Blind: Heechigeetry, chips: 200
+Folds: Tabo
+Pot size: 300
+Boasts: Heechigeetry, Ac Ks
+Wins: Heechigeetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heechigeetry
+Small Blind: Heechigeetry, chips: 100
+Big Blind: Tabo, chips: 200
+Flop: 6s 9c 6h
+Turn: 4s
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Heechigeetry, Js 7d
+Combination: Heechigeetry, Two Pair ( 9c 9h 6s 6h Js )
+Shows: Tabo, 5c 3d
+Combination: Tabo, Two Pair ( 9c 9h 6s 6h 5c )
+Wins: Heechigeetry, chips: 200
+Wins: Tabo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tabo
+Small Blind: Tabo, chips: 100
+Big Blind: Heechigeetry, chips: 200
+Flop: Jh 6c 2d
+Turn: Qs
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Heechigeetry, 8h 4c
+Combination: Heechigeetry, Pair ( Qs Qh Jh 8h 6c )
+Shows: Tabo, 2s 5h
+Combination: Tabo, Two Pair ( Qs Qh 2s 2d Jh )
+Wins: Heechigeetry, chips: 100
+Wins: Tabo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heechigeetry
+Small Blind: Heechigeetry, chips: 100
+Big Blind: Tabo, chips: 200
+Flop: 5d 5s 4s
+Turn: Tc
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Heechigeetry, 9d 9c
+Combination: Heechigeetry, Two Pair ( 9d 9c 5d 5s Jh )
+Shows: Tabo, 3c 4c
+Combination: Tabo, Two Pair ( 5d 5s 4c 4s Jh )
+Wins: Heechigeetry, chips: 200
+Wins: Tabo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tabo
+Small Blind: Tabo, chips: 100
+Big Blind: Heechigeetry, chips: 200
+Flop: 2h As 7d
+Turn: Ks
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Heechigeetry, 4s 4d
+Combination: Heechigeetry, Two Pair ( 4s 4d 2h 2s As )
+Shows: Tabo, 6d Tc
+Combination: Tabo, Pair ( 2h 2s As Ks Tc )
+Wins: Heechigeetry, chips: 300
+Quits: Tabo, chips: 0
+Ranking: Heechigeetry, Place: 1, Score: 1000
+Reveal AI: Heechigeetry, AI: Random
+Ranking: Tabo, Place: 2, Score: -1000
+Reveal AI: Tabo, AI: AIMyBot1
+
+Player Stats for Heechigeetry, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 5, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Tabo, AI: AIMyBot1
+General: deals: 15, actions: 8, preflop actions: 8
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:46:04
+
+The game begins. The AI's of the players are: 
+Heechigeetry: Random
+Tabo: AIMyBot1
+
+Joins: Heechigeetry, chips: 1000
+Joins: Tabo, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tabo
+Small Blind: Tabo, chips: 100
+Big Blind: Heechigeetry, chips: 200
+Folds: Tabo
+Pot size: 300
+Wins: Heechigeetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heechigeetry
+Small Blind: Heechigeetry, chips: 100
+Big Blind: Tabo, chips: 200
+Calls: Heechigeetry
+DEBUG MESSAGE: INVALID ACTION FROM Tabo (2 0)
+Folds: Tabo
+Pot size: 400
+Boasts: Heechigeetry, Tc 4h
+Wins: Heechigeetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tabo
+Small Blind: Tabo, chips: 100
+Big Blind: Heechigeetry, chips: 200
+Folds: Tabo
+Pot size: 300
+Boasts: Heechigeetry, 3d Kd
+Wins: Heechigeetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heechigeetry
+Small Blind: Heechigeetry, chips: 100
+Big Blind: Tabo, chips: 200
+Calls: Heechigeetry
+DEBUG MESSAGE: INVALID ACTION FROM Tabo (2 0)
+Folds: Tabo
+Pot size: 400
+Wins: Heechigeetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tabo
+Small Blind: Tabo, chips: 100
+Big Blind: Heechigeetry, chips: 200
+Folds: Tabo
+Pot size: 300
+Boasts: Heechigeetry, 9h 7d
+Wins: Heechigeetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heechigeetry
+Small Blind: Heechigeetry, chips: 100
+Big Blind: Tabo, chips: 200
+Folds: Heechigeetry
+Pot size: 300
+Boasts: Heechigeetry, 9h Ah
+Wins: Tabo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tabo
+Small Blind: Tabo, chips: 100
+Big Blind: Heechigeetry, chips: 200
+Folds: Tabo
+Pot size: 300
+Boasts: Heechigeetry, 7s 6d
+Wins: Heechigeetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heechigeetry
+Small Blind: Heechigeetry, chips: 100
+Big Blind: Tabo, chips: 200
+Calls: Heechigeetry
+DEBUG MESSAGE: INVALID ACTION FROM Tabo (2 0)
+Folds: Tabo
+Pot size: 400
+Boasts: Heechigeetry, 8s 7c
+Wins: Heechigeetry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tabo
+Small Blind: Tabo, chips: 100
+Big Blind: Heechigeetry, chips: 200
+Flop: Js Ah Jh
+Turn: Qd
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Heechigeetry, 5h 8c
+Combination: Heechigeetry, Pair ( Js Jh Ah Qd 8c )
+Shows: Tabo, Kc Qh
+Combination: Tabo, Two Pair ( Qh Qd Js Jh Ah )
+Wins: Heechigeetry, chips: 100
+Wins: Tabo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heechigeetry
+Small Blind: Heechigeetry, chips: 100
+Big Blind: Tabo, chips: 200
+Flop: 5d Td 2h
+Turn: As
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Heechigeetry, Kh 4c
+Combination: Heechigeetry, High Card ( As Kh Jh Td 5d )
+Shows: Tabo, 9h Kd
+Combination: Tabo, High Card ( As Kd Jh Td 9h )
+Wins: Tabo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tabo
+Small Blind: Tabo, chips: 100
+Big Blind: Heechigeetry, chips: 200
+Folds: Tabo
+Pot size: 300
+Boasts: Heechigeetry, Ac Ks
+Wins: Heechigeetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heechigeetry
+Small Blind: Heechigeetry, chips: 100
+Big Blind: Tabo, chips: 200
+Flop: 6s 9c 6h
+Turn: 4s
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Heechigeetry, Js 7d
+Combination: Heechigeetry, Two Pair ( 9c 9h 6s 6h Js )
+Shows: Tabo, 5c 3d
+Combination: Tabo, Two Pair ( 9c 9h 6s 6h 5c )
+Wins: Heechigeetry, chips: 200
+Wins: Tabo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tabo
+Small Blind: Tabo, chips: 100
+Big Blind: Heechigeetry, chips: 200
+Flop: Jh 6c 2d
+Turn: Qs
+River: Qh
+Pot size: 300
+Showdown Reached
+Shows: Heechigeetry, 8h 4c
+Combination: Heechigeetry, Pair ( Qs Qh Jh 8h 6c )
+Shows: Tabo, 2s 5h
+Combination: Tabo, Two Pair ( Qs Qh 2s 2d Jh )
+Wins: Heechigeetry, chips: 100
+Wins: Tabo, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Heechigeetry
+Small Blind: Heechigeetry, chips: 100
+Big Blind: Tabo, chips: 200
+Flop: 5d 5s 4s
+Turn: Tc
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Heechigeetry, 9d 9c
+Combination: Heechigeetry, Two Pair ( 9d 9c 5d 5s Jh )
+Shows: Tabo, 3c 4c
+Combination: Tabo, Two Pair ( 5d 5s 4c 4s Jh )
+Wins: Heechigeetry, chips: 200
+Wins: Tabo, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Tabo
+Small Blind: Tabo, chips: 100
+Big Blind: Heechigeetry, chips: 200
+Flop: 2h As 7d
+Turn: Ks
+River: 2s
+Pot size: 300
+Showdown Reached
+Shows: Heechigeetry, 4s 4d
+Combination: Heechigeetry, Two Pair ( 4s 4d 2h 2s As )
+Shows: Tabo, 6d Tc
+Combination: Tabo, Pair ( 2h 2s As Ks Tc )
+Wins: Heechigeetry, chips: 300
+Quits: Tabo, chips: 0
+Ranking: Heechigeetry, Place: 1, Score: 1000
+Reveal AI: Heechigeetry, AI: Random
+Ranking: Tabo, Place: 2, Score: -1000
+Reveal AI: Tabo, AI: AIMyBot1
+
+Player Stats for Heechigeetry, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 5, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Tabo, AI: AIMyBot1
+General: deals: 15, actions: 8, preflop actions: 8
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

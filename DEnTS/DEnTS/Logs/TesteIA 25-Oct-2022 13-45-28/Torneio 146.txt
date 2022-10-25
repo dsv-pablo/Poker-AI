@@ -1,0 +1,264 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Varlev: AIMyBot1
+Riree: Random
+
+Joins: Varlev, chips: 1000
+Joins: Riree, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riree
+Small Blind: Riree, chips: 100
+Big Blind: Varlev, chips: 200
+Folds: Riree
+Pot size: 300
+Boasts: Riree, 6h 2h
+Wins: Varlev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Varlev
+Small Blind: Varlev, chips: 100
+Big Blind: Riree, chips: 200
+Folds: Varlev
+Pot size: 300
+Wins: Riree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riree
+Small Blind: Riree, chips: 100
+Big Blind: Varlev, chips: 200
+Raises: Riree, chips: 300
+Folds: Varlev
+Pot size: 700
+Wins: Riree, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Varlev
+Small Blind: Varlev, chips: 100
+Big Blind: Riree, chips: 200
+Folds: Varlev
+Pot size: 300
+Wins: Riree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riree
+Small Blind: Riree, chips: 100
+Big Blind: Varlev, chips: 200
+Raises: Riree, chips: 300
+Folds: Varlev
+Pot size: 700
+Boasts: Riree, 3d Td
+Wins: Riree, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Varlev
+Small Blind: Varlev, chips: 100
+Big Blind: Riree, chips: 200
+Folds: Varlev
+Pot size: 300
+Wins: Riree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riree
+Small Blind: Riree, chips: 100
+Big Blind: Varlev, chips: 200
+Calls: Riree
+DEBUG MESSAGE: INVALID ACTION FROM Varlev (2 0)
+Folds: Varlev
+Pot size: 400
+Wins: Riree, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Varlev
+Small Blind: Varlev, chips: 100
+Big Blind: Riree, chips: 200
+Folds: Varlev
+Pot size: 300
+Boasts: Riree, 2h Ac
+Wins: Riree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riree
+Small Blind: Riree, chips: 100
+Big Blind: Varlev, chips: 100
+Flop: Qh Qc 7s
+Turn: 2d
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Varlev, 8s 4c
+Combination: Varlev, Two Pair ( Qh Qc 4c 4d 8s )
+Shows: Riree, 3s Jd
+Combination: Riree, Pair ( Qh Qc Jd 7s 4d )
+Wins: Varlev, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Varlev
+Small Blind: Varlev, chips: 100
+Big Blind: Riree, chips: 200
+Folds: Varlev
+Pot size: 300
+Boasts: Riree, Qh Ts
+Wins: Riree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riree
+Small Blind: Riree, chips: 100
+Big Blind: Varlev, chips: 100
+Flop: 7h 2h 4d
+Turn: Jd
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Varlev, Ks 3d
+Combination: Varlev, High Card ( Ks Jd 7h 5h 4d )
+Shows: Riree, Ts Td
+Combination: Riree, Pair ( Ts Td Jd 7h 5h )
+Wins: Riree, chips: 200
+Quits: Varlev, chips: 0
+Ranking: Riree, Place: 1, Score: 1000
+Reveal AI: Riree, AI: Random
+Ranking: Varlev, Place: 2, Score: -1000
+Reveal AI: Varlev, AI: AIMyBot1
+
+Player Stats for Riree, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Varlev, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:45:39
+
+The game begins. The AI's of the players are: 
+Varlev: AIMyBot1
+Riree: Random
+
+Joins: Varlev, chips: 1000
+Joins: Riree, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riree
+Small Blind: Riree, chips: 100
+Big Blind: Varlev, chips: 200
+Folds: Riree
+Pot size: 300
+Boasts: Riree, 6h 2h
+Wins: Varlev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Varlev
+Small Blind: Varlev, chips: 100
+Big Blind: Riree, chips: 200
+Folds: Varlev
+Pot size: 300
+Wins: Riree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riree
+Small Blind: Riree, chips: 100
+Big Blind: Varlev, chips: 200
+Raises: Riree, chips: 300
+Folds: Varlev
+Pot size: 700
+Wins: Riree, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Varlev
+Small Blind: Varlev, chips: 100
+Big Blind: Riree, chips: 200
+Folds: Varlev
+Pot size: 300
+Wins: Riree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riree
+Small Blind: Riree, chips: 100
+Big Blind: Varlev, chips: 200
+Raises: Riree, chips: 300
+Folds: Varlev
+Pot size: 700
+Boasts: Riree, 3d Td
+Wins: Riree, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Varlev
+Small Blind: Varlev, chips: 100
+Big Blind: Riree, chips: 200
+Folds: Varlev
+Pot size: 300
+Wins: Riree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riree
+Small Blind: Riree, chips: 100
+Big Blind: Varlev, chips: 200
+Calls: Riree
+DEBUG MESSAGE: INVALID ACTION FROM Varlev (2 0)
+Folds: Varlev
+Pot size: 400
+Wins: Riree, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Varlev
+Small Blind: Varlev, chips: 100
+Big Blind: Riree, chips: 200
+Folds: Varlev
+Pot size: 300
+Boasts: Riree, 2h Ac
+Wins: Riree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riree
+Small Blind: Riree, chips: 100
+Big Blind: Varlev, chips: 100
+Flop: Qh Qc 7s
+Turn: 2d
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Varlev, 8s 4c
+Combination: Varlev, Two Pair ( Qh Qc 4c 4d 8s )
+Shows: Riree, 3s Jd
+Combination: Riree, Pair ( Qh Qc Jd 7s 4d )
+Wins: Varlev, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Varlev
+Small Blind: Varlev, chips: 100
+Big Blind: Riree, chips: 200
+Folds: Varlev
+Pot size: 300
+Boasts: Riree, Qh Ts
+Wins: Riree, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riree
+Small Blind: Riree, chips: 100
+Big Blind: Varlev, chips: 100
+Flop: 7h 2h 4d
+Turn: Jd
+River: 5h
+Pot size: 200
+Showdown Reached
+Shows: Varlev, Ks 3d
+Combination: Varlev, High Card ( Ks Jd 7h 5h 4d )
+Shows: Riree, Ts Td
+Combination: Riree, Pair ( Ts Td Jd 7h 5h )
+Wins: Riree, chips: 200
+Quits: Varlev, chips: 0
+Ranking: Riree, Place: 1, Score: 1000
+Reveal AI: Riree, AI: Random
+Ranking: Varlev, Place: 2, Score: -1000
+Reveal AI: Varlev, AI: AIMyBot1
+
+Player Stats for Riree, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Varlev, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

@@ -1,0 +1,282 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Ko: AIMyBot1
+Kefol: Random
+
+Joins: Ko, chips: 1000
+Joins: Kefol, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Kefol, chips: 200
+Folds: Ko
+Pot size: 300
+Boasts: Kefol, Qs 2s
+Wins: Kefol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefol
+Small Blind: Kefol, chips: 100
+Big Blind: Ko, chips: 200
+Folds: Kefol
+Pot size: 300
+Wins: Ko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Kefol, chips: 200
+Folds: Ko
+Pot size: 300
+Boasts: Kefol, 3h 8c
+Wins: Kefol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefol
+Small Blind: Kefol, chips: 100
+Big Blind: Ko, chips: 200
+Calls: Kefol
+DEBUG MESSAGE: INVALID ACTION FROM Ko (2 0)
+Folds: Ko
+Pot size: 400
+Wins: Kefol, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Kefol, chips: 200
+Folds: Ko
+Pot size: 300
+Wins: Kefol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefol
+Small Blind: Kefol, chips: 100
+Big Blind: Ko, chips: 200
+Raises: Kefol, chips: 300
+Folds: Ko
+Pot size: 700
+Wins: Kefol, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Kefol, chips: 200
+Folds: Ko
+Pot size: 300
+Wins: Kefol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefol
+Small Blind: Kefol, chips: 100
+Big Blind: Ko, chips: 200
+Calls: Kefol
+DEBUG MESSAGE: INVALID ACTION FROM Ko (2 0)
+Folds: Ko
+Pot size: 400
+Boasts: Kefol, 4c Qd
+Wins: Kefol, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Kefol, chips: 200
+Flop: Th 3c Kd
+Turn: 8c
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Ko, 7d Td
+Combination: Ko, Pair ( Td Th Kd 8c 7d )
+Shows: Kefol, 3d 5c
+Combination: Kefol, Pair ( 3d 3c Kd Th 8c )
+Wins: Ko, chips: 200
+Wins: Kefol, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefol
+Small Blind: Kefol, chips: 100
+Big Blind: Ko, chips: 200
+Flop: 5s 7h Qc
+Turn: Tc
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Ko, 8s 8c
+Combination: Ko, Pair ( 8s 8c Qc Tc 7h )
+Shows: Kefol, Qh 3d
+Combination: Kefol, Two Pair ( Qh Qc 3d 3h Tc )
+Wins: Ko, chips: 100
+Wins: Kefol, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Kefol, chips: 200
+Flop: 7d Qd 4c
+Turn: Kc
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Ko, 3s 9h
+Combination: Ko, High Card ( Ac Kc Qd 9h 7d )
+Shows: Kefol, Ts 6c
+Combination: Kefol, High Card ( Ac Kc Qd Ts 7d )
+Wins: Kefol, chips: 300
+Quits: Ko, chips: 0
+Ranking: Kefol, Place: 1, Score: 1000
+Reveal AI: Kefol, AI: Random
+Ranking: Ko, Place: 2, Score: -1000
+Reveal AI: Ko, AI: AIMyBot1
+
+Player Stats for Kefol, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Ko, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:46
+
+The game begins. The AI's of the players are: 
+Ko: AIMyBot1
+Kefol: Random
+
+Joins: Ko, chips: 1000
+Joins: Kefol, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Kefol, chips: 200
+Folds: Ko
+Pot size: 300
+Boasts: Kefol, Qs 2s
+Wins: Kefol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefol
+Small Blind: Kefol, chips: 100
+Big Blind: Ko, chips: 200
+Folds: Kefol
+Pot size: 300
+Wins: Ko, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Kefol, chips: 200
+Folds: Ko
+Pot size: 300
+Boasts: Kefol, 3h 8c
+Wins: Kefol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefol
+Small Blind: Kefol, chips: 100
+Big Blind: Ko, chips: 200
+Calls: Kefol
+DEBUG MESSAGE: INVALID ACTION FROM Ko (2 0)
+Folds: Ko
+Pot size: 400
+Wins: Kefol, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Kefol, chips: 200
+Folds: Ko
+Pot size: 300
+Wins: Kefol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefol
+Small Blind: Kefol, chips: 100
+Big Blind: Ko, chips: 200
+Raises: Kefol, chips: 300
+Folds: Ko
+Pot size: 700
+Wins: Kefol, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Kefol, chips: 200
+Folds: Ko
+Pot size: 300
+Wins: Kefol, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefol
+Small Blind: Kefol, chips: 100
+Big Blind: Ko, chips: 200
+Calls: Kefol
+DEBUG MESSAGE: INVALID ACTION FROM Ko (2 0)
+Folds: Ko
+Pot size: 400
+Boasts: Kefol, 4c Qd
+Wins: Kefol, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Kefol, chips: 200
+Flop: Th 3c Kd
+Turn: 8c
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Ko, 7d Td
+Combination: Ko, Pair ( Td Th Kd 8c 7d )
+Shows: Kefol, 3d 5c
+Combination: Kefol, Pair ( 3d 3c Kd Th 8c )
+Wins: Ko, chips: 200
+Wins: Kefol, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kefol
+Small Blind: Kefol, chips: 100
+Big Blind: Ko, chips: 200
+Flop: 5s 7h Qc
+Turn: Tc
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Ko, 8s 8c
+Combination: Ko, Pair ( 8s 8c Qc Tc 7h )
+Shows: Kefol, Qh 3d
+Combination: Kefol, Two Pair ( Qh Qc 3d 3h Tc )
+Wins: Ko, chips: 100
+Wins: Kefol, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ko
+Small Blind: Ko, chips: 100
+Big Blind: Kefol, chips: 200
+Flop: 7d Qd 4c
+Turn: Kc
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Ko, 3s 9h
+Combination: Ko, High Card ( Ac Kc Qd 9h 7d )
+Shows: Kefol, Ts 6c
+Combination: Kefol, High Card ( Ac Kc Qd Ts 7d )
+Wins: Kefol, chips: 300
+Quits: Ko, chips: 0
+Ranking: Kefol, Place: 1, Score: 1000
+Reveal AI: Kefol, AI: Random
+Ranking: Ko, Place: 2, Score: -1000
+Reveal AI: Ko, AI: AIMyBot1
+
+Player Stats for Kefol, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3300, lost: 2300, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Ko, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

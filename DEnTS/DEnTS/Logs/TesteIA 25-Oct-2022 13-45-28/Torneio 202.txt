@@ -1,0 +1,196 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Koehef: AIMyBot1
+Ne: Random
+
+Joins: Koehef, chips: 1000
+Joins: Ne, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koehef
+Small Blind: Koehef, chips: 100
+Big Blind: Ne, chips: 200
+Folds: Koehef
+Pot size: 300
+Boasts: Ne, 7s 6c
+Wins: Ne, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ne
+Small Blind: Ne, chips: 100
+Big Blind: Koehef, chips: 200
+Calls: Ne
+DEBUG MESSAGE: INVALID ACTION FROM Koehef (2 0)
+Folds: Koehef
+Pot size: 400
+Wins: Ne, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koehef
+Small Blind: Koehef, chips: 100
+Big Blind: Ne, chips: 200
+Folds: Koehef
+Pot size: 300
+Wins: Ne, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ne
+Small Blind: Ne, chips: 100
+Big Blind: Koehef, chips: 200
+Calls: Ne
+DEBUG MESSAGE: INVALID ACTION FROM Koehef (2 0)
+Folds: Koehef
+Pot size: 400
+Boasts: Ne, 6d Ac
+Wins: Ne, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koehef
+Small Blind: Koehef, chips: 100
+Big Blind: Ne, chips: 200
+Folds: Koehef
+Pot size: 300
+Boasts: Ne, 8s 2h
+Wins: Ne, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ne
+Small Blind: Ne, chips: 100
+Big Blind: Koehef, chips: 200
+Calls: Ne
+DEBUG MESSAGE: INVALID ACTION FROM Koehef (2 0)
+Folds: Koehef
+Pot size: 400
+Wins: Ne, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koehef
+Small Blind: Koehef, chips: 100
+Big Blind: Ne, chips: 200
+Flop: 7s 4c Kd
+Turn: Ks
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Koehef, 3d Qc
+Combination: Koehef, Three Of A Kind ( Kd Ks Kh Qc 7s )
+Shows: Ne, Jc Jd
+Combination: Ne, Full House ( Kd Ks Kh Jc Jd )
+Wins: Ne, chips: 300
+Quits: Koehef, chips: 0
+Ranking: Ne, Place: 1, Score: 1000
+Reveal AI: Ne, AI: Random
+Ranking: Koehef, Place: 2, Score: -1000
+Reveal AI: Koehef, AI: AIMyBot1
+
+Player Stats for Koehef, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Ne, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2400, lost: 1400, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:43
+
+The game begins. The AI's of the players are: 
+Koehef: AIMyBot1
+Ne: Random
+
+Joins: Koehef, chips: 1000
+Joins: Ne, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koehef
+Small Blind: Koehef, chips: 100
+Big Blind: Ne, chips: 200
+Folds: Koehef
+Pot size: 300
+Boasts: Ne, 7s 6c
+Wins: Ne, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ne
+Small Blind: Ne, chips: 100
+Big Blind: Koehef, chips: 200
+Calls: Ne
+DEBUG MESSAGE: INVALID ACTION FROM Koehef (2 0)
+Folds: Koehef
+Pot size: 400
+Wins: Ne, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koehef
+Small Blind: Koehef, chips: 100
+Big Blind: Ne, chips: 200
+Folds: Koehef
+Pot size: 300
+Wins: Ne, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ne
+Small Blind: Ne, chips: 100
+Big Blind: Koehef, chips: 200
+Calls: Ne
+DEBUG MESSAGE: INVALID ACTION FROM Koehef (2 0)
+Folds: Koehef
+Pot size: 400
+Boasts: Ne, 6d Ac
+Wins: Ne, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koehef
+Small Blind: Koehef, chips: 100
+Big Blind: Ne, chips: 200
+Folds: Koehef
+Pot size: 300
+Boasts: Ne, 8s 2h
+Wins: Ne, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Ne
+Small Blind: Ne, chips: 100
+Big Blind: Koehef, chips: 200
+Calls: Ne
+DEBUG MESSAGE: INVALID ACTION FROM Koehef (2 0)
+Folds: Koehef
+Pot size: 400
+Wins: Ne, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koehef
+Small Blind: Koehef, chips: 100
+Big Blind: Ne, chips: 200
+Flop: 7s 4c Kd
+Turn: Ks
+River: Kh
+Pot size: 300
+Showdown Reached
+Shows: Koehef, 3d Qc
+Combination: Koehef, Three Of A Kind ( Kd Ks Kh Qc 7s )
+Shows: Ne, Jc Jd
+Combination: Ne, Full House ( Kd Ks Kh Jc Jd )
+Wins: Ne, chips: 300
+Quits: Koehef, chips: 0
+Ranking: Ne, Place: 1, Score: 1000
+Reveal AI: Ne, AI: Random
+Ranking: Koehef, Place: 2, Score: -1000
+Reveal AI: Koehef, AI: AIMyBot1
+
+Player Stats for Koehef, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Ne, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 2400, lost: 1400, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

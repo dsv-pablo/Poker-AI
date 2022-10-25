@@ -1,0 +1,220 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Koteep: Random
+Berlonny: AIMyBot1
+
+Joins: Koteep, chips: 1000
+Joins: Berlonny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koteep
+Small Blind: Koteep, chips: 100
+Big Blind: Berlonny, chips: 200
+Calls: Koteep
+DEBUG MESSAGE: INVALID ACTION FROM Berlonny (2 0)
+Folds: Berlonny
+Pot size: 400
+Wins: Koteep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Berlonny
+Small Blind: Berlonny, chips: 100
+Big Blind: Koteep, chips: 200
+Folds: Berlonny
+Pot size: 300
+Wins: Koteep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koteep
+Small Blind: Koteep, chips: 100
+Big Blind: Berlonny, chips: 200
+Raises: Koteep, chips: 300
+Folds: Berlonny
+Pot size: 700
+Boasts: Koteep, Kc Jd
+Wins: Koteep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Berlonny
+Small Blind: Berlonny, chips: 100
+Big Blind: Koteep, chips: 200
+Folds: Berlonny
+Pot size: 300
+Wins: Koteep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koteep
+Small Blind: Koteep, chips: 100
+Big Blind: Berlonny, chips: 200
+Raises: Koteep, chips: 300
+Folds: Berlonny
+Pot size: 700
+Wins: Koteep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Berlonny
+Small Blind: Berlonny, chips: 100
+Big Blind: Koteep, chips: 200
+Folds: Berlonny
+Pot size: 300
+Boasts: Koteep, 5d 2s
+Wins: Koteep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koteep
+Small Blind: Koteep, chips: 100
+Big Blind: Berlonny, chips: 100
+Flop: Qh Qs Jh
+Turn: Js
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Koteep, 7d 8h
+Combination: Koteep, Two Pair ( Qh Qs Jh Js Tc )
+Shows: Berlonny, 5d 3d
+Combination: Berlonny, Two Pair ( Qh Qs Jh Js Tc )
+Wins: Koteep, chips: 100
+Wins: Berlonny, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Berlonny
+Small Blind: Berlonny, chips: 100
+Big Blind: Koteep, chips: 200
+Flop: 3c 7s 2s
+Turn: 8h
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Koteep, 5c Js
+Combination: Koteep, High Card ( Qd Js 8h 7s 5c )
+Shows: Berlonny, 9d 4s
+Combination: Berlonny, High Card ( Qd 9d 8h 7s 4s )
+Wins: Koteep, chips: 300
+Quits: Berlonny, chips: 0
+Ranking: Koteep, Place: 1, Score: 1000
+Reveal AI: Koteep, AI: Random
+Ranking: Berlonny, Place: 2, Score: -1000
+Reveal AI: Berlonny, AI: AIMyBot1
+
+Player Stats for Berlonny, AI: AIMyBot1
+General: deals: 8, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 100, lost: 1100, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Koteep, AI: Random
+General: deals: 8, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.25, 3Bet: 0.25
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:29
+
+The game begins. The AI's of the players are: 
+Koteep: Random
+Berlonny: AIMyBot1
+
+Joins: Koteep, chips: 1000
+Joins: Berlonny, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koteep
+Small Blind: Koteep, chips: 100
+Big Blind: Berlonny, chips: 200
+Calls: Koteep
+DEBUG MESSAGE: INVALID ACTION FROM Berlonny (2 0)
+Folds: Berlonny
+Pot size: 400
+Wins: Koteep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Berlonny
+Small Blind: Berlonny, chips: 100
+Big Blind: Koteep, chips: 200
+Folds: Berlonny
+Pot size: 300
+Wins: Koteep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koteep
+Small Blind: Koteep, chips: 100
+Big Blind: Berlonny, chips: 200
+Raises: Koteep, chips: 300
+Folds: Berlonny
+Pot size: 700
+Boasts: Koteep, Kc Jd
+Wins: Koteep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Berlonny
+Small Blind: Berlonny, chips: 100
+Big Blind: Koteep, chips: 200
+Folds: Berlonny
+Pot size: 300
+Wins: Koteep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koteep
+Small Blind: Koteep, chips: 100
+Big Blind: Berlonny, chips: 200
+Raises: Koteep, chips: 300
+Folds: Berlonny
+Pot size: 700
+Wins: Koteep, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Berlonny
+Small Blind: Berlonny, chips: 100
+Big Blind: Koteep, chips: 200
+Folds: Berlonny
+Pot size: 300
+Boasts: Koteep, 5d 2s
+Wins: Koteep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Koteep
+Small Blind: Koteep, chips: 100
+Big Blind: Berlonny, chips: 100
+Flop: Qh Qs Jh
+Turn: Js
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Koteep, 7d 8h
+Combination: Koteep, Two Pair ( Qh Qs Jh Js Tc )
+Shows: Berlonny, 5d 3d
+Combination: Berlonny, Two Pair ( Qh Qs Jh Js Tc )
+Wins: Koteep, chips: 100
+Wins: Berlonny, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Berlonny
+Small Blind: Berlonny, chips: 100
+Big Blind: Koteep, chips: 200
+Flop: 3c 7s 2s
+Turn: 8h
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Koteep, 5c Js
+Combination: Koteep, High Card ( Qd Js 8h 7s 5c )
+Shows: Berlonny, 9d 4s
+Combination: Berlonny, High Card ( Qd 9d 8h 7s 4s )
+Wins: Koteep, chips: 300
+Quits: Berlonny, chips: 0
+Ranking: Koteep, Place: 1, Score: 1000
+Reveal AI: Koteep, AI: Random
+Ranking: Berlonny, Place: 2, Score: -1000
+Reveal AI: Berlonny, AI: AIMyBot1
+
+Player Stats for Berlonny, AI: AIMyBot1
+General: deals: 8, actions: 6, preflop actions: 6
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 100, lost: 1100, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Koteep, AI: Random
+General: deals: 8, actions: 3, preflop actions: 3
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 8, showdown: 2, bluff: 6
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1200
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.25, 3Bet: 0.25
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

@@ -1,0 +1,390 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Dutok: Random
+Wilus: AIMyBot1
+
+Joins: Dutok, chips: 1000
+Joins: Wilus, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 200
+Folds: Dutok
+Pot size: 300
+Boasts: Dutok, 7s 5d
+Wins: Wilus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Folds: Wilus
+Pot size: 300
+Boasts: Dutok, Kd 4h
+Wins: Dutok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 200
+Calls: Dutok
+DEBUG MESSAGE: INVALID ACTION FROM Wilus (2 0)
+Folds: Wilus
+Pot size: 400
+Wins: Dutok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Folds: Wilus
+Pot size: 300
+Boasts: Dutok, 3d 2h
+Wins: Dutok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 200
+Folds: Dutok
+Pot size: 300
+Boasts: Dutok, Ad 4s
+Wins: Wilus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Folds: Wilus
+Pot size: 300
+Wins: Dutok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 200
+Folds: Dutok
+Pot size: 300
+Boasts: Dutok, Js 4s
+Wins: Wilus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Folds: Wilus
+Pot size: 300
+Wins: Dutok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 200
+Folds: Dutok
+Pot size: 300
+Wins: Wilus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Folds: Wilus
+Pot size: 300
+Boasts: Dutok, Tc 6d
+Wins: Dutok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 200
+Calls: Dutok
+DEBUG MESSAGE: INVALID ACTION FROM Wilus (2 0)
+Folds: Wilus
+Pot size: 400
+Wins: Dutok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Folds: Wilus
+Pot size: 300
+Boasts: Dutok, Kh 6d
+Wins: Dutok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 200
+Calls: Dutok
+DEBUG MESSAGE: INVALID ACTION FROM Wilus (2 0)
+Folds: Wilus
+Pot size: 400
+Wins: Dutok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Folds: Wilus
+Pot size: 300
+Boasts: Dutok, Kh Ad
+Wins: Dutok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 100
+Flop: Kd 7c 6c
+Turn: 6h
+River: 2s
+Pot size: 200
+Showdown Reached
+Shows: Dutok, 5d 8s
+Combination: Dutok, Pair ( 6c 6h Kd 8s 7c )
+Shows: Wilus, 4s Jh
+Combination: Wilus, Pair ( 6c 6h Kd Jh 7c )
+Wins: Wilus, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Folds: Wilus
+Pot size: 300
+Wins: Dutok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 100
+Flop: As Ad Qc
+Turn: Th
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Dutok, Jc 6c
+Combination: Dutok, Two Pair ( As Ad Th Tc Qc )
+Shows: Wilus, 5h Js
+Combination: Wilus, Two Pair ( As Ad Th Tc Qc )
+Wins: Dutok, chips: 100
+Wins: Wilus, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Flop: Kc Ac Tc
+Turn: 7d
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Dutok, 8c Js
+Combination: Dutok, Pair ( Ac As Kc Js Tc )
+Shows: Wilus, 8d 2c
+Combination: Wilus, Pair ( Ac As Kc Tc 8d )
+Wins: Dutok, chips: 300
+Quits: Wilus, chips: 0
+Ranking: Dutok, Place: 1, Score: 1000
+Reveal AI: Dutok, AI: Random
+Ranking: Wilus, Place: 2, Score: -1000
+Reveal AI: Wilus, AI: AIMyBot1
+
+Player Stats for Dutok, AI: Random
+General: deals: 18, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 13, showdown: 2, bluff: 11
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Wilus, AI: AIMyBot1
+General: deals: 18, actions: 11, preflop actions: 11
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 6, showdown: 2, bluff: 4
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:46:04
+
+The game begins. The AI's of the players are: 
+Dutok: Random
+Wilus: AIMyBot1
+
+Joins: Dutok, chips: 1000
+Joins: Wilus, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 200
+Folds: Dutok
+Pot size: 300
+Boasts: Dutok, 7s 5d
+Wins: Wilus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Folds: Wilus
+Pot size: 300
+Boasts: Dutok, Kd 4h
+Wins: Dutok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 200
+Calls: Dutok
+DEBUG MESSAGE: INVALID ACTION FROM Wilus (2 0)
+Folds: Wilus
+Pot size: 400
+Wins: Dutok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Folds: Wilus
+Pot size: 300
+Boasts: Dutok, 3d 2h
+Wins: Dutok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 200
+Folds: Dutok
+Pot size: 300
+Boasts: Dutok, Ad 4s
+Wins: Wilus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Folds: Wilus
+Pot size: 300
+Wins: Dutok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 200
+Folds: Dutok
+Pot size: 300
+Boasts: Dutok, Js 4s
+Wins: Wilus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Folds: Wilus
+Pot size: 300
+Wins: Dutok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 200
+Folds: Dutok
+Pot size: 300
+Wins: Wilus, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Folds: Wilus
+Pot size: 300
+Boasts: Dutok, Tc 6d
+Wins: Dutok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 200
+Calls: Dutok
+DEBUG MESSAGE: INVALID ACTION FROM Wilus (2 0)
+Folds: Wilus
+Pot size: 400
+Wins: Dutok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Folds: Wilus
+Pot size: 300
+Boasts: Dutok, Kh 6d
+Wins: Dutok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 200
+Calls: Dutok
+DEBUG MESSAGE: INVALID ACTION FROM Wilus (2 0)
+Folds: Wilus
+Pot size: 400
+Wins: Dutok, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Folds: Wilus
+Pot size: 300
+Boasts: Dutok, Kh Ad
+Wins: Dutok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 100
+Flop: Kd 7c 6c
+Turn: 6h
+River: 2s
+Pot size: 200
+Showdown Reached
+Shows: Dutok, 5d 8s
+Combination: Dutok, Pair ( 6c 6h Kd 8s 7c )
+Shows: Wilus, 4s Jh
+Combination: Wilus, Pair ( 6c 6h Kd Jh 7c )
+Wins: Wilus, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Folds: Wilus
+Pot size: 300
+Wins: Dutok, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dutok
+Small Blind: Dutok, chips: 100
+Big Blind: Wilus, chips: 100
+Flop: As Ad Qc
+Turn: Th
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Dutok, Jc 6c
+Combination: Dutok, Two Pair ( As Ad Th Tc Qc )
+Shows: Wilus, 5h Js
+Combination: Wilus, Two Pair ( As Ad Th Tc Qc )
+Wins: Dutok, chips: 100
+Wins: Wilus, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wilus
+Small Blind: Wilus, chips: 100
+Big Blind: Dutok, chips: 200
+Flop: Kc Ac Tc
+Turn: 7d
+River: As
+Pot size: 300
+Showdown Reached
+Shows: Dutok, 8c Js
+Combination: Dutok, Pair ( Ac As Kc Js Tc )
+Shows: Wilus, 8d 2c
+Combination: Wilus, Pair ( Ac As Kc Tc 8d )
+Wins: Dutok, chips: 300
+Quits: Wilus, chips: 0
+Ranking: Dutok, Place: 1, Score: 1000
+Reveal AI: Dutok, AI: Random
+Ranking: Wilus, Place: 2, Score: -1000
+Reveal AI: Wilus, AI: AIMyBot1
+
+Player Stats for Dutok, AI: Random
+General: deals: 18, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 13, showdown: 2, bluff: 11
+Chips: won: 4000, lost: 3000, bought: 1000, forced bets: 2700
+Pre-Flop Stats: VP$IP: 0.166667, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Wilus, AI: AIMyBot1
+General: deals: 18, actions: 11, preflop actions: 11
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 6, showdown: 2, bluff: 4
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

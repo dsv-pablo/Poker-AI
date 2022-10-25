@@ -1,0 +1,282 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Kafiv: Random
+Mikeel: AIMyBot1
+
+Joins: Kafiv, chips: 1000
+Joins: Mikeel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mikeel
+Small Blind: Mikeel, chips: 100
+Big Blind: Kafiv, chips: 200
+Folds: Mikeel
+Pot size: 300
+Boasts: Kafiv, 9d 5c
+Wins: Kafiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kafiv
+Small Blind: Kafiv, chips: 100
+Big Blind: Mikeel, chips: 200
+Raises: Kafiv, chips: 300
+Folds: Mikeel
+Pot size: 700
+Boasts: Kafiv, 8s Tc
+Wins: Kafiv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mikeel
+Small Blind: Mikeel, chips: 100
+Big Blind: Kafiv, chips: 200
+Folds: Mikeel
+Pot size: 300
+Boasts: Kafiv, 3d 6d
+Wins: Kafiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kafiv
+Small Blind: Kafiv, chips: 100
+Big Blind: Mikeel, chips: 200
+Raises: Kafiv, chips: 300
+Folds: Mikeel
+Pot size: 700
+Wins: Kafiv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mikeel
+Small Blind: Mikeel, chips: 100
+Big Blind: Kafiv, chips: 200
+Folds: Mikeel
+Pot size: 300
+Wins: Kafiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kafiv
+Small Blind: Kafiv, chips: 100
+Big Blind: Mikeel, chips: 200
+Folds: Kafiv
+Pot size: 300
+Boasts: Kafiv, Ah Kc
+Wins: Mikeel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mikeel
+Small Blind: Mikeel, chips: 100
+Big Blind: Kafiv, chips: 200
+Folds: Mikeel
+Pot size: 300
+Boasts: Kafiv, 5s 9h
+Wins: Kafiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kafiv
+Small Blind: Kafiv, chips: 100
+Big Blind: Mikeel, chips: 200
+Raises: Kafiv, chips: 300
+Folds: Mikeel
+Pot size: 700
+Wins: Kafiv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mikeel
+Small Blind: Mikeel, chips: 100
+Big Blind: Kafiv, chips: 200
+Flop: Js Th 6h
+Turn: 8c
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Kafiv, 4c 4h
+Combination: Kafiv, Two Pair ( Th Ts 4c 4h Js )
+Shows: Mikeel, 3d Jh
+Combination: Mikeel, Two Pair ( Jh Js Th Ts 8c )
+Wins: Kafiv, chips: 100
+Wins: Mikeel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kafiv
+Small Blind: Kafiv, chips: 100
+Big Blind: Mikeel, chips: 200
+Flop: 9c 2s Jh
+Turn: 3d
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Kafiv, Tc Ac
+Combination: Kafiv, Pair ( 3d 3h Ac Jh Tc )
+Shows: Mikeel, Th 4h
+Combination: Mikeel, Pair ( 3d 3h Jh Th 9c )
+Wins: Kafiv, chips: 200
+Wins: Mikeel, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mikeel
+Small Blind: Mikeel, chips: 100
+Big Blind: Kafiv, chips: 200
+Flop: 4d 9d 6h
+Turn: Qd
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Kafiv, Qs 6c
+Combination: Kafiv, Two Pair ( Qs Qd 6c 6h 9d )
+Shows: Mikeel, Js Qh
+Combination: Mikeel, Pair ( Qh Qd Js 9d 6h )
+Wins: Kafiv, chips: 300
+Quits: Mikeel, chips: 0
+Ranking: Kafiv, Place: 1, Score: 1000
+Reveal AI: Kafiv, AI: Random
+Ranking: Mikeel, Place: 2, Score: -1000
+Reveal AI: Mikeel, AI: AIMyBot1
+
+Player Stats for Kafiv, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.272727, 3Bet: 0.272727
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Mikeel, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:49
+
+The game begins. The AI's of the players are: 
+Kafiv: Random
+Mikeel: AIMyBot1
+
+Joins: Kafiv, chips: 1000
+Joins: Mikeel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mikeel
+Small Blind: Mikeel, chips: 100
+Big Blind: Kafiv, chips: 200
+Folds: Mikeel
+Pot size: 300
+Boasts: Kafiv, 9d 5c
+Wins: Kafiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kafiv
+Small Blind: Kafiv, chips: 100
+Big Blind: Mikeel, chips: 200
+Raises: Kafiv, chips: 300
+Folds: Mikeel
+Pot size: 700
+Boasts: Kafiv, 8s Tc
+Wins: Kafiv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mikeel
+Small Blind: Mikeel, chips: 100
+Big Blind: Kafiv, chips: 200
+Folds: Mikeel
+Pot size: 300
+Boasts: Kafiv, 3d 6d
+Wins: Kafiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kafiv
+Small Blind: Kafiv, chips: 100
+Big Blind: Mikeel, chips: 200
+Raises: Kafiv, chips: 300
+Folds: Mikeel
+Pot size: 700
+Wins: Kafiv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mikeel
+Small Blind: Mikeel, chips: 100
+Big Blind: Kafiv, chips: 200
+Folds: Mikeel
+Pot size: 300
+Wins: Kafiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kafiv
+Small Blind: Kafiv, chips: 100
+Big Blind: Mikeel, chips: 200
+Folds: Kafiv
+Pot size: 300
+Boasts: Kafiv, Ah Kc
+Wins: Mikeel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mikeel
+Small Blind: Mikeel, chips: 100
+Big Blind: Kafiv, chips: 200
+Folds: Mikeel
+Pot size: 300
+Boasts: Kafiv, 5s 9h
+Wins: Kafiv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kafiv
+Small Blind: Kafiv, chips: 100
+Big Blind: Mikeel, chips: 200
+Raises: Kafiv, chips: 300
+Folds: Mikeel
+Pot size: 700
+Wins: Kafiv, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mikeel
+Small Blind: Mikeel, chips: 100
+Big Blind: Kafiv, chips: 200
+Flop: Js Th 6h
+Turn: 8c
+River: Ts
+Pot size: 300
+Showdown Reached
+Shows: Kafiv, 4c 4h
+Combination: Kafiv, Two Pair ( Th Ts 4c 4h Js )
+Shows: Mikeel, 3d Jh
+Combination: Mikeel, Two Pair ( Jh Js Th Ts 8c )
+Wins: Kafiv, chips: 100
+Wins: Mikeel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Kafiv
+Small Blind: Kafiv, chips: 100
+Big Blind: Mikeel, chips: 200
+Flop: 9c 2s Jh
+Turn: 3d
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Kafiv, Tc Ac
+Combination: Kafiv, Pair ( 3d 3h Ac Jh Tc )
+Shows: Mikeel, Th 4h
+Combination: Mikeel, Pair ( 3d 3h Jh Th 9c )
+Wins: Kafiv, chips: 200
+Wins: Mikeel, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mikeel
+Small Blind: Mikeel, chips: 100
+Big Blind: Kafiv, chips: 200
+Flop: 4d 9d 6h
+Turn: Qd
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Kafiv, Qs 6c
+Combination: Kafiv, Two Pair ( Qs Qd 6c 6h 9d )
+Shows: Mikeel, Js Qh
+Combination: Mikeel, Pair ( Qh Qd Js 9d 6h )
+Wins: Kafiv, chips: 300
+Quits: Mikeel, chips: 0
+Ranking: Kafiv, Place: 1, Score: 1000
+Reveal AI: Kafiv, AI: Random
+Ranking: Mikeel, Place: 2, Score: -1000
+Reveal AI: Mikeel, AI: AIMyBot1
+
+Player Stats for Kafiv, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 3, bluff: 7
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.272727, 3Bet: 0.272727
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Mikeel, AI: AIMyBot1
+General: deals: 11, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 600, lost: 1600, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

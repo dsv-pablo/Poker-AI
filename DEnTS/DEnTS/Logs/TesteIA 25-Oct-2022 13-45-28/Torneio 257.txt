@@ -1,0 +1,460 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Rawruv: AIMyBot1
+Penheep: Random
+
+Joins: Rawruv, chips: 1000
+Joins: Penheep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Folds: Rawruv
+Pot size: 300
+Wins: Penheep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Folds: Penheep
+Pot size: 300
+Boasts: Penheep, 8d Qh
+Wins: Rawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Folds: Rawruv
+Pot size: 300
+Wins: Penheep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Calls: Penheep
+DEBUG MESSAGE: INVALID ACTION FROM Rawruv (2 0)
+Folds: Rawruv
+Pot size: 400
+Boasts: Penheep, Td 6s
+Wins: Penheep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Folds: Rawruv
+Pot size: 300
+Boasts: Penheep, Tc 5d
+Wins: Penheep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Calls: Penheep
+DEBUG MESSAGE: INVALID ACTION FROM Rawruv (2 0)
+Folds: Rawruv
+Pot size: 400
+Boasts: Penheep, 7c 3c
+Wins: Penheep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Folds: Rawruv
+Pot size: 300
+Wins: Penheep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Calls: Penheep
+DEBUG MESSAGE: INVALID ACTION FROM Rawruv (2 0)
+Folds: Rawruv
+Pot size: 400
+Wins: Penheep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Flop: Ac 4s 2d
+Turn: 8h
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Rawruv, 9c Ah
+Combination: Rawruv, Pair ( Ah Ac Js 9c 8h )
+Shows: Penheep, Ks 3d
+Combination: Penheep, High Card ( Ac Ks Js 8h 4s )
+Wins: Rawruv, chips: 200
+Wins: Penheep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Flop: 4s 4h Ah
+Turn: Tc
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Rawruv, Kh 6c
+Combination: Rawruv, Two Pair ( Kh Kc 4s 4h Ah )
+Shows: Penheep, 2c 2d
+Combination: Penheep, Two Pair ( 4s 4h 2c 2d Ah )
+Wins: Rawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Folds: Rawruv
+Pot size: 300
+Wins: Penheep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Flop: 6d Qd Jc
+Turn: 4h
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Rawruv, Qc 9c
+Combination: Rawruv, Pair ( Qc Qd Jc 9c 8h )
+Shows: Penheep, Kd Jh
+Combination: Penheep, Pair ( Jh Jc Kd Qd 8h )
+Wins: Rawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Folds: Rawruv
+Pot size: 300
+Boasts: Penheep, Th 8c
+Wins: Penheep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Flop: Td 9c 2s
+Turn: 4h
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Rawruv, Ad 6d
+Combination: Rawruv, Pair ( 2s 2h Ad Td 9c )
+Shows: Penheep, 8c Qh
+Combination: Penheep, Pair ( 2s 2h Qh Td 9c )
+Wins: Rawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Folds: Rawruv
+Pot size: 300
+Boasts: Penheep, 2d 2h
+Wins: Penheep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Flop: 9h Ac 3s
+Turn: 8h
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Rawruv, 6h 9d
+Combination: Rawruv, Pair ( 9d 9h Ac 8h 6h )
+Shows: Penheep, 8d Td
+Combination: Penheep, Pair ( 8d 8h Ac Td 9h )
+Wins: Rawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Folds: Rawruv
+Pot size: 300
+Boasts: Penheep, 9c 7h
+Wins: Penheep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Flop: Qs Qc 7s
+Turn: 6c
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Rawruv, 3h 5d
+Combination: Rawruv, Two Pair ( Qs Qc 3h 3c 7s )
+Shows: Penheep, 6h 5c
+Combination: Penheep, Two Pair ( Qs Qc 6h 6c 7s )
+Wins: Rawruv, chips: 100
+Wins: Penheep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Flop: Ks 5s Td
+Turn: Th
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Rawruv, 6s 7h
+Combination: Rawruv, Two Pair ( Td Th 5s 5c Ks )
+Shows: Penheep, 5d Tc
+Combination: Penheep, Three Of A Kind ( Tc Td Th Ks 5d )
+Wins: Penheep, chips: 300
+Quits: Rawruv, chips: 0
+Ranking: Penheep, Place: 1, Score: 1000
+Reveal AI: Penheep, AI: Random
+Ranking: Rawruv, Place: 2, Score: -1000
+Reveal AI: Rawruv, AI: AIMyBot1
+
+Player Stats for Penheep, AI: Random
+General: deals: 19, actions: 4, preflop actions: 4
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 14, showdown: 3, bluff: 11
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.428571
+
+
+Player Stats for Rawruv, AI: AIMyBot1
+General: deals: 19, actions: 11, preflop actions: 11
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 7, showdown: 6, bluff: 1
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+
+Date: 2022/10/25 13:45:46
+
+The game begins. The AI's of the players are: 
+Rawruv: AIMyBot1
+Penheep: Random
+
+Joins: Rawruv, chips: 1000
+Joins: Penheep, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Folds: Rawruv
+Pot size: 300
+Wins: Penheep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Folds: Penheep
+Pot size: 300
+Boasts: Penheep, 8d Qh
+Wins: Rawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Folds: Rawruv
+Pot size: 300
+Wins: Penheep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Calls: Penheep
+DEBUG MESSAGE: INVALID ACTION FROM Rawruv (2 0)
+Folds: Rawruv
+Pot size: 400
+Boasts: Penheep, Td 6s
+Wins: Penheep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Folds: Rawruv
+Pot size: 300
+Boasts: Penheep, Tc 5d
+Wins: Penheep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Calls: Penheep
+DEBUG MESSAGE: INVALID ACTION FROM Rawruv (2 0)
+Folds: Rawruv
+Pot size: 400
+Boasts: Penheep, 7c 3c
+Wins: Penheep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Folds: Rawruv
+Pot size: 300
+Wins: Penheep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Calls: Penheep
+DEBUG MESSAGE: INVALID ACTION FROM Rawruv (2 0)
+Folds: Rawruv
+Pot size: 400
+Wins: Penheep, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Flop: Ac 4s 2d
+Turn: 8h
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Rawruv, 9c Ah
+Combination: Rawruv, Pair ( Ah Ac Js 9c 8h )
+Shows: Penheep, Ks 3d
+Combination: Penheep, High Card ( Ac Ks Js 8h 4s )
+Wins: Rawruv, chips: 200
+Wins: Penheep, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Flop: 4s 4h Ah
+Turn: Tc
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Rawruv, Kh 6c
+Combination: Rawruv, Two Pair ( Kh Kc 4s 4h Ah )
+Shows: Penheep, 2c 2d
+Combination: Penheep, Two Pair ( 4s 4h 2c 2d Ah )
+Wins: Rawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Folds: Rawruv
+Pot size: 300
+Wins: Penheep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Flop: 6d Qd Jc
+Turn: 4h
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Rawruv, Qc 9c
+Combination: Rawruv, Pair ( Qc Qd Jc 9c 8h )
+Shows: Penheep, Kd Jh
+Combination: Penheep, Pair ( Jh Jc Kd Qd 8h )
+Wins: Rawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Folds: Rawruv
+Pot size: 300
+Boasts: Penheep, Th 8c
+Wins: Penheep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Flop: Td 9c 2s
+Turn: 4h
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Rawruv, Ad 6d
+Combination: Rawruv, Pair ( 2s 2h Ad Td 9c )
+Shows: Penheep, 8c Qh
+Combination: Penheep, Pair ( 2s 2h Qh Td 9c )
+Wins: Rawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Folds: Rawruv
+Pot size: 300
+Boasts: Penheep, 2d 2h
+Wins: Penheep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Flop: 9h Ac 3s
+Turn: 8h
+River: 5d
+Pot size: 300
+Showdown Reached
+Shows: Rawruv, 6h 9d
+Combination: Rawruv, Pair ( 9d 9h Ac 8h 6h )
+Shows: Penheep, 8d Td
+Combination: Penheep, Pair ( 8d 8h Ac Td 9h )
+Wins: Rawruv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Folds: Rawruv
+Pot size: 300
+Boasts: Penheep, 9c 7h
+Wins: Penheep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Penheep
+Small Blind: Penheep, chips: 100
+Big Blind: Rawruv, chips: 200
+Flop: Qs Qc 7s
+Turn: 6c
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Rawruv, 3h 5d
+Combination: Rawruv, Two Pair ( Qs Qc 3h 3c 7s )
+Shows: Penheep, 6h 5c
+Combination: Penheep, Two Pair ( Qs Qc 6h 6c 7s )
+Wins: Rawruv, chips: 100
+Wins: Penheep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rawruv
+Small Blind: Rawruv, chips: 100
+Big Blind: Penheep, chips: 200
+Flop: Ks 5s Td
+Turn: Th
+River: 5c
+Pot size: 300
+Showdown Reached
+Shows: Rawruv, 6s 7h
+Combination: Rawruv, Two Pair ( Td Th 5s 5c Ks )
+Shows: Penheep, 5d Tc
+Combination: Penheep, Three Of A Kind ( Tc Td Th Ks 5d )
+Wins: Penheep, chips: 300
+Quits: Rawruv, chips: 0
+Ranking: Penheep, Place: 1, Score: 1000
+Reveal AI: Penheep, AI: Random
+Ranking: Rawruv, Place: 2, Score: -1000
+Reveal AI: Rawruv, AI: AIMyBot1
+
+Player Stats for Penheep, AI: Random
+General: deals: 19, actions: 4, preflop actions: 4
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 14, showdown: 3, bluff: 11
+Chips: won: 4200, lost: 3200, bought: 1000, forced bets: 2900
+Pre-Flop Stats: VP$IP: 0.157895, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.428571
+
+
+Player Stats for Rawruv, AI: AIMyBot1
+General: deals: 19, actions: 11, preflop actions: 11
+Rounds Seen: flops: 7, turns: 7, rivers: 7, showdowns: 7
+Wins: total: 7, showdown: 6, bluff: 1
+Chips: won: 1800, lost: 2800, bought: 1000, forced bets: 2800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.857143
+
+

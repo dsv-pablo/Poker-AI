@@ -1,0 +1,218 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Mokuf: Random
+Mohom: AIMyBot1
+
+Joins: Mokuf, chips: 1000
+Joins: Mohom, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokuf
+Small Blind: Mokuf, chips: 100
+Big Blind: Mohom, chips: 200
+Folds: Mokuf
+Pot size: 300
+Wins: Mohom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mohom
+Small Blind: Mohom, chips: 100
+Big Blind: Mokuf, chips: 200
+Folds: Mohom
+Pot size: 300
+Boasts: Mokuf, 4h 8h
+Wins: Mokuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokuf
+Small Blind: Mokuf, chips: 100
+Big Blind: Mohom, chips: 200
+Raises: Mokuf, chips: 300
+Folds: Mohom
+Pot size: 700
+Boasts: Mokuf, 4s 3s
+Wins: Mokuf, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mohom
+Small Blind: Mohom, chips: 100
+Big Blind: Mokuf, chips: 200
+Folds: Mohom
+Pot size: 300
+Boasts: Mokuf, 3d Kh
+Wins: Mokuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokuf
+Small Blind: Mokuf, chips: 100
+Big Blind: Mohom, chips: 200
+Raises: Mokuf, chips: 300
+Folds: Mohom
+Pot size: 700
+Wins: Mokuf, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mohom
+Small Blind: Mohom, chips: 100
+Big Blind: Mokuf, chips: 200
+Folds: Mohom
+Pot size: 300
+Wins: Mokuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokuf
+Small Blind: Mokuf, chips: 100
+Big Blind: Mohom, chips: 200
+Raises: Mokuf, chips: 300
+Folds: Mohom
+Pot size: 700
+Wins: Mokuf, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mohom
+Small Blind: Mohom, chips: 100
+Big Blind: Mokuf, chips: 200
+Folds: Mohom
+Pot size: 300
+Wins: Mokuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokuf
+Small Blind: Mokuf, chips: 100
+Big Blind: Mohom, chips: 100
+Flop: 3s 3c Jc
+Turn: 9h
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Mokuf, 9c 6d
+Combination: Mokuf, Two Pair ( 9c 9h 3s 3c Jc )
+Shows: Mohom, 4s 8h
+Combination: Mohom, Pair ( 3s 3c Jc 9h 8h )
+Wins: Mokuf, chips: 200
+Quits: Mohom, chips: 0
+Ranking: Mokuf, Place: 1, Score: 1000
+Reveal AI: Mokuf, AI: Random
+Ranking: Mohom, Place: 2, Score: -1000
+Reveal AI: Mohom, AI: AIMyBot1
+
+Player Stats for Mohom, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Mokuf, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:46:12
+
+The game begins. The AI's of the players are: 
+Mokuf: Random
+Mohom: AIMyBot1
+
+Joins: Mokuf, chips: 1000
+Joins: Mohom, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokuf
+Small Blind: Mokuf, chips: 100
+Big Blind: Mohom, chips: 200
+Folds: Mokuf
+Pot size: 300
+Wins: Mohom, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mohom
+Small Blind: Mohom, chips: 100
+Big Blind: Mokuf, chips: 200
+Folds: Mohom
+Pot size: 300
+Boasts: Mokuf, 4h 8h
+Wins: Mokuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokuf
+Small Blind: Mokuf, chips: 100
+Big Blind: Mohom, chips: 200
+Raises: Mokuf, chips: 300
+Folds: Mohom
+Pot size: 700
+Boasts: Mokuf, 4s 3s
+Wins: Mokuf, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mohom
+Small Blind: Mohom, chips: 100
+Big Blind: Mokuf, chips: 200
+Folds: Mohom
+Pot size: 300
+Boasts: Mokuf, 3d Kh
+Wins: Mokuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokuf
+Small Blind: Mokuf, chips: 100
+Big Blind: Mohom, chips: 200
+Raises: Mokuf, chips: 300
+Folds: Mohom
+Pot size: 700
+Wins: Mokuf, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mohom
+Small Blind: Mohom, chips: 100
+Big Blind: Mokuf, chips: 200
+Folds: Mohom
+Pot size: 300
+Wins: Mokuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokuf
+Small Blind: Mokuf, chips: 100
+Big Blind: Mohom, chips: 200
+Raises: Mokuf, chips: 300
+Folds: Mohom
+Pot size: 700
+Wins: Mokuf, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mohom
+Small Blind: Mohom, chips: 100
+Big Blind: Mokuf, chips: 200
+Folds: Mohom
+Pot size: 300
+Wins: Mokuf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Mokuf
+Small Blind: Mokuf, chips: 100
+Big Blind: Mohom, chips: 100
+Flop: 3s 3c Jc
+Turn: 9h
+River: 5s
+Pot size: 200
+Showdown Reached
+Shows: Mokuf, 9c 6d
+Combination: Mokuf, Two Pair ( 9c 9h 3s 3c Jc )
+Shows: Mohom, 4s 8h
+Combination: Mohom, Pair ( 3s 3c Jc 9h 8h )
+Wins: Mokuf, chips: 200
+Quits: Mohom, chips: 0
+Ranking: Mokuf, Place: 1, Score: 1000
+Reveal AI: Mokuf, AI: Random
+Ranking: Mohom, Place: 2, Score: -1000
+Reveal AI: Mohom, AI: AIMyBot1
+
+Player Stats for Mohom, AI: AIMyBot1
+General: deals: 9, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 1, showdown: 0, bluff: 1
+Chips: won: 300, lost: 1300, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Mokuf, AI: Random
+General: deals: 9, actions: 4, preflop actions: 4
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 8, showdown: 1, bluff: 7
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1300
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

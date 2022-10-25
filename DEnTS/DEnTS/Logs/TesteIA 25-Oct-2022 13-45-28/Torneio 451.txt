@@ -1,0 +1,524 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Sogaf: Random
+Panees: AIMyBot1
+
+Joins: Sogaf, chips: 1000
+Joins: Panees, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Boasts: Sogaf, 8s 8d
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Raises: Sogaf, chips: 300
+Folds: Panees
+Pot size: 700
+Wins: Sogaf, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Folds: Sogaf
+Pot size: 300
+Boasts: Sogaf, 2c 6c
+Wins: Panees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Raises: Sogaf, chips: 300
+Folds: Panees
+Pot size: 700
+Wins: Sogaf, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Boasts: Sogaf, 8h 5d
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Folds: Sogaf
+Pot size: 300
+Boasts: Sogaf, 9c 5c
+Wins: Panees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Boasts: Sogaf, 5s 2s
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Folds: Sogaf
+Pot size: 300
+Wins: Panees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Raises: Sogaf, chips: 300
+Folds: Panees
+Pot size: 700
+Wins: Sogaf, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Flop: Ad 8d 4h
+Turn: 9d
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Sogaf, 7h 6c
+Combination: Sogaf, High Card ( Ad Jh 9d 8d 7h )
+Shows: Panees, Kd Tc
+Combination: Panees, High Card ( Ad Kd Jh Tc 9d )
+Wins: Sogaf, chips: 100
+Wins: Panees, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Flop: 6c 5d Qs
+Turn: Tc
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Sogaf, 2c 3d
+Combination: Sogaf, High Card ( Qs Tc 8h 6c 5d )
+Shows: Panees, Ac 5s
+Combination: Panees, Pair ( 5s 5d Ac Qs Tc )
+Wins: Panees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Flop: 4c 3s 7h
+Turn: 3c
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Sogaf, Kc 5c
+Combination: Sogaf, Two Pair ( 7h 7s 3s 3c Kc )
+Shows: Panees, 9c 5s
+Combination: Panees, Two Pair ( 7h 7s 3s 3c 9c )
+Wins: Sogaf, chips: 200
+Wins: Panees, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Flop: Kd 5c Kc
+Turn: 5d
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Sogaf, 4s 4c
+Combination: Sogaf, Two Pair ( Kd Kc 5c 5d 8s )
+Shows: Panees, 9h Ad
+Combination: Panees, Two Pair ( Kd Kc 5c 5d Ad )
+Wins: Sogaf, chips: 100
+Wins: Panees, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Flop: 4h Js Qs
+Turn: 5d
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Sogaf, 4d 9s
+Combination: Sogaf, Pair ( 4d 4h Qs Js 9s )
+Shows: Panees, Ac 8c
+Combination: Panees, Pair ( 8c 8h Ac Qs Js )
+Wins: Panees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Flop: Jh 6d 4d
+Turn: 7h
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Sogaf, Ts 5d
+Combination: Sogaf, Pair ( 7h 7s Jh Ts 6d )
+Shows: Panees, 8s Qd
+Combination: Panees, Pair ( 7h 7s Qd Jh 8s )
+Wins: Panees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Flop: 3c 3h 8c
+Turn: 6s
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Sogaf, 2s 2h
+Combination: Sogaf, Two Pair ( 3c 3h 2s 2h 8c )
+Shows: Panees, 7d Kd
+Combination: Panees, Pair ( 3c 3h Kd 8c 7d )
+Wins: Sogaf, chips: 200
+Wins: Panees, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Flop: 4h 3c 2s
+Turn: 6s
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Sogaf, Kd 9d
+Combination: Sogaf, Pair ( 9d 9h Kd 6s 4h )
+Shows: Panees, 3d Kc
+Combination: Panees, Pair ( 3d 3c Kc 9h 6s )
+Wins: Sogaf, chips: 300
+Quits: Panees, chips: 0
+Ranking: Sogaf, Place: 1, Score: 1000
+Reveal AI: Sogaf, AI: Random
+Ranking: Panees, Place: 2, Score: -1000
+Reveal AI: Panees, AI: AIMyBot1
+
+Player Stats for Panees, AI: AIMyBot1
+General: deals: 23, actions: 12, preflop actions: 12
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 10, showdown: 7, bluff: 3
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Sogaf, AI: Random
+General: deals: 23, actions: 6, preflop actions: 6
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 17, showdown: 5, bluff: 12
+Chips: won: 5700, lost: 4700, bought: 1000, forced bets: 3500
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.130435, 3Bet: 0.130435
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+
+Date: 2022/10/25 13:45:59
+
+The game begins. The AI's of the players are: 
+Sogaf: Random
+Panees: AIMyBot1
+
+Joins: Sogaf, chips: 1000
+Joins: Panees, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Boasts: Sogaf, 8s 8d
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Raises: Sogaf, chips: 300
+Folds: Panees
+Pot size: 700
+Wins: Sogaf, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Folds: Sogaf
+Pot size: 300
+Boasts: Sogaf, 2c 6c
+Wins: Panees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Raises: Sogaf, chips: 300
+Folds: Panees
+Pot size: 700
+Wins: Sogaf, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Boasts: Sogaf, 8h 5d
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Folds: Sogaf
+Pot size: 300
+Boasts: Sogaf, 9c 5c
+Wins: Panees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Boasts: Sogaf, 5s 2s
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Folds: Sogaf
+Pot size: 300
+Wins: Panees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Raises: Sogaf, chips: 300
+Folds: Panees
+Pot size: 700
+Wins: Sogaf, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Flop: Ad 8d 4h
+Turn: 9d
+River: Jh
+Pot size: 300
+Showdown Reached
+Shows: Sogaf, 7h 6c
+Combination: Sogaf, High Card ( Ad Jh 9d 8d 7h )
+Shows: Panees, Kd Tc
+Combination: Panees, High Card ( Ad Kd Jh Tc 9d )
+Wins: Sogaf, chips: 100
+Wins: Panees, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Flop: 6c 5d Qs
+Turn: Tc
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Sogaf, 2c 3d
+Combination: Sogaf, High Card ( Qs Tc 8h 6c 5d )
+Shows: Panees, Ac 5s
+Combination: Panees, Pair ( 5s 5d Ac Qs Tc )
+Wins: Panees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Flop: 4c 3s 7h
+Turn: 3c
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Sogaf, Kc 5c
+Combination: Sogaf, Two Pair ( 7h 7s 3s 3c Kc )
+Shows: Panees, 9c 5s
+Combination: Panees, Two Pair ( 7h 7s 3s 3c 9c )
+Wins: Sogaf, chips: 200
+Wins: Panees, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Flop: Kd 5c Kc
+Turn: 5d
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Sogaf, 4s 4c
+Combination: Sogaf, Two Pair ( Kd Kc 5c 5d 8s )
+Shows: Panees, 9h Ad
+Combination: Panees, Two Pair ( Kd Kc 5c 5d Ad )
+Wins: Sogaf, chips: 100
+Wins: Panees, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Flop: 4h Js Qs
+Turn: 5d
+River: 8h
+Pot size: 300
+Showdown Reached
+Shows: Sogaf, 4d 9s
+Combination: Sogaf, Pair ( 4d 4h Qs Js 9s )
+Shows: Panees, Ac 8c
+Combination: Panees, Pair ( 8c 8h Ac Qs Js )
+Wins: Panees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Flop: Jh 6d 4d
+Turn: 7h
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Sogaf, Ts 5d
+Combination: Sogaf, Pair ( 7h 7s Jh Ts 6d )
+Shows: Panees, 8s Qd
+Combination: Panees, Pair ( 7h 7s Qd Jh 8s )
+Wins: Panees, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Folds: Panees
+Pot size: 300
+Wins: Sogaf, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sogaf
+Small Blind: Sogaf, chips: 100
+Big Blind: Panees, chips: 200
+Flop: 3c 3h 8c
+Turn: 6s
+River: 4d
+Pot size: 300
+Showdown Reached
+Shows: Sogaf, 2s 2h
+Combination: Sogaf, Two Pair ( 3c 3h 2s 2h 8c )
+Shows: Panees, 7d Kd
+Combination: Panees, Pair ( 3c 3h Kd 8c 7d )
+Wins: Sogaf, chips: 200
+Wins: Panees, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Panees
+Small Blind: Panees, chips: 100
+Big Blind: Sogaf, chips: 200
+Flop: 4h 3c 2s
+Turn: 6s
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Sogaf, Kd 9d
+Combination: Sogaf, Pair ( 9d 9h Kd 6s 4h )
+Shows: Panees, 3d Kc
+Combination: Panees, Pair ( 3d 3c Kc 9h 6s )
+Wins: Sogaf, chips: 300
+Quits: Panees, chips: 0
+Ranking: Sogaf, Place: 1, Score: 1000
+Reveal AI: Sogaf, AI: Random
+Ranking: Panees, Place: 2, Score: -1000
+Reveal AI: Panees, AI: AIMyBot1
+
+Player Stats for Panees, AI: AIMyBot1
+General: deals: 23, actions: 12, preflop actions: 12
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 10, showdown: 7, bluff: 3
+Chips: won: 2400, lost: 3400, bought: 1000, forced bets: 3400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.875
+
+
+Player Stats for Sogaf, AI: Random
+General: deals: 23, actions: 6, preflop actions: 6
+Rounds Seen: flops: 8, turns: 8, rivers: 8, showdowns: 8
+Wins: total: 17, showdown: 5, bluff: 12
+Chips: won: 5700, lost: 4700, bought: 1000, forced bets: 3500
+Pre-Flop Stats: VP$IP: 0.130435, PFR: 0.130435, 3Bet: 0.130435
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.625
+
+

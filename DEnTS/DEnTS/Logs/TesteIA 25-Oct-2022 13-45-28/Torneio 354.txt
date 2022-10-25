@@ -1,0 +1,314 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Desa: AIMyBot1
+Rokal: Random
+
+Joins: Desa, chips: 1000
+Joins: Rokal, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rokal
+Small Blind: Rokal, chips: 100
+Big Blind: Desa, chips: 200
+Folds: Rokal
+Pot size: 300
+Boasts: Rokal, 9d 7h
+Wins: Desa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Desa
+Small Blind: Desa, chips: 100
+Big Blind: Rokal, chips: 200
+Folds: Desa
+Pot size: 300
+Wins: Rokal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rokal
+Small Blind: Rokal, chips: 100
+Big Blind: Desa, chips: 200
+Calls: Rokal
+DEBUG MESSAGE: INVALID ACTION FROM Desa (2 0)
+Folds: Desa
+Pot size: 400
+Boasts: Rokal, Ad Ah
+Wins: Rokal, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Desa
+Small Blind: Desa, chips: 100
+Big Blind: Rokal, chips: 200
+Folds: Desa
+Pot size: 300
+Boasts: Rokal, 7s 5h
+Wins: Rokal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rokal
+Small Blind: Rokal, chips: 100
+Big Blind: Desa, chips: 200
+Raises: Rokal, chips: 300
+Folds: Desa
+Pot size: 700
+Wins: Rokal, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Desa
+Small Blind: Desa, chips: 100
+Big Blind: Rokal, chips: 200
+Folds: Desa
+Pot size: 300
+Wins: Rokal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rokal
+Small Blind: Rokal, chips: 100
+Big Blind: Desa, chips: 200
+Calls: Rokal
+DEBUG MESSAGE: INVALID ACTION FROM Desa (2 0)
+Folds: Desa
+Pot size: 400
+Boasts: Rokal, Qd 9c
+Wins: Rokal, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Desa
+Small Blind: Desa, chips: 100
+Big Blind: Rokal, chips: 200
+Folds: Desa
+Pot size: 300
+Boasts: Rokal, 8d Qc
+Wins: Rokal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rokal
+Small Blind: Rokal, chips: 100
+Big Blind: Desa, chips: 100
+Flop: 7d 9d Js
+Turn: As
+River: Qh
+Pot size: 200
+Showdown Reached
+Shows: Desa, 7h 6c
+Combination: Desa, Pair ( 7h 7d As Qh Js )
+Shows: Rokal, 2s Kc
+Combination: Rokal, High Card ( As Kc Qh Js 9d )
+Wins: Desa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Desa
+Small Blind: Desa, chips: 100
+Big Blind: Rokal, chips: 200
+Folds: Desa
+Pot size: 300
+Boasts: Rokal, 8d 5h
+Wins: Rokal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rokal
+Small Blind: Rokal, chips: 100
+Big Blind: Desa, chips: 100
+Flop: Jd Td Ks
+Turn: Jc
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Desa, Tc 7s
+Combination: Desa, Two Pair ( Jd Jc Tc Td Ks )
+Shows: Rokal, 6h 4h
+Combination: Rokal, Pair ( Jd Jc Ks Td 6h )
+Wins: Desa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Desa
+Small Blind: Desa, chips: 100
+Big Blind: Rokal, chips: 200
+Folds: Desa
+Pot size: 300
+Boasts: Rokal, 3h 2c
+Wins: Rokal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rokal
+Small Blind: Rokal, chips: 100
+Big Blind: Desa, chips: 100
+Flop: 2d 8c Qc
+Turn: 9s
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Desa, 7s 8s
+Combination: Desa, Pair ( 8s 8c Qc 9s 7s )
+Shows: Rokal, 2s 3d
+Combination: Rokal, Two Pair ( 3d 3s 2s 2d Qc )
+Wins: Rokal, chips: 200
+Quits: Desa, chips: 0
+Ranking: Rokal, Place: 1, Score: 1000
+Reveal AI: Rokal, AI: Random
+Ranking: Desa, Place: 2, Score: -1000
+Reveal AI: Desa, AI: AIMyBot1
+
+Player Stats for Desa, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Rokal, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+
+Date: 2022/10/25 13:45:52
+
+The game begins. The AI's of the players are: 
+Desa: AIMyBot1
+Rokal: Random
+
+Joins: Desa, chips: 1000
+Joins: Rokal, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rokal
+Small Blind: Rokal, chips: 100
+Big Blind: Desa, chips: 200
+Folds: Rokal
+Pot size: 300
+Boasts: Rokal, 9d 7h
+Wins: Desa, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Desa
+Small Blind: Desa, chips: 100
+Big Blind: Rokal, chips: 200
+Folds: Desa
+Pot size: 300
+Wins: Rokal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rokal
+Small Blind: Rokal, chips: 100
+Big Blind: Desa, chips: 200
+Calls: Rokal
+DEBUG MESSAGE: INVALID ACTION FROM Desa (2 0)
+Folds: Desa
+Pot size: 400
+Boasts: Rokal, Ad Ah
+Wins: Rokal, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Desa
+Small Blind: Desa, chips: 100
+Big Blind: Rokal, chips: 200
+Folds: Desa
+Pot size: 300
+Boasts: Rokal, 7s 5h
+Wins: Rokal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rokal
+Small Blind: Rokal, chips: 100
+Big Blind: Desa, chips: 200
+Raises: Rokal, chips: 300
+Folds: Desa
+Pot size: 700
+Wins: Rokal, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Desa
+Small Blind: Desa, chips: 100
+Big Blind: Rokal, chips: 200
+Folds: Desa
+Pot size: 300
+Wins: Rokal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rokal
+Small Blind: Rokal, chips: 100
+Big Blind: Desa, chips: 200
+Calls: Rokal
+DEBUG MESSAGE: INVALID ACTION FROM Desa (2 0)
+Folds: Desa
+Pot size: 400
+Boasts: Rokal, Qd 9c
+Wins: Rokal, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Desa
+Small Blind: Desa, chips: 100
+Big Blind: Rokal, chips: 200
+Folds: Desa
+Pot size: 300
+Boasts: Rokal, 8d Qc
+Wins: Rokal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rokal
+Small Blind: Rokal, chips: 100
+Big Blind: Desa, chips: 100
+Flop: 7d 9d Js
+Turn: As
+River: Qh
+Pot size: 200
+Showdown Reached
+Shows: Desa, 7h 6c
+Combination: Desa, Pair ( 7h 7d As Qh Js )
+Shows: Rokal, 2s Kc
+Combination: Rokal, High Card ( As Kc Qh Js 9d )
+Wins: Desa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Desa
+Small Blind: Desa, chips: 100
+Big Blind: Rokal, chips: 200
+Folds: Desa
+Pot size: 300
+Boasts: Rokal, 8d 5h
+Wins: Rokal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rokal
+Small Blind: Rokal, chips: 100
+Big Blind: Desa, chips: 100
+Flop: Jd Td Ks
+Turn: Jc
+River: 5d
+Pot size: 200
+Showdown Reached
+Shows: Desa, Tc 7s
+Combination: Desa, Two Pair ( Jd Jc Tc Td Ks )
+Shows: Rokal, 6h 4h
+Combination: Rokal, Pair ( Jd Jc Ks Td 6h )
+Wins: Desa, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Desa
+Small Blind: Desa, chips: 100
+Big Blind: Rokal, chips: 200
+Folds: Desa
+Pot size: 300
+Boasts: Rokal, 3h 2c
+Wins: Rokal, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Rokal
+Small Blind: Rokal, chips: 100
+Big Blind: Desa, chips: 100
+Flop: 2d 8c Qc
+Turn: 9s
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Desa, 7s 8s
+Combination: Desa, Pair ( 8s 8c Qc 9s 7s )
+Shows: Rokal, 2s 3d
+Combination: Rokal, Two Pair ( 3d 3s 2s 2d Qc )
+Wins: Rokal, chips: 200
+Quits: Desa, chips: 0
+Ranking: Rokal, Place: 1, Score: 1000
+Reveal AI: Rokal, AI: Random
+Ranking: Desa, Place: 2, Score: -1000
+Reveal AI: Desa, AI: AIMyBot1
+
+Player Stats for Desa, AI: AIMyBot1
+General: deals: 13, actions: 9, preflop actions: 9
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 3, showdown: 2, bluff: 1
+Chips: won: 700, lost: 1700, bought: 1000, forced bets: 1700
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Player Stats for Rokal, AI: Random
+General: deals: 13, actions: 4, preflop actions: 4
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 10, showdown: 1, bluff: 9
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.333333
+
+

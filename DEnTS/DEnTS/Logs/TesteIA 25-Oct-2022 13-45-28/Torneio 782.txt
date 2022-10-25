@@ -1,0 +1,968 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Vomotry: AIMyBot1
+Poenhedu: Random
+
+Joins: Vomotry, chips: 1000
+Joins: Poenhedu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Calls: Poenhedu
+DEBUG MESSAGE: INVALID ACTION FROM Vomotry (2 0)
+Folds: Vomotry
+Pot size: 400
+Wins: Poenhedu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Calls: Poenhedu
+DEBUG MESSAGE: INVALID ACTION FROM Vomotry (2 0)
+Folds: Vomotry
+Pot size: 400
+Boasts: Poenhedu, Qd 5s
+Wins: Poenhedu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Folds: Poenhedu
+Pot size: 300
+Boasts: Poenhedu, 7h 2h
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Boasts: Poenhedu, Ac 3c
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Raises: Poenhedu, chips: 300
+Folds: Vomotry
+Pot size: 700
+Wins: Poenhedu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Flop: 8h Jc Th
+Turn: Kd
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 8d Ks
+Combination: Vomotry, Two Pair ( Ks Kd 8d 8h Qd )
+Shows: Poenhedu, 7c 5s
+Combination: Poenhedu, High Card ( Kd Qd Jc Th 8h )
+Wins: Vomotry, chips: 200
+Wins: Poenhedu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: Th 7c Kh
+Turn: 3d
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 9c 7s
+Combination: Vomotry, Pair ( 7s 7c Kh Th 9c )
+Shows: Poenhedu, 5c Qd
+Combination: Poenhedu, High Card ( Kh Qd Th 7c 5c )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: 9c 3s 7d
+Turn: Td
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 5h 5d
+Combination: Vomotry, Pair ( 5h 5d Td 9c 7d )
+Shows: Poenhedu, Ks Kh
+Combination: Poenhedu, Pair ( Ks Kh Td 9c 7d )
+Wins: Vomotry, chips: 100
+Wins: Poenhedu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Flop: 3h 4d 2c
+Turn: 5s
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 9h Kd
+Combination: Vomotry, Pair ( 9h 9s Kd 5s 4d )
+Shows: Poenhedu, 5d 8c
+Combination: Poenhedu, Pair ( 5d 5s 9s 8c 4d )
+Wins: Vomotry, chips: 200
+Wins: Poenhedu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: 6d Ac Jd
+Turn: 2d
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Th 2c
+Combination: Vomotry, Pair ( 2c 2d Ac Jd Th )
+Shows: Poenhedu, 5c Qs
+Combination: Poenhedu, High Card ( Ac Qs Jd 6d 5c )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Boasts: Poenhedu, 8h Js
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: 5c 8c 3d
+Turn: As
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 4d 2d
+Combination: Vomotry, Straight ( 5c 4d 3d 2d As )
+Shows: Poenhedu, Td 4h
+Combination: Poenhedu, Pair ( As Ac Td 8c 5c )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Boasts: Poenhedu, 8h 2h
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: 2d As Ts
+Turn: 4c
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 7d Kh
+Combination: Vomotry, Pair ( As Ac Kh Ts 7d )
+Shows: Poenhedu, Qc 9s
+Combination: Poenhedu, Pair ( As Ac Qc Ts 9s )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: 9s As Ts
+Turn: Jd
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Ks Js
+Combination: Vomotry, Flush ( As Ks Js Ts 9s )
+Shows: Poenhedu, 2c 3d
+Combination: Poenhedu, Pair ( 9s 9h As Jd Ts )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: Ad 8s As
+Turn: 6h
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 2d 9c
+Combination: Vomotry, Pair ( Ad As 9c 8s 6h )
+Shows: Poenhedu, 7s 6s
+Combination: Poenhedu, Two Pair ( Ad As 6s 6h 8s )
+Wins: Vomotry, chips: 100
+Wins: Poenhedu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Flop: Ah 5h 7s
+Turn: 2d
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Qh 2s
+Combination: Vomotry, Two Pair ( 7s 7h 2s 2d Ah )
+Shows: Poenhedu, 9c 8d
+Combination: Poenhedu, Pair ( 7s 7h Ah 9c 8d )
+Wins: Vomotry, chips: 200
+Wins: Poenhedu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: Kc Qh 3c
+Turn: Th
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Kh 9s
+Combination: Vomotry, Pair ( Kh Kc Qh Th 9s )
+Shows: Poenhedu, 7d Kd
+Combination: Poenhedu, Pair ( Kd Kc Qh Th 7d )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: 5c 4s Tc
+Turn: 5d
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 9c Ts
+Combination: Vomotry, Two Pair ( Ts Tc 5c 5d 9c )
+Shows: Poenhedu, Qh 3d
+Combination: Poenhedu, Two Pair ( 5c 5d 3d 3s Qh )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: 5s Qs 8h
+Turn: 8c
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Kc 6s
+Combination: Vomotry, Pair ( 8h 8c Kc Qs Js )
+Shows: Poenhedu, Ah 5c
+Combination: Poenhedu, Two Pair ( 8h 8c 5c 5s Ah )
+Wins: Vomotry, chips: 100
+Wins: Poenhedu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Flop: 7s 6c Ks
+Turn: 6d
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 9s 3d
+Combination: Vomotry, Pair ( 6c 6d Ks 9s 8s )
+Shows: Poenhedu, 3s 4h
+Combination: Poenhedu, Pair ( 6c 6d Ks 8s 7s )
+Wins: Vomotry, chips: 200
+Wins: Poenhedu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: Qd Ad 6h
+Turn: Ts
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 4c Kc
+Combination: Vomotry, High Card ( Ad Kc Qd Ts 8c )
+Shows: Poenhedu, 6d 5h
+Combination: Poenhedu, Pair ( 6d 6h Ad Qd Ts )
+Wins: Vomotry, chips: 100
+Wins: Poenhedu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Flop: Kd Tc 6c
+Turn: 5d
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Kh As
+Combination: Vomotry, Pair ( Kh Kd As Tc 6c )
+Shows: Poenhedu, 9d 6h
+Combination: Poenhedu, Pair ( 6h 6c Kd Tc 9d )
+Wins: Vomotry, chips: 200
+Wins: Poenhedu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: Js 7d Ad
+Turn: As
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 6s 5h
+Combination: Vomotry, Pair ( Ad As Js 7d 6s )
+Shows: Poenhedu, Ks 9c
+Combination: Poenhedu, Pair ( Ad As Ks Js 9c )
+Wins: Vomotry, chips: 100
+Wins: Poenhedu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Flop: 3h 9h 9d
+Turn: Ts
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 5d Kh
+Combination: Vomotry, Pair ( 9h 9d Kh Ts 8d )
+Shows: Poenhedu, 6s 2s
+Combination: Poenhedu, Pair ( 9h 9d Ts 8d 6s )
+Wins: Vomotry, chips: 200
+Wins: Poenhedu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: Td Qh 9c
+Turn: 3h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Tc 4d
+Combination: Vomotry, Pair ( Tc Td Ac Qh 9c )
+Shows: Poenhedu, 4h 7c
+Combination: Poenhedu, High Card ( Ac Qh Td 9c 7c )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Boasts: Poenhedu, Qh 8d
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: 2c 9d Kc
+Turn: 2s
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Td Kd
+Combination: Vomotry, Two Pair ( Kd Kc 2c 2s Td )
+Shows: Poenhedu, 7c Ad
+Combination: Poenhedu, Pair ( 2c 2s Ad Kc 9d )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Boasts: Poenhedu, 5s Kh
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: Qc 2s 6h
+Turn: Kh
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Jc Th
+Combination: Vomotry, Pair ( Kh Kd Qc Jc Th )
+Shows: Poenhedu, Js Ks
+Combination: Poenhedu, Three Of A Kind ( Ks Kh Kd Qc Js )
+Wins: Vomotry, chips: 100
+Wins: Poenhedu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Flop: 8h Ts 2s
+Turn: 4c
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 7s Tc
+Combination: Vomotry, Two Pair ( Tc Ts 2s 2c 8h )
+Shows: Poenhedu, Qc Qs
+Combination: Poenhedu, Two Pair ( Qc Qs 2s 2c Ts )
+Wins: Poenhedu, chips: 300
+Quits: Vomotry, chips: 0
+Ranking: Poenhedu, Place: 1, Score: 1000
+Reveal AI: Poenhedu, AI: Random
+Ranking: Vomotry, Place: 2, Score: -1000
+Reveal AI: Vomotry, AI: AIMyBot1
+
+Player Stats for Poenhedu, AI: Random
+General: deals: 39, actions: 4, preflop actions: 4
+Rounds Seen: flops: 22, turns: 22, rivers: 22, showdowns: 22
+Wins: total: 29, showdown: 13, bluff: 16
+Chips: won: 7500, lost: 6500, bought: 1000, forced bets: 5900
+Pre-Flop Stats: VP$IP: 0.0769231, PFR: 0.025641, 3Bet: 0.025641
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.590909
+
+
+Player Stats for Vomotry, AI: AIMyBot1
+General: deals: 39, actions: 16, preflop actions: 16
+Rounds Seen: flops: 22, turns: 22, rivers: 22, showdowns: 22
+Wins: total: 22, showdown: 21, bluff: 1
+Chips: won: 4800, lost: 5800, bought: 1000, forced bets: 5800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.954545
+
+
+Date: 2022/10/25 13:46:21
+
+The game begins. The AI's of the players are: 
+Vomotry: AIMyBot1
+Poenhedu: Random
+
+Joins: Vomotry, chips: 1000
+Joins: Poenhedu, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Calls: Poenhedu
+DEBUG MESSAGE: INVALID ACTION FROM Vomotry (2 0)
+Folds: Vomotry
+Pot size: 400
+Wins: Poenhedu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Calls: Poenhedu
+DEBUG MESSAGE: INVALID ACTION FROM Vomotry (2 0)
+Folds: Vomotry
+Pot size: 400
+Boasts: Poenhedu, Qd 5s
+Wins: Poenhedu, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Folds: Poenhedu
+Pot size: 300
+Boasts: Poenhedu, 7h 2h
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Boasts: Poenhedu, Ac 3c
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Raises: Poenhedu, chips: 300
+Folds: Vomotry
+Pot size: 700
+Wins: Poenhedu, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Flop: 8h Jc Th
+Turn: Kd
+River: Qd
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 8d Ks
+Combination: Vomotry, Two Pair ( Ks Kd 8d 8h Qd )
+Shows: Poenhedu, 7c 5s
+Combination: Poenhedu, High Card ( Kd Qd Jc Th 8h )
+Wins: Vomotry, chips: 200
+Wins: Poenhedu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: Th 7c Kh
+Turn: 3d
+River: 2h
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 9c 7s
+Combination: Vomotry, Pair ( 7s 7c Kh Th 9c )
+Shows: Poenhedu, 5c Qd
+Combination: Poenhedu, High Card ( Kh Qd Th 7c 5c )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: 9c 3s 7d
+Turn: Td
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 5h 5d
+Combination: Vomotry, Pair ( 5h 5d Td 9c 7d )
+Shows: Poenhedu, Ks Kh
+Combination: Poenhedu, Pair ( Ks Kh Td 9c 7d )
+Wins: Vomotry, chips: 100
+Wins: Poenhedu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Flop: 3h 4d 2c
+Turn: 5s
+River: 9s
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 9h Kd
+Combination: Vomotry, Pair ( 9h 9s Kd 5s 4d )
+Shows: Poenhedu, 5d 8c
+Combination: Poenhedu, Pair ( 5d 5s 9s 8c 4d )
+Wins: Vomotry, chips: 200
+Wins: Poenhedu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: 6d Ac Jd
+Turn: 2d
+River: 4s
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Th 2c
+Combination: Vomotry, Pair ( 2c 2d Ac Jd Th )
+Shows: Poenhedu, 5c Qs
+Combination: Poenhedu, High Card ( Ac Qs Jd 6d 5c )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Boasts: Poenhedu, 8h Js
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: 5c 8c 3d
+Turn: As
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 4d 2d
+Combination: Vomotry, Straight ( 5c 4d 3d 2d As )
+Shows: Poenhedu, Td 4h
+Combination: Poenhedu, Pair ( As Ac Td 8c 5c )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Boasts: Poenhedu, 8h 2h
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: 2d As Ts
+Turn: 4c
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 7d Kh
+Combination: Vomotry, Pair ( As Ac Kh Ts 7d )
+Shows: Poenhedu, Qc 9s
+Combination: Poenhedu, Pair ( As Ac Qc Ts 9s )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: 9s As Ts
+Turn: Jd
+River: 9h
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Ks Js
+Combination: Vomotry, Flush ( As Ks Js Ts 9s )
+Shows: Poenhedu, 2c 3d
+Combination: Poenhedu, Pair ( 9s 9h As Jd Ts )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: Ad 8s As
+Turn: 6h
+River: 5h
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 2d 9c
+Combination: Vomotry, Pair ( Ad As 9c 8s 6h )
+Shows: Poenhedu, 7s 6s
+Combination: Poenhedu, Two Pair ( Ad As 6s 6h 8s )
+Wins: Vomotry, chips: 100
+Wins: Poenhedu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Flop: Ah 5h 7s
+Turn: 2d
+River: 7h
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Qh 2s
+Combination: Vomotry, Two Pair ( 7s 7h 2s 2d Ah )
+Shows: Poenhedu, 9c 8d
+Combination: Poenhedu, Pair ( 7s 7h Ah 9c 8d )
+Wins: Vomotry, chips: 200
+Wins: Poenhedu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: Kc Qh 3c
+Turn: Th
+River: 6c
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Kh 9s
+Combination: Vomotry, Pair ( Kh Kc Qh Th 9s )
+Shows: Poenhedu, 7d Kd
+Combination: Poenhedu, Pair ( Kd Kc Qh Th 7d )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: 5c 4s Tc
+Turn: 5d
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 9c Ts
+Combination: Vomotry, Two Pair ( Ts Tc 5c 5d 9c )
+Shows: Poenhedu, Qh 3d
+Combination: Poenhedu, Two Pair ( 5c 5d 3d 3s Qh )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: 5s Qs 8h
+Turn: 8c
+River: Js
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Kc 6s
+Combination: Vomotry, Pair ( 8h 8c Kc Qs Js )
+Shows: Poenhedu, Ah 5c
+Combination: Poenhedu, Two Pair ( 8h 8c 5c 5s Ah )
+Wins: Vomotry, chips: 100
+Wins: Poenhedu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Flop: 7s 6c Ks
+Turn: 6d
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 9s 3d
+Combination: Vomotry, Pair ( 6c 6d Ks 9s 8s )
+Shows: Poenhedu, 3s 4h
+Combination: Poenhedu, Pair ( 6c 6d Ks 8s 7s )
+Wins: Vomotry, chips: 200
+Wins: Poenhedu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: Qd Ad 6h
+Turn: Ts
+River: 8c
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 4c Kc
+Combination: Vomotry, High Card ( Ad Kc Qd Ts 8c )
+Shows: Poenhedu, 6d 5h
+Combination: Poenhedu, Pair ( 6d 6h Ad Qd Ts )
+Wins: Vomotry, chips: 100
+Wins: Poenhedu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Flop: Kd Tc 6c
+Turn: 5d
+River: 3h
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Kh As
+Combination: Vomotry, Pair ( Kh Kd As Tc 6c )
+Shows: Poenhedu, 9d 6h
+Combination: Poenhedu, Pair ( 6h 6c Kd Tc 9d )
+Wins: Vomotry, chips: 200
+Wins: Poenhedu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: Js 7d Ad
+Turn: As
+River: 3d
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 6s 5h
+Combination: Vomotry, Pair ( Ad As Js 7d 6s )
+Shows: Poenhedu, Ks 9c
+Combination: Poenhedu, Pair ( Ad As Ks Js 9c )
+Wins: Vomotry, chips: 100
+Wins: Poenhedu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Flop: 3h 9h 9d
+Turn: Ts
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 5d Kh
+Combination: Vomotry, Pair ( 9h 9d Kh Ts 8d )
+Shows: Poenhedu, 6s 2s
+Combination: Poenhedu, Pair ( 9h 9d Ts 8d 6s )
+Wins: Vomotry, chips: 200
+Wins: Poenhedu, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: Td Qh 9c
+Turn: 3h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Tc 4d
+Combination: Vomotry, Pair ( Tc Td Ac Qh 9c )
+Shows: Poenhedu, 4h 7c
+Combination: Poenhedu, High Card ( Ac Qh Td 9c 7c )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Boasts: Poenhedu, Qh 8d
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: 2c 9d Kc
+Turn: 2s
+River: 8s
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Td Kd
+Combination: Vomotry, Two Pair ( Kd Kc 2c 2s Td )
+Shows: Poenhedu, 7c Ad
+Combination: Poenhedu, Pair ( 2c 2s Ad Kc 9d )
+Wins: Vomotry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Folds: Vomotry
+Pot size: 300
+Boasts: Poenhedu, 5s Kh
+Wins: Poenhedu, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Poenhedu
+Small Blind: Poenhedu, chips: 100
+Big Blind: Vomotry, chips: 200
+Flop: Qc 2s 6h
+Turn: Kh
+River: Kd
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, Jc Th
+Combination: Vomotry, Pair ( Kh Kd Qc Jc Th )
+Shows: Poenhedu, Js Ks
+Combination: Poenhedu, Three Of A Kind ( Ks Kh Kd Qc Js )
+Wins: Vomotry, chips: 100
+Wins: Poenhedu, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vomotry
+Small Blind: Vomotry, chips: 100
+Big Blind: Poenhedu, chips: 200
+Flop: 8h Ts 2s
+Turn: 4c
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Vomotry, 7s Tc
+Combination: Vomotry, Two Pair ( Tc Ts 2s 2c 8h )
+Shows: Poenhedu, Qc Qs
+Combination: Poenhedu, Two Pair ( Qc Qs 2s 2c Ts )
+Wins: Poenhedu, chips: 300
+Quits: Vomotry, chips: 0
+Ranking: Poenhedu, Place: 1, Score: 1000
+Reveal AI: Poenhedu, AI: Random
+Ranking: Vomotry, Place: 2, Score: -1000
+Reveal AI: Vomotry, AI: AIMyBot1
+
+Player Stats for Poenhedu, AI: Random
+General: deals: 39, actions: 4, preflop actions: 4
+Rounds Seen: flops: 22, turns: 22, rivers: 22, showdowns: 22
+Wins: total: 29, showdown: 13, bluff: 16
+Chips: won: 7500, lost: 6500, bought: 1000, forced bets: 5900
+Pre-Flop Stats: VP$IP: 0.0769231, PFR: 0.025641, 3Bet: 0.025641
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.590909
+
+
+Player Stats for Vomotry, AI: AIMyBot1
+General: deals: 39, actions: 16, preflop actions: 16
+Rounds Seen: flops: 22, turns: 22, rivers: 22, showdowns: 22
+Wins: total: 22, showdown: 21, bluff: 1
+Chips: won: 4800, lost: 5800, bought: 1000, forced bets: 5800
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.954545
+
+

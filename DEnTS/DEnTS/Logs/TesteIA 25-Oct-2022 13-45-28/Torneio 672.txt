@@ -1,0 +1,408 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hittoepo: Random
+Fabiwroes: AIMyBot1
+
+Joins: Hittoepo, chips: 1000
+Joins: Fabiwroes, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 200
+Calls: Hittoepo
+DEBUG MESSAGE: INVALID ACTION FROM Fabiwroes (2 0)
+Folds: Fabiwroes
+Pot size: 400
+Boasts: Hittoepo, 5d Js
+Wins: Hittoepo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabiwroes
+Small Blind: Fabiwroes, chips: 100
+Big Blind: Hittoepo, chips: 200
+Folds: Fabiwroes
+Pot size: 300
+Boasts: Hittoepo, 9h 8s
+Wins: Hittoepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 200
+Calls: Hittoepo
+DEBUG MESSAGE: INVALID ACTION FROM Fabiwroes (2 0)
+Folds: Fabiwroes
+Pot size: 400
+Wins: Hittoepo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabiwroes
+Small Blind: Fabiwroes, chips: 100
+Big Blind: Hittoepo, chips: 200
+Folds: Fabiwroes
+Pot size: 300
+Boasts: Hittoepo, 6h 3c
+Wins: Hittoepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 200
+Calls: Hittoepo
+DEBUG MESSAGE: INVALID ACTION FROM Fabiwroes (2 0)
+Folds: Fabiwroes
+Pot size: 400
+Wins: Hittoepo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabiwroes
+Small Blind: Fabiwroes, chips: 100
+Big Blind: Hittoepo, chips: 200
+Folds: Fabiwroes
+Pot size: 300
+Wins: Hittoepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 100
+Flop: 5d Jd Ts
+Turn: Qh
+River: Qs
+Pot size: 200
+Showdown Reached
+Shows: Hittoepo, Js 7s
+Combination: Hittoepo, Two Pair ( Qh Qs Js Jd Ts )
+Shows: Fabiwroes, Ad Jc
+Combination: Fabiwroes, Two Pair ( Qh Qs Jc Jd Ad )
+Wins: Fabiwroes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabiwroes
+Small Blind: Fabiwroes, chips: 100
+Big Blind: Hittoepo, chips: 200
+Folds: Fabiwroes
+Pot size: 300
+Wins: Hittoepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 100
+Flop: 2c 8h Qh
+Turn: 8d
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Hittoepo, Th 5h
+Combination: Hittoepo, Pair ( 8h 8d Qh Jc Th )
+Shows: Fabiwroes, 2h Ts
+Combination: Fabiwroes, Two Pair ( 8h 8d 2h 2c Qh )
+Wins: Fabiwroes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabiwroes
+Small Blind: Fabiwroes, chips: 100
+Big Blind: Hittoepo, chips: 200
+Folds: Fabiwroes
+Pot size: 300
+Wins: Hittoepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 100
+Flop: Kc Ad 8h
+Turn: 9d
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Hittoepo, 3s 5c
+Combination: Hittoepo, High Card ( Ad Kc 9d 8h 5c )
+Shows: Fabiwroes, 6c 4c
+Combination: Fabiwroes, Pair ( 4c 4d Ad Kc 9d )
+Wins: Fabiwroes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabiwroes
+Small Blind: Fabiwroes, chips: 100
+Big Blind: Hittoepo, chips: 200
+Folds: Fabiwroes
+Pot size: 300
+Wins: Hittoepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 100
+Flop: 5s 6c Js
+Turn: Jh
+River: 2s
+Pot size: 200
+Showdown Reached
+Shows: Hittoepo, 3s Td
+Combination: Hittoepo, Pair ( Js Jh Td 6c 5s )
+Shows: Fabiwroes, 9d 5c
+Combination: Fabiwroes, Two Pair ( Js Jh 5c 5s 9d )
+Wins: Fabiwroes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabiwroes
+Small Blind: Fabiwroes, chips: 100
+Big Blind: Hittoepo, chips: 200
+Folds: Fabiwroes
+Pot size: 300
+Wins: Hittoepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 100
+Flop: 3s Ad Qd
+Turn: 2h
+River: 6d
+Pot size: 200
+Showdown Reached
+Shows: Hittoepo, Jh 7s
+Combination: Hittoepo, High Card ( Ad Qd Jh 7s 6d )
+Shows: Fabiwroes, Kc Ks
+Combination: Fabiwroes, Pair ( Kc Ks Ad Qd 6d )
+Wins: Fabiwroes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabiwroes
+Small Blind: Fabiwroes, chips: 100
+Big Blind: Hittoepo, chips: 200
+Folds: Fabiwroes
+Pot size: 300
+Boasts: Hittoepo, Qh 7c
+Wins: Hittoepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 100
+Flop: Ts 9c Qc
+Turn: Jd
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Hittoepo, 7c Th
+Combination: Hittoepo, Pair ( Th Ts Qc Jd 9c )
+Shows: Fabiwroes, 3s 4d
+Combination: Fabiwroes, Pair ( 3s 3c Qc Jd Ts )
+Wins: Hittoepo, chips: 200
+Quits: Fabiwroes, chips: 0
+Ranking: Hittoepo, Place: 1, Score: 1000
+Reveal AI: Hittoepo, AI: Random
+Ranking: Fabiwroes, Place: 2, Score: -1000
+Reveal AI: Fabiwroes, AI: AIMyBot1
+
+Player Stats for Fabiwroes, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 1000, lost: 2000, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Hittoepo, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.166667
+
+
+Date: 2022/10/25 13:46:14
+
+The game begins. The AI's of the players are: 
+Hittoepo: Random
+Fabiwroes: AIMyBot1
+
+Joins: Hittoepo, chips: 1000
+Joins: Fabiwroes, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 200
+Calls: Hittoepo
+DEBUG MESSAGE: INVALID ACTION FROM Fabiwroes (2 0)
+Folds: Fabiwroes
+Pot size: 400
+Boasts: Hittoepo, 5d Js
+Wins: Hittoepo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabiwroes
+Small Blind: Fabiwroes, chips: 100
+Big Blind: Hittoepo, chips: 200
+Folds: Fabiwroes
+Pot size: 300
+Boasts: Hittoepo, 9h 8s
+Wins: Hittoepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 200
+Calls: Hittoepo
+DEBUG MESSAGE: INVALID ACTION FROM Fabiwroes (2 0)
+Folds: Fabiwroes
+Pot size: 400
+Wins: Hittoepo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabiwroes
+Small Blind: Fabiwroes, chips: 100
+Big Blind: Hittoepo, chips: 200
+Folds: Fabiwroes
+Pot size: 300
+Boasts: Hittoepo, 6h 3c
+Wins: Hittoepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 200
+Calls: Hittoepo
+DEBUG MESSAGE: INVALID ACTION FROM Fabiwroes (2 0)
+Folds: Fabiwroes
+Pot size: 400
+Wins: Hittoepo, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabiwroes
+Small Blind: Fabiwroes, chips: 100
+Big Blind: Hittoepo, chips: 200
+Folds: Fabiwroes
+Pot size: 300
+Wins: Hittoepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 100
+Flop: 5d Jd Ts
+Turn: Qh
+River: Qs
+Pot size: 200
+Showdown Reached
+Shows: Hittoepo, Js 7s
+Combination: Hittoepo, Two Pair ( Qh Qs Js Jd Ts )
+Shows: Fabiwroes, Ad Jc
+Combination: Fabiwroes, Two Pair ( Qh Qs Jc Jd Ad )
+Wins: Fabiwroes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabiwroes
+Small Blind: Fabiwroes, chips: 100
+Big Blind: Hittoepo, chips: 200
+Folds: Fabiwroes
+Pot size: 300
+Wins: Hittoepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 100
+Flop: 2c 8h Qh
+Turn: 8d
+River: Jc
+Pot size: 200
+Showdown Reached
+Shows: Hittoepo, Th 5h
+Combination: Hittoepo, Pair ( 8h 8d Qh Jc Th )
+Shows: Fabiwroes, 2h Ts
+Combination: Fabiwroes, Two Pair ( 8h 8d 2h 2c Qh )
+Wins: Fabiwroes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabiwroes
+Small Blind: Fabiwroes, chips: 100
+Big Blind: Hittoepo, chips: 200
+Folds: Fabiwroes
+Pot size: 300
+Wins: Hittoepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 100
+Flop: Kc Ad 8h
+Turn: 9d
+River: 4d
+Pot size: 200
+Showdown Reached
+Shows: Hittoepo, 3s 5c
+Combination: Hittoepo, High Card ( Ad Kc 9d 8h 5c )
+Shows: Fabiwroes, 6c 4c
+Combination: Fabiwroes, Pair ( 4c 4d Ad Kc 9d )
+Wins: Fabiwroes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabiwroes
+Small Blind: Fabiwroes, chips: 100
+Big Blind: Hittoepo, chips: 200
+Folds: Fabiwroes
+Pot size: 300
+Wins: Hittoepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 100
+Flop: 5s 6c Js
+Turn: Jh
+River: 2s
+Pot size: 200
+Showdown Reached
+Shows: Hittoepo, 3s Td
+Combination: Hittoepo, Pair ( Js Jh Td 6c 5s )
+Shows: Fabiwroes, 9d 5c
+Combination: Fabiwroes, Two Pair ( Js Jh 5c 5s 9d )
+Wins: Fabiwroes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabiwroes
+Small Blind: Fabiwroes, chips: 100
+Big Blind: Hittoepo, chips: 200
+Folds: Fabiwroes
+Pot size: 300
+Wins: Hittoepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 100
+Flop: 3s Ad Qd
+Turn: 2h
+River: 6d
+Pot size: 200
+Showdown Reached
+Shows: Hittoepo, Jh 7s
+Combination: Hittoepo, High Card ( Ad Qd Jh 7s 6d )
+Shows: Fabiwroes, Kc Ks
+Combination: Fabiwroes, Pair ( Kc Ks Ad Qd 6d )
+Wins: Fabiwroes, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fabiwroes
+Small Blind: Fabiwroes, chips: 100
+Big Blind: Hittoepo, chips: 200
+Folds: Fabiwroes
+Pot size: 300
+Boasts: Hittoepo, Qh 7c
+Wins: Hittoepo, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hittoepo
+Small Blind: Hittoepo, chips: 100
+Big Blind: Fabiwroes, chips: 100
+Flop: Ts 9c Qc
+Turn: Jd
+River: 3c
+Pot size: 200
+Showdown Reached
+Shows: Hittoepo, 7c Th
+Combination: Hittoepo, Pair ( Th Ts Qc Jd 9c )
+Shows: Fabiwroes, 3s 4d
+Combination: Fabiwroes, Pair ( 3s 3c Qc Jd Ts )
+Wins: Hittoepo, chips: 200
+Quits: Fabiwroes, chips: 0
+Ranking: Hittoepo, Place: 1, Score: 1000
+Reveal AI: Hittoepo, AI: Random
+Ranking: Fabiwroes, Place: 2, Score: -1000
+Reveal AI: Fabiwroes, AI: AIMyBot1
+
+Player Stats for Fabiwroes, AI: AIMyBot1
+General: deals: 17, actions: 11, preflop actions: 11
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 1000, lost: 2000, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Hittoepo, AI: Random
+General: deals: 17, actions: 3, preflop actions: 3
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 12, showdown: 1, bluff: 11
+Chips: won: 3800, lost: 2800, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.166667
+
+

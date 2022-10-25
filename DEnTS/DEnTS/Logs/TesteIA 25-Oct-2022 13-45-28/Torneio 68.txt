@@ -1,0 +1,190 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Wugun: AIMyBot1
+Jeeto: Random
+
+Joins: Wugun, chips: 1000
+Joins: Jeeto, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugun
+Small Blind: Wugun, chips: 100
+Big Blind: Jeeto, chips: 200
+Folds: Wugun
+Pot size: 300
+Wins: Jeeto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeeto
+Small Blind: Jeeto, chips: 100
+Big Blind: Wugun, chips: 200
+Raises: Jeeto, chips: 300
+Folds: Wugun
+Pot size: 700
+Wins: Jeeto, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugun
+Small Blind: Wugun, chips: 100
+Big Blind: Jeeto, chips: 200
+Folds: Wugun
+Pot size: 300
+Wins: Jeeto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeeto
+Small Blind: Jeeto, chips: 100
+Big Blind: Wugun, chips: 200
+Raises: Jeeto, chips: 300
+Folds: Wugun
+Pot size: 700
+Boasts: Jeeto, 6h Jc
+Wins: Jeeto, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugun
+Small Blind: Wugun, chips: 100
+Big Blind: Jeeto, chips: 200
+Folds: Wugun
+Pot size: 300
+Wins: Jeeto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeeto
+Small Blind: Jeeto, chips: 100
+Big Blind: Wugun, chips: 200
+Calls: Jeeto
+DEBUG MESSAGE: INVALID ACTION FROM Wugun (2 0)
+Folds: Wugun
+Pot size: 400
+Boasts: Jeeto, Ts 2h
+Wins: Jeeto, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugun
+Small Blind: Wugun, chips: 100
+Big Blind: Jeeto, chips: 200
+Flop: 3s 8h 4c
+Turn: 4s
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Wugun, 6h 2s
+Combination: Wugun, Pair ( 4c 4s Tc 8h 6h )
+Shows: Jeeto, 9d Th
+Combination: Jeeto, Two Pair ( Th Tc 4c 4s 9d )
+Wins: Jeeto, chips: 300
+Quits: Wugun, chips: 0
+Ranking: Jeeto, Place: 1, Score: 1000
+Reveal AI: Jeeto, AI: Random
+Ranking: Wugun, Place: 2, Score: -1000
+Reveal AI: Wugun, AI: AIMyBot1
+
+Player Stats for Jeeto, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Wugun, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Date: 2022/10/25 13:45:34
+
+The game begins. The AI's of the players are: 
+Wugun: AIMyBot1
+Jeeto: Random
+
+Joins: Wugun, chips: 1000
+Joins: Jeeto, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugun
+Small Blind: Wugun, chips: 100
+Big Blind: Jeeto, chips: 200
+Folds: Wugun
+Pot size: 300
+Wins: Jeeto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeeto
+Small Blind: Jeeto, chips: 100
+Big Blind: Wugun, chips: 200
+Raises: Jeeto, chips: 300
+Folds: Wugun
+Pot size: 700
+Wins: Jeeto, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugun
+Small Blind: Wugun, chips: 100
+Big Blind: Jeeto, chips: 200
+Folds: Wugun
+Pot size: 300
+Wins: Jeeto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeeto
+Small Blind: Jeeto, chips: 100
+Big Blind: Wugun, chips: 200
+Raises: Jeeto, chips: 300
+Folds: Wugun
+Pot size: 700
+Boasts: Jeeto, 6h Jc
+Wins: Jeeto, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugun
+Small Blind: Wugun, chips: 100
+Big Blind: Jeeto, chips: 200
+Folds: Wugun
+Pot size: 300
+Wins: Jeeto, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Jeeto
+Small Blind: Jeeto, chips: 100
+Big Blind: Wugun, chips: 200
+Calls: Jeeto
+DEBUG MESSAGE: INVALID ACTION FROM Wugun (2 0)
+Folds: Wugun
+Pot size: 400
+Boasts: Jeeto, Ts 2h
+Wins: Jeeto, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wugun
+Small Blind: Wugun, chips: 100
+Big Blind: Jeeto, chips: 200
+Flop: 3s 8h 4c
+Turn: 4s
+River: Tc
+Pot size: 300
+Showdown Reached
+Shows: Wugun, 6h 2s
+Combination: Wugun, Pair ( 4c 4s Tc 8h 6h )
+Shows: Jeeto, 9d Th
+Combination: Jeeto, Two Pair ( Th Tc 4c 4s 9d )
+Wins: Jeeto, chips: 300
+Quits: Wugun, chips: 0
+Ranking: Jeeto, Place: 1, Score: 1000
+Reveal AI: Jeeto, AI: Random
+Ranking: Wugun, Place: 2, Score: -1000
+Reveal AI: Wugun, AI: AIMyBot1
+
+Player Stats for Jeeto, AI: Random
+General: deals: 7, actions: 3, preflop actions: 3
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 7, showdown: 1, bluff: 6
+Chips: won: 3000, lost: 2000, bought: 1000, forced bets: 1100
+Pre-Flop Stats: VP$IP: 0.428571, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Wugun, AI: AIMyBot1
+General: deals: 7, actions: 6, preflop actions: 6
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 1000
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+

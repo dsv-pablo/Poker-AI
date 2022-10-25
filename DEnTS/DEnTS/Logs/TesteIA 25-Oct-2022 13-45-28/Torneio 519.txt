@@ -1,0 +1,268 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Harlemep: AIMyBot1
+Sibono: Random
+
+Joins: Harlemep, chips: 1000
+Joins: Sibono, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sibono
+Small Blind: Sibono, chips: 100
+Big Blind: Harlemep, chips: 200
+Raises: Sibono, chips: 300
+Folds: Harlemep
+Pot size: 700
+Wins: Sibono, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harlemep
+Small Blind: Harlemep, chips: 100
+Big Blind: Sibono, chips: 200
+Folds: Harlemep
+Pot size: 300
+Boasts: Sibono, Ts Ac
+Wins: Sibono, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sibono
+Small Blind: Sibono, chips: 100
+Big Blind: Harlemep, chips: 200
+Folds: Sibono
+Pot size: 300
+Boasts: Sibono, 2d 2h
+Wins: Harlemep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harlemep
+Small Blind: Harlemep, chips: 100
+Big Blind: Sibono, chips: 200
+Folds: Harlemep
+Pot size: 300
+Boasts: Sibono, 6s 5d
+Wins: Sibono, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sibono
+Small Blind: Sibono, chips: 100
+Big Blind: Harlemep, chips: 200
+Raises: Sibono, chips: 300
+Folds: Harlemep
+Pot size: 700
+Boasts: Sibono, Ks 6h
+Wins: Sibono, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harlemep
+Small Blind: Harlemep, chips: 100
+Big Blind: Sibono, chips: 200
+Folds: Harlemep
+Pot size: 300
+Boasts: Sibono, Qd Jh
+Wins: Sibono, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sibono
+Small Blind: Sibono, chips: 100
+Big Blind: Harlemep, chips: 200
+Calls: Sibono
+DEBUG MESSAGE: INVALID ACTION FROM Harlemep (2 0)
+Folds: Harlemep
+Pot size: 400
+Wins: Sibono, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harlemep
+Small Blind: Harlemep, chips: 100
+Big Blind: Sibono, chips: 200
+Folds: Harlemep
+Pot size: 300
+Boasts: Sibono, 4c 6s
+Wins: Sibono, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sibono
+Small Blind: Sibono, chips: 100
+Big Blind: Harlemep, chips: 100
+Flop: Js 4s Qh
+Turn: Kc
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Harlemep, 9d 5h
+Combination: Harlemep, Straight ( Kc Qh Js Tc 9d )
+Shows: Sibono, Ts 5d
+Combination: Sibono, Pair ( Ts Tc Kc Qh Js )
+Wins: Harlemep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harlemep
+Small Blind: Harlemep, chips: 100
+Big Blind: Sibono, chips: 200
+Folds: Harlemep
+Pot size: 300
+Wins: Sibono, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sibono
+Small Blind: Sibono, chips: 100
+Big Blind: Harlemep, chips: 100
+Flop: Qd 7c 6c
+Turn: 8s
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Harlemep, Ks Jd
+Combination: Harlemep, High Card ( Ks Qd Jd 8s 7c )
+Shows: Sibono, Qh 6h
+Combination: Sibono, Two Pair ( Qh Qd 6h 6c 8s )
+Wins: Sibono, chips: 200
+Quits: Harlemep, chips: 0
+Ranking: Sibono, Place: 1, Score: 1000
+Reveal AI: Sibono, AI: Random
+Ranking: Harlemep, Place: 2, Score: -1000
+Reveal AI: Harlemep, AI: AIMyBot1
+
+Player Stats for Harlemep, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Sibono, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:04
+
+The game begins. The AI's of the players are: 
+Harlemep: AIMyBot1
+Sibono: Random
+
+Joins: Harlemep, chips: 1000
+Joins: Sibono, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sibono
+Small Blind: Sibono, chips: 100
+Big Blind: Harlemep, chips: 200
+Raises: Sibono, chips: 300
+Folds: Harlemep
+Pot size: 700
+Wins: Sibono, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harlemep
+Small Blind: Harlemep, chips: 100
+Big Blind: Sibono, chips: 200
+Folds: Harlemep
+Pot size: 300
+Boasts: Sibono, Ts Ac
+Wins: Sibono, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sibono
+Small Blind: Sibono, chips: 100
+Big Blind: Harlemep, chips: 200
+Folds: Sibono
+Pot size: 300
+Boasts: Sibono, 2d 2h
+Wins: Harlemep, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harlemep
+Small Blind: Harlemep, chips: 100
+Big Blind: Sibono, chips: 200
+Folds: Harlemep
+Pot size: 300
+Boasts: Sibono, 6s 5d
+Wins: Sibono, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sibono
+Small Blind: Sibono, chips: 100
+Big Blind: Harlemep, chips: 200
+Raises: Sibono, chips: 300
+Folds: Harlemep
+Pot size: 700
+Boasts: Sibono, Ks 6h
+Wins: Sibono, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harlemep
+Small Blind: Harlemep, chips: 100
+Big Blind: Sibono, chips: 200
+Folds: Harlemep
+Pot size: 300
+Boasts: Sibono, Qd Jh
+Wins: Sibono, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sibono
+Small Blind: Sibono, chips: 100
+Big Blind: Harlemep, chips: 200
+Calls: Sibono
+DEBUG MESSAGE: INVALID ACTION FROM Harlemep (2 0)
+Folds: Harlemep
+Pot size: 400
+Wins: Sibono, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harlemep
+Small Blind: Harlemep, chips: 100
+Big Blind: Sibono, chips: 200
+Folds: Harlemep
+Pot size: 300
+Boasts: Sibono, 4c 6s
+Wins: Sibono, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sibono
+Small Blind: Sibono, chips: 100
+Big Blind: Harlemep, chips: 100
+Flop: Js 4s Qh
+Turn: Kc
+River: Tc
+Pot size: 200
+Showdown Reached
+Shows: Harlemep, 9d 5h
+Combination: Harlemep, Straight ( Kc Qh Js Tc 9d )
+Shows: Sibono, Ts 5d
+Combination: Sibono, Pair ( Ts Tc Kc Qh Js )
+Wins: Harlemep, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Harlemep
+Small Blind: Harlemep, chips: 100
+Big Blind: Sibono, chips: 200
+Folds: Harlemep
+Pot size: 300
+Wins: Sibono, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Sibono
+Small Blind: Sibono, chips: 100
+Big Blind: Harlemep, chips: 100
+Flop: Qd 7c 6c
+Turn: 8s
+River: 3s
+Pot size: 200
+Showdown Reached
+Shows: Harlemep, Ks Jd
+Combination: Harlemep, High Card ( Ks Qd Jd 8s 7c )
+Shows: Sibono, Qh 6h
+Combination: Sibono, Two Pair ( Qh Qd 6h 6c 8s )
+Wins: Sibono, chips: 200
+Quits: Harlemep, chips: 0
+Ranking: Sibono, Place: 1, Score: 1000
+Reveal AI: Sibono, AI: Random
+Ranking: Harlemep, Place: 2, Score: -1000
+Reveal AI: Harlemep, AI: AIMyBot1
+
+Player Stats for Harlemep, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Sibono, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

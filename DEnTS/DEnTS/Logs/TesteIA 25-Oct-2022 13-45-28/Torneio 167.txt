@@ -1,0 +1,388 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Voete: AIMyBot1
+Faneel: Random
+
+Joins: Voete, chips: 1000
+Joins: Faneel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voete
+Small Blind: Voete, chips: 100
+Big Blind: Faneel, chips: 200
+Folds: Voete
+Pot size: 300
+Wins: Faneel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faneel
+Small Blind: Faneel, chips: 100
+Big Blind: Voete, chips: 200
+Calls: Faneel
+DEBUG MESSAGE: INVALID ACTION FROM Voete (2 0)
+Folds: Voete
+Pot size: 400
+Wins: Faneel, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voete
+Small Blind: Voete, chips: 100
+Big Blind: Faneel, chips: 200
+Folds: Voete
+Pot size: 300
+Wins: Faneel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faneel
+Small Blind: Faneel, chips: 100
+Big Blind: Voete, chips: 200
+Folds: Faneel
+Pot size: 300
+Wins: Voete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voete
+Small Blind: Voete, chips: 100
+Big Blind: Faneel, chips: 200
+Folds: Voete
+Pot size: 300
+Boasts: Faneel, Ad 2h
+Wins: Faneel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faneel
+Small Blind: Faneel, chips: 100
+Big Blind: Voete, chips: 200
+Calls: Faneel
+DEBUG MESSAGE: INVALID ACTION FROM Voete (2 0)
+Folds: Voete
+Pot size: 400
+Boasts: Faneel, Qd Kh
+Wins: Faneel, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voete
+Small Blind: Voete, chips: 100
+Big Blind: Faneel, chips: 200
+Folds: Voete
+Pot size: 300
+Boasts: Faneel, Jh Kh
+Wins: Faneel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faneel
+Small Blind: Faneel, chips: 100
+Big Blind: Voete, chips: 200
+Calls: Faneel
+DEBUG MESSAGE: INVALID ACTION FROM Voete (2 0)
+Folds: Voete
+Pot size: 400
+Wins: Faneel, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voete
+Small Blind: Voete, chips: 100
+Big Blind: Faneel, chips: 200
+Flop: 7d 8d 3c
+Turn: 2h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Voete, Ah 9h
+Combination: Voete, Pair ( Ah Ac 9h 8d 7d )
+Shows: Faneel, 4s Js
+Combination: Faneel, High Card ( Ac Js 8d 7d 4s )
+Wins: Voete, chips: 200
+Wins: Faneel, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faneel
+Small Blind: Faneel, chips: 100
+Big Blind: Voete, chips: 200
+Flop: Td Jc 8h
+Turn: Ad
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Voete, 9h 8s
+Combination: Voete, Straight ( Jc Td 9h 8s 7s )
+Shows: Faneel, Kd Js
+Combination: Faneel, Pair ( Js Jc Ad Kd Td )
+Wins: Voete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voete
+Small Blind: Voete, chips: 100
+Big Blind: Faneel, chips: 200
+Folds: Voete
+Pot size: 300
+Boasts: Faneel, 8c 5d
+Wins: Faneel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faneel
+Small Blind: Faneel, chips: 100
+Big Blind: Voete, chips: 200
+Flop: 9c 2c 8s
+Turn: 8h
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Voete, Kc 3s
+Combination: Voete, Pair ( 8s 8h Kc 9c 5s )
+Shows: Faneel, Th Ts
+Combination: Faneel, Two Pair ( Th Ts 8s 8h 9c )
+Wins: Voete, chips: 100
+Wins: Faneel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voete
+Small Blind: Voete, chips: 100
+Big Blind: Faneel, chips: 200
+Flop: 7h Kc Js
+Turn: Jd
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Voete, Jh As
+Combination: Voete, Full House ( Jh Js Jd As Ad )
+Shows: Faneel, 9d Qc
+Combination: Faneel, Pair ( Js Jd Ad Kc Qc )
+Wins: Voete, chips: 200
+Wins: Faneel, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faneel
+Small Blind: Faneel, chips: 100
+Big Blind: Voete, chips: 200
+Flop: 3h Qs 8d
+Turn: 5s
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Voete, 4s Ad
+Combination: Voete, High Card ( Ad Qs Td 8d 5s )
+Shows: Faneel, Jd Th
+Combination: Faneel, Pair ( Th Td Qs Jd 8d )
+Wins: Voete, chips: 100
+Wins: Faneel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voete
+Small Blind: Voete, chips: 100
+Big Blind: Faneel, chips: 200
+Flop: 3d 9d Ac
+Turn: 4h
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Voete, 8h 3s
+Combination: Voete, Pair ( 3s 3d Ac Kc 9d )
+Shows: Faneel, Th 4d
+Combination: Faneel, Pair ( 4d 4h Ac Kc Th )
+Wins: Faneel, chips: 300
+Quits: Voete, chips: 0
+Ranking: Faneel, Place: 1, Score: 1000
+Reveal AI: Faneel, AI: Random
+Ranking: Voete, Place: 2, Score: -1000
+Reveal AI: Voete, AI: AIMyBot1
+
+Player Stats for Faneel, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 5, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Voete, AI: AIMyBot1
+General: deals: 15, actions: 8, preflop actions: 8
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Date: 2022/10/25 13:45:40
+
+The game begins. The AI's of the players are: 
+Voete: AIMyBot1
+Faneel: Random
+
+Joins: Voete, chips: 1000
+Joins: Faneel, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voete
+Small Blind: Voete, chips: 100
+Big Blind: Faneel, chips: 200
+Folds: Voete
+Pot size: 300
+Wins: Faneel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faneel
+Small Blind: Faneel, chips: 100
+Big Blind: Voete, chips: 200
+Calls: Faneel
+DEBUG MESSAGE: INVALID ACTION FROM Voete (2 0)
+Folds: Voete
+Pot size: 400
+Wins: Faneel, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voete
+Small Blind: Voete, chips: 100
+Big Blind: Faneel, chips: 200
+Folds: Voete
+Pot size: 300
+Wins: Faneel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faneel
+Small Blind: Faneel, chips: 100
+Big Blind: Voete, chips: 200
+Folds: Faneel
+Pot size: 300
+Wins: Voete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voete
+Small Blind: Voete, chips: 100
+Big Blind: Faneel, chips: 200
+Folds: Voete
+Pot size: 300
+Boasts: Faneel, Ad 2h
+Wins: Faneel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faneel
+Small Blind: Faneel, chips: 100
+Big Blind: Voete, chips: 200
+Calls: Faneel
+DEBUG MESSAGE: INVALID ACTION FROM Voete (2 0)
+Folds: Voete
+Pot size: 400
+Boasts: Faneel, Qd Kh
+Wins: Faneel, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voete
+Small Blind: Voete, chips: 100
+Big Blind: Faneel, chips: 200
+Folds: Voete
+Pot size: 300
+Boasts: Faneel, Jh Kh
+Wins: Faneel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faneel
+Small Blind: Faneel, chips: 100
+Big Blind: Voete, chips: 200
+Calls: Faneel
+DEBUG MESSAGE: INVALID ACTION FROM Voete (2 0)
+Folds: Voete
+Pot size: 400
+Wins: Faneel, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voete
+Small Blind: Voete, chips: 100
+Big Blind: Faneel, chips: 200
+Flop: 7d 8d 3c
+Turn: 2h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Voete, Ah 9h
+Combination: Voete, Pair ( Ah Ac 9h 8d 7d )
+Shows: Faneel, 4s Js
+Combination: Faneel, High Card ( Ac Js 8d 7d 4s )
+Wins: Voete, chips: 200
+Wins: Faneel, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faneel
+Small Blind: Faneel, chips: 100
+Big Blind: Voete, chips: 200
+Flop: Td Jc 8h
+Turn: Ad
+River: 7s
+Pot size: 300
+Showdown Reached
+Shows: Voete, 9h 8s
+Combination: Voete, Straight ( Jc Td 9h 8s 7s )
+Shows: Faneel, Kd Js
+Combination: Faneel, Pair ( Js Jc Ad Kd Td )
+Wins: Voete, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voete
+Small Blind: Voete, chips: 100
+Big Blind: Faneel, chips: 200
+Folds: Voete
+Pot size: 300
+Boasts: Faneel, 8c 5d
+Wins: Faneel, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faneel
+Small Blind: Faneel, chips: 100
+Big Blind: Voete, chips: 200
+Flop: 9c 2c 8s
+Turn: 8h
+River: 5s
+Pot size: 300
+Showdown Reached
+Shows: Voete, Kc 3s
+Combination: Voete, Pair ( 8s 8h Kc 9c 5s )
+Shows: Faneel, Th Ts
+Combination: Faneel, Two Pair ( Th Ts 8s 8h 9c )
+Wins: Voete, chips: 100
+Wins: Faneel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voete
+Small Blind: Voete, chips: 100
+Big Blind: Faneel, chips: 200
+Flop: 7h Kc Js
+Turn: Jd
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Voete, Jh As
+Combination: Voete, Full House ( Jh Js Jd As Ad )
+Shows: Faneel, 9d Qc
+Combination: Faneel, Pair ( Js Jd Ad Kc Qc )
+Wins: Voete, chips: 200
+Wins: Faneel, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Faneel
+Small Blind: Faneel, chips: 100
+Big Blind: Voete, chips: 200
+Flop: 3h Qs 8d
+Turn: 5s
+River: Td
+Pot size: 300
+Showdown Reached
+Shows: Voete, 4s Ad
+Combination: Voete, High Card ( Ad Qs Td 8d 5s )
+Shows: Faneel, Jd Th
+Combination: Faneel, Pair ( Th Td Qs Jd 8d )
+Wins: Voete, chips: 100
+Wins: Faneel, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Voete
+Small Blind: Voete, chips: 100
+Big Blind: Faneel, chips: 200
+Flop: 3d 9d Ac
+Turn: 4h
+River: Kc
+Pot size: 300
+Showdown Reached
+Shows: Voete, 8h 3s
+Combination: Voete, Pair ( 3s 3d Ac Kc 9d )
+Shows: Faneel, Th 4d
+Combination: Faneel, Pair ( 4d 4h Ac Kc Th )
+Wins: Faneel, chips: 300
+Quits: Voete, chips: 0
+Ranking: Faneel, Place: 1, Score: 1000
+Reveal AI: Faneel, AI: Random
+Ranking: Voete, Place: 2, Score: -1000
+Reveal AI: Voete, AI: AIMyBot1
+
+Player Stats for Faneel, AI: Random
+General: deals: 15, actions: 4, preflop actions: 4
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 13, showdown: 5, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+
+Player Stats for Voete, AI: AIMyBot1
+General: deals: 15, actions: 8, preflop actions: 8
+Rounds Seen: flops: 6, turns: 6, rivers: 6, showdowns: 6
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.833333
+
+

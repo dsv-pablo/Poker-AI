@@ -1,0 +1,344 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Fovoer: AIMyBot1
+De: Random
+
+Joins: Fovoer, chips: 1000
+Joins: De, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fovoer
+Small Blind: Fovoer, chips: 100
+Big Blind: De, chips: 200
+Folds: Fovoer
+Pot size: 300
+Boasts: De, Kh Qc
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Fovoer, chips: 200
+Raises: De, chips: 300
+Folds: Fovoer
+Pot size: 700
+Boasts: De, 5h 5d
+Wins: De, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fovoer
+Small Blind: Fovoer, chips: 100
+Big Blind: De, chips: 200
+Folds: Fovoer
+Pot size: 300
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Fovoer, chips: 200
+Calls: De
+DEBUG MESSAGE: INVALID ACTION FROM Fovoer (2 0)
+Folds: Fovoer
+Pot size: 400
+Wins: De, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fovoer
+Small Blind: Fovoer, chips: 100
+Big Blind: De, chips: 200
+Folds: Fovoer
+Pot size: 300
+Boasts: De, Tc 4c
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Fovoer, chips: 200
+Calls: De
+DEBUG MESSAGE: INVALID ACTION FROM Fovoer (2 0)
+Folds: Fovoer
+Pot size: 400
+Boasts: De, 5c 5h
+Wins: De, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fovoer
+Small Blind: Fovoer, chips: 100
+Big Blind: De, chips: 200
+Flop: 4d Ac Kh
+Turn: 7d
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Fovoer, 4c 9c
+Combination: Fovoer, Pair ( 4c 4d Ac Kh 9c )
+Shows: De, 2h Qc
+Combination: De, High Card ( Ac Kh Qc 7d 4d )
+Wins: Fovoer, chips: 200
+Wins: De, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Fovoer, chips: 200
+Flop: Jd 3d Td
+Turn: Kd
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Fovoer, 9c 9d
+Combination: Fovoer, Flush ( Kd Jd Td 9d 3d )
+Shows: De, Tc 4s
+Combination: De, Two Pair ( Tc Td 3d 3s Kd )
+Wins: Fovoer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fovoer
+Small Blind: Fovoer, chips: 100
+Big Blind: De, chips: 200
+Folds: Fovoer
+Pot size: 300
+Boasts: De, 2s 8h
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Fovoer, chips: 200
+Flop: 6h 4h 5h
+Turn: Tc
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Fovoer, 2s Td
+Combination: Fovoer, Pair ( Td Tc Qs 6h 5h )
+Shows: De, 4d 7h
+Combination: De, Pair ( 4d 4h Qs Tc 7h )
+Wins: Fovoer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fovoer
+Small Blind: Fovoer, chips: 100
+Big Blind: De, chips: 200
+Folds: Fovoer
+Pot size: 300
+Boasts: De, Qd Kc
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Fovoer, chips: 200
+Flop: Jd Ks 8c
+Turn: 7h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Fovoer, Th 5c
+Combination: Fovoer, High Card ( Ac Ks Jd Th 8c )
+Shows: De, As Qs
+Combination: De, Pair ( As Ac Ks Qs Jd )
+Wins: Fovoer, chips: 100
+Wins: De, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fovoer
+Small Blind: Fovoer, chips: 100
+Big Blind: De, chips: 200
+Flop: 2c 9d Jh
+Turn: 3c
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Fovoer, 2s Ad
+Combination: Fovoer, Pair ( 2s 2c Ad Jh 9d )
+Shows: De, Kh 9c
+Combination: De, Pair ( 9c 9d Kh Jh 6h )
+Wins: De, chips: 300
+Quits: Fovoer, chips: 0
+Ranking: De, Place: 1, Score: 1000
+Reveal AI: De, AI: Random
+Ranking: Fovoer, Place: 2, Score: -1000
+Reveal AI: Fovoer, AI: AIMyBot1
+
+Player Stats for De, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+
+Player Stats for Fovoer, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+
+Date: 2022/10/25 13:46:14
+
+The game begins. The AI's of the players are: 
+Fovoer: AIMyBot1
+De: Random
+
+Joins: Fovoer, chips: 1000
+Joins: De, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fovoer
+Small Blind: Fovoer, chips: 100
+Big Blind: De, chips: 200
+Folds: Fovoer
+Pot size: 300
+Boasts: De, Kh Qc
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Fovoer, chips: 200
+Raises: De, chips: 300
+Folds: Fovoer
+Pot size: 700
+Boasts: De, 5h 5d
+Wins: De, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fovoer
+Small Blind: Fovoer, chips: 100
+Big Blind: De, chips: 200
+Folds: Fovoer
+Pot size: 300
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Fovoer, chips: 200
+Calls: De
+DEBUG MESSAGE: INVALID ACTION FROM Fovoer (2 0)
+Folds: Fovoer
+Pot size: 400
+Wins: De, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fovoer
+Small Blind: Fovoer, chips: 100
+Big Blind: De, chips: 200
+Folds: Fovoer
+Pot size: 300
+Boasts: De, Tc 4c
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Fovoer, chips: 200
+Calls: De
+DEBUG MESSAGE: INVALID ACTION FROM Fovoer (2 0)
+Folds: Fovoer
+Pot size: 400
+Boasts: De, 5c 5h
+Wins: De, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fovoer
+Small Blind: Fovoer, chips: 100
+Big Blind: De, chips: 200
+Flop: 4d Ac Kh
+Turn: 7d
+River: 3c
+Pot size: 300
+Showdown Reached
+Shows: Fovoer, 4c 9c
+Combination: Fovoer, Pair ( 4c 4d Ac Kh 9c )
+Shows: De, 2h Qc
+Combination: De, High Card ( Ac Kh Qc 7d 4d )
+Wins: Fovoer, chips: 200
+Wins: De, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Fovoer, chips: 200
+Flop: Jd 3d Td
+Turn: Kd
+River: 3s
+Pot size: 300
+Showdown Reached
+Shows: Fovoer, 9c 9d
+Combination: Fovoer, Flush ( Kd Jd Td 9d 3d )
+Shows: De, Tc 4s
+Combination: De, Two Pair ( Tc Td 3d 3s Kd )
+Wins: Fovoer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fovoer
+Small Blind: Fovoer, chips: 100
+Big Blind: De, chips: 200
+Folds: Fovoer
+Pot size: 300
+Boasts: De, 2s 8h
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Fovoer, chips: 200
+Flop: 6h 4h 5h
+Turn: Tc
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Fovoer, 2s Td
+Combination: Fovoer, Pair ( Td Tc Qs 6h 5h )
+Shows: De, 4d 7h
+Combination: De, Pair ( 4d 4h Qs Tc 7h )
+Wins: Fovoer, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fovoer
+Small Blind: Fovoer, chips: 100
+Big Blind: De, chips: 200
+Folds: Fovoer
+Pot size: 300
+Boasts: De, Qd Kc
+Wins: De, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: De
+Small Blind: De, chips: 100
+Big Blind: Fovoer, chips: 200
+Flop: Jd Ks 8c
+Turn: 7h
+River: Ac
+Pot size: 300
+Showdown Reached
+Shows: Fovoer, Th 5c
+Combination: Fovoer, High Card ( Ac Ks Jd Th 8c )
+Shows: De, As Qs
+Combination: De, Pair ( As Ac Ks Qs Jd )
+Wins: Fovoer, chips: 100
+Wins: De, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Fovoer
+Small Blind: Fovoer, chips: 100
+Big Blind: De, chips: 200
+Flop: 2c 9d Jh
+Turn: 3c
+River: 6h
+Pot size: 300
+Showdown Reached
+Shows: Fovoer, 2s Ad
+Combination: Fovoer, Pair ( 2s 2c Ad Jh 9d )
+Shows: De, Kh 9c
+Combination: De, Pair ( 9c 9d Kh Jh 6h )
+Wins: De, chips: 300
+Quits: Fovoer, chips: 0
+Ranking: De, Place: 1, Score: 1000
+Reveal AI: De, AI: Random
+Ranking: Fovoer, Place: 2, Score: -1000
+Reveal AI: Fovoer, AI: AIMyBot1
+
+Player Stats for De, AI: Random
+General: deals: 13, actions: 3, preflop actions: 3
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 11, showdown: 3, bluff: 8
+Chips: won: 3600, lost: 2600, bought: 1000, forced bets: 2000
+Pre-Flop Stats: VP$IP: 0.230769, PFR: 0.0769231, 3Bet: 0.0769231
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.6
+
+
+Player Stats for Fovoer, AI: AIMyBot1
+General: deals: 13, actions: 8, preflop actions: 8
+Rounds Seen: flops: 5, turns: 5, rivers: 5, showdowns: 5
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 900, lost: 1900, bought: 1000, forced bets: 1900
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.8
+
+

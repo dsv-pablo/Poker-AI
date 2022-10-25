@@ -1,0 +1,268 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Vee: Random
+Wisee: AIMyBot1
+
+Joins: Vee, chips: 1000
+Joins: Wisee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Wisee, chips: 200
+Folds: Vee
+Pot size: 300
+Wins: Wisee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wisee
+Small Blind: Wisee, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Wisee
+Pot size: 300
+Boasts: Vee, Kh 9s
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Wisee, chips: 200
+Calls: Vee
+DEBUG MESSAGE: INVALID ACTION FROM Wisee (2 0)
+Folds: Wisee
+Pot size: 400
+Wins: Vee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wisee
+Small Blind: Wisee, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Wisee
+Pot size: 300
+Boasts: Vee, Js Jd
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Wisee, chips: 200
+Raises: Vee, chips: 300
+Folds: Wisee
+Pot size: 700
+Wins: Vee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wisee
+Small Blind: Wisee, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Wisee
+Pot size: 300
+Boasts: Vee, 2s 6h
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Wisee, chips: 200
+Calls: Vee
+DEBUG MESSAGE: INVALID ACTION FROM Wisee (2 0)
+Folds: Wisee
+Pot size: 400
+Boasts: Vee, 4h Qd
+Wins: Vee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wisee
+Small Blind: Wisee, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Wisee
+Pot size: 300
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Wisee, chips: 100
+Flop: Kc 2c Js
+Turn: 4d
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Vee, Ks 3h
+Combination: Vee, Pair ( Ks Kc Js 7d 4d )
+Shows: Wisee, 7h 4c
+Combination: Wisee, Two Pair ( 7h 7d 4c 4d Kc )
+Wins: Wisee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wisee
+Small Blind: Wisee, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Wisee
+Pot size: 300
+Boasts: Vee, 9h 5c
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Wisee, chips: 100
+Flop: Qc 4c Td
+Turn: 3d
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Vee, 6s Ts
+Combination: Vee, Pair ( Ts Td Qc Jh 6s )
+Shows: Wisee, 4h 5h
+Combination: Wisee, Pair ( 4h 4c Qc Jh Td )
+Wins: Vee, chips: 200
+Quits: Wisee, chips: 0
+Ranking: Vee, Place: 1, Score: 1000
+Reveal AI: Vee, AI: Random
+Ranking: Wisee, Place: 2, Score: -1000
+Reveal AI: Wisee, AI: AIMyBot1
+
+Player Stats for Vee, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Wisee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:04
+
+The game begins. The AI's of the players are: 
+Vee: Random
+Wisee: AIMyBot1
+
+Joins: Vee, chips: 1000
+Joins: Wisee, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Wisee, chips: 200
+Folds: Vee
+Pot size: 300
+Wins: Wisee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wisee
+Small Blind: Wisee, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Wisee
+Pot size: 300
+Boasts: Vee, Kh 9s
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Wisee, chips: 200
+Calls: Vee
+DEBUG MESSAGE: INVALID ACTION FROM Wisee (2 0)
+Folds: Wisee
+Pot size: 400
+Wins: Vee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wisee
+Small Blind: Wisee, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Wisee
+Pot size: 300
+Boasts: Vee, Js Jd
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Wisee, chips: 200
+Raises: Vee, chips: 300
+Folds: Wisee
+Pot size: 700
+Wins: Vee, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wisee
+Small Blind: Wisee, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Wisee
+Pot size: 300
+Boasts: Vee, 2s 6h
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Wisee, chips: 200
+Calls: Vee
+DEBUG MESSAGE: INVALID ACTION FROM Wisee (2 0)
+Folds: Wisee
+Pot size: 400
+Boasts: Vee, 4h Qd
+Wins: Vee, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wisee
+Small Blind: Wisee, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Wisee
+Pot size: 300
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Wisee, chips: 100
+Flop: Kc 2c Js
+Turn: 4d
+River: 7d
+Pot size: 200
+Showdown Reached
+Shows: Vee, Ks 3h
+Combination: Vee, Pair ( Ks Kc Js 7d 4d )
+Shows: Wisee, 7h 4c
+Combination: Wisee, Two Pair ( 7h 7d 4c 4d Kc )
+Wins: Wisee, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Wisee
+Small Blind: Wisee, chips: 100
+Big Blind: Vee, chips: 200
+Folds: Wisee
+Pot size: 300
+Boasts: Vee, 9h 5c
+Wins: Vee, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Vee
+Small Blind: Vee, chips: 100
+Big Blind: Wisee, chips: 100
+Flop: Qc 4c Td
+Turn: 3d
+River: Jh
+Pot size: 200
+Showdown Reached
+Shows: Vee, 6s Ts
+Combination: Vee, Pair ( Ts Td Qc Jh 6s )
+Shows: Wisee, 4h 5h
+Combination: Wisee, Pair ( 4h 4c Qc Jh Td )
+Wins: Vee, chips: 200
+Quits: Wisee, chips: 0
+Ranking: Vee, Place: 1, Score: 1000
+Reveal AI: Vee, AI: Random
+Ranking: Wisee, Place: 2, Score: -1000
+Reveal AI: Wisee, AI: AIMyBot1
+
+Player Stats for Vee, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3200, lost: 2200, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Wisee, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+

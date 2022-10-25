@@ -1,0 +1,370 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Dadutry: Random
+Woekuv: AIMyBot1
+
+Joins: Dadutry, chips: 1000
+Joins: Woekuv, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Folds: Woekuv
+Pot size: 300
+Wins: Dadutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadutry
+Small Blind: Dadutry, chips: 100
+Big Blind: Woekuv, chips: 200
+Folds: Dadutry
+Pot size: 300
+Boasts: Dadutry, Kd Jh
+Wins: Woekuv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Folds: Woekuv
+Pot size: 300
+Wins: Dadutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadutry
+Small Blind: Dadutry, chips: 100
+Big Blind: Woekuv, chips: 200
+Folds: Dadutry
+Pot size: 300
+Wins: Woekuv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Folds: Woekuv
+Pot size: 300
+Wins: Dadutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadutry
+Small Blind: Dadutry, chips: 100
+Big Blind: Woekuv, chips: 200
+Folds: Dadutry
+Pot size: 300
+Boasts: Dadutry, Kd 9d
+Wins: Woekuv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Folds: Woekuv
+Pot size: 300
+Wins: Dadutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadutry
+Small Blind: Dadutry, chips: 100
+Big Blind: Woekuv, chips: 200
+Folds: Dadutry
+Pot size: 300
+Boasts: Dadutry, 2h 3s
+Wins: Woekuv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Folds: Woekuv
+Pot size: 300
+Wins: Dadutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadutry
+Small Blind: Dadutry, chips: 100
+Big Blind: Woekuv, chips: 200
+Calls: Dadutry
+DEBUG MESSAGE: INVALID ACTION FROM Woekuv (2 0)
+Folds: Woekuv
+Pot size: 400
+Boasts: Dadutry, 3h 5c
+Wins: Dadutry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Folds: Woekuv
+Pot size: 300
+Wins: Dadutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadutry
+Small Blind: Dadutry, chips: 100
+Big Blind: Woekuv, chips: 200
+Calls: Dadutry
+DEBUG MESSAGE: INVALID ACTION FROM Woekuv (2 0)
+Folds: Woekuv
+Pot size: 400
+Wins: Dadutry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Folds: Woekuv
+Pot size: 300
+Wins: Dadutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadutry
+Small Blind: Dadutry, chips: 100
+Big Blind: Woekuv, chips: 200
+Calls: Dadutry
+DEBUG MESSAGE: INVALID ACTION FROM Woekuv (2 0)
+Folds: Woekuv
+Pot size: 400
+Wins: Dadutry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Flop: 3c 7d Tc
+Turn: 4d
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Dadutry, Ad As
+Combination: Dadutry, Two Pair ( Ad As 4d 4c Tc )
+Shows: Woekuv, 2s 4h
+Combination: Woekuv, Three Of A Kind ( 4h 4d 4c Tc 7d )
+Wins: Dadutry, chips: 100
+Wins: Woekuv, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadutry
+Small Blind: Dadutry, chips: 100
+Big Blind: Woekuv, chips: 200
+Flop: 7c Js Qc
+Turn: Ah
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Dadutry, Qs 4s
+Combination: Dadutry, Two Pair ( Ah Ad Qs Qc Js )
+Shows: Woekuv, 2d 6d
+Combination: Woekuv, Pair ( Ah Ad Qc Js 7c )
+Wins: Dadutry, chips: 200
+Wins: Woekuv, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Flop: 4s Qs 2h
+Turn: 7d
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Dadutry, Ah 6d
+Combination: Dadutry, High Card ( Ah Qs 8d 7d 6d )
+Shows: Woekuv, 5d Js
+Combination: Woekuv, High Card ( Qs Js 8d 7d 5d )
+Wins: Dadutry, chips: 300
+Quits: Woekuv, chips: 0
+Ranking: Dadutry, Place: 1, Score: 1000
+Reveal AI: Dadutry, AI: Random
+Ranking: Woekuv, Place: 2, Score: -1000
+Reveal AI: Woekuv, AI: AIMyBot1
+
+Player Stats for Dadutry, AI: Random
+General: deals: 17, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 13, showdown: 3, bluff: 10
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Woekuv, AI: AIMyBot1
+General: deals: 17, actions: 10, preflop actions: 10
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 6, showdown: 2, bluff: 4
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+
+Date: 2022/10/25 13:45:50
+
+The game begins. The AI's of the players are: 
+Dadutry: Random
+Woekuv: AIMyBot1
+
+Joins: Dadutry, chips: 1000
+Joins: Woekuv, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Folds: Woekuv
+Pot size: 300
+Wins: Dadutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadutry
+Small Blind: Dadutry, chips: 100
+Big Blind: Woekuv, chips: 200
+Folds: Dadutry
+Pot size: 300
+Boasts: Dadutry, Kd Jh
+Wins: Woekuv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Folds: Woekuv
+Pot size: 300
+Wins: Dadutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadutry
+Small Blind: Dadutry, chips: 100
+Big Blind: Woekuv, chips: 200
+Folds: Dadutry
+Pot size: 300
+Wins: Woekuv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Folds: Woekuv
+Pot size: 300
+Wins: Dadutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadutry
+Small Blind: Dadutry, chips: 100
+Big Blind: Woekuv, chips: 200
+Folds: Dadutry
+Pot size: 300
+Boasts: Dadutry, Kd 9d
+Wins: Woekuv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Folds: Woekuv
+Pot size: 300
+Wins: Dadutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadutry
+Small Blind: Dadutry, chips: 100
+Big Blind: Woekuv, chips: 200
+Folds: Dadutry
+Pot size: 300
+Boasts: Dadutry, 2h 3s
+Wins: Woekuv, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Folds: Woekuv
+Pot size: 300
+Wins: Dadutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadutry
+Small Blind: Dadutry, chips: 100
+Big Blind: Woekuv, chips: 200
+Calls: Dadutry
+DEBUG MESSAGE: INVALID ACTION FROM Woekuv (2 0)
+Folds: Woekuv
+Pot size: 400
+Boasts: Dadutry, 3h 5c
+Wins: Dadutry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Folds: Woekuv
+Pot size: 300
+Wins: Dadutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadutry
+Small Blind: Dadutry, chips: 100
+Big Blind: Woekuv, chips: 200
+Calls: Dadutry
+DEBUG MESSAGE: INVALID ACTION FROM Woekuv (2 0)
+Folds: Woekuv
+Pot size: 400
+Wins: Dadutry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Folds: Woekuv
+Pot size: 300
+Wins: Dadutry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadutry
+Small Blind: Dadutry, chips: 100
+Big Blind: Woekuv, chips: 200
+Calls: Dadutry
+DEBUG MESSAGE: INVALID ACTION FROM Woekuv (2 0)
+Folds: Woekuv
+Pot size: 400
+Wins: Dadutry, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Flop: 3c 7d Tc
+Turn: 4d
+River: 4c
+Pot size: 300
+Showdown Reached
+Shows: Dadutry, Ad As
+Combination: Dadutry, Two Pair ( Ad As 4d 4c Tc )
+Shows: Woekuv, 2s 4h
+Combination: Woekuv, Three Of A Kind ( 4h 4d 4c Tc 7d )
+Wins: Dadutry, chips: 100
+Wins: Woekuv, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Dadutry
+Small Blind: Dadutry, chips: 100
+Big Blind: Woekuv, chips: 200
+Flop: 7c Js Qc
+Turn: Ah
+River: Ad
+Pot size: 300
+Showdown Reached
+Shows: Dadutry, Qs 4s
+Combination: Dadutry, Two Pair ( Ah Ad Qs Qc Js )
+Shows: Woekuv, 2d 6d
+Combination: Woekuv, Pair ( Ah Ad Qc Js 7c )
+Wins: Dadutry, chips: 200
+Wins: Woekuv, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Woekuv
+Small Blind: Woekuv, chips: 100
+Big Blind: Dadutry, chips: 200
+Flop: 4s Qs 2h
+Turn: 7d
+River: 8d
+Pot size: 300
+Showdown Reached
+Shows: Dadutry, Ah 6d
+Combination: Dadutry, High Card ( Ah Qs 8d 7d 6d )
+Shows: Woekuv, 5d Js
+Combination: Woekuv, High Card ( Qs Js 8d 7d 5d )
+Wins: Dadutry, chips: 300
+Quits: Woekuv, chips: 0
+Ranking: Dadutry, Place: 1, Score: 1000
+Reveal AI: Dadutry, AI: Random
+Ranking: Woekuv, Place: 2, Score: -1000
+Reveal AI: Woekuv, AI: AIMyBot1
+
+Player Stats for Dadutry, AI: Random
+General: deals: 17, actions: 7, preflop actions: 7
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 13, showdown: 3, bluff: 10
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2600
+Pre-Flop Stats: VP$IP: 0.176471, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Player Stats for Woekuv, AI: AIMyBot1
+General: deals: 17, actions: 10, preflop actions: 10
+Rounds Seen: flops: 3, turns: 3, rivers: 3, showdowns: 3
+Wins: total: 6, showdown: 2, bluff: 4
+Chips: won: 1500, lost: 2500, bought: 1000, forced bets: 2500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.666667
+
+

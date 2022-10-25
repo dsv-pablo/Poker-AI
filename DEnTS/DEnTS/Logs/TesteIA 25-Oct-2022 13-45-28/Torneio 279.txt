@@ -1,0 +1,310 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Lidone: Random
+Chibev: AIMyBot1
+
+Joins: Lidone, chips: 1000
+Joins: Chibev, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chibev
+Small Blind: Chibev, chips: 100
+Big Blind: Lidone, chips: 200
+Folds: Chibev
+Pot size: 300
+Boasts: Lidone, Js 9h
+Wins: Lidone, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lidone
+Small Blind: Lidone, chips: 100
+Big Blind: Chibev, chips: 200
+Folds: Lidone
+Pot size: 300
+Wins: Chibev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chibev
+Small Blind: Chibev, chips: 100
+Big Blind: Lidone, chips: 200
+Folds: Chibev
+Pot size: 300
+Wins: Lidone, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lidone
+Small Blind: Lidone, chips: 100
+Big Blind: Chibev, chips: 200
+Calls: Lidone
+DEBUG MESSAGE: INVALID ACTION FROM Chibev (2 0)
+Folds: Chibev
+Pot size: 400
+Boasts: Lidone, 5h 4d
+Wins: Lidone, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chibev
+Small Blind: Chibev, chips: 100
+Big Blind: Lidone, chips: 200
+Folds: Chibev
+Pot size: 300
+Wins: Lidone, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lidone
+Small Blind: Lidone, chips: 100
+Big Blind: Chibev, chips: 200
+Folds: Lidone
+Pot size: 300
+Wins: Chibev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chibev
+Small Blind: Chibev, chips: 100
+Big Blind: Lidone, chips: 200
+Folds: Chibev
+Pot size: 300
+Wins: Lidone, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lidone
+Small Blind: Lidone, chips: 100
+Big Blind: Chibev, chips: 200
+Folds: Lidone
+Pot size: 300
+Wins: Chibev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chibev
+Small Blind: Chibev, chips: 100
+Big Blind: Lidone, chips: 200
+Folds: Chibev
+Pot size: 300
+Wins: Lidone, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lidone
+Small Blind: Lidone, chips: 100
+Big Blind: Chibev, chips: 200
+Calls: Lidone
+DEBUG MESSAGE: INVALID ACTION FROM Chibev (2 0)
+Folds: Chibev
+Pot size: 400
+Wins: Lidone, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chibev
+Small Blind: Chibev, chips: 100
+Big Blind: Lidone, chips: 200
+Folds: Chibev
+Pot size: 300
+Boasts: Lidone, Qc 5s
+Wins: Lidone, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lidone
+Small Blind: Lidone, chips: 100
+Big Blind: Chibev, chips: 200
+Folds: Lidone
+Pot size: 300
+Boasts: Lidone, 3h 5d
+Wins: Chibev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chibev
+Small Blind: Chibev, chips: 100
+Big Blind: Lidone, chips: 200
+Folds: Chibev
+Pot size: 300
+Boasts: Lidone, Qd Kh
+Wins: Lidone, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lidone
+Small Blind: Lidone, chips: 100
+Big Blind: Chibev, chips: 200
+Raises: Lidone, chips: 300
+Folds: Chibev
+Pot size: 700
+Wins: Lidone, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chibev
+Small Blind: Chibev, chips: 100
+Big Blind: Lidone, chips: 200
+Flop: Ts 7s 3c
+Turn: 3d
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Lidone, 2h Kh
+Combination: Lidone, Pair ( 3c 3d Kh Qs Ts )
+Shows: Chibev, 6h 8s
+Combination: Chibev, Pair ( 3c 3d Qs Ts 8s )
+Wins: Lidone, chips: 300
+Quits: Chibev, chips: 0
+Ranking: Lidone, Place: 1, Score: 1000
+Reveal AI: Lidone, AI: Random
+Ranking: Chibev, Place: 2, Score: -1000
+Reveal AI: Chibev, AI: AIMyBot1
+
+Player Stats for Chibev, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Lidone, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:47
+
+The game begins. The AI's of the players are: 
+Lidone: Random
+Chibev: AIMyBot1
+
+Joins: Lidone, chips: 1000
+Joins: Chibev, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chibev
+Small Blind: Chibev, chips: 100
+Big Blind: Lidone, chips: 200
+Folds: Chibev
+Pot size: 300
+Boasts: Lidone, Js 9h
+Wins: Lidone, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lidone
+Small Blind: Lidone, chips: 100
+Big Blind: Chibev, chips: 200
+Folds: Lidone
+Pot size: 300
+Wins: Chibev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chibev
+Small Blind: Chibev, chips: 100
+Big Blind: Lidone, chips: 200
+Folds: Chibev
+Pot size: 300
+Wins: Lidone, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lidone
+Small Blind: Lidone, chips: 100
+Big Blind: Chibev, chips: 200
+Calls: Lidone
+DEBUG MESSAGE: INVALID ACTION FROM Chibev (2 0)
+Folds: Chibev
+Pot size: 400
+Boasts: Lidone, 5h 4d
+Wins: Lidone, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chibev
+Small Blind: Chibev, chips: 100
+Big Blind: Lidone, chips: 200
+Folds: Chibev
+Pot size: 300
+Wins: Lidone, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lidone
+Small Blind: Lidone, chips: 100
+Big Blind: Chibev, chips: 200
+Folds: Lidone
+Pot size: 300
+Wins: Chibev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chibev
+Small Blind: Chibev, chips: 100
+Big Blind: Lidone, chips: 200
+Folds: Chibev
+Pot size: 300
+Wins: Lidone, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lidone
+Small Blind: Lidone, chips: 100
+Big Blind: Chibev, chips: 200
+Folds: Lidone
+Pot size: 300
+Wins: Chibev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chibev
+Small Blind: Chibev, chips: 100
+Big Blind: Lidone, chips: 200
+Folds: Chibev
+Pot size: 300
+Wins: Lidone, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lidone
+Small Blind: Lidone, chips: 100
+Big Blind: Chibev, chips: 200
+Calls: Lidone
+DEBUG MESSAGE: INVALID ACTION FROM Chibev (2 0)
+Folds: Chibev
+Pot size: 400
+Wins: Lidone, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chibev
+Small Blind: Chibev, chips: 100
+Big Blind: Lidone, chips: 200
+Folds: Chibev
+Pot size: 300
+Boasts: Lidone, Qc 5s
+Wins: Lidone, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lidone
+Small Blind: Lidone, chips: 100
+Big Blind: Chibev, chips: 200
+Folds: Lidone
+Pot size: 300
+Boasts: Lidone, 3h 5d
+Wins: Chibev, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chibev
+Small Blind: Chibev, chips: 100
+Big Blind: Lidone, chips: 200
+Folds: Chibev
+Pot size: 300
+Boasts: Lidone, Qd Kh
+Wins: Lidone, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Lidone
+Small Blind: Lidone, chips: 100
+Big Blind: Chibev, chips: 200
+Raises: Lidone, chips: 300
+Folds: Chibev
+Pot size: 700
+Wins: Lidone, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Chibev
+Small Blind: Chibev, chips: 100
+Big Blind: Lidone, chips: 200
+Flop: Ts 7s 3c
+Turn: 3d
+River: Qs
+Pot size: 300
+Showdown Reached
+Shows: Lidone, 2h Kh
+Combination: Lidone, Pair ( 3c 3d Kh Qs Ts )
+Shows: Chibev, 6h 8s
+Combination: Chibev, Pair ( 3c 3d Qs Ts 8s )
+Wins: Lidone, chips: 300
+Quits: Chibev, chips: 0
+Ranking: Lidone, Place: 1, Score: 1000
+Reveal AI: Lidone, AI: Random
+Ranking: Chibev, Place: 2, Score: -1000
+Reveal AI: Chibev, AI: AIMyBot1
+
+Player Stats for Chibev, AI: AIMyBot1
+General: deals: 15, actions: 10, preflop actions: 10
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 4, showdown: 0, bluff: 4
+Chips: won: 1200, lost: 2200, bought: 1000, forced bets: 2200
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Lidone, AI: Random
+General: deals: 15, actions: 7, preflop actions: 7
+Rounds Seen: flops: 1, turns: 1, rivers: 1, showdowns: 1
+Wins: total: 11, showdown: 1, bluff: 10
+Chips: won: 3900, lost: 2900, bought: 1000, forced bets: 2300
+Pre-Flop Stats: VP$IP: 0.2, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

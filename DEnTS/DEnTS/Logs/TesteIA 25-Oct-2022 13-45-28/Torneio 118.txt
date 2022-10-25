@@ -1,0 +1,250 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Riboeboe: Random
+Reetteehuk: AIMyBot1
+
+Joins: Riboeboe, chips: 1000
+Joins: Reetteehuk, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riboeboe
+Small Blind: Riboeboe, chips: 100
+Big Blind: Reetteehuk, chips: 200
+Folds: Riboeboe
+Pot size: 300
+Wins: Reetteehuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reetteehuk
+Small Blind: Reetteehuk, chips: 100
+Big Blind: Riboeboe, chips: 200
+Folds: Reetteehuk
+Pot size: 300
+Wins: Riboeboe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riboeboe
+Small Blind: Riboeboe, chips: 100
+Big Blind: Reetteehuk, chips: 200
+Raises: Riboeboe, chips: 300
+Folds: Reetteehuk
+Pot size: 700
+Wins: Riboeboe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reetteehuk
+Small Blind: Reetteehuk, chips: 100
+Big Blind: Riboeboe, chips: 200
+Folds: Reetteehuk
+Pot size: 300
+Wins: Riboeboe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riboeboe
+Small Blind: Riboeboe, chips: 100
+Big Blind: Reetteehuk, chips: 200
+Calls: Riboeboe
+DEBUG MESSAGE: INVALID ACTION FROM Reetteehuk (2 0)
+Folds: Reetteehuk
+Pot size: 400
+Boasts: Riboeboe, 9d 9h
+Wins: Riboeboe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reetteehuk
+Small Blind: Reetteehuk, chips: 100
+Big Blind: Riboeboe, chips: 200
+Folds: Reetteehuk
+Pot size: 300
+Wins: Riboeboe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riboeboe
+Small Blind: Riboeboe, chips: 100
+Big Blind: Reetteehuk, chips: 200
+Calls: Riboeboe
+DEBUG MESSAGE: INVALID ACTION FROM Reetteehuk (2 0)
+Folds: Reetteehuk
+Pot size: 400
+Boasts: Riboeboe, 4s 3c
+Wins: Riboeboe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reetteehuk
+Small Blind: Reetteehuk, chips: 100
+Big Blind: Riboeboe, chips: 200
+Folds: Reetteehuk
+Pot size: 300
+Wins: Riboeboe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riboeboe
+Small Blind: Riboeboe, chips: 100
+Big Blind: Reetteehuk, chips: 100
+Flop: As Jh 8d
+Turn: Th
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Riboeboe, 5s 9d
+Combination: Riboeboe, Pair ( As Ad Jh Th 9d )
+Shows: Reetteehuk, 9s 3h
+Combination: Reetteehuk, Pair ( As Ad Jh Th 9s )
+Wins: Riboeboe, chips: 100
+Wins: Reetteehuk, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reetteehuk
+Small Blind: Reetteehuk, chips: 100
+Big Blind: Riboeboe, chips: 200
+Flop: Js Kc Ac
+Turn: Qc
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Riboeboe, Jd 6s
+Combination: Riboeboe, Pair ( Jd Js Ac Kc Qc )
+Shows: Reetteehuk, 7d 8d
+Combination: Reetteehuk, High Card ( Ac Kc Qc Js 8d )
+Wins: Riboeboe, chips: 300
+Quits: Reetteehuk, chips: 0
+Ranking: Riboeboe, Place: 1, Score: 1000
+Reveal AI: Riboeboe, AI: Random
+Ranking: Reetteehuk, Place: 2, Score: -1000
+Reveal AI: Reetteehuk, AI: AIMyBot1
+
+Player Stats for Reetteehuk, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Riboeboe, AI: Random
+General: deals: 10, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 2, bluff: 7
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.1, 3Bet: 0.1
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+
+Date: 2022/10/25 13:45:37
+
+The game begins. The AI's of the players are: 
+Riboeboe: Random
+Reetteehuk: AIMyBot1
+
+Joins: Riboeboe, chips: 1000
+Joins: Reetteehuk, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riboeboe
+Small Blind: Riboeboe, chips: 100
+Big Blind: Reetteehuk, chips: 200
+Folds: Riboeboe
+Pot size: 300
+Wins: Reetteehuk, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reetteehuk
+Small Blind: Reetteehuk, chips: 100
+Big Blind: Riboeboe, chips: 200
+Folds: Reetteehuk
+Pot size: 300
+Wins: Riboeboe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riboeboe
+Small Blind: Riboeboe, chips: 100
+Big Blind: Reetteehuk, chips: 200
+Raises: Riboeboe, chips: 300
+Folds: Reetteehuk
+Pot size: 700
+Wins: Riboeboe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reetteehuk
+Small Blind: Reetteehuk, chips: 100
+Big Blind: Riboeboe, chips: 200
+Folds: Reetteehuk
+Pot size: 300
+Wins: Riboeboe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riboeboe
+Small Blind: Riboeboe, chips: 100
+Big Blind: Reetteehuk, chips: 200
+Calls: Riboeboe
+DEBUG MESSAGE: INVALID ACTION FROM Reetteehuk (2 0)
+Folds: Reetteehuk
+Pot size: 400
+Boasts: Riboeboe, 9d 9h
+Wins: Riboeboe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reetteehuk
+Small Blind: Reetteehuk, chips: 100
+Big Blind: Riboeboe, chips: 200
+Folds: Reetteehuk
+Pot size: 300
+Wins: Riboeboe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riboeboe
+Small Blind: Riboeboe, chips: 100
+Big Blind: Reetteehuk, chips: 200
+Calls: Riboeboe
+DEBUG MESSAGE: INVALID ACTION FROM Reetteehuk (2 0)
+Folds: Reetteehuk
+Pot size: 400
+Boasts: Riboeboe, 4s 3c
+Wins: Riboeboe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reetteehuk
+Small Blind: Reetteehuk, chips: 100
+Big Blind: Riboeboe, chips: 200
+Folds: Reetteehuk
+Pot size: 300
+Wins: Riboeboe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Riboeboe
+Small Blind: Riboeboe, chips: 100
+Big Blind: Reetteehuk, chips: 100
+Flop: As Jh 8d
+Turn: Th
+River: Ad
+Pot size: 200
+Showdown Reached
+Shows: Riboeboe, 5s 9d
+Combination: Riboeboe, Pair ( As Ad Jh Th 9d )
+Shows: Reetteehuk, 9s 3h
+Combination: Reetteehuk, Pair ( As Ad Jh Th 9s )
+Wins: Riboeboe, chips: 100
+Wins: Reetteehuk, chips: 100
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Reetteehuk
+Small Blind: Reetteehuk, chips: 100
+Big Blind: Riboeboe, chips: 200
+Flop: Js Kc Ac
+Turn: Qc
+River: 2c
+Pot size: 300
+Showdown Reached
+Shows: Riboeboe, Jd 6s
+Combination: Riboeboe, Pair ( Jd Js Ac Kc Qc )
+Shows: Reetteehuk, 7d 8d
+Combination: Reetteehuk, High Card ( Ac Kc Qc Js 8d )
+Wins: Riboeboe, chips: 300
+Quits: Reetteehuk, chips: 0
+Ranking: Riboeboe, Place: 1, Score: 1000
+Reveal AI: Riboeboe, AI: Random
+Ranking: Reetteehuk, Place: 2, Score: -1000
+Reveal AI: Reetteehuk, AI: AIMyBot1
+
+Player Stats for Reetteehuk, AI: AIMyBot1
+General: deals: 10, actions: 7, preflop actions: 7
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 400, lost: 1400, bought: 1000, forced bets: 1400
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Riboeboe, AI: Random
+General: deals: 10, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 2, bluff: 7
+Chips: won: 3100, lost: 2100, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.1, 3Bet: 0.1
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 1
+
+

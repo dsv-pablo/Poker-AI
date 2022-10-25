@@ -1,0 +1,260 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Hutetry: AIMyBot1
+Roeloe: Random
+
+Joins: Hutetry, chips: 1000
+Joins: Roeloe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeloe
+Small Blind: Roeloe, chips: 100
+Big Blind: Hutetry, chips: 200
+Folds: Roeloe
+Pot size: 300
+Wins: Hutetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hutetry
+Small Blind: Hutetry, chips: 100
+Big Blind: Roeloe, chips: 200
+Folds: Hutetry
+Pot size: 300
+Wins: Roeloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeloe
+Small Blind: Roeloe, chips: 100
+Big Blind: Hutetry, chips: 200
+Raises: Roeloe, chips: 300
+Folds: Hutetry
+Pot size: 700
+Wins: Roeloe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hutetry
+Small Blind: Hutetry, chips: 100
+Big Blind: Roeloe, chips: 200
+Folds: Hutetry
+Pot size: 300
+Boasts: Roeloe, 5s Ks
+Wins: Roeloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeloe
+Small Blind: Roeloe, chips: 100
+Big Blind: Hutetry, chips: 200
+Raises: Roeloe, chips: 300
+Folds: Hutetry
+Pot size: 700
+Wins: Roeloe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hutetry
+Small Blind: Hutetry, chips: 100
+Big Blind: Roeloe, chips: 200
+Folds: Hutetry
+Pot size: 300
+Wins: Roeloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeloe
+Small Blind: Roeloe, chips: 100
+Big Blind: Hutetry, chips: 200
+Calls: Roeloe
+DEBUG MESSAGE: INVALID ACTION FROM Hutetry (2 0)
+Folds: Hutetry
+Pot size: 400
+Boasts: Roeloe, Qh 7h
+Wins: Roeloe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hutetry
+Small Blind: Hutetry, chips: 100
+Big Blind: Roeloe, chips: 200
+Folds: Hutetry
+Pot size: 300
+Wins: Roeloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeloe
+Small Blind: Roeloe, chips: 100
+Big Blind: Hutetry, chips: 100
+Flop: Ts 9h 4d
+Turn: 6c
+River: 6s
+Pot size: 200
+Showdown Reached
+Shows: Hutetry, 6h 6d
+Combination: Hutetry, Four Of A Kind ( 6h 6d 6c 6s Ts )
+Shows: Roeloe, Th Jh
+Combination: Roeloe, Two Pair ( Th Ts 6c 6s Jh )
+Wins: Hutetry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hutetry
+Small Blind: Hutetry, chips: 100
+Big Blind: Roeloe, chips: 200
+Folds: Hutetry
+Pot size: 300
+Wins: Roeloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeloe
+Small Blind: Roeloe, chips: 100
+Big Blind: Hutetry, chips: 100
+Flop: Ad 6c Ah
+Turn: Jc
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Hutetry, 7d 3c
+Combination: Hutetry, Pair ( Ad Ah Jc 8s 7d )
+Shows: Roeloe, 6s 2h
+Combination: Roeloe, Two Pair ( Ad Ah 6s 6c Jc )
+Wins: Roeloe, chips: 200
+Quits: Hutetry, chips: 0
+Ranking: Roeloe, Place: 1, Score: 1000
+Reveal AI: Roeloe, AI: Random
+Ranking: Hutetry, Place: 2, Score: -1000
+Reveal AI: Hutetry, AI: AIMyBot1
+
+Player Stats for Hutetry, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Roeloe, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Date: 2022/10/25 13:46:25
+
+The game begins. The AI's of the players are: 
+Hutetry: AIMyBot1
+Roeloe: Random
+
+Joins: Hutetry, chips: 1000
+Joins: Roeloe, chips: 1000
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeloe
+Small Blind: Roeloe, chips: 100
+Big Blind: Hutetry, chips: 200
+Folds: Roeloe
+Pot size: 300
+Wins: Hutetry, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hutetry
+Small Blind: Hutetry, chips: 100
+Big Blind: Roeloe, chips: 200
+Folds: Hutetry
+Pot size: 300
+Wins: Roeloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeloe
+Small Blind: Roeloe, chips: 100
+Big Blind: Hutetry, chips: 200
+Raises: Roeloe, chips: 300
+Folds: Hutetry
+Pot size: 700
+Wins: Roeloe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hutetry
+Small Blind: Hutetry, chips: 100
+Big Blind: Roeloe, chips: 200
+Folds: Hutetry
+Pot size: 300
+Boasts: Roeloe, 5s Ks
+Wins: Roeloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeloe
+Small Blind: Roeloe, chips: 100
+Big Blind: Hutetry, chips: 200
+Raises: Roeloe, chips: 300
+Folds: Hutetry
+Pot size: 700
+Wins: Roeloe, chips: 700
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hutetry
+Small Blind: Hutetry, chips: 100
+Big Blind: Roeloe, chips: 200
+Folds: Hutetry
+Pot size: 300
+Wins: Roeloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeloe
+Small Blind: Roeloe, chips: 100
+Big Blind: Hutetry, chips: 200
+Calls: Roeloe
+DEBUG MESSAGE: INVALID ACTION FROM Hutetry (2 0)
+Folds: Hutetry
+Pot size: 400
+Boasts: Roeloe, Qh 7h
+Wins: Roeloe, chips: 400
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hutetry
+Small Blind: Hutetry, chips: 100
+Big Blind: Roeloe, chips: 200
+Folds: Hutetry
+Pot size: 300
+Wins: Roeloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeloe
+Small Blind: Roeloe, chips: 100
+Big Blind: Hutetry, chips: 100
+Flop: Ts 9h 4d
+Turn: 6c
+River: 6s
+Pot size: 200
+Showdown Reached
+Shows: Hutetry, 6h 6d
+Combination: Hutetry, Four Of A Kind ( 6h 6d 6c 6s Ts )
+Shows: Roeloe, Th Jh
+Combination: Roeloe, Two Pair ( Th Ts 6c 6s Jh )
+Wins: Hutetry, chips: 200
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Hutetry
+Small Blind: Hutetry, chips: 100
+Big Blind: Roeloe, chips: 200
+Folds: Hutetry
+Pot size: 300
+Wins: Roeloe, chips: 300
+New deal. SB: 100 BB: 200 Ante: 0
+Dealer: Roeloe
+Small Blind: Roeloe, chips: 100
+Big Blind: Hutetry, chips: 100
+Flop: Ad 6c Ah
+Turn: Jc
+River: 8s
+Pot size: 200
+Showdown Reached
+Shows: Hutetry, 7d 3c
+Combination: Hutetry, Pair ( Ad Ah Jc 8s 7d )
+Shows: Roeloe, 6s 2h
+Combination: Roeloe, Two Pair ( Ad Ah 6s 6c Jc )
+Wins: Roeloe, chips: 200
+Quits: Hutetry, chips: 0
+Ranking: Roeloe, Place: 1, Score: 1000
+Reveal AI: Roeloe, AI: Random
+Ranking: Hutetry, Place: 2, Score: -1000
+Reveal AI: Hutetry, AI: AIMyBot1
+
+Player Stats for Hutetry, AI: AIMyBot1
+General: deals: 11, actions: 8, preflop actions: 8
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 500, lost: 1500, bought: 1000, forced bets: 1500
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
+Player Stats for Roeloe, AI: Random
+General: deals: 11, actions: 4, preflop actions: 4
+Rounds Seen: flops: 2, turns: 2, rivers: 2, showdowns: 2
+Wins: total: 9, showdown: 1, bluff: 8
+Chips: won: 3500, lost: 2500, bought: 1000, forced bets: 1600
+Pre-Flop Stats: VP$IP: 0.272727, PFR: 0.181818, 3Bet: 0.181818
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.5
+
+
