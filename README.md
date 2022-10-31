@@ -3,7 +3,7 @@ Este repositório tem por objetivo dar instruções sobre o funcionamento da com
 
 ### :clubs: Estrutura da Competição
 
-A competição é baseada na contrução de IA's capazes de jogar torneios de poker em uma mesa virtual. Cadastro de participantes e envio de arquivos será utilizada a Pataforma NIAS-IA -> (). Para auxilío na construção das IA's e também para a simulação dos torneios será utilizado o ambiente virtual DEnTS, nele os participantes poderão , por meio dos logs gerados nas simulações, gerar bancos de dados para treinamento de suas respectivas IA's.
+A competição é baseada na contrução de IA's capazes de jogar torneios de poker em uma mesa virtual. Cadastro de participantes e envio de arquivos será utilizada a Pataforma NIAS-IA -> nias-ia-competition-1e820.firebaseapp.com. Para auxilío na construção das IA's e também para a simulação dos torneios será utilizado o ambiente virtual DEnTS, nele os participantes poderão , por meio dos logs gerados nas simulações, gerar bancos de dados para treinamento de suas respectivas IA's.
 
 ### :clubs: Desenvolvendo Sua IA
 
